@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T14:51:41.349399+00:00'
+updated: '2026-01-15T15:27:51.009214+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 14:51 UTC  
+**Last Updated:** January 15, 2026 at 15:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 1d ago
 
 ---
 
@@ -49,15 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 16h ago
-
----
-
-**[Gemini is winning](https://www.reddit.com/r/artificial/comments/1qd4mhv/gemini_is_winning/)**
-
-Could Siri be the last piece of the puzzle?
-
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 17h ago
 
 ---
 
@@ -69,11 +61,35 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 ---
 
+**[McKinsey challenges graduates to master AI tools as it shifts hiring hunt toward liberal arts majors](https://www.reddit.com/r/artificial/comments/1qdlp58/mckinsey_challenges_graduates_to_master_ai_tools/)**
+
+CEO Bob Sternfels says the company has 60,000 employees—including 20,000 AI agents.
+
+🔗 [Fortune](https://fortune.com/2026/01/14/how-to-get-hired-at-mckinsey-ai-tools-liberal-arts-creativity/) • 30m ago
+
+---
+
+**[Gemini is winning](https://www.reddit.com/r/artificial/comments/1qd4mhv/gemini_is_winning/)**
+
+Could Siri be the last piece of the puzzle?
+
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 14h ago
+
+---
+
+**[The rise of "Green AI" in 2026: Can we actually decouple AI growth from environmental damage?](https://www.reddit.com/r/artificial/comments/1qdm7np/the_rise_of_green_ai_in_2026_can_we_actually/)**
+
+We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
+
+11m ago
+
+---
+
 **[Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)](https://www.reddit.com/r/artificial/comments/1qdbld2/zhipu_ai_breaks_us_chip_reliance_with_first_major/)**
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 8h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 9h ago
 
 ---
 
@@ -89,7 +105,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-9h ago
+10h ago
 
 ---
 
@@ -97,23 +113,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-14h ago
-
----
-
-**[Gemini can now scan your photos, email, and more to provide better answers | The feature will start with paid users only, and it’s off by default.](https://www.reddit.com/r/artificial/comments/1qcwigc/gemini_can_now_scan_your_photos_email_and_more_to/)**
-
-The feature will start with paid users only, and it's off by default.
-
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 19h ago
-
----
-
-**[Building Opensource client sided Code Intelligence Engine -- Potentially deeper than Deep wiki :-) ( Need suggestions and feedback )](https://www.reddit.com/r/artificial/comments/1qd4p8h/building_opensource_client_sided_code/)**
-
-Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
-
-14h ago
+15h ago
 
 ---
 
@@ -125,15 +125,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
 
-blog.google • 22h ago
-
----
-
-**[Sadiq Khan to urge ministers to act over ‘colossal’ impact of AI on London jobs](https://www.theguardian.com/politics/2026/jan/15/sadiq-khan-to-urge-ministers-to-act-over-colossal-impact-of-ai-on-london-jobs)**
-
-In Mansion House speech, mayor will talk of opportunities technology offers but highlight mass unemployment risk
-
-The Guardian • 3h ago
+blog.google • 23h ago
 
 ---
 
@@ -141,7 +133,7 @@ The Guardian • 3h ago
 
 It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  Shares in key supplier ASML Holding NV rose 7.6% to a record in Europe, sending its market value beyond $500 billion.  The outlook from TSMC — a bellwether for the artificial intelligence boom — reflects a development frenzy by the likes of Meta Platforms Inc. and Amazon.com Inc. that’s spurred demand for Nvidia Corp. accelerators.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 36m ago
 
 ---
 
@@ -153,37 +145,9 @@ CNBC • 9h ago
 
 ---
 
-**[TSMC posts another record quarter as AI demand holds steady](https://qz.com/tsmc-record-earnings-q4-2025)**
+**[US Stocks Rally as TSMC Earnings Renew Faith in AI Trade](https://www.bloomberg.com/news/articles/2026-01-15/us-stocks-rally-as-tsmc-earnings-renew-faith-in-ai-trade)**
 
-qz.com • 44m ago
-
----
-
-**[BlackRock, Microsoft AI Partnership Raises $12.5 Billion So Far](https://www.bloomberg.com/news/articles/2026-01-15/blackrock-microsoft-ai-partnership-raises-12-5-billion-so-far)**
-
-BlackRock Inc. has raised $12.5 billion as part of a partnership with Microsoft Corp. to bankroll data centers and energy infrastructure, advancing its efforts to cash in on the artificial intelligence boom.
-
-Bloomberg.com • 1h ago
-
----
-
-**[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
-
-The Economist • 59m ago
-
----
-
-**[This $22 AI Stock Could Be Your Ticket to Millionaire Status](https://www.fool.com/investing/2026/01/15/this-22-ai-stock-could-be-your-ticket-to-millionai/)**
-
-Zeta Global could shed its mid-cap status en route to becoming a new artificial intelligence darling.
-
-The Motley Fool • 1h ago
-
----
-
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
-
-The New York Times • 4h ago
+Bloomberg.com • 25m ago
 
 ---
 
@@ -195,13 +159,51 @@ NPR • 1d ago
 
 ---
 
+**[Learners and educators are AI’s new “super users”](https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/)**
+
+Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.
+
+blog.google • 4h ago
+
+---
+
+**[Teachers decry AI as brain-rotting junk food for kids: 'Students can't reason. They can't think. They can't solve problems](https://fortune.com/2026/01/15/ai-brainrot-students-brookings-study-cheating-high-school-fast-food/)**
+
+The findings come from a major, yearlong “premortem” conducted by the Brookings Institution’s Center for Universal Education.
+
+Fortune • 5h ago
+
+---
+
+**[‘It’s AI blackface’: social media account hailed as the Aboriginal Steve Irwin is an AI character created in New Zealand](https://www.theguardian.com/australia-news/2026/jan/15/aboriginal-steve-irwin-ai-character-created-new-zealand)**
+
+More than 180,000 people follow the Bush Legend’s accounts across Meta platforms, but its Aboriginal host is a work of digital fiction
+
+The Guardian • 1h ago
+
+---
+
+**[SAP transforms HR with AI that delivers](https://www.axios.com/sponsored/sap-transforms-hr-with-ai-that-delivers)**
+
+Axios • 26m ago
+
+---
+
+**[5 Amazing Dividend-Paying Artificial Intelligence (AI) Stocks With Huge Growth Potential](https://www.fool.com/investing/2026/01/15/dividend-pay-artificial-intelligence-stock-growth/)**
+
+Not only are these stocks benefiting from the AI boom ... they pay you to own them!
+
+The Motley Fool • 1h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 932 • 💬 712 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 935 • 💬 712 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -233,7 +235,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 239 • 💬 153 • 6h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 261 • 💬 183 • 7h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -241,7 +243,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 233 • 💬 162 • 17h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 237 • 💬 165 • 18h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -285,7 +287,7 @@ Is it possible to get consistent, Hollywood-level cinematography from AI video g
 
 📺 Theoretically Media
 
-👁️ 15K • 👍 1K • 💬 109 • ⏱️ 14:15 • 15h ago
+👁️ 15K • 👍 1K • 💬 109 • ⏱️ 14:15 • 16h ago
 
 ---
 
@@ -305,7 +307,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 56K • 👍 2K • 💬 331 • ⏱️ 19:03 • 22h ago
+👁️ 56K • 👍 2K • 💬 331 • ⏱️ 19:03 • 23h ago
 
 ---
 
@@ -325,7 +327,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 381K • 👍 33K • 💬 4K • ⏱️ 11:40 • 1d ago
+👁️ 381K • 👍 33K • 💬 4K • ⏱️ 11:40 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 643 • 4h ago
+⬇️ 2,442 • ❤️ 643 • 5h ago
 
 ---
 
@@ -415,7 +417,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,028 • 20h ago
+⬇️ 1,187,843 • ❤️ 1,028 • 21h ago
 
 ---
 
@@ -439,7 +441,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 269 • 18h ago
+⬇️ 41,095 • ❤️ 269 • 19h ago
 
 ---
 
@@ -451,7 +453,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 31,008 • ❤️ 246 • 5d ago
+⬇️ 31,008 • ❤️ 246 • 6d ago
 
 ---
 
@@ -463,7 +465,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 36,629 • ❤️ 225 • 5d ago
+⬇️ 36,629 • ❤️ 225 • 6d ago
 
 ---
 
@@ -499,7 +501,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 189 • 16h ago
+⬇️ 4,422 • ❤️ 189 • 17h ago
 
 ---
 
@@ -644,7 +646,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 1h ago
+⭐ 8.7k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -674,7 +676,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 87 • 10h ago
+⭐ 2.5k • 🔱 87 • 11h ago
 
 ---
 
@@ -684,7 +686,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 149 • 1h ago
+⭐ 2.4k • 🔱 149 • 2h ago
 
 ---
 
@@ -704,7 +706,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.8k • 🔱 1.5k • 1h ago
+⭐ 1.8k • 🔱 1.5k • 2h ago
 
 ---
 
@@ -714,7 +716,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 2h ago
+⭐ 1.6k • 🔱 133 • 3h ago
 
 ---
 

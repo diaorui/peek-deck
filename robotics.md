@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T14:51:41.367724+00:00'
+updated: '2026-01-15T15:27:51.027164+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 14:51 UTC  
+**Last Updated:** January 15, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,6 +34,14 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
+2h ago
+
+---
+
+**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
+
+We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
+
 1h ago
 
 ---
@@ -42,15 +50,7 @@ Robotics research and industry news
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 34m ago
-
----
-
-**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
-
-We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
-
-50m ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 1h ago
 
 ---
 
@@ -70,17 +70,33 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 ---
 
+**[Any good suggestions for learning STM32 programming](https://www.reddit.com/r/robotics/comments/1qdmcxw/any_good_suggestions_for_learning_stm32/)**
+
+Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
+
+5m ago
+
+---
+
+**[Looking for help with robot](https://www.reddit.com/r/robotics/comments/1qdm428/looking_for_help_with_robot/)**
+
+Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
+
+15m ago
+
+---
+
 **[cubemars actuators review: terrible](https://www.reddit.com/r/robotics/comments/1qd3wws/cubemars_actuators_review_terrible/)**
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-14h ago
+15h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -89,20 +105,6 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
 6h ago
-
----
-
-**[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
-
-1d ago
-
----
-
-**[Has anyone used the Arctos arm on a vertical plane?](https://www.reddit.com/r/robotics/comments/1qcykia/has_anyone_used_the_arctos_arm_on_a_vertical_plane/)**
-
-I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
-
-18h ago
 
 ---
 
@@ -118,7 +120,7 @@ Bloomberg.com • 1d ago
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 23h ago
+Business Wire • 1d ago
 
 ---
 
@@ -126,13 +128,13 @@ Business Wire • 23h ago
 
 Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 22h ago
+GeekWire • 23h ago
 
 ---
 
@@ -150,7 +152,7 @@ Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqftH-93c4fzCjJBgJDpuyhh_M8xLrYEpIHRgDR5GrDStOBYqMooqa7R&gaa_ts=6968fc89&gaa_sig=LheS9sm_Wyyv2tcSdRG_VZGjkdLlCFtDcTSmoe5VgaItaidFEY8LDiERsaMqq-EOVlN8czjuaU7IlMV623LmkQ%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdgOZ8grBTv87OMB6hl4l6m_TDUIeRNbxGnWeEHQp_oh32G73GFinPN&gaa_ts=69690ae2&gaa_sig=Aaa7WL8TrdR39n9r0ctxnJFpwPy2kZ0Y3VW17O160kQSRxfVha2U0rzV1O1f3Pi2aZOaXXhwC5StTHtFFjWWjA%3D%3D)**
 
 MarketWatch • 18h ago
 
@@ -164,11 +166,11 @@ Fortune • 2h ago
 
 ---
 
-**[Chinese firm builds world’s smallest humanoid robot designed to learn and evolve](https://interestingengineering.com/ai-robotics/china-worlds-smallest-humanoid-robot)**
+**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
 
-AgiBot subsidiary PrimeBot has built the world's smallest personal humanoid robot for embodied intelligence and daily life.
+The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-Interesting Engineering • 3d ago
+The Free Press • 1d ago
 
 ---
 
@@ -240,7 +242,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 95K • 👍 1K • 💬 171 • ⏱️ 10:48 • 4d ago
+👁️ 95K • 👍 1K • 💬 171 • ⏱️ 10:48 • 5d ago
 
 ---
 
@@ -260,7 +262,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 101K • 👍 5K • 💬 139 • ⏱️ 0:49 • 17h ago
+👁️ 101K • 👍 5K • 💬 139 • ⏱️ 0:49 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T14:51:41.364441+00:00'
+updated: '2026-01-15T15:27:51.023900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 14:51 UTC  
+**Last Updated:** January 15, 2026 at 15:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,358.97
+### $3,354.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +9.5%  
-**30d:** +19.4%  
-**90d:** -13.1%  
-**1y:** +2.1%  
+**24h:** -1.3%  
+**7d:** +8.0%  
+**30d:** +17.7%  
+**90d:** -14.3%  
+**1y:** +0.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
 
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 7h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Weekly Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard THE PRINCESTON DECENTER PROFESSOR'S ROUNDTABLE Carolyn Biltoft: https://www.graduateinstitute.ch/facu... Andrew Chignell: https://chignell.net/ Devin P. Singh: https://religion.dartmouth.edu/people... Gordon Grant: Principal at ChiSquared Technologies Mike Maizels: https://engineering.princeton.edu/sta... Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/jo... Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans the work of Immanuel Kant and other Enlightenment philosophers, philosophy of religion, epistemology and the ethics of belief, and topics in moral psychology like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 16h ago
+🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 17h ago
 
 ---
 
@@ -110,7 +110,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 16h ago
 
 ---
 
@@ -159,19 +159,27 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum to $40,000? Why one analyst expects the second-biggest crypto to outperform Bitcoin](https://www.dlnews.com/articles/markets/why-ethereum-will-outperform-bitcoin-by-2030-according-to-standard-chartered/)**
+
+Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
+
+dlnews.com • 2d ago
+
+---
+
 **[Ethereum Could Surge To $7,500 And Leave Bitcoin Behind, Banking Giant Says](https://www.tradingview.com/news/newsbtc:f38700ca3094b:0-ethereum-could-surge-to-7-500-and-leave-bitcoin-behind-banking-giant-says/)**
 
 Standard Chartered has pushed its base-case price target for Ethereum to $7,500 by the end of the year, a big jump from an earlier $4,000 projection.According to the bank’s digital assets team, growing demand from corporate treasury buyers and spot ETH products has driven the change in outlook.Bank…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
-**[Banking giant sets date when Ethereum will trade at $30,000](https://finbold.com/banking-giant-sets-date-when-ethereum-will-trade-at-30000/)**
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
 
-Standard Chartered has released a fresh bullish outlook on Ethereum (ETH), projecting that the cryptocurrency will climb sharply this decade.
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-Finbold • 21h ago
+dlnews.com • 5h ago
 
 ---
 
@@ -181,11 +189,11 @@ The Block • 1d ago
 
 ---
 
-**[Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://finance.yahoo.com/news/tom-lee-ethereum-supercycle-call-152502988.html)**
+**[Ethereum faces a dangerous 40-day deadlock after BitMine’s aggressive staking forces a historic liquidity squeeze](https://cryptoslate.com/ethereum-faces-a-dangerous-40-day-deadlock-after-bitmines-aggressive-staking-forced-a-historic-liquidity-squeeze/)**
 
-Ethereum (CRYPTO: ETH) enters 2026 under intense institutional spotlight, and Tom Lee believes a supercycle is unfolding. The Fundstrat co-founder and Bitmine chairman has made increasingly aggressive Ethereum price predictions, ranging from $7,000-$9,000 near-term to as high as $60,000 over the long haul. Lee’s firm recently added $88 million in ETH at roughly $3,200 per ... Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns
+Behind BitMine's $5 billion stake in Ethereum lies a complex interplay of liquidity, yield, and governance risks.
 
-Yahoo Finance • 1d ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -193,7 +201,23 @@ Yahoo Finance • 1d ago
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
+
+---
+
+**[BitMine’s Shareholder Vote Could Decide the Future of Ethereum Treasuries | US Crypto News](https://finance.yahoo.com/news/bitmine-shareholder-vote-could-decide-154944510.html)**
+
+What is the biggest crypto news today? BitMine vote and Senate crypto bill set stage for Ethereum surge amid tight supply.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
+
+Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
+
+dlnews.com • 2d ago
 
 ---
 
@@ -201,29 +225,7 @@ Seeking Alpha • 23h ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Trades 36% Off Highs but the Ascending Triangle Still Defines the Trend](https://www.investing.com/analysis/ethereum-trades-36-off-highs-but-the-ascending-triangle-still-defines-the-trend-200673178)**
-
-Market Analysis by  covering: Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 1d ago
-
----
-
-**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
-
-ETF Trends • 2d ago
-
----
-
-**[Ethereum price prediction: top reasons ETH is about to rocket higher](https://www.tradingview.com/news/invezz:80cafb9e3094b:0-ethereum-price-prediction-top-reasons-eth-is-about-to-rocket-higher/)**
-
-Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
-
-TradingView — Track All Markets • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -237,7 +239,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 397 • 👍 29 • 💬 73 • ⏱️ 6:39 • 4h ago
+👁️ 397 • 👍 29 • 💬 73 • ⏱️ 6:39 • 5h ago
 
 ---
 
@@ -247,7 +249,7 @@ BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 136 • ⏱️ 25:02 • 3h ago
+👁️ 3K • 👍 220 • 💬 136 • ⏱️ 25:02 • 4h ago
 
 ---
 
@@ -267,7 +269,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 139 • 👍 16 • 💬 1 • ⏱️ 5:18 • 4h ago
+👁️ 139 • 👍 16 • 💬 1 • ⏱️ 5:18 • 5h ago
 
 ---
 
@@ -277,7 +279,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 605 • 💬 27 • ⏱️ 17:37 • 1d ago
+👁️ 17K • 👍 605 • 💬 27 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -287,7 +289,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 172 • 💬 10 • ⏱️ 20:12 • 21h ago
+👁️ 5K • 👍 172 • 💬 10 • ⏱️ 20:12 • 22h ago
 
 ---
 

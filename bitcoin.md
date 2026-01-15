@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T14:51:41.358341+00:00'
+updated: '2026-01-15T15:27:51.017900+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 14:51 UTC  
+**Last Updated:** January 15, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,931.38
+### $96,114.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +7.3%  
-**30d:** +12.5%  
-**90d:** -9.2%  
-**1y:** -2.8%  
+**24h:** -1.2%  
+**7d:** +6.1%  
+**30d:** +11.3%  
+**90d:** -10.2%  
+**1y:** -3.8%  
 
 ---
 
@@ -77,23 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
-
-11h ago
-
----
-
 **[my parents bank has paid them basically nothing for 30 years and they never questioned it once](https://www.reddit.com/r/Bitcoin/comments/1qdi4pr/my_parents_bank_has_paid_them_basically_nothing/)**
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-2h ago
-
----
-
-**[The man. The myth. The legend.](https://www.reddit.com/r/Bitcoin/comments/1qdk5rp/the_man_the_myth_the_legend/)**
-
-55m ago
+3h ago
 
 ---
 
@@ -105,6 +93,12 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
+**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
+
+12h ago
+
+---
+
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
 1d ago
@@ -113,7 +107,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -127,13 +121,21 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-20h ago
+21h ago
+
+---
+
+**[On-Chain Data for the Last 12 Hours (69 blocks) Speaks Volumes](https://www.reddit.com/r/Bitcoin/comments/1qdb5jm/onchain_data_for_the_last_12_hours_69_blocks/)**
+
+The data for the last 12 hours (69 blocks) speaks volumes right now. PnL is the realized change in price for all combined UTXOs (almost half a million of them) from when they last moved. The 90-1y groups have been really active in the consolidation from the 80's the last couple months, but they all just went incredibly silent. 4yr+ group is also seeing almost no volume right now. Structurally, the on chain data is signaling this is a really strong move. Curious to see if this continues tomorrow.
+
+9h ago
 
 ---
 
@@ -147,37 +149,47 @@ my hands are made of diamonds and there is goop inside of my skull
 
 ## Google News: "bitcoin"
 
-**[Bitcoin long-term holders cashing out less aggressively than in 2025 as prices hit the sell zone](https://www.coindesk.com/markets/2026/01/15/long-term-bitcoin-holders-sell-less-than-in-2025-in-a-bullish-sign-for-prices)**
+**[Bitcoin (BTC) price climbs past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
 
-Bitcoin has returned to a price zone that previously blocked gains, but long-term holders are now taking profits more slowly than in 2025.
+The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
-
-U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
-
-Yahoo Finance • 1d ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
+**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
 
-The Block • 8h ago
+The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
----
-
-**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
-
-Bloomberg.com • 18h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Senate Crypto Bill Hits a Snag as Coinbase Pulls Support. Why Bitcoin Is Still Up.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqfvKARHHs4Lg-3s7X7yENezeeltSOpFDNzf6WJfENWYvUXgA-DVumZj&gaa_ts=6968fc85&gaa_sig=oFmZ5Tzhd7Lnyzfe-yAKdm6hkL4MEUGgaPcmfPz67R5Yrhd86sUctIeubdULS3-hPOWM_bhWJX54M83IkvFYpA%3D%3D)**
+**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-Barron's • 3h ago
+The Block • 15h ago
+
+---
+
+**[TD Cowen cuts MSTR price target to $440 as bitcoin (BTC) yield outlook slips](https://www.coindesk.com/markets/2026/01/15/td-cowen-cuts-its-price-target-for-strategy-to-usd440-as-bitcoin-yield-outlook-slips)**
+
+Strategy remains an effective proxy for bitcoin exposure, particularly for investors with a long-term view, analyst Lance Vitanza said.
+
+CoinDesk • 10m ago
+
+---
+
+**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield)**
+
+TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
+
+Decrypt • 12h ago
+
+---
+
+**[Senate Crypto Bill Hits a Snag as Coinbase Pulls Support. Why Bitcoin Is Still Up.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdQckwhB22sbYAymGhJ7PYJO2dlxYAj2t3VqXGt0XqRGFobRUDCUAc1&gaa_ts=69690adf&gaa_sig=k1vOV72IpWs9azL6mWpvfGqULCuxlmrRZ-2Bb2Emgg22Npq3spx7m6l8ozQWRJGdRUNMeh_Hbm2Qttgab0K3fg%3D%3D)**
+
+Barron's • 4h ago
 
 ---
 
@@ -189,19 +201,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Dogecoin Gets Bitcoin Status In Senate Bill—DOGE, SHIB Rally 5%](https://www.benzinga.com/crypto/cryptocurrency/26/01/49894404/dogecoin-gets-bitcoin-status-in-senate-bill-doge-shib-rally-5)**
+**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Dogecoin (CRYPTO: DOGE) and Shiba Inu
-
-Benzinga • 1d ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.nasdaq.com/articles/how-much-will-1-bitcoin-be-worth-2026)**
-
-Key PointsInstitutional buying could continue to drive Bitcoin upwards.
-
-Nasdaq • 4h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -213,11 +215,11 @@ grist.org • 21h ago
 
 ---
 
-**[Bitcoin closes in on $100,000 in surprise surge](https://fortune.com/2026/01/14/bitcoin-closes-in-on-100000-in-surprise-surge/)**
+**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
 
-The original cryptocurrency is soaring after ending 2025 in a slump.
+U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
 
-Fortune • 16h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 6K • 👍 571 • 💬 50 • ⏱️ 18:21 • 3h ago
+👁️ 6K • 👍 571 • 💬 50 • ⏱️ 18:21 • 4h ago
 
 ---
 
@@ -311,7 +313,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 16K • 👍 1K • 💬 324 • ⏱️ 26:45 • 12h ago
+👁️ 16K • 👍 1K • 💬 324 • ⏱️ 26:45 • 13h ago
 
 ---
 
@@ -331,7 +333,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 140 • ⏱️ 24:06 • 15h ago
+👁️ 30K • 👍 3K • 💬 140 • ⏱️ 24:06 • 16h ago
 
 ---
 
@@ -341,7 +343,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 565 • 💬 32 • ⏱️ 10:08 • 9h ago
+👁️ 9K • 👍 565 • 💬 32 • ⏱️ 10:08 • 10h ago
 
 ---
 
@@ -351,7 +353,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 1K • 💬 117 • ⏱️ 9:34 • 21h ago
+👁️ 18K • 👍 1K • 💬 117 • ⏱️ 9:34 • 22h ago
 
 ---
 
@@ -361,7 +363,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 925 • 💬 157 • ⏱️ 6:42 • 19h ago
+👁️ 17K • 👍 925 • 💬 157 • ⏱️ 6:42 • 20h ago
 
 ---
 
@@ -371,7 +373,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 18K • 👍 1K • 💬 182 • ⏱️ 17:03 • 18h ago
+👁️ 18K • 👍 1K • 💬 182 • ⏱️ 17:03 • 19h ago
 
 ---
 
@@ -381,7 +383,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 122 • 💬 36 • ⏱️ 7:57 • 9h ago
+👁️ 2K • 👍 122 • 💬 36 • ⏱️ 7:57 • 10h ago
 
 ---
 
