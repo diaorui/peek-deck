@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T14:26:37.220222+00:00'
+updated: '2026-01-15T14:51:41.349399+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 14:26 UTC  
+**Last Updated:** January 15, 2026 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 13h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-42m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ blog.google • 22h ago
 
 In Mansion House speech, mayor will talk of opportunities technology offers but highlight mass unemployment risk
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -149,13 +149,13 @@ Yahoo Finance • 6h ago
 
 TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[TSMC posts another record quarter as AI demand holds steady](https://qz.com/tsmc-record-earnings-q4-2025)**
 
-qz.com • 19m ago
+qz.com • 44m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1h ago
 
 **[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
 
-The Economist • 34m ago
+The Economist • 59m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Economist • 34m ago
 
 Zeta Global could shed its mid-cap status en route to becoming a new artificial intelligence darling.
 
-The Motley Fool • 48m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -315,7 +315,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 98K • 👍 7K • 💬 372 • ⏱️ 10:04 • 17h ago
+👁️ 98K • 👍 7K • 💬 372 • ⏱️ 10:04 • 18h ago
 
 ---
 
@@ -335,7 +335,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 121K • 👍 7K • 💬 497 • ⏱️ 26:29 • 20h ago
+👁️ 121K • 👍 7K • 💬 497 • ⏱️ 26:29 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 15K • 👍 484 • 💬 33 • ⏱️ 9:11 • 10h ago
+👁️ 15K • 👍 484 • 💬 33 • ⏱️ 9:11 • 11h ago
 
 ---
 
@@ -375,7 +375,7 @@ Dad Builds Amazing Dream Home Surprise for Cute Baby ✨ #ai #cutebaby #kindness
 
 📺 ETC BackLol Facts
 
-👁️ 173K • 💬 1 • ⏱️ 0:23 • 55m ago
+👁️ 173K • 💬 1 • ⏱️ 0:23 • 1h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.8k • 🔱 1.5k • 58m ago
+⭐ 1.8k • 🔱 1.5k • 1h ago
 
 ---
 

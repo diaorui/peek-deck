@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T14:26:37.228152+00:00'
+updated: '2026-01-15T14:51:41.358341+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 14:26 UTC  
+**Last Updated:** January 15, 2026 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 **[The man. The myth. The legend.](https://www.reddit.com/r/Bitcoin/comments/1qdk5rp/the_man_the_myth_the_legend/)**
 
-30m ago
+55m ago
 
 ---
 
@@ -101,7 +101,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -165,13 +165,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ Benzinga • 1d ago
 
 Key PointsInstitutional buying could continue to drive Bitcoin upwards.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Nasdaq • 3h ago
 
 Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
 
-grist.org • 20h ago
+grist.org • 21h ago
 
 ---
 
@@ -217,7 +217,7 @@ grist.org • 20h ago
 
 The original cryptocurrency is soaring after ending 2025 in a slump.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 302 • 💬 108 • ⏱️ 8:24 • 9h ago
+👁️ 5K • 👍 302 • 💬 108 • ⏱️ 8:24 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 590 • 💬 41 • ⏱️ 11:54 • 6h ago
+👁️ 10K • 👍 590 • 💬 41 • ⏱️ 11:54 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T14:26:37.233926+00:00'
+updated: '2026-01-15T14:51:41.364441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 14:26 UTC  
+**Last Updated:** January 15, 2026 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 10h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ TradingView — Track All Markets • 8h ago
 
 Standard Chartered has released a fresh bullish outlook on Ethereum (ETH), projecting that the cryptocurrency will climb sharply this decade.
 
-Finbold • 20h ago
+Finbold • 21h ago
 
 ---
 
@@ -257,7 +257,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 232 • 💬 62 • ⏱️ 11:22 • 13h ago
+👁️ 4K • 👍 232 • 💬 62 • ⏱️ 11:22 • 14h ago
 
 ---
 
@@ -297,7 +297,7 @@ Brian from Santiment joined me to review the crypto metrics for Bitcoin, Ethereu
 
 📺 Thinking Crypto
 
-👁️ 745 • 👍 118 • 💬 31 • ⏱️ 33:50 • 1h ago
+👁️ 745 • 👍 118 • 💬 31 • ⏱️ 33:50 • 2h ago
 
 ---
 
@@ -307,7 +307,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 7 • ⏱️ 4:34 • 11h ago
+👁️ 2K • 👍 162 • 💬 7 • ⏱️ 4:34 • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 71 • 💬 30 • ⏱️ 36:50 • 18h ago
+👁️ 1K • 👍 71 • 💬 30 • ⏱️ 36:50 • 19h ago
 
 ---
 
@@ -327,7 +327,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 23h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 1d ago
 
 ---
 

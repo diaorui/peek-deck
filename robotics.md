@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T14:26:37.236937+00:00'
+updated: '2026-01-15T14:51:41.367724+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 14:26 UTC  
+**Last Updated:** January 15, 2026 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 9m ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 34m ago
 
 ---
 
@@ -50,7 +50,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-25m ago
+50m ago
 
 ---
 
@@ -58,7 +58,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Reuters • 2d ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqftH-93c4fzCjJBgJDpuyhh_M8xLrYEpIHRgDR5GrDStOBYqMooqa7R&gaa_ts=6968fc89&gaa_sig=LheS9sm_Wyyv2tcSdRG_VZGjkdLlCFtDcTSmoe5VgaItaidFEY8LDiERsaMqq-EOVlN8czjuaU7IlMV623LmkQ%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ MarketWatch • 17h ago
 
 Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
