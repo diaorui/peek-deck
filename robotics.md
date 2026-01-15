@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T21:44:05.632106+00:00'
+updated: '2026-01-15T22:23:57.317887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 21:44 UTC  
+**Last Updated:** January 15, 2026 at 22:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
+**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
+
+We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
 8h ago
 
 ---
 
-**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
+**[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
-
-7h ago
+9h ago
 
 ---
 
-**[Boston Dynamics on turning Atlas from a research platform into a manufacturable product](https://www.reddit.com/r/robotics/comments/1qdkoy1/boston_dynamics_on_turning_atlas_from_a_research/)**
+**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
 
-Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
+As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 7h ago
+49m ago
 
 ---
 
@@ -59,6 +59,14 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
 1h ago
+
+---
+
+**[Boston Dynamics on turning Atlas from a research platform into a manufacturable product](https://www.reddit.com/r/robotics/comments/1qdkoy1/boston_dynamics_on_turning_atlas_from_a_research/)**
+
+Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
+
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 8h ago
 
 ---
 
@@ -72,21 +80,13 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-6h ago
-
----
-
-**[Need feedback: Natural language to circuit design to make robotics easier](https://www.reddit.com/r/robotics/comments/1qdpeqi/need_feedback_natural_language_to_circuit_design/)**
-
-I’ve been working on a project for the past few months with my co-founder that takes a natural-language prompt and turns it into basic circuitry / schematics. There are tools that try to AI-ify circuit design like Flux, but it really sucks. Essentially, having the capability to vibe code electronics to prototype and iterate faster. We’re now at the stage where it semi works, having the capabilities to integrate with Altium and Kicad, and I’d love feedback from other engineers. As an engineer myself, I’m very aware of the skepticism around AI in hardware design. The goal here isn’t to replace engineers, but to help them move faster on early design, iteration, and exploration, keeping humans in the loop. If you were to use something like this Where could it realistically save you time? What would immediately worry you? Where would you never trust it? Happy to give access to engineers who are genuinely interested and willing to share honest feedback.
-
-4h ago
+7h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -94,13 +94,13 @@ I’ve been working on a project for the past few months with my co-founder that
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-12h ago
+13h ago
 
 ---
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -114,11 +114,25 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
 
-Fortune • 9h ago
+Crunchbase News • 1d ago
+
+---
+
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
+
+Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -138,26 +152,17 @@ NVIDIA Blog • 3d ago
 
 ---
 
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Robotic software startup Skild AI secures $1.4B in latest funding round: report (SFTBY:OTCMKTS)](https://seekingalpha.com/news/4539129-robotic-software-startup-skild-ai-secures-1_4b-in-latest-funding-round-report)**
-
-Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
-
-Seeking Alpha • 1d ago
+Reuters • 2d ago
 
 ---
 
-**[East Liberty's Skild AI, making one 'brain' for every robot, now valued at $14 billion](https://www.post-gazette.com/business/tech-news/2026/01/15/skild-ai-robot-brain-pittsburgh/stories/202601140098)**
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
 
-Any robot. Any task. One brain.
-That’s the driving mantra of Skild AI, the East Liberty robotics company working to create a general brain for robots....
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Pittsburgh Post-Gazette • 2h ago
+Fortune • 9h ago
 
 ---
 
@@ -167,17 +172,11 @@ GeekWire • 1d ago
 
 ---
 
-**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
-
-Reuters • 2d ago
-
----
-
 **[Can Grab (GRAB) Turn EV Partnerships and Robotics Bets Into a Defensible Logistics Edge?](https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html)**
 
 In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 

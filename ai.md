@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T21:44:05.614839+00:00'
+updated: '2026-01-15T22:23:57.302246+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 21:44 UTC  
+**Last Updated:** January 15, 2026 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 23h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 1d ago
 
 ---
 
@@ -65,15 +65,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Most people probably use coding agents wrong. There I said it again. They treat agents like smart, autonomous teammates/junior dev with their own volition and intuition and then wonder why the output is chaotic, inconsistent, or subtly/less subtly broken. An agent is not a “better ChatGPT.” The correct mental model when using agent to write your code is to be an orchestrator of its execution, not let it be independent thinker and expecting "here is a task based on custom domain and my own codebase, make it work". You have to define the structure, constraints, rules, and expectations. The agent just runs inside that box. ChatGPT, Gemini, etc. work alone because they come with heavy built-in guardrails and guidelines and are tuned for conversation and problem solving. Agents, on the other hand, touch all content they have zero idea about: your code, files, tools, side effects. They don’t magically inherit discipline or domain knowledge. They have to get that knowledge. If you don’t supply your own guardrails, standards, and explicit instructions, the agent will happily optimize for speed and hallucinate its way through your repo. Agents amplify intent. If your intent isn’t well-defined, they amplify chaos. What really worked best for me is this structure, for example: You have this task to extend customer login logic: [long wall of text that is probably JIRA task written by PM before having morning coffee] this is the point where most people hit enter and just wait for agent to do "magic", but there is more To complete this task, you have to do X and Y, in those location A and B etc. Before you start on this task use the file in root directory named guidelines.txt to figure how to write the code. And this is where the magic happens, in guidelines.txt you want: all your ins and outs of your domain, your workflow (simplified) where the meat of the app is located (models, views, infrastructure) the less obvious "gotchas" what the agent can touch what the agent must NEVER touch or only after manual approval This approach yielded best results for me and least "man, that is just wrong, what the hell"
 
-1h ago
-
----
-
-**[The rise of "Green AI" in 2026: Can we actually decouple AI growth from environmental damage?](https://www.reddit.com/r/artificial/comments/1qdm7np/the_rise_of_green_ai_in_2026_can_we_actually/)**
-
-We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
-
-6h ago
+2h ago
 
 ---
 
@@ -81,7 +73,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 3h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 4h ago
 
 ---
 
@@ -93,11 +85,19 @@ Could Siri be the last piece of the puzzle?
 
 ---
 
+**[The rise of "Green AI" in 2026: Can we actually decouple AI growth from environmental damage?](https://www.reddit.com/r/artificial/comments/1qdm7np/the_rise_of_green_ai_in_2026_can_we_actually/)**
+
+We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
+
+7h ago
+
+---
+
 **[Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)](https://www.reddit.com/r/artificial/comments/1qdbld2/zhipu_ai_breaks_us_chip_reliance_with_first_major/)**
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 15h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 16h ago
 
 ---
 
@@ -123,53 +123,49 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
-**[Apple sits out AI arms race to play kingmaker between Google and OpenAI](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)**
+**[Matthew McConaughey trademarks iconic phrase to stop AI misuse](https://www.bbc.com/news/articles/cp87z6vexl3o)**
 
-Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
+The Oscar-winning actor has trademarked several phrases, including "Alright, alright, alright" from the cult classic film, Dazed and Confused.
 
-Financial Times • 16h ago
-
----
-
-**[Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)**
-
-Paging smarter Siri.
-
-The Verge • 2h ago
+BBC • 3h ago
 
 ---
 
-**[‘It’s AI blackface’: social media account hailed as the Aboriginal Steve Irwin is an AI character created in New Zealand](https://www.theguardian.com/australia-news/2026/jan/15/aboriginal-steve-irwin-ai-character-created-new-zealand)**
+**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqfsSKaqEnaOjHWXqLyT5o0w_krBV9j0LAIjxoHMkPHMUE5F1jMP9IlG&gaa_ts=69696c5e&gaa_sig=tYbSEaP75v0XythkMEH9IQnEbFnQel4Ub-mjuAynRuZ9IZoJTw9chIsItgKx_8Jo-_EYyGKMjgXPPRPFZ1wHxQ%3D%3D)**
 
-More than 180,000 people follow the Bush Legend’s accounts across Meta platforms, but its Aboriginal host is a work of digital fiction
-
-The Guardian • 7h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[TSMC’s Blockbuster Spending Plans, Results Herald Continued AI Boom](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqfiTf_wv-keEj-jgRE8lTK-UFmccQk4_pUXquvsKAP311CPCzCSGylA&gaa_ts=69695686&gaa_sig=xWhdzNQFVqo4UCHi3jdqQq4BeOuVCesKBaWcjDI5HBjEyL4DmrrKcxm-GLRwxR_bUva_gwjV7h6uRtUs9cPeUA%3D%3D)**
+**[Matthew McConaughey is trademarking 'alright, alright, alright' to stop unauthorized AI use](https://ew.com/matthew-mcconaughey-trademarks-dazed-and-confused-phrase-to-stop-ai-misuse-11885974)**
 
-The Wall Street Journal • 11h ago
+Matthew McConaughey has filed several trademarks in a bid to prevent misuse as unauthorized AI use continues to plague the Hollywood industry.
 
----
-
-**[TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
-
-TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
-
-CNBC • 16h ago
+Entertainment Weekly • 5h ago
 
 ---
 
-**[AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast](https://www.cnbc.com/2026/01/15/ai-trade-the-company-behind-chip-leaders-like-nvidia-raised-its-spending-forecast.html)**
+**[Cloudflare acquires AI data marketplace Human Native](https://www.cnbc.com/2026/01/15/cloudflare-ai-human-native-acquisition.html)**
 
-Robust earnings results from chip manufacturing giant TSMC just gave a huge lift to the AI trade.
+The internet infrastructure company wants AI developers to pay creators for content they use in their models.
 
-CNBC • 1h ago
+CNBC • 54m ago
+
+---
+
+**[Parloa's big raise shows bots promise](https://www.axios.com/pro/enterprise-software-deals/2026/01/15/agentic-ai-venture-capital-parloa)**
+
+Axios • 1h ago
+
+---
+
+**[To Build A Better AI, Reverse Its Antisocial Tendencies](https://www.wsj.com/tech/ai/to-build-a-better-ai-reverse-its-antisocial-tendencies-ab4006d7?gaa_at=eafs&gaa_n=AWEtsqfYIgEidDISy1D2Z5JFruZ4DYJ7KYQ9e_VqbqtfAcxLTz6jtzmKF3UD&gaa_ts=69696c5e&gaa_sig=s2EpvaAfC4E3BBZMB7cVMwy5dySuYgZkgXzTwbFuKO6TYBgNBrFhcy4KpOdqMCsQgYqZXzz4Bbv4CYmvNnMi6A%3D%3D)**
+
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -177,23 +173,21 @@ CNBC • 1h ago
 
 It’s becoming more common for people to use AI chatbots for personal guidance – but this doesn’t come without risks
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Children are at risk of forming romantic bonds with AI chatbots, experts warn](https://www.foxnews.com/politics/experts-warn-lawmakers-establish-guardrails-ai-chatbots-form-romantic-bonds-children)**
+**[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
 
-Congress hears alarming testimony about AI chatbots harming children's mental health, with experts warning of serious emotional risks and dangers.
-
-Fox News • 1h ago
+The Economist • 8h ago
 
 ---
 
-**[McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/)**
+**[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
 
-McKinsey has introduced an AI chatbot into early stages of graduate recruitment to help manage application volume.
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-AI News • 11h ago
+NPR • 1d ago
 
 ---
 
@@ -203,13 +197,13 @@ AI News • 11h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 939 • 💬 714 • 2d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 939 • 💬 715 • 2d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 461 • 💬 257 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 461 • 💬 258 • 2d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -227,7 +221,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 304 • 💬 217 • 13h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 312 • 💬 222 • 14h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -239,20 +233,20 @@ Why we are losing technical rigor to social hype
 
 ---
 
-**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
-
-Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
-
-⬆️ 232 • 💬 125 • 2d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
-
----
-
 **[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://news.ycombinator.com/item?id=46629682)**
 
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 231 • 💬 190 • 13h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 233 • 💬 191 • 14h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+
+---
+
+**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
+
+Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
+
+⬆️ 232 • 💬 125 • 2d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -288,7 +282,7 @@ Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of arti
 
 📺 Fox Business
 
-👁️ 3K • 👍 66 • 💬 27 • ⏱️ 6:58 • 12h ago
+👁️ 3K • 👍 66 • 💬 27 • ⏱️ 6:58 • 13h ago
 
 ---
 
@@ -338,7 +332,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 844K • 👍 9K • 💬 366 • ⏱️ 0:23 • 2d ago
+👁️ 844K • 👍 9K • 💬 366 • ⏱️ 0:23 • 3d ago
 
 ---
 
@@ -358,7 +352,7 @@ Raspberry Pi's back with a new AI HAT. This time it adds on 8 GB of RAM and the 
 
 📺 Jeff Geerling
 
-👁️ 118K • 👍 5K • 💬 446 • ⏱️ 8:47 • 13h ago
+👁️ 118K • 👍 5K • 💬 446 • ⏱️ 8:47 • 14h ago
 
 ---
 
@@ -394,7 +388,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 684 • 11h ago
+⬇️ 2,442 • ❤️ 684 • 12h ago
 
 ---
 
@@ -490,7 +484,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 205 • 23h ago
+⬇️ 4,422 • ❤️ 205 • 1d ago
 
 ---
 
@@ -677,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 125 • 17h ago
+⭐ 3.2k • 🔱 125 • 18h ago
 
 ---
 
@@ -687,7 +681,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.5k • 🔱 150 • 6h ago
+⭐ 2.5k • 🔱 150 • 7h ago
 
 ---
 
@@ -717,7 +711,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 9h ago
+⭐ 1.6k • 🔱 133 • 10h ago
 
 ---
 
@@ -737,7 +731,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.3k • 🔱 91 • 16d ago
+⭐ 1.3k • 🔱 91 • 17d ago
 
 ---
 

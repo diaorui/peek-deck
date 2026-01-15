@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T21:44:05.623115+00:00'
+updated: '2026-01-15T22:23:57.309801+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 21:44 UTC  
+**Last Updated:** January 15, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,300.59
+### $95,586.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +5.2%  
-**30d:** +10.3%  
-**90d:** -11.0%  
-**1y:** -4.7%  
+**24h:** -1.5%  
+**7d:** +5.6%  
+**30d:** +10.7%  
+**90d:** -10.7%  
+**1y:** -4.3%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
+
+1h ago
+
+---
+
 **[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +103,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-5h ago
+6h ago
 
 ---
 
@@ -135,12 +141,6 @@ Virtual currencies, real risks. The only guarantee in crypto is risk.
 
 ---
 
-**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
-
-1d ago
-
----
-
 **[KEEP BUYING](https://www.reddit.com/r/Bitcoin/comments/1qcyixe/keep_buying/)**
 
 my hands are made of diamonds and there is goop inside of my skull
@@ -153,11 +153,11 @@ my hands are made of diamonds and there is goop inside of my skull
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC is selling off again during U.S. market hours](https://www.coindesk.com/markets/2026/01/15/bitcoin-slides-below-usd96-000-as-key-crypto-bill-stalls-in-congress)**
+**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
 
-After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
+A growing number of investors think Bitcoin might end the year above the $200,000 price level.
 
-CoinDesk • 5h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,25 +169,27 @@ grist.org • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqcetZul-9XApwtIsCaXcIHQV30P72sEaQfG0Oh_hF-SB1WGvGAfCEpK&gaa_ts=69695688&gaa_sig=BiHJC1-V4aiinfZqOW6nFyq_LCTvzPMFCGBLvxUhgAjIOHMgtKCFvDVD14fQs-uIMuhgvc0nQJEoky5csfuimQ%3D%3D)**
+**[Iran’s Crypto Economy Hit $7.8 Billion in 2025 as Protests Fueled Bitcoin Use: Chainalysis](https://finance.yahoo.com/news/iran-crypto-economy-hit-7-213231153.html)**
 
-Barron's • 1h ago
+Iran’s crypto activity accelerated in 2025, a new report says, driven by civilians and state actors turning to Bitcoin during periods of unrest.
 
----
-
-**[Jan3 CEO Samson Mow Predicts Elon Musk Will 'Go Hard Into' Bitcoin As X Plans Crypto-Linked Feature](https://finance.yahoo.com/news/jan3-ceo-samson-mow-predicts-193819017.html)**
-
-Tesla (NASDAQ:TSLA) CEO Elon Musk will get more involved with Bitcoin this year, according to Jan3 CEO Samson Mow. “Elon Musk goes hard into BTC,” Mow said Jan. 10 on X, one of six predictions he made for the year,...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[Lightning Strikes Twice as Solo Bitcoin Miners Beat the Odds, Each Earning $300K](https://finance.yahoo.com/news/lightning-strikes-twice-solo-bitcoin-200554423.html)**
+**[Belgium’s KBC Becomes First Bank in the Country to Offer Bitcoin Trading to Retail Investors](https://bitcoinmagazine.com/news/belgiums-kbc-offer-retail-bitcoin-trading)**
 
-Two solo Bitcoin miners struck rare wins this week, each earning nearly $300,000 as U.S. mining dominance continues to slip.
+KBC Group is set to become the first bank in Belgium to allow retail clients to buy and sell crypto.
 
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 1h ago
+
+---
+
+**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
+
+Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -205,27 +207,23 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://finance.yahoo.com/news/blackrock-moves-339m-bitcoin-traders-111215711.html)**
 
-BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
+BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
 
-Seeking Alpha • 1d ago
-
----
-
-**[Arthur Hayes Says Bitcoin Will Get Its Groove Back](https://bitbo.io/news/hayes-bitcoin-groove-2026/)**
-
-Arthur Hayes argued bitcoin can reclaim momentum in 2026 if US dollar liquidity expands, pointing to potential Fed balance sheet growth, lower mortgage rates, and more bank lending to government-backed industries.
-
-Bitbo • 8h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
+**[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
 
-A growing number of investors think Bitcoin might end the year above the $200,000 price level.
+The Block • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
+
+The Block • 22h ago
 
 ---
 
@@ -315,7 +313,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 771 • 💬 72 • ⏱️ 8:38 • 4h ago
+👁️ 9K • 👍 771 • 💬 72 • ⏱️ 8:38 • 5h ago
 
 ---
 
@@ -335,7 +333,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 11K • 👍 2K • 💬 217 • ⏱️ 14:43 • 1h ago
+👁️ 11K • 👍 2K • 💬 217 • ⏱️ 14:43 • 2h ago
 
 ---
 
@@ -345,7 +343,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 97 • ⏱️ 36:20 • 6h ago
+👁️ 22K • 👍 1K • 💬 97 • ⏱️ 36:20 • 7h ago
 
 ---
 
@@ -355,7 +353,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 148 • ⏱️ 24:06 • 22h ago
+👁️ 34K • 👍 3K • 💬 148 • ⏱️ 24:06 • 23h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 889 • 💬 80 • ⏱️ 18:21 • 10h ago
+👁️ 17K • 👍 889 • 💬 80 • ⏱️ 18:21 • 11h ago
 
 ---
 
@@ -375,7 +373,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 28K • 👍 2K • 💬 542 • ⏱️ 19:42 • 8h ago
+👁️ 28K • 👍 2K • 💬 542 • ⏱️ 19:42 • 9h ago
 
 ---
 
@@ -385,7 +383,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 865 • 💬 51 • ⏱️ 44:47 • 23h ago
+👁️ 23K • 👍 865 • 💬 51 • ⏱️ 44:47 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 17,
 
 📺 Bravos Research Crypto
 
-👁️ 9K • 👍 604 • 💬 28 • ⏱️ 6:40 • 4h ago
+👁️ 9K • 👍 604 • 💬 28 • ⏱️ 6:40 • 5h ago
 
 ---
 
