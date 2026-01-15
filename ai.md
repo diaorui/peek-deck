@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T16:39:41.564906+00:00'
+updated: '2026-01-15T17:32:54.177655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 16:39 UTC  
+**Last Updated:** January 15, 2026 at 17:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 18h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 16h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 17h ago
 
 ---
 
@@ -81,7 +81,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 10h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 21h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 22h ago
 
 ---
 
@@ -133,13 +133,13 @@ blog.google • 1d ago
 
 Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 5h ago
 
 It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  Shares in key supplier ASML Holding NV rose 7.6% to a record in Europe, sending its market value beyond $500 billion.  The outlook from TSMC — a bellwether for the artificial intelligence boom — reflects a development frenzy by the likes of Meta Platforms Inc. and Amazon.com Inc. that’s spurred demand for Nvidia Corp. accelerators.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 1h ago
 
 TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 10h ago
 
 Chipmaker targets $52--$56 billion in 2026 spending and forecasts near-30% revenue growth, signaling confidence in sustained AI-driven demand.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 58m ago
 
 An AI powerful enough to analyze DNA, file taxes, and grow tomato plants is being redesigned for everyday work, pointing toward life beyond chatbots.
 
-Time Magazine • 44m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -185,13 +185,13 @@ Time Magazine • 44m ago
 
 Micron and Applied Digital both benefit from bottlenecks in the artificial intelligence (AI) infrastructure buildout.
 
-The Motley Fool • 19m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 39m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 274 • 💬 196 • 8h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 274 • 💬 196 • 9h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 240 • 💬 165 • 19h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 240 • 💬 165 • 20h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -285,7 +285,7 @@ Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
 
 📺 Circle of Greatness with Nehemiah Davis
 
-👁️ 1K • 👍 77 • 1h ago
+👁️ 1K • 👍 77 • 2h ago
 
 ---
 
@@ -315,7 +315,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 126K • 👍 7K • 💬 508 • ⏱️ 26:29 • 23h ago
+👁️ 126K • 👍 7K • 💬 508 • ⏱️ 26:29 • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 106K • 👍 7K • 💬 392 • ⏱️ 10:04 • 20h ago
+👁️ 106K • 👍 7K • 💬 392 • ⏱️ 10:04 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Check out a Breakdown of the Tutorial and links to the tools here: ...
 
 📺 Curious Refuge
 
-👁️ 6K • 👍 302 • 💬 30 • ⏱️ 13:31 • 19h ago
+👁️ 6K • 👍 302 • 💬 30 • ⏱️ 13:31 • 20h ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 662 • 6h ago
+⬇️ 2,442 • ❤️ 662 • 7h ago
 
 ---
 
@@ -403,7 +403,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 44,101 • ❤️ 679 • 7d ago
+⬇️ 44,101 • ❤️ 679 • 8d ago
 
 ---
 
@@ -415,7 +415,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,036 • 22h ago
+⬇️ 1,187,843 • ❤️ 1,036 • 23h ago
 
 ---
 
@@ -439,7 +439,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 276 • 20h ago
+⬇️ 41,095 • ❤️ 276 • 21h ago
 
 ---
 
@@ -499,7 +499,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 196 • 18h ago
+⬇️ 4,422 • ❤️ 196 • 19h ago
 
 ---
 
@@ -644,7 +644,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 3m ago
+⭐ 8.7k • 🔱 1.1k • 56m ago
 
 ---
 
@@ -674,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 102 • 12h ago
+⭐ 2.8k • 🔱 102 • 13h ago
 
 ---
 
@@ -684,7 +684,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 150 • 1h ago
+⭐ 2.4k • 🔱 150 • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.9k • 🔱 1.6k • 3h ago
+⭐ 1.9k • 🔱 1.6k • 4h ago
 
 ---
 
@@ -714,7 +714,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 4h ago
+⭐ 1.6k • 🔱 133 • 5h ago
 
 ---
 

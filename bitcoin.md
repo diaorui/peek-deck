@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T16:39:41.573402+00:00'
+updated: '2026-01-15T17:32:54.186735+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 16:39 UTC  
+**Last Updated:** January 15, 2026 at 17:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-21h ago
+22h ago
 
 ---
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,7 +109,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-48m ago
+1h ago
 
 ---
 
@@ -123,13 +123,13 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 my hands are made of diamonds and there is goop inside of my skull
 
-20h ago
+21h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -137,7 +137,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 The new deal. The knight in shining armor. The currently banking system is awful and stacked against you. I have Venmo bank transfers that are listed “pending” after 8 days. 8! How is this possibly acceptable in today’s technology. I’ll tolerate banks for me to use debt to my personal advantage. I will not tolerate the banks awful treatment of deposit customers with my assets. Pulled from the system.
 
-29m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1d ago
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 17h ago
 
 Strategy remains an effective proxy for bitcoin exposure, particularly for investors with a long-term view, analyst Lance Vitanza said.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1h ago
 
 TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ Decrypt • 13h ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -195,19 +195,19 @@ Bitcoin Magazine • 2h ago
 
 MetaMask continues adding chains as it expands beyond Ethereum, adding Tron support Thursday following last month’s Bitcoin move.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
 **[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 10h ago
 
 BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 728 • 💬 63 • ⏱️ 18:21 • 5h ago
+👁️ 11K • 👍 728 • 💬 63 • ⏱️ 18:21 • 6h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 305 • 💬 120 • ⏱️ 8:24 • 12h ago
+👁️ 5K • 👍 305 • 💬 120 • ⏱️ 8:24 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 930 • 💬 18 • ⏱️ 30:10 • 1h ago
+👁️ 8K • 👍 930 • 💬 18 • ⏱️ 30:10 • 2h ago
 
 ---
 
@@ -337,7 +337,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 12K • 👍 645 • 💬 34 • ⏱️ 11:54 • 8h ago
+👁️ 12K • 👍 645 • 💬 34 • ⏱️ 11:54 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 587 • 💬 110 • ⏱️ 36:20 • 1h ago
+👁️ 7K • 👍 587 • 💬 110 • ⏱️ 36:20 • 2h ago
 
 ---
 
@@ -357,7 +357,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 139 • ⏱️ 24:06 • 17h ago
+👁️ 31K • 👍 3K • 💬 139 • ⏱️ 24:06 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 18K • 👍 1K • 💬 334 • ⏱️ 26:45 • 14h ago
+👁️ 18K • 👍 1K • 💬 334 • ⏱️ 26:45 • 15h ago
 
 ---
 
@@ -377,7 +377,7 @@ DM me the word "JOIN" on Telegram to join community: https://t.me/AndyJack_trade
 
 📺 Andy Bitcoinsensus
 
-👁️ 2K • 👍 246 • 2h ago
+👁️ 2K • 👍 246 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 134 • 💬 35 • ⏱️ 7:57 • 11h ago
+👁️ 2K • 👍 134 • 💬 35 • ⏱️ 7:57 • 12h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T16:39:41.582631+00:00'
+updated: '2026-01-15T17:32:54.196306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 16:39 UTC  
+**Last Updated:** January 15, 2026 at 17:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 2h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be 
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-16h ago
+17h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ GeekWire • 1d ago
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 39m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ Reuters • 2d ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfsTuuZ3XLO5ELJgCGUJCFIJkT8XXSvxjty1qOvXcpBNdi8HZDum_D8&gaa_ts=69691bb0&gaa_sig=RRQaC9h5J03YBUna4TwIRTkZY9kT839OqEx1WXc7A0oG2vamBezoqmZE0xJujnW3qxjTBaGXSMOE7A0lqWtycA%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ MarketWatch • 19h ago
 
 At the 2026 CES show, Hyundai and Boston Dynamics took the wraps off its next-gen humanoid robot, Atlas, that is nearly ready for commercial use.
 
-bgr.com • 22h ago
+bgr.com • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ bgr.com • 22h ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 4h ago
+Interesting Engineering • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, wh
 
 📺 RobotShopTV
 
-👁️ 592 • 👍 9 • 💬 2 • ⏱️ 2:41 • 2d ago
+👁️ 592 • 👍 9 • 💬 2 • ⏱️ 2:41 • 3d ago
 
 ---
 
@@ -274,7 +274,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 14K • 👍 105 • 💬 10 • ⏱️ 0:12 • 3d ago
+👁️ 14K • 👍 105 • 💬 10 • ⏱️ 0:12 • 4d ago
 
 ---
 
@@ -284,7 +284,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 19h ago
+👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 20h ago
 
 ---
 
