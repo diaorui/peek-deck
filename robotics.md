@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T01:49:15.943732+00:00'
+updated: '2026-01-15T03:42:33.168890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 01:49 UTC  
+**Last Updated:** January 15, 2026 at 03:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-15h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-1h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-5h ago
+7h ago
 
 ---
 
@@ -60,13 +60,13 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 7h ago
 
 ---
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-9h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-5h ago
+7h ago
 
 ---
 
@@ -90,15 +90,7 @@ Hi everyone, I’m looking for real-world experience with Arducam ToF sensors us
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-15h ago
-
----
-
-**[I Found the World’s First AI Robotic Monitor at CES 2026 🤖 | CyboPal ONE](https://www.reddit.com/r/robotics/comments/1qcy5na/i_found_the_worlds_first_ai_robotic_monitor_at/)**
-
-Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
-
-🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 5h ago
+17h ago
 
 ---
 
@@ -106,7 +98,15 @@ Robotic arm attached to your monitor… thoughts? I personally think it’s pret
 
 Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
 
-12h ago
+14h ago
+
+---
+
+**[I Found the World’s First AI Robotic Monitor at CES 2026 🤖 | CyboPal ONE](https://www.reddit.com/r/robotics/comments/1qcy5na/i_found_the_worlds_first_ai_robotic_monitor_at/)**
+
+Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
+
+🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 7h ago
 
 ---
 
@@ -116,27 +116,25 @@ Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Googl
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
-
-Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
-
-TechCrunch • 9h ago
+Bloomberg.com • 14h ago
 
 ---
 
 **[Skild AI aims to be the picks and shovels of robotics with $14b valuation](https://www.axios.com/pro/all-deals/2026/01/14/skild-ai-14-billion-valuation)**
 
-Axios • 3h ago
+Axios • 5h ago
+
+---
+
+**[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
+
+Business Wire • 12h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 9h ago
+GeekWire • 11h ago
 
 ---
 
@@ -154,17 +152,9 @@ Reuters • 2d ago
 
 ---
 
-**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdeWGU0cJCnHGT7EYCrIqbpzNKWPF8aMOkYl3E7SKcF39dg4UllIK05&gaa_ts=69686593&gaa_sig=4bfcjRar0hPGzYW0sI4p9giEMxlCSF3_GarbeqSncZtCznSkjL88DFFDyCgrJEYZy6tlRTwzmO7S9TWaaFdV5w%3D%3D)**
 
-​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
-
-Yahoo Finance • 2d ago
-
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcs3_XdSFEeK3z6-JNEF43V6sMUi7ycIWTCHD7U_3IqIzeDlKIc0j5H&gaa_ts=69684b0b&gaa_sig=ESsNTzv0h5qSs03ei2Sc0VVnWxnen4eVqMKk2aYtwkjfaXOSE2ExRl4MlVn5bG--QaxqQ2WwkT9qUZyxKdSn3A%3D%3D)**
-
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -176,11 +166,19 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 ---
 
-**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
+**[Serve Robotics at a Premium Valuation: Should Investors Stay Away?](https://finance.yahoo.com/news/serve-robotics-premium-valuation-investors-134300163.html)**
 
-The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
+Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-The Free Press • 1d ago
+Yahoo Finance • 13h ago
+
+---
+
+**[US scientists invent water-driven gears for robots and machines that resist wear](https://interestingengineering.com/ai-robotics/nyu-invents-water-driven-gears-robots-machines)**
+
+Scientists at New York University have developed a new gear mechanism that uses fluid dynamics rather than interlocking physical teeth to transmit motion.
+
+Interesting Engineering • 17h ago
 
 ---
 
@@ -242,7 +240,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 41K • 👍 3K • 💬 95 • ⏱️ 0:49 • 4h ago
+👁️ 41K • 👍 3K • 💬 95 • ⏱️ 0:49 • 6h ago
 
 ---
 
@@ -272,7 +270,7 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 5K • 👍 41 • 💬 7 • ⏱️ 9:43 • 6h ago
+👁️ 5K • 👍 41 • 💬 7 • ⏱️ 9:43 • 8h ago
 
 ---
 
