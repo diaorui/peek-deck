@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T09:29:35.422886+00:00'
+updated: '2026-01-15T09:51:56.993331+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 09:29 UTC  
+**Last Updated:** January 15, 2026 at 09:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-14h ago
+15h ago
 
 ---
 
@@ -113,13 +113,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-12h ago
+13h ago
 
 ---
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ my hands are made of diamonds and there is goop inside of my skull
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-11h ago
+12h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 10h ago
 
 **[Bitcoin Rally Stalls. Senate Crypto Bill Hits a Snag as Coinbase Pulls Support.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqcd4ROsimMOY_xwOkKJrY30Xey9KUk_FtL-8YaKZveiNY4ktwRDpC0-&gaa_ts=6968b6e7&gaa_sig=GwOhVtDCk2hpVWLW0CR0ZLDovligam9i7ZuD9_7vRpdn0Hoo2u9lV79Lx16LhRFtmMJVMnND2EWMEmMGF0MQLw%3D%3D)**
 
-Barron's • 52m ago
+Barron's • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin rally stalls. Senate crypto bill hits a snag as Coinbase pulls support](https://www.msn.com/en-us/money/markets/bitcoin-rally-stalls-senate-crypto-bill-hits-a-snag-as-coinbase-pulls-support/ar-AA1UfWHQ?ocid=finance-verthp-feeds)**
 
-MSN • 52m ago
+MSN • 1h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 1d ago
 
 Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 4h ago
+👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 5h ago
 
 ---
 
@@ -377,7 +377,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 4h ago
+👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 5h ago
 
 ---
 
@@ -397,7 +397,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 17h ago
+👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 18h ago
 
 ---
 

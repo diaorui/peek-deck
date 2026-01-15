@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T09:29:35.428879+00:00'
+updated: '2026-01-15T09:51:56.999317+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 09:29 UTC  
+**Last Updated:** January 15, 2026 at 09:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 5h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 Leading asset manager 21Shares has listed a new exchange-traded product (ETP) that mixes Bitcoin and gold on the London Stock Exchange. The product arrived as BTC/USD surged +3.3% overnight to around $95,000, following bullish US CPI data and record annual Bitcoin ETF flows. Zoom out, and this Bitcoin x gold ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -235,7 +235,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 8h ago
+👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 9h ago
 
 ---
 
@@ -255,7 +255,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 6h ago
+👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -265,7 +265,7 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 13h ago
+👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 14h ago
 
 ---
 
@@ -285,7 +285,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 18h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 19h ago
 
 ---
 
@@ -295,7 +295,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 4h ago
+👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 19h ago
+👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 20h ago
 
 ---
 

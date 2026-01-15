@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T09:29:35.414284+00:00'
+updated: '2026-01-15T09:51:56.984881+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 09:29 UTC  
+**Last Updated:** January 15, 2026 at 09:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 8h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
-BBC • 43m ago
+BBC • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 14h ago
 
 **[Wikipedia owner signs on Microsoft, Meta in AI content training deals](https://www.reuters.com/business/retail-consumer/wikipedia-owner-signs-microsoft-meta-ai-content-training-deals-2026-01-15/)**
 
-Reuters • 54m ago
+Reuters • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Reuters • 54m ago
 
 The online crowdsourced encyclopedia revealed that it has signed licensing deals with AI companies including Amazon, Meta Platforms, Perplexity, Microsoft, and France’s Mistral AI.
 
-The Boston Globe • 46m ago
+The Boston Globe • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Boston Globe • 46m ago
 
 Wikipedia on Thursday unveiled partnerships with several Big Tech companies including Microsoft, Meta and Amazon, marking a major step up in the ​non-profit's ability to monetize tech firms' reliance on its content.  Wikimedia Foundation, the operator ‌of the online encyclopedia, said it also signed on AI startup Perplexity and France's Mistral AI, among other firms, ‌over the past year, having enlisted Meta and Amazon as partners previously.  Wikipedia content is crucial to training AI models — its 65 million articles across over 300 languages are a key part of training data ⁠for generative AI chatbots and assistants ‌developed by tech majors.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 55m ago
 
 TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -301,7 +301,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 15h ago
+👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 16h ago
 
 ---
 
