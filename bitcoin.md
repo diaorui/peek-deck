@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T19:47:00.495511+00:00'
+updated: '2026-01-15T20:27:49.234515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 19:47 UTC  
+**Last Updated:** January 15, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -155,7 +155,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinMarketCap • 2d ago
 
 NIP Group, the publicly traded firm behind esports team Ninjas in Pyjamas, is ramping up the Bitcoin mining operation it launched in 2025.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 8h ago
+👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 9h ago
 
 ---
 
@@ -311,7 +311,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 2h ago
+👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 16,
 
 📺 Bravos Research Crypto
 
-👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 2h ago
+👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 3h ago
 
 ---
 
@@ -341,7 +341,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 34 • ⏱️ 30:10 • 4h ago
+👁️ 16K • 👍 1K • 💬 34 • ⏱️ 30:10 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 20h ago
+👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 5h ago
+👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 6h ago
+👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 7h ago
 
 ---
 

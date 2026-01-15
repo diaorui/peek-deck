@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T19:47:00.504862+00:00'
+updated: '2026-01-15T20:27:49.243712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 19:47 UTC  
+**Last Updated:** January 15, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 5h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,19 +66,19 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 I’ve been working on a project for the past few months with my co-founder that takes a natural-language prompt and turns it into basic circuitry / schematics. There are tools that try to AI-ify circuit design like Flux, but it really sucks. Essentially, having the capability to vibe code electronics to prototype and iterate faster. We’re now at the stage where it semi works, having the capabilities to integrate with Altium and Kicad, and I’d love feedback from other engineers. As an engineer myself, I’m very aware of the skepticism around AI in hardware design. The goal here isn’t to replace engineers, but to help them move faster on early design, iteration, and exploration, keeping humans in the loop. If you were to use something like this Where could it realistically save you time? What would immediately worry you? Where would you never trust it? Happy to give access to engineers who are genuinely interested and willing to share honest feedback.
 
-2h ago
+3h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
-12m ago
+52m ago
 
 ---
 
@@ -92,7 +92,7 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bloomberg.com • 1d ago
 Any robot. Any task. One brain.
 That’s the driving mantra of Skild AI, the East Liberty robotics company working to create a general brain for robots....
 
-Pittsburgh Post-Gazette • 56m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Reuters • 2d ago
 
 In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -211,7 +211,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 📺 PRO ROBOTS
 
-👁️ 63K • 👍 1K • 💬 95 • ⏱️ 18:58 • 6d ago
+👁️ 63K • 👍 1K • 💬 95 • ⏱️ 18:58 • 7d ago
 
 ---
 
