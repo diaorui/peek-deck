@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T03:42:33.165620+00:00'
+updated: '2026-01-15T04:41:52.216064+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 03:42 UTC  
+**Last Updated:** January 15, 2026 at 04:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.66B
+**Market Cap:** $398.43B
 Rank #2
 
 **Circulating Supply:** 120,694,650 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.7%
+-33.2%
 
 **All-Time Low:** $0.43
-+768219.0%
++762422.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 The Weekly Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard THE PRINCESTON DECENTER PROFESSOR'S ROUNDTABLE Carolyn Biltoft: https://www.graduateinstitute.ch/facu... Andrew Chignell: https://chignell.net/ Devin P. Singh: https://religion.dartmouth.edu/people... Gordon Grant: Principal at ChiSquared Technologies Mike Maizels: https://engineering.princeton.edu/sta... Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/jo... Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans the work of Immanuel Kant and other Enlightenment philosophers, philosophy of religion, epistemology and the ethics of belief, and topics in moral psychology like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 5h ago
+🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 6h ago
 
 ---
 
@@ -96,7 +96,7 @@ The Weekly Doots live stream is all about showcasing the best of the week from t
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-20h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH Key points: •Make extra yield on staked ETH •Transparent smart contract that re-allocates funds from lost or forgotten wallets evenly between all these possible new tokens •Not risk free, you must sign the message in a 1 month period every 6 months •Receive staked ETH anytime (I wouldn’t stake the ETH, it would use a staked ETH token like stETH by Lido
 
-12h ago
+13h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ Decrypt • 21h ago
 
 Ethereum’s outlook has been improving its case. After a prolonged period of underperformance and skepticism, the network is starting to exhibit signs of renewed structural and fundamental strength. While BTC continues to anchor the market as the primary store of value and digital gold, conditions a…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 The U.S. CLARITY Act could become a major catalyst for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and broader institutional crypto adoption, according to Bitwise Chief Investment Officer Matt Hougan. What Happened: Crypto markets are entering a transition phase where regulation,...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 1d ago
 
 **[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -217,13 +217,13 @@ ETF Trends • 2d ago
 
 More crypto regulation could be coming soon.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[Here Are the Exact Reasons Why Ethereum, Bitcoin, and Crypto Prices Are Up](https://www.binance.com/en/square/post/35068819106073)**
 
-Binance • 17h ago
+Binance • 18h ago
 
 ---
 
@@ -237,17 +237,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 679 • 👍 82 • 💬 60 • ⏱️ 11:22 • 3h ago
-
----
-
-**[ETH Is Massively Undervalued — A 5x Setup for 2026?](https://www.youtube.com/watch?v=k8OffaI-iFA)**
-
-Ethereum has underperformed this cycle — but are the fundamentals telling a different story? In this interview, Vivek Raman ...
-
-📺 Cointelegraph
-
-👁️ 1K • 👍 65 • 💬 6 • ⏱️ 20:12 • 10h ago
+👁️ 2K • 👍 150 • 💬 37 • ⏱️ 11:22 • 4h ago
 
 ---
 
@@ -257,17 +247,27 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 857 • 👍 51 • 💬 24 • ⏱️ 36:50 • 7h ago
+👁️ 1K • 👍 57 • 💬 26 • ⏱️ 36:50 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
+**[ETH Is Massively Undervalued — A 5x Setup for 2026?](https://www.youtube.com/watch?v=k8OffaI-iFA)**
+
+Ethereum has underperformed this cycle — but are the fundamentals telling a different story? In this interview, Vivek Raman ...
+
+📺 Cointelegraph
+
+👁️ 2K • 👍 105 • 💬 7 • ⏱️ 20:12 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Eky2R1qMnKE)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 179 • 💬 9 • ⏱️ 3:42 • 13h ago
+👁️ 502 • 👍 75 • 💬 4 • ⏱️ 4:34 • 1h ago
 
 ---
 
@@ -277,17 +277,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 587 • 💬 25 • ⏱️ 17:37 • 1d ago
+👁️ 16K • 👍 595 • 💬 26 • ⏱️ 17:37 • 1d ago
 
 ---
 
-**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xSP3p-zUW3I)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 276 • 👍 18 • 💬 1 • ⏱️ 4:52 • 18h ago
+👁️ 3K • 👍 182 • 💬 9 • ⏱️ 3:42 • 14h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | Weekly &amp; Daily | Ethererum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=Yc66obm9MtE)**
+
+Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break down Bitcoin on the 4h and 1h charts using ...
+
+📺 Koenz Trading
+
+👁️ 1K • 👍 96 • 💬 14 • ⏱️ 6:04 • 14h ago
 
 ---
 
@@ -297,27 +307,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 171 • 👍 7 • 💬 2 • ⏱️ 5:17 • 8h ago
-
----
-
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
-
-Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
-
-📺 Altcoin Daily
-
-👁️ 77K • 👍 5K • 💬 263 • ⏱️ 9:23 • 1d ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLNQ7_OujrA)**
-
-BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 388 • 💬 94 • ⏱️ 22:39 • 18h ago
+👁️ 203 • 👍 7 • 💬 2 • ⏱️ 5:17 • 9h ago
 
 ---
 
@@ -327,7 +317,17 @@ From BMNR's balance sheet to Ethereum's core fundamentals, we look at the update
 
 📺 The Value Thinker
 
-👁️ 17K • 👍 1K • 💬 164 • ⏱️ 26:25 • 1d ago
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 26:25 • 1d ago
+
+---
+
+**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xSP3p-zUW3I)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 281 • 👍 18 • 💬 1 • ⏱️ 4:52 • 19h ago
 
 ---
 

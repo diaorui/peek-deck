@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T03:42:33.168890+00:00'
+updated: '2026-01-15T04:41:52.219297+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 03:42 UTC  
+**Last Updated:** January 15, 2026 at 04:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-7h ago
+8h ago
 
 ---
 
@@ -60,13 +60,13 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 8h ago
 
 ---
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, I’m looking for real-world experience with Arducam ToF sensors us
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-17h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
 
-14h ago
+15h ago
 
 ---
 
@@ -106,7 +106,7 @@ Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Googl
 
 Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
 
-🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 7h ago
+🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 8h ago
 
 ---
 
@@ -116,25 +116,25 @@ Robotic arm attached to your monitor… thoughts? I personally think it’s pret
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
 **[Skild AI aims to be the picks and shovels of robotics with $14b valuation](https://www.axios.com/pro/all-deals/2026/01/14/skild-ai-14-billion-valuation)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 12h ago
+Business Wire • 13h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 11h ago
+GeekWire • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Reuters • 2d ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdeWGU0cJCnHGT7EYCrIqbpzNKWPF8aMOkYl3E7SKcF39dg4UllIK05&gaa_ts=69686593&gaa_sig=4bfcjRar0hPGzYW0sI4p9giEMxlCSF3_GarbeqSncZtCznSkjL88DFFDyCgrJEYZy6tlRTwzmO7S9TWaaFdV5w%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -170,7 +170,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 13h ago
 
 Scientists at New York University have developed a new gear mechanism that uses fluid dynamics rather than interlocking physical teeth to transmit motion.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -192,7 +192,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 406K • 👍 12K • 💬 725 • ⏱️ 17:09 • 2d ago
+👁️ 413K • 👍 12K • 💬 728 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 146K • 👍 2K • 💬 379 • ⏱️ 11:46 • 3d ago
+👁️ 148K • 👍 2K • 💬 382 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -212,15 +212,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 11K • 👍 596 • 💬 37 • ⏱️ 9:28 • 4d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 45K • 👍 717 • 💬 48 • ⏱️ 1:16 • 1d ago
+👁️ 11K • 👍 599 • 💬 37 • ⏱️ 9:28 • 4d ago
 
 ---
 
@@ -230,17 +222,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 1.0M • 👍 32K • 💬 975 • ⏱️ 0:39 • 6d ago
-
----
-
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
-
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
-
-📺 Gohar Khan
-
-👁️ 41K • 👍 3K • 💬 95 • ⏱️ 0:49 • 6h ago
+👁️ 1.0M • 👍 32K • 💬 982 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -260,7 +242,15 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 94K • 👍 1K • 💬 168 • ⏱️ 10:48 • 4d ago
+👁️ 95K • 👍 1K • 💬 170 • ⏱️ 10:48 • 4d ago
+
+---
+
+**[Could AI robots soon be in our homes? #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4KvzNECXgNc)**
+
+📺 BBC News
+
+👁️ 30K • 👍 444 • 💬 51 • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -270,7 +260,7 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 5K • 👍 41 • 💬 7 • ⏱️ 9:43 • 8h ago
+👁️ 8K • 👍 52 • 💬 7 • ⏱️ 9:43 • 9h ago
 
 ---
 
@@ -280,7 +270,15 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 100K • 👍 5K • 💬 186 • ⏱️ 1:06 • 5d ago
+👁️ 101K • 👍 5K • 💬 186 • ⏱️ 1:06 • 5d ago
+
+---
+
+**[I bought a robot dog](https://www.youtube.com/watch?v=8QVHPu3xtCg)**
+
+📺 Mrwhosetheboss
+
+👁️ 482K • 👍 17K • 💬 279 • ⏱️ 0:29 • 5d ago
 
 ---
 
