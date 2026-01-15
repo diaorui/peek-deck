@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T08:33:03.761971+00:00'
+updated: '2026-01-15T09:29:35.414284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 08:33 UTC  
+**Last Updated:** January 15, 2026 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 17h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 18h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 2h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 13h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 14h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,75 +121,75 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ## Google News: "ai"
 
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
-
-The New York Times • 13h ago
-
----
-
-**[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqf0OFt6WKqE3MQlUVpkZUizVRV6nWM0CWAga8YF2oVYcbLmtuSFSrcV&gaa_ts=69689eea&gaa_sig=Wu7Z7PCICxh0QrbgCv6zFLa2VqFI_wHk6hRmN3W_qB2B0J_X7jZarrSwB6NHnAQ3YmIYxYu6ixg9aFnXuyBQUg%3D%3D)**
-
-The Wall Street Journal • 2h ago
-
----
-
-**[TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
-
-TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
-
-CNBC • 2h ago
-
----
-
-**[Taiwan's TSMC logs net profit jump on AI boom](https://finance.yahoo.com/news/taiwans-tsmc-logs-net-profit-061920911.html)**
-
-Taiwanese chipmaking titan TSMC announced Thursday a forecast-busting net profit for the fourth quarter in a sign of sustained global demand for AI technology.Net revenue for the fourth quarter rose 20.5 percent from a year ago to NT$1.05 trillion, TSMC said, also beating expectations.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race](https://www.bloomberg.com/news/articles/2026-01-15/korea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[AI Bonds Could Devour Credit Markets. Let Stock Investors Take the Risk.](https://www.barrons.com/articles/ai-bonds-credit-markets-stocks-7a1dc0b1?gaa_at=eafs&gaa_n=AWEtsqcdw5ccT5t4k-pGgCBS8Hobcjt7gdShLQVM2ybjE1kMfMh8uCmH1UVE&gaa_ts=69689eea&gaa_sig=ovOQMJRHVe9fma6I43PQ-B1IrNgrPwMTyQME0KlcJXUSCfmA9zdJzPehkBtF5oDhU_YezPKcB2smVbm8U7bluw%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Got $3,000? 4 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term](https://www.fool.com/investing/2026/01/15/got-3000-4-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss)**
-
-The effects of AI investments will benefit investors for years to come.
-
-The Motley Fool • 1h ago
-
----
-
-**[3 AI ETFs Poised for 100% Surge as Tech Revolution Accelerates](https://finance.yahoo.com/news/3-ai-etfs-poised-100-015600237.html)**
-
-Investors have been able to enjoy huge gains from artificial intelligence (AI) stocks. We're still in the early innings, though, and that means opportunities are still available.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Musk’s X to block Grok AI tool from creating sexualized images of real people](https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images)**
-
-Amid global backlash, billionaire had only hours earlier said he was not aware of any ‘naked underage images’
-
-The Guardian • 15h ago
-
----
-
 **[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
 
 Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
-BBC • 7h ago
+BBC • 43m ago
+
+---
+
+**[California attorney general investigates Musk’s Grok AI over lewd fake images](https://www.theguardian.com/technology/2026/jan/14/california-attorney-general-investigates-grok-ai-elon-musk)**
+
+AI tool made by Elon Musk’s xAI makes it easy to harass women with deepfake images, says state’s top attorney
+
+The Guardian • 13h ago
+
+---
+
+**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
+
+Elon Musk’s X is living up to its name.
+
+The New Yorker • 22h ago
+
+---
+
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+
+The New York Times • 14h ago
+
+---
+
+**[Wikipedia owner signs on Microsoft, Meta in AI content training deals](https://www.reuters.com/business/retail-consumer/wikipedia-owner-signs-microsoft-meta-ai-content-training-deals-2026-01-15/)**
+
+Reuters • 54m ago
+
+---
+
+**[Wikipedia unveils new AI licensing deals as it marks 25th birthday](https://www.bostonglobe.com/2026/01/15/business/wikipedia-unveils-new-ai-licensing-deals-it-marks-25th-birthday/)**
+
+The online crowdsourced encyclopedia revealed that it has signed licensing deals with AI companies including Amazon, Meta Platforms, Perplexity, Microsoft, and France’s Mistral AI.
+
+The Boston Globe • 46m ago
+
+---
+
+**[Wikipedia owner signs on Microsoft, Meta in AI content training deals](https://finance.yahoo.com/news/wikipedia-owner-signs-microsoft-meta-083412169.html)**
+
+Wikipedia on Thursday unveiled partnerships with several Big Tech companies including Microsoft, Meta and Amazon, marking a major step up in the ​non-profit's ability to monetize tech firms' reliance on its content.  Wikimedia Foundation, the operator ‌of the online encyclopedia, said it also signed on AI startup Perplexity and France's Mistral AI, among other firms, ‌over the past year, having enlisted Meta and Amazon as partners previously.  Wikipedia content is crucial to training AI models — its 65 million articles across over 300 languages are a key part of training data ⁠for generative AI chatbots and assistants ‌developed by tech majors.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
+
+TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
+
+CNBC • 3h ago
+
+---
+
+**[TSMC Can’t Make AI Chips Fast Enough](https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough)**
+
+The Information • 18h ago
+
+---
+
+**[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqd3c0JidsCtwxVRLTJb4JnGU54vDF_6J-R7c_aq4gdmgGVNprPiM4PI&gaa_ts=6968b6e6&gaa_sig=nQcNxj5iTU0gVVdKTOlj6KvEKZiGuqb0A1yltjpszTGC5ReVUnzKzaSmnA-wMCdrSWMf9kbh-9qQr5yItg8VOw%3D%3D)**
+
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -199,13 +199,13 @@ BBC • 7h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 925 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 926 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 455 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 456 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -243,7 +243,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 223 • 💬 311 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 224 • 💬 312 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -251,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 208 • 💬 133 • 11h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 217 • 💬 140 • 12h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -259,7 +259,7 @@ Why we are losing technical rigor to social hype
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 202 • 💬 92 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 204 • 💬 93 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -275,13 +275,13 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 ## YouTube Videos: "ai"
 
-**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
+**[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
 
-bleh.
+Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
 
-📺 D'Angelo
+📺 AI Revolution
 
-👁️ 101K • 👍 6K • 💬 452 • ⏱️ 26:29 • 15h ago
+👁️ 43K • 👍 1K • 💬 156 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -291,17 +291,17 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 81K • 👍 6K • 💬 323 • ⏱️ 10:04 • 12h ago
+👁️ 87K • 👍 6K • 💬 339 • ⏱️ 10:04 • 13h ago
 
 ---
 
-**[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
+**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
 
-Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
+bleh.
 
-📺 AI Revolution
+📺 D'Angelo
 
-👁️ 42K • 👍 1K • 💬 155 • ⏱️ 14:32 • 1d ago
+👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 15h ago
 
 ---
 
@@ -311,7 +311,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 48K • 👍 2K • 💬 305 • ⏱️ 19:03 • 16h ago
+👁️ 50K • 👍 2K • 💬 314 • ⏱️ 19:03 • 17h ago
 
 ---
 
@@ -321,27 +321,15 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 363K • 👍 32K • 💬 4K • ⏱️ 11:40 • 1d ago
+👁️ 368K • 👍 33K • 💬 4K • ⏱️ 11:40 • 1d ago
 
 ---
 
-**[Which One is AI?](https://www.youtube.com/watch?v=1ttPxy5d1xg)**
+**[NEW Raspberry Pi AI Hat Is a Massive Upgrade](https://www.youtube.com/watch?v=tu1amrfflb8)**
 
-ZoomPartner Which one do you think it is? So excited to host this Live Event with Zoom please sign up and tell your school so we ...
+📺 NetworkChuck
 
-📺 Rebecca Zamolo
-
-👁️ 609K • 👍 7K • 💬 344 • ⏱️ 0:23 • 2d ago
-
----
-
-**[Mother of one of Elon Musk&#39;s kids says AI chatbot Grok generated sexual deepfake images of her](https://www.youtube.com/watch?v=YY4LA27eeAQ)**
-
-Elon Musk's AI chatbot Grok is facing intense criticism, accused of allowing X users to generate sexually explicit images of real ...
-
-📺 CBS Mornings
-
-👁️ 64K • 👍 985 • 💬 443 • ⏱️ 5:08 • 1d ago
+👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 1h ago
 
 ---
 
@@ -351,17 +339,17 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 68K • 👍 506 • 💬 121 • ⏱️ 7:57 • 2d ago
+👁️ 68K • 👍 508 • 💬 124 • ⏱️ 7:57 • 2d ago
 
 ---
 
-**[Grok Enters the War Room, AI to Control American Military? Pentagon&#39;s AI Push | WION](https://www.youtube.com/watch?v=C0ibxHTPKW8)**
+**[Which One is AI?](https://www.youtube.com/watch?v=1ttPxy5d1xg)**
 
-The U.S. military is accelerating its push to integrate artificial intelligence into weapons systems, aiming to maintain an edge over ...
+ZoomPartner Which one do you think it is? So excited to host this Live Event with Zoom please sign up and tell your school so we ...
 
-📺 WION
+📺 Rebecca Zamolo
 
-👁️ 12K • 👍 131 • 💬 57 • ⏱️ 4:18 • 1d ago
+👁️ 611K • 👍 8K • 💬 345 • ⏱️ 0:23 • 2d ago
 
 ---
 
@@ -371,7 +359,17 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 206K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
+👁️ 208K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
+
+---
+
+**[Grok Enters the War Room, AI to Control American Military? Pentagon&#39;s AI Push | WION](https://www.youtube.com/watch?v=C0ibxHTPKW8)**
+
+The U.S. military is accelerating its push to integrate artificial intelligence into weapons systems, aiming to maintain an edge over ...
+
+📺 WION
+
+👁️ 12K • 👍 133 • 💬 57 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 36,933 • ❤️ 644 • 7d ago
+⬇️ 44,101 • ❤️ 657 • 7d ago
 
 ---
 
@@ -399,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 1,005 • 14h ago
+⬇️ 1,187,843 • ❤️ 1,010 • 15h ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 583 • 1d ago
+⬇️ 2,442 • ❤️ 596 • 1d ago
 
 ---
 
@@ -423,7 +421,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,897 • ❤️ 372 • 9d ago
+⬇️ 4,414 • ❤️ 376 • 9d ago
 
 ---
 
@@ -435,7 +433,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 270 • 23h ago
+⬇️ 315 • ❤️ 273 • 1d ago
 
 ---
 
@@ -447,7 +445,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 264 • 12h ago
+⬇️ 41,095 • ❤️ 266 • 13h ago
 
 ---
 
@@ -459,7 +457,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 26,915 • ❤️ 245 • 5d ago
+⬇️ 31,008 • ❤️ 246 • 5d ago
 
 ---
 
@@ -471,7 +469,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 31,045 • ❤️ 379 • 9d ago
+⬇️ 31,316 • ❤️ 380 • 9d ago
 
 ---
 
@@ -483,7 +481,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 28,833 • ❤️ 218 • 5d ago
+⬇️ 36,629 • ❤️ 222 • 5d ago
 
 ---
 
@@ -495,7 +493,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 22,649 • ❤️ 333 • 6d ago
+⬇️ 37,152 • ❤️ 334 • 6d ago
 
 ---
 
@@ -509,7 +507,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 6 • 💬 1 • ⭐ 2,166 • 3d ago
+▲ 6 • 💬 1 • ⭐ 2,356 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -533,7 +531,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 113 • 💬 3 • ⭐ 2,448 • 8d ago
+▲ 114 • 💬 3 • ⭐ 2,448 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -560,7 +558,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 131 • 💬 19 • ⭐ 50,054 • 10mo ago
+▲ 132 • 💬 19 • ⭐ 50,104 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -572,7 +570,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
 
-▲ 3 • 💬 0 • ⭐ 28,629 • 19mo ago
+▲ 3 • 💬 0 • ⭐ 28,670 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
@@ -596,23 +594,9 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 65,734 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 65,776 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
-
----
-
-**[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://huggingface.co/papers/2601.06487)**
-
-*Qiang Zhang, Boli Chen, Fanrui Zhang et al. (17 authors)*
-
-🏢 Alibaba-NLP
-
-Reinforcement learning for large language model agents suffers from discrimination collapse in open-ended tasks due to pointwise scalar scoring, which ArenaRL addresses through relative ranking and pairwise evaluation mechanisms.
-
-▲ 38 • 💬 2 • ⭐ 49 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.06487) • [💻 code](https://github.com/Alibaba-NLP/qqr) • [🔗 project](https://tongyi-agent.github.io/blog/arenarl/)
 
 ---
 
@@ -629,6 +613,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://huggingface.co/papers/2601.06487)**
+
+*Qiang Zhang, Boli Chen, Fanrui Zhang et al. (17 authors)*
+
+🏢 Alibaba-NLP
+
+Reinforcement learning for large language model agents suffers from discrimination collapse in open-ended tasks due to pointwise scalar scoring, which ArenaRL addresses through relative ranking and pairwise evaluation mechanisms.
+
+▲ 40 • 💬 2 • ⭐ 71 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.06487) • [💻 code](https://github.com/Alibaba-NLP/qqr) • [🔗 project](https://tongyi-agent.github.io/blog/arenarl/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +637,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.6k • 🔱 1.1k • 2h ago
+⭐ 8.6k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -649,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 5.4k • 🔱 231 • 1d ago
+⭐ 5.6k • 🔱 235 • 1d ago
 
 ---
 
@@ -659,7 +657,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 536 • 7d ago
+⭐ 4.0k • 🔱 540 • 7d ago
 
 ---
 
@@ -669,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 147 • 17h ago
+⭐ 2.4k • 🔱 147 • 18h ago
 
 ---
 
@@ -683,13 +681,23 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
+**[vercel-labs/json-render](https://github.com/vercel-labs/json-render)**
+
+AI → JSON → UI
+
+`TypeScript`
+
+⭐ 1.7k • 🔱 55 • 5h ago
+
+---
+
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
 Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 2h ago
+⭐ 1.6k • 🔱 132 • 3h ago
 
 ---
 
@@ -699,7 +707,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.5k • 🔱 1.3k • 18h ago
+⭐ 1.6k • 🔱 1.3k • 19h ago
 
 ---
 
@@ -709,17 +717,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 117 • 2d ago
-
----
-
-**[vercel-labs/json-render](https://github.com/vercel-labs/json-render)**
-
-AI → JSON → UI
-
-`TypeScript`
-
-⭐ 1.3k • 🔱 43 • 4h ago
+⭐ 1.4k • 🔱 118 • 2d ago
 
 ---
 
@@ -729,7 +727,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.3k • 🔱 90 • 16d ago
+⭐ 1.3k • 🔱 91 • 16d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T08:33:03.776398+00:00'
+updated: '2026-01-15T09:29:35.428879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 08:33 UTC  
+**Last Updated:** January 15, 2026 at 09:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +8.0%  
-**30d:** +17.7%  
-**90d:** -14.3%  
-**1y:** +0.7%  
+**24h:** +1.0%  
+**7d:** +8.2%  
+**30d:** +17.9%  
+**90d:** -14.1%  
+**1y:** +0.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.11B
+**Market Cap:** $402.67B
 Rank #2
 
 **Circulating Supply:** 120,694,650 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.8%
+-32.4%
 
 **All-Time Low:** $0.43
-+767879.5%
++771946.7%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
+
+---
+
+**[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
+
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 1h ago
 
 ---
 
@@ -88,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Weekly Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard THE PRINCESTON DECENTER PROFESSOR'S ROUNDTABLE Carolyn Biltoft: https://www.graduateinstitute.ch/facu... Andrew Chignell: https://chignell.net/ Devin P. Singh: https://religion.dartmouth.edu/people... Gordon Grant: Principal at ChiSquared Technologies Mike Maizels: https://engineering.princeton.edu/sta... Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/jo... Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans the work of Immanuel Kant and other Enlightenment philosophers, philosophy of religion, epistemology and the ethics of belief, and topics in moral psychology like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 10h ago
+🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 11h ago
 
 ---
 
@@ -104,13 +110,13 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 10h ago
 
 ---
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 4h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 5h ago
 
 ---
 
@@ -141,14 +147,6 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 ---
 
-**[Daily General Discussion January 13, 2026](https://www.reddit.com/r/ethereum/comments/1qbjlpk/daily_general_discussion_january_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -171,7 +169,7 @@ Decrypt • 1d ago
 
 Ethereum’s outlook has been improving its case. After a prolonged period of underperformance and skepticism, the network is starting to exhibit signs of renewed structural and fundamental strength. While BTC continues to anchor the market as the primary store of value and digital gold, conditions a…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -183,19 +181,19 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 ---
 
+**[Crypto Market News Today, January 15: Coinbase CEO Stops ‘The Written’ Crypto Bill Support as Ethereum Price Sideways in 2 Months | Altcoin Season Coming?](https://finance.yahoo.com/news/crypto-market-news-today-january-065052168.html)**
+
+Leading asset manager 21Shares has listed a new exchange-traded product (ETP) that mixes Bitcoin and gold on the London Stock Exchange. The product arrived as BTC/USD surged +3.3% overnight to around $95,000, following bullish US CPI data and record annual Bitcoin ETF flows. Zoom out, and this Bitcoin x gold ...
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 17h ago
-
----
-
-**[Why Is Ethereum Jumping Today?](https://finance.yahoo.com/news/why-ethereum-jumping-today-223012541.html)**
-
-More crypto regulation could be coming soon.
-
-Yahoo Finance • 10h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -204,6 +202,12 @@ Yahoo Finance • 10h ago
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
+
+The Block • 20h ago
 
 ---
 
@@ -221,14 +225,6 @@ Investing.com • 1d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Rallying Today?](https://www.tradingview.com/news/coinpedia:a65690739094b:0-why-are-bitcoin-ethereum-and-xrp-prices-rallying-today/)**
-
-The crypto market is in the green today, with Bitcoin, Ethereum, and XRP all posting solid gains. The total crypto market value has jumped above $3.25 trillion, rising more than 4.5% in the last 24 hours.Here’s a simple breakdown of what’s driving the rally.1. Bitcoin Breaks Above $94,000 and $95,0…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -239,7 +235,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 180 • 💬 33 • ⏱️ 11:22 • 8h ago
+👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 8h ago
 
 ---
 
@@ -249,7 +245,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 130 • 💬 7 • ⏱️ 20:12 • 15h ago
+👁️ 4K • 👍 141 • 💬 8 • ⏱️ 20:12 • 16h ago
 
 ---
 
@@ -259,17 +255,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 111 • 💬 4 • ⏱️ 4:34 • 5h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 601 • 💬 26 • ⏱️ 17:37 • 1d ago
+👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 6h ago
 
 ---
 
@@ -279,7 +265,17 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 62 • 💬 26 • ⏱️ 36:50 • 12h ago
+👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 13h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 604 • 💬 26 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -289,7 +285,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 17h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 18h ago
 
 ---
 
@@ -299,7 +295,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 540 • 💬 47 • ⏱️ 17:33 • 3h ago
+👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 4h ago
 
 ---
 
@@ -309,17 +305,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 1K • 👍 99 • 💬 16 • ⏱️ 6:04 • 18h ago
-
----
-
-**[CRYPTO Impossible To Ignore: Ethereum, Chainlink, Cardano Tell Same Story!p](https://www.youtube.com/watch?v=le-YcIqDThM)**
-
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Altcoins are starting to tell the same ...
-
-📺 Dan Gambardello
-
-👁️ 17K • 👍 1K • 💬 235 • ⏱️ 13:02 • 1d ago
+👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 19h ago
 
 ---
 
@@ -329,7 +315,17 @@ Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 5K • 💬 244 • ⏱️ 9:23 • 1d ago
+👁️ 79K • 👍 5K • 💬 245 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+
+From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+
+📺 The Value Thinker
+
+👁️ 18K • 👍 1K • 💬 175 • ⏱️ 26:25 • 1d ago
 
 ---
 

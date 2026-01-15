@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T08:33:03.770422+00:00'
+updated: '2026-01-15T09:29:35.422886+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 08:33 UTC  
+**Last Updated:** January 15, 2026 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,469.75
+### $96,642.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +6.8%  
-**30d:** +12.0%  
-**90d:** -9.7%  
-**1y:** -3.3%  
+**24h:** +1.7%  
+**7d:** +6.9%  
+**30d:** +12.1%  
+**90d:** -9.5%  
+**1y:** -3.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1923.84B
+**Market Cap:** $1929.76B
 Rank #1
 
 **Circulating Supply:** 19,976,012 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--23.5%
+-23.3%
 
 **All-Time Low:** $67.81
-+142109.1%
++142586.9%
 
 ---
 
@@ -77,6 +77,38 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
+
+Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
+
+14h ago
+
+---
+
+**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
+
+19h ago
+
+---
+
+**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
+
+18h ago
+
+---
+
+**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
+
+6h ago
+
+---
+
+**[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
+
+13h ago
+
+---
+
 **[KEEP BUYING](https://www.reddit.com/r/Bitcoin/comments/1qcyixe/keep_buying/)**
 
 my hands are made of diamonds and there is goop inside of my skull
@@ -85,47 +117,15 @@ my hands are made of diamonds and there is goop inside of my skull
 
 ---
 
-**[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
-
-12h ago
-
----
-
-**[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
-
-Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
-
-13h ago
-
----
-
-**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
-
-18h ago
-
----
-
-**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
-
-17h ago
-
----
-
-**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
-
-5h ago
-
----
-
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,13 +133,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-10h ago
+11h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -147,17 +147,37 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 ## Google News: "bitcoin"
 
-**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
+**[Bitcoin long-term holders cashing out less aggressively than in 2025 as prices hit the sell zone](https://www.coindesk.com/markets/2026/01/15/long-term-bitcoin-holders-sell-less-than-in-2025-in-a-bullish-sign-for-prices)**
 
-A growing number of investors think Bitcoin might end the year above the $200,000 price level.
+Bitcoin has returned to a price zone that previously blocked gains, but long-term holders are now taking profits more slowly than in 2025.
 
-Yahoo Finance • 18h ago
+CoinDesk • 3h ago
 
 ---
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 9h ago
+The Block • 10h ago
+
+---
+
+**[Bitcoin Rally Stalls. Senate Crypto Bill Hits a Snag as Coinbase Pulls Support.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqcd4ROsimMOY_xwOkKJrY30Xey9KUk_FtL-8YaKZveiNY4ktwRDpC0-&gaa_ts=6968b6e7&gaa_sig=GwOhVtDCk2hpVWLW0CR0ZLDovligam9i7ZuD9_7vRpdn0Hoo2u9lV79Lx16LhRFtmMJVMnND2EWMEmMGF0MQLw%3D%3D)**
+
+Barron's • 52m ago
+
+---
+
+**[Senate Draft Bill Puts XRP, Solana, Dogecoin on Bitcoin’s Level](https://finance.yahoo.com/news/senate-draft-bill-puts-xrp-221534852.html)**
+
+A draft US Senate bill reportedly places XRP, Solana, and Dogecoin in the same legal bucket as Bitcoin. Bitcoin traded near $93,000 after the text circulated, while major altcoins showed muted moves. This fits a wider push in Washington to draw clean rules for crypto after years of court fights ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin rally stalls. Senate crypto bill hits a snag as Coinbase pulls support](https://www.msn.com/en-us/money/markets/bitcoin-rally-stalls-senate-crypto-bill-hits-a-snag-as-coinbase-pulls-support/ar-AA1UfWHQ?ocid=finance-verthp-feeds)**
+
+MSN • 52m ago
 
 ---
 
@@ -179,27 +199,13 @@ CoinDesk • 1d ago
 
 Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.
 
-CoinDesk • 57m ago
-
----
-
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcz5wgxCR8QO9x9Lm513qGOlKZrCkFG6EJY_3gdvUJczigwq3Bz9mnu&gaa_ts=69689eec&gaa_sig=-p4QqlRElOX85qRBPS7X1cOdn-zn5A705GR09YVToeYDn-aj8V2s3Mg99R_AoYL2k7V3hR0nRO8DGCns4JlC6Q%3D%3D)**
-
-Barron's • 10h ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 11h ago
-
----
-
-**[Senate Draft Bill Puts XRP, Solana, Dogecoin on Bitcoin’s Level](https://finance.yahoo.com/news/senate-draft-bill-puts-xrp-221534852.html)**
-
-A draft US Senate bill reportedly places XRP, Solana, and Dogecoin in the same legal bucket as Bitcoin. Bitcoin traded near $93,000 after the text circulated, while major altcoins showed muted moves. This fits a wider push in Washington to draw clean rules for crypto after years of court fights ...
-
-Yahoo Finance • 1d ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -207,13 +213,7 @@ Yahoo Finance • 1d ago
 
 North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Decrypt • 11h ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 1d ago
+Decrypt • 12h ago
 
 ---
 
@@ -247,7 +247,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 5d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 6d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -307,67 +307,17 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 110 • ⏱️ 24:06 • 9h ago
+👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 10h ago
 
 ---
 
-**[🤩 F*CK Yeah - We Going To $100,000 in Bitcoin](https://www.youtube.com/watch?v=v6hUmYvlUhE)**
+**[The $100K Bitcoin Comeback: Why This Rally Is Different](https://www.youtube.com/watch?v=onv50F9PXYA)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+Bitcoin is poised for another historic run. From Wall Street's mixed signals to spot buying momentum and the OG whales finally ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 CryptosRus Extra
 
-👁️ 537 • 👍 53 • 💬 9 • ⏱️ 7:57 • 3h ago
-
----
-
-**[Bitcoin: Next 24 Hours Are CRITICAL! [Fully Explained]](https://www.youtube.com/watch?v=OKOYi_ociYk)**
-
-Bitcoin just ripped from $92K to $97K, but is this a massive breakout or the ultimate fakeout? With $750M in Bitcoin ETF inflows ...
-
-📺 Kyle Chasse crypto
-
-👁️ 7K • 👍 405 • 💬 71 • ⏱️ 11:32 • 10h ago
-
----
-
-**[what just happened to bitcoin and crypto altcoins... the answer is [BONE INDUCING]](https://www.youtube.com/watch?v=rRxyULCv0UQ)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 15K • 👍 884 • 💬 106 • ⏱️ 6:42 • 13h ago
-
----
-
-**[Bitcoin Has Entered the Housekeeping Zone (URGENT Update)](https://www.youtube.com/watch?v=_xWL7IRKTB0)**
-
-Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeeping zone” the market always reacts to. ➡ Follow ...
-
-📺 EllioTrades
-
-👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:03 • 12h ago
-
----
-
-**[HUGE BITCOIN BREAKOUT AHEAD...](https://www.youtube.com/watch?v=hJ40hCVW6MY)**
-
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 270 • 💬 8 • ⏱️ 10:08 • 3h ago
-
----
-
-**[Bitcoin Fear Index Extreme | The Setup Nobody&#39;s Talking About](https://www.youtube.com/watch?v=ofaBv5PFuyg)**
-
-Stay informed with the latest insights on **bitcoin today**, focusing on effective **crypto trading** strategies and essential ...
-
-📺 Krown
-
-👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 14h ago
+👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 4h ago
 
 ---
 
@@ -377,7 +327,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 652 • 💬 172 • ⏱️ 26:45 • 6h ago
+👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 7h ago
 
 ---
 
@@ -387,17 +337,67 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 16K • 👍 1K • 💬 99 • ⏱️ 9:34 • 15h ago
+👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 16h ago
 
 ---
 
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+**[Bitcoin Has Entered the Housekeeping Zone (URGENT Update)](https://www.youtube.com/watch?v=_xWL7IRKTB0)**
 
-Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
+Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeeping zone” the market always reacts to. ➡ Follow ...
 
-📺 Altcoin Daily
+📺 EllioTrades
 
-👁️ 78K • 👍 5K • 💬 244 • ⏱️ 9:23 • 1d ago
+👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 13h ago
+
+---
+
+**[what just happened to bitcoin and crypto altcoins... the answer is [BONE INDUCING]](https://www.youtube.com/watch?v=rRxyULCv0UQ)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 14h ago
+
+---
+
+**[🤩 F*CK Yeah - We Going To $100,000 in Bitcoin](https://www.youtube.com/watch?v=v6hUmYvlUhE)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 4h ago
+
+---
+
+**[HUGE BITCOIN BREAKOUT AHEAD...](https://www.youtube.com/watch?v=hJ40hCVW6MY)**
+
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 4h ago
+
+---
+
+**[Bitcoin Fear Index Extreme | The Setup Nobody&#39;s Talking About](https://www.youtube.com/watch?v=ofaBv5PFuyg)**
+
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **crypto trading** strategies and essential ...
+
+📺 Krown
+
+👁️ 8K • 👍 718 • 💬 116 • ⏱️ 12:02 • 15h ago
+
+---
+
+**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
+
+MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
+
+📺 Austin Hilton
+
+👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 17h ago
 
 ---
 
