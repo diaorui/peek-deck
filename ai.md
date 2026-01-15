@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T10:51:28.485517+00:00'
+updated: '2026-01-15T11:21:01.477412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 10:51 UTC  
+**Last Updated:** January 15, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 4h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 15h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 16h ago
 
 ---
 
@@ -125,13 +125,13 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 48m ago
+The New York Times • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 48m ago
 
 Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 2h ago
 
 AI tool made by Elon Musk’s xAI makes it easy to harass women with deepfake images, says state’s top attorney
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 14h ago
 
 Elon Musk’s X is living up to its name.
 
-The New Yorker • 23h ago
+The New Yorker • 1d ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 17h ago
 
 **[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
 
-Axios • 16m ago
+Axios • 45m ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2h ago
 
 Marvell is an underrated AI chipmaker heading into 2026.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -253,7 +253,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 220 • 💬 144 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 220 • 💬 144 • 14h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -331,7 +331,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 NetworkChuck
 
-👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 2h ago
+👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 3h ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,010 • 16h ago
+⬇️ 1,187,843 • ❤️ 1,010 • 17h ago
 
 ---
 
@@ -639,7 +639,7 @@ Reinforcement learning for large language model agents suffers from discriminati
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.6k • 🔱 1.1k • 4h ago
+⭐ 8.6k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 55 • 6h ago
+⭐ 1.7k • 🔱 55 • 7h ago
 
 ---
 
@@ -699,7 +699,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 4h ago
+⭐ 1.6k • 🔱 132 • 5h ago
 
 ---
 
@@ -709,7 +709,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.6k • 🔱 1.3k • 20h ago
+⭐ 1.6k • 🔱 1.3k • 21h ago
 
 ---
 

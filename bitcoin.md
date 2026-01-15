@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T10:51:28.494082+00:00'
+updated: '2026-01-15T11:21:01.484960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 10:51 UTC  
+**Last Updated:** January 15, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-20h ago
+21h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ The data for the last 12 hours (69 blocks) speaks volumes right now. PnL is the 
 
 Bitcoin has returned to a price zone that previously blocked gains, but long-term holders are now taking profits more slowly than in 2025.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 11h ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 40m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Investor's Business Daily • 13h ago
 
 North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -293,7 +293,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 11h ago
+👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 12h ago
 
 ---
 
@@ -313,7 +313,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 8h ago
+👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 17h ago
+👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 14h ago
+👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 15h ago
+👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 5h ago
+👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -363,7 +363,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 5h ago
+👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 6h ago
 
 ---
 
