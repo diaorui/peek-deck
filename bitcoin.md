@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T20:23:30.858435+00:00'
+updated: '2026-01-16T20:44:14.208362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 20:23 UTC  
+**Last Updated:** January 16, 2026 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1900.59B
+**Market Cap:** $1900.38B
 Rank #1
 
-**Circulating Supply:** 19,976,659 BTC
+**Circulating Supply:** 19,976,678 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.5%
 
 **All-Time Low:** $67.81
-+140187.6%
++140217.1%
 
 ---
 
@@ -87,13 +87,13 @@ The bill is now in its final draft stage, marking a major step towards official 
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ The bill is now in its final draft stage, marking a major step towards official 
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-8h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -173,13 +173,7 @@ CoinDesk • 7h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 6h ago
-
----
-
-**[The Daily: Jefferies strategist drops 10% bitcoin allocation over quantum fears, Google Play bans overseas crypto exchanges in South Korea, and more](https://www.theblock.co/post/386004/the-daily-jefferies-drops-10-bitcoin-allocation-quantum-fears-google-play-bans-overseas-crypto-exchanges-south-korea)**
-
-The Block • 1h ago
+The Block • 7h ago
 
 ---
 
@@ -188,6 +182,28 @@ The Block • 1h ago
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
 Yahoo Finance • 7h ago
+
+---
+
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+
+The Block • 46m ago
+
+---
+
+**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
+
+Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
+
+Bitcoin Magazine • 24m ago
+
+---
+
+**[Bitcoin (BTC) miner outlook looking up this year, says JPMorgan](https://www.coindesk.com/markets/2026/01/16/early-2026-tailwinds-for-bitcoin-miners-as-hashrate-falls-profitability-improves-jpmorgan)**
+
+U.S.-listed bitcoin miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -203,23 +219,7 @@ Mother Jones • 4h ago
 
 Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Seeking Alpha • 1h ago
-
----
-
-**[Nasdaq Warns Bitcoin Hardware Maker Canaan About Delisting](https://decrypt.co/354933/nasdaq-warns-bitcoin-hardware-maker-canaan-delisting)**
-
-Bitcoin miner Canaan has until July to boost its stock above $1 for 10 days or face Nasdaq delisting, with shares currently trading at $0.79.
-
-Decrypt • 2h ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
-
-Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
-
-The Motley Fool • 1d ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Motley Fool • 1d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 4h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 5h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -239,7 +239,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -247,7 +247,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 3d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 4d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -305,23 +305,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
+**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
 
-LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 20h ago
-
----
-
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
-
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
-
-📺 What Bitcoin Did
-
-👁️ 7K • 👍 553 • 💬 159 • ⏱️ 1:13:07 • 9h ago
+👁️ 17K • 👍 1K • 💬 129 • ⏱️ 43:25 • 5h ago
 
 ---
 
@@ -331,47 +321,27 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 161 • 💬 84 • ⏱️ 5:23 • 21h ago
+👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 21h ago
 
 ---
 
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
 
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 30K • 👍 3K • 💬 203 • ⏱️ 21:24 • 19h ago
-
----
-
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
-
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
-
-📺 CNBC Television
-
-👁️ 106K • 👍 1K • 💬 463 • ⏱️ 5:15 • 1d ago
+👁️ 60K • 👍 3K • 💬 218 • ⏱️ 11:32 • 21h ago
 
 ---
 
-**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
 
-Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
 
-📺 Fox Business
+📺 Altcoin Daily
 
-👁️ 20K • 👍 426 • 💬 26 • ⏱️ 1:06 • 20h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 52K • 👍 4K • 💬 156 • ⏱️ 18:18 • 15h ago
+👁️ 12K • 👍 1K • 💬 130 • ⏱️ 16:02 • 3h ago
 
 ---
 
@@ -381,27 +351,57 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 11K • 👍 651 • 💬 84 • ⏱️ 13:46 • 9h ago
+👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 9h ago
 
 ---
 
-**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
 
-Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
 
-📺 Swan Bitcoin
+📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 264 • ⏱️ 14:15 • 22h ago
+👁️ 82K • 👍 5K • 💬 559 • ⏱️ 14:43 • 1d ago
 
 ---
 
-**[Every CRYPTO CRASH Signal Since 2014 Just Went Off | Here&#39;s Why It May Be Wrong](https://www.youtube.com/watch?v=30AYVztQAnQ)**
+**[Galaxy CEO Michael Novogratz on data center expansion, fate of Senate crypto bill](https://www.youtube.com/watch?v=v6v0rlUMGOI)**
 
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The signal that called every Bitcoin ...
+Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the expansion of the company's Helios data center, ...
 
-📺 Dan Gambardello
+📺 CNBC Television
 
-👁️ 17K • 👍 1K • 💬 309 • ⏱️ 16:02 • 1d ago
+👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 7h ago
+
+---
+
+**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=qUBeQ-hS-Xc)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Podcast Ancur
+
+👁️ 4K • 👍 2K • 1h ago
+
+---
+
+**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
+
+Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
+
+📺 Fox Business
+
+👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 20h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 15h ago
 
 ---
 

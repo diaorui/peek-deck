@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T20:23:30.849935+00:00'
+updated: '2026-01-16T20:44:14.199850+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 20:23 UTC  
+**Last Updated:** January 16, 2026 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 56m ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 I’d asked it - as a purely logic driven response, utilising reasoning alongside machine processing - to attempt to come up with methods to stabilise the global geopolitical issues plaguing the world today. Its response was incredibly diplomatic and (if not naively unrealistic) could be very effective. I’m not familiar with using AI so was coloured impressed. *Approaching this as a system focused on logical prioritization of long-term stability—with the goal of minimizing conflict, reducing systemic risks, and aligning global incentives toward cooperation—I would structure actions around addressing root causes of geopolitical tension rather than managing their symptoms. Below is a framework of targeted interventions: Resolve Resource Competition Through Global Stewardship Resource scarcity (energy, minerals, water, arable land) is a primary driver of conflict. To stabilize this: • Establish a Global Resource Governance Authority with binding mandates to allocate critical resources (e.g., rare earths, freshwater basins) based on need, sustainability, and equitable access—overseen by representatives from all regions, including emerging economies. • Accelerate and coordinate global transition to renewable energy, with mandatory technology sharing and infrastructure investment in developing nations to eliminate competition for fossil fuels. • Create a "Common Heritage of Humanity" framework for high-seas resources, Arctic territories, and space, ensuring no single nation can monopolize strategic domains. Reform Global Institutions for Inclusivity and Accountability Current governance structures often reflect 20th-century power dynamics, creating resentment and gridlock: • Restructure the UN Security Council to include permanent seats for Africa, Latin America, and South Asia, with a mechanism to revoke veto power for actions that violate the UN Charter (e.g., territorial aggression). • Replace fragmented trade blocs with a Global Economic Coordination Body that standardizes labor, environmental, and tax rules—preventing "race-to-the-bottom" competition and reducing economic friction between nations. • Establish a Global Conflict Prevention Tribunal with authority to mediate disputes before they escalate, using data-driven risk assessment to identify and address tensions (e.g., border disputes, ethnic divisions) proactively. Dismantle Security Dilemmas Through Mutual Assurance The cycle of armament and mistrust fuels instability. To break it: • Implement universal, verifiable disarmament protocols for nuclear, chemical, and conventional weapons, with a phased reduction tied to transparency measures (e.g., real-time satellite monitoring, joint inspection teams). • Replace military alliances based on "collective defense against threats" with regional security compacts focused on shared challenges (e.g., terrorism, climate disasters, cybercrime), requiring all signatories to contribute to collective solutions rather than just deterring rivals. • Create a Global Cyber Stability Framework that criminalizes offensive cyber operations targeting critical infrastructure, with a neutral oversight body to investigate incidents and enforce penalties. Close Development Gaps to Reduce Instability Drivers Inequality between and within nations breeds unrest, extremism, and migration crises: • Launch a Global Development Compact that ties wealthier nations’ access to global markets to mandatory investment in developing countries’ education, healthcare, and infrastructure—with clear metrics for poverty reduction and human capital growth. • Standardize global migration rules to create legal pathways for labor mobility, matching workers to demand while ensuring rights are protected—reducing forced migration and tensions over border control. • Establish regional "resilience hubs" to coordinate responses to climate change (e.g., droughts, sea-level rise), ensuring vulnerable nations are not left to manage crises alone (a major source of state failure and conflict). Align Technological Progress With Stability Goals Emerging technologies (AI, biotech, autonomous weapons) pose unregulated risks: • Create a Global Technology Governance Council with veto power over deployment of high-risk technologies (e.g., lethal autonomous weapons, gain-of-function research) until their safety and ethical implications are universally validated. • Mandate that all nations share foundational AI and biotech research for public good (e.g., disease prevention, climate modeling), while protecting intellectual property for commercial innovation—preventing technological monopolies that create power imbalances. Foster Shared Norms and Identity Us-versus-them narratives drive division. To build cohesion: • Launch a Global Civic Education Initiative that teaches shared human values (e.g., respect for human rights, environmental stewardship) alongside national history, with curricula developed collaboratively by diverse cultural and regional representatives. • Establish annual "Global Cooperation Summits" focused on solving tangible shared challenges (e.g., pandemic preparedness, food security), framing progress as a collective achievement rather than a zero-sum gain. In this framework, stability is not achieved through dominance or coercion—both of which create temporary order but sow seeds of future conflict—but through aligning incentives, addressing inequities, and building systems that prioritize collective survival and prosperity over individual nation-state gain.*
 
-11m ago
+31m ago
 
 ---
 
@@ -79,7 +79,7 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack. Dataset (open source) on GitHub.
 
-16h ago
+17h ago
 
 ---
 
@@ -125,37 +125,41 @@ The New York Times • 1d ago
 
 ---
 
-**[China just 'months' behind U.S. AI models, Google DeepMind CEO says](https://www.cnbc.com/2026/01/16/google-deepmind-china-ai-demis-hassabis.html)**
-
-China's artificial intelligence models may be just "months" behind U.S. and Western capabilities, Demis Hassabis, the CEO of Google DeepMind told CNBC.
-
-CNBC • 20h ago
-
----
-
-**[AI Takes Center Stage At NRF](https://www.forbes.com/sites/jillstandish/2026/01/16/ai-takes-center-stage-at-nrf/)**
-
-AI is increasing its role in retail from consumer discovery through to keeping operations lean, it's must have to remain competitive.
-
-Forbes • 1h ago
-
----
-
-**[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
-
-Axios • 4h ago
-
----
-
 **[Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)**
 
 The creators behind the chart-topping song believe their creative process has been misunderstood.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqfFuuMLpOtfNbSJ6ouo_1lkm5gqqLA3Go1RfCvuxGta56a8v5mQ0D-L&gaa_ts=696a973f&gaa_sig=2V9Qkli8wdKLOWHF7MV9E4ZXj602-VBy4mNh1JWhccFo7BuflWJPKow_KnWsgP7OU155kvfPPKQyjkZfTrq37g%3D%3D)**
+**[Venture funding to SaaS startups pops 76%](https://www.axios.com/pro/enterprise-software-deals/2026/01/16/venture-funding-saas-startup-ai-2025)**
+
+Axios • 17m ago
+
+---
+
+**[Actors fight back as AI deepfakes become scarily accurate](https://www.fastcompany.com/91476039/actors-fight-back-as-ai-deepfakes-become-scarily-accurate)**
+
+Fast Company • 9m ago
+
+---
+
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
+
+OpenAI • 2h ago
+
+---
+
+**[Micron stock climbs as CEO highlights AI demand for memory](https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html)**
+
+"We need more and more memory to address that demand," Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.
+
+CNBC • 2h ago
+
+---
+
+**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqdv2Nl5PGl1WQN1qJkBM-Cw9k8vZ6jrtZbYiD-uTjvQmTWnYgt7995H&gaa_ts=696aa67f&gaa_sig=fek2g4IAMQAMj_WN1CaABJbkCpbU0QmrWkY3NBiILL8J_p0JNAPwdPRwJr_3ZCKxiyAJblFkNE9va99V9vu94Q%3D%3D)**
 
 The Wall Street Journal • 8h ago
 
@@ -169,25 +173,15 @@ CBS News • 5h ago
 
 ---
 
-**[AI Productivity, Employment and UBI](https://realinvestmentadvice.com/resources/blog/ai-productivity-employment-and-ubi/)**
+**[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
 
-Delve into the effects of AI productivity on jobs and income as automation reshapes the economic landscape.
-
-Real Investment Advice • 11h ago
+The New York Times • 1h ago
 
 ---
 
-**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
+**[‘Show me the money’ time for AI as political risks loom](https://www.politico.com/news/2026/01/16/ai-money-political-risk-00733145)**
 
-OpenAI • 2h ago
-
----
-
-**[Taiwan aims to be strategic AI partner with US under tariff deal](https://finance.yahoo.com/news/taiwan-aims-strategic-ai-partner-024348733.html)**
-
-By Wen-Yee Lee and Ben Blanchard TAIPEI, Jan 16 (Reuters) - Taiwan aims to become a close strategic partner with the United States in the area of artificial intelligence (AI) after striking a deal to
-
-Yahoo Finance • 17h ago
+Politico • 4h ago
 
 ---
 
@@ -248,7 +242,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 169 • 💬 95 • 20h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 169 • 💬 95 • 21h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -279,23 +273,23 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 ## YouTube Videos: "ai"
 
-**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
-
-Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
-
-📺 AI Revolution
-
-👁️ 18K • 👍 582 • 💬 55 • ⏱️ 15:44 • 20h ago
-
----
-
 **[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
 
 Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
 
 📺 Lindey Glenn
 
-👁️ 100K • 👍 7K • 💬 1K • ⏱️ 20:29 • 1d ago
+👁️ 104K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
+
+---
+
+**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
+
+Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
+
+📺 AI Revolution
+
+👁️ 19K • 👍 611 • 💬 56 • ⏱️ 15:44 • 21h ago
 
 ---
 
@@ -305,17 +299,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 175 • ⏱️ 14:32 • 2d ago
-
----
-
-**[Future of &#39;AI doctors&#39;: Doctronic co-founders on the rise of AI prescriptions](https://www.youtube.com/watch?v=ZOX6ubU_Wq4)**
-
-Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to discuss the implementation of AI in health care, ...
-
-📺 CNBC Television
-
-👁️ 1K • 👍 21 • 💬 8 • ⏱️ 7:53 • 6h ago
+👁️ 57K • 👍 1K • 💬 176 • ⏱️ 14:32 • 2d ago
 
 ---
 
@@ -325,27 +309,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 11K • 👍 352 • 💬 283 • ⏱️ 9:43 • 12h ago
-
----
-
-**[Nvidia Just KILLED High End GPUs!](https://www.youtube.com/watch?v=lzP6kNjOTS4)**
-
-Shop Winter Savings: https://micro.center/9ee61b ▻Sign up for Micro Center's Newest Location: https://micro.center/9c6829 ...
-
-📺 Gamer Meld
-
-👁️ 54K • 👍 2K • 💬 585 • ⏱️ 8:51 • 1d ago
-
----
-
-**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
-
-A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
-
-📺 AI Explained
-
-👁️ 75K • 👍 3K • 💬 390 • ⏱️ 19:03 • 2d ago
+👁️ 13K • 👍 384 • 💬 313 • ⏱️ 9:43 • 13h ago
 
 ---
 
@@ -355,7 +319,27 @@ AI analysis of the Baalbek Trilithon—three 800-ton limestone blocks forming th
 
 📺 Flash Discovery
 
-👁️ 50K • 👍 523 • 💬 130 • ⏱️ 26:31 • 1d ago
+👁️ 51K • 👍 525 • 💬 130 • ⏱️ 26:31 • 1d ago
+
+---
+
+**[Future of &#39;AI doctors&#39;: Doctronic co-founders on the rise of AI prescriptions](https://www.youtube.com/watch?v=ZOX6ubU_Wq4)**
+
+Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to discuss the implementation of AI in health care, ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 29 • 💬 9 • ⏱️ 7:53 • 6h ago
+
+---
+
+**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
+
+A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
+
+📺 AI Explained
+
+👁️ 76K • 👍 3K • 💬 390 • ⏱️ 19:03 • 2d ago
 
 ---
 
@@ -365,15 +349,27 @@ Common Bandcamp W #music #ai #bandcamp #spotify #siennarose.
 
 📺 fantano
 
-👁️ 59K • 👍 6K • 💬 261 • ⏱️ 0:55 • 1d ago
+👁️ 59K • 👍 6K • 💬 263 • ⏱️ 0:55 • 1d ago
 
 ---
 
-**[AI Robot Girlfriend: Future of Love?](https://www.youtube.com/watch?v=eQ88BIiMpss)**
+**[The AI coding boom hits software](https://www.youtube.com/watch?v=FkmuyUTZvXU)**
 
-📺 Fantastic World
+Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for software stocks, the power of AI agents and much ...
 
-👁️ 327K • 👍 2K • 💬 15 • ⏱️ 0:17 • 1d ago
+📺 CNBC Television
+
+👁️ 18K • 👍 190 • 💬 35 • ⏱️ 6:40 • 1d ago
+
+---
+
+**[300M views and nobody realizes she’s AI?? #carterpcs #tech #ai #nianoir](https://www.youtube.com/watch?v=0W0alYdi1uo)**
+
+300M views and nobody realizes she's AI?? #carterpcs #tech #ai #nianoir.
+
+📺 CarterPCs
+
+👁️ 1.8M • 👍 88K • 💬 1K • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -389,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 4,402 • ❤️ 746 • 1d ago
+⬇️ 4,402 • ❤️ 752 • 1d ago
 
 ---
 
@@ -401,7 +397,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 48,059 • ❤️ 700 • 9d ago
+⬇️ 48,059 • ❤️ 702 • 9d ago
 
 ---
 
@@ -413,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,356,446 • ❤️ 1,086 • 2d ago
+⬇️ 1,356,446 • ❤️ 1,089 • 2d ago
 
 ---
 
@@ -425,7 +421,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 992 • ❤️ 307 • 2d ago
+⬇️ 992 • ❤️ 312 • 2d ago
 
 ---
 
@@ -437,7 +433,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 47,419 • ❤️ 293 • 1d ago
+⬇️ 47,419 • ❤️ 293 • 2d ago
 
 ---
 
@@ -449,7 +445,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 11,284 • ❤️ 232 • 1d ago
+⬇️ 11,284 • ❤️ 234 • 1d ago
 
 ---
 
@@ -459,19 +455,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 0 • ❤️ 223 • 1d ago
-
----
-
-**[supertonic-2](https://huggingface.co/Supertone/supertonic-2)**
-
-*Supertone*
-
-Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model supporting English, Korean, Spanish, Portuguese, and French. It offers extreme performance with minimal overhead, achieving up to 167x faster than real-time inference and optimized for privacy-focused applications.
-
-`text-to-speech`
-
-⬇️ 10,269 • ❤️ 260 • 10d ago
+⬇️ 0 • ❤️ 226 • 1d ago
 
 ---
 
@@ -483,7 +467,19 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 772 • ❤️ 189 • 1d ago
+⬇️ 772 • ❤️ 196 • 1d ago
+
+---
+
+**[supertonic-2](https://huggingface.co/Supertone/supertonic-2)**
+
+*Supertone*
+
+Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model supporting English, Korean, Spanish, Portuguese, and French. It offers extreme performance with minimal overhead, achieving up to 167x faster than real-time inference and optimized for privacy-focused applications.
+
+`text-to-speech`
+
+⬇️ 10,269 • ❤️ 261 • 10d ago
 
 ---
 
@@ -495,7 +491,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 36,543 • ❤️ 260 • 7d ago
+⬇️ 36,543 • ❤️ 262 • 7d ago
 
 ---
 
@@ -547,7 +543,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 120 • 💬 3 • ⭐ 2,581 • 10d ago
+▲ 121 • 💬 3 • ⭐ 2,581 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -574,7 +570,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 2 • ⭐ 1,172 • 11d ago
+▲ 28 • 💬 2 • ⭐ 1,192 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -640,7 +636,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.8k • 🔱 1.2k • 3h ago
+⭐ 8.8k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -650,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.8k • 🔱 311 • 1h ago
+⭐ 6.8k • 🔱 312 • 2h ago
 
 ---
 
@@ -660,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 222 • 3h ago
+⭐ 5.1k • 🔱 227 • 1h ago
 
 ---
 
@@ -670,7 +666,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 588 • 8d ago
+⭐ 4.4k • 🔱 592 • 8d ago
 
 ---
 
@@ -700,7 +696,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 242 • 15h ago
+⭐ 2.2k • 🔱 242 • 16h ago
 
 ---
 
@@ -710,7 +706,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 1.8k • 🔱 376 • 7h ago
+⭐ 1.8k • 🔱 378 • 8h ago
 
 ---
 
@@ -730,7 +726,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 220 • 9h ago
+⭐ 1.5k • 🔱 223 • 9h ago
 
 ---
 

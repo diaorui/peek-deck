@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T20:23:30.864409+00:00'
+updated: '2026-01-16T20:44:14.214350+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 20:23 UTC  
+**Last Updated:** January 16, 2026 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $396.11B
+**Market Cap:** $396.23B
 Rank #2
 
 **Circulating Supply:** 120,694,613 ETH
@@ -62,7 +62,7 @@ No max supply
 -33.6%
 
 **All-Time Low:** $0.43
-+758280.9%
++758267.0%
 
 ---
 
@@ -94,7 +94,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -118,7 +118,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 I have 50 ETH. Is this a solid amount to hold over the next 10 years? I love Ethereum and believe in it whole-heartedly. I just want to understand what is a lot of Ethereum…I didn’t get involved when it first was created (unfortunately).
 
-18m ago
+39m ago
 
 ---
 
@@ -126,7 +126,7 @@ I have 50 ETH. Is this a solid amount to hold over the next 10 years? I love Eth
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 17h ago
+🔗 [totems.fun](https://totems.fun/) • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 **[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -226,43 +226,33 @@ TradingView — Track All Markets • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 343 • 💬 46 • ⏱️ 16:47 • 5h ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors In January!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 154 • 💬 299 • ⏱️ 15:03 • 15h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=JkSpTOBC5k4)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 887 • 👍 84 • 💬 5 • ⏱️ 3:49 • 5h ago
-
----
-
-**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 147 • 💬 320 • ⏱️ 15:03 • 14h ago
-
----
-
-**[GREAT ETH BUY OPPORTUNITY SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=gDe8Ytphn0Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 330 • 👍 14 • 💬 31 • ⏱️ 5:32 • 10h ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c7ZEQzT5W-E)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 278 • 💬 120 • ⏱️ 23:36 • 8h ago
+👁️ 1K • 👍 94 • 💬 6 • ⏱️ 3:49 • 5h ago
 
 ---
 
@@ -272,7 +262,37 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 55 • 💬 104 • ⏱️ 6:39 • 1d ago
+👁️ 2K • 👍 55 • 💬 103 • ⏱️ 6:39 • 1d ago
+
+---
+
+**[GREAT ETH BUY OPPORTUNITY SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=gDe8Ytphn0Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 366 • 👍 14 • 💬 31 • ⏱️ 5:32 • 10h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c7ZEQzT5W-E)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 299 • 💬 103 • ⏱️ 23:36 • 8h ago
+
+---
+
+**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
+
+Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
+
+📺 CNBC Television
+
+👁️ 92K • 👍 1K • 💬 311 • ⏱️ 7:04 • 1d ago
 
 ---
 
@@ -292,37 +312,17 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 273 • 💬 85 • ⏱️ 11:22 • 1d ago
+👁️ 6K • 👍 276 • 💬 78 • ⏱️ 11:22 • 1d ago
 
 ---
 
-**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
+**[ETH Is Massively Undervalued — A 5x Setup for 2026?](https://www.youtube.com/watch?v=k8OffaI-iFA)**
 
-Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
+Ethereum has underperformed this cycle — but are the fundamentals telling a different story? In this interview, Vivek Raman ...
 
-📺 CNBC Television
+📺 Cointelegraph
 
-👁️ 90K • 👍 1K • 💬 310 • ⏱️ 7:04 • 1d ago
-
----
-
-**[ETHEREUM (ETH) | SOLANA (SOL) | SUI | Price Prediction: Higher Prices Ahead Soon ?!](https://www.youtube.com/watch?v=QVVPDju-GFE)**
-
-Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
-
-📺 KG TRADING - Crypto Elliott Waves
-
-👁️ 75 • 👍 7 • 💬 13 • ⏱️ 12:17 • 9h ago
-
----
-
-**[More people are using Ethereum for the first time, data shows](https://www.youtube.com/watch?v=dKCMCMZ7DY0)**
-
-The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and ...
-
-📺 Crypto World Daily
-
-👁️ 2 • 💬 1 • ⏱️ 4:21 • 3h ago
+👁️ 7K • 👍 211 • 💬 16 • ⏱️ 20:12 • 2d ago
 
 ---
 
