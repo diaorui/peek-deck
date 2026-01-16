@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T03:41:03.058198+00:00'
+updated: '2026-01-16T04:41:01.821113+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 03:41 UTC  
+**Last Updated:** January 16, 2026 at 04:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-6h ago
+7h ago
+
+---
+
+**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
+
+2h ago
 
 ---
 
@@ -44,19 +50,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-13h ago
-
----
-
-**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
-
-1h ago
+14h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,13 +72,13 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 13h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 14h ago
 
 ---
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,19 +86,19 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-12h ago
+13h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 10h ago
+Nikkei Asia • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ MarketWatch • 1d ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 437K • 👍 13K • 💬 773 • ⏱️ 17:09 • 3d ago
+👁️ 441K • 👍 13K • 💬 779 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -196,15 +196,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 67K • 👍 4K • 💬 248 • ⏱️ 17:36 • 1d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 86K • 👍 1K • 💬 66 • ⏱️ 1:16 • 2d ago
+👁️ 75K • 👍 4K • 💬 257 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -214,7 +206,27 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 156K • 👍 2K • 💬 387 • ⏱️ 11:46 • 4d ago
+👁️ 157K • 👍 2K • 💬 390 • ⏱️ 11:46 • 4d ago
+
+---
+
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+
+📺 KhanFlicks
+
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 10h ago
+
+---
+
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
+
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
+
+📺 The Verge
+
+👁️ 97K • 👍 1K • 💬 173 • ⏱️ 10:48 • 5d ago
 
 ---
 
@@ -228,13 +240,11 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
 
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
+📺 Wowearth
 
-📺 The Verge
-
-👁️ 97K • 👍 1K • 💬 172 • ⏱️ 10:48 • 5d ago
+👁️ 90K • 👍 1K • 💬 66 • ⏱️ 1:16 • 2d ago
 
 ---
 
@@ -244,17 +254,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 228K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 20K • 👍 266 • 💬 36 • ⏱️ 11:29 • 5d ago
+👁️ 230K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
 
 ---
 
@@ -264,17 +264,17 @@ On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, wh
 
 📺 RobotShopTV
 
-👁️ 785 • 👍 11 • 💬 2 • ⏱️ 2:41 • 3d ago
+👁️ 798 • 👍 11 • 💬 2 • ⏱️ 2:41 • 3d ago
 
 ---
 
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
 
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
 
-📺 The Laughing Lion
+📺 Cybernews
 
-👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
+👁️ 20K • 👍 267 • 💬 36 • ⏱️ 11:29 • 5d ago
 
 ---
 

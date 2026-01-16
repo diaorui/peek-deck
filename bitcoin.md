@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T03:41:03.048894+00:00'
+updated: '2026-01-16T04:41:01.811783+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 03:41 UTC  
+**Last Updated:** January 16, 2026 at 04:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,24 +54,24 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1910.28B
+**Market Cap:** $1903.25B
 Rank #1
 
-**Circulating Supply:** 19,976,375 BTC
+**Circulating Supply:** 19,976,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.1%
+-24.5%
 
 **All-Time Low:** $67.81
-+140992.8%
++140361.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 61
-**GREED**
+### 49
+**NEUTRAL**
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-9h ago
+10h ago
 
 ---
 
-**[Bull run coming?](https://www.reddit.com/r/Bitcoin/comments/1qdz2v5/bull_run_coming/)**
+**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-4h ago
+10h ago
 
 ---
 
@@ -101,13 +101,13 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-15h ago
+16h ago
 
 ---
 
-**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
+**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-9h ago
+6h ago
 
 ---
 
@@ -115,19 +115,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-11h ago
-
----
-
-**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
-
-5h ago
-
----
-
-**[The Best Bitcoin Country will WIN.](https://www.reddit.com/r/Bitcoin/comments/1qe43ug/the_best_bitcoin_country_will_win/)**
-
-52m ago
+12h ago
 
 ---
 
@@ -139,11 +127,23 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
+**[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
+
+9h ago
+
+---
+
 **[Book review](https://www.reddit.com/r/Bitcoin/comments/1qduola/book_review/)**
 
 Starting this now. Have you read it? How would you rate it?
 
-7h ago
+8h ago
+
+---
+
+**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
+
+1d ago
 
 ---
 
@@ -161,13 +161,13 @@ CoinMarketCap • 2d ago
 
 **[Bitcoin slides below $96,000 as key crypto bill stalls in Congress](https://finance.yahoo.com/news/bitcoin-slides-below-96-000-154839641.html)**
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Senate Crypto Bill Hits a Snag as Coinbase Pulls Support](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdmDA3qhou6asxOEnPAdTQwDtCYROmP4Dh8aqgbVPd5QfrCy1XLUJPg&gaa_ts=6969b6ba&gaa_sig=PDRxcLG_XLUSq-zIfu7qAzsVPcnIB-4Q4e1NK-DbUrv-UFer7WrL19eMiAnd-nn61uCyocBCe2Ds1JmPNH2TIQ%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 Canaan (NASDAQ:CAN) used a virtual investor presentation to outline its position in the bitcoin mining hardware market, recent financial performance, and strategy for diversifying revenue through self-mining, home mining products, and a bitcoin treasury. Company background and business model Leo Wa
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -291,47 +291,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 38K • 👍 797 • 💬 281 • ⏱️ 5:15 • 9h ago
-
----
-
-**[We Finally Have Proof...](https://www.youtube.com/watch?v=HsOEoxr8ZHs)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 13K • 👍 955 • 💬 127 • ⏱️ 8:38 • 10h ago
-
----
-
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
-
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
-
-📺 Paul Barron Network
-
-👁️ 47K • 👍 4K • 💬 419 • ⏱️ 14:43 • 7h ago
-
----
-
-**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
-
-Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 946 • 💬 102 • ⏱️ 18:21 • 16h ago
-
----
-
-**[Every CRYPTO CRASH Signal Since 2014 Just Went Off | Here&#39;s Why It May Be Wrong](https://www.youtube.com/watch?v=30AYVztQAnQ)**
-
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The signal that called every Bitcoin ...
-
-📺 Dan Gambardello
-
-👁️ 12K • 👍 809 • 💬 265 • ⏱️ 16:02 • 11h ago
+👁️ 58K • 👍 1K • 💬 359 • ⏱️ 5:15 • 10h ago
 
 ---
 
@@ -341,7 +301,37 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 947 • 💬 155 • ⏱️ 14:15 • 5h ago
+👁️ 21K • 👍 1K • 💬 156 • ⏱️ 14:15 • 6h ago
+
+---
+
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
+
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
+
+📺 Paul Barron Network
+
+👁️ 59K • 👍 4K • 💬 473 • ⏱️ 14:43 • 8h ago
+
+---
+
+**[Every CRYPTO CRASH Signal Since 2014 Just Went Off | Here&#39;s Why It May Be Wrong](https://www.youtube.com/watch?v=30AYVztQAnQ)**
+
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The signal that called every Bitcoin ...
+
+📺 Dan Gambardello
+
+👁️ 14K • 👍 868 • 💬 300 • ⏱️ 16:02 • 12h ago
+
+---
+
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 2K • 💬 144 • ⏱️ 21:24 • 4h ago
 
 ---
 
@@ -351,17 +341,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 114 • ⏱️ 46:33 • 12h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=YiF-kdIW0nk)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 سعود الحوماني
-
-👁️ 7K • 👍 1K • 10h ago
+👁️ 22K • 👍 1K • 💬 134 • ⏱️ 46:33 • 13h ago
 
 ---
 
@@ -371,17 +351,37 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 50 • ⏱️ 30:10 • 12h ago
+👁️ 28K • 👍 2K • 💬 54 • ⏱️ 30:10 • 13h ago
 
 ---
 
-**[Smart Money Just Triggered a Major Reset for Bitcoin.](https://www.youtube.com/watch?v=Vk_HkSCtdC8)**
+**[What Fed Chaos Means for Bitcoin’s Future](https://www.youtube.com/watch?v=tiTOn6ySPBo)**
 
-Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 17, 2026 at 11:59pm ET) Subscribing gives ...
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we discuss Fed independence and the ...
 
-📺 Bravos Research Crypto
+📺 Anthony Pompliano
 
-👁️ 16K • 👍 836 • 💬 28 • ⏱️ 6:40 • 10h ago
+👁️ 25K • 👍 900 • 💬 51 • ⏱️ 44:47 • 1d ago
+
+---
+
+**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
+
+Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 19K • 👍 969 • 💬 114 • ⏱️ 18:21 • 17h ago
+
+---
+
+**[We Finally Have Proof...](https://www.youtube.com/watch?v=HsOEoxr8ZHs)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 15K • 👍 1K • 💬 118 • ⏱️ 8:38 • 11h ago
 
 ---
 
