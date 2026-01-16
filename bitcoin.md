@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T15:47:36.920398+00:00'
+updated: '2026-01-16T16:31:08.484191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 15:47 UTC  
+**Last Updated:** January 16, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,857.73
+### $94,891.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +5.2%  
-**30d:** +11.5%  
-**90d:** -12.3%  
-**1y:** -8.7%  
+**24h:** -1.8%  
+**7d:** +4.9%  
+**30d:** +11.3%  
+**90d:** -12.5%  
+**1y:** -8.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1905.24B
+**Market Cap:** $1894.99B
 Rank #1
 
-**Circulating Supply:** 19,976,587 BTC
+**Circulating Supply:** 19,976,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.4%
+-24.8%
 
 **All-Time Low:** $67.81
-+140507.6%
++139799.7%
 
 ---
 
@@ -91,15 +91,9 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 ---
 
-**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
-
-19h ago
-
----
-
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,11 +105,9 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 ---
 
-**[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
+**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
-
-21h ago
+19h ago
 
 ---
 
@@ -125,25 +117,31 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 ---
 
+**[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
+
+I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
+
+22h ago
+
+---
+
 **[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
+
+2h ago
+
+---
+
+**[Hit 6 million satoshis on Robinhood should I convert to better storage?](https://www.reddit.com/r/Bitcoin/comments/1qej1cu/hit_6_million_satoshis_on_robinhood_should_i/)**
+
+It’s gotten a lot harder to stack a million satoshis since I started investing so I wanted to celebrate 6 mil.
 
 1h ago
 
 ---
 
-**[Sell bitcoin to buy what?](https://www.reddit.com/r/Bitcoin/comments/1qeg7hr/sell_bitcoin_to_buy_what/)**
+**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-People who sell bitcoin, what do they buy instead? They have to put money somewhere, stock, bank, property? What is it and has there been any analysis?
-
-2h ago
-
----
-
-**[One of the best intro books to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qeg4df/one_of_the_best_intro_books_to_bitcoin/)**
-
-Just finished this book and it’s possibly the BEST book for a complete beginner. It explains how the system is broken and how Bitcoin fixes it. A 16 year old with zero financial knowledge could read this and have a solid grasp on the topics discussed. Highly recommend.
-
-2h ago
+42m ago
 
 ---
 
@@ -153,7 +151,7 @@ Just finished this book and it’s possibly the BEST book for a complete beginne
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -161,7 +159,7 @@ The New York Times • 1h ago
 
 After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -169,13 +167,13 @@ CoinDesk • 23h ago
 
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -189,7 +187,7 @@ The Block • 2h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -197,7 +195,7 @@ CoinDesk • 2h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -217,13 +215,29 @@ CCN.com • 1h ago
 
 ProCap Financial (BRR) trades at a 0.64 mNAV discount to its Bitcoin. Read more macro analysis here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Show HN: ClientsOK – Forensic e-signature anchored on Bitcoin (eIDAS compliant)](https://news.ycombinator.com/item?id=46647591)**
+
+The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
+
+⬆️ 3 • 💬 0 • 47m ago • [ClientsOK](https://clientsok.com/)
+
+---
+
+**[BIP352:  static payment addresses in Bitcoin without on-chain linkability](https://news.ycombinator.com/item?id=46647510)**
+
+Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
+
+⬆️ 3 • 💬 0 • 52m ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+
+---
 
 **[Show HN: BitStory – a Bitcoin-native protocol for on-chain time capsules](https://news.ycombinator.com/item?id=46593968)**
 
@@ -273,7 +287,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 9h ago
+⬆️ 2 • 💬 0 • 10h ago
 
 ---
 
@@ -287,27 +301,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 121 • 💬 68 • ⏱️ 5:23 • 16h ago
-
----
-
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
-
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 15h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 36K • 👍 3K • 💬 129 • ⏱️ 18:18 • 10h ago
+👁️ 5K • 👍 141 • 💬 69 • ⏱️ 5:23 • 17h ago
 
 ---
 
@@ -317,37 +311,17 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 16h ago
+👁️ 54K • 👍 3K • 💬 218 • ⏱️ 11:32 • 16h ago
 
 ---
 
-**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 1d ago
-
----
-
-**[Every CRYPTO CRASH Signal Since 2014 Just Went Off | Here&#39;s Why It May Be Wrong](https://www.youtube.com/watch?v=30AYVztQAnQ)**
-
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The signal that called every Bitcoin ...
-
-📺 Dan Gambardello
-
-👁️ 16K • 👍 968 • 💬 320 • ⏱️ 16:02 • 23h ago
-
----
-
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
-
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
-
-📺 Paul Barron Network
-
-👁️ 74K • 👍 5K • 💬 535 • ⏱️ 14:43 • 19h ago
+👁️ 29K • 👍 3K • 💬 197 • ⏱️ 21:24 • 15h ago
 
 ---
 
@@ -357,17 +331,27 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 96K • 👍 1K • 💬 443 • ⏱️ 5:15 • 21h ago
+👁️ 102K • 👍 1K • 💬 460 • ⏱️ 5:15 • 22h ago
 
 ---
 
-**[Clarity Act Stalled! What This Means For Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=cqas2tj91w8)**
+**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
 
-The Clarity Act has stalled in Washington and this could impact Bitcoin and the broader crypto market. In this video, Ran explains ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 56 • ⏱️ 30:10 • 1d ago
+👁️ 8K • 👍 734 • 💬 151 • ⏱️ 43:25 • 1h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 45K • 👍 3K • 💬 141 • ⏱️ 18:18 • 11h ago
 
 ---
 
@@ -377,7 +361,37 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:15 • 17h ago
+👁️ 38K • 👍 2K • 💬 146 • ⏱️ 14:15 • 18h ago
+
+---
+
+**[Every CRYPTO CRASH Signal Since 2014 Just Went Off | Here&#39;s Why It May Be Wrong](https://www.youtube.com/watch?v=30AYVztQAnQ)**
+
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The signal that called every Bitcoin ...
+
+📺 Dan Gambardello
+
+👁️ 17K • 👍 984 • 💬 319 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
+
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
+
+📺 Paul Barron Network
+
+👁️ 77K • 👍 5K • 💬 537 • ⏱️ 14:43 • 20h ago
+
+---
+
+**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
+
+Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 408 • 💬 122 • ⏱️ 1:31:47 • 20h ago
 
 ---
 

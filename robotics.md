@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T15:47:36.929522+00:00'
+updated: '2026-01-16T16:31:08.493645+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 15:47 UTC  
+**Last Updated:** January 16, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,15 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-2h ago
+3h ago
+
+---
+
+**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
+
+This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
+
+10h ago
 
 ---
 
@@ -72,25 +80,17 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 ---
 
-**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
-
-This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
-
-9h ago
-
----
-
 **[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 1h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 2h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -106,7 +106,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 I’m a complete beginner in robotics and electronics. I started by asking AI how to get started, but quickly realized I didn’t really understand the answers because I couldn’t visualize how the components were actually wired. So I wrote a small tool with: a text-based representation of components and wiring a renderer that turns that into a 2D diagram The AI can generate and reason about the design using this representation. If this were an online tool: would you use it? are there similar tools you already rely on? does the generated setup look correct to you? what features would you find useful for DIY robotics projects? I’m looking for honest feedback https://preview.redd.it/i45k0ou4aqdg1.png?width=1908&format=png&auto=webp&s=234c050f7dc38356a25b85fdc9b6c32f3cc6b2f4
 
-34m ago
+1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Bloomberg.com • 2d ago
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ TechCrunch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 22h ago
+Nikkei Asia • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ MarketWatch • 1d ago
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 1d ago
+GeekWire • 2d ago
 
 ---
 
@@ -190,23 +190,53 @@ The Guardian • 6h ago
 
 ## YouTube Videos: "robotics"
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
-
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
-
-📺 Kim Java
-
-👁️ 447K • 👍 13K • 💬 786 • ⏱️ 17:09 • 4d ago
-
----
-
 **[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
 Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
 📺 Ticker Symbol: YOU
 
-👁️ 88K • 👍 4K • 💬 270 • ⏱️ 17:36 • 1d ago
+👁️ 92K • 👍 4K • 💬 285 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+
+📺 KhanFlicks
+
+👁️ 25K • 💬 16 • ⏱️ 6:37 • 22h ago
+
+---
+
+**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
+
+The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
+
+📺 Kim Java
+
+👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 54m ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 160K • 👍 2K • 💬 398 • ⏱️ 11:46 • 5d ago
+
+---
+
+**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+
+HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+
+📺 Deepen
+
+👁️ 4K • 👍 57 • ⏱️ 0:23 • 2h ago
 
 ---
 
@@ -220,49 +250,13 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
-📺 CNBC
+📺 Kim Java
 
-👁️ 159K • 👍 2K • 💬 396 • ⏱️ 11:46 • 4d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 234K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 102K • 👍 1K • 💬 66 • ⏱️ 1:16 • 3d ago
-
----
-
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
-
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
-
-📺 KhanFlicks
-
-👁️ 25K • 💬 15 • ⏱️ 6:37 • 22h ago
-
----
-
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
-
-📺 Chris Wabs
-
-👁️ 301K • 👍 2K • 💬 940 • ⏱️ 0:16 • 4d ago
+👁️ 449K • 👍 13K • 💬 787 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -272,17 +266,25 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 97K • 👍 1K • 💬 174 • ⏱️ 10:48 • 6d ago
+👁️ 98K • 👍 1K • 💬 172 • ⏱️ 10:48 • 6d ago
 
 ---
 
-**[This Robot Attacked a Human why? #facts #factizo #amazingfacts](https://www.youtube.com/watch?v=eV_j4ibv0QY)**
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
 
-The Truth Behind the Tesla Robot "Attack" In this video, we dive deep into the viral story of a Tesla robot attacking an engineer at ...
+📺 Chris Wabs
 
-📺 Factizo
+👁️ 306K • 👍 2K • 💬 950 • ⏱️ 0:16 • 4d ago
 
-👁️ 712 • 👍 20 • ⏱️ 0:54 • 4h ago
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 235K • 👍 15K • 💬 3K • ⏱️ 5:12 • 2d ago
 
 ---
 
