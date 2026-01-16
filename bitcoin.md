@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T01:50:49.952113+00:00'
+updated: '2026-01-16T03:41:03.048894+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 01:50 UTC  
+**Last Updated:** January 16, 2026 at 03:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,599.01
+### $95,520.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +5.9%  
-**30d:** +12.3%  
-**90d:** -11.7%  
-**1y:** -8.0%  
+**24h:** -0.7%  
+**7d:** +5.7%  
+**30d:** +12.0%  
+**90d:** -11.9%  
+**1y:** -8.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,13 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-7h ago
+9h ago
+
+---
+
+**[Bull run coming?](https://www.reddit.com/r/Bitcoin/comments/1qdz2v5/bull_run_coming/)**
+
+4h ago
 
 ---
 
@@ -95,7 +101,13 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-13h ago
+15h ago
+
+---
+
+**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
+
+9h ago
 
 ---
 
@@ -103,25 +115,19 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-9h ago
-
----
-
-**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
-
-7h ago
-
----
-
-**[Bull run coming?](https://www.reddit.com/r/Bitcoin/comments/1qdz2v5/bull_run_coming/)**
-
-2h ago
+11h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-3h ago
+5h ago
+
+---
+
+**[The Best Bitcoin Country will WIN.](https://www.reddit.com/r/Bitcoin/comments/1qe43ug/the_best_bitcoin_country_will_win/)**
+
+52m ago
 
 ---
 
@@ -133,17 +139,11 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
-**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
-
-22h ago
-
----
-
 **[Book review](https://www.reddit.com/r/Bitcoin/comments/1qduola/book_review/)**
 
 Starting this now. Have you read it? How would you rate it?
 
-5h ago
+7h ago
 
 ---
 
@@ -151,9 +151,23 @@ Starting this now. Have you read it? How would you rate it?
 
 ## Google News: "bitcoin"
 
+**[XRP, SOL, Dogecoin Granted Bitcoin Legal Status in Senate Draft Bill](https://coinmarketcap.com/academy/article/xrp-sol-dogecoin-granted-bitcoin-legal-status-in-senate-draft-bill)**
+
+Cryptocurrencies serving as principal assets in exchange-traded products listed on national securities exchanges would receive non-ancillary designation.
+
+CoinMarketCap • 2d ago
+
+---
+
 **[Bitcoin slides below $96,000 as key crypto bill stalls in Congress](https://finance.yahoo.com/news/bitcoin-slides-below-96-000-154839641.html)**
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Senate Crypto Bill Hits a Snag as Coinbase Pulls Support](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdmDA3qhou6asxOEnPAdTQwDtCYROmP4Dh8aqgbVPd5QfrCy1XLUJPg&gaa_ts=6969b6ba&gaa_sig=PDRxcLG_XLUSq-zIfu7qAzsVPcnIB-4Q4e1NK-DbUrv-UFer7WrL19eMiAnd-nn61uCyocBCe2Ds1JmPNH2TIQ%3D%3D)**
+
+Barron's • 5h ago
 
 ---
 
@@ -165,9 +179,19 @@ grist.org • 1d ago
 
 ---
 
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqe7T71sPCvi2b2vPh4lalTwFN1Sf97vrD9U43psdtB2pcy08QpzJCcb&gaa_ts=69699ce3&gaa_sig=xdEpUKR6mgu86BRaUWGXD4oNY-rt3T5g0KJEsL5Ga6eLRnIHwW-GAQFunTqs7fZ_j8f8QGC7S7StGEx1pC_HmA%3D%3D)**
+**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
 
-Barron's • 1d ago
+Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Canaan Highlights Record $150M Quarter, New Avalon A16 Miners and Growing Bitcoin Treasury at Conference](https://finance.yahoo.com/news/canaan-highlights-record-150m-quarter-020308865.html)**
+
+Canaan (NASDAQ:CAN) used a virtual investor presentation to outline its position in the bitcoin mining hardware market, recent financial performance, and strategy for diversifying revenue through self-mining, home mining products, and a bitcoin treasury. Company background and business model Leo Wa
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,15 +199,7 @@ Barron's • 1d ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 15h ago
-
----
-
-**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
-
-Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
-
-Yahoo Finance • 1d ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -193,31 +209,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
-
-The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
-
-Bitcoin Magazine • 11h ago
-
----
-
-**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
-
-BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
+**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
 The Block • 1d ago
+
+---
+
+**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield)**
+
+TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
+
+Decrypt • 1d ago
 
 ---
 
@@ -289,7 +291,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 38K • 👍 797 • 💬 281 • ⏱️ 5:15 • 7h ago
+👁️ 38K • 👍 797 • 💬 281 • ⏱️ 5:15 • 9h ago
 
 ---
 
@@ -299,7 +301,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 13K • 👍 955 • 💬 127 • ⏱️ 8:38 • 8h ago
+👁️ 13K • 👍 955 • 💬 127 • ⏱️ 8:38 • 10h ago
 
 ---
 
@@ -309,7 +311,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 4K • 💬 419 • ⏱️ 14:43 • 5h ago
+👁️ 47K • 👍 4K • 💬 419 • ⏱️ 14:43 • 7h ago
 
 ---
 
@@ -319,7 +321,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 19K • 👍 946 • 💬 102 • ⏱️ 18:21 • 14h ago
+👁️ 19K • 👍 946 • 💬 102 • ⏱️ 18:21 • 16h ago
 
 ---
 
@@ -329,7 +331,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 809 • 💬 265 • ⏱️ 16:02 • 9h ago
+👁️ 12K • 👍 809 • 💬 265 • ⏱️ 16:02 • 11h ago
 
 ---
 
@@ -339,7 +341,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 947 • 💬 155 • ⏱️ 14:15 • 3h ago
+👁️ 11K • 👍 947 • 💬 155 • ⏱️ 14:15 • 5h ago
 
 ---
 
@@ -349,7 +351,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 114 • ⏱️ 46:33 • 10h ago
+👁️ 21K • 👍 1K • 💬 114 • ⏱️ 46:33 • 12h ago
 
 ---
 
@@ -359,7 +361,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 سعود الحوماني
 
-👁️ 7K • 👍 1K • 8h ago
+👁️ 7K • 👍 1K • 10h ago
 
 ---
 
@@ -369,7 +371,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 50 • ⏱️ 30:10 • 10h ago
+👁️ 26K • 👍 2K • 💬 50 • ⏱️ 30:10 • 12h ago
 
 ---
 
@@ -379,7 +381,7 @@ Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 17,
 
 📺 Bravos Research Crypto
 
-👁️ 16K • 👍 836 • 💬 28 • ⏱️ 6:40 • 8h ago
+👁️ 16K • 👍 836 • 💬 28 • ⏱️ 6:40 • 10h ago
 
 ---
 
