@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T10:50:44.302330+00:00'
+updated: '2026-01-16T11:20:38.357671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 10:50 UTC  
+**Last Updated:** January 16, 2026 at 11:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-14h ago
-
----
-
-**[Programmable tokens on Base.](https://www.reddit.com/r/ethereum/comments/1qe3xji/programmable_tokens_on_base/)**
-
-The modular token standard.
-
-🔗 [totems.fun](https://totems.fun/) • 8h ago
+15h ago
 
 ---
 
@@ -104,7 +96,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 11h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 12h ago
+
+---
+
+**[Programmable tokens on Base.](https://www.reddit.com/r/ethereum/comments/1qe3xji/programmable_tokens_on_base/)**
+
+The modular token standard.
+
+🔗 [totems.fun](https://totems.fun/) • 8h ago
 
 ---
 
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 3h ago
 
 Vitalik Buterin said the “original web3 vision” is coming to life. When he began working on Ethereum, decentralised applications were “hundreds of times more difficult to use.” But such applications have dramatically improved in recent years, he said in a recent post promoting a few.
 
-dlnews.com • 54m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ dlnews.com • 54m ago
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 25 • 💬 4 • ⏱️ 2:13 • 20h ago
+👁️ 4K • 👍 25 • 💬 4 • ⏱️ 2:13 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, j
 
 📺 CNBC Television
 
-👁️ 83K • 👍 1K • 💬 295 • ⏱️ 7:04 • 21h ago
+👁️ 83K • 👍 1K • 💬 295 • ⏱️ 7:04 • 22h ago
 
 ---
 

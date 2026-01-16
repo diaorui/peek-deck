@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T10:50:44.287555+00:00'
+updated: '2026-01-16T11:20:38.341981+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 10:50 UTC  
+**Last Updated:** January 16, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -101,19 +101,19 @@ Could Siri be the last piece of the puzzle?
 
 ---
 
+**[good ai photoshop app](https://www.reddit.com/r/artificial/comments/1qdrcim/good_ai_photoshop_app/)**
+
+hey guys Weird question, but do you know a good AI app that I can use to photoshop my picture? I wanna see what I would look like if I lost 30 lbs I wanna be motivated by my own picture instead of pintrest picture of a fit girl And I don't like ChatGPT for pictures Any suggestions?
+
+16h ago
+
+---
+
 **[Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science](https://www.reddit.com/r/artificial/comments/1qdr06k/accelerating_discovery_how_the_materials_project/)**
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 16h ago
-
----
-
-**[Is there a good reason to have more than one AI service? Or can Gemini work just as well as Chatgpt, Claude, etc.?](https://www.reddit.com/r/artificial/comments/1qdpz1q/is_there_a_good_reason_to_have_more_than_one_ai/)**
-
-I recently got a new Pixel and it came with a free year of Gemini Pro and I was considering getting rid of my other two AI subscriptions for now. I currently have chatgpt plus and claude pro. I have claude for building applications but has anyone had any experiece using gemini for that? I use chatgpt for research since it just has a long memory of research prompts from me it's adapted well to my expectations for souce finding and such.
-
-17h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Anthropic • 1d ago
 
 **[Exclusive: Most lower-wage workers think AI threatens their jobs](https://www.axios.com/2026/01/16/lower-wage-workers-ai-threatens-jobs)**
 
-Axios • 50m ago
+Axios • 1h ago
 
 ---
 
@@ -145,19 +145,19 @@ Axios • 50m ago
 
 AI may automate tasks, but your job's purpose may be immune from AI disruption. This applies to radiology, law, coding, and even waiting tables.
 
-Business Insider • 50m ago
+Business Insider • 1h ago
 
 ---
 
 **[AI Not in a Bubble, BlackRock's Brazier Says](https://www.bloomberg.com/news/videos/2026-01-16/ai-not-in-a-bubble-blackrock-s-brazier-says-video)**
 
-Bloomberg • 49m ago
+Bloomberg • 1h ago
 
 ---
 
 **[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 1h ago
 
 **[The Truth About AI](https://time.com/collections/davos-2026/7339209/ai-revolution-agentic-enterprise/)**
 
-Time Magazine • 22h ago
+Time Magazine • 23h ago
 
 ---
 
@@ -280,7 +280,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 89K • 👍 6K • 💬 1K • ⏱️ 20:29 • 17h ago
+👁️ 89K • 👍 6K • 💬 1K • ⏱️ 20:29 • 18h ago
 
 ---
 
@@ -330,7 +330,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 10K • 👍 112 • 💬 27 • ⏱️ 6:40 • 14h ago
+👁️ 10K • 👍 112 • 💬 27 • ⏱️ 6:40 • 15h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.6k • 🔱 157 • 19h ago
+⭐ 2.6k • 🔱 157 • 20h ago
 
 ---
 
@@ -705,7 +705,7 @@ Vibe coding from 0 to 1 Turn AI demos into real, deployable products｜零基础
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 22h ago
+⭐ 1.7k • 🔱 134 • 23h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 203 • 4h ago
+⭐ 1.4k • 🔱 203 • 5h ago
 
 ---
 

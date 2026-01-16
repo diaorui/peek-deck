@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T10:50:44.305626+00:00'
+updated: '2026-01-16T11:20:38.360963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 10:50 UTC  
+**Last Updated:** January 16, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,6 +36,14 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
+2h ago
+
+---
+
+**[Boston Dynamics Spot in 2025](https://www.reddit.com/r/robotics/comments/1qec4lq/boston_dynamics_spot_in_2025/)**
+
+From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
+
 1h ago
 
 ---
@@ -52,13 +60,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-4h ago
+5h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -66,13 +74,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-20h ago
+21h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -92,19 +100,11 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 ---
 
-**[California Institute of Technology Project: Walk the PLANC](https://www.reddit.com/r/robotics/comments/1qebnwz/california_institute_of_technology_project_walk/)**
-
-Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds: https://caltech-amber.github.io/planc/ Paper: arXiv:2601.06286 [cs.RO]: https://arxiv.org/abs/2601.06286
-
-1h ago
-
----
-
 **[AGP Insights - Humanoid Robots in 2025: Powering the Next Industrial Evolution | Asia Growth Partners](https://www.reddit.com/r/robotics/comments/1qeb9kj/agp_insights_humanoid_robots_in_2025_powering_the/)**
 
 2025 marks the shift of humanoid robots from viral dancing videos to actual industrial work. A new report highlights how GAC's "GoMate" and Nio's production line bots are mastering complex tasks like installing wiring and inspecting car parts with human-like dexterity. The analysis reveals that China now controls 63% of the global humanoid supply chain, leveraging its EV battery tech to build robots that can work 6-hour shifts. The era of "Humanoid Version 0.5", robots capable of precise, autonomous manufacturing tasks, is officially here.
 
-🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 1h ago
+🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 2h ago
 
 ---
 

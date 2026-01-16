@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T10:50:44.296223+00:00'
+updated: '2026-01-16T11:20:38.351458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 10:50 UTC  
+**Last Updated:** January 16, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 I was looking for a way to track the value of my Bitcoin. I store my crypto in a hardware wallet, and most apps are full-featured wallets designed for sending transactions. But I just wanted to monitor my investments without exposing my private key. So I built Spectator, an iOS app where you only need to enter your public wallet address. There's no security risk because it cannot access your Bitcoin at all. It just reads data from the public blockchain. No authentication, no cloud sync, no tracking or other BS. Features: Track multiple wallets Home screen widget Interactive charts showing gains and losses Full transaction history with USD value at time of each transaction The app is completely free with no ads. This is my first iOS app, so I'd really appreciate any feedback or feature requests! App Store Link
 
-54m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ grist.org • 1d ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg • 1h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 40m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -269,13 +269,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
 
-⬆️ 9 • 💬 5 • 2d ago
+⬆️ 9 • 💬 6 • 2d ago
 
 ---
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 4h ago
+⬆️ 2 • 💬 0 • 5h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 86 • 💬 56 • ⏱️ 5:23 • 11h ago
+👁️ 3K • 👍 86 • 💬 56 • ⏱️ 5:23 • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 69K • 👍 5K • 💬 500 • ⏱️ 14:43 • 14h ago
+👁️ 69K • 👍 5K • 💬 500 • ⏱️ 14:43 • 15h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 1K • 💬 144 • ⏱️ 14:15 • 12h ago
+👁️ 30K • 👍 1K • 💬 144 • ⏱️ 14:15 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 92 • ⏱️ 18:18 • 5h ago
+👁️ 18K • 👍 2K • 💬 92 • ⏱️ 18:18 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Coinbase pulls out of the highly anticipated crypto financial markup bill comple
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 389 • 💬 122 • ⏱️ 1:31:47 • 14h ago
+👁️ 6K • 👍 389 • 💬 122 • ⏱️ 1:31:47 • 15h ago
 
 ---
 
