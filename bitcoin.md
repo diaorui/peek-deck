@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T12:48:27.051808+00:00'
+updated: '2026-01-16T13:38:34.455121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 12:48 UTC  
+**Last Updated:** January 16, 2026 at 13:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-18h ago
+19h ago
 
 ---
 
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,25 +109,25 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-1h ago
+2h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-1h ago
+2h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-24m ago
+1h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,13 +135,13 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 Shares climb more than 5% in pre-market trading as the company reinforces long term Bitcoin strategy.
 
-CoinDesk • 45m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoinDesk • 45m ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
@@ -273,7 +273,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 7h ago
 
 ---
 
@@ -287,7 +287,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 127 • ⏱️ 46:33 • 21h ago
+👁️ 23K • 👍 1K • 💬 127 • ⏱️ 46:33 • 22h ago
 
 ---
 
@@ -297,7 +297,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 71K • 👍 5K • 💬 510 • ⏱️ 14:43 • 16h ago
+👁️ 71K • 👍 5K • 💬 510 • ⏱️ 14:43 • 17h ago
 
 ---
 
@@ -307,7 +307,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 89K • 👍 1K • 💬 435 • ⏱️ 5:15 • 18h ago
+👁️ 89K • 👍 1K • 💬 435 • ⏱️ 5:15 • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 121 • ⏱️ 18:18 • 7h ago
+👁️ 27K • 👍 2K • 💬 121 • ⏱️ 18:18 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 33K • 👍 2K • 💬 141 • ⏱️ 14:15 • 14h ago
+👁️ 33K • 👍 2K • 💬 141 • ⏱️ 14:15 • 15h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 182 • ⏱️ 21:24 • 12h ago
+👁️ 24K • 👍 2K • 💬 182 • ⏱️ 21:24 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 949 • 💬 308 • ⏱️ 16:02 • 20h ago
+👁️ 16K • 👍 949 • 💬 308 • ⏱️ 16:02 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 30K • 👍 2K • 💬 56 • ⏱️ 30:10 • 21h ago
+👁️ 30K • 👍 2K • 💬 56 • ⏱️ 30:10 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Coinbase pulls out of the highly anticipated crypto financial markup bill comple
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 392 • 💬 125 • ⏱️ 1:31:47 • 16h ago
+👁️ 6K • 👍 392 • 💬 125 • ⏱️ 1:31:47 • 17h ago
 
 ---
 

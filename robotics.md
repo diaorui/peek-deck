@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T12:48:27.060987+00:00'
+updated: '2026-01-16T13:38:34.463265+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 12:48 UTC  
+**Last Updated:** January 16, 2026 at 13:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-15h ago
+16h ago
 
 ---
 
@@ -68,13 +68,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-6h ago
+7h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -82,13 +82,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-22h ago
+23h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-16h ago
+17h ago
 
 ---
 
@@ -114,7 +114,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Crunchbase News • 1d ago
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg • 1d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -150,7 +150,7 @@ MarketWatch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 19h ago
+Nikkei Asia • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 446K • 👍 13K • 💬 783 • ⏱️ 17:09 • 3d ago
+👁️ 446K • 👍 13K • 💬 783 • ⏱️ 17:09 • 4d ago
 
 ---
 

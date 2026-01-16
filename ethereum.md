@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T12:48:27.057773+00:00'
+updated: '2026-01-16T13:38:34.460390+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 12:48 UTC  
+**Last Updated:** January 16, 2026 at 13:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 57m ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 13h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 14h ago
 
 ---
 
@@ -154,7 +154,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 19h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ Seeking Alpha • 1d ago
 
 The main drivers of the network’s transaction growth comes from increased stablecoin usage....
 
-Sherwood News • 16h ago
+Sherwood News • 17h ago
 
 ---
 
@@ -186,7 +186,7 @@ Sherwood News • 16h ago
 
 Vitalik Buterin said the “original web3 vision” is coming to life. When he began working on Ethereum, decentralised applications were “hundreds of times more difficult to use.” But such applications have dramatically improved in recent years, he said in a recent post promoting a few.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ dlnews.com • 2h ago
 
 Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 17h ago
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -210,13 +210,13 @@ CoinDesk • 6h ago
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 1d ago
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 104 • 💬 281 • ⏱️ 15:03 • 7h ago
+👁️ 2K • 👍 104 • 💬 281 • ⏱️ 15:03 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 67 • 👍 6 • 💬 18 • ⏱️ 5:32 • 2h ago
+👁️ 67 • 👍 6 • 💬 18 • ⏱️ 5:32 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 26 • 💬 4 • ⏱️ 2:13 • 22h ago
+👁️ 4K • 👍 26 • 💬 4 • ⏱️ 2:13 • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Stock Moe
 
-👁️ 10K • 👍 696 • 💬 54 • ⏱️ 13:25 • 15h ago
+👁️ 10K • 👍 696 • 💬 54 • ⏱️ 13:25 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 8 • ⏱️ 3:43 • 20h ago
+👁️ 2K • 👍 124 • 💬 8 • ⏱️ 3:43 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, j
 
 📺 CNBC Television
 
-👁️ 84K • 👍 1K • 💬 301 • ⏱️ 7:04 • 23h ago
+👁️ 84K • 👍 1K • 💬 301 • ⏱️ 7:04 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Tr
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 242 • 👍 19 • 💬 55 • ⏱️ 17:14 • 8h ago
+👁️ 242 • 👍 19 • 💬 55 • ⏱️ 17:14 • 9h ago
 
 ---
 

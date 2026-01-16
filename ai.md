@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T12:48:27.043420+00:00'
+updated: '2026-01-16T13:38:34.447487+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 12:48 UTC  
+**Last Updated:** January 16, 2026 at 13:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 lets suppose its a social setting like first day of college, who would make the best first impression? who would be the popular kid?
 
-9m ago
+59m ago
 
 ---
 
@@ -89,7 +89,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Could Siri be the last piece of the puzzle?
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 18h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 19h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 1d ago
 
 The Oscar-winning actor has trademarked several phrases, including "Alright, alright, alright" from the cult classic film, Dazed and Confused.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 18h ago
 
 A survey released Friday by Axis Capital shows there's a growing divide across how c-suite executives view the risks, rewards and impact of AI.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 2h ago
 
 Bank of America highlighted "transition strategies" that offer exposure to AI, but are more insulated from big swings in the sector.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Wall Street Journal • 1d ago
 
 **[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
 
-The Economist • 22h ago
+The Economist • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ Time Magazine • 1d ago
 
 Thousands of abusive videos were produced last year—that researchers know of.
 
-The Atlantic • 12h ago
+The Atlantic • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 145 • 💬 73 • 13h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 145 • 💬 73 • 14h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -282,7 +282,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 91K • 👍 6K • 💬 1K • ⏱️ 20:29 • 19h ago
+👁️ 91K • 👍 6K • 💬 1K • ⏱️ 20:29 • 20h ago
 
 ---
 
@@ -302,7 +302,7 @@ Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it w
 
 📺 AI Revolution
 
-👁️ 13K • 👍 473 • 💬 52 • ⏱️ 15:44 • 13h ago
+👁️ 13K • 👍 473 • 💬 52 • ⏱️ 15:44 • 14h ago
 
 ---
 
@@ -342,7 +342,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 11K • 👍 117 • 💬 26 • ⏱️ 6:40 • 16h ago
+👁️ 11K • 👍 117 • 💬 26 • ⏱️ 6:40 • 17h ago
 
 ---
 
@@ -372,7 +372,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 26K • 👍 1K • 💬 189 • ⏱️ 30:23 • 21h ago
+👁️ 26K • 👍 1K • 💬 189 • ⏱️ 30:23 • 22h ago
 
 ---
 
@@ -532,7 +532,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 119 • 💬 3 • ⭐ 2,523 • 9d ago
+▲ 119 • 💬 3 • ⭐ 2,523 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.6k • 🔱 157 • 21h ago
+⭐ 2.6k • 🔱 157 • 22h ago
 
 ---
 
@@ -687,7 +687,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.1k • 🔱 2.0k • 23h ago
+⭐ 2.1k • 🔱 2.0k • 1d ago
 
 ---
 
@@ -697,7 +697,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 242 • 8h ago
+⭐ 2.1k • 🔱 242 • 9h ago
 
 ---
 
@@ -707,7 +707,7 @@ Vibe coding from 0 to 1 Turn AI demos into real, deployable products｜零基础
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 1h ago
+⭐ 1.7k • 🔱 134 • 2h ago
 
 ---
 
@@ -717,7 +717,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 207 • 1h ago
+⭐ 1.4k • 🔱 207 • 2h ago
 
 ---
 
