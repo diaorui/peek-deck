@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T14:25:43.102770+00:00'
+updated: '2026-01-16T14:50:03.653626+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 14:25 UTC  
+**Last Updated:** January 16, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-16h ago
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 17m ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 41m ago
 
 ---
 
@@ -114,7 +114,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -150,7 +150,7 @@ MarketWatch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 20h ago
+Nikkei Asia • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Robot Report • 2d ago
 
 **[Hyundai Poaches Former Tesla Robotics Guru as it Maps Out Atlas Humanoid Growth](https://www.tipranks.com/news/hyundai-poaches-former-tesla-robotics-guru-as-it-maps-out-atlas-humanoid-growth)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 25K • 💬 15 • ⏱️ 6:37 • 20h ago
+👁️ 25K • 💬 15 • ⏱️ 6:37 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ The Truth Behind the Tesla Robot "Attack" In this video, we dive deep into the v
 
 📺 Factizo
 
-👁️ 712 • 👍 20 • ⏱️ 0:54 • 2h ago
+👁️ 712 • 👍 20 • ⏱️ 0:54 • 3h ago
 
 ---
 

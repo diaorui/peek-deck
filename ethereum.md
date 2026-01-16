@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T14:25:43.099537+00:00'
+updated: '2026-01-16T14:50:03.650026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 14:25 UTC  
+**Last Updated:** January 16, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 11h ago
+🔗 [totems.fun](https://totems.fun/) • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 21h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 134 • 💬 289 • ⏱️ 15:03 • 8h ago
+👁️ 3K • 👍 134 • 💬 289 • ⏱️ 15:03 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 3K • 👍 581 • 29m ago
+👁️ 3K • 👍 581 • 53m ago
 
 ---
 
@@ -308,7 +308,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 718 • 💬 51 • ⏱️ 13:25 • 16h ago
+👁️ 10K • 👍 718 • 💬 51 • ⏱️ 13:25 • 17h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 8 • ⏱️ 3:43 • 21h ago
+👁️ 2K • 👍 128 • 💬 8 • ⏱️ 3:43 • 22h ago
 
 ---
 

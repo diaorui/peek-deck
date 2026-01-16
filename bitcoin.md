@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T14:25:43.093563+00:00'
+updated: '2026-01-16T14:50:03.643814+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 14:25 UTC  
+**Last Updated:** January 16, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-9h ago
+10h ago
 
 ---
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 **[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
 
-33m ago
+57m ago
 
 ---
 
@@ -135,7 +135,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 People who sell bitcoin, what do they buy instead? They have to put money somewhere, stock, bank, property? What is it and has there been any analysis?
 
-45m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ People who sell bitcoin, what do they buy instead? They have to put money somewh
 
 Interesting how ETF inflows seem to resume once selling pressure fades, not when optimism returns. Feels less like a bet on upside and more like capital re-establishing a baseline allocation to Bitcoin as a hedge. Curious how others here read that.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/crypto-etf-interest-surges-highest-weekly-net-inflows-october) • 1h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/crypto-etf-interest-surges-highest-weekly-net-inflows-october) • 2h ago
 
 ---
 
@@ -163,13 +163,13 @@ Yahoo Finance • 1h ago
 
 After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 25m ago
+The New York Times • 49m ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 13h ago
+👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 14h ago
+👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 15h ago
 
 ---
 
@@ -327,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 22h ago
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 23h ago
 
 ---
 
