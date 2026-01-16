@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T14:50:03.653626+00:00'
+updated: '2026-01-16T15:25:56.264408+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 14:50 UTC  
+**Last Updated:** January 16, 2026 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Day 116 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qeb06m/day_116_of_building_asimov_an_opensource_humanoid/)**
-
-We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
-
-5h ago
-
----
-
 **[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
@@ -48,11 +40,19 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 ---
 
+**[Day 116 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qeb06m/day_116_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
+
+6h ago
+
+---
+
 **[Boston Dynamics Spot in 2025](https://www.reddit.com/r/robotics/comments/1qec4lq/boston_dynamics_spot_in_2025/)**
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-1h ago
+2h ago
 
 ---
 
@@ -76,13 +76,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-8h ago
-
----
-
-**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
-
-12h ago
+9h ago
 
 ---
 
@@ -90,7 +84,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 41m ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 1h ago
+
+---
+
+**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
+
+13h ago
 
 ---
 
@@ -102,9 +102,11 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 ---
 
-**[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
+**[Would you use an AI-assisted editor to design robots?](https://www.reddit.com/r/robotics/comments/1qeikqp/would_you_use_an_aiassisted_editor_to_design/)**
 
-1d ago
+I’m a complete beginner in robotics and electronics. I started by asking AI how to get started, but quickly realized I didn’t really understand the answers because I couldn’t visualize how the components were actually wired. So I wrote a small tool with: a text-based representation of components and wiring a renderer that turns that into a 2D diagram The AI can generate and reason about the design using this representation. If this were an online tool: would you use it? are there similar tools you already rely on? does the generated setup look correct to you? what features would you find useful for DIY robotics projects? I’m looking for honest feedback https://preview.redd.it/i45k0ou4aqdg1.png?width=1908&format=png&auto=webp&s=234c050f7dc38356a25b85fdc9b6c32f3cc6b2f4
+
+12m ago
 
 ---
 
@@ -268,7 +270,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 97K • 👍 1K • 💬 174 • ⏱️ 10:48 • 5d ago
+👁️ 97K • 👍 1K • 💬 174 • ⏱️ 10:48 • 6d ago
 
 ---
 

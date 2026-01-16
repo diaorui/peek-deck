@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T14:50:03.643814+00:00'
+updated: '2026-01-16T15:25:56.255692+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 14:50 UTC  
+**Last Updated:** January 16, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,319.27
+### $94,857.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +5.5%  
-**30d:** +11.8%  
-**90d:** -12.0%  
-**1y:** -8.4%  
+**24h:** -1.7%  
+**7d:** +5.2%  
+**30d:** +11.5%  
+**90d:** -12.3%  
+**1y:** -8.7%  
 
 ---
 
@@ -85,29 +85,21 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 ---
 
-**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
-
-18h ago
-
----
-
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
 3h ago
 
 ---
 
-**[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
+**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
-
-20h ago
+18h ago
 
 ---
 
-**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
+**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-6h ago
+3h ago
 
 ---
 
@@ -119,15 +111,23 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 ---
 
-**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
+**[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
 
-2h ago
+I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
+
+21h ago
+
+---
+
+**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
+
+6h ago
 
 ---
 
 **[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -139,11 +139,11 @@ People who sell bitcoin, what do they buy instead? They have to put money somewh
 
 ---
 
-**[Crypto ETF Interest Surges with Highest Weekly Net Inflows Since October](https://www.reddit.com/r/Bitcoin/comments/1qeexuw/crypto_etf_interest_surges_with_highest_weekly/)**
+**[One of the best intro books to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qeg4df/one_of_the_best_intro_books_to_bitcoin/)**
 
-Interesting how ETF inflows seem to resume once selling pressure fades, not when optimism returns. Feels less like a bet on upside and more like capital re-establishing a baseline allocation to Bitcoin as a hedge. Curious how others here read that.
+Just finished this book and it’s possibly the BEST book for a complete beginner. It explains how the system is broken and how Bitcoin fixes it. A 16 year old with zero financial knowledge could read this and have a solid grasp on the topics discussed. Highly recommend.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/crypto-etf-interest-surges-highest-weekly-net-inflows-october) • 2h ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Interesting how ETF inflows seem to resume once selling pressure fades, not when
 
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 23h ago
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 49m ago
+The New York Times • 1h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -183,13 +183,13 @@ Bloomberg.com • 5h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Out, Gold In? Jefferies’ Shocking Treasury Shift Over These Fears](https://www.ccn.com/news/crypto/bitcoin-out-gold-in-jefferies-shocking-treasury-shift-fears/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 8h ago
+⬆️ 2 • 💬 0 • 9h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 121 • 💬 68 • ⏱️ 5:23 • 15h ago
+👁️ 4K • 👍 121 • 💬 68 • ⏱️ 5:23 • 16h ago
 
 ---
 
@@ -307,7 +307,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 129 • ⏱️ 18:18 • 9h ago
+👁️ 36K • 👍 3K • 💬 129 • ⏱️ 18:18 • 10h ago
 
 ---
 
@@ -337,7 +337,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 968 • 💬 320 • ⏱️ 16:02 • 22h ago
+👁️ 16K • 👍 968 • 💬 320 • ⏱️ 16:02 • 23h ago
 
 ---
 
@@ -347,7 +347,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 74K • 👍 5K • 💬 535 • ⏱️ 14:43 • 18h ago
+👁️ 74K • 👍 5K • 💬 535 • ⏱️ 14:43 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 96K • 👍 1K • 💬 443 • ⏱️ 5:15 • 20h ago
+👁️ 96K • 👍 1K • 💬 443 • ⏱️ 5:15 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 31K • 👍 2K • 💬 56 • ⏱️ 30:10 • 23h ago
+👁️ 31K • 👍 2K • 💬 56 • ⏱️ 30:10 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:15 • 16h ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:15 • 17h ago
 
 ---
 

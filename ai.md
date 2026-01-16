@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T14:50:03.634896+00:00'
+updated: '2026-01-16T15:25:56.248360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 14:50 UTC  
+**Last Updated:** January 16, 2026 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I analyzed 3,023 enterprise AI use cases to understand what's actually being dep
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://drive.google.com/file/d/1Muj8f1twIFaYDZZqsJBvQyq5w9f9GocC/view?usp=drive
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 2d ago
 
 ---
 
@@ -113,7 +113,7 @@ Could Siri be the last piece of the puzzle?
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 20h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 21h ago
 
 ---
 
@@ -137,13 +137,13 @@ BBC • 18h ago
 
 **[Walmart goes all-in on AI with new executive team under incoming CEO Furner](https://www.axios.com/2026/01/16/walmart-ai-executives)**
 
-Axios • 46m ago
+Axios • 1h ago
 
 ---
 
 **[ClickHouse Lands $15 Billion Valuation in AI Database Race](https://www.bloomberg.com/news/articles/2026-01-16/clickhouse-lands-15-billion-valuation-in-ai-database-race)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 49m ago
 
 With the rise of gen AI tools, offices have had to contend with a new scourge: “workslop” or low-effort, AI-generated work that looks plausibly polished, but ends up wasting time and effort as it offloads cognitive work onto the recipient. Workslop can have a corrosive effect on office dynamics. But why do people create it and send it to their colleagues, especially if it can lead to bosses, coworkers, and subordinates thinking less of them? New research suggests that the recipe for workslop is surprisingly simple and under the control of management: It’s the result of unclear AI mandates and overwhelmed teams. Leaders are issuing vague directives for employees to start using extremely powerful tools, while many of those employees are overburdened, psychologically depleted, and operating in environments where it doesn’t feel safe to admit uncertainty or ask for help. Addressing this problem first requires understanding pressures at both the top and bottom of organizations.
 
-Harvard Business Review • 1h ago
+Harvard Business Review • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 4h ago
 
 **[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqdH_X7cwmpYgYffzRn_SzK4fYosLotKtbyA4q4ymmC0SRVKqluGKB_A&gaa_ts=696a4dcb&gaa_sig=CUFSsyHSKxFPxZFR86-YwSiWnzznPTn8-oR0KtSAsfKxU5xqLSBanueY7UVyeIaKIFANnV2Zj-zXMB40L6gogA%3D%3D)**
 
-The Wall Street Journal • 2h ago
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Economist • 1d ago
 
 Thousands of abusive videos were produced last year—that researchers know of.
 
-The Atlantic • 14h ago
+The Atlantic • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Atlantic • 14h ago
 
 Despite restrictions announced this week, Guardian reporters find standalone app continues to allow posting of nonconsensual content
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -221,7 +221,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 335 • 💬 256 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 336 • 💬 256 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -238,7 +238,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 246 • 💬 204 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 246 • 💬 205 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -268,7 +268,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 151 • 💬 83 • 15h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 158 • 💬 86 • 15h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -282,7 +282,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 95K • 👍 6K • 💬 1K • ⏱️ 20:29 • 21h ago
+👁️ 95K • 👍 6K • 💬 1K • ⏱️ 20:29 • 22h ago
 
 ---
 
@@ -302,7 +302,7 @@ Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it w
 
 📺 AI Revolution
 
-👁️ 15K • 👍 521 • 💬 53 • ⏱️ 15:44 • 15h ago
+👁️ 15K • 👍 521 • 💬 53 • ⏱️ 15:44 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 441K • 👍 37K • 💬 4K • ⏱️ 11:40 • 2d ago
+👁️ 441K • 👍 37K • 💬 4K • ⏱️ 11:40 • 3d ago
 
 ---
 
@@ -360,7 +360,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 136 • 💬 30 • ⏱️ 6:40 • 18h ago
+👁️ 12K • 👍 136 • 💬 30 • ⏱️ 6:40 • 19h ago
 
 ---
 
@@ -480,7 +480,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 36,543 • ❤️ 257 • 6d ago
+⬇️ 36,543 • ❤️ 257 • 7d ago
 
 ---
 
@@ -492,7 +492,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 46,169 • ❤️ 238 • 6d ago
+⬇️ 46,169 • ❤️ 238 • 7d ago
 
 ---
 
@@ -637,7 +637,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.8k • 🔱 1.2k • 1h ago
+⭐ 8.8k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 158 • 23h ago
+⭐ 2.7k • 🔱 158 • 1d ago
 
 ---
 
@@ -687,7 +687,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.2k • 🔱 2.1k • 40m ago
+⭐ 2.2k • 🔱 2.1k • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 48m ago
+⭐ 1.7k • 🔱 134 • 1h ago
 
 ---
 
