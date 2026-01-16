@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T05:27:17.675119+00:00'
+updated: '2026-01-16T05:49:33.379617+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 05:27 UTC  
+**Last Updated:** January 16, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,520.00
+### $95,576.31
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,9 +91,23 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 ---
 
+**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
+
+Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
+
+1h ago
+
+---
+
+**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
+
+7h ago
+
+---
+
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,17 +119,17 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 ---
 
-**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
-
-6h ago
-
----
-
 **[Has anyone here lost a lot of money in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1qdn58f/has_anyone_here_lost_a_lot_of_money_in_bitcoin/)**
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
 13h ago
+
+---
+
+**[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
+
+10h ago
 
 ---
 
@@ -127,23 +141,11 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
-**[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
-
-10h ago
-
----
-
 **[Book review](https://www.reddit.com/r/Bitcoin/comments/1qduola/book_review/)**
 
 Starting this now. Have you read it? How would you rate it?
 
 9h ago
-
----
-
-**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
-
-1d ago
 
 ---
 
@@ -153,7 +155,7 @@ Starting this now. Have you read it? How would you rate it?
 
 **[Bitcoin slides below $96,000 as key crypto bill stalls in Congress](https://finance.yahoo.com/news/bitcoin-slides-below-96-000-154839641.html)**
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 144 • ⏱️ 21:24 • 4h ago
+👁️ 12K • 👍 2K • 💬 144 • ⏱️ 21:24 • 5h ago
 
 ---
 
@@ -339,7 +341,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 134 • ⏱️ 46:33 • 13h ago
+👁️ 22K • 👍 1K • 💬 134 • ⏱️ 46:33 • 14h ago
 
 ---
 

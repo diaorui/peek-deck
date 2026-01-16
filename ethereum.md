@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T05:27:17.681641+00:00'
+updated: '2026-01-16T05:49:33.385566+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 05:27 UTC  
+**Last Updated:** January 16, 2026 at 05:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,293.73
+### $3,293.25
 
 ---
 
@@ -96,7 +96,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 2h ago
+🔗 [totems.fun](https://totems.fun/) • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 192 • 💬 214 • ⏱️ 15:10 • 23h ago
+👁️ 5K • 👍 192 • 💬 214 • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Brian from Santiment joined me to review the crypto metrics for Bitcoin, Ethereu
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 310 • 💬 130 • ⏱️ 33:50 • 16h ago
+👁️ 4K • 👍 310 • 💬 130 • ⏱️ 33:50 • 17h ago
 
 ---
 
