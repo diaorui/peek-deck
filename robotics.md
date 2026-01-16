@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T04:41:01.821113+00:00'
+updated: '2026-01-16T05:27:17.685006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 04:41 UTC  
+**Last Updated:** January 16, 2026 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,13 +50,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-14h ago
+15h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -72,7 +72,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 14h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 15h ago
 
 ---
 
@@ -86,19 +86,19 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-13h ago
+14h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -142,6 +142,28 @@ Nikkei Asia • 11h ago
 
 ---
 
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+
+Interesting Engineering • 17h ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdPgm0REZV7CJtwN5p1HmnRrz1YaIMSXc80Q5csuuC9vR141d4yS2hF&gaa_ts=6969cfa2&gaa_sig=_79qZJxyAJIx6neWBD1wsLYLz2zknFCi3D93-TNr_Pe6bsbKsJP_7RIuIXo5tXVXU_vQflgkrLPwq52pt8OORw%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Hyundai Revealed Boston Dynamics' Next-Gen Humanoid Robots](https://www.bgr.com/2071680/hyundai-reveal-next-gen-robot-boston-dynamics-robot-atlas/)**
+
+At the 2026 CES show, Hyundai and Boston Dynamics took the wraps off its next-gen humanoid robot, Atlas, that is nearly ready for commercial use.
+
+bgr.com • 1d ago
+
+---
+
 **[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
 Reuters • 3d ago
@@ -151,28 +173,6 @@ Reuters • 3d ago
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 1d ago
-
----
-
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 2d ago
-
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdvJPspX8qP_fjLNE5Drunh_tj2SkEITvqrXgCHQ-BIjTnStBRHOczw&gaa_ts=6969b6bd&gaa_sig=HZq3rxccxqGK9g5OZwnebv82c72Pyu7cQ1POzpl2SWFk9UEFVvXx6r24ZiC_AluhT3zSaVZDa938GBMe6GCANg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
-
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-
-Interesting Engineering • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 10h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 11h ago
 
 ---
 

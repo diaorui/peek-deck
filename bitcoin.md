@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T04:41:01.811783+00:00'
+updated: '2026-01-16T05:27:17.675119+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 04:41 UTC  
+**Last Updated:** January 16, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +5.7%  
-**30d:** +12.0%  
-**90d:** -11.9%  
-**1y:** -8.3%  
+**24h:** -1.0%  
+**7d:** +5.4%  
+**30d:** +11.7%  
+**90d:** -12.1%  
+**1y:** -8.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-16h ago
+17h ago
 
 ---
 
@@ -115,7 +115,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 Starting this now. Have you read it? How would you rate it?
 
-8h ago
+9h ago
 
 ---
 
@@ -151,23 +151,9 @@ Starting this now. Have you read it? How would you rate it?
 
 ## Google News: "bitcoin"
 
-**[XRP, SOL, Dogecoin Granted Bitcoin Legal Status in Senate Draft Bill](https://coinmarketcap.com/academy/article/xrp-sol-dogecoin-granted-bitcoin-legal-status-in-senate-draft-bill)**
-
-Cryptocurrencies serving as principal assets in exchange-traded products listed on national securities exchanges would receive non-ancillary designation.
-
-CoinMarketCap • 2d ago
-
----
-
 **[Bitcoin slides below $96,000 as key crypto bill stalls in Congress](https://finance.yahoo.com/news/bitcoin-slides-below-96-000-154839641.html)**
 
-Yahoo Finance • 12h ago
-
----
-
-**[Senate Crypto Bill Hits a Snag as Coinbase Pulls Support](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdmDA3qhou6asxOEnPAdTQwDtCYROmP4Dh8aqgbVPd5QfrCy1XLUJPg&gaa_ts=6969b6ba&gaa_sig=PDRxcLG_XLUSq-zIfu7qAzsVPcnIB-4Q4e1NK-DbUrv-UFer7WrL19eMiAnd-nn61uCyocBCe2Ds1JmPNH2TIQ%3D%3D)**
-
-Barron's • 6h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -179,19 +165,25 @@ grist.org • 1d ago
 
 ---
 
-**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
+**[Bitcoin rallies past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
 
-Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
+The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-Yahoo Finance • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Canaan Highlights Record $150M Quarter, New Avalon A16 Miners and Growing Bitcoin Treasury at Conference](https://finance.yahoo.com/news/canaan-highlights-record-150m-quarter-020308865.html)**
+**[Asia Market Open: Bitcoin Softens Around $95K As AI Buzz Lifts Asian Shares](https://finance.yahoo.com/news/asia-market-open-bitcoin-softens-031932193.html)**
 
-Canaan (NASDAQ:CAN) used a virtual investor presentation to outline its position in the bitcoin mining hardware market, recent financial performance, and strategy for diversifying revenue through self-mining, home mining products, and a bitcoin treasury. Company background and business model Leo Wa
+Bitcoin held around $95,000 on Friday as traders weighed a calmer tone in macro markets and a fresh burst of enthusiasm for artificial intelligence stocks across Asia.Regional equities pushed higher and hovered near record levels, with chip-linked gains back in focus after strong results from Taiwan Semiconductor Manufacturing Co revived ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqchzVdY8-50kqDzY70Oy78OV2Q7nl8BfJkc3IupBR1CBMitAfRkHSSf&gaa_ts=6969cfa0&gaa_sig=qzAsDW6JQVhWBk-ZdeGpRm1b5xeF35ySzHSSxhaKasYxuw2Db6OAu3bVvWOTwsNdz8DRlCquwG39fGE5xYkCmA%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -199,7 +191,7 @@ Yahoo Finance • 2h ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -215,11 +207,17 @@ The Block • 1d ago
 
 ---
 
-**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield)**
+**[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
+
+thestreet.com • 15h ago
+
+---
+
+**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://finance.yahoo.com/news/td-cowen-trims-strategy-price-030728855.html)**
 
 TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -291,7 +289,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 58K • 👍 1K • 💬 359 • ⏱️ 5:15 • 10h ago
+👁️ 58K • 👍 1K • 💬 359 • ⏱️ 5:15 • 11h ago
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 156 • ⏱️ 14:15 • 6h ago
+👁️ 21K • 👍 1K • 💬 156 • ⏱️ 14:15 • 7h ago
 
 ---
 
@@ -311,7 +309,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 4K • 💬 473 • ⏱️ 14:43 • 8h ago
+👁️ 59K • 👍 4K • 💬 473 • ⏱️ 14:43 • 9h ago
 
 ---
 
@@ -321,7 +319,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 868 • 💬 300 • ⏱️ 16:02 • 12h ago
+👁️ 14K • 👍 868 • 💬 300 • ⏱️ 16:02 • 13h ago
 
 ---
 
@@ -351,7 +349,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 28K • 👍 2K • 💬 54 • ⏱️ 30:10 • 13h ago
+👁️ 28K • 👍 2K • 💬 54 • ⏱️ 30:10 • 14h ago
 
 ---
 
@@ -371,7 +369,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 19K • 👍 969 • 💬 114 • ⏱️ 18:21 • 17h ago
+👁️ 19K • 👍 969 • 💬 114 • ⏱️ 18:21 • 18h ago
 
 ---
 
@@ -381,7 +379,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 1K • 💬 118 • ⏱️ 8:38 • 11h ago
+👁️ 15K • 👍 1K • 💬 118 • ⏱️ 8:38 • 12h ago
 
 ---
 
