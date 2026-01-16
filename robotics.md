@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T21:43:37.402802+00:00'
+updated: '2026-01-16T22:22:58.641827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 21:43 UTC  
+**Last Updated:** January 16, 2026 at 22:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-11h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-8h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 2h ago
 
 ---
 
@@ -76,7 +76,7 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 7h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 8h ago
 
 ---
 
@@ -92,7 +92,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Recorded this at CES, naturally I had to add sound effects lol You can see the f
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -128,11 +128,19 @@ The Robot Report • 3d ago
 
 ---
 
+**[CES Top 12 Companies Redefining Personalization With Web3, AI, Robots](https://www.forbes.com/sites/digital-assets/2026/01/16/ces-top-12-companies-redefining-personalization-with-web3-ai-robots/)**
+
+At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.
+
+Forbes • 32m ago
+
+---
+
 **[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
 
 The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -171,12 +179,6 @@ TechCrunch • 2d ago
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
 Interesting Engineering • 1d ago
-
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqchjMTxbba1lGDy6jZ7c07mFW3ZNUkz4w1ZtOuFme7Dl1msqxkfiUXT&gaa_ts=696aa682&gaa_sig=iOC0J2dxxFgMNdV6zDuvHvZgDsYPrErzge_w7A2r_xpqozhwRqZX25QiEZNw9fVVfqjlHWQxSnyZUrndqlB5Yw%3D%3D)**
-
-MarketWatch • 2d ago
 
 ---
 

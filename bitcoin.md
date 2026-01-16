@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T21:43:37.393602+00:00'
+updated: '2026-01-16T22:22:58.632323+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 21:43 UTC  
+**Last Updated:** January 16, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,13 +115,13 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 This is crazy, Bitcoin is going to the moon sooner or later.
 
-5h ago
+6h ago
 
 ---
 
 **[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 **[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -151,13 +151,13 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 12h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -175,33 +175,11 @@ The Block • 8h ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 1h ago
-
----
-
-**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
-
-Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
-
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin (BTC) miner outlook looking up this year, says JPMorgan](https://www.coindesk.com/markets/2026/01/16/early-2026-tailwinds-for-bitcoin-miners-as-hashrate-falls-profitability-improves-jpmorgan)**
-
-U.S.-listed bitcoin miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop.
-
-CoinDesk • 7h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -209,7 +187,15 @@ CoinDesk • 7h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 5h ago
+Mother Jones • 6h ago
+
+---
+
+**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
+
+The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -221,6 +207,20 @@ Seeking Alpha • 3h ago
 
 ---
 
+**[Despite the Dip, Bitcoin Just Flashed Its Most Reliable Bullish Signal: Analysis](https://decrypt.co/354918/bitcoin-bullish-signal-golden-cross-price-analysis)**
+
+The price of Bitcoin is down today, but BTC also just flashed its most-watched bullish signal. Is a recovery rally on the way?
+
+Decrypt • 4h ago
+
+---
+
+**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
+
+The Block • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +229,7 @@ Seeking Alpha • 3h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 5h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 6h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -267,7 +267,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 2 • 💬 0 • 4h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 2 • 💬 0 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -295,7 +295,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 15h ago
+⬆️ 2 • 💬 4 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 22h ago
+👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 10h ago
+👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the exp
 
 📺 CNBC Television
 
-👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 8h ago
+👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 9h ago
 
 ---
 
@@ -379,7 +379,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Podcast Ancur
 
-👁️ 4K • 👍 2K • 2h ago
+👁️ 4K • 👍 2K • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ Coinbase CEO Brian Armstrong breaks down the decision-making that led him to wit
 
 📺 Fox Business
 
-👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 21h ago
+👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 22h ago
 
 ---
 
@@ -399,7 +399,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 16h ago
+👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 17h ago
 
 ---
 
