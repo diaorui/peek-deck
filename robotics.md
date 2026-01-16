@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T22:22:58.641827+00:00'
+updated: '2026-01-16T22:46:40.855573+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 22:22 UTC  
+**Last Updated:** January 16, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-10h ago
+11h ago
 
 ---
 
@@ -64,6 +64,12 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ---
 
+**[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
+
+26m ago
+
+---
+
 **[ROS News for the Week of January 12th, 2026](https://www.reddit.com/r/robotics/comments/1qeqy65/ros_news_for_the_week_of_january_12th_2026/)**
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
@@ -80,14 +86,6 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 ---
 
-**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
-
-As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
-
-1d ago
-
----
-
 **[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
@@ -96,11 +94,11 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 ---
 
-**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
+**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
 
-Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
+As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-4h ago
+1d ago
 
 ---
 
@@ -132,7 +130,7 @@ The Robot Report • 3d ago
 
 At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.
 
-Forbes • 32m ago
+Forbes • 56m ago
 
 ---
 
@@ -192,13 +190,53 @@ GeekWire • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 61K • 👍 4K • 💬 893 • ⏱️ 19:17 • 1d ago
+
+---
+
 **[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
 Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
 📺 Ticker Symbol: YOU
 
-👁️ 94K • 👍 4K • 💬 299 • ⏱️ 17:36 • 1d ago
+👁️ 95K • 👍 4K • 💬 294 • ⏱️ 17:36 • 2d ago
+
+---
+
+**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
+
+Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
+
+📺 PREDATOR WR
+
+👁️ 6K • 👍 308 • 💬 42 • ⏱️ 15:23 • 9h ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 237K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+
+---
+
+**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
+
+The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
+
+📺 Kim Java
+
+👁️ 1K • 👍 25 • 💬 3 • ⏱️ 0:43 • 7h ago
 
 ---
 
@@ -212,23 +250,23 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
 
-HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Deepen
+📺 Julia McCoy
 
-👁️ 12K • 👍 170 • 💬 3 • ⏱️ 0:23 • 7h ago
+👁️ 52K • 👍 3K • 💬 433 • ⏱️ 14:30 • 5d ago
 
 ---
 
-**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
+**[Wikise - Chi Robot (Official video)](https://www.youtube.com/watch?v=1WXFltl5kjI)**
 
-The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
+malawimusic #zambiamusic #zimbabwemusic #wikise.
 
-📺 Kim Java
+📺 Wikise1992
 
-👁️ 883 • 👍 20 • 💬 3 • ⏱️ 0:43 • 6h ago
+👁️ 56K • 👍 4K • 💬 445 • ⏱️ 3:51 • 15h ago
 
 ---
 
@@ -238,57 +276,15 @@ BEST OF CES 2026 ▻Checkout iGarden Swim Jet X, M1 Pro Pool Cleaner & Lawn Mowe
 
 📺 XEETECHCARE
 
-👁️ 1K • 👍 76 • 💬 6 • ⏱️ 13:33 • 4h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 13:33 • 5h ago
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+📺 Chris Wabs
 
-📺 CNBC
-
-👁️ 160K • 👍 2K • 💬 399 • ⏱️ 11:46 • 5d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 236K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
-
----
-
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
-
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
-
-📺 The Laughing Lion
-
-👁️ 15K • 👍 116 • 💬 10 • ⏱️ 0:12 • 5d ago
-
----
-
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
-
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
-
-📺 Kim Java
-
-👁️ 450K • 👍 13K • 💬 788 • ⏱️ 17:09 • 4d ago
-
----
-
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 98K • 👍 1K • 💬 173 • ⏱️ 10:48 • 6d ago
+👁️ 315K • 👍 2K • 💬 967 • ⏱️ 0:16 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T22:22:58.632323+00:00'
+updated: '2026-01-16T22:46:40.846344+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 22:22 UTC  
+**Last Updated:** January 16, 2026 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,374.17
+### $95,334.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +5.7%  
-**30d:** +12.0%  
-**90d:** -11.9%  
-**1y:** -8.2%  
+**24h:** -0.2%  
+**7d:** +5.5%  
+**30d:** +11.9%  
+**90d:** -12.0%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1900.38B
+**Market Cap:** $1903.46B
 Rank #1
 
-**Circulating Supply:** 19,976,678 BTC
+**Circulating Supply:** 19,976,712 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.4%
 
 **All-Time Low:** $67.81
-+140217.1%
++140470.7%
 
 ---
 
@@ -77,15 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
+
+War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
+
+11h ago
+
+---
+
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-10h ago
+11h ago
+
+---
+
+**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
+
+1h ago
 
 ---
 
@@ -93,35 +107,13 @@ Rank #1
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-17h ago
-
----
-
-**[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
-
-War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
-
-10h ago
+18h ago
 
 ---
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-4h ago
-
----
-
-**[99% of financial advisors plan to add or maintain their crypto exposures this year. CRAZY](https://www.reddit.com/r/Bitcoin/comments/1qejgug/99_of_financial_advisors_plan_to_add_or_maintain/)**
-
-This is crazy, Bitcoin is going to the moon sooner or later.
-
-6h ago
-
----
-
-**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
-
-6h ago
+5h ago
 
 ---
 
@@ -133,15 +125,23 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 ---
 
-**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
+**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-1d ago
+6h ago
 
 ---
 
-**[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
+**[99% of financial advisors plan to add or maintain their crypto exposures this year. CRAZY](https://www.reddit.com/r/Bitcoin/comments/1qejgug/99_of_financial_advisors_plan_to_add_or_maintain/)**
 
-8h ago
+This is crazy, Bitcoin is going to the moon sooner or later.
+
+6h ago
+
+---
+
+**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
+
+1d ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 9h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 12h ago
 
 Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 1d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 6h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 7h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -237,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 6h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 7h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -267,7 +267,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 2 • 💬 0 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 0 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -303,33 +303,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 1K • 💬 129 • ⏱️ 43:25 • 6h ago
-
----
-
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 23h ago
-
----
-
 **[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
 
 LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 218 • ⏱️ 11:32 • 22h ago
+👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -339,7 +319,27 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 1K • 💬 130 • ⏱️ 16:02 • 4h ago
+👁️ 20K • 👍 2K • 💬 157 • ⏱️ 16:02 • 5h ago
+
+---
+
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 181 • 💬 72 • ⏱️ 5:23 • 23h ago
+
+---
+
+**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 103 • ⏱️ 43:25 • 7h ago
 
 ---
 
@@ -349,47 +349,7 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 11h ago
-
----
-
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
-
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
-
-📺 Paul Barron Network
-
-👁️ 82K • 👍 5K • 💬 559 • ⏱️ 14:43 • 1d ago
-
----
-
-**[Galaxy CEO Michael Novogratz on data center expansion, fate of Senate crypto bill](https://www.youtube.com/watch?v=v6v0rlUMGOI)**
-
-Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the expansion of the company's Helios data center, ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 9h ago
-
----
-
-**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=qUBeQ-hS-Xc)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Podcast Ancur
-
-👁️ 4K • 👍 2K • 3h ago
-
----
-
-**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
-
-Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
-
-📺 Fox Business
-
-👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 22h ago
+👁️ 14K • 👍 713 • 💬 83 • ⏱️ 13:46 • 11h ago
 
 ---
 
@@ -399,7 +359,47 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 17h ago
+👁️ 61K • 👍 4K • 💬 171 • ⏱️ 18:18 • 17h ago
+
+---
+
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
+
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
+
+📺 Paul Barron Network
+
+👁️ 83K • 👍 5K • 💬 569 • ⏱️ 14:43 • 1d ago
+
+---
+
+**[BITCOIN PATH TO NEW HIGHS](https://www.youtube.com/watch?v=OyRtuWBB63Q)**
+
+Bitcoin's path to new highs is coming into focus as momentum, on-chain data, and macro trends align. In today's crypto news, we ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 138 • 💬 7 • ⏱️ 0:32 • 1d ago
+
+---
+
+**[Bitcoin Supercycle: The Last Trade Is Here | Marty Bent](https://www.youtube.com/watch?v=8BFPkX268Ws)**
+
+The Last Trade: Marty Bent breaks down bitcoin's 2026 setup, Fed vs Treasury tension, and why the denominator is breaking.
+
+📺 Onramp Bitcoin Media
+
+👁️ 1K • 👍 77 • 💬 18 • ⏱️ 1:11:59 • 8h ago
+
+---
+
+**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
+
+Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
+
+📺 Swan Bitcoin
+
+👁️ 43K • 👍 2K • 💬 122 • ⏱️ 14:15 • 1d ago
 
 ---
 
