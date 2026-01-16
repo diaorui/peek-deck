@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T07:45:35.149210+00:00'
+updated: '2026-01-16T08:32:10.387516+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 07:45 UTC  
+**Last Updated:** January 16, 2026 at 08:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[One-Minute Daily AI News 1/15/2026](https://www.reddit.com/r/artificial/comments/1qe7qql/oneminute_daily_ai_news_1152026/)**
+
+Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/ [4] https://www.reuters.com/world/china/alibaba-upgrades-qwen-app-order-food-book-travel-2026-01-15/
+
+2h ago
+
+---
+
 **[Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.](https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/)**
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
 18h ago
-
----
-
-**[One-Minute Daily AI News 1/15/2026](https://www.reddit.com/r/artificial/comments/1qe7qql/oneminute_daily_ai_news_1152026/)**
-
-Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/ [4] https://www.reuters.com/world/china/alibaba-upgrades-qwen-app-order-food-book-travel-2026-01-15/
-
-1h ago
 
 ---
 
@@ -81,7 +81,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Could Siri be the last piece of the puzzle?
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 13h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ I recently got a new Pixel and it came with a free year of Gemini Pro and I was 
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 13h ago
 
 Elon Musk’s AI chatbot Grok won’t be able to edit photos to portray real people in revealing clothing in places where that is illegal, according to a statement posted on X.
 
-PBS • 7h ago
+PBS • 8h ago
 
 ---
 
@@ -155,13 +155,13 @@ The Guardian • 12h ago
 
 Despite restrictions announced this week, Guardian reporters find standalone app continues to allow posting of nonconsensual content
 
-The Guardian • 45m ago
+The Guardian • 1h ago
 
 ---
 
 **[Thomas Sowell: My Experience With Artificial Intelligence](https://www.wsj.com/opinion/free-expression/thomas-sowell-my-experience-with-artificial-intelligence-ebcde812?gaa_at=eafs&gaa_n=AWEtsqcuHpL5IXwfUHxc6GLL9evErcHQLioqYQqNJOU7bnbS8NvnoT6xzMA-&gaa_ts=6969f00a&gaa_sig=lqoOqRkzR5WWyXPEcFRdujhevTJ2c9UYoINwXIrDkcJN4BggphnGtTY-F29wZA2HxkccHxMmz70MEgtz0sWX3Q%3D%3D)**
 
-wsj.com • 19h ago
+wsj.com • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ wsj.com • 19h ago
 
 By 2027, most of IT services work will be done by human plus AI teams: Indian industry body report
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 1h ago
 
 On Tuesday, January 13, University of Alaska Fairbanks undergraduate student Graham Granger was detained after he had been found “ripping artwork off the walls and eating it in a reported protest,” according to the UAF police department. Granger was chewing and spitting out images pinned to the wall
 
-uafsunstar.com • 23h ago
+uafsunstar.com • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 330 • 💬 246 • 23h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 330 • 💬 248 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -242,7 +242,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 243 • 💬 197 • 23h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 243 • 💬 199 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -286,7 +286,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 86K • 👍 6K • 💬 1K • ⏱️ 20:29 • 14h ago
+👁️ 86K • 👍 6K • 💬 1K • ⏱️ 20:29 • 15h ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 715 • 21h ago
+⬇️ 2,442 • ❤️ 715 • 22h ago
 
 ---
 
@@ -683,7 +683,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.6k • 🔱 154 • 16h ago
+⭐ 2.6k • 🔱 154 • 17h ago
 
 ---
 
@@ -693,7 +693,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 241 • 3h ago
+⭐ 2.1k • 🔱 241 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.1k • 🔱 1.9k • 18h ago
+⭐ 2.1k • 🔱 1.9k • 19h ago
 
 ---
 
@@ -713,7 +713,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 19h ago
+⭐ 1.7k • 🔱 134 • 20h ago
 
 ---
 
@@ -733,7 +733,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 198 • 1h ago
+⭐ 1.4k • 🔱 198 • 2h ago
 
 ---
 

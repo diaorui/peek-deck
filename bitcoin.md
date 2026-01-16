@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T07:45:35.157635+00:00'
+updated: '2026-01-16T08:32:10.396220+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 07:45 UTC  
+**Last Updated:** January 16, 2026 at 08:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,610.55
+### $95,630.30
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-13h ago
+14h ago
 
 ---
 
@@ -115,7 +115,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-15h ago
+16h ago
 
 ---
 
@@ -131,13 +131,13 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
 **[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Starting this now. Have you read it? How would you rate it?
 
-11h ago
+12h ago
 
 ---
 
@@ -173,7 +173,7 @@ grist.org • 1d ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 1d ago
 
 **[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -257,7 +257,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 63 • 💬 13 • 3d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 63 • 💬 13 • 4d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -285,7 +285,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 1h ago
+⬆️ 2 • 💬 0 • 2h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 78 • 💬 44 • ⏱️ 5:23 • 8h ago
+👁️ 3K • 👍 78 • 💬 44 • ⏱️ 5:23 • 9h ago
 
 ---
 
@@ -309,7 +309,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 76K • 👍 1K • 💬 383 • ⏱️ 5:15 • 13h ago
+👁️ 76K • 👍 1K • 💬 383 • ⏱️ 5:15 • 14h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 128 • ⏱️ 14:15 • 9h ago
+👁️ 27K • 👍 1K • 💬 128 • ⏱️ 14:15 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 122 • ⏱️ 21:24 • 7h ago
+👁️ 19K • 👍 2K • 💬 122 • ⏱️ 21:24 • 8h ago
 
 ---
 
@@ -339,7 +339,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 911 • 💬 278 • ⏱️ 16:02 • 15h ago
+👁️ 15K • 👍 911 • 💬 278 • ⏱️ 16:02 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 65K • 👍 5K • 💬 474 • ⏱️ 14:43 • 11h ago
+👁️ 65K • 👍 5K • 💬 474 • ⏱️ 14:43 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 51 • ⏱️ 30:10 • 16h ago
+👁️ 29K • 👍 2K • 💬 51 • ⏱️ 30:10 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ Coinbase pulls out of the highly anticipated crypto financial markup bill comple
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 385 • 💬 69 • ⏱️ 1:31:47 • 11h ago
+👁️ 6K • 👍 385 • 💬 69 • ⏱️ 1:31:47 • 12h ago
 
 ---
 

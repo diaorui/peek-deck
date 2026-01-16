@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T07:45:35.166739+00:00'
+updated: '2026-01-16T08:32:10.405538+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 07:45 UTC  
+**Last Updated:** January 16, 2026 at 08:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,17 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 ---
 
-**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
-
-5h ago
-
----
-
 **[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-1h ago
+2h ago
+
+---
+
+**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
+
+6h ago
 
 ---
 
@@ -58,13 +58,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-17h ago
+18h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,15 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-11h ago
+12h ago
+
+---
+
+**[Cheap all metal planetary reducers for Nema 17. Are they any good?](https://www.reddit.com/r/robotics/comments/1qeakxl/cheap_all_metal_planetary_reducers_for_nema_17/)**
+
+https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
+
+3m ago
 
 ---
 
@@ -80,7 +88,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Quick intro: I am an engineering undergrad working on my final research project. I have been given ~3 months to develop a feature as follows: I am supposed to work on the raspberry pi platform based robot(it is already developed, along with some custom control software), somehow onboard a VLM,SLM or LLM to run real time, take inputs from sensors(a camera and a lidar) and it is supposed to do things like respond to queries like “What am I holding”, or go move around the room if I say “explore the room”, or obey simple instructions like “move forward”. It needs to have speech to text, text to speech capabilities, etc. My concerns are whether this is even viable, even on the highest specced pi? Those of you who worked on similar projects or heard of them, could you maybe please comment on the viability of the project? Or are language models even necessary for a problem like this? Are there other more efficient/interesting ways to get the job done? I am also new to the raspberry platform, so your experience, pointers to resources could perhaps save me weeks of soul searching on the best solutions for the subproblems. Finally, for validation purposes, is this a good place to research on? Your two cents would be priceless for me :) PS. I am from a cs background, mostly worked on ml projects prior, took up robotics because of my interest in it.
 
-49m ago
+1h ago
 
 ---
 
@@ -96,13 +104,7 @@ Has anyone read the recent paper from PI about knowledge transfer from Human Ego
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 17h ago
-
----
-
-**[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
-
-12h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 18h ago
 
 ---
 
@@ -142,7 +144,7 @@ TechCrunch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 14h ago
+Nikkei Asia • 15h ago
 
 ---
 
