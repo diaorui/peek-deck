@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T05:49:33.379617+00:00'
+updated: '2026-01-16T06:36:31.386124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 05:49 UTC  
+**Last Updated:** January 16, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +5.4%  
-**30d:** +11.7%  
-**90d:** -12.1%  
-**1y:** -8.5%  
+**24h:** -0.9%  
+**7d:** +5.9%  
+**30d:** +12.2%  
+**90d:** -11.7%  
+**1y:** -8.1%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-11h ago
+12h ago
 
 ---
 
@@ -101,13 +101,13 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-7h ago
+8h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -115,7 +115,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-17h ago
+18h ago
 
 ---
 
@@ -123,13 +123,13 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-13h ago
+14h ago
 
 ---
 
 **[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 Starting this now. Have you read it? How would you rate it?
 
-9h ago
+10h ago
 
 ---
 
@@ -153,9 +153,11 @@ Starting this now. Have you read it? How would you rate it?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin slides below $96,000 as key crypto bill stalls in Congress](https://finance.yahoo.com/news/bitcoin-slides-below-96-000-154839641.html)**
+**[Bitcoin rallies past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
 
-Yahoo Finance • 14h ago
+The largest cryptocurrency extended its rally, pushing related equities higher as well.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -167,23 +169,7 @@ grist.org • 1d ago
 
 ---
 
-**[Bitcoin rallies past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
-
-The largest cryptocurrency extended its rally, pushing related equities higher as well.
-
-CoinDesk • 1d ago
-
----
-
-**[Asia Market Open: Bitcoin Softens Around $95K As AI Buzz Lifts Asian Shares](https://finance.yahoo.com/news/asia-market-open-bitcoin-softens-031932193.html)**
-
-Bitcoin held around $95,000 on Friday as traders weighed a calmer tone in macro markets and a fresh burst of enthusiasm for artificial intelligence stocks across Asia.Regional equities pushed higher and hovered near record levels, with chip-linked gains back in focus after strong results from Taiwan Semiconductor Manufacturing Co revived ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqchzVdY8-50kqDzY70Oy78OV2Q7nl8BfJkc3IupBR1CBMitAfRkHSSf&gaa_ts=6969cfa0&gaa_sig=qzAsDW6JQVhWBk-ZdeGpRm1b5xeF35ySzHSSxhaKasYxuw2Db6OAu3bVvWOTwsNdz8DRlCquwG39fGE5xYkCmA%3D%3D)**
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqf0WSsL-3wrbzdHgO8nwLjkpbP1ZV8B9ITqTWqK251K2khAXohcyc_A&gaa_ts=6969dfdd&gaa_sig=sjUVvXDcnCn3jE82zJVVyh6Afd92IuFQoaqNE4wk2ae53owPzWTjpbzo1_kIiVkeqfQfCLWD0H3gg-kbEumZoQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -193,13 +179,19 @@ Barron's • 1d ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -211,7 +203,7 @@ The Block • 1d ago
 
 **[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
 
-thestreet.com • 15h ago
+thestreet.com • 16h ago
 
 ---
 
@@ -220,6 +212,14 @@ thestreet.com • 15h ago
 TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Pro-Bitcoin Machado Set to Meet Trump at White House](https://bitbo.io/news/machado-meets-trump-bitcoin/)**
+
+Venezuelan opposition leader Maria Corina Machado, a longtime bitcoin supporter, is set to meet President Donald Trump as she seeks a role in Venezuela's post-Maduro transition.
+
+Bitbo • 15h ago
 
 ---
 
@@ -291,7 +291,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 58K • 👍 1K • 💬 359 • ⏱️ 5:15 • 11h ago
+👁️ 58K • 👍 1K • 💬 359 • ⏱️ 5:15 • 12h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 156 • ⏱️ 14:15 • 7h ago
+👁️ 21K • 👍 1K • 💬 156 • ⏱️ 14:15 • 8h ago
 
 ---
 
@@ -311,7 +311,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 4K • 💬 473 • ⏱️ 14:43 • 9h ago
+👁️ 59K • 👍 4K • 💬 473 • ⏱️ 14:43 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 868 • 💬 300 • ⏱️ 16:02 • 13h ago
+👁️ 14K • 👍 868 • 💬 300 • ⏱️ 16:02 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 144 • ⏱️ 21:24 • 5h ago
+👁️ 12K • 👍 2K • 💬 144 • ⏱️ 21:24 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 28K • 👍 2K • 💬 54 • ⏱️ 30:10 • 14h ago
+👁️ 28K • 👍 2K • 💬 54 • ⏱️ 30:10 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 19K • 👍 969 • 💬 114 • ⏱️ 18:21 • 18h ago
+👁️ 19K • 👍 969 • 💬 114 • ⏱️ 18:21 • 19h ago
 
 ---
 
@@ -381,7 +381,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 1K • 💬 118 • ⏱️ 8:38 • 12h ago
+👁️ 15K • 👍 1K • 💬 118 • ⏱️ 8:38 • 13h ago
 
 ---
 

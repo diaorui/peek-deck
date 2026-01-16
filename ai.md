@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T05:49:33.371160+00:00'
+updated: '2026-01-16T06:36:31.377671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 05:49 UTC  
+**Last Updated:** January 16, 2026 at 06:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/ [4] https://www.reuters.com/world/china/alibaba-upgrades-qwen-app-order-food-book-travel-2026-01-15/
 
-3m ago
+50m ago
 
 ---
 
@@ -105,7 +105,7 @@ Could Siri be the last piece of the puzzle?
 
 hey guys Weird question, but do you know a good AI app that I can use to photoshop my picture? I wanna see what I would look like if I lost 30 lbs I wanna be motivated by my own picture instead of pintrest picture of a fit girl And I don't like ChatGPT for pictures Any suggestions?
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ hey guys Weird question, but do you know a good AI app that I can use to photosh
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 11h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ hey guys Weird question, but do you know a good AI app that I can use to photosh
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -131,21 +131,23 @@ The New York Times • 19h ago
 
 The Oscar-winning actor has trademarked several phrases, including "Alright, alright, alright" from the cult classic film, Dazed and Confused.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
-**[Science Center of Iowa unveils new AI exhibit](https://www.kcci.com/article/science-center-of-iowa-unveils-new-ai-exhibit/70014848)**
+**[How the White House and governors want to fix AI-driven power shortages and price spikes](https://abcnews.go.com/US/wireStory/white-house-governors-fix-ai-driven-power-shortages-129268663)**
 
-The Science Center of Iowa is launching a new interactive exhibit on artificial intelligence, opening to the public on January 16.
+The White House and a bipartisan group of governors are holding an event Friday taking aim at power shortages and price spikes from data centers for artificial intelligence
 
-KCCI • 1h ago
+ABC News • 37m ago
 
 ---
 
-**[Chinese AI Developers Say They Can’t Beat America Without Better Chips](https://www.wsj.com/tech/ai/china-ai-race-us-chips-9e74b957?gaa_at=eafs&gaa_n=AWEtsqfcUbQxu16vUU3TjI0SkiimtSijirm8n-ImbgE30BczmyRO3eLWoMDf&gaa_ts=6969cf9e&gaa_sig=ipjshLMGfeec0_XzUIqGdYAzUWo-on5eKKKwtPvfagy-WtH6BqsrF_8Rqdyd0a3_769l3xR9PMQEKaiIipydfA%3D%3D)**
+**[Protect your agentic AI before you wreck your agentic AI](https://fortune.com/2026/01/16/protect-your-agentic-ai-before-you-wreck-your-agentic-ai/)**
 
-wsj.com • 1h ago
+On the nuances of agentic AI-driven change management during the 2026 Fortune Brainstorm Tech dinner during CES in Las Vegas.
+
+Fortune • 15m ago
 
 ---
 
@@ -153,7 +155,21 @@ wsj.com • 1h ago
 
 As the hype around AI thins into something closer to reality, the ad industry is quietly drawing a line around what it can and can't do.
 
-Digiday • 46m ago
+Digiday • 1h ago
+
+---
+
+**[Thomas Sowell: My Experience With Artificial Intelligence](https://www.wsj.com/opinion/free-expression/thomas-sowell-my-experience-with-artificial-intelligence-ebcde812?gaa_at=eafs&gaa_n=AWEtsqc6Hwz3g9nTCFSMNJDgXoN-cjUMPhjcFACgFAklxuPn_lPHH1NPWcjF&gaa_ts=6969dfdb&gaa_sig=AAQY71jtV6iYScqGDBJ9-rf5hlpEzkoiwUTjGyKlmzcGeyc4ooMq9v67oiyHdui6Lp_DI8sm8ixAT8nPZiV6PA%3D%3D)**
+
+wsj.com • 18h ago
+
+---
+
+**[‘It’s AI blackface’: social media account hailed as the Aboriginal Steve Irwin is an AI character created in New Zealand](https://www.theguardian.com/australia-news/2026/jan/15/aboriginal-steve-irwin-ai-character-created-new-zealand)**
+
+More than 180,000 people follow the Bush Legend’s accounts across Meta platforms, but its Aboriginal host is a work of digital fiction
+
+The Guardian • 5h ago
 
 ---
 
@@ -161,7 +177,7 @@ Digiday • 46m ago
 
 By 2027, most of IT services work will be done by human plus AI teams: Indian industry body report
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -173,27 +189,11 @@ NPR • 1d ago
 
 ---
 
-**[Introducing Microsoft innovations and programs to support AI-powered teaching and learning](https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/)**
-
-Announcing Microsoft Elevate for Educators—connecting educators, community, professional learning, and AI tools to enhance teaching. Join us.
-
-Microsoft • 13h ago
-
----
-
-**[Anthropic Economic Index: new building blocks for understanding AI use](https://www.anthropic.com/research/economic-index-primitives)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 19h ago
-
----
-
 **[Student arrested for eating AI art in UAF gallery protest](https://www.uafsunstar.com/news/student-eats-ai-art-in-uaf-gallery-protest-arrested)**
 
 On Tuesday, January 13, University of Alaska Fairbanks undergraduate student Graham Granger was detained after he had been found “ripping artwork off the walls and eating it in a reported protest,” according to the UAF police department. Granger was chewing and spitting out images pinned to the wall
 
-uafsunstar.com • 21h ago
+uafsunstar.com • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 327 • 💬 241 • 21h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 327 • 💬 241 • 22h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -244,7 +244,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 241 • 💬 197 • 21h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 241 • 💬 197 • 22h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -288,7 +288,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 80K • 👍 6K • 💬 1K • ⏱️ 20:29 • 12h ago
+👁️ 80K • 👍 6K • 💬 1K • ⏱️ 20:29 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ Digital Rights Watch Head of Policy Tom Sulston discusses a recent Grok update a
 
 📺 Sky News Australia
 
-👁️ 7K • 👍 109 • 💬 133 • ⏱️ 3:26 • 22h ago
+👁️ 7K • 👍 109 • 💬 133 • ⏱️ 3:26 • 23h ago
 
 ---
 
@@ -318,7 +318,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 20K • 👍 1K • 💬 163 • ⏱️ 30:23 • 14h ago
+👁️ 20K • 👍 1K • 💬 163 • ⏱️ 30:23 • 15h ago
 
 ---
 
@@ -394,7 +394,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 704 • 19h ago
+⬇️ 2,442 • ❤️ 704 • 20h ago
 
 ---
 
@@ -685,7 +685,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.5k • 🔱 154 • 14h ago
+⭐ 2.5k • 🔱 154 • 15h ago
 
 ---
 
@@ -695,7 +695,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 240 • 1h ago
+⭐ 2.1k • 🔱 240 • 2h ago
 
 ---
 
@@ -705,7 +705,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.0k • 🔱 1.8k • 16h ago
+⭐ 2.0k • 🔱 1.8k • 17h ago
 
 ---
 
@@ -715,7 +715,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 134 • 17h ago
+⭐ 1.6k • 🔱 134 • 18h ago
 
 ---
 
