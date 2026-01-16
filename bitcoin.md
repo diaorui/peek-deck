@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T13:38:34.455121+00:00'
+updated: '2026-01-16T14:25:43.093563+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 13:38 UTC  
+**Last Updated:** January 16, 2026 at 14:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.4%  
-**7d:** +5.6%  
-**30d:** +12.0%  
+**7d:** +5.5%  
+**30d:** +11.8%  
 **90d:** -12.0%  
-**1y:** -8.3%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1904.82B
+**Market Cap:** $1905.24B
 Rank #1
 
-**Circulating Supply:** 19,976,531 BTC
+**Circulating Supply:** 19,976,587 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.4%
 
 **All-Time Low:** $67.81
-+140488.4%
++140507.6%
 
 ---
 
@@ -81,13 +81,19 @@ Rank #1
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-8h ago
+9h ago
 
 ---
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-16h ago
+17h ago
+
+---
+
+**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+
+2h ago
 
 ---
 
@@ -95,7 +101,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-19h ago
+20h ago
 
 ---
 
@@ -113,41 +119,79 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 ---
 
-**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
 2h ago
 
 ---
 
-**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
+**[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
 
-1h ago
-
----
-
-**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
-
-15h ago
+33m ago
 
 ---
 
-**[Daily Discussion, January 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1qe85pi/daily_discussion_january_16_2026/)**
+**[Sell bitcoin to buy what?](https://www.reddit.com/r/Bitcoin/comments/1qeg7hr/sell_bitcoin_to_buy_what/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+People who sell bitcoin, what do they buy instead? They have to put money somewhere, stock, bank, property? What is it and has there been any analysis?
 
-7h ago
+45m ago
 
 ---
 
-**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
+**[Crypto ETF Interest Surges with Highest Weekly Net Inflows Since October](https://www.reddit.com/r/Bitcoin/comments/1qeexuw/crypto_etf_interest_surges_with_highest_weekly/)**
 
-19h ago
+Interesting how ETF inflows seem to resume once selling pressure fades, not when optimism returns. Feels less like a bet on upside and more like capital re-establishing a baseline allocation to Bitcoin as a hedge. Curious how others here read that.
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/crypto-etf-interest-surges-highest-weekly-net-inflows-october) • 1h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin price news: BTC is selling off again during U.S. market hours](https://www.coindesk.com/markets/2026/01/15/bitcoin-slides-below-usd96-000-as-key-crypto-bill-stalls-in-congress)**
+
+After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
+
+CoinDesk • 22h ago
+
+---
+
+**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+
+The New York Times • 25m ago
+
+---
+
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
+
+Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Out, Gold In? Jefferies’ Shocking Treasury Shift Over These Fears](https://www.ccn.com/news/crypto/bitcoin-out-gold-in-jefferies-shocking-treasury-shift-fears/)**
+
+CCN.com • 2h ago
+
+---
 
 **[These Finnish homes are being heated by a surprising source: Bitcoin](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/)**
 
@@ -157,67 +201,23 @@ grist.org • 1d ago
 
 ---
 
-**[Bitcoin Open Interest Drops 31% as Analysts Call a Market Bottom and Eye $105k Breakout](https://finance.yahoo.com/news/bitcoin-open-interest-drops-31-154937291.html)**
-
-Bitcoin open interest has plunged over 31% from its 2025 peak, now stabilizing around $10 billion as analysts identify this decline as a critical bottoming formation that could propel BTC toward a $105,000 breakout.The deleveraging phase, triggered by massive liquidations, has pushed open interest below its 180-day moving average while ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[DDC Enterprise buys 200 bitcoin in first 2026 treasury move](https://www.coindesk.com/markets/2026/01/16/ddc-enterprise-buys-200-bitcoin-in-first-2026-treasury-move)**
-
-Shares climb more than 5% in pre-market trading as the company reinforces long term Bitcoin strategy.
-
-CoinDesk • 1h ago
-
----
-
-**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
-
-The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
-
-The Motley Fool • 3h ago
-
----
-
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg • 4h ago
-
----
-
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
 Investor's Business Daily • 1d ago
 
 ---
 
+**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
+
+Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
+
+The Motley Fool • 1d ago
+
+---
+
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
 The Block • 1d ago
-
----
-
-**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://finance.yahoo.com/news/td-cowen-trims-strategy-price-030728855.html)**
-
-TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
-
-thestreet.com • 2d ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.nasdaq.com/articles/how-much-will-1-bitcoin-be-worth-2026)**
-
-Key PointsInstitutional buying could continue to drive Bitcoin upwards.
-
-Nasdaq • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ Rolling coverage of the latest economic and financial news
 
 Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
 
-⬆️ 1 • 💬 1 • 3d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
+⬆️ 1 • 💬 1 • 4d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
 
 ---
 
@@ -273,7 +273,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 7h ago
+⬆️ 2 • 💬 0 • 8h ago
 
 ---
 
@@ -281,53 +281,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 CryptosRUs
+📺 Yahoo Finance
 
-👁️ 23K • 👍 1K • 💬 127 • ⏱️ 46:33 • 22h ago
-
----
-
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
-
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
-
-📺 Paul Barron Network
-
-👁️ 71K • 👍 5K • 💬 510 • ⏱️ 14:43 • 17h ago
-
----
-
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
-
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
-
-📺 CNBC Television
-
-👁️ 89K • 👍 1K • 💬 435 • ⏱️ 5:15 • 19h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 27K • 👍 2K • 💬 121 • ⏱️ 18:18 • 8h ago
-
----
-
-**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
-
-Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
-
-📺 Swan Bitcoin
-
-👁️ 33K • 👍 2K • 💬 141 • ⏱️ 14:15 • 15h ago
+👁️ 4K • 👍 121 • 💬 68 • ⏱️ 5:23 • 15h ago
 
 ---
 
@@ -337,7 +297,37 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 182 • ⏱️ 21:24 • 13h ago
+👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 13h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 36K • 👍 3K • 💬 129 • ⏱️ 18:18 • 9h ago
+
+---
+
+**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
+
+LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
+
+📺 Altcoin Daily
+
+👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 14h ago
+
+---
+
+**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 22h ago
 
 ---
 
@@ -347,7 +337,27 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 949 • 💬 308 • ⏱️ 16:02 • 21h ago
+👁️ 16K • 👍 968 • 💬 320 • ⏱️ 16:02 • 22h ago
+
+---
+
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
+
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
+
+📺 Paul Barron Network
+
+👁️ 74K • 👍 5K • 💬 535 • ⏱️ 14:43 • 18h ago
+
+---
+
+**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
+
+Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
+
+📺 CNBC Television
+
+👁️ 96K • 👍 1K • 💬 443 • ⏱️ 5:15 • 20h ago
 
 ---
 
@@ -357,27 +367,17 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 30K • 👍 2K • 💬 56 • ⏱️ 30:10 • 22h ago
+👁️ 31K • 👍 2K • 💬 56 • ⏱️ 30:10 • 23h ago
 
 ---
 
-**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
+**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
 
-Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
+Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 6K • 👍 392 • 💬 125 • ⏱️ 1:31:47 • 17h ago
-
----
-
-**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
-
-Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 21K • 👍 1K • 💬 122 • ⏱️ 18:21 • 1d ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:15 • 16h ago
 
 ---
 

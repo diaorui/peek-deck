@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T13:38:34.463265+00:00'
+updated: '2026-01-16T14:25:43.102770+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 13:38 UTC  
+**Last Updated:** January 16, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,15 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-3h ago
+4h ago
+
+---
+
+**[Realistic lip motions for humanoid face robots - Columbia University School of Engineering and Applied Science (2026)](https://www.reddit.com/r/robotics/comments/1qefref/realistic_lip_motions_for_humanoid_face_robots/)**
+
+"Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
+
+1h ago
 
 ---
 
@@ -68,13 +76,21 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-7h ago
+8h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-11h ago
+12h ago
+
+---
+
+**[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
+
+Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
+
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 17m ago
 
 ---
 
@@ -82,7 +98,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-23h ago
+1d ago
 
 ---
 
@@ -92,29 +108,13 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 ---
 
-**[Cheap all metal planetary reducers for Nema 17. Are they any good?](https://www.reddit.com/r/robotics/comments/1qeakxl/cheap_all_metal_planetary_reducers_for_nema_17/)**
-
-https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
-
-5h ago
-
----
-
-**[Assistive robotic system used for pediatric mobility support](https://www.reddit.com/r/robotics/comments/1qduua7/assistive_robotic_system_used_for_pediatric/)**
-
-An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
-
-17h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 21h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Crunchbase News • 1d ago
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdf-cGhpAnvKUxBZycmGqrMYf0dbAOKiAZ0302ZOVkz77-HRunx8ulX&gaa_ts=696a3704&gaa_sig=XSRHqXRN9NhaYJiEaVZKOSzueLwcoF4Xq6nWn9527oz-7IIcdl161733oW2cJHcrzSVA8mLo1qMtF8TUF0JnOA%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcGmD04cL6BdMSKg2MzhzYsQPKhM0KqMb_fryBhnDTNweb9bORjpkZ4&gaa_ts=696a4dd0&gaa_sig=pgdqeNLxLVLgb_yXrBCMVavb1dmX2GxcUtM3nqFLUOeDDq1phwBxdfsftgBUTMxH2Ev_jZEp4Zwy3Nvv9WGQkg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -176,11 +176,9 @@ The Robot Report • 2d ago
 
 ---
 
-**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
+**[Hyundai Poaches Former Tesla Robotics Guru as it Maps Out Atlas Humanoid Growth](https://www.tipranks.com/news/hyundai-poaches-former-tesla-robotics-guru-as-it-maps-out-atlas-humanoid-growth)**
 
-Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
-
-Game Developer • 18h ago
+TipRanks • 3h ago
 
 ---
 
@@ -194,15 +192,27 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 446K • 👍 13K • 💬 783 • ⏱️ 17:09 • 4d ago
+👁️ 447K • 👍 13K • 💬 786 • ⏱️ 17:09 • 4d ago
 
 ---
 
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-📺 Wowearth
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-👁️ 99K • 👍 1K • 💬 66 • ⏱️ 1:16 • 3d ago
+📺 Ticker Symbol: YOU
+
+👁️ 88K • 👍 4K • 💬 270 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
 
 ---
 
@@ -212,7 +222,43 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 159K • 👍 2K • 💬 393 • ⏱️ 11:46 • 4d ago
+👁️ 159K • 👍 2K • 💬 396 • ⏱️ 11:46 • 4d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 234K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 102K • 👍 1K • 💬 66 • ⏱️ 1:16 • 3d ago
+
+---
+
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+
+📺 KhanFlicks
+
+👁️ 25K • 💬 15 • ⏱️ 6:37 • 20h ago
+
+---
+
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 301K • 👍 2K • 💬 940 • ⏱️ 0:16 • 4d ago
 
 ---
 
@@ -226,63 +272,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+**[This Robot Attacked a Human why? #facts #factizo #amazingfacts](https://www.youtube.com/watch?v=eV_j4ibv0QY)**
 
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+The Truth Behind the Tesla Robot "Attack" In this video, we dive deep into the viral story of a Tesla robot attacking an engineer at ...
 
-📺 KhanFlicks
+📺 Factizo
 
-👁️ 8K • 💬 15 • ⏱️ 6:37 • 19h ago
-
----
-
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 87K • 👍 4K • 💬 270 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 233K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
-
----
-
-**[CES 2026 | NEURA Robotics: 4NE1 Humanoids, NEURA Quadruped &amp; More](https://www.youtube.com/watch?v=Iyyum_70X6k)**
-
-On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, where the company showcased its latest ...
-
-📺 RobotShopTV
-
-👁️ 848 • 👍 12 • 💬 2 • ⏱️ 2:41 • 3d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 20K • 👍 269 • 💬 36 • ⏱️ 11:29 • 5d ago
-
----
-
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
-
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
-
-📺 The Laughing Lion
-
-👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
+👁️ 712 • 👍 20 • ⏱️ 0:54 • 2h ago
 
 ---
 
