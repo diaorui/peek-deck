@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T19:20:43.415548+00:00'
+updated: '2026-01-16T19:38:59.581265+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 19:20 UTC  
+**Last Updated:** January 16, 2026 at 19:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -174,7 +174,7 @@ Business Insider • 1d ago
 
 **[Ether (ETH) treasury company BitMine (BMNR) pushes Ethereum staking network into backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 31m ago
+CoinDesk • 49m ago
 
 ---
 
@@ -244,7 +244,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 147 • 💬 320 • ⏱️ 15:03 • 13h ago
+👁️ 4K • 👍 147 • 💬 320 • ⏱️ 15:03 • 14h ago
 
 ---
 

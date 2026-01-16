@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T19:20:43.402684+00:00'
+updated: '2026-01-16T19:38:59.566697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 19:20 UTC  
+**Last Updated:** January 16, 2026 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 **[OpenAI to test ads in ChatGPT in bid to boost revenue](https://www.reddit.com/r/artificial/comments/1qepcym/openai_to_test_ads_in_chatgpt_in_bid_to_boost/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-begin-testing-ads-chatgpts-free-go-tiers-2026-01-16/) • 3m ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-begin-testing-ads-chatgpts-free-go-tiers-2026-01-16/) • 21m ago
 
 ---
 
@@ -87,7 +87,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-16h ago
+17h ago
 
 ---
 
@@ -119,43 +119,31 @@ https://drive.google.com/file/d/1Muj8f1twIFaYDZZqsJBvQyq5w9f9GocC/view?usp=drive
 
 ## Google News: "ai"
 
-**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqeC12ysstzK43xZUIhzpm-B5PVJHTGyjOxn5VINxgAdSNOC1dWJCD9i&gaa_ts=696a8854&gaa_sig=bWcai3t421kRxtFjnJ8fnVEuuf_9nq3mpmZ7TZgCWbSkPBJ4JHOQxIe8dDcUB3zfhAvaiolflsrf_jRDiMA2Ng%3D%3D)**
-
-The Wall Street Journal • 7h ago
-
----
-
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Micron stock climbs as CEO highlights AI demand for memory](https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html)**
+**[China just 'months' behind U.S. AI models, Google DeepMind CEO says](https://www.cnbc.com/2026/01/16/google-deepmind-china-ai-demis-hassabis.html)**
 
-"We need more and more memory to address that demand," Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.
+China's artificial intelligence models may be just "months" behind U.S. and Western capabilities, Demis Hassabis, the CEO of Google DeepMind told CNBC.
 
-CNBC • 1h ago
-
----
-
-**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
-
-OpenAI • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[ChatGPT ads are coming, and they'll be influenced by your conversations](https://www.axios.com/2026/01/16/chatgpt-ai-openai-ads)**
+**[AI Takes Center Stage At NRF](https://www.forbes.com/sites/jillstandish/2026/01/16/ai-takes-center-stage-at-nrf/)**
 
-Axios • 1h ago
+AI is increasing its role in retail from consumer discovery through to keeping operations lean, it's must have to remain competitive.
+
+Forbes • 23m ago
 
 ---
 
-**[ChatGPT Knows Your Health: The Embedding Of AI Into Your Daily Routine](https://www.forbes.com/sites/geruiwang/2026/01/16/chatgpt-knows-your-health-the-embedding-of-ai-into-your-daily-routine/)**
+**[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
 
-As OpenAI and Anthropic both launch healthcare modes, will AI make the public healthier?
-
-Forbes • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -163,7 +151,13 @@ Forbes • 2h ago
 
 The creators behind the chart-topping song believe their creative process has been misunderstood.
 
-BBC • 22h ago
+BBC • 23h ago
+
+---
+
+**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqfFuuMLpOtfNbSJ6ouo_1lkm5gqqLA3Go1RfCvuxGta56a8v5mQ0D-L&gaa_ts=696a973f&gaa_sig=2V9Qkli8wdKLOWHF7MV9E4ZXj602-VBy4mNh1JWhccFo7BuflWJPKow_KnWsgP7OU155kvfPPKQyjkZfTrq37g%3D%3D)**
+
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -175,15 +169,25 @@ CBS News • 4h ago
 
 ---
 
-**[Trump Pushes for Emergency Power Auction to Support AI Boom](https://www.bloomberg.com/news/articles/2026-01-16/trump-pushes-for-emergency-power-auction-to-fuel-ai-boom)**
+**[AI Productivity, Employment and UBI](https://realinvestmentadvice.com/resources/blog/ai-productivity-employment-and-ubi/)**
 
-Bloomberg.com • 1h ago
+Delve into the effects of AI productivity on jobs and income as automation reshapes the economic landscape.
+
+Real Investment Advice • 10h ago
 
 ---
 
-**[‘Show me the money’ time for AI as political risks loom](https://www.politico.com/news/2026/01/16/ai-money-political-risk-00733145)**
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-Politico • 3h ago
+OpenAI • 1h ago
+
+---
+
+**[Taiwan aims to be strategic AI partner with US under tariff deal](https://finance.yahoo.com/news/taiwan-aims-strategic-ai-partner-024348733.html)**
+
+By Wen-Yee Lee and Ben Blanchard TAIPEI, Jan 16 (Reuters) - Taiwan aims to become a close strategic partner with the United States in the area of artificial intelligence (AI) after striking a deal to
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -244,7 +248,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 168 • 💬 93 • 19h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 168 • 💬 93 • 20h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -281,7 +285,7 @@ Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it w
 
 📺 AI Revolution
 
-👁️ 18K • 👍 582 • 💬 55 • ⏱️ 15:44 • 19h ago
+👁️ 18K • 👍 582 • 💬 55 • ⏱️ 15:44 • 20h ago
 
 ---
 
@@ -321,7 +325,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 11K • 👍 352 • 💬 283 • ⏱️ 9:43 • 11h ago
+👁️ 11K • 👍 352 • 💬 283 • ⏱️ 9:43 • 12h ago
 
 ---
 
@@ -636,7 +640,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.8k • 🔱 1.2k • 2h ago
+⭐ 8.8k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -646,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.8k • 🔱 311 • 52m ago
+⭐ 6.8k • 🔱 311 • 1h ago
 
 ---
 
@@ -696,7 +700,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 242 • 14h ago
+⭐ 2.2k • 🔱 242 • 15h ago
 
 ---
 

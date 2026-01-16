@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T19:20:43.418298+00:00'
+updated: '2026-01-16T19:38:59.584590+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 19:20 UTC  
+**Last Updated:** January 16, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
 
-1h ago
+2h ago
 
 ---
 
@@ -92,7 +92,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-21h ago
+22h ago
 
 ---
 
@@ -106,7 +106,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 Worth it for $5K? Maybe but it’s hard to say, so far it’s like a cheaper version of G1 in quality. Maybe it’s because it’s a prototype but I’m hoping to see more advancement in the future
 
-🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 1h ago
+🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 2h ago
 
 ---
 
@@ -117,6 +117,30 @@ Worth it for $5K? Maybe but it’s hard to say, so far it’s like a cheaper ver
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 2d ago
+
+---
+
+**[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
+
+The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
+
+The Robot Report • 1h ago
+
+---
+
+**[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
+
+US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
+
+Nikkei Asia • 1d ago
 
 ---
 
@@ -142,22 +166,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
-
-The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
-
-The Robot Report • 1h ago
-
----
-
-**[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
-
-US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
-
-Nikkei Asia • 1d ago
-
----
-
 **[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
@@ -166,23 +174,15 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
-
-GeekWire • 2d ago
-
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeHbAu1HfWFeAqpjoyCRy7htErfgbGYI1flKAxGx8yWatgJW34Xh3ou&gaa_ts=696a8857&gaa_sig=5FI2AjtDnG8516K8kvfYK8wR_4HPSzYns8AVaYEvsNnXrSuYGwjaKYL8mmTN9KyRmrj3ITXI3nGOBJ8yrEOU2w%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfN9OO4p7zXNJxL-7fY-fIFotLXHziFzyjpWWGbn8j2Plf-Wqof9G76&gaa_ts=696a9742&gaa_sig=7b3hrOdzRMTLevBSreWUjUQNm4p4sk6uTfkGDhAW0UsN5Zhut0QbCUnGvhIi47uwKcUbR2890cvv3cbbukupnA%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[AI will transform the ‘human job’ and enhance skills, says science minister](https://www.theguardian.com/technology/2026/jan/16/ai-will-transform-the-human-job-and-enhance-skills-says-science-minister)**
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’
-
-The Guardian • 9h ago
+GeekWire • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 669 • 👍 14 • 💬 1 • ⏱️ 0:43 • 3h ago
+👁️ 669 • 👍 14 • 💬 1 • ⏱️ 0:43 • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 8K • 👍 150 • 💬 1 • ⏱️ 0:23 • 4h ago
+👁️ 8K • 👍 150 • 💬 1 • ⏱️ 0:23 • 5h ago
 
 ---
 

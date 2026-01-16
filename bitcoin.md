@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T19:20:43.410268+00:00'
+updated: '2026-01-16T19:38:59.575224+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 19:20 UTC  
+**Last Updated:** January 16, 2026 at 19:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ The bill is now in its final draft stage, marking a major step towards official 
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-7h ago
+8h ago
 
 ---
 
@@ -155,11 +155,9 @@ The New York Times • 5h ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 6h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -171,15 +169,23 @@ CoinDesk • 6h ago
 
 ---
 
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-Bloomberg.com • 10h ago
+The Block • 6h ago
 
 ---
 
-**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+**[The Daily: Jefferies strategist drops 10% bitcoin allocation over quantum fears, Google Play bans overseas crypto exchanges in South Korea, and more](https://www.theblock.co/post/386004/the-daily-jefferies-drops-10-bitcoin-allocation-quantum-fears-google-play-bans-overseas-crypto-exchanges-south-korea)**
 
-The Block • 5h ago
+The Block • 34m ago
+
+---
+
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -191,31 +197,27 @@ Mother Jones • 3h ago
 
 ---
 
-**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
+**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
 
-The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
+Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-The Motley Fool • 9h ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.nasdaq.com/articles/how-much-will-1-bitcoin-be-worth-2026)**
-
-Key PointsInstitutional buying could continue to drive Bitcoin upwards.
-
-Nasdaq • 1d ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
+**[Nasdaq Warns Bitcoin Hardware Maker Canaan About Delisting](https://decrypt.co/354933/nasdaq-warns-bitcoin-hardware-maker-canaan-delisting)**
 
-The Block • 1d ago
+Bitcoin miner Canaan has until July to boost its stock above $1 for 10 days or face Nasdaq delisting, with shares currently trading at $0.79.
+
+Decrypt • 2h ago
 
 ---
 
-**[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
+**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
 
-thestreet.com • 2d ago
+Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -235,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 3h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -307,7 +309,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 19h ago
+👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 203 • ⏱️ 21:24 • 18h ago
+👁️ 30K • 👍 3K • 💬 203 • ⏱️ 21:24 • 19h ago
 
 ---
 
