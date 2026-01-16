@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T09:28:54.335998+00:00'
+updated: '2026-01-16T09:50:16.272824+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 09:28 UTC  
+**Last Updated:** January 16, 2026 at 09:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 6h ago
+🔗 [totems.fun](https://totems.fun/) • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 16h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 16h ago
+Business Insider • 17h ago
 
 ---
 
@@ -186,7 +186,7 @@ Sherwood News • 13h ago
 
 Ethereum is seeing a sharp rise in new users, with on-chain data showing that activity retention has nearly doubled over the past month, according to analytics firm Glassnode. Key Takeaways: Ethereum is seeing a surge of new users, with activity retention and new active addresses nearly doubling in the past ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 3h ago
+👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Tr
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 4h ago
+👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 5h ago
 
 ---
 

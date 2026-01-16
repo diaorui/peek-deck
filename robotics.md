@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T09:28:54.339292+00:00'
+updated: '2026-01-16T09:50:16.276046+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 09:28 UTC  
+**Last Updated:** January 16, 2026 at 09:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Day 116 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qeb06m/day_116_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
+
+54m ago
+
+---
+
 **[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-11h ago
+12h ago
 
 ---
 
@@ -68,14 +76,6 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 ---
 
-**[Assistive robotic system used for pediatric mobility support](https://www.reddit.com/r/robotics/comments/1qduua7/assistive_robotic_system_used_for_pediatric/)**
-
-An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
-
-12h ago
-
----
-
 **[Cheap all metal planetary reducers for Nema 17. Are they any good?](https://www.reddit.com/r/robotics/comments/1qeakxl/cheap_all_metal_planetary_reducers_for_nema_17/)**
 
 https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
@@ -84,27 +84,27 @@ https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a
 
 ---
 
-**[reality check needed](https://www.reddit.com/r/robotics/comments/1qe913j/reality_check_needed/)**
+**[Assistive robotic system used for pediatric mobility support](https://www.reddit.com/r/robotics/comments/1qduua7/assistive_robotic_system_used_for_pediatric/)**
 
-Quick intro: I am an engineering undergrad working on my final research project. I have been given ~3 months to develop a feature as follows: I am supposed to work on the raspberry pi platform based robot(it is already developed, along with some custom control software), somehow onboard a VLM,SLM or LLM to run real time, take inputs from sensors(a camera and a lidar) and it is supposed to do things like respond to queries like “What am I holding”, or go move around the room if I say “explore the room”, or obey simple instructions like “move forward”. It needs to have speech to text, text to speech capabilities, etc. My concerns are whether this is even viable, even on the highest specced pi? Those of you who worked on similar projects or heard of them, could you maybe please comment on the viability of the project? Or are language models even necessary for a problem like this? Are there other more efficient/interesting ways to get the job done? I am also new to the raspberry platform, so your experience, pointers to resources could perhaps save me weeks of soul searching on the best solutions for the subproblems. Finally, for validation purposes, is this a good place to research on? Your two cents would be priceless for me :) PS. I am from a cs background, mostly worked on ml projects prior, took up robotics because of my interest in it.
+An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-2h ago
-
----
-
-**[Human to Robot Transfer in Vision-Language-Action Models](https://www.reddit.com/r/robotics/comments/1qe8u3u/human_to_robot_transfer_in_visionlanguageaction/)**
-
-Has anyone read the recent paper from PI about knowledge transfer from Human Egocentric data to Robot manipulation (https://www.pi.website/download/human\_to\_robot.pdf)? I am specifically wondering whether having 2 wrist cameras (alongside a head camera) is going to be the standard way of egocentric data collection and if so, how would this scale when they go about collecting this data in homes? Isn't it too hard to make people wear 3 cameras, have time-synchronised recordings and make sure the field of view is perfect in all?
-
-2h ago
+13h ago
 
 ---
 
-**[Boston Dynamics on turning Atlas from a research platform into a manufacturable product](https://www.reddit.com/r/robotics/comments/1qdkoy1/boston_dynamics_on_turning_atlas_from_a_research/)**
+**[California Institute of Technology Project: Walk the PLANC](https://www.reddit.com/r/robotics/comments/1qebnwz/california_institute_of_technology_project_walk/)**
 
-Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
+Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds: https://caltech-amber.github.io/planc/ Paper: arXiv:2601.06286 [cs.RO]: https://arxiv.org/abs/2601.06286
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 19h ago
+12m ago
+
+---
+
+**[AGP Insights - Humanoid Robots in 2025: Powering the Next Industrial Evolution | Asia Growth Partners](https://www.reddit.com/r/robotics/comments/1qeb9kj/agp_insights_humanoid_robots_in_2025_powering_the/)**
+
+2025 marks the shift of humanoid robots from viral dancing videos to actual industrial work. A new report highlights how GAC's "GoMate" and Nio's production line bots are mastering complex tasks like installing wiring and inspecting car parts with human-like dexterity. The analysis reveals that China now controls 63% of the global humanoid supply chain, leveraging its EV battery tech to build robots that can work 6-hour shifts. The era of "Humanoid Version 0.5", robots capable of precise, autonomous manufacturing tasks, is officially here.
+
+🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 38m ago
 
 ---
 
@@ -114,7 +114,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -144,7 +144,7 @@ TechCrunch • 1d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 15h ago
+Nikkei Asia • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Nikkei Asia • 15h ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 15h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 16h ago
 
 ---
 

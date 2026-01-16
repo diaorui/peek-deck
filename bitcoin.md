@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T09:28:54.329870+00:00'
+updated: '2026-01-16T09:50:16.266841+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 09:28 UTC  
+**Last Updated:** January 16, 2026 at 09:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,630.30
+### $95,722.14
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -95,19 +95,25 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-4h ago
+5h ago
+
+---
+
+**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
+
+1h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-10h ago
+11h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -119,14 +125,6 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 ---
 
-**[Has anyone here lost a lot of money in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1qdn58f/has_anyone_here_lost_a_lot_of_money_in_bitcoin/)**
-
-We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
-
-17h ago
-
----
-
 **[Daily Discussion, January 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1qe85pi/daily_discussion_january_16_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
@@ -135,17 +133,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Need advice asap !!](https://www.reddit.com/r/Bitcoin/comments/1qdt1qd/need_advice_asap/)**
+**[Has anyone here lost a lot of money in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1qdn58f/has_anyone_here_lost_a_lot_of_money_in_bitcoin/)**
 
-14h ago
+We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
+
+17h ago
 
 ---
 
-**[Book review](https://www.reddit.com/r/Bitcoin/comments/1qduola/book_review/)**
+**[I'm not selling](https://www.reddit.com/r/Bitcoin/comments/1qeaq4q/im_not_selling/)**
 
-Starting this now. Have you read it? How would you rate it?
+I'm not effing selling!
 
-13h ago
+1h ago
 
 ---
 
@@ -237,14 +237,6 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 ---
 
-**[How to Hypothetically Secure $1B in Bitcoin](https://news.ycombinator.com/item?id=46551501)**
-
-Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
-
-⬆️ 2 • 💬 1 • 7d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
-
----
-
 **[Show HN: I built a watch-only Bitcoin address tracker for iOS](https://news.ycombinator.com/item?id=46592796)**
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
@@ -279,7 +271,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
 
-⬆️ 4 • 💬 3 • 2d ago
+⬆️ 9 • 💬 5 • 2d ago
 
 ---
 
@@ -309,7 +301,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 179 • ⏱️ 21:24 • 8h ago
+👁️ 22K • 👍 2K • 💬 179 • ⏱️ 21:24 • 9h ago
 
 ---
 
@@ -359,7 +351,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 46:33 • 17h ago
+👁️ 23K • 👍 1K • 💬 129 • ⏱️ 46:33 • 18h ago
 
 ---
 
