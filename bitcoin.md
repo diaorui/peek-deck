@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T20:44:14.208362+00:00'
+updated: '2026-01-16T21:22:32.012475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 20:44 UTC  
+**Last Updated:** January 16, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The bill is now in its final draft stage, marking a major step towards official legalization and regulation of cryptocurrency trading within the country. #CryptoNews #Russia #Bitcoin #Blockchain #Regulation
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 This is crazy, Bitcoin is going to the moon sooner or later.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
-3h ago
+4h ago
 
 ---
 
@@ -153,13 +153,13 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 11h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -181,13 +181,13 @@ The Block • 7h ago
 
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 46m ago
+The Block • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 46m ago
 
 Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
-Bitcoin Magazine • 24m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 6h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 4h ago
+Mother Jones • 5h ago
 
 ---
 
@@ -269,7 +269,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 2 • 💬 0 • 3h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 2 • 💬 0 • 4h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -297,7 +297,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 14h ago
+⬆️ 2 • 💬 4 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 21h ago
+👁️ 7K • 👍 171 • 💬 82 • ⏱️ 5:23 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 9h ago
+👁️ 13K • 👍 693 • 💬 79 • ⏱️ 13:46 • 10h ago
 
 ---
 
@@ -371,7 +371,7 @@ Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the exp
 
 📺 CNBC Television
 
-👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 7h ago
+👁️ 12K • 👍 170 • 💬 28 • ⏱️ 9:06 • 8h ago
 
 ---
 
@@ -381,7 +381,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Podcast Ancur
 
-👁️ 4K • 👍 2K • 1h ago
+👁️ 4K • 👍 2K • 2h ago
 
 ---
 
@@ -391,7 +391,7 @@ Coinbase CEO Brian Armstrong breaks down the decision-making that led him to wit
 
 📺 Fox Business
 
-👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 20h ago
+👁️ 22K • 👍 437 • 💬 25 • ⏱️ 1:06 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 15h ago
+👁️ 57K • 👍 4K • 💬 164 • ⏱️ 18:18 • 16h ago
 
 ---
 

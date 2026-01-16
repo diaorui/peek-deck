@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T20:44:14.214350+00:00'
+updated: '2026-01-16T21:22:32.018596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 20:44 UTC  
+**Last Updated:** January 16, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 9h ago
 
 ---
 
@@ -110,7 +110,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 21h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 22h ago
 
 ---
 
@@ -118,7 +118,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 I have 50 ETH. Is this a solid amount to hold over the next 10 years? I love Ethereum and believe in it whole-heartedly. I just want to understand what is a lot of Ethereum…I didn’t get involved when it first was created (unfortunately).
 
-39m ago
+1h ago
 
 ---
 
@@ -152,13 +152,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ CCN.com • 10h ago
 
 Bitcoin, Ethereum, and the broader crypto market cooled after a busy week on Capitol Hill
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -232,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 343 • 💬 46 • ⏱️ 16:47 • 5h ago
+👁️ 6K • 👍 343 • 💬 46 • ⏱️ 16:47 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 6 • ⏱️ 3:49 • 5h ago
+👁️ 1K • 👍 94 • 💬 6 • ⏱️ 3:49 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 366 • 👍 14 • 💬 31 • ⏱️ 5:32 • 10h ago
+👁️ 366 • 👍 14 • 💬 31 • ⏱️ 5:32 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 299 • 💬 103 • ⏱️ 23:36 • 8h ago
+👁️ 7K • 👍 299 • 💬 103 • ⏱️ 23:36 • 9h ago
 
 ---
 
