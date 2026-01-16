@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T10:26:01.212005+00:00'
+updated: '2026-01-16T10:50:44.302330+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 10:26 UTC  
+**Last Updated:** January 16, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +7.4%  
-**30d:** +17.5%  
-**90d:** -16.8%  
-**1y:** -4.6%  
+**24h:** -1.3%  
+**7d:** +7.0%  
+**30d:** +17.0%  
+**90d:** -17.1%  
+**1y:** -4.9%  
 
 ---
 
@@ -88,7 +88,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 7h ago
+🔗 [totems.fun](https://totems.fun/) • 8h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 17h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
@@ -174,11 +174,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Ethereum parent chain sets new record in daily transactions](https://sherwood.news/crypto/ethereum-parent-chain-sets-new-record-in-daily-transactions/)**
+**[Banking giant sets date when Ethereum will trade at $30,000](https://finbold.com/banking-giant-sets-date-when-ethereum-will-trade-at-30000/)**
 
-The main drivers of the network’s transaction growth comes from increased stablecoin usage....
+Standard Chartered has released a fresh bullish outlook on Ethereum (ETH), projecting that the cryptocurrency will climb sharply this decade.
 
-Sherwood News • 14h ago
+Finbold • 1d ago
 
 ---
 
@@ -186,7 +186,15 @@ Sherwood News • 14h ago
 
 Ethereum is seeing a sharp rise in new users, with on-chain data showing that activity retention has nearly doubled over the past month, according to analytics firm Glassnode. Key Takeaways: Ethereum is seeing a surge of new users, with activity retention and new active addresses nearly doubling in the past ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Vitalik’s ‘alternative web’: three apps keep original spirit of Ethereum alive](https://www.dlnews.com/articles/defi/vitalik-buterin-lists-three-apps-that-embody-ethereum-ideals/)**
+
+Vitalik Buterin said the “original web3 vision” is coming to life. When he began working on Ethereum, decentralised applications were “hundreds of times more difficult to use.” But such applications have dramatically improved in recent years, he said in a recent post promoting a few.
+
+dlnews.com • 54m ago
 
 ---
 
@@ -198,23 +206,17 @@ CoinDesk • 4h ago
 
 ---
 
-**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
-
-Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
-
-dlnews.com • 1d ago
-
----
-
-**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
-
-ETF Trends • 3d ago
-
----
-
 **[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
 The Block • 1d ago
+
+---
+
+**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
+
+Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -256,7 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 4h ago
+👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 5h ago
 
 ---
 
@@ -306,7 +308,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Stock Moe
 
-👁️ 9K • 👍 688 • 💬 54 • ⏱️ 13:25 • 12h ago
+👁️ 9K • 👍 688 • 💬 54 • ⏱️ 13:25 • 13h ago
 
 ---
 
@@ -316,7 +318,7 @@ Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Tr
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 5h ago
+👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 6h ago
 
 ---
 

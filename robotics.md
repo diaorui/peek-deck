@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T10:26:01.215305+00:00'
+updated: '2026-01-16T10:50:44.305626+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 10:26 UTC  
+**Last Updated:** January 16, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds: https://caltech-amber.github.io/planc/ Paper: arXiv:2601.06286 [cs.RO]: https://arxiv.org/abs/2601.06286
 
-48m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN 
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 17h ago
+Bloomberg • 18h ago
 
 ---
 
@@ -128,7 +128,7 @@ Crunchbase News • 1d ago
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -140,11 +140,19 @@ TechCrunch • 1d ago
 
 ---
 
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 2d ago
+
+---
+
 **[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 16h ago
+Nikkei Asia • 17h ago
 
 ---
 
@@ -152,11 +160,11 @@ Nikkei Asia • 16h ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqenQyMxB-aqIsPP9HYrnV4WTMMcSaDA0zbnhfTfE6yB4pyqaateO9ES&gaa_ts=696a0832&gaa_sig=FvpXRE0_n2PlgLDb8LNR9Z_UGHavDgUNMI73u88D1YQ9RFASUSAWY-AGuY12XIGMqoHXn3W7jz78jRWPCIHKEw%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqc2NPZag8C3dCJYKHtZxybqu0SbD3ba_P2da6Zq-eD6CB7KecJ2msHt&gaa_ts=696a1b6b&gaa_sig=otE7TACQWNDpMapeVKP9ihyTkPBs6B7WhocxWGD_Hs3npij4FTIYuW-tQ-uqg2kgdFoqaLJrJiqPax5EI8Vq-A%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -171,14 +179,6 @@ Reuters • 3d ago
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 1d ago
-
----
-
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 16h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 17h ago
 
 ---
 

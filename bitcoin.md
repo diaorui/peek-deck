@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T10:26:01.205870+00:00'
+updated: '2026-01-16T10:50:44.296223+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 10:26 UTC  
+**Last Updated:** January 16, 2026 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,722.14
+### $95,414.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +5.9%  
-**30d:** +12.3%  
-**90d:** -11.7%  
-**1y:** -8.0%  
+**24h:** -1.3%  
+**7d:** +5.5%  
+**30d:** +11.8%  
+**90d:** -12.0%  
+**1y:** -8.4%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
+
+Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
+
+6h ago
+
+---
+
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -91,37 +99,21 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 ---
 
-**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
-
-Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
-
-5h ago
-
----
-
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-11h ago
+12h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-15h ago
-
----
-
-**[my parents bank has paid them basically nothing for 30 years and they never questioned it once](https://www.reddit.com/r/Bitcoin/comments/1qdi4pr/my_parents_bank_has_paid_them_basically_nothing/)**
-
-Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
-
-22h ago
+16h ago
 
 ---
 
@@ -133,6 +125,14 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[my parents bank has paid them basically nothing for 30 years and they never questioned it once](https://www.reddit.com/r/Bitcoin/comments/1qdi4pr/my_parents_bank_has_paid_them_basically_nothing/)**
+
+Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
+
+22h ago
+
+---
+
 **[Has anyone here lost a lot of money in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1qdn58f/has_anyone_here_lost_a_lot_of_money_in_bitcoin/)**
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
@@ -141,11 +141,11 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 ---
 
-**[I'm not selling](https://www.reddit.com/r/Bitcoin/comments/1qeaq4q/im_not_selling/)**
+**[I built Spectator, a free read-only Bitcoin wallet tracker](https://www.reddit.com/r/Bitcoin/comments/1qebz8b/i_built_spectator_a_free_readonly_bitcoin_wallet/)**
 
-I'm not effing selling!
+I was looking for a way to track the value of my Bitcoin. I store my crypto in a hardware wallet, and most apps are full-featured wallets designed for sending transactions. But I just wanted to monitor my investments without exposing my private key. So I built Spectator, an iOS app where you only need to enter your public wallet address. There's no security risk because it cannot access your Bitcoin at all. It just reads data from the public blockchain. No authentication, no cloud sync, no tracking or other BS. Features: Track multiple wallets Home screen widget Interactive charts showing gains and losses Full transaction history with USD value at time of each transaction The app is completely free with no ads. This is my first iOS app, so I'd really appreciate any feedback or feature requests! App Store Link
 
-1h ago
+54m ago
 
 ---
 
@@ -169,25 +169,23 @@ grist.org • 1d ago
 
 ---
 
-**[Crypto Stocks Coinbase and Robinhood Drop Sharply Despite Bitcoin’s Rally — CLARITY Act To Blame?](https://finance.yahoo.com/news/crypto-stocks-coinbase-robinhood-drop-080817823.html)**
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Coinbase and Robinhood stocks dropped sharply despite Bitcoin's recent rebound, amid uncertainty over the CLARITY Act. Brian Armstrong, Coinbase's CEO, withdrew support, warning that the ...
+Bloomberg • 1h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
+
+The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
+
+The Motley Fool • 40m ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
-
-Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -213,7 +211,7 @@ Decrypt • 1d ago
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -221,7 +219,7 @@ Bloomberg.com • 1d ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -265,7 +263,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 2d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+⬆️ 1 • 💬 0 • 3d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 179 • ⏱️ 21:24 • 9h ago
+👁️ 22K • 👍 2K • 💬 179 • ⏱️ 21:24 • 10h ago
 
 ---
 
@@ -351,7 +349,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 46:33 • 18h ago
+👁️ 23K • 👍 1K • 💬 129 • ⏱️ 46:33 • 19h ago
 
 ---
 
