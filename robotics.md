@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T09:50:16.276046+00:00'
+updated: '2026-01-16T10:26:01.215305+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 09:50 UTC  
+**Last Updated:** January 16, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-54m ago
+1h ago
 
 ---
 
@@ -52,13 +52,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-3h ago
+4h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -66,13 +66,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-19h ago
+20h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds: https://caltech-amber.github.io/planc/ Paper: arXiv:2601.06286 [cs.RO]: https://arxiv.org/abs/2601.06286
 
-12m ago
+48m ago
 
 ---
 
@@ -104,7 +104,7 @@ Project page: Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN 
 
 2025 marks the shift of humanoid robots from viral dancing videos to actual industrial work. A new report highlights how GAC's "GoMate" and Nio's production line bots are mastering complex tasks like installing wiring and inspecting car parts with human-like dexterity. The analysis reveals that China now controls 63% of the global humanoid supply chain, leveraging its EV battery tech to build robots that can work 6-hour shifts. The era of "Humanoid Version 0.5", robots capable of precise, autonomous manufacturing tasks, is officially here.
 
-🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 38m ago
+🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 1h ago
 
 ---
 
