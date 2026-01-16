@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T16:31:08.493645+00:00'
+updated: '2026-01-16T17:25:35.346439+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 16:31 UTC  
+**Last Updated:** January 16, 2026 at 17:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-18h ago
+19h ago
 
 ---
 
@@ -84,13 +84,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 2h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 3h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -106,7 +106,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 I’m a complete beginner in robotics and electronics. I started by asking AI how to get started, but quickly realized I didn’t really understand the answers because I couldn’t visualize how the components were actually wired. So I wrote a small tool with: a text-based representation of components and wiring a renderer that turns that into a 2D diagram The AI can generate and reason about the design using this representation. If this were an online tool: would you use it? are there similar tools you already rely on? does the generated setup look correct to you? what features would you find useful for DIY robotics projects? I’m looking for honest feedback https://preview.redd.it/i45k0ou4aqdg1.png?width=1908&format=png&auto=webp&s=234c050f7dc38356a25b85fdc9b6c32f3cc6b2f4
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ I’m a complete beginner in robotics and electronics. I started by asking AI ho
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -128,17 +128,17 @@ The Robot Report • 2d ago
 
 ---
 
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 2d ago
+
+---
+
 **[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
 
 Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
 
 Crunchbase News • 1d ago
-
----
-
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -166,7 +166,7 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqedJKCibSdRHHwMq5s64D0ccXjs9zqP03XzhcO7kYO4w8ZLVP4r15Et&gaa_ts=696a6105&gaa_sig=yG1lzir3Olh3n5nP75G-tIBHyIJtM0eQ9GeKM9S54zJrTaqJb6a1FGDwj-1QByVXFAWGYVXCQgbeDk4SV7vr2A%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfo4SPJHu0-XZh8RayI_InOG7obldsL1TuYcMXT0TFqUrOjWcg92yn2&gaa_ts=696a77f2&gaa_sig=Jn183OKNZ20PzjjeWvHesuzEqEhuZ884kodw458ZTWYvwKHnvZwixIrwJZ28UWud0wl8JbGTD7VFdMgXwU5l1g%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -182,7 +182,7 @@ GeekWire • 2d ago
 
 Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 25K • 💬 16 • ⏱️ 6:37 • 22h ago
+👁️ 25K • 💬 16 • ⏱️ 6:37 • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 54m ago
+👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
+👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 5d ago
 
 ---
 
@@ -274,7 +274,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 Chris Wabs
 
-👁️ 306K • 👍 2K • 💬 950 • ⏱️ 0:16 • 4d ago
+👁️ 306K • 👍 2K • 💬 950 • ⏱️ 0:16 • 5d ago
 
 ---
 
