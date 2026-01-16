@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T19:38:59.584590+00:00'
+updated: '2026-01-16T20:23:30.867623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 19:38 UTC  
+**Last Updated:** January 16, 2026 at 20:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-9h ago
+10h ago
 
 ---
 
@@ -60,15 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-6h ago
-
----
-
-**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
-
-Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
-
-2h ago
+7h ago
 
 ---
 
@@ -76,7 +68,7 @@ Recorded this at CES, naturally I had to add sound effects lol You can see the f
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 5h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 6h ago
 
 ---
 
@@ -84,7 +76,7 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-13h ago
+14h ago
 
 ---
 
@@ -98,15 +90,23 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-17h ago
+18h ago
 
 ---
 
-**[The BUDGET Friendly Humanoid from Unitree? | R1 at CES 2026](https://www.reddit.com/r/robotics/comments/1qemc3i/the_budget_friendly_humanoid_from_unitree_r1_at/)**
+**[ROS News for the Week of January 12th, 2026](https://www.reddit.com/r/robotics/comments/1qeqy65/ros_news_for_the_week_of_january_12th_2026/)**
 
-Worth it for $5K? Maybe but it’s hard to say, so far it’s like a cheaper version of G1 in quality. Maybe it’s because it’s a prototype but I’m hoping to see more advancement in the future
+ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 5m ago
+
+---
+
+**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
+
+Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
+
+2h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 2d ago
 
 The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
