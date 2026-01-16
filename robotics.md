@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T15:25:56.264408+00:00'
+updated: '2026-01-16T15:47:36.929522+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 15:25 UTC  
+**Last Updated:** January 16, 2026 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-17h ago
+18h ago
 
 ---
 
@@ -106,7 +106,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 I’m a complete beginner in robotics and electronics. I started by asking AI how to get started, but quickly realized I didn’t really understand the answers because I couldn’t visualize how the components were actually wired. So I wrote a small tool with: a text-based representation of components and wiring a renderer that turns that into a 2D diagram The AI can generate and reason about the design using this representation. If this were an online tool: would you use it? are there similar tools you already rely on? does the generated setup look correct to you? what features would you find useful for DIY robotics projects? I’m looking for honest feedback https://preview.redd.it/i45k0ou4aqdg1.png?width=1908&format=png&auto=webp&s=234c050f7dc38356a25b85fdc9b6c32f3cc6b2f4
 
-12m ago
+34m ago
 
 ---
 
@@ -116,7 +116,15 @@ I’m a complete beginner in robotics and electronics. I started by asking AI ho
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -142,17 +150,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcGmD04cL6BdMSKg2MzhzYsQPKhM0KqMb_fryBhnDTNweb9bORjpkZ4&gaa_ts=696a4dd0&gaa_sig=pgdqeNLxLVLgb_yXrBCMVavb1dmX2GxcUtM3nqFLUOeDDq1phwBxdfsftgBUTMxH2Ev_jZEp4Zwy3Nvv9WGQkg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
 **[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 21h ago
+Nikkei Asia • 22h ago
 
 ---
 
@@ -164,23 +166,23 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqedJKCibSdRHHwMq5s64D0ccXjs9zqP03XzhcO7kYO4w8ZLVP4r15Et&gaa_ts=696a6105&gaa_sig=yG1lzir3Olh3n5nP75G-tIBHyIJtM0eQ9GeKM9S54zJrTaqJb6a1FGDwj-1QByVXFAWGYVXCQgbeDk4SV7vr2A%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 1d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+**[AI will transform the ‘human job’ and enhance skills, says science minister](https://www.theguardian.com/technology/2026/jan/16/ai-will-transform-the-human-job-and-enhance-skills-says-science-minister)**
 
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’
 
-The Robot Report • 2d ago
-
----
-
-**[Hyundai Poaches Former Tesla Robotics Guru as it Maps Out Atlas Humanoid Growth](https://www.tipranks.com/news/hyundai-poaches-former-tesla-robotics-guru-as-it-maps-out-atlas-humanoid-growth)**
-
-TipRanks • 4h ago
+The Guardian • 6h ago
 
 ---
 
@@ -252,7 +254,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 25K • 💬 15 • ⏱️ 6:37 • 21h ago
+👁️ 25K • 💬 15 • ⏱️ 6:37 • 22h ago
 
 ---
 
@@ -280,7 +282,7 @@ The Truth Behind the Tesla Robot "Attack" In this video, we dive deep into the v
 
 📺 Factizo
 
-👁️ 712 • 👍 20 • ⏱️ 0:54 • 3h ago
+👁️ 712 • 👍 20 • ⏱️ 0:54 • 4h ago
 
 ---
 

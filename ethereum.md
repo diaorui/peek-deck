@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T15:25:56.261658+00:00'
+updated: '2026-01-16T15:47:36.926322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 15:25 UTC  
+**Last Updated:** January 16, 2026 at 15:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 12h ago
+🔗 [totems.fun](https://totems.fun/) • 13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -160,13 +160,13 @@ Yahoo Finance • 22h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
 **[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 20h ago
 
 Bitcoin (BTC) holds above $95,400 on Friday after rallying 5% so far this week. Ethereum (ETH) and Ripple (XRP) followed BTC’s footsteps, hovering around key levels after their upside moves.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 134 • 💬 289 • ⏱️ 15:03 • 9h ago
+👁️ 3K • 👍 134 • 💬 289 • ⏱️ 15:03 • 10h ago
 
 ---
 
@@ -304,7 +304,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 718 • 💬 51 • ⏱️ 13:25 • 17h ago
+👁️ 10K • 👍 718 • 💬 51 • ⏱️ 13:25 • 18h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 8 • ⏱️ 3:43 • 22h ago
+👁️ 2K • 👍 128 • 💬 8 • ⏱️ 3:43 • 23h ago
 
 ---
 

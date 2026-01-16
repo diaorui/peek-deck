@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T15:25:56.255692+00:00'
+updated: '2026-01-16T15:47:36.920398+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 15:25 UTC  
+**Last Updated:** January 16, 2026 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-10h ago
+11h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -107,7 +107,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 People who sell bitcoin, what do they buy instead? They have to put money somewhere, stock, bank, property? What is it and has there been any analysis?
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ People who sell bitcoin, what do they buy instead? They have to put money somewh
 
 Just finished this book and it’s possibly the BEST book for a complete beginner. It explains how the system is broken and how Bitcoin fixes it. A 16 year old with zero financial knowledge could read this and have a solid grasp on the topics discussed. Highly recommend.
 
-1h ago
+2h ago
 
 ---
 
@@ -151,11 +151,9 @@ Just finished this book and it’s possibly the BEST book for a complete beginne
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 2h ago
+The New York Times • 1h ago
 
 ---
 
@@ -167,15 +165,23 @@ CoinDesk • 23h ago
 
 ---
 
-**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
 
-The New York Times • 1h ago
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 6h ago
+
+---
+
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+
+The Block • 2h ago
 
 ---
 
@@ -187,17 +193,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Out, Gold In? Jefferies’ Shocking Treasury Shift Over These Fears](https://www.ccn.com/news/crypto/bitcoin-out-gold-in-jefferies-shocking-treasury-shift-fears/)**
+**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
 
-CCN.com • 3h ago
+The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
----
-
-**[These Finnish homes are being heated by a surprising source: Bitcoin](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/)**
-
-Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
-
-grist.org • 1d ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -207,17 +207,17 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
+**[Did Bitcoin Price Peak in 2025? Famed Analyst Casts Doubt on 2026 Growth](https://www.ccn.com/news/crypto/did-bitcoin-price-peak-in-2025-famed-analyst-casts-doubt-on-2026-growth/)**
 
-Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
-
-The Motley Fool • 1d ago
+CCN.com • 1h ago
 
 ---
 
-**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
+**[ProCap Financial Stock: A Deeply Discounted Bitcoin DAT? (NASDAQ:BRR)](https://seekingalpha.com/article/4860368-procap-financial-a-deeply-discounted-bitcoin-dat)**
 
-The Block • 1d ago
+ProCap Financial (BRR) trades at a 0.64 mNAV discount to its Bitcoin. Read more macro analysis here.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 14h ago
+👁️ 27K • 👍 2K • 💬 196 • ⏱️ 21:24 • 15h ago
 
 ---
 
@@ -317,7 +317,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 15h ago
+👁️ 50K • 👍 3K • 💬 225 • ⏱️ 11:32 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 23h ago
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 46:33 • 1d ago
 
 ---
 
