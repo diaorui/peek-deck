@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T07:25:50.432967+00:00'
+updated: '2026-01-16T07:45:35.157635+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 07:25 UTC  
+**Last Updated:** January 16, 2026 at 07:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +5.9%  
-**30d:** +12.2%  
-**90d:** -11.7%  
-**1y:** -8.1%  
+**24h:** -1.2%  
+**7d:** +5.6%  
+**30d:** +12.0%  
+**90d:** -11.9%  
+**1y:** -8.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,19 +95,19 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-2h ago
+3h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-8h ago
+9h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -153,11 +153,11 @@ Starting this now. Have you read it? How would you rate it?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin rallies past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
+**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
 
-The largest cryptocurrency extended its rally, pushing related equities higher as well.
+Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
 
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,12 +166,6 @@ CoinDesk • 1d ago
 Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
 
 grist.org • 1d ago
-
----
-
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqf0WSsL-3wrbzdHgO8nwLjkpbP1ZV8B9ITqTWqK251K2khAXohcyc_A&gaa_ts=6969dfdd&gaa_sig=sjUVvXDcnCn3jE82zJVVyh6Afd92IuFQoaqNE4wk2ae53owPzWTjpbzo1_kIiVkeqfQfCLWD0H3gg-kbEumZoQ%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -186,6 +180,22 @@ The Motley Fool • 21h ago
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
+
+The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
+
+Bitcoin Magazine • 17h ago
+
+---
+
+**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
+
+BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -207,19 +217,11 @@ thestreet.com • 17h ago
 
 ---
 
-**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://finance.yahoo.com/news/td-cowen-trims-strategy-price-030728855.html)**
+**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://decrypt.co/354684/td-cowen-trims-strategy-price-target-bitcoin-yield)**
 
 TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Pro-Bitcoin Machado Set to Meet Trump at White House](https://bitbo.io/news/machado-meets-trump-bitcoin/)**
-
-Venezuelan opposition leader Maria Corina Machado, a longtime bitcoin supporter, is set to meet President Donald Trump as she seeks a role in Venezuela's post-Maduro transition.
-
-Bitbo • 16h ago
+Decrypt • 1d ago
 
 ---
 
@@ -327,7 +329,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 122 • ⏱️ 21:24 • 6h ago
+👁️ 19K • 👍 2K • 💬 122 • ⏱️ 21:24 • 7h ago
 
 ---
 
@@ -357,7 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 114 • ⏱️ 46:33 • 15h ago
+👁️ 22K • 👍 1K • 💬 114 • ⏱️ 46:33 • 16h ago
 
 ---
 

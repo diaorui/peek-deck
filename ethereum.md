@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T07:25:50.439038+00:00'
+updated: '2026-01-16T07:45:35.163547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 07:25 UTC  
+**Last Updated:** January 16, 2026 at 07:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +7.1%  
-**30d:** +17.2%  
+**24h:** -0.9%  
+**7d:** +7.0%  
+**30d:** +17.1%  
 **90d:** -17.0%  
-**1y:** -4.8%  
+**1y:** -4.9%  
 
 ---
 
@@ -104,7 +104,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 4h ago
+🔗 [totems.fun](https://totems.fun/) • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -182,19 +182,27 @@ Sherwood News • 11h ago
 
 ---
 
-**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
-
-Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
-
-dlnews.com • 21h ago
-
----
-
 **[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
 CoinDesk • 1h ago
+
+---
+
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
+
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
+
+dlnews.com • 21h ago
 
 ---
 
@@ -215,14 +223,6 @@ The Block • 1d ago
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
 24/7 Wall St. • 17h ago
-
----
-
-**[Ethereum price prediction: top reasons ETH is about to rocket higher](https://www.tradingview.com/news/invezz:80cafb9e3094b:0-ethereum-price-prediction-top-reasons-eth-is-about-to-rocket-higher/)**
-
-Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Tr
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 116 • 👍 11 • 💬 1 • ⏱️ 17:14 • 2h ago
+👁️ 116 • 👍 11 • 💬 1 • ⏱️ 17:14 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Stock Moe
 
-👁️ 9K • 👍 678 • 💬 42 • ⏱️ 13:25 • 9h ago
+👁️ 9K • 👍 678 • 💬 42 • ⏱️ 13:25 • 10h ago
 
 ---
 
