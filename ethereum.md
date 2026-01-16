@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T06:36:31.392213+00:00'
+updated: '2026-01-16T07:25:50.439038+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 06:36 UTC  
+**Last Updated:** January 16, 2026 at 07:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $396.33B
+**Market Cap:** $399.74B
 Rank #2
 
 **Circulating Supply:** 120,694,613 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.6%
+-33.0%
 
 **All-Time Low:** $0.43
-+758019.9%
++764916.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 16, 2026](https://www.reddit.com/r/ethereum/comments/1qe818u/daily_general_discussion_january_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 7h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 8h ago
 
 ---
 
@@ -96,13 +104,13 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 3h ago
+🔗 [totems.fun](https://totems.fun/) • 4h ago
 
 ---
 
 **[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
 
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 23h ago
 
 ---
 
@@ -138,12 +146,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
-
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -176,7 +178,7 @@ Seeking Alpha • 1d ago
 
 The main drivers of the network’s transaction growth comes from increased stablecoin usage....
 
-Sherwood News • 10h ago
+Sherwood News • 11h ago
 
 ---
 
@@ -184,7 +186,7 @@ Sherwood News • 10h ago
 
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-dlnews.com • 20h ago
+dlnews.com • 21h ago
 
 ---
 
@@ -192,7 +194,7 @@ dlnews.com • 20h ago
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
-CoinDesk • 29m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -212,7 +214,7 @@ The Block • 1d ago
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -234,17 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 48 • 💬 132 • ⏱️ 6:39 • 20h ago
-
----
-
-**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=ClTFHktbMlY)**
-
-OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Learn how to claim your $Eth from the official ...
-
-📺 World Liberty Financial
-
-👁️ 4K • 👍 20 • 💬 4 • ⏱️ 2:13 • 16h ago
+👁️ 1K • 👍 51 • 💬 118 • ⏱️ 6:39 • 21h ago
 
 ---
 
@@ -254,7 +246,27 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 192 • 💬 214 • ⏱️ 15:10 • 1d ago
+👁️ 5K • 👍 192 • 💬 210 • ⏱️ 15:10 • 1d ago
+
+---
+
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=ClTFHktbMlY)**
+
+OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Learn how to claim your $Eth from the official ...
+
+📺 World Liberty Financial
+
+👁️ 4K • 👍 17 • 💬 4 • ⏱️ 2:13 • 17h ago
+
+---
+
+**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
+
+Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
+
+📺 CNBC Television
+
+👁️ 80K • 👍 1K • 💬 287 • ⏱️ 7:04 • 18h ago
 
 ---
 
@@ -268,13 +280,13 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[ETH Ethereum Price Prediction: Bullish Pattern BREAKOUT Incoming](https://www.youtube.com/watch?v=bMY62MravO8)**
+**[Bitcoin at a Breaking Point… This Move Decides EVERYTHING. BTC/ETH/ALTS ANALYSIS](https://www.youtube.com/watch?v=ytINQoK8LJg)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
 
-📺 C-Zar Gets Crypto 
+📺 FREEDOM TRADING ACADEMY
 
-👁️ 289 • 👍 18 • 💬 47 • ⏱️ 8:02 • 12h ago
+👁️ 116 • 👍 11 • 💬 1 • ⏱️ 17:14 • 2h ago
 
 ---
 
@@ -284,47 +296,37 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 196 • 💬 42 • ⏱️ 20:12 • 1d ago
+👁️ 6K • 👍 197 • 💬 16 • ⏱️ 20:12 • 1d ago
 
 ---
 
-**[THE NEXT CRYPTO RALLY HAS STARTED! BITCOIN, XRP, ETHEREUM, SOLANA &amp; MONERO ANALYSIS!](https://www.youtube.com/watch?v=WANh4RrMttM)**
+**[XRP and Ethereum ‼️ Don&#39;t Say I Didn&#39;t Tell You THIS](https://www.youtube.com/watch?v=TtDFQuU5XfQ)**
 
-Brian from Santiment joined me to review the crypto metrics for Bitcoin, Ethereum, XRP, Solana, and Monero. 🖥️ Sign up with ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Thinking Crypto
+📺 Stock Moe
 
-👁️ 4K • 👍 310 • 💬 130 • ⏱️ 33:50 • 17h ago
-
----
-
-**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
-
-Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
-
-📺 CNBC Television
-
-👁️ 74K • 👍 1K • 💬 281 • ⏱️ 7:04 • 17h ago
+👁️ 9K • 👍 678 • 💬 42 • ⏱️ 13:25 • 9h ago
 
 ---
 
-**[BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yk9UNui8VEc)**
+**[I’m Betting BIG on SOL &amp; ETH (Price Prediction)](https://www.youtube.com/watch?v=D55cK-8a3OQ)**
 
-BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Ethereum and Solana are leading the 2026 crypto bull market. In this video, I break down the SOL vs ETH debate, analyzing the ...
 
-📺 Crypto World
+📺 Discover Crypto
 
-👁️ 8K • 👍 356 • 💬 232 • ⏱️ 25:02 • 19h ago
+👁️ 6K • 👍 269 • 💬 92 • ⏱️ 11:22 • 1d ago
 
 ---
 
-**[WHY ETH CAN PUMP HIGHER NOW🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Pqr6u1dWbPo)**
+**[ETH Ethereum Price Prediction: Bullish Pattern BREAKOUT Incoming](https://www.youtube.com/watch?v=bMY62MravO8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Cilinix Crypto
+📺 C-Zar Gets Crypto 
 
-👁️ 318 • 👍 18 • 💬 18 • ⏱️ 5:18 • 20h ago
+👁️ 313 • 👍 18 • 💬 26 • ⏱️ 8:02 • 13h ago
 
 ---
 

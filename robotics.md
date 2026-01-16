@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T06:36:31.395462+00:00'
+updated: '2026-01-16T07:25:50.442339+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 06:36 UTC  
+**Last Updated:** January 16, 2026 at 07:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,15 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-4h ago
+5h ago
+
+---
+
+**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
+
+This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
+
+1h ago
 
 ---
 
@@ -50,13 +58,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-16h ago
+17h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -68,39 +76,33 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 ---
 
+**[reality check needed](https://www.reddit.com/r/robotics/comments/1qe913j/reality_check_needed/)**
+
+Quick intro: I am an engineering undergrad working on my final research project. I have been given ~3 months to develop a feature as follows: I am supposed to work on the raspberry pi platform based robot(it is already developed, along with some custom control software), somehow onboard a VLM,SLM or LLM to run real time, take inputs from sensors(a camera and a lidar) and it is supposed to do things like respond to queries like “What am I holding”, or go move around the room if I say “explore the room”, or obey simple instructions like “move forward”. It needs to have speech to text, text to speech capabilities, etc. My concerns are whether this is even viable, even on the highest specced pi? Those of you who worked on similar projects or heard of them, could you maybe please comment on the viability of the project? Or are language models even necessary for a problem like this? Are there other more efficient/interesting ways to get the job done? I am also new to the raspberry platform, so your experience, pointers to resources could perhaps save me weeks of soul searching on the best solutions for the subproblems. Finally, for validation purposes, is this a good place to research on? Your two cents would be priceless for me :) PS. I am from a cs background, mostly worked on ml projects prior, took up robotics because of my interest in it.
+
+29m ago
+
+---
+
+**[Human to Robot Transfer in Vision-Language-Action Models](https://www.reddit.com/r/robotics/comments/1qe8u3u/human_to_robot_transfer_in_visionlanguageaction/)**
+
+Has anyone read the recent paper from PI about knowledge transfer from Human Egocentric data to Robot manipulation (https://www.pi.website/download/human\_to\_robot.pdf)? I am specifically wondering whether having 2 wrist cameras (alongside a head camera) is going to be the standard way of egocentric data collection and if so, how would this scale when they go about collecting this data in homes? Isn't it too hard to make people wear 3 cameras, have time-synchronised recordings and make sure the field of view is perfect in all?
+
+40m ago
+
+---
+
 **[Boston Dynamics on turning Atlas from a research platform into a manufacturable product](https://www.reddit.com/r/robotics/comments/1qdkoy1/boston_dynamics_on_turning_atlas_from_a_research/)**
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 16h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 17h ago
 
 ---
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
 11h ago
-
----
-
-**[Any good suggestions for learning STM32 programming](https://www.reddit.com/r/robotics/comments/1qdmcxw/any_good_suggestions_for_learning_stm32/)**
-
-Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
-
-15h ago
-
----
-
-**[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
-
-13h ago
-
----
-
-**[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
-
-The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
-
-21h ago
 
 ---
 
@@ -148,7 +150,7 @@ Nikkei Asia • 13h ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -188,7 +190,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 441K • 👍 13K • 💬 779 • ⏱️ 17:09 • 3d ago
+👁️ 444K • 👍 13K • 💬 781 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -198,7 +200,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 75K • 👍 4K • 💬 257 • ⏱️ 17:36 • 1d ago
+👁️ 82K • 👍 4K • 💬 266 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 157K • 👍 2K • 💬 390 • ⏱️ 11:46 • 4d ago
+👁️ 158K • 👍 2K • 💬 392 • ⏱️ 11:46 • 4d ago
 
 ---
 
@@ -218,7 +220,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 12h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 13h ago
 
 ---
 
@@ -238,15 +240,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 51K • 👍 3K • 💬 431 • ⏱️ 14:30 • 4d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 90K • 👍 1K • 💬 66 • ⏱️ 1:16 • 2d ago
+👁️ 51K • 👍 3K • 💬 432 • ⏱️ 14:30 • 4d ago
 
 ---
 
@@ -256,7 +250,17 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 230K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
+👁️ 231K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 20K • 👍 268 • 💬 36 • ⏱️ 11:29 • 5d ago
 
 ---
 
@@ -270,13 +274,13 @@ On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, wh
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
 
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
 
-📺 Cybernews
+📺 The Laughing Lion
 
-👁️ 20K • 👍 267 • 💬 36 • ⏱️ 11:29 • 5d ago
+👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
 
 ---
 
