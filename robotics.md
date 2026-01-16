@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T17:25:35.346439+00:00'
+updated: '2026-01-16T17:48:21.267579+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 17:25 UTC  
+**Last Updated:** January 16, 2026 at 17:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
-
-5h ago
-
----
-
 **[Day 116 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qeb06m/day_116_of_building_asimov_an_opensource_humanoid/)**
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
 8h ago
+
+---
+
+**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
+
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-19h ago
+20h ago
 
 ---
 
@@ -88,25 +88,25 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 ---
 
+**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
+
+Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
+
+14m ago
+
+---
+
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
 15h ago
 
 ---
 
-**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
+**[The BUDGET Friendly Humanoid from Unitree? | R1 at CES 2026](https://www.reddit.com/r/robotics/comments/1qemc3i/the_budget_friendly_humanoid_from_unitree_r1_at/)**
 
-We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
+Worth it for $5K? Maybe but it’s hard to say, so far it’s like a cheaper version of G1 in quality. Maybe it’s because it’s a prototype but I’m hoping to see more advancement in the future
 
-1d ago
-
----
-
-**[Would you use an AI-assisted editor to design robots?](https://www.reddit.com/r/robotics/comments/1qeikqp/would_you_use_an_aiassisted_editor_to_design/)**
-
-I’m a complete beginner in robotics and electronics. I started by asking AI how to get started, but quickly realized I didn’t really understand the answers because I couldn’t visualize how the components were actually wired. So I wrote a small tool with: a text-based representation of components and wiring a renderer that turns that into a 2D diagram The AI can generate and reason about the design using this representation. If this were an online tool: would you use it? are there similar tools you already rely on? does the generated setup look correct to you? what features would you find useful for DIY robotics projects? I’m looking for honest feedback https://preview.redd.it/i45k0ou4aqdg1.png?width=1908&format=png&auto=webp&s=234c050f7dc38356a25b85fdc9b6c32f3cc6b2f4
-
-2h ago
+🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 19m ago
 
 ---
 
@@ -154,7 +154,7 @@ TechCrunch • 2d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 23h ago
+Nikkei Asia • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ GeekWire • 2d ago
 
 Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -206,7 +206,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 25K • 💬 16 • ⏱️ 6:37 • 23h ago
+👁️ 25K • 💬 16 • ⏱️ 6:37 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 1h ago
+👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 4K • 👍 57 • ⏱️ 0:23 • 2h ago
+👁️ 4K • 👍 57 • ⏱️ 0:23 • 3h ago
 
 ---
 

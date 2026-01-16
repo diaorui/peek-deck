@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T17:25:35.343506+00:00'
+updated: '2026-01-16T17:48:21.264371+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 17:25 UTC  
+**Last Updated:** January 16, 2026 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
+**24h:** -0.3%  
 **7d:** +6.3%  
 **30d:** +16.3%  
 **90d:** -17.6%  
@@ -94,7 +94,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 14h ago
+🔗 [totems.fun](https://totems.fun/) • 15h ago
 
 ---
 
@@ -148,6 +148,46 @@ The Weekly Doots live stream is all about showcasing the best of the week from t
 
 ## Google News: "ethereum"
 
+**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
+
+The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
+
+Decrypt • 1h ago
+
+---
+
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
+
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
+
+dlnews.com • 1d ago
+
+---
+
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
+
+The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
+
+CoinDesk • 11h ago
+
+---
+
 **[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
 
 What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
@@ -166,61 +206,21 @@ Business Insider • 1d ago
 
 **[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
-**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
+**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
-Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
-
-Seeking Alpha • 2d ago
+The Block • 2d ago
 
 ---
 
-**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
+**[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
 
-The Block • 1d ago
+Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
 
----
-
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://decrypt.co/354732/mrbeast-eyes-defi-ethereum-treasury-firm-bitmine-invests-200-million)**
-
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
-
-Decrypt • 1d ago
-
----
-
-**[Vitalik Buterin, Sam Altman to attend Bitmine shareholder meeting as firm conducts key vote](https://www.dlnews.com/articles/people-culture/vitalik-buterin-and-sam-altman-to-attend-bitmine-shareholder-meeting/)**
-
-Bitmine will hold its shareholder meeting in Las Vegas today. Vitalik Buterin and Sam Altman are attending.  The meeting centres around a vote to increase the number of new shares Bitmine can issue.
-
-dlnews.com • 1d ago
-
----
-
-**[Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://finance.yahoo.com/news/tom-lee-ethereum-supercycle-call-152502988.html)**
-
-Ethereum (CRYPTO: ETH) enters 2026 under intense institutional spotlight, and Tom Lee believes a supercycle is unfolding. The Fundstrat co-founder and Bitmine chairman has made increasingly aggressive Ethereum price predictions, ranging from $7,000-$9,000 near-term to as high as $60,000 over the long haul. Lee’s firm recently added $88 million in ETH at roughly $3,200 per ... Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns
-
-Yahoo Finance • 3d ago
-
----
-
-**[BitMine’s Shareholder Vote Could Decide the Future of Ethereum Treasuries | US Crypto News](https://finance.yahoo.com/news/bitmine-shareholder-vote-could-decide-154944510.html)**
-
-What is the biggest crypto news today? BitMine vote and Senate crypto bill set stage for Ethereum surge amid tight supply.
-
-Yahoo Finance • 3d ago
-
----
-
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
-
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
-
-24/7 Wall St. • 1d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 140 • 💬 327 • ⏱️ 15:03 • 11h ago
+👁️ 3K • 👍 140 • 💬 327 • ⏱️ 15:03 • 12h ago
 
 ---
 
@@ -304,7 +304,7 @@ OFFICIAL CLAIM LINK - https://eth.distrubutlon.com/ Ethereum Airdrop is LIVE Lea
 
 📺 Stock Moe
 
-👁️ 10K • 👍 729 • 💬 46 • ⏱️ 13:25 • 19h ago
+👁️ 10K • 👍 729 • 💬 46 • ⏱️ 13:25 • 20h ago
 
 ---
 

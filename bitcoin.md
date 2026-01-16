@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T17:25:35.337994+00:00'
+updated: '2026-01-16T17:48:21.258328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 17:25 UTC  
+**Last Updated:** January 16, 2026 at 17:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,891.35
+### $94,861.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +4.9%  
+**24h:** -0.9%  
+**7d:** +5.0%  
 **30d:** +11.3%  
 **90d:** -12.5%  
-**1y:** -8.9%  
+**1y:** -8.8%  
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
-
-Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
-
-12h ago
-
----
-
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -97,31 +89,31 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 ---
 
+**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
+
+Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
+
+13h ago
+
+---
+
 **[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-5h ago
+6h ago
 
 ---
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
+**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-8h ago
-
----
-
-**[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
-
-I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
-
-23h ago
+1h ago
 
 ---
 
@@ -131,17 +123,25 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 ---
 
+**[99% of financial advisors plan to add or maintain their crypto exposures this year. CRAZY](https://www.reddit.com/r/Bitcoin/comments/1qejgug/99_of_financial_advisors_plan_to_add_or_maintain/)**
+
+This is crazy, Bitcoin is going to the moon sooner or later.
+
+2h ago
+
+---
+
+**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
+
+9h ago
+
+---
+
 **[Hit 6 million satoshis on Robinhood should I convert to better storage?](https://www.reddit.com/r/Bitcoin/comments/1qej1cu/hit_6_million_satoshis_on_robinhood_should_i/)**
 
 It’s gotten a lot harder to stack a million satoshis since I started investing so I wanted to celebrate 6 mil.
 
-1h ago
-
----
-
-**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
-
-1h ago
+2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 8h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 4h ago
 
 **[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqdZSsUwjAxkY5zd_TbtGUe_a-CZm3hdMLNs9eZ_yiB1IBg8G0MaQEL0&gaa_ts=696a77f0&gaa_sig=TY0Moal1Okmr9Mgc0BBbJvawBskcqJCScj8OrRculp61isU50s3Mrw7mch3oqYAIMHeLrwau6qTOwZWYi6oFGA%3D%3D)**
 
-MarketWatch • 12m ago
+MarketWatch • 35m ago
 
 ---
 
@@ -187,7 +187,7 @@ MarketWatch • 12m ago
 
 Crypto analyst Don Wedge has warned that despite recent Bitcoin gains, a bearish rising wedge pattern is forming near the $94,000 level, which, if pressured further, could trigger a decline back to the $86,000 support zone.According to the rising wedge chart shared by Don and interpreted by the market intelligence ...
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -227,7 +227,7 @@ thestreet.com • 2d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 1h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 2h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -235,7 +235,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 2h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -271,6 +271,12 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 ---
 
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
+
+⬆️ 1 • 💬 0 • 39m ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+
+---
+
 **[Earn Money and Take a Shower](https://news.ycombinator.com/item?id=46599328)**
 
 An apartment building can be turned into a huge cryptocurrency exchange
@@ -287,7 +293,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 0 • 11h ago
+⬆️ 2 • 💬 1 • 11h ago
 
 ---
 
@@ -311,7 +317,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 218 • ⏱️ 11:32 • 17h ago
+👁️ 54K • 👍 3K • 💬 218 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -321,7 +327,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 3K • 💬 197 • ⏱️ 21:24 • 16h ago
+👁️ 29K • 👍 3K • 💬 197 • ⏱️ 21:24 • 17h ago
 
 ---
 
@@ -331,7 +337,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 102K • 👍 1K • 💬 460 • ⏱️ 5:15 • 22h ago
+👁️ 102K • 👍 1K • 💬 460 • ⏱️ 5:15 • 23h ago
 
 ---
 
@@ -341,7 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 734 • 💬 151 • ⏱️ 43:25 • 1h ago
+👁️ 8K • 👍 734 • 💬 151 • ⏱️ 43:25 • 2h ago
 
 ---
 
