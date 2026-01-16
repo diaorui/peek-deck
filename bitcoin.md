@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T11:20:38.351458+00:00'
+updated: '2026-01-16T11:43:27.990273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 11:20 UTC  
+**Last Updated:** January 16, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1909.35B
+**Market Cap:** $1904.82B
 Rank #1
 
-**Circulating Supply:** 19,976,500 BTC
+**Circulating Supply:** 19,976,531 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.2%
+-24.4%
 
 **All-Time Low:** $67.81
-+140870.4%
++140488.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-6h ago
+7h ago
 
 ---
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,19 +101,19 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
 
-12h ago
+13h ago
 
 ---
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-22h ago
+23h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bloomberg • 1d ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -283,33 +283,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Yahoo Finance
+📺 CryptosRUs
 
-👁️ 3K • 👍 86 • 💬 56 • ⏱️ 5:23 • 12h ago
-
----
-
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
-
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 179 • ⏱️ 21:24 • 10h ago
-
----
-
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
-
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
-
-📺 CNBC Television
-
-👁️ 84K • 👍 1K • 💬 428 • ⏱️ 5:15 • 16h ago
+👁️ 23K • 👍 1K • 💬 127 • ⏱️ 46:33 • 20h ago
 
 ---
 
@@ -319,17 +299,17 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 69K • 👍 5K • 💬 500 • ⏱️ 14:43 • 15h ago
+👁️ 71K • 👍 5K • 💬 510 • ⏱️ 14:43 • 15h ago
 
 ---
 
-**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
+**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
 
-Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
+Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
 
-📺 Swan Bitcoin
+📺 CNBC Television
 
-👁️ 30K • 👍 1K • 💬 144 • ⏱️ 14:15 • 13h ago
+👁️ 89K • 👍 1K • 💬 435 • ⏱️ 5:15 • 17h ago
 
 ---
 
@@ -339,17 +319,27 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 92 • ⏱️ 18:18 • 6h ago
+👁️ 27K • 👍 2K • 💬 121 • ⏱️ 18:18 • 6h ago
 
 ---
 
-**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
+**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
 
-📺 CryptosRUs
+📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 46:33 • 19h ago
+👁️ 33K • 👍 2K • 💬 141 • ⏱️ 14:15 • 13h ago
+
+---
+
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 182 • ⏱️ 21:24 • 11h ago
 
 ---
 
@@ -359,17 +349,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 923 • 💬 293 • ⏱️ 16:02 • 18h ago
-
----
-
-**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
-
-Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 389 • 💬 122 • ⏱️ 1:31:47 • 15h ago
+👁️ 16K • 👍 949 • 💬 308 • ⏱️ 16:02 • 19h ago
 
 ---
 
@@ -379,7 +359,27 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 57 • ⏱️ 30:10 • 19h ago
+👁️ 30K • 👍 2K • 💬 56 • ⏱️ 30:10 • 20h ago
+
+---
+
+**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
+
+Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 392 • 💬 125 • ⏱️ 1:31:47 • 15h ago
+
+---
+
+**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
+
+Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 21K • 👍 1K • 💬 122 • ⏱️ 18:21 • 1d ago
 
 ---
 

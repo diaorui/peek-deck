@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T11:20:38.360963+00:00'
+updated: '2026-01-16T11:43:27.999835+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 11:20 UTC  
+**Last Updated:** January 16, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-14h ago
+15h ago
 
 ---
 
@@ -114,7 +114,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 18h ago
+Bloomberg • 19h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 2d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 17h ago
+Nikkei Asia • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ Nikkei Asia • 17h ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -192,7 +192,15 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 445K • 👍 13K • 💬 782 • ⏱️ 17:09 • 3d ago
+👁️ 446K • 👍 13K • 💬 783 • ⏱️ 17:09 • 3d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 99K • 👍 1K • 💬 66 • ⏱️ 1:16 • 3d ago
 
 ---
 
@@ -202,7 +210,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 158K • 👍 2K • 💬 392 • ⏱️ 11:46 • 4d ago
+👁️ 159K • 👍 2K • 💬 393 • ⏱️ 11:46 • 4d ago
 
 ---
 
@@ -222,7 +230,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 17h ago
+👁️ 8K • 💬 15 • ⏱️ 6:37 • 18h ago
 
 ---
 
@@ -232,7 +240,27 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 85K • 👍 4K • 💬 269 • ⏱️ 17:36 • 1d ago
+👁️ 87K • 👍 4K • 💬 270 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 233K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
+
+---
+
+**[CES 2026 | NEURA Robotics: 4NE1 Humanoids, NEURA Quadruped &amp; More](https://www.youtube.com/watch?v=Iyyum_70X6k)**
+
+On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, where the company showcased its latest ...
+
+📺 RobotShopTV
+
+👁️ 848 • 👍 12 • 💬 2 • ⏱️ 2:41 • 3d ago
 
 ---
 
@@ -246,26 +274,6 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 232K • 👍 14K • 💬 3K • ⏱️ 5:12 • 2d ago
-
----
-
-**[CES 2026 | NEURA Robotics: 4NE1 Humanoids, NEURA Quadruped &amp; More](https://www.youtube.com/watch?v=Iyyum_70X6k)**
-
-On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, where the company showcased its latest ...
-
-📺 RobotShopTV
-
-👁️ 815 • 👍 11 • 💬 2 • ⏱️ 2:41 • 3d ago
-
----
-
 **[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
 
 Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
@@ -273,16 +281,6 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 📺 The Laughing Lion
 
 👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 4d ago
-
----
-
-**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
-
-When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
-
-📺 mryeester
-
-👁️ 108K • 👍 6K • 💬 193 • ⏱️ 1:06 • 6d ago
 
 ---
 

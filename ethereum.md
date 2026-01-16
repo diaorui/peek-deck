@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T11:20:38.357671+00:00'
+updated: '2026-01-16T11:43:27.996490+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 11:20 UTC  
+**Last Updated:** January 16, 2026 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.22B
+**Market Cap:** $398.75B
 Rank #2
 
 **Circulating Supply:** 120,694,613 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.1%
+-33.2%
 
 **All-Time Low:** $0.43
-+763974.0%
++762514.4%
 
 ---
 
@@ -104,7 +104,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 8h ago
+🔗 [totems.fun](https://totems.fun/) • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 18h ago
 
 Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -186,7 +186,7 @@ Finbold • 1d ago
 
 Ethereum is seeing a sharp rise in new users, with on-chain data showing that activity retention has nearly doubled over the past month, according to analytics firm Glassnode. Key Takeaways: Ethereum is seeing a surge of new users, with activity retention and new active addresses nearly doubling in the past ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -232,33 +232,33 @@ TradingView — Track All Markets • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
-
-Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 50 • 💬 115 • ⏱️ 6:39 • 1d ago
-
----
-
-**[THIS Will Trigger The LARGEST Crypto Bull Run EVER! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=Pd4E2Otg72Q)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily On-Chain Analysis & Crypto News ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 193 • 💬 225 • ⏱️ 15:10 • 1d ago
-
----
-
 **[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
 
 FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 5h ago
+👁️ 2K • 👍 104 • 💬 281 • ⏱️ 15:03 • 6h ago
+
+---
+
+**[GREAT ETH BUY OPPORTUNITY SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=gDe8Ytphn0Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 67 • 👍 6 • 💬 18 • ⏱️ 5:32 • 1h ago
+
+---
+
+**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
+
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 53 • 💬 112 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -268,37 +268,17 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 25 • 💬 4 • ⏱️ 2:13 • 21h ago
+👁️ 4K • 👍 26 • 💬 4 • ⏱️ 2:13 • 21h ago
 
 ---
 
-**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
+**[THIS Will Trigger The LARGEST Crypto Bull Run EVER! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=Pd4E2Otg72Q)**
 
-Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily On-Chain Analysis & Crypto News ...
 
-📺 CNBC Television
+📺 Library Of Wealth
 
-👁️ 83K • 👍 1K • 💬 295 • ⏱️ 7:04 • 22h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 626 • 💬 27 • ⏱️ 17:37 • 2d ago
-
----
-
-**[ETH Is Massively Undervalued — A 5x Setup for 2026?](https://www.youtube.com/watch?v=k8OffaI-iFA)**
-
-Ethereum has underperformed this cycle — but are the fundamentals telling a different story? In this interview, Vivek Raman ...
-
-📺 Cointelegraph
-
-👁️ 6K • 👍 201 • 💬 16 • ⏱️ 20:12 • 1d ago
+👁️ 5K • 👍 194 • 💬 227 • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -308,7 +288,37 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Stock Moe
 
-👁️ 9K • 👍 688 • 💬 54 • ⏱️ 13:25 • 13h ago
+👁️ 10K • 👍 696 • 💬 54 • ⏱️ 13:25 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VJPmqEjrQ2E)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 124 • 💬 8 • ⏱️ 3:43 • 19h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 18K • 👍 628 • 💬 27 • ⏱️ 17:37 • 2d ago
+
+---
+
+**[Bitmine&#39;s Tom Lee on $200M Beast Industries investment: An evolution of digital platforms and money](https://www.youtube.com/watch?v=KB9TdI3JEJk)**
+
+Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, joins 'Squawk Box' to discuss BitMine's $200 ...
+
+📺 CNBC Television
+
+👁️ 84K • 👍 1K • 💬 301 • ⏱️ 7:04 • 22h ago
 
 ---
 
@@ -318,17 +328,7 @@ Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Tr
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 6h ago
-
----
-
-**[I’m Betting BIG on SOL &amp; ETH (Price Prediction)](https://www.youtube.com/watch?v=D55cK-8a3OQ)**
-
-Ethereum and Solana are leading the 2026 crypto bull market. In this video, I break down the SOL vs ETH debate, analyzing the ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 269 • 💬 100 • ⏱️ 11:22 • 1d ago
+👁️ 242 • 👍 19 • 💬 55 • ⏱️ 17:14 • 7h ago
 
 ---
 
