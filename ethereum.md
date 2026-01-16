@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T22:46:40.852371+00:00'
+updated: '2026-01-16T23:21:15.855268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 22:46 UTC  
+**Last Updated:** January 16, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 11h ago
 
 ---
 
@@ -118,7 +118,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 23h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -190,13 +190,13 @@ CoinDesk • 1h ago
 
 As Solana’s on chain activity continues to accelerate, a question is increasingly surfacing among investors. Can Solana eventually be valued alongside networks like Ethereum, or is the gap structural rather than temporary? During a recent interview with TheStreet Roundtable at Solana Breakpoint, ...
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 59m ago
 
 ---
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -232,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 410 • 💬 34 • ⏱️ 16:47 • 7h ago
+👁️ 8K • 👍 410 • 💬 34 • ⏱️ 16:47 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 125 • 👍 10 • 💬 18 • ⏱️ 24:55 • 1h ago
+👁️ 125 • 👍 10 • 💬 18 • ⏱️ 24:55 • 2h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 6 • ⏱️ 3:49 • 7h ago
+👁️ 2K • 👍 98 • 💬 6 • ⏱️ 3:49 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 306 • 💬 90 • ⏱️ 23:36 • 10h ago
+👁️ 7K • 👍 306 • 💬 90 • ⏱️ 23:36 • 11h ago
 
 ---
 

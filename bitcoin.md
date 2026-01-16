@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T22:46:40.846344+00:00'
+updated: '2026-01-16T23:21:15.849211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 22:46 UTC  
+**Last Updated:** January 16, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -121,13 +121,13 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
-5h ago
+6h ago
 
 ---
 
 **[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 This is crazy, Bitcoin is going to the moon sooner or later.
 
-6h ago
+7h ago
 
 ---
 
@@ -151,13 +151,13 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 13h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 2d ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 6h ago
+Mother Jones • 7h ago
 
 ---
 
@@ -195,7 +195,7 @@ Mother Jones • 6h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ Seeking Alpha • 4h ago
 
 The price of Bitcoin is down today, but BTC also just flashed its most-watched bullish signal. Is a recovery rally on the way?
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -267,7 +267,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 3 • 💬 0 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 0 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -295,7 +295,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 16h ago
+⬆️ 2 • 💬 4 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 8K • 👍 181 • 💬 72 • ⏱️ 5:23 • 23h ago
+👁️ 8K • 👍 181 • 💬 72 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 14K • 👍 713 • 💬 83 • ⏱️ 13:46 • 11h ago
+👁️ 14K • 👍 713 • 💬 83 • ⏱️ 13:46 • 12h ago
 
 ---
 
@@ -359,7 +359,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 171 • ⏱️ 18:18 • 17h ago
+👁️ 61K • 👍 4K • 💬 171 • ⏱️ 18:18 • 18h ago
 
 ---
 
@@ -389,7 +389,7 @@ The Last Trade: Marty Bent breaks down bitcoin's 2026 setup, Fed vs Treasury ten
 
 📺 Onramp Bitcoin Media
 
-👁️ 1K • 👍 77 • 💬 18 • ⏱️ 1:11:59 • 8h ago
+👁️ 1K • 👍 77 • 💬 18 • ⏱️ 1:11:59 • 9h ago
 
 ---
 
