@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T11:43:27.999835+00:00'
+updated: '2026-01-16T12:48:27.060987+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 11:43 UTC  
+**Last Updated:** January 16, 2026 at 12:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-2h ago
+3h ago
+
+---
+
+**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
+
+1h ago
 
 ---
 
@@ -44,7 +52,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-14h ago
+15h ago
 
 ---
 
@@ -60,13 +68,13 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-5h ago
+6h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -74,13 +82,13 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-21h ago
+22h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +96,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a01b4c9e62025244d3daf89dc2fa7d47f9a9e Quick one, has anyone tried these cheap planetery reducers from Aliexpress? I plan on starting a robot arm project and don't wanna spend too much time on the mechanical design part. Initially I was considering using my own belt drive reducers but tbh if these are actually decent (30 arcmins) and have decent efficiency, this would definetely be a better and faster option. No fidlling around with 3d printed reducers. Has anyone tried something like this? I couldnt find any tests on youtube or here on reddit. There are more expensive ones from stepperonline (below), the first is still 1/3 the price. Would love to know if anyone has tried em before I pull the trigger (which I probably will anyways coz its so cheap lol) https://preview.redd.it/rgpid8je8odg1.png?width=1880&format=png&auto=webp&s=08d19370995753be7b9b5a3df366fb2fd75a7b5d
 
-3h ago
+4h ago
 
 ---
 
@@ -96,15 +104,7 @@ https://preview.redd.it/gcd0dync9odg1.png?width=1080&format=png&auto=webp&s=901a
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-15h ago
-
----
-
-**[AGP Insights - Humanoid Robots in 2025: Powering the Next Industrial Evolution | Asia Growth Partners](https://www.reddit.com/r/robotics/comments/1qeb9kj/agp_insights_humanoid_robots_in_2025_powering_the/)**
-
-2025 marks the shift of humanoid robots from viral dancing videos to actual industrial work. A new report highlights how GAC's "GoMate" and Nio's production line bots are mastering complex tasks like installing wiring and inspecting car parts with human-like dexterity. The analysis reveals that China now controls 63% of the global humanoid supply chain, leveraging its EV battery tech to build robots that can work 6-hour shifts. The era of "Humanoid Version 0.5", robots capable of precise, autonomous manufacturing tasks, is officially here.
-
-🔗 [Asia Growth Partners](https://asiagrowthpartners.com/insight/humanoid-robots-in-2025-powering-the-next-industrial-evolution/a72) • 2h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 19h ago
+Bloomberg • 20h ago
 
 ---
 
@@ -140,11 +140,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdf-cGhpAnvKUxBZycmGqrMYf0dbAOKiAZ0302ZOVkz77-HRunx8ulX&gaa_ts=696a3704&gaa_sig=XSRHqXRN9NhaYJiEaVZKOSzueLwcoF4Xq6nWn9527oz-7IIcdl161733oW2cJHcrzSVA8mLo1qMtF8TUF0JnOA%3D%3D)**
 
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 2d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -152,7 +150,7 @@ The Robot Report • 2d ago
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
-Nikkei Asia • 18h ago
+Nikkei Asia • 19h ago
 
 ---
 
@@ -164,21 +162,25 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqc2NPZag8C3dCJYKHtZxybqu0SbD3ba_P2da6Zq-eD6CB7KecJ2msHt&gaa_ts=696a1b6b&gaa_sig=otE7TACQWNDpMapeVKP9ihyTkPBs6B7WhocxWGD_Hs3npij4FTIYuW-tQ-uqg2kgdFoqaLJrJiqPax5EI8Vq-A%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
-
-Reuters • 3d ago
-
----
-
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 1d ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 2d ago
+
+---
+
+**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
+
+Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
+
+Game Developer • 18h ago
 
 ---
 
@@ -230,7 +232,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 8K • 💬 15 • ⏱️ 6:37 • 18h ago
+👁️ 8K • 💬 15 • ⏱️ 6:37 • 19h ago
 
 ---
 
