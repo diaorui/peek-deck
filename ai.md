@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T21:22:32.003817+00:00'
+updated: '2026-01-16T21:43:37.385121+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 21:22 UTC  
+**Last Updated:** January 16, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 1h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 2h ago
 
 ---
 
@@ -79,7 +79,7 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack. Dataset (open source) on GitHub.
 
-17h ago
+18h ago
 
 ---
 
@@ -135,13 +135,13 @@ BBC • 1d ago
 
 **[Venture funding to SaaS startups pops 76%](https://www.axios.com/pro/enterprise-software-deals/2026/01/16/venture-funding-saas-startup-ai-2025)**
 
-Axios • 55m ago
+Axios • 1h ago
 
 ---
 
 **[Actors fight back as AI deepfakes become scarily accurate](https://www.fastcompany.com/91476039/actors-fight-back-as-ai-deepfakes-become-scarily-accurate)**
 
-Fast Company • 48m ago
+Fast Company • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CBS News • 6h ago
 
 **[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 339 • 💬 258 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 340 • 💬 258 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -209,7 +209,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 261 • 💬 171 • 2d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 262 • 💬 171 • 2d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -218,15 +218,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 248 • 💬 205 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
-
----
-
-**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
-
-Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
-
-⬆️ 232 • 💬 126 • 3d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 249 • 💬 205 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -242,13 +234,13 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 169 • 💬 95 • 21h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 171 • 💬 95 • 22h ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
 **[Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)](https://news.ycombinator.com/item?id=46620358)**
 
-⬆️ 121 • 💬 22 • 2d ago
+⬆️ 122 • 💬 22 • 2d ago
 
 ---
 
@@ -265,7 +257,13 @@ Yarn Spinner doesn’t use the technology that’s currently being called AI. We
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 85 • 💬 16 • 21h ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 86 • 💬 16 • 21h ago • [GitHub](https://github.com/bolt-foundry/gambit)
+
+---
+
+**[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
+
+⬆️ 83 • 💬 139 • 11h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -289,7 +287,7 @@ Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it w
 
 📺 AI Revolution
 
-👁️ 19K • 👍 611 • 💬 56 • ⏱️ 15:44 • 21h ago
+👁️ 19K • 👍 611 • 💬 56 • ⏱️ 15:44 • 22h ago
 
 ---
 
@@ -309,7 +307,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 13K • 👍 384 • 💬 313 • ⏱️ 9:43 • 13h ago
+👁️ 13K • 👍 384 • 💬 313 • ⏱️ 9:43 • 14h ago
 
 ---
 
@@ -636,7 +634,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.8k • 🔱 1.2k • 4h ago
+⭐ 8.8k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -646,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.8k • 🔱 312 • 2h ago
+⭐ 6.8k • 🔱 312 • 3h ago
 
 ---
 
@@ -696,7 +694,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 242 • 16h ago
+⭐ 2.2k • 🔱 242 • 17h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T21:22:32.018596+00:00'
+updated: '2026-01-16T21:43:37.399607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 21:22 UTC  
+**Last Updated:** January 16, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,282.79
+### $3,292.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +6.3%  
-**30d:** +16.3%  
-**90d:** -17.6%  
-**1y:** -5.5%  
+**24h:** -0.5%  
+**7d:** +6.7%  
+**30d:** +16.8%  
+**90d:** -17.3%  
+**1y:** -5.1%  
 
 ---
 
@@ -67,6 +67,14 @@ No max supply
 ---
 
 ## Reddit: r/ethereum
+
+**[2026: the year that we take back lost ground](https://www.reddit.com/r/ethereum/comments/1qer9cy/2026_the_year_that_we_take_back_lost_ground/)**
+
+2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
+
+1h ago
+
+---
 
 **[Daily General Discussion January 16, 2026](https://www.reddit.com/r/ethereum/comments/1qe818u/daily_general_discussion_january_16_2026/)**
 
@@ -94,7 +102,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -126,7 +134,7 @@ I have 50 ETH. Is this a solid amount to hold over the next 10 years? I love Eth
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 18h ago
+🔗 [totems.fun](https://totems.fun/) • 19h ago
 
 ---
 
@@ -135,12 +143,6 @@ The modular token standard.
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
-
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 1d ago
 
 ---
 
@@ -156,12 +158,6 @@ The Motley Fool • 10h ago
 
 ---
 
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
-
-CoinDesk • 2h ago
-
----
-
 **[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
@@ -170,17 +166,47 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
+**[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
 
-CCN.com • 10h ago
+What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://finance.yahoo.com/news/bitcoin-ethereum-waver-why-did-161735767.html)**
+**[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
 
-Bitcoin, Ethereum, and the broader crypto market cooled after a busy week on Capitol Hill
+CCN.com • 11h ago
 
-Yahoo Finance • 5h ago
+---
+
+**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Etherealize co-founders: ETH will hit $15,000 by 2027](https://www.coindesk.com/markets/2026/01/16/etherealize-co-founders-eth-will-hit-usd15-000-by-2027)**
+
+Etherealize co-founders predict $15,000 ETH by end of 2026
+
+CoinDesk • 6m ago
+
+---
+
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
+
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -192,33 +218,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
-
-The Block • 2d ago
-
----
-
-**[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
-
-Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
-
-Nasdaq • 1d ago
-
----
-
 **[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
 24/7 Wall St. • 1d ago
-
----
-
-**[Ethereum (ETH): First Enormous Breakthrough Since May 2025](https://www.tradingview.com/news/u_today:baceb161b094b:0-ethereum-eth-first-enormous-breakthrough-since-may-2025/)**
-
-Ethereum is at last regaining and maintaining above the 200-day EMA, something it has been unable to do for the majority of the previous eight months. Technically speaking, this is not a cosmetic detail. The 200 EMA has served as a boundary between long-term trends and dead-cat bounces for ETH.Long…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -242,7 +246,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 154 • 💬 299 • ⏱️ 15:03 • 15h ago
+👁️ 4K • 👍 154 • 💬 299 • ⏱️ 15:03 • 16h ago
 
 ---
 

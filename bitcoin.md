@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T21:22:32.012475+00:00'
+updated: '2026-01-16T21:43:37.393602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 21:22 UTC  
+**Last Updated:** January 16, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,023.83
+### $95,374.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +5.1%  
-**30d:** +11.4%  
-**90d:** -12.4%  
-**1y:** -8.7%  
+**24h:** -0.0%  
+**7d:** +5.7%  
+**30d:** +12.0%  
+**90d:** -11.9%  
+**1y:** -8.2%  
 
 ---
 
@@ -77,23 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[🚨 BREAKING: Russia finalizes draft bill to legalize crypto trading.](https://www.reddit.com/r/Bitcoin/comments/1qen83f/breaking_russia_finalizes_draft_bill_to_legalize/)**
-
-The bill is now in its final draft stage, marking a major step towards official legalization and regulation of cryptocurrency trading within the country. #CryptoNews #Russia #Bitcoin #Blockchain #Regulation
-
-3h ago
-
----
-
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +93,7 @@ The bill is now in its final draft stage, marking a major step towards official 
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +101,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-9h ago
+10h ago
 
 ---
 
@@ -127,12 +119,6 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 ---
 
-**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
-
-1d ago
-
----
-
 **[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
 5h ago
@@ -144,6 +130,18 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
 4h ago
+
+---
+
+**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
+
+1d ago
+
+---
+
+**[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
+
+7h ago
 
 ---
 
@@ -173,7 +171,7 @@ CoinDesk • 8h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -203,7 +201,7 @@ Bitcoin Magazine • 1h ago
 
 U.S.-listed bitcoin miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -219,7 +217,7 @@ Mother Jones • 5h ago
 
 Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -239,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 6h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -311,7 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 129 • ⏱️ 43:25 • 5h ago
+👁️ 17K • 👍 1K • 💬 129 • ⏱️ 43:25 • 6h ago
 
 ---
 
@@ -331,7 +329,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 218 • ⏱️ 11:32 • 21h ago
+👁️ 60K • 👍 3K • 💬 218 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -341,7 +339,7 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 1K • 💬 130 • ⏱️ 16:02 • 3h ago
+👁️ 12K • 👍 1K • 💬 130 • ⏱️ 16:02 • 4h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T21:22:32.021881+00:00'
+updated: '2026-01-16T21:43:37.402802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 21:22 UTC  
+**Last Updated:** January 16, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
+
+10h ago
+
+---
+
 **[Day 116 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qeb06m/day_116_of_building_asimov_an_opensource_humanoid/)**
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
 12h ago
-
----
-
-**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
-
-9h ago
 
 ---
 
@@ -64,11 +64,27 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ---
 
+**[ROS News for the Week of January 12th, 2026](https://www.reddit.com/r/robotics/comments/1qeqy65/ros_news_for_the_week_of_january_12th_2026/)**
+
+ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 1h ago
+
+---
+
 **[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
 🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 7h ago
+
+---
+
+**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
+
+As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
+
+1d ago
 
 ---
 
@@ -80,33 +96,17 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 ---
 
-**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
+**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
 
-As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
+Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
 
-23h ago
+4h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
 19h ago
-
----
-
-**[ROS News for the Week of January 12th, 2026](https://www.reddit.com/r/robotics/comments/1qeqy65/ros_news_for_the_week_of_january_12th_2026/)**
-
-ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 1h ago
-
----
-
-**[They turned G1 into Bruce Lee 😂🤖](https://www.reddit.com/r/robotics/comments/1qemgzc/they_turned_g1_into_bruce_lee/)**
-
-Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
-
-3h ago
 
 ---
 
@@ -216,7 +216,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 12K • 👍 170 • 💬 3 • ⏱️ 0:23 • 6h ago
+👁️ 12K • 👍 170 • 💬 3 • ⏱️ 0:23 • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 883 • 👍 20 • 💬 3 • ⏱️ 0:43 • 5h ago
+👁️ 883 • 👍 20 • 💬 3 • ⏱️ 0:43 • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ BEST OF CES 2026 ▻Checkout iGarden Swim Jet X, M1 Pro Pool Cleaner & Lawn Mowe
 
 📺 XEETECHCARE
 
-👁️ 1K • 👍 76 • 💬 6 • ⏱️ 13:33 • 3h ago
+👁️ 1K • 👍 76 • 💬 6 • ⏱️ 13:33 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 236K • 👍 15K • 💬 3K • ⏱️ 5:12 • 2d ago
+👁️ 236K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 
