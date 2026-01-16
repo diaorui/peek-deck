@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T17:48:21.267579+00:00'
+updated: '2026-01-16T18:35:33.604964+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 17:48 UTC  
+**Last Updated:** January 16, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-7h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-11h ago
+12h ago
 
 ---
 
@@ -76,7 +76,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-20h ago
+21h ago
 
 ---
 
@@ -84,7 +84,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 3h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 4h ago
 
 ---
 
@@ -92,13 +92,13 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 Recorded this at CES, naturally I had to add sound effects lol You can see the full video here https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY
 
-14m ago
+1h ago
 
 ---
 
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Recorded this at CES, naturally I had to add sound effects lol You can see the f
 
 Worth it for $5K? Maybe but it’s hard to say, so far it’s like a cheaper version of G1 in quality. Maybe it’s because it’s a prototype but I’m hoping to see more advancement in the future
 
-🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 19m ago
+🔗 [youtu.be](https://youtu.be/M1vywxBWevo?si=m27ivT4nqkR15vVY) • 1h ago
 
 ---
 
@@ -120,14 +120,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 2d ago
-
----
-
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
 Bloomberg.com • 2d ago
@@ -138,7 +130,7 @@ Bloomberg.com • 2d ago
 
 Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
 
-Crunchbase News • 1d ago
+Crunchbase News • 2d ago
 
 ---
 
@@ -147,6 +139,14 @@ Crunchbase News • 1d ago
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
 TechCrunch • 2d ago
+
+---
+
+**[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
+
+The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
+
+The Robot Report • 20m ago
 
 ---
 
@@ -166,15 +166,15 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfo4SPJHu0-XZh8RayI_InOG7obldsL1TuYcMXT0TFqUrOjWcg92yn2&gaa_ts=696a77f2&gaa_sig=Jn183OKNZ20PzjjeWvHesuzEqEhuZ884kodw458ZTWYvwKHnvZwixIrwJZ28UWud0wl8JbGTD7VFdMgXwU5l1g%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 2d ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeHbAu1HfWFeAqpjoyCRy7htErfgbGYI1flKAxGx8yWatgJW34Xh3ou&gaa_ts=696a8857&gaa_sig=5FI2AjtDnG8516K8kvfYK8wR_4HPSzYns8AVaYEvsNnXrSuYGwjaKYL8mmTN9KyRmrj3ITXI3nGOBJ8yrEOU2w%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 92K • 👍 4K • 💬 285 • ⏱️ 17:36 • 1d ago
+👁️ 93K • 👍 4K • 💬 293 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -206,17 +206,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 25K • 💬 16 • ⏱️ 6:37 • 1d ago
-
----
-
-**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
-
-The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
-
-📺 Kim Java
-
-👁️ 423 • 👍 8 • 💬 1 • ⏱️ 0:43 • 2h ago
+👁️ 26K • 💬 16 • ⏱️ 6:37 • 1d ago
 
 ---
 
@@ -226,7 +216,17 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 160K • 👍 2K • 💬 398 • ⏱️ 11:46 • 5d ago
+👁️ 160K • 👍 2K • 💬 399 • ⏱️ 11:46 • 5d ago
+
+---
+
+**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
+
+The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
+
+📺 Kim Java
+
+👁️ 669 • 👍 14 • 💬 1 • ⏱️ 0:43 • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 4K • 👍 57 • ⏱️ 0:23 • 3h ago
+👁️ 8K • 👍 150 • 💬 1 • ⏱️ 0:23 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 15K • 👍 112 • 💬 10 • ⏱️ 0:12 • 5d ago
+👁️ 15K • 👍 114 • 💬 10 • ⏱️ 0:12 • 5d ago
 
 ---
 
@@ -256,7 +256,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 449K • 👍 13K • 💬 787 • ⏱️ 17:09 • 4d ago
+👁️ 450K • 👍 13K • 💬 787 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -266,15 +266,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 98K • 👍 1K • 💬 172 • ⏱️ 10:48 • 6d ago
-
----
-
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
-
-📺 Chris Wabs
-
-👁️ 306K • 👍 2K • 💬 950 • ⏱️ 0:16 • 5d ago
+👁️ 98K • 👍 1K • 💬 173 • ⏱️ 10:48 • 6d ago
 
 ---
 
@@ -284,7 +276,15 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 235K • 👍 15K • 💬 3K • ⏱️ 5:12 • 2d ago
+👁️ 236K • 👍 15K • 💬 3K • ⏱️ 5:12 • 2d ago
+
+---
+
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 310K • 👍 2K • 💬 962 • ⏱️ 0:16 • 5d ago
 
 ---
 

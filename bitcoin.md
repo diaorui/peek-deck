@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T17:48:21.258328+00:00'
+updated: '2026-01-16T18:35:33.595566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 17:48 UTC  
+**Last Updated:** January 16, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1894.99B
+**Market Cap:** $1900.59B
 Rank #1
 
-**Circulating Supply:** 19,976,612 BTC
+**Circulating Supply:** 19,976,659 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.8%
+-24.5%
 
 **All-Time Low:** $67.81
-+139799.7%
++140187.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-6h ago
+7h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,13 +113,13 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 **[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 It’s gotten a lot harder to stack a million satoshis since I started investing so I wanted to celebrate 6 mil.
 
-2h ago
+3h ago
 
 ---
 
@@ -149,17 +149,31 @@ It’s gotten a lot harder to stack a million satoshis since I started investing
 
 ## Google News: "bitcoin"
 
+**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
 
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
+
+Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
+
+CoinDesk • 5h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -169,33 +183,11 @@ The Block • 4h ago
 
 ---
 
-**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
-
-Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
-
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqdZSsUwjAxkY5zd_TbtGUe_a-CZm3hdMLNs9eZ_yiB1IBg8G0MaQEL0&gaa_ts=696a77f0&gaa_sig=TY0Moal1Okmr9Mgc0BBbJvawBskcqJCScj8OrRculp61isU50s3Mrw7mch3oqYAIMHeLrwau6qTOwZWYi6oFGA%3D%3D)**
-
-MarketWatch • 35m ago
-
----
-
-**[Analysts Warn Bitcoin Could Drop to $86K as Bearish Wedge Forms](https://finance.yahoo.com/news/analysts-warn-bitcoin-could-drop-163045431.html)**
-
-Crypto analyst Don Wedge has warned that despite recent Bitcoin gains, a bearish rising wedge pattern is forming near the $94,000 level, which, if pressured further, could trigger a decline back to the $86,000 support zone.According to the rising wedge chart shared by Don and interpreted by the market intelligence ...
-
-Yahoo Finance • 1h ago
-
----
-
 **[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 1h ago
+Mother Jones • 2h ago
 
 ---
 
@@ -203,7 +195,15 @@ Mother Jones • 1h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
+
+---
+
+**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.nasdaq.com/articles/how-much-will-1-bitcoin-be-worth-2026)**
+
+Key PointsInstitutional buying could continue to drive Bitcoin upwards.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -273,7 +273,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 1 • 💬 0 • 39m ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 1 • 💬 0 • 1h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -293,7 +293,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 1 • 11h ago
+⬆️ 2 • 💬 1 • 12h ago
 
 ---
 
@@ -301,23 +301,33 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 5K • 👍 141 • 💬 69 • ⏱️ 5:23 • 18h ago
-
----
-
 **[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
 
 LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 218 • ⏱️ 11:32 • 18h ago
+👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 18h ago
+
+---
+
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
+
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
+
+📺 What Bitcoin Did
+
+👁️ 7K • 👍 553 • 💬 159 • ⏱️ 1:13:07 • 7h ago
+
+---
+
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+
+📺 Yahoo Finance
+
+👁️ 6K • 👍 161 • 💬 84 • ⏱️ 5:23 • 19h ago
 
 ---
 
@@ -327,7 +337,7 @@ Bitcoin just broke $97K but that's not the real story. Washington just handed yo
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 3K • 💬 197 • ⏱️ 21:24 • 17h ago
+👁️ 30K • 👍 3K • 💬 203 • ⏱️ 21:24 • 18h ago
 
 ---
 
@@ -337,17 +347,17 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 102K • 👍 1K • 💬 460 • ⏱️ 5:15 • 23h ago
+👁️ 106K • 👍 1K • 💬 463 • ⏱️ 5:15 • 1d ago
 
 ---
 
-**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
+**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
 
-📺 CryptosRUs
+📺 Fox Business
 
-👁️ 8K • 👍 734 • 💬 151 • ⏱️ 43:25 • 2h ago
+👁️ 20K • 👍 426 • 💬 26 • ⏱️ 1:06 • 18h ago
 
 ---
 
@@ -357,7 +367,17 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 141 • ⏱️ 18:18 • 12h ago
+👁️ 52K • 👍 4K • 💬 156 • ⏱️ 18:18 • 13h ago
+
+---
+
+**[Bitcoin Holders… Brace Yourself](https://www.youtube.com/watch?v=t8q97oIlp5U)**
+
+Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 651 • 💬 84 • ⏱️ 13:46 • 7h ago
 
 ---
 
@@ -367,7 +387,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 146 • ⏱️ 14:15 • 19h ago
+👁️ 40K • 👍 2K • 💬 264 • ⏱️ 14:15 • 20h ago
 
 ---
 
@@ -377,27 +397,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 984 • 💬 319 • ⏱️ 16:02 • 1d ago
-
----
-
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
-
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
-
-📺 Paul Barron Network
-
-👁️ 77K • 👍 5K • 💬 537 • ⏱️ 14:43 • 21h ago
-
----
-
-**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
-
-Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 408 • 💬 122 • ⏱️ 1:31:47 • 21h ago
+👁️ 17K • 👍 1K • 💬 309 • ⏱️ 16:02 • 1d ago
 
 ---
 

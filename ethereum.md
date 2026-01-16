@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T17:48:21.264371+00:00'
+updated: '2026-01-16T18:35:33.601686+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 17:48 UTC  
+**Last Updated:** January 16, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $395.85B
+**Market Cap:** $396.11B
 Rank #2
 
 **Circulating Supply:** 120,694,613 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.7%
+-33.6%
 
 **All-Time Low:** $0.43
-+757497.9%
++758280.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-21h ago
+22h ago
 
 ---
 
@@ -110,7 +110,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 18h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 19h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Weekly Doots live stream is all about showcasing the best of the week from t
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ dlnews.com • 1d ago
 
 Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 22h ago
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 466 • 👍 59 • 💬 4 • ⏱️ 3:49 • 2h ago
+👁️ 887 • 👍 84 • 💬 5 • ⏱️ 3:49 • 3h ago
 
 ---
 
@@ -244,17 +244,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 140 • 💬 327 • ⏱️ 15:03 • 12h ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c7ZEQzT5W-E)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 253 • 💬 103 • ⏱️ 23:36 • 5h ago
+👁️ 4K • 👍 147 • 💬 320 • ⏱️ 15:03 • 13h ago
 
 ---
 
@@ -264,7 +254,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 255 • 👍 13 • 💬 35 • ⏱️ 5:32 • 7h ago
+👁️ 330 • 👍 14 • 💬 31 • ⏱️ 5:32 • 8h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=c7ZEQzT5W-E)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 278 • 💬 120 • ⏱️ 23:36 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 53 • 💬 108 • ⏱️ 6:39 • 1d ago
+👁️ 2K • 👍 55 • 💬 104 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -284,37 +284,17 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 193 • 💬 216 • ⏱️ 15:10 • 1d ago
+👁️ 5K • 👍 194 • 💬 210 • ⏱️ 15:10 • 1d ago
 
 ---
 
-**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=ClTFHktbMlY)**
+**[I’m Betting BIG on SOL &amp; ETH (Price Prediction)](https://www.youtube.com/watch?v=D55cK-8a3OQ)**
 
-OFFICIAL CLAIM LINK - https://eth.distrubutlon.com/ Ethereum Airdrop is LIVE Learn how to claim your $Eth from the official ...
+Ethereum and Solana are leading the 2026 crypto bull market. In this video, I break down the SOL vs ETH debate, analyzing the ...
 
-📺 World Liberty Financial
+📺 Discover Crypto
 
-👁️ 4K • 👍 19 • 💬 4 • ⏱️ 2:13 • 1d ago
-
----
-
-**[XRP and Ethereum ‼️ Don&#39;t Say I Didn&#39;t Tell You THIS](https://www.youtube.com/watch?v=TtDFQuU5XfQ)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 729 • 💬 46 • ⏱️ 13:25 • 20h ago
-
----
-
-**[ETH Is Massively Undervalued — A 5x Setup for 2026?](https://www.youtube.com/watch?v=k8OffaI-iFA)**
-
-Ethereum has underperformed this cycle — but are the fundamentals telling a different story? In this interview, Vivek Raman ...
-
-📺 Cointelegraph
-
-👁️ 7K • 👍 206 • 💬 16 • ⏱️ 20:12 • 2d ago
+👁️ 6K • 👍 273 • 💬 85 • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -324,7 +304,27 @@ Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, j
 
 📺 CNBC Television
 
-👁️ 89K • 👍 1K • 💬 310 • ⏱️ 7:04 • 1d ago
+👁️ 90K • 👍 1K • 💬 310 • ⏱️ 7:04 • 1d ago
+
+---
+
+**[ETHEREUM (ETH) | SOLANA (SOL) | SUI | Price Prediction: Higher Prices Ahead Soon ?!](https://www.youtube.com/watch?v=QVVPDju-GFE)**
+
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+
+📺 KG TRADING - Crypto Elliott Waves
+
+👁️ 75 • 👍 7 • 💬 13 • ⏱️ 12:17 • 7h ago
+
+---
+
+**[More people are using Ethereum for the first time, data shows](https://www.youtube.com/watch?v=dKCMCMZ7DY0)**
+
+The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and ...
+
+📺 Crypto World Daily
+
+👁️ 2 • 💬 1 • ⏱️ 4:21 • 1h ago
 
 ---
 

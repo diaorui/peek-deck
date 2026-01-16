@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-16T17:48:21.249879+00:00'
+updated: '2026-01-16T18:35:33.587019+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 16, 2026 at 17:48 UTC  
+**Last Updated:** January 16, 2026 at 18:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The parent company of X and Grok, xAI, launched a counter-suit saying she had violated its terms of service.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cp37erw0zwwo) • 45m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cp37erw0zwwo) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Sorry if it's the wrong sub to post it, I'm clueless on where to spread awareness on it It raises serious safety concerns but alas their subreddit was unreceptive saying things like "oh no we should ban knives too" I don't want to give exact instructions Turning on the voice mode with the +18 models and a bit of prompting, it answered me on how to make different explosives at home including how to make my own napalm from the ground up and how/where to use it most effectively when I asked playfully. I don't know if a model like this should just be open for anyone's use
 
-1h ago
+2h ago
 
 ---
 
@@ -121,9 +121,9 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 ## Google News: "ai"
 
-**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqcpYZ4JpoDNdDm5BG69s2rSPg552QCDriXgCJJYGRMPBHilqsP4o2Tw&gaa_ts=696a77ee&gaa_sig=GgtY8lzRrVydLh4TEmGm4vLr-XG4qdanjhuQONvbHD3-UskszvvP7vm_3rUGQ0tyA51S8RLFaEJkt1MWp0ubKw%3D%3D)**
+**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqeC12ysstzK43xZUIhzpm-B5PVJHTGyjOxn5VINxgAdSNOC1dWJCD9i&gaa_ts=696a8854&gaa_sig=bWcai3t421kRxtFjnJ8fnVEuuf_9nq3mpmZ7TZgCWbSkPBJ4JHOQxIe8dDcUB3zfhAvaiolflsrf_jRDiMA2Ng%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -133,61 +133,59 @@ The New York Times • 1d ago
 
 ---
 
-**[Partly AI-generated folk-pop hit barred from Sweden’s official charts](https://www.theguardian.com/technology/2026/jan/16/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts)**
+**[Micron stock climbs as CEO highlights AI demand for memory](https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html)**
 
-Song that topped Spotify in Sweden has been ruled ineligible after its creator was revealed to be partly AI-made
+"We need more and more memory to address that demand," Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.
 
-The Guardian • 38m ago
-
----
-
-**[Copper, AI & America’s Supply Risk](https://www.bloomberg.com/news/videos/2026-01-16/copper-ai-america-s-supply-risk-video)**
-
-Bloomberg.com • 56m ago
+CNBC • 39m ago
 
 ---
 
-**[Concerns mount over AI's influence on mental health](https://www.foxbusiness.com/video/6387819519112)**
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-FOX Business' Madison Alworth reports on the the impact of AI use on mental health as well as lawsuits against chatbot makers on 'Varney & Co.'
-
-Fox Business • 48m ago
+OpenAI • 34m ago
 
 ---
 
-**[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
+**[ChatGPT ads are coming, and they'll be influenced by your conversations](https://www.axios.com/2026/01/16/chatgpt-ai-openai-ads)**
 
-Axios • 1h ago
-
----
-
-**[China just 'months' behind U.S. AI models, Google DeepMind CEO says](https://www.cnbc.com/2026/01/16/google-deepmind-china-ai-demis-hassabis.html)**
-
-China's artificial intelligence models may be just "months" behind U.S. and Western capabilities, Demis Hassabis, the CEO of Google DeepMind told CNBC.
-
-CNBC • 18h ago
+Axios • 32m ago
 
 ---
 
-**[Matthew McConaughey trademarks iconic phrase to stop AI misuse](https://www.bbc.com/news/articles/cp87z6vexl3o)**
+**[ChatGPT Knows Your Health: The Embedding Of AI Into Your Daily Routine](https://www.forbes.com/sites/geruiwang/2026/01/16/chatgpt-knows-your-health-the-embedding-of-ai-into-your-daily-routine/)**
 
-The Oscar-winning actor has trademarked several phrases, including "Alright, alright, alright" from the cult classic film, Dazed and Confused.
+As OpenAI and Anthropic both launch healthcare modes, will AI make the public healthier?
 
-BBC • 23h ago
+Forbes • 2h ago
+
+---
+
+**[Song banned from Swedish charts for being AI creation](https://www.bbc.com/news/articles/cp829jey9z7o)**
+
+The creators behind the chart-topping song believe their creative process has been misunderstood.
+
+BBC • 22h ago
+
+---
+
+**[AI videos of child sexual abuse surged to record highs in 2025, new report finds](https://www.cbsnews.com/news/ai-generated-child-sexual-abuse-material-report/)**
+
+Analysts from the U.K.-based group the Internet Watch Foundation detected 3,440 AI videos of child sexual abuse last year, a 26,362% increase from 2024.
+
+CBS News • 3h ago
+
+---
+
+**[Trump Pushes for Emergency Power Auction to Support AI Boom](https://www.bloomberg.com/news/articles/2026-01-16/trump-pushes-for-emergency-power-auction-to-fuel-ai-boom)**
+
+Bloomberg.com • 27m ago
 
 ---
 
 **[‘Show me the money’ time for AI as political risks loom](https://www.politico.com/news/2026/01/16/ai-money-political-risk-00733145)**
 
-Politico • 1h ago
-
----
-
-**[Gemini introduces Personal Intelligence](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)**
-
-Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
-
-blog.google • 2d ago
+Politico • 2h ago
 
 ---
 
@@ -197,7 +195,7 @@ blog.google • 2d ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 944 • 💬 717 • 2d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 944 • 💬 717 • 3d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -276,13 +274,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 ## YouTube Videos: "ai"
 
-**[The #1 Ai Summit - Live With Alicia Lyttle!](https://www.youtube.com/watch?v=H6ZkSPrFB_4)**
+**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
 
-Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
+Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
 
-📺 Circle of Greatness with Nehemiah Davis
+📺 AI Revolution
 
-👁️ 2K • 👍 81 • 3h ago
+👁️ 18K • 👍 582 • 💬 55 • ⏱️ 15:44 • 19h ago
 
 ---
 
@@ -292,17 +290,7 @@ Fast food drive-thrus are officially entering the AI era — and some customers 
 
 📺 Lindey Glenn
 
-👁️ 98K • 👍 6K • 💬 1K • ⏱️ 20:29 • 1d ago
-
----
-
-**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
-
-Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 551 • 💬 54 • ⏱️ 15:44 • 18h ago
+👁️ 100K • 👍 7K • 💬 1K • ⏱️ 20:29 • 1d ago
 
 ---
 
@@ -312,37 +300,27 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 174 • ⏱️ 14:32 • 2d ago
+👁️ 56K • 👍 1K • 💬 175 • ⏱️ 14:32 • 2d ago
 
 ---
 
-**[This Viral AI Film Hack is Impressive](https://www.youtube.com/watch?v=kKcy_nQ1_90)**
+**[Future of &#39;AI doctors&#39;: Doctronic co-founders on the rise of AI prescriptions](https://www.youtube.com/watch?v=ZOX6ubU_Wq4)**
 
-Check out PJ's Trailer Here: https://curiousrefuge.com/ai-film-gallery/legend-of-zelda-ai-film-trailer Here is PJ's Breakdown: ...
+Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to discuss the implementation of AI in health care, ...
 
-📺 Curious Refuge
+📺 CNBC Television
 
-👁️ 6K • 👍 375 • 💬 22 • ⏱️ 14:19 • 20h ago
-
----
-
-**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
-
-A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
-
-📺 AI Explained
-
-👁️ 74K • 👍 3K • 💬 385 • ⏱️ 19:03 • 2d ago
+👁️ 1K • 👍 21 • 💬 8 • ⏱️ 7:53 • 4h ago
 
 ---
 
-**[AI Data Centers Destroying The Earth ](https://www.youtube.com/watch?v=IKzaUhzSISE)**
+**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
 
-Join Chadd for another episode of Truck Talk. https://3of7projectstore.com.
+Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
 
-📺 3 of 7 Project
+📺 The Young Turks
 
-👁️ 84K • 👍 6K • 💬 2K • ⏱️ 5:11 • 3d ago
+👁️ 11K • 👍 352 • 💬 283 • ⏱️ 9:43 • 11h ago
 
 ---
 
@@ -352,17 +330,17 @@ Shop Winter Savings: https://micro.center/9ee61b ▻Sign up for Micro Center's N
 
 📺 Gamer Meld
 
-👁️ 54K • 👍 2K • 💬 584 • ⏱️ 8:51 • 1d ago
+👁️ 54K • 👍 2K • 💬 585 • ⏱️ 8:51 • 1d ago
 
 ---
 
-**[They BANNED A.I. &quot;Music&quot; 👏👏👏](https://www.youtube.com/watch?v=v6XhCMcK-3M)**
+**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
 
-Common Bandcamp W #music #ai #bandcamp #spotify #siennarose.
+A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
 
-📺 fantano
+📺 AI Explained
 
-👁️ 58K • 👍 6K • 💬 258 • ⏱️ 0:55 • 1d ago
+👁️ 75K • 👍 3K • 💬 390 • ⏱️ 19:03 • 2d ago
 
 ---
 
@@ -372,7 +350,25 @@ AI analysis of the Baalbek Trilithon—three 800-ton limestone blocks forming th
 
 📺 Flash Discovery
 
-👁️ 50K • 👍 521 • 💬 128 • ⏱️ 26:31 • 1d ago
+👁️ 50K • 👍 523 • 💬 130 • ⏱️ 26:31 • 1d ago
+
+---
+
+**[They BANNED A.I. &quot;Music&quot; 👏👏👏](https://www.youtube.com/watch?v=v6XhCMcK-3M)**
+
+Common Bandcamp W #music #ai #bandcamp #spotify #siennarose.
+
+📺 fantano
+
+👁️ 59K • 👍 6K • 💬 261 • ⏱️ 0:55 • 1d ago
+
+---
+
+**[AI Robot Girlfriend: Future of Love?](https://www.youtube.com/watch?v=eQ88BIiMpss)**
+
+📺 Fantastic World
+
+👁️ 327K • 👍 2K • 💬 15 • ⏱️ 0:17 • 1d ago
 
 ---
 
@@ -388,7 +384,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 4,402 • ❤️ 741 • 1d ago
+⬇️ 4,402 • ❤️ 746 • 1d ago
 
 ---
 
@@ -400,7 +396,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 48,059 • ❤️ 697 • 9d ago
+⬇️ 48,059 • ❤️ 700 • 9d ago
 
 ---
 
@@ -412,7 +408,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,356,446 • ❤️ 1,081 • 1d ago
+⬇️ 1,356,446 • ❤️ 1,086 • 2d ago
 
 ---
 
@@ -436,7 +432,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 47,419 • ❤️ 291 • 1d ago
+⬇️ 47,419 • ❤️ 293 • 1d ago
 
 ---
 
@@ -448,7 +444,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 11,284 • ❤️ 230 • 1d ago
+⬇️ 11,284 • ❤️ 232 • 1d ago
 
 ---
 
@@ -458,7 +454,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 0 • ❤️ 219 • 1d ago
+⬇️ 0 • ❤️ 223 • 1d ago
 
 ---
 
@@ -470,19 +466,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 10,269 • ❤️ 258 • 10d ago
-
----
-
-**[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
-
-*Qwen*
-
-Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimensional vectors from text, images, and videos for tasks like retrieval and clustering. It supports over 30 languages and customizable embedding dimensions, enabling efficient cross-modal understanding and search.
-
-`image-to-text` `8.1B`
-
-⬇️ 36,543 • ❤️ 259 • 7d ago
+⬇️ 10,269 • ❤️ 260 • 10d ago
 
 ---
 
@@ -494,7 +478,19 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 772 • ❤️ 179 • 1d ago
+⬇️ 772 • ❤️ 189 • 1d ago
+
+---
+
+**[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
+
+*Qwen*
+
+Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimensional vectors from text, images, and videos for tasks like retrieval and clustering. It supports over 30 languages and customizable embedding dimensions, enabling efficient cross-modal understanding and search.
+
+`image-to-text` `8.1B`
+
+⬇️ 36,543 • ❤️ 260 • 7d ago
 
 ---
 
@@ -522,7 +518,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 135 • 💬 1 • ⭐ 125 • 1d ago
+▲ 137 • 💬 1 • ⭐ 125 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
 
@@ -534,7 +530,7 @@ Urban socio-semantic segmentation is achieved through a vision-language model fr
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,037 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,077 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -603,29 +599,29 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 ---
 
-**[Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348)**
-
-*Tu Hu, Ronghao Chen, Shuo Zhang et al. (12 authors)*
-
-🏢 QuantaAlpha
-
-Controlled Self-Evolution method improves code generation through diversified initialization, feedback-guided genetic evolution, and hierarchical memory to enhance exploration efficiency and solution quality.
-
-▲ 103 • 💬 4 • ⭐ 94 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.07348) • [💻 code](https://github.com/QuantaAlpha/EvoControl)
-
----
-
 **[MediaPipe: A Framework for Building Perception Pipelines](https://huggingface.co/papers/1906.08172)**
 
 *Camillo Lugaresi, Jiuqiang Tang, Hadon Nash et al. (14 authors)*
 
 MediaPipe framework facilitates the development of perception applications by providing tools for combining components, prototyping, and measuring performance across platforms.
 
-▲ 2 • 💬 0 • ⭐ 33,270 • 80mo ago
+▲ 2 • 💬 0 • ⭐ 33,297 • 80mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/1906.08172) • [💻 code](https://github.com/google-ai-edge/mediapipe)
+
+---
+
+**[STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668)**
+
+*Ailin Huang, Chengyuan Yao, Chunrui Han et al. (93 authors)*
+
+🏢 StepFun
+
+STEP3-VL-10B achieves superior multimodal performance through unified pre-training with a language-aligned Perception Encoder and Qwen3-8B decoder, combined with scaled post-training and Parallel Coordinated Reasoning for efficient large-scale visual reasoning.
+
+▲ 129 • 💬 3 • ⭐ 137 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.09668) • [💻 code](https://github.com/stepfun-ai/Step3-VL-10B) • [🔗 project](https://stepfun-ai.github.io/Step3-VL-10B)
 
 ---
 
@@ -639,7 +635,7 @@ MediaPipe framework facilitates the development of perception applications by pr
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.8k • 🔱 1.2k • 1h ago
+⭐ 8.8k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -649,7 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.7k • 🔱 309 • 2d ago
+⭐ 6.8k • 🔱 311 • 7m ago
 
 ---
 
@@ -659,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 219 • 1d ago
+⭐ 5.0k • 🔱 222 • 1h ago
 
 ---
 
@@ -669,7 +665,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 583 • 8d ago
+⭐ 4.4k • 🔱 588 • 8d ago
 
 ---
 
@@ -679,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 161 • 1d ago
+⭐ 2.7k • 🔱 162 • 1d ago
 
 ---
 
@@ -689,7 +685,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.2k • 🔱 2.1k • 3h ago
+⭐ 2.2k • 🔱 2.1k • 4h ago
 
 ---
 
@@ -699,7 +695,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 242 • 13h ago
+⭐ 2.2k • 🔱 242 • 14h ago
 
 ---
 
@@ -709,7 +705,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 1.7k • 🔱 362 • 5h ago
+⭐ 1.8k • 🔱 376 • 5h ago
 
 ---
 
@@ -719,7 +715,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 3h ago
+⭐ 1.7k • 🔱 134 • 4h ago
 
 ---
 
@@ -729,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 217 • 6h ago
+⭐ 1.5k • 🔱 220 • 7h ago
 
 ---
 
