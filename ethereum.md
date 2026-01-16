@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T23:21:15.855268+00:00'
+updated: '2026-01-16T23:42:32.176597+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 23:21 UTC  
+**Last Updated:** January 16, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -126,7 +126,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 20h ago
+🔗 [totems.fun](https://totems.fun/) • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 **[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
 
-CCN.com • 12h ago
+CCN.com • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ CCN.com • 12h ago
 
 Etherealize co-founders predict $15,000 ETH by end of 2026
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ CoinDesk • 1h ago
 
 As Solana’s on chain activity continues to accelerate, a question is increasingly surfacing among investors. Can Solana eventually be valued alongside networks like Ethereum, or is the gap structural rather than temporary? During a recent interview with TheStreet Roundtable at Solana Breakpoint, ...
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -252,7 +252,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 Stock Moe
 
-👁️ 1K • 👍 207 • 💬 20 • ⏱️ 14:06 • 1h ago
+👁️ 1K • 👍 207 • 💬 20 • ⏱️ 14:06 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 156 • 💬 312 • ⏱️ 15:03 • 17h ago
+👁️ 4K • 👍 156 • 💬 312 • ⏱️ 15:03 • 18h ago
 
 ---
 
@@ -292,7 +292,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 23h ago
+👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 1d ago
 
 ---
 

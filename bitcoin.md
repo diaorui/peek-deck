@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T23:21:15.849211+00:00'
+updated: '2026-01-16T23:42:32.170659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 23:21 UTC  
+**Last Updated:** January 16, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,25 +81,25 @@ Rank #1
 
 War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
 
-11h ago
+12h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-11h ago
+12h ago
 
 ---
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 9h ago
+The New York Times • 8h ago
 
 ---
 
@@ -171,15 +171,21 @@ CoinDesk • 10h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
-**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
+**[Bitcoin price may hit $300,000 to $1.5 million by 2030, Ark Invest Says](https://www.coindesk.com/markets/2026/01/15/lower-volatility-bigger-allocations-ark-invest-sees-bitcoin-entering-its-next-chapter)**
 
-Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
+With ETFs and corporate treasuries absorbing more bitcoin than expected, the market is entering a more institutional, lower-volatility era.
 
-Yahoo Finance • 2d ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+
+The Block • 3h ago
 
 ---
 
@@ -191,22 +197,6 @@ Mother Jones • 7h ago
 
 ---
 
-**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
-
-The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
-
-The Motley Fool • 13h ago
-
----
-
-**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
-
-Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
-
-Seeking Alpha • 4h ago
-
----
-
 **[Despite the Dip, Bitcoin Just Flashed Its Most Reliable Bullish Signal: Analysis](https://decrypt.co/354918/bitcoin-bullish-signal-golden-cross-price-analysis)**
 
 The price of Bitcoin is down today, but BTC also just flashed its most-watched bullish signal. Is a recovery rally on the way?
@@ -215,9 +205,17 @@ Decrypt • 5h ago
 
 ---
 
+**[West Virginia SB143 Would Allow 10% Bitcoin Reserve](https://bitbo.io/news/west-virginia-sb143-bitcoin-reserve/)**
+
+West Virginia’s SB143 would let the state treasury allocate up to 10% of public funds to bitcoin and gold, while limiting eligible digital assets to those above a $750 billion average market cap and adding custody and staking provisions.
+
+Bitbo • 13h ago
+
+---
+
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -237,7 +235,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 7h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -309,7 +307,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 23h ago
+👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -339,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 103 • ⏱️ 43:25 • 7h ago
+👁️ 19K • 👍 1K • 💬 103 • ⏱️ 43:25 • 8h ago
 
 ---
 

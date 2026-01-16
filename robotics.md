@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T23:21:15.858505+00:00'
+updated: '2026-01-16T23:42:32.179768+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 23:21 UTC  
+**Last Updated:** January 16, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-11h ago
+12h ago
 
 ---
 
@@ -118,49 +118,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 3d ago
-
----
-
-**[CES Top 12 Companies Redefining Personalization With Web3, AI, Robots](https://www.forbes.com/sites/digital-assets/2026/01/16/ces-top-12-companies-redefining-personalization-with-web3-ai-robots/)**
-
-At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.
-
-Forbes • 1h ago
-
----
-
-**[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
-
-The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
-
-The Robot Report • 5h ago
-
----
-
-**[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
-
-US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
-
-Nikkei Asia • 1d ago
-
----
-
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
 Bloomberg.com • 2d ago
-
----
-
-**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
-
-Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
-
-Crunchbase News • 2d ago
 
 ---
 
@@ -172,6 +132,46 @@ TechCrunch • 2d ago
 
 ---
 
+**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+
+Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+
+Crunchbase News • 2d ago
+
+---
+
+**[Lip-syncing robot watches your face to speak like you](https://newatlas.com/robotics/lip-syncing-robot/)**
+
+When it comes to ultra-humanlike Westworld-style robots, one of their most defining features are lips that move in perfect sync with their spoken words. A new robot not only sports that feature, but it can actually train itself to speak like a person.
+
+New Atlas • 4h ago
+
+---
+
+**[CES Top 12 Companies Redefining Personalization With Web3, AI, Robots](https://www.forbes.com/sites/digital-assets/2026/01/16/ces-top-12-companies-redefining-personalization-with-web3-ai-robots/)**
+
+At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.
+
+Forbes • 1h ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 3d ago
+
+---
+
+**[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
+
+US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
+
+Nikkei Asia • 1d ago
+
+---
+
 **[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
@@ -180,9 +180,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfQ9c4cFZrz1KNeNPmQBzLdigpymyaG_5CQsQYtS5qmiv7NEuqamJ3c&gaa_ts=696ad055&gaa_sig=MQ3TwIXG9-WIkNVJWOuVpbr-eakck96GynxDSiiFIquDRDSvslzZ-PwdCAF96QJD01UNAqlcv4cEWDXuymQZ-g%3D%3D)**
 
-GeekWire • 2d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 1K • 👍 25 • 💬 3 • ⏱️ 0:43 • 7h ago
+👁️ 1K • 👍 25 • 💬 3 • ⏱️ 0:43 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BEST OF CES 2026 ▻Checkout iGarden Swim Jet X, M1 Pro Pool Cleaner & Lawn Mowe
 
 📺 XEETECHCARE
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 13:33 • 5h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 13:33 • 6h ago
 
 ---
 
