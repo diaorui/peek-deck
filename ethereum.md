@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T08:32:10.402286+00:00'
+updated: '2026-01-16T09:28:54.335998+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 08:32 UTC  
+**Last Updated:** January 16, 2026 at 09:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +7.0%  
-**30d:** +17.1%  
-**90d:** -17.0%  
-**1y:** -4.9%  
+**24h:** -1.5%  
+**7d:** +7.4%  
+**30d:** +17.5%  
+**90d:** -16.8%  
+**1y:** -4.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.74B
+**Market Cap:** $399.22B
 Rank #2
 
 **Circulating Supply:** 120,694,613 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.0%
+-33.1%
 
 **All-Time Low:** $0.43
-+764916.3%
++763974.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 5h ago
+🔗 [totems.fun](https://totems.fun/) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 9h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 10h ago
 
 ---
 
@@ -150,19 +150,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://finance.yahoo.com/news/tom-lee-ethereum-supercycle-call-152502988.html)**
+**[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
 
-Ethereum (CRYPTO: ETH) enters 2026 under intense institutional spotlight, and Tom Lee believes a supercycle is unfolding. The Fundstrat co-founder and Bitmine chairman has made increasingly aggressive Ethereum price predictions, ranging from $7,000-$9,000 near-term to as high as $60,000 over the long haul. Lee’s firm recently added $88 million in ETH at roughly $3,200 per ... Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns
+What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
+**[The biggest ethereum treasury in the world just made a $200 million bet on MrBeast's DeFi ambitions](https://www.businessinsider.com/mrbeast-bitmine-immersion-investment-youtube-jimmy-donaldson-crypto-tom-lee-2026-1)**
 
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
+Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
 
-Yahoo Finance • 15h ago
+Business Insider • 16h ago
 
 ---
 
@@ -178,7 +178,15 @@ Seeking Alpha • 1d ago
 
 The main drivers of the network’s transaction growth comes from increased stablecoin usage....
 
-Sherwood News • 12h ago
+Sherwood News • 13h ago
+
+---
+
+**[Ethereum Sees Surge in New Users as Activity Retention Doubles: Glassnode](https://finance.yahoo.com/news/ethereum-sees-surge-users-activity-073016221.html)**
+
+Ethereum is seeing a sharp rise in new users, with on-chain data showing that activity retention has nearly doubled over the past month, according to analytics firm Glassnode. Key Takeaways: Ethereum is seeing a surge of new users, with activity retention and new active addresses nearly doubling in the past ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,15 +194,7 @@ Sherwood News • 12h ago
 
 The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
-CoinDesk • 2h ago
-
----
-
-**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
-
-Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
-
-Yahoo Finance • 13h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 13h ago
 
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-dlnews.com • 22h ago
+dlnews.com • 23h ago
 
 ---
 
@@ -218,11 +218,11 @@ The Block • 1d ago
 
 ---
 
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+**[Analyst Says It’s Time For Ethereum’s ‘Big Test’ – Is ETH Season Loading?](https://www.tradingview.com/news/newsbtc:2fb330dfb094b:0-analyst-says-it-s-time-for-ethereum-s-big-test-is-eth-season-loading/)**
 
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming.Ethereum Challenges Key Resis…
 
-24/7 Wall St. • 18h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 51 • 💬 118 • ⏱️ 6:39 • 22h ago
+👁️ 1K • 👍 50 • 💬 115 • ⏱️ 6:39 • 23h ago
 
 ---
 
@@ -246,7 +246,17 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 192 • 💬 210 • ⏱️ 15:10 • 1d ago
+👁️ 5K • 👍 193 • 💬 225 • ⏱️ 15:10 • 1d ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 1K • 👍 81 • 💬 274 • ⏱️ 15:03 • 3h ago
 
 ---
 
@@ -256,7 +266,7 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 17 • 💬 4 • ⏱️ 2:13 • 18h ago
+👁️ 4K • 👍 25 • 💬 4 • ⏱️ 2:13 • 19h ago
 
 ---
 
@@ -266,7 +276,7 @@ Tom Lee, Bitmine chairman and Fundstrat managing partner and head of research, j
 
 📺 CNBC Television
 
-👁️ 80K • 👍 1K • 💬 287 • ⏱️ 7:04 • 19h ago
+👁️ 83K • 👍 1K • 💬 295 • ⏱️ 7:04 • 20h ago
 
 ---
 
@@ -276,17 +286,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 625 • 💬 27 • ⏱️ 17:37 • 2d ago
-
----
-
-**[Bitcoin at a Breaking Point… This Move Decides EVERYTHING. BTC/ETH/ALTS ANALYSIS](https://www.youtube.com/watch?v=ytINQoK8LJg)**
-
-Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
-
-📺 FREEDOM TRADING ACADEMY
-
-👁️ 116 • 👍 11 • 💬 1 • ⏱️ 17:14 • 4h ago
+👁️ 18K • 👍 626 • 💬 27 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 197 • 💬 16 • ⏱️ 20:12 • 1d ago
+👁️ 6K • 👍 201 • 💬 16 • ⏱️ 20:12 • 1d ago
 
 ---
 
@@ -306,7 +306,17 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Stock Moe
 
-👁️ 9K • 👍 678 • 💬 42 • ⏱️ 13:25 • 11h ago
+👁️ 9K • 👍 688 • 💬 54 • ⏱️ 13:25 • 12h ago
+
+---
+
+**[Bitcoin at a Breaking Point… This Move Decides EVERYTHING. BTC/ETH/ALTS ANALYSIS](https://www.youtube.com/watch?v=ytINQoK8LJg)**
+
+Join My VIP Trading Group https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
+
+📺 FREEDOM TRADING ACADEMY
+
+👁️ 176 • 👍 17 • 💬 37 • ⏱️ 17:14 • 4h ago
 
 ---
 
@@ -316,17 +326,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 269 • 💬 92 • ⏱️ 11:22 • 1d ago
-
----
-
-**[ETH Ethereum Price Prediction: Bullish Pattern BREAKOUT Incoming](https://www.youtube.com/watch?v=bMY62MravO8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 313 • 👍 18 • 💬 26 • ⏱️ 8:02 • 14h ago
+👁️ 6K • 👍 269 • 💬 100 • ⏱️ 11:22 • 1d ago
 
 ---
 
