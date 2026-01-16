@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T18:35:33.604964+00:00'
+updated: '2026-01-16T19:20:43.418298+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 18:35 UTC  
+**Last Updated:** January 16, 2026 at 19:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-8h ago
+9h ago
 
 ---
 
@@ -60,31 +60,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-5h ago
-
----
-
-**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
-
-This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
-
-12h ago
-
----
-
-**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
-
-As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
-
-21h ago
-
----
-
-**[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
-
-Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
-
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 4h ago
+6h ago
 
 ---
 
@@ -96,9 +72,33 @@ Recorded this at CES, naturally I had to add sound effects lol You can see the f
 
 ---
 
+**[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
+
+Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
+
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 5h ago
+
+---
+
+**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
+
+This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
+
+13h ago
+
+---
+
+**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
+
+As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
+
+21h ago
+
+---
+
 **[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -146,7 +146,7 @@ TechCrunch • 2d ago
 
 The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
 
-The Robot Report • 20m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ MarketWatch • 1d ago
 
 Patrick Vallance says robots would take away ‘repetitive’ tasks, but Sadiq Khan warns AI will usher in ‘new era of mass unemployment’
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK
 
 📺 Kim Java
 
-👁️ 669 • 👍 14 • 💬 1 • ⏱️ 0:43 • 2h ago
+👁️ 669 • 👍 14 • 💬 1 • ⏱️ 0:43 • 3h ago
 
 ---
 

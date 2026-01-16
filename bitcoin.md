@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T18:35:33.595566+00:00'
+updated: '2026-01-16T19:20:43.410268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 18:35 UTC  
+**Last Updated:** January 16, 2026 at 19:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,861.28
+### $95,006.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
+**24h:** -0.3%  
 **7d:** +5.0%  
 **30d:** +11.3%  
 **90d:** -12.5%  
@@ -77,9 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+**[🚨 BREAKING: Russia finalizes draft bill to legalize crypto trading.](https://www.reddit.com/r/Bitcoin/comments/1qen83f/breaking_russia_finalizes_draft_bill_to_legalize/)**
 
-7h ago
+The bill is now in its final draft stage, marking a major step towards official legalization and regulation of cryptocurrency trading within the country. #CryptoNews #Russia #Bitcoin #Blockchain #Regulation
+
+1h ago
 
 ---
 
@@ -89,11 +91,17 @@ Rank #1
 
 ---
 
+**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+
+7h ago
+
+---
+
 **[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-13h ago
+14h ago
 
 ---
 
@@ -107,19 +115,13 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
+**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-2h ago
-
----
-
-**[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
-
-4h ago
+1h ago
 
 ---
 
@@ -127,21 +129,19 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 This is crazy, Bitcoin is going to the moon sooner or later.
 
-2h ago
+3h ago
 
 ---
 
-**[Inflows are bullish](https://www.reddit.com/r/Bitcoin/comments/1qeang4/inflows_are_bullish/)**
-
-10h ago
-
----
-
-**[Hit 6 million satoshis on Robinhood should I convert to better storage?](https://www.reddit.com/r/Bitcoin/comments/1qej1cu/hit_6_million_satoshis_on_robinhood_should_i/)**
-
-It’s gotten a lot harder to stack a million satoshis since I started investing so I wanted to celebrate 6 mil.
+**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
 
 3h ago
+
+---
+
+**[Bitcoin 2010-4 Guests, 1 User](https://www.reddit.com/r/Bitcoin/comments/1qegibl/bitcoin_20104_guests_1_user/)**
+
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ It’s gotten a lot harder to stack a million satoshis since I started investing
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 4h ago
 
 Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -167,19 +167,19 @@ Yahoo Finance • 5h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 4h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 2h ago
+Mother Jones • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Mother Jones • 2h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ thestreet.com • 2d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 2h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 3h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -235,7 +235,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 2h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 3h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -251,7 +251,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 3d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 4d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -263,17 +263,17 @@ Rolling coverage of the latest economic and financial news
 
 ---
 
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
+
+⬆️ 2 • 💬 0 • 2h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+
+---
+
 **[I built an interactive SHA-256 visualizer](https://news.ycombinator.com/item?id=46588789)**
 
 Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
 
 ⬆️ 1 • 💬 1 • 4d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
-
----
-
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
-
-⬆️ 1 • 💬 0 • 1h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -287,13 +287,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
 
-⬆️ 10 • 💬 6 • 2d ago
+⬆️ 11 • 💬 6 • 3d ago
 
 ---
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 1 • 12h ago
+⬆️ 2 • 💬 4 • 13h ago
 
 ---
 
@@ -307,7 +307,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 18h ago
+👁️ 57K • 👍 3K • 💬 217 • ⏱️ 11:32 • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 7K • 👍 553 • 💬 159 • ⏱️ 1:13:07 • 7h ago
+👁️ 7K • 👍 553 • 💬 159 • ⏱️ 1:13:07 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 161 • 💬 84 • ⏱️ 5:23 • 19h ago
+👁️ 6K • 👍 161 • 💬 84 • ⏱️ 5:23 • 20h ago
 
 ---
 
@@ -357,7 +357,7 @@ Coinbase CEO Brian Armstrong breaks down the decision-making that led him to wit
 
 📺 Fox Business
 
-👁️ 20K • 👍 426 • 💬 26 • ⏱️ 1:06 • 18h ago
+👁️ 20K • 👍 426 • 💬 26 • ⏱️ 1:06 • 19h ago
 
 ---
 
@@ -367,7 +367,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 4K • 💬 156 • ⏱️ 18:18 • 13h ago
+👁️ 52K • 👍 4K • 💬 156 • ⏱️ 18:18 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TO
 
 📺 Lark Davis
 
-👁️ 11K • 👍 651 • 💬 84 • ⏱️ 13:46 • 7h ago
+👁️ 11K • 👍 651 • 💬 84 • ⏱️ 13:46 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 40K • 👍 2K • 💬 264 • ⏱️ 14:15 • 20h ago
+👁️ 40K • 👍 2K • 💬 264 • ⏱️ 14:15 • 21h ago
 
 ---
 

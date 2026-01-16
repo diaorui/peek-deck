@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-16T18:35:33.601686+00:00'
+updated: '2026-01-16T19:20:43.415548+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 18:35 UTC  
+**Last Updated:** January 16, 2026 at 19:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,304.88
+### $3,282.79
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** +6.3%  
-**30d:** +16.3%  
-**90d:** -17.6%  
-**1y:** -5.5%  
+**7d:** +6.0%  
+**30d:** +16.0%  
+**90d:** -17.8%  
+**1y:** -5.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,13 +88,13 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 7h ago
 
 ---
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +110,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 19h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 20h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 15h ago
+🔗 [totems.fun](https://totems.fun/) • 16h ago
 
 ---
 
@@ -148,43 +148,11 @@ The Weekly Doots live stream is all about showcasing the best of the week from t
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
+**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
-The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
+The smaller chain could lose ground in an important arena during a critical period.
 
-Decrypt • 2h ago
-
----
-
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
-
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
-
-Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
-
-dlnews.com • 1d ago
-
----
-
-**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
-
-Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
-
-Yahoo Finance • 23h ago
-
----
-
-**[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
-
-The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
-
-CoinDesk • 12h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -204,9 +172,25 @@ Business Insider • 1d ago
 
 ---
 
-**[Will Gen Z Send Ethereum Price Soaring? Tom Lee Teams Up With MrBeast In $200M Deal](https://www.ccn.com/news/crypto/gen-z-ethereum-price-tom-lee-teams-mrbeast-200m-deal/)**
+**[Ether (ETH) treasury company BitMine (BMNR) pushes Ethereum staking network into backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CCN.com • 7h ago
+CoinDesk • 31m ago
+
+---
+
+**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://finance.yahoo.com/news/bitcoin-ethereum-waver-why-did-161735767.html)**
+
+Bitcoin, Ethereum, and the broader crypto market cooled after a busy week on Capitol Hill
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
+
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -224,6 +208,22 @@ Nasdaq • 1d ago
 
 ---
 
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Ethereum (ETH): First Enormous Breakthrough Since May 2025](https://www.tradingview.com/news/u_today:baceb161b094b:0-ethereum-eth-first-enormous-breakthrough-since-may-2025/)**
+
+Ethereum is at last regaining and maintaining above the 200-day EMA, something it has been unable to do for the majority of the previous eight months. Technically speaking, this is not a cosmetic detail. The 200 EMA has served as a boundary between long-term trends and dead-cat bounces for ETH.Long…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 887 • 👍 84 • 💬 5 • ⏱️ 3:49 • 3h ago
+👁️ 887 • 👍 84 • 💬 5 • ⏱️ 3:49 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 330 • 👍 14 • 💬 31 • ⏱️ 5:32 • 8h ago
+👁️ 330 • 👍 14 • 💬 31 • ⏱️ 5:32 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Urgent Update)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 278 • 💬 120 • ⏱️ 23:36 • 6h ago
+👁️ 6K • 👍 278 • 💬 120 • ⏱️ 23:36 • 7h ago
 
 ---
 
@@ -314,7 +314,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 75 • 👍 7 • 💬 13 • ⏱️ 12:17 • 7h ago
+👁️ 75 • 👍 7 • 💬 13 • ⏱️ 12:17 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ The rise in new wallets suggests broader interest in Ethereum, driven by decentr
 
 📺 Crypto World Daily
 
-👁️ 2 • 💬 1 • ⏱️ 4:21 • 1h ago
+👁️ 2 • 💬 1 • ⏱️ 4:21 • 2h ago
 
 ---
 
