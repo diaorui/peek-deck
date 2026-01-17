@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T21:19:18.609118+00:00'
+updated: '2026-01-17T21:40:54.365381+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 21:19 UTC  
+**Last Updated:** January 17, 2026 at 21:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-10h ago
+11h ago
 
 ---
 
@@ -49,15 +49,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 6h ago
-
----
-
-**[Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment](https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/)**
-
-Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
-
-2h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 7h ago
 
 ---
 
@@ -65,7 +57,15 @@ Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 17h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 18h ago
+
+---
+
+**[Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment](https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/)**
+
+Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
+
+3h ago
 
 ---
 
@@ -85,7 +85,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.](https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqegP24k-sqF8-4t0CuG73xOtlD1l4R7IbYc7sjBn7Sr8tT5pgODvJQZ&gaa_ts=696bf33d&gaa_sig=Jm8miUZ1VoHBiBkTtk3-BFvFXfHjsDwOeCAOkkX1V0k718PUPmQyhBc8f32yfr8Ays6s2uLkQ5ymV5FlVRzJcw%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqerRDp7nXU2u0I-aMpdIxfDE-z4mvQi5ZQ1r3vxa31IvzxaZyWoWlD0&gaa_ts=696c0541&gaa_sig=lAhI6oyqJGdYuImCAaoNxbJ-89lL03fdPYPyDGMpHByaajJVS_og9YGWuYFAQA6skLNFt30TCpe-p2lWoT1GPg%3D%3D)**
 
 The Wall Street Journal • 4h ago
 
@@ -129,29 +129,15 @@ The Guardian • 9h ago
 
 ---
 
-**[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Trump taps Palantir to hunt fraud with AI 'Ironman suit'](https://www.foxnews.com/video/6387872790112)**
-
-Palantir Executive Vice President and Chief Technology Officer Shyam Sankar joins ‘Fox News Live’ to discuss using AI to spot fraud patterns nationwide, the energy and workforce questions around AI and the need to protect kids online.
-
-Fox News • 1h ago
-
----
-
-**[ICE raid on Meta shows tension between Trump's immigration and AI agendas](https://www.axios.com/2026/01/15/ice-meta-ai-immigration-raid-trump)**
-
-Axios • 2d ago
-
----
-
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
 The New York Times • 11h ago
+
+---
+
+**[These prophets of economic doom are worried about another collapse](https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/)**
+
+The Washington Post • 3h ago
 
 ---
 
@@ -167,21 +153,33 @@ The Atlantic • 8h ago
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[Billionaire Stanley Druckenmiller Sells Broadcom Stock and Buys an AI Stock Up 1,000% Since Early 2025](https://www.fool.com/investing/2026/01/17/druckenmiller-sell-broadcom-buy-ai-stock-up-1000/)**
+**[AI raises average wages by 21% and substantially reduces' wage inequality, researchers find](https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find)**
 
-Star fund manager Stanley Druckenmiller sold Broadcom and bought Sandisk in the third quarter.
+Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
 
-The Motley Fool • 13h ago
+Fox Business • 3h ago
 
 ---
 
-**[The Weakest Links Within The AI Bubble](https://seekingalpha.com/article/4860572-the-weakest-links-within-the-ai-bubble)**
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-Markets are choppy in early 2026 after big gains. Click to see the S&P 493 profit growth outlook and which AI stocks may struggle if the AI narrative fades.
+OpenAI • 1d ago
+
+---
+
+**[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
+
+Axios • 9h ago
+
+---
+
+**[Tech Voices: OpenAI to run ads, Micron CEO on AI growth (MU:NASDAQ)](https://seekingalpha.com/news/4540014-tech-voices-openai-to-run-ads-micron-ceo-on-ai-growth)**
+
+Seeking Alpha's roundup of statements, announcements, and remarks that could impact markets, sectors, or individual stocks.Â  Read more here.
 
 Seeking Alpha • 1d ago
 
@@ -201,14 +199,6 @@ You are making a big mistake. But you can still undo the damage.
 
 ---
 
-**[The Influentists: AI hype without proof](https://news.ycombinator.com/item?id=46623195)**
-
-Why we are losing technical rigor to social hype
-
-⬆️ 265 • 💬 171 • 3d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
-
----
-
 **[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://news.ycombinator.com/item?id=46629682)**
 
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
@@ -222,7 +212,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 103 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 104 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -252,7 +242,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 78 • 💬 72 • 8h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 80 • 💬 78 • 8h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -269,6 +259,14 @@ Introducing Confer, an end-to-end AI assistant that just works.
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
 ⬆️ 54 • 💬 11 • 1d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+
+---
+
+**[DuckDuckGo is asking for a Yes or No vote on AI](https://news.ycombinator.com/item?id=46651155)**
+
+Big Tech doesn't care if you want AI or not. They should.
+
+⬆️ 45 • 💬 28 • 1d ago • [duckduckgo.com](https://duckduckgo.com/vote)
 
 ---
 
@@ -640,7 +638,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 56m ago
+⭐ 8.9k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -700,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.4k • 8h ago
+⭐ 2.4k • 🔱 2.4k • 9h ago
 
 ---
 

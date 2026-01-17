@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T21:19:18.622005+00:00'
+updated: '2026-01-17T21:40:54.378442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 21:19 UTC  
+**Last Updated:** January 17, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,318.00
+### $3,316.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +6.2%  
-**30d:** +11.2%  
-**90d:** -16.7%  
-**1y:** +0.3%  
+**24h:** +0.6%  
+**7d:** +6.0%  
+**30d:** +10.9%  
+**90d:** -16.9%  
+**1y:** +0.1%  
 
 ---
 
@@ -88,13 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-4h ago
-
----
-
-**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
-
-4h ago
+5h ago
 
 ---
 
@@ -103,6 +97,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
 22h ago
+
+---
+
+**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
+
+4h ago
 
 ---
 
@@ -154,11 +154,11 @@ The Block • 22h ago
 
 ---
 
-**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
+**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
-The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
+The smaller chain could lose ground in an important arena during a critical period.
 
-Decrypt • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -176,11 +176,9 @@ dlnews.com • 2d ago
 
 ---
 
-**[Ethereum faces a dangerous 40-day deadlock after BitMine’s aggressive staking forces a historic liquidity squeeze](https://cryptoslate.com/ethereum-faces-a-dangerous-40-day-deadlock-after-bitmines-aggressive-staking-forced-a-historic-liquidity-squeeze/)**
+**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
-Behind BitMine's $5 billion stake in Ethereum lies a complex interplay of liquidity, yield, and governance risks.
-
-CryptoSlate • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -192,19 +190,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
+**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
 
-The smaller chain could lose ground in an important arena during a critical period.
+The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-The Motley Fool • 1d ago
-
----
-
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
-
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
-
-24/7 Wall St. • 2d ago
+Decrypt • 1d ago
 
 ---
 
@@ -221,6 +211,14 @@ Nasdaq • 2d ago
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
 Seeking Alpha • 3d ago
+
+---
+
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -244,7 +242,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Stock Moe
 
-👁️ 6K • 👍 567 • 💬 41 • ⏱️ 15:35 • 7h ago
+👁️ 6K • 👍 567 • 💬 41 • ⏱️ 15:35 • 8h ago
 
 ---
 
@@ -274,7 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 96 • 💬 5 • ⏱️ 4:59 • 6h ago
+👁️ 1K • 👍 96 • 💬 5 • ⏱️ 4:59 • 7h ago
 
 ---
 

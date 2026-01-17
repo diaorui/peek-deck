@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T21:19:18.616647+00:00'
+updated: '2026-01-17T21:40:54.373131+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 21:19 UTC  
+**Last Updated:** January 17, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,356.31
+### $95,340.83
 
 ---
 
@@ -109,17 +109,23 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 ---
 
-**[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
+**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
-
-5h ago
+1h ago
 
 ---
 
 **[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
 
 4h ago
+
+---
+
+**[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
+
+Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
+
+6h ago
 
 ---
 
@@ -137,14 +143,6 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 ---
 
-**[Asked a similar question yesterday](https://www.reddit.com/r/Bitcoin/comments/1qfahde/asked_a_similar_question_yesterday/)**
-
-Do you think this is still a realistic, positiv scenario today?
-
-10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,9 +153,49 @@ The New York Times • 1d ago
 
 ---
 
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+
+CoinDesk • 1d ago
+
+---
+
+**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
+
+Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
+
+Gizmodo • 53m ago
+
+---
+
+**[Bitcoin-loving burger joint Steak ‘n Shake adds $10m to crypto treasury](https://finance.yahoo.com/news/bitcoin-loving-burger-joint-steak-175639464.html)**
+
+Burger chain Steak ‘n Shake has added $10 million in Bitcoin to its strategic reserve. The restaurant franchise last year started accepting Bitcoin payments. Steak ‘n Shake claims sales have increased since it started accepting crypto.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns](https://www.coindesk.com/business/2026/01/17/cathie-wood-calls-bitcoin-good-source-of-diversification-for-investors-seeking-higher-returns)**
+
+Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
+
+CoinDesk • 1h ago
+
+---
+
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+CNBC • 6h ago
+
+---
+
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -175,47 +213,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns](https://www.coindesk.com/business/2026/01/17/cathie-wood-calls-bitcoin-good-source-of-diversification-for-investors-seeking-higher-returns)**
-
-Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
-
-CoinDesk • 1h ago
-
----
-
-**[Burger Chain Steak 'n Shake Just Supersized Its Bitcoin Holdings](https://sg.finance.yahoo.com/news/burger-chain-steak-n-shake-182136600.html)**
-
-Iconic American burger chain Steak ‘n Shake has added $10 million worth of Bitcoin (CRYPTO: BTC) to its balance sheet. This comes after the company started accepting Bitcoin payments in 2025. Steak ‘n Shake’s Bitcoin Treasury made a significant acquisition of the cryptocurrency. The company announced the purchase via X on Saturday, highlighting a boost in sales since it began accepting Bitcoin. Eight months ago today, Steak n Shake launched its burger-to-Bitcoin transformation when we started ac
-
-Yahoo Finance Singapore • 2h ago
-
----
-
-**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-CNBC • 5h ago
-
----
-
-**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqds1q-d9ITruVuCzfzzP4M7m7ZtVZinLaNqc2I0He3MlRaA-92O1au8&gaa_ts=696bf33f&gaa_sig=lkyyt1Wx4K28oB_l3l0h-A7pu6pC8dUv7VDE2oSQStjVLxFwPDYGqvIJtreOSJ90HCrFYm2AymjbZfJqZJaNFg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
 **[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
 Mother Jones • 1d ago
-
----
-
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqcSJZbX8wIAGnFKZlv2LvRiUxaWZzvU4cLWseCcom1-INPxQk-ojXFa&gaa_ts=696bf33f&gaa_sig=qhZQpnIdQDIExUIt6HfrZnJ7FYTtFDHl3kEMc2bWl0Cyc3vDfzQ_-8AbLHvi1146NVx7k9K3wU8PX1oCDEXvZw%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -282,6 +284,14 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 An apartment building can be turned into a huge cryptocurrency exchange
 
 ⬆️ 1 • 💬 0 • 4d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+
+---
+
+**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46662106)**
+
+Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
+
+⬆️ 1 • 💬 0 • 34m ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
