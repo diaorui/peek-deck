@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T11:18:28.211581+00:00'
+updated: '2026-01-17T11:39:27.852027+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 11:18 UTC  
+**Last Updated:** January 17, 2026 at 11:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-21h ago
+22h ago
 
 ---
 
@@ -90,7 +90,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-11h ago
+12h ago
 
 ---
 
@@ -114,12 +114,6 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 ## Google News: "robotics"
 
-**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
 Bloomberg.com • 2d ago
@@ -142,11 +136,31 @@ Crunchbase News • 2d ago
 
 ---
 
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
 
 Nikkei Asia • 1d ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdjGqeljXBw0tH6XC0TrZem1msuLjHeO8rDyQPzexAqW-6hi1qn0n4w&gaa_ts=696b785c&gaa_sig=DKyl-VyCNJFeC5X0xWebN0CcumQQ2lMFzX_gw8jsHeVbZ4vnTlLtAPWhv0qckYg4NgIPA_CkIEuf8gxxAGcQ6g%3D%3D)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -156,17 +170,11 @@ GeekWire • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd8JSNse_czDicw3QXGDIxMsZhjVxIvFCdV1F90L5vvfRmJUi85Gq14&gaa_ts=696b6623&gaa_sig=lM6zxsm0nADtbR-GRqtvyIXmZGaHZ_13FQIjMfOkSm-P3Ks2F2STZTmR0mlOxxVs0H0svwnXw4uij5-f5iw3IA%3D%3D)**
+**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
 
-MarketWatch • 2d ago
+At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
----
-
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
-
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-
-Interesting Engineering • 1d ago
+CBS News • 10h ago
 
 ---
 
@@ -175,14 +183,6 @@ Interesting Engineering • 1d ago
 Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
 
 Automotive News • 2d ago
-
----
-
-**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
-
-Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
-
-Game Developer • 1d ago
 
 ---
 

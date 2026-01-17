@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T11:18:28.194045+00:00'
+updated: '2026-01-17T11:39:27.834220+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 11:18 UTC  
+**Last Updated:** January 17, 2026 at 11:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 15h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 16h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 7h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Sorry if it's the wrong sub to post it, I'm clueless on where to spread awareness on it It raises serious safety concerns but alas their subreddit was unreceptive saying things like "oh no we should ban knives too" I don't want to give exact instructions Turning on the voice mode with the +18 models and a bit of prompting, it answered me on how to make different explosives at home including how to make my own napalm from the ground up and how/where to use it most effectively when I asked playfully. I don't know if a model like this should just be open for anyone's use
 
-18h ago
+19h ago
 
 ---
 
@@ -127,47 +127,9 @@ The Guardian • 6h ago
 
 ---
 
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-The New York Times • 2d ago
-
----
-
-**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
-
-Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
-
-CNBC • 1h ago
-
----
-
-**[Global AI race makes Greenland's critical minerals a tempting target](https://www.nbcnews.com/tech/innovation/greenland-rare-earths-critical-minerals-rcna254177)**
-
-The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
-
-NBC News • 1h ago
-
----
-
-**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
-
-The New York Times • 1h ago
-
----
-
-**[AI tools could make companies less competitive because everyone buys the same brain, think tank CEO says](https://www.businessinsider.com/ai-tools-could-make-companies-less-competitive-think-tank-ceo-2026-1)**
-
-The CEO of a digital economy think tank said relying on identical AI tools can erode competitive edge and weaken firms' independence.
-
-Business Insider • 2h ago
-
----
-
-**[NFL divisional predictions by Microsoft Copilot AI for every playoff game](https://www.usatoday.com/story/sports/nfl/2026/01/16/nfl-playoff-divisional-picks-predictions-ai/88161843007/)**
-
-Microsoft Copilot AI was near-perfect predicting the results of the NFL's wild-card weekend. Will it repeat its success in the divisional round?
-
-USA Today • 1d ago
+OpenAI • 17h ago
 
 ---
 
@@ -183,9 +145,49 @@ Axios • 15h ago
 
 ---
 
-**[Opinion | This Is What Convinced Me OpenAI Will Run Out of Money](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
+**[Here's what Wall Street bank CEOs are saying about head count in the age of AI](https://www.businessinsider.com/jpmorgan-citi-goldman-bofa-wells-how-ai-impact-headcounts-2026)**
 
-The New York Times • 4d ago
+From JPMorgan to Citi, here's what industry leaders at are saying about how AI may impact jobs.
+
+Business Insider • 48m ago
+
+---
+
+**['Big Short' Michael Burry shared Warren Buffett story to explain AI bets](https://www.businessinsider.com/big-short-michael-burry-warren-buffett-ai-boom-nvidia-palantir-2026-1)**
+
+Michael Burry of "The Big Short" fame relayed a Warren Buffett story to warn of wasteful tech spending, and took aim at Nvidia and Palantir again.
+
+Business Insider • 7m ago
+
+---
+
+**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
+
+Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+
+CNBC • 1h ago
+
+---
+
+**[AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/)**
+
+Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.
+
+TechCrunch • 11h ago
+
+---
+
+**[Creator Startup Fanvue Raises $22 Million To Fuel The Future Of AI Influencers](https://www.forbes.com/sites/alexyork/2026/01/16/creator-startup-fanvue-raised-22-million-to-fuel-the-future-of-ai-influencers/)**
+
+The London-based startup is helping creators make millions by giving fans access to exclusive content. Can its AI tools help it outcompete incumbents like Patreon and OnlyFans?
+
+Forbes • 1d ago
+
+---
+
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -199,7 +201,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 343 • 💬 260 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 344 • 💬 260 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -238,13 +240,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 88 • 💬 16 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 88 • 💬 17 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 86 • 💬 145 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 86 • 💬 146 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -252,7 +254,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 71 • 💬 21 • 8h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 74 • 💬 21 • 8h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -260,7 +262,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 59 • 💬 5 • 23h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 59 • 💬 5 • 1d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -282,7 +284,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 99K • 👍 7K • 💬 2K • ⏱️ 14:15 • 14h ago
+👁️ 99K • 👍 7K • 💬 2K • ⏱️ 14:15 • 15h ago
 
 ---
 
@@ -312,7 +314,7 @@ The US military has unveiled an AI-powered drone swarm capable of selecting and 
 
 📺 New York Post
 
-👁️ 16K • 👍 326 • 💬 194 • ⏱️ 2:05 • 18h ago
+👁️ 16K • 👍 326 • 💬 194 • ⏱️ 2:05 • 19h ago
 
 ---
 
@@ -639,7 +641,7 @@ MediaPipe framework facilitates the development of perception applications by pr
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 6h ago
+⭐ 8.9k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -649,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 330 • 16h ago
+⭐ 7.0k • 🔱 330 • 17h ago
 
 ---
 
@@ -699,7 +701,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.3k • 58m ago
+⭐ 2.3k • 🔱 2.3k • 1h ago
 
 ---
 

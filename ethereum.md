@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T11:18:28.208369+00:00'
+updated: '2026-01-17T11:39:27.848722+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 11:18 UTC  
+**Last Updated:** January 17, 2026 at 11:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +5.6%  
-**30d:** +10.6%  
-**90d:** -17.1%  
-**1y:** -0.2%  
+**24h:** +0.1%  
+**7d:** +5.8%  
+**30d:** +10.7%  
+**90d:** -17.0%  
+**1y:** -0.1%  
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-14h ago
-
----
-
-**[Daily General Discussion January 16, 2026](https://www.reddit.com/r/ethereum/comments/1qe818u/daily_general_discussion_january_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+15h ago
 
 ---
 
@@ -97,6 +89,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
 12h ago
+
+---
+
+**[Daily General Discussion January 16, 2026](https://www.reddit.com/r/ethereum/comments/1qe818u/daily_general_discussion_january_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -122,14 +122,6 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 ---
 
-**[Need help with Ethereum](https://www.reddit.com/r/ethereum/comments/1qf5kcs/need_help_with_ethereum/)**
-
-I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
-
-5h ago
-
----
-
 **[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
@@ -143,6 +135,14 @@ Element a leading global Testing, Inspection and Certification company is using 
 The modular token standard.
 
 🔗 [totems.fun](https://totems.fun/) • 1d ago
+
+---
+
+**[Argot Roadmap Update 2026 (1/2)](https://www.reddit.com/r/ethereum/comments/1qdyue0/argot_roadmap_update_2026_12/)**
+
+This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
+
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 1d ago
 
 ---
 
@@ -161,6 +161,14 @@ The Block • 12h ago
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
 Decrypt • 19h ago
+
+---
+
+**[US Housing Lender Will Accept Bitcoin and Ethereum for Mortgage Qualification](https://finance.yahoo.com/news/us-housing-lender-accept-bitcoin-110326147.html)**
+
+Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
+
+Yahoo Finance • 36m ago
 
 ---
 
@@ -186,19 +194,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
-
-Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -210,19 +210,19 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
 Yahoo Finance • 1d ago
-
----
-
-**[The biggest ethereum treasury in the world just made a $200 million bet on MrBeast's DeFi ambitions](https://www.businessinsider.com/mrbeast-bitmine-immersion-investment-youtube-jimmy-donaldson-crypto-tom-lee-2026-1)**
-
-Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
-
-Business Insider • 1d ago
 
 ---
 

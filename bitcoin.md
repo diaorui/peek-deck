@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T11:18:28.202375+00:00'
+updated: '2026-01-17T11:39:27.842642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 11:18 UTC  
+**Last Updated:** January 17, 2026 at 11:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,039.62
+### $95,167.95
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
-
-6h ago
-
----
-
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
 3h ago
@@ -95,19 +89,17 @@ Rank #1
 
 ---
 
+**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
+
+6h ago
+
+---
+
 **[Anyone here going all in in BTC and nothing else?](https://www.reddit.com/r/Bitcoin/comments/1qf5geg/anyone_here_going_all_in_in_btc_and_nothing_else/)**
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
 5h ago
-
----
-
-**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
-
-First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
-
-11h ago
 
 ---
 
@@ -119,9 +111,17 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
+**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
+
+First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
+
+12h ago
+
+---
+
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,13 +151,21 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
+
+Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
+
+Business Insider • 1h ago
 
 ---
 
@@ -169,11 +177,35 @@ CoinDesk • 22h ago
 
 ---
 
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
+**[US Housing Lender Will Accept Bitcoin and Ethereum for Mortgage Qualification](https://finance.yahoo.com/news/us-housing-lender-accept-bitcoin-110326147.html)**
 
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
+Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Business Insider • 1h ago
+Yahoo Finance • 36m ago
+
+---
+
+**[Here Are All 50 Cryptocurrencies That U.S. Investors Can Buy on Robinhood. These 3 Are the Best of the Bunch](https://www.fool.com/investing/2026/01/17/here-are-all-50-cryptocurrencies-that-us-investors/)**
+
+The popular online brokerage Robinhood has become a go-to spot for retail investors to purchase cryptocurrencies.
+
+The Motley Fool • 9m ago
+
+---
+
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+
+CoinDesk • 19h ago
+
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 18h ago
 
 ---
 
@@ -188,38 +220,6 @@ The Block • 15h ago
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
 Yahoo Finance • 11h ago
-
----
-
-**[DOJ Did Not Sell Forfeited Samourai Bitcoin, White House Crypto Advisor Says](https://finance.yahoo.com/news/doj-did-not-sell-forfeited-074510857.html)**
-
-A White House crypto advisor said the US government has not sold any Bitcoin forfeited in the Samourai Wallet case, pushing back against market rumors sparked by recent on-chain activity. Key Takeaways: The DOJ confirmed it has not sold any Bitcoin forfeited in the Samourai Wallet case. The clarification follows ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 18h ago
-
----
-
-**[Bitcoin price may hit $300,000 to $1.5 million by 2030, Ark Invest Says](https://www.coindesk.com/markets/2026/01/15/lower-volatility-bigger-allocations-ark-invest-sees-bitcoin-entering-its-next-chapter)**
-
-With ETFs and corporate treasuries absorbing more bitcoin than expected, the market is entering a more institutional, lower-volatility era.
-
-CoinDesk • 1d ago
-
----
-
-**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
-
-The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -239,7 +239,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -286,18 +286,6 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 An apartment building can be turned into a huge cryptocurrency exchange
 
 ⬆️ 1 • 💬 0 • 4d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
-
----
-
-**[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
-
-⬆️ 12 • 💬 6 • 3d ago
-
----
-
-**[Politics and the English Language (1946) [pdf]](https://news.ycombinator.com/item?id=46655913)**
-
-⬆️ 2 • 💬 0 • 4h ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
 
 ---
 
@@ -361,7 +349,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 12h ago
+👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 13h ago
 
 ---
 
