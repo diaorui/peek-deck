@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T04:07:29.292444+00:00'
+updated: '2026-01-17T04:52:56.791639+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 04:07 UTC  
+**Last Updated:** January 17, 2026 at 04:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,250.86
+### $95,346.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +4.7%  
-**30d:** +8.0%  
-**90d:** -13.8%  
-**1y:** -8.8%  
+**24h:** -0.3%  
+**7d:** +4.8%  
+**30d:** +8.1%  
+**90d:** -13.7%  
+**1y:** -8.7%  
 
 ---
 
@@ -77,57 +77,55 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
-
-16h ago
-
----
-
 **[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-4h ago
+5h ago
 
 ---
 
-**[BTC holding strong at $95k support. Is the path to $100k finally open, or are we looking at a double top?](https://www.reddit.com/r/Bitcoin/comments/1qf0wkb/btc_holding_strong_at_95k_support_is_the_path_to/)**
+**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-Hey everyone, ​Looking at the charts today, it seems $95,000 is becoming a very important level for Bitcoin. After the recent volatility, we are seeing some solid consolidation here. ​A few things I’m watching: ● ​Support: The $94.5k - $95k zone is holding well. If we stay above this, the trend stays bullish. ● ​Volume: Trading volume is starting to steady, which usually happens before a big breakout. ● ​The Goal: Everyone is eyeing $100,000. It’s a huge psychological barrier, but the market structure looks healthy enough to test it soon. ​Personally, I think we might sideways for a few more days before the next leg up. ​What do you guys think? Are we buying this consolidation, or do you think we need a deeper correction to $90k first? ​Disclaimer: Not financial advice. Just sharing my analysis.
-
-1h ago
+17h ago
 
 ---
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-6h ago
+7h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-15h ago
-
----
-
-**[How to swap BTC without giving ID](https://www.reddit.com/r/Bitcoin/comments/1qexiep/how_to_swap_btc_without_giving_id/)**
-
-I hold a lot of USDC and want to move part of it into BTC. I prefer not to use exchanges that require identity verification. What are reliable non KYC options these days?
-
-3h ago
+16h ago
 
 ---
 
 **[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
-9h ago
+10h ago
+
+---
+
+**[Am I the only one?](https://www.reddit.com/r/Bitcoin/comments/1qf2kaj/am_i_the_only_one/)**
+
+"When Bitcoin was here last cycle the price did this...."
+
+1h ago
 
 ---
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-10h ago
+11h ago
+
+---
+
+**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
+
+3h ago
 
 ---
 
@@ -135,7 +133,7 @@ I hold a lot of USDC and want to move part of it into BTC. I prefer not to use e
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +141,7 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
-10h ago
+11h ago
 
 ---
 
@@ -153,7 +151,7 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -171,11 +169,9 @@ CoinDesk • 15h ago
 
 ---
 
-**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
-
-Bitcoin Magazine • 7h ago
+The Block • 15h ago
 
 ---
 
@@ -183,7 +179,7 @@ Bitcoin Magazine • 7h ago
 
 A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -191,7 +187,15 @@ CoinDesk • 11h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 2d ago
+Mother Jones • 11h ago
+
+---
+
+**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
+
+The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -213,15 +217,7 @@ Yahoo Finance • 4h ago
 
 U.S. officials say the DOJ confirmed that the bitcoin forfeited by Samourai Wallet developers wasn't sold and will stay on balance sheets.
 
-Bitcoin Magazine • 8h ago
-
----
-
-**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
-
-Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
-
-Seeking Alpha • 9h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -233,7 +229,7 @@ Seeking Alpha • 9h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 12h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 13h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -241,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -271,7 +267,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -323,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 12h ago
+👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 13h ago
 
 ---
 
@@ -403,7 +399,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 5h ago
+👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 6h ago
 
 ---
 

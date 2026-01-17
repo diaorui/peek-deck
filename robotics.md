@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T04:07:29.301754+00:00'
+updated: '2026-01-17T04:52:56.800773+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 04:07 UTC  
+**Last Updated:** January 17, 2026 at 04:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-16h ago
+17h ago
 
 ---
 
@@ -58,15 +58,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-5h ago
-
----
-
-**[Why are so many humanoid robots bipedal?](https://www.reddit.com/r/robotics/comments/1qf0llg/why_are_so_many_humanoid_robots_bipedal/)**
-
-wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
-
-1h ago
+6h ago
 
 ---
 
@@ -74,15 +66,15 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-14h ago
+15h ago
 
 ---
 
-**[Looking for general research paper ideas in mechatronics engineering](https://www.reddit.com/r/robotics/comments/1qexnlj/looking_for_general_research_paper_ideas_in/)**
+**[Why are so many humanoid robots bipedal?](https://www.reddit.com/r/robotics/comments/1qf0llg/why_are_so_many_humanoid_robots_bipedal/)**
 
-Hey, I'm a fourth-year mechatronics engineering student looking for general ideias for a research paper. I'm open to any area within mechatronics. Any suggestions or advice are welcome.
+wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-3h ago
+2h ago
 
 ---
 
@@ -90,7 +82,7 @@ Hey, I'm a fourth-year mechatronics engineering student looking for general idei
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -98,7 +90,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 7h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 8h ago
 
 ---
 
@@ -106,7 +98,15 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 13h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 14h ago
+
+---
+
+**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
+
+This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
+
+22h ago
 
 ---
 
@@ -142,14 +142,6 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
-
-At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
-
-CBS News • 3h ago
-
----
-
 **[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
 
 Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
@@ -166,12 +158,6 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
-
-GeekWire • 2d ago
-
----
-
 **[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
@@ -180,9 +166,23 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd7axKCXJFuqlp1K0lVOze52bFX4GlrOErSiWpjXalAWuR5BVsMVH8D&gaa_ts=696b043b&gaa_sig=2ldJCPvKJuVN1SEGwXx7z8KpOl2_9K5hYkeVs6d_BfGUfcviarJiggCTbzmJA7pCJfdQQvwQVnDCfdlUCoJ6Zg%3D%3D)**
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+
+GeekWire • 2d ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqf9QVyO1WrOwIFt72yvrEu1jbm6Z1jh7MsjeYua0HhflnbchxDIkZJH&gaa_ts=696b1919&gaa_sig=kDwPZn8WcZIzBnmGZ-ZALdkvw0VLnUIVr0NgmW6650bZNBBAjNmLHNt5ea8sNOlWjT2ny1jotC4K9WjP284t9A%3D%3D)**
 
 MarketWatch • 2d ago
+
+---
+
+**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
+
+At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
+
+CBS News • 4h ago
 
 ---
 
