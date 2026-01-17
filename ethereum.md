@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T20:23:51.021981+00:00'
+updated: '2026-01-17T20:43:38.234919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 20:23 UTC  
+**Last Updated:** January 17, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.48B
+**Market Cap:** $400.16B
 Rank #2
 
 **Circulating Supply:** 120,694,601 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-33.0%
 
 **All-Time Low:** $0.43
-+766281.3%
++765660.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-3h ago
+4h ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 6K • 👍 678 • 💬 52 • ⏱️ 10:28 • 3h ago
+👁️ 18K • 👍 1K • 💬 122 • ⏱️ 10:28 • 3h ago
 
 ---
 
@@ -244,27 +244,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Stock Moe
 
-👁️ 5K • 👍 493 • 💬 41 • ⏱️ 15:35 • 6h ago
-
----
-
-**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
-
-BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 264 • 💬 84 • ⏱️ 22:05 • 8h ago
-
----
-
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 6K • 👍 178 • 💬 30 • ⏱️ 24:55 • 23h ago
+👁️ 6K • 👍 567 • 💬 41 • ⏱️ 15:35 • 7h ago
 
 ---
 
@@ -274,7 +254,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 138 • 👍 22 • 💬 4 • ⏱️ 14:00 • 3h ago
+👁️ 237 • 👍 34 • 💬 44 • ⏱️ 14:00 • 3h ago
+
+---
+
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
+
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
+
+📺 CoinDesk
+
+👁️ 6K • 👍 181 • 💬 29 • ⏱️ 24:55 • 23h ago
 
 ---
 
@@ -284,7 +274,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 696 • 👍 79 • 💬 5 • ⏱️ 4:59 • 5h ago
+👁️ 1K • 👍 96 • 💬 5 • ⏱️ 4:59 • 6h ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
+
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 698 • 💬 44 • ⏱️ 16:47 • 1d ago
+👁️ 20K • 👍 715 • 💬 42 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -314,17 +314,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 180 • 💬 246 • ⏱️ 15:03 • 1d ago
+👁️ 5K • 👍 182 • 💬 239 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[THIS Will Trigger The LARGEST Crypto Bull Run EVER! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=Pd4E2Otg72Q)**
+**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
 
-Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily On-Chain Analysis & Crypto News ...
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
-📺 Library Of Wealth
+📺 Marzell Crypto
 
-👁️ 5K • 👍 207 • 💬 137 • ⏱️ 15:10 • 2d ago
+👁️ 2K • 👍 63 • 💬 107 • ⏱️ 6:39 • 2d ago
 
 ---
 

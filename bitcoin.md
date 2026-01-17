@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T20:23:51.015746+00:00'
+updated: '2026-01-17T20:43:38.228860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 20:23 UTC  
+**Last Updated:** January 17, 2026 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1905.97B
+**Market Cap:** $1903.02B
 Rank #1
 
-**Circulating Supply:** 19,977,103 BTC
+**Circulating Supply:** 19,977,125 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.3%
+-24.4%
 
 **All-Time Low:** $67.81
-+140602.0%
++140383.7%
 
 ---
 
@@ -113,7 +113,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-4h ago
+5h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 25m ago
+CoinDesk • 45m ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance Singapore • 2h ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -243,7 +243,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 4d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 5d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -295,17 +295,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 184 • ⏱️ 8:18 • 22h ago
-
----
-
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 258 • ⏱️ 16:02 • 1d ago
+👁️ 36K • 👍 2K • 💬 184 • ⏱️ 8:18 • 23h ago
 
 ---
 
@@ -315,7 +305,17 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 222 • 💬 30 • ⏱️ 5:23 • 1d ago
+👁️ 11K • 👍 230 • 💬 29 • ⏱️ 5:23 • 1d ago
+
+---
+
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
+
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 256 • ⏱️ 16:02 • 1d ago
 
 ---
 
@@ -325,37 +325,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 21K • 👍 1K • 💬 256 • ⏱️ 1:13:07 • 1d ago
-
----
-
-**[Is Bitcoin Being Manipulated? Here’s Who’s Pulling The Strings](https://www.youtube.com/watch?v=W-O-Nx4nWrc)**
-
-Bitcoin #Crypto #Finance Bitcoin's price action is raising uncomfortable questions as capital floods in, regulation stalls, and power ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 1K • 💬 356 • ⏱️ 34:46 • 1d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 76K • 👍 5K • 💬 202 • ⏱️ 18:18 • 1d ago
-
----
-
-**[&#39;DANGEROUS&#39;: Coinbase CEO warns banks are undermining Trump&#39;s crypto agenda](https://www.youtube.com/watch?v=weJSr63HJLI)**
-
-Coinbase CEO Brian Armstrong explains his opposition to the Clarity Act on 'Mornings with Maria.' #foxbusiness ...
-
-📺 Fox Business
-
-👁️ 198K • 👍 5K • 💬 1K • ⏱️ 18:09 • 1d ago
+👁️ 22K • 👍 1K • 💬 258 • ⏱️ 1:13:07 • 1d ago
 
 ---
 
@@ -365,27 +335,57 @@ BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What
 
 📺 CryptoWendyO
 
-👁️ 20K • 👍 1K • 💬 47 • ⏱️ 3:57 • 22h ago
+👁️ 21K • 👍 1K • 💬 49 • ⏱️ 3:57 • 22h ago
 
 ---
 
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Road To $1 Million USD
+📺 Crypto World
 
-👁️ 3K • 👍 133 • 💬 19 • ⏱️ 4:55 • 21h ago
+👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 8h ago
 
 ---
 
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
+**[Is Bitcoin Being Manipulated? Here’s Who’s Pulling The Strings](https://www.youtube.com/watch?v=W-O-Nx4nWrc)**
 
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
+Bitcoin #Crypto #Finance Bitcoin's price action is raising uncomfortable questions as capital floods in, regulation stalls, and power ...
 
-📺 CNBC Television
+📺 The Wolf Of All Streets
 
-👁️ 143K • 👍 2K • 💬 469 • ⏱️ 5:15 • 2d ago
+👁️ 23K • 👍 1K • 💬 355 • ⏱️ 34:46 • 1d ago
+
+---
+
+**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
+
+LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 3K • 💬 208 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Wall Street Just Turned Its Back on Bitcoin](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
+
+Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+
+📺 Keith D
+
+👁️ 29K • 👍 3K • 💬 825 • ⏱️ 16:04 • 6h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 78K • 👍 5K • 💬 208 • ⏱️ 18:18 • 1d ago
 
 ---
 

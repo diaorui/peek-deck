@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T20:23:51.006883+00:00'
+updated: '2026-01-17T20:43:38.220290+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 20:23 UTC  
+**Last Updated:** January 17, 2026 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 5h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 16h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 17h ago
 
 ---
 
@@ -85,7 +85,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.](https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 Palantir Executive Vice President and Chief Technology Officer Shyam Sankar joins ‘Fox News Live’ to discuss using AI to spot fraud patterns nationwide, the energy and workforce questions around AI and the need to protect kids online.
 
-Fox News • 30m ago
+Fox News • 50m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Atlantic • 7h ago
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -282,27 +282,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 5h ago
+👁️ 26K • 👍 2K • 💬 270 • ⏱️ 19:38 • 5h ago
 
 ---
 
-**[I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4)**
+**[Ed Zitron: At least a quarter of AI data centres will go unused](https://www.youtube.com/watch?v=rsCGisbz04Y)**
 
-Copy this method to create a business that prints money using AI. Sabri Suby AI Service Business Research Prompt: ...
+I believe, at the very best, that a quarter of datacenter are going under.” It's very concerning that we're this far into the AI buildout ...
 
-📺 Sabri Suby
+📺 The Tech Report
 
-👁️ 9K • 👍 514 • 💬 27 • ⏱️ 51:44 • 1d ago
-
----
-
-**[AI News: Claude Can Now Control Your Computer!](https://www.youtube.com/watch?v=a_T5fjA2ulY)**
-
-Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was supposed to be a light news week. It absolutely ...
-
-📺 Matt Wolfe
-
-👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 6h ago
+👁️ 22K • 👍 1K • 💬 330 • ⏱️ 26:53 • 1d ago
 
 ---
 
@@ -312,7 +302,17 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 173K • 👍 4K • 💬 958 • ⏱️ 10:04 • 1d ago
+👁️ 183K • 👍 4K • 💬 996 • ⏱️ 10:04 • 1d ago
+
+---
+
+**[I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4)**
+
+Copy this method to create a business that prints money using AI. Sabri Suby AI Service Business Research Prompt: ...
+
+📺 Sabri Suby
+
+👁️ 10K • 👍 550 • 💬 31 • ⏱️ 51:44 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 20h ago
+👁️ 53K • 👍 2K • 💬 482 • ⏱️ 7:05 • 20h ago
 
 ---
 
@@ -332,17 +332,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 19K • 👍 510 • 💬 409 • ⏱️ 9:43 • 1d ago
-
----
-
-**[GTA 5 but it’s in Venezuela (AI Real Life Graphics) - Reimagined by AI](https://www.youtube.com/watch?v=JaUgUaelI2c)**
-
-Made using: https://app.mago.studio/?via=aillusory Grand Theft Auto V (GTA 5) Gameplay in Venezuela - Reimagined by AI ...
-
-📺 Aillusory
-
-👁️ 4K • 👍 255 • 💬 58 • ⏱️ 1:40 • 1d ago
+👁️ 19K • 👍 516 • 💬 424 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -352,17 +342,17 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 137K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
-**[This Stock Is Quietly Dominating AI (And It’s Not Nvidia)❗](https://www.youtube.com/watch?v=09-3SZYGKBk)**
+**[GTA 5 but it’s in Venezuela (AI Real Life Graphics) - Reimagined by AI](https://www.youtube.com/watch?v=JaUgUaelI2c)**
 
-JOIN JERRY'S PATREON with TRADE ALERTS: https://www.patreon.com/jerryromine Everyone's watching Nvidia. But the ...
+Made using: https://app.mago.studio/?via=aillusory Grand Theft Auto V (GTA 5) Gameplay in Venezuela - Reimagined by AI ...
 
-📺 Jerry Romine Stocks
+📺 Aillusory
 
-👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 7h ago
+👁️ 4K • 👍 259 • 💬 58 • ⏱️ 1:40 • 1d ago
 
 ---
 
@@ -372,7 +362,17 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 7K • 💬 5 • ⏱️ 19:34 • 7h ago
+👁️ 8K • 💬 5 • ⏱️ 19:34 • 7h ago
+
+---
+
+**[The AI coding boom hits software](https://www.youtube.com/watch?v=FkmuyUTZvXU)**
+
+Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for software stocks, the power of AI agents and much ...
+
+📺 CNBC Television
+
+👁️ 30K • 👍 301 • 💬 44 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -388,7 +388,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 787 • 2d ago
+⬇️ 6,001 • ❤️ 791 • 2d ago
 
 ---
 
@@ -400,7 +400,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 51,009 • ❤️ 724 • 10d ago
+⬇️ 51,009 • ❤️ 726 • 10d ago
 
 ---
 
@@ -412,7 +412,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,463,289 • ❤️ 1,116 • 3d ago
+⬇️ 1,463,289 • ❤️ 1,119 • 3d ago
 
 ---
 
@@ -436,7 +436,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 5,382 • ❤️ 263 • 2d ago
+⬇️ 5,382 • ❤️ 266 • 2d ago
 
 ---
 
@@ -446,7 +446,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 18,894 • ❤️ 258 • 2d ago
+⬇️ 18,894 • ❤️ 261 • 2d ago
 
 ---
 
@@ -482,7 +482,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 51,565 • ❤️ 298 • 2d ago
+⬇️ 51,565 • ❤️ 298 • 3d ago
 
 ---
 
@@ -494,7 +494,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 2,591 • ❤️ 165 • 2d ago
+⬇️ 2,591 • ❤️ 170 • 2d ago
 
 ---
 
@@ -508,7 +508,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 20 • 💬 1 • ⭐ 2,670 • 5d ago
+▲ 20 • 💬 1 • ⭐ 2,700 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -532,7 +532,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 20 • 💬 3 • ⭐ 15,451 • 2mo ago
+▲ 20 • 💬 3 • ⭐ 15,491 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -573,7 +573,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 135 • 💬 19 • ⭐ 50,313 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,347 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -585,7 +585,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 2 • ⭐ 1,232 • 12d ago
+▲ 28 • 💬 3 • ⭐ 1,232 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -611,7 +611,7 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 65,909 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 65,931 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
@@ -640,7 +640,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 3h ago
+⭐ 8.9k • 🔱 1.2k • 20m ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 337 • 1d ago
+⭐ 7.1k • 🔱 340 • 1d ago
 
 ---
 
@@ -660,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.8k • 🔱 262 • 15h ago
+⭐ 5.8k • 🔱 264 • 15h ago
 
 ---
 
@@ -670,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 611 • 9d ago
+⭐ 4.7k • 🔱 614 • 9d ago
 
 ---
 
@@ -690,7 +690,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.5k • 🔱 488 • 1d ago
+⭐ 2.5k • 🔱 489 • 1d ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.4k • 7h ago
+⭐ 2.4k • 🔱 2.4k • 8h ago
 
 ---
 
@@ -730,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 245 • 1d ago
+⭐ 1.6k • 🔱 246 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T20:23:51.025354+00:00'
+updated: '2026-01-17T20:43:38.238515+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 20:23 UTC  
+**Last Updated:** January 17, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -152,7 +152,7 @@ Nikkei Asia • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 7h ago
+Futurism • 8h ago
 
 ---
 
@@ -193,23 +193,23 @@ Crunchbase News • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 2d ago
-
----
-
 **[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
 Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
 📺 Ticker Symbol: YOU
 
-👁️ 117K • 👍 5K • 💬 316 • ⏱️ 17:36 • 2d ago
+👁️ 118K • 👍 5K • 💬 317 • ⏱️ 17:36 • 2d ago
+
+---
+
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 137K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -219,7 +219,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 167K • 👍 2K • 💬 402 • ⏱️ 11:46 • 6d ago
+👁️ 167K • 👍 2K • 💬 403 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -229,7 +229,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 459K • 👍 14K • 💬 808 • ⏱️ 17:09 • 5d ago
+👁️ 460K • 👍 14K • 💬 808 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -237,7 +237,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 350K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 354K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -245,7 +245,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Wowearth
 
-👁️ 128K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+👁️ 130K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
 
 ---
 
@@ -255,7 +255,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 245K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 246K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 
@@ -265,7 +265,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 125 • 💬 10 • ⏱️ 0:12 • 6d ago
+👁️ 16K • 👍 128 • 💬 10 • ⏱️ 0:12 • 6d ago
 
 ---
 
@@ -275,17 +275,17 @@ Japan is training robotic dogs for airborne assault. Recent footage from Japan's
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:45 • 6h ago
+👁️ 1K • 👍 19 • 💬 4 • ⏱️ 0:45 • 6h ago
 
 ---
 
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
 
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
 
-📺 KhanFlicks
+📺 Cybernews
 
-👁️ 26K • 💬 16 • ⏱️ 6:37 • 2d ago
+👁️ 21K • 👍 284 • 💬 38 • ⏱️ 11:29 • 6d ago
 
 ---
 
