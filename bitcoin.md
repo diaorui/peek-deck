@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T01:45:09.476515+00:00'
+updated: '2026-01-17T03:23:54.977490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 01:45 UTC  
+**Last Updated:** January 17, 2026 at 03:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,439.66
+### $95,250.86
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** +4.9%  
-**30d:** +8.2%  
-**90d:** -13.7%  
-**1y:** -8.7%  
+**7d:** +4.7%  
+**30d:** +8.0%  
+**90d:** -13.8%  
+**1y:** -8.8%  
 
 ---
 
@@ -79,63 +79,35 @@ Rank #1
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-14h ago
+15h ago
 
 ---
 
 **[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
 
-First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fanscy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
-
-2h ago
-
----
-
-**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
+First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
 4h ago
 
 ---
 
+**[BTC holding strong at $95k support. Is the path to $100k finally open, or are we looking at a double top?](https://www.reddit.com/r/Bitcoin/comments/1qf0wkb/btc_holding_strong_at_95k_support_is_the_path_to/)**
+
+Hey everyone, ​Looking at the charts today, it seems $95,000 is becoming a very important level for Bitcoin. After the recent volatility, we are seeing some solid consolidation here. ​A few things I’m watching: ● ​Support: The $94.5k - $95k zone is holding well. If we stay above this, the trend stays bullish. ● ​Volume: Trading volume is starting to steady, which usually happens before a big breakout. ● ​The Goal: Everyone is eyeing $100,000. It’s a huge psychological barrier, but the market structure looks healthy enough to test it soon. ​Personally, I think we might sideways for a few more days before the next leg up. ​What do you guys think? Are we buying this consolidation, or do you think we need a deeper correction to $90k first? ​Disclaimer: Not financial advice. Just sharing my analysis.
+
+47m ago
+
+---
+
+**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
+
+5h ago
+
+---
+
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-13h ago
-
----
-
-**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
-
-7h ago
-
----
-
-**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
-
-7h ago
-
----
-
-**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
-
-Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
-
-21h ago
-
----
-
-**[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
-
-War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
-
-14h ago
-
----
-
-**[Bitcoin doesn't require a galaxy-brain strategy. Stop overcomplicating it.](https://www.reddit.com/r/Bitcoin/comments/1qelyln/bitcoin_doesnt_require_a_galaxybrain_strategy/)**
-
-I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
-
-8h ago
+15h ago
 
 ---
 
@@ -143,7 +115,35 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 I hold a lot of USDC and want to move part of it into BTC. I prefer not to use exchanges that require identity verification. What are reliable non KYC options these days?
 
-1h ago
+2h ago
+
+---
+
+**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
+
+8h ago
+
+---
+
+**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
+
+9h ago
+
+---
+
+**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
+
+Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
+
+22h ago
+
+---
+
+**[Bitcoin doesn't require a galaxy-brain strategy. Stop overcomplicating it.](https://www.reddit.com/r/Bitcoin/comments/1qelyln/bitcoin_doesnt_require_a_galaxybrain_strategy/)**
+
+I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
+
+10h ago
 
 ---
 
@@ -153,13 +153,13 @@ I hold a lot of USDC and want to move part of it into BTC. I prefer not to use e
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 10h ago
+The New York Times • 12h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -167,35 +167,15 @@ Bloomberg.com • 16h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
 
-The Block • 12h ago
+Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
----
-
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 5h ago
-
----
-
-**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
-
-The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve](https://bitcoinmagazine.com/featured/us-gov-denies-sale-of-samourai-bitcoin)**
-
-U.S. officials say the DOJ confirmed that the bitcoin forfeited by Samourai Wallet developers wasn't sold and will stay on balance sheets.
-
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -203,7 +183,7 @@ Bitcoin Magazine • 6h ago
 
 A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -215,11 +195,33 @@ Mother Jones • 2d ago
 
 ---
 
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+
+The Block • 7h ago
+
+---
+
+**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
+
+The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve](https://bitcoinmagazine.com/featured/us-gov-denies-sale-of-samourai-bitcoin)**
+
+U.S. officials say the DOJ confirmed that the bitcoin forfeited by Samourai Wallet developers wasn't sold and will stay on balance sheets.
+
+Bitcoin Magazine • 8h ago
+
+---
+
 **[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
 
 Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -231,7 +233,7 @@ Seeking Alpha • 7h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 10h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 11h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -239,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -269,7 +271,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -297,7 +299,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 19h ago
+⬆️ 2 • 💬 4 • 21h ago
 
 ---
 
@@ -311,7 +313,7 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 257 • ⏱️ 16:02 • 8h ago
+👁️ 29K • 👍 2K • 💬 257 • ⏱️ 16:02 • 9h ago
 
 ---
 
@@ -321,7 +323,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 14K • 👍 789 • 💬 179 • ⏱️ 1:13:07 • 14h ago
+👁️ 14K • 👍 789 • 💬 179 • ⏱️ 1:13:07 • 16h ago
 
 ---
 
@@ -351,7 +353,7 @@ Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the exp
 
 📺 CNBC Television
 
-👁️ 15K • 👍 192 • 💬 47 • ⏱️ 9:06 • 12h ago
+👁️ 15K • 👍 192 • 💬 47 • ⏱️ 9:06 • 14h ago
 
 ---
 
@@ -361,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 148 • ⏱️ 43:25 • 10h ago
+👁️ 20K • 👍 1K • 💬 148 • ⏱️ 43:25 • 11h ago
 
 ---
 
@@ -371,7 +373,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 65K • 👍 4K • 💬 178 • ⏱️ 18:18 • 20h ago
+👁️ 65K • 👍 4K • 💬 178 • ⏱️ 18:18 • 22h ago
 
 ---
 

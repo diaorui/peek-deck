@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T01:45:09.482549+00:00'
+updated: '2026-01-17T03:23:54.983521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 01:45 UTC  
+**Last Updated:** January 17, 2026 at 03:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
+**24h:** +0.2%  
 **7d:** +5.3%  
-**30d:** +10.2%  
-**90d:** -17.4%  
-**1y:** -0.6%  
+**30d:** +10.3%  
+**90d:** -17.3%  
+**1y:** -0.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-9h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 13h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 15h ago
 
 ---
 
@@ -104,13 +104,13 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-2h ago
+4h ago
 
 ---
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -134,7 +134,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 23h ago
+🔗 [totems.fun](https://totems.fun/) • 1d ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
+
+The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
+
+Decrypt • 11h ago
+
+---
+
 **[Ethereum parent chain sets new record in daily transactions](https://sherwood.news/crypto/ethereum-parent-chain-sets-new-record-in-daily-transactions/)**
 
 The main drivers of the network’s transaction growth comes from increased stablecoin usage....
@@ -158,27 +166,15 @@ Sherwood News • 1d ago
 
 ---
 
-**[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
+**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
-
-Nasdaq • 2d ago
+The Block • 4h ago
 
 ---
 
-**[Etherealize co-founders: ETH will hit $15,000 by 2027](https://www.coindesk.com/markets/2026/01/16/etherealize-co-founders-eth-will-hit-usd15-000-by-2027)**
+**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-Etherealize co-founders predict $15,000 ETH by end of 2026
-
-CoinDesk • 4h ago
-
----
-
-**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
-
-The smaller chain could lose ground in an important arena during a critical period.
-
-The Motley Fool • 14h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -190,23 +186,25 @@ dlnews.com • 1d ago
 
 ---
 
+**[Ethereum faces a dangerous 40-day deadlock after BitMine’s aggressive staking forces a historic liquidity squeeze](https://cryptoslate.com/ethereum-faces-a-dangerous-40-day-deadlock-after-bitmines-aggressive-staking-forced-a-historic-liquidity-squeeze/)**
+
+Behind BitMine's $5 billion stake in Ethereum lies a complex interplay of liquidity, yield, and governance risks.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
+
+The smaller chain could lose ground in an important arena during a critical period.
+
+The Motley Fool • 16h ago
+
+---
+
 **[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
 
 Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
-
-CoinDesk • 6h ago
-
----
-
-**[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
-
-What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
 
 Yahoo Finance • 1d ago
 
@@ -220,11 +218,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum Waver–Why Did Trading Volume Drop?](https://decrypt.co/354916/bitcoin-ethereum-waver-trading-volume-drop)**
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
-The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-Decrypt • 9h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Decrypt • 9h ago
 
 📺 Stock Moe
 
-👁️ 4K • 👍 384 • 💬 10 • ⏱️ 14:06 • 4h ago
+👁️ 4K • 👍 384 • 💬 10 • ⏱️ 14:06 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 477 • 💬 53 • ⏱️ 16:47 • 10h ago
+👁️ 11K • 👍 477 • 💬 53 • ⏱️ 16:47 • 12h ago
 
 ---
 
@@ -258,7 +256,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 847 • 👍 44 • 💬 39 • ⏱️ 24:55 • 4h ago
+👁️ 847 • 👍 44 • 💬 39 • ⏱️ 24:55 • 6h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:49 • 10h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:49 • 12h ago
 
 ---
 
@@ -278,7 +276,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 160 • 💬 310 • ⏱️ 15:03 • 20h ago
+👁️ 4K • 👍 160 • 💬 310 • ⏱️ 15:03 • 21h ago
 
 ---
 
@@ -298,7 +296,7 @@ BitMine Chairman Tom Lee told shareholders the firm expects over $400 million in
 
 📺 CoinDesk
 
-👁️ 1K • 👍 36 • 💬 27 • ⏱️ 2:05 • 9h ago
+👁️ 1K • 👍 36 • 💬 27 • ⏱️ 2:05 • 11h ago
 
 ---
 
