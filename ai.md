@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T08:28:07.646679+00:00'
+updated: '2026-01-17T08:50:53.145622+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 08:28 UTC  
+**Last Updated:** January 17, 2026 at 08:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -75,17 +75,17 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 ---
 
-**[Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.](https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/)**
+**[What 3,000 AI Case Studies Actually Tell Us (And What They Don't)](https://www.reddit.com/r/artificial/comments/1qe5ax3/what_3000_ai_case_studies_actually_tell_us_and/)**
 
-Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
+I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack. Dataset (open source) on GitHub.
 
 1d ago
 
 ---
 
-**[What 3,000 AI Case Studies Actually Tell Us (And What They Don't)](https://www.reddit.com/r/artificial/comments/1qe5ax3/what_3000_ai_case_studies_actually_tell_us_and/)**
+**[Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.](https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/)**
 
-I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack. Dataset (open source) on GitHub.
+Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
 1d ago
 
@@ -119,9 +119,45 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 ## Google News: "ai"
 
-**[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
+**[China blocks Nvidia H200 AI chips that US government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report)**
 
-OpenAI • 2d ago
+Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
+
+The Guardian • 3h ago
+
+---
+
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[AI tools could make companies less competitive because everyone buys the same brain, think tank CEO says](https://www.businessinsider.com/ai-tools-could-make-companies-less-competitive-think-tank-ceo-2026-1)**
+
+The CEO of a digital economy think tank said relying on identical AI tools can erode competitive edge and weaken firms' independence.
+
+Business Insider • 17m ago
+
+---
+
+**[A.I. Is Coming to Class. These Professors Want to Ease Your Worries.](https://www.nytimes.com/2026/01/17/nyregion/ai-college-classes.html)**
+
+The New York Times • 46m ago
+
+---
+
+**[NFL divisional predictions by Microsoft Copilot AI for every playoff game](https://www.usatoday.com/story/sports/nfl/2026/01/16/nfl-playoff-divisional-picks-predictions-ai/88161843007/)**
+
+Microsoft Copilot AI was near-perfect predicting the results of the NFL's wild-card weekend. Will it repeat its success in the divisional round?
+
+USA Today • 21h ago
+
+---
+
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -137,55 +173,17 @@ Axios • 12h ago
 
 ---
 
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+**[MAGA targets Brian Mast over AI chips regulation](https://www.axios.com/2026/01/16/maga-brian-mast-ai-chips)**
 
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 9d ago
+Axios • 9h ago
 
 ---
 
-**[Gemini introduces Personal Intelligence](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)**
+**[Micron stock climbs as CEO highlights AI demand for memory](https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html)**
 
-Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
+"We need more and more memory to address that demand," Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.
 
-blog.google • 2d ago
-
----
-
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
-
-The New York Times • 1d ago
-
----
-
-**[China blocks Nvidia H200 AI chips that US government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report)**
-
-Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
-
-The Guardian • 3h ago
-
----
-
-**[Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy.](https://www.barrons.com/articles/nvidia-stock-price-analyst-buy-ai-3a0dfa05?gaa_at=eafs&gaa_n=AWEtsqeEe9eaRQCkm_0C_vHfC0HfpLDviGl28l_kuDEUbl27F3sxlRtzGZ8r&gaa_ts=696b404b&gaa_sig=HORzX4Gj4m6YixsBHKIvNfD0yrQL5pCNNTSxX85VUgpiCAchPObBhwMX7p6lyE4NhFfFZ_Sp4Mjha7xbmDm09w%3D%3D)**
-
-Barron's • 17h ago
-
----
-
-**[Glass cloth could be the next great AI shortage, as major manufacturers scramble to secure critical material — Japanese manufacturer courted by Apple, Nvidia, Google, and Amazon](https://www.tomshardware.com/tech-industry/artificial-intelligence/glass-cloth-could-be-the-next-great-ai-shortage-as-major-manufacturers-scramble-to-secure-critical-material-japanese-manufacturer-courted-by-apple-nvidia-google-and-amazon)**
-
-Limited supply and skyrocketing demand brew a perfect storm.
-
-Tom's Hardware • 21h ago
-
----
-
-**[Musk's Grok AI faces more scrutiny after generating sexual deepfake images](https://www.pbs.org/newshour/show/musks-grok-ai-faces-more-scrutiny-after-generating-sexual-deepfake-images)**
-
-Elon Musk was forced to put restrictions on X and its AI chatbot, Grok, after its image generator sparked outrage around the world. Grok created non-consensual sexualized images, prompting some countries to ban the bot. Liz Landers discussed Grok's troubles with Riana Pfefferkorn of the Stanford Institute for Human-Centered Artificial Intelligence.
-
-PBS • 8h ago
+CNBC • 14h ago
 
 ---
 
@@ -238,13 +236,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 87 • 💬 16 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 88 • 💬 16 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 85 • 💬 145 • 22h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 86 • 💬 145 • 23h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -252,7 +250,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 62 • 💬 19 • 5h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 69 • 💬 21 • 5h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -260,7 +258,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 59 • 💬 5 • 20h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 59 • 💬 5 • 21h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -282,47 +280,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 85K • 👍 6K • 💬 2K • ⏱️ 14:15 • 12h ago
-
----
-
-**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
-
-Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
-
-📺 JRE Clips
-
-👁️ 121K • 👍 3K • 💬 725 • ⏱️ 10:04 • 14h ago
-
----
-
-**[Crazy AI Beds You’ll Wish Were Real 🛏️✨ | Oddly Satisfying ASMR](https://www.youtube.com/watch?v=4rjkWa4Sjbk)**
-
-Crazy AI Beds You'll Wish Were Real 🛏️✨ | Oddly Satisfying ASMR: https://youtu.be/4rjkWa4Sjbk Step into a dream world of ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 25K • 👍 3K • 💬 104 • ⏱️ 5:38 • 19h ago
-
----
-
-**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
-
-Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
-
-📺 Lindey Glenn
-
-👁️ 111K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
-
----
-
-**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
-
-Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
-
-📺 The Young Turks
-
-👁️ 17K • 👍 484 • 💬 382 • ⏱️ 9:43 • 1d ago
+👁️ 92K • 👍 7K • 💬 2K • ⏱️ 14:15 • 12h ago
 
 ---
 
@@ -332,7 +290,47 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 15K • 👍 441 • 💬 149 • ⏱️ 7:05 • 8h ago
+👁️ 22K • 👍 556 • 💬 188 • ⏱️ 7:05 • 8h ago
+
+---
+
+**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
+
+Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
+
+📺 JRE Clips
+
+👁️ 134K • 👍 3K • 💬 769 • ⏱️ 10:04 • 14h ago
+
+---
+
+**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
+
+Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
+
+📺 The Young Turks
+
+👁️ 18K • 👍 491 • 💬 395 • ⏱️ 9:43 • 1d ago
+
+---
+
+**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
+
+Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
+
+📺 Lindey Glenn
+
+👁️ 112K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
+
+---
+
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 106K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -342,7 +340,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 22K • 👍 218 • 💬 34 • ⏱️ 6:40 • 1d ago
+👁️ 23K • 👍 224 • 💬 35 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -356,23 +354,23 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 ---
 
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+**[Future of &#39;AI doctors&#39;: Doctronic co-founders on the rise of AI prescriptions](https://www.youtube.com/watch?v=ZOX6ubU_Wq4)**
 
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to discuss the implementation of AI in health care, ...
 
-📺 Digital Engine
+📺 CNBC Television
 
-👁️ 101K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 3K • 👍 49 • 💬 11 • ⏱️ 7:53 • 18h ago
 
 ---
 
-**[Claude Cowork is Taking Over &amp; More AI Use Cases](https://www.youtube.com/watch?v=b1MBaMze_nA)**
+**[They BANNED A.I. &quot;Music&quot; 👏👏👏](https://www.youtube.com/watch?v=v6XhCMcK-3M)**
 
-Subscribe to stay up to date with AI in 2026! This week, Igor shows off some results of his Claude Cowork testing, the new Scribe ...
+Common Bandcamp W #music #ai #bandcamp #spotify #siennarose.
 
-📺 The AI Advantage
+📺 fantano
 
-👁️ 5K • 👍 233 • 💬 16 • ⏱️ 15:07 • 14h ago
+👁️ 62K • 👍 7K • 💬 265 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -388,7 +386,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 4,402 • ❤️ 767 • 1d ago
+⬇️ 6,001 • ❤️ 772 • 1d ago
 
 ---
 
@@ -400,7 +398,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 48,059 • ❤️ 707 • 9d ago
+⬇️ 51,009 • ❤️ 711 • 9d ago
 
 ---
 
@@ -412,7 +410,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,356,446 • ❤️ 1,101 • 2d ago
+⬇️ 1,463,289 • ❤️ 1,103 • 2d ago
 
 ---
 
@@ -424,7 +422,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 992 • ❤️ 317 • 2d ago
+⬇️ 1,406 • ❤️ 319 • 2d ago
 
 ---
 
@@ -434,7 +432,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 0 • ❤️ 241 • 2d ago
+⬇️ 18,894 • ❤️ 242 • 2d ago
 
 ---
 
@@ -446,7 +444,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 47,419 • ❤️ 295 • 2d ago
+⬇️ 51,565 • ❤️ 296 • 2d ago
 
 ---
 
@@ -458,7 +456,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 11,284 • ❤️ 238 • 2d ago
+⬇️ 17,417 • ❤️ 239 • 2d ago
 
 ---
 
@@ -470,7 +468,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 772 • ❤️ 228 • 1d ago
+⬇️ 5,382 • ❤️ 233 • 1d ago
 
 ---
 
@@ -482,7 +480,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 10,269 • ❤️ 268 • 11d ago
+⬇️ 11,904 • ❤️ 271 • 11d ago
 
 ---
 
@@ -494,7 +492,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 36,543 • ❤️ 266 • 7d ago
+⬇️ 42,243 • ❤️ 267 • 7d ago
 
 ---
 
@@ -534,21 +532,9 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 140 • 💬 3 • ⭐ 130 • 1d ago
+▲ 142 • 💬 3 • ⭐ 130 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
-
----
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 121 • 💬 3 • ⭐ 2,598 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
 ---
 
@@ -564,6 +550,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 121 • 💬 3 • ⭐ 2,615 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -573,7 +571,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 134 • 💬 19 • ⭐ 50,283 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,283 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -617,16 +615,17 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Ailin Huang, Chengyuan Yao, Chunrui Han et al. (93 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 StepFun
 
-▲ 29 • 💬 1 • ⭐ 67,680 • 28mo ago
+STEP3-VL-10B achieves superior multimodal performance through unified pre-training with a language-aligned Perception Encoder and Qwen3-8B decoder, combined with scaled post-training and Parallel Coordinated Reasoning for efficient large-scale visual reasoning.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 139 • 💬 5 • ⭐ 152 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.09668) • [💻 code](https://github.com/stepfun-ai/Step3-VL-10B) • [🔗 project](https://stepfun-ai.github.io/Step3-VL-10B)
 
 ---
 
@@ -640,7 +639,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 3h ago
+⭐ 8.9k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -650,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 324 • 14h ago
+⭐ 7.0k • 🔱 326 • 14h ago
 
 ---
 
@@ -660,7 +659,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 243 • 3h ago
+⭐ 5.5k • 🔱 249 • 4h ago
 
 ---
 
@@ -670,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 599 • 9d ago
+⭐ 4.5k • 🔱 601 • 9d ago
 
 ---
 
@@ -680,27 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 162 • 1d ago
-
----
-
-**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
-
-LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-`Python` `agent` `ai` `aigc` `gemini` `llm`
-
-⭐ 2.3k • 🔱 2.2k • 6h ago
-
----
-
-**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
-
-A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-`JavaScript`
-
-⭐ 2.2k • 🔱 243 • 1d ago
+⭐ 2.7k • 🔱 162 • 2m ago
 
 ---
 
@@ -710,7 +689,27 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 2.2k • 🔱 432 • 19h ago
+⭐ 2.3k • 🔱 453 • 20h ago
+
+---
+
+**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
+
+LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+`Python` `agent` `ai` `aigc` `gemini` `llm`
+
+⭐ 2.3k • 🔱 2.2k • 18m ago
+
+---
+
+**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
+
+A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+`JavaScript`
+
+⭐ 2.2k • 🔱 244 • 1d ago
 
 ---
 
@@ -730,7 +729,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 233 • 21h ago
+⭐ 1.6k • 🔱 234 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T08:28:07.664571+00:00'
+updated: '2026-01-17T08:50:53.163459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 08:28 UTC  
+**Last Updated:** January 17, 2026 at 08:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-8h ago
+9h ago
 
 ---
 
@@ -94,19 +94,19 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 ---
 
-**[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
-
-Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
-
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 18h ago
-
----
-
 **[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
 1d ago
+
+---
+
+**[Long-term deployment of retail inventory robots and operational data](https://www.reddit.com/r/robotics/comments/1qegwkx/longterm_deployment_of_retail_inventory_robots/)**
+
+Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
+
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 18h ago
 
 ---
 
@@ -142,14 +142,6 @@ Crunchbase News • 2d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 3d ago
-
----
-
 **[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
 
 US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
@@ -166,7 +158,7 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfMPgTyDmscZBl0nEiTmz7fN0DC6aVzDDIdwS5Xmh4Z9F5iqfmTxAx0&gaa_ts=696b404f&gaa_sig=iDQx-om36R70vcqXbAzm5y8Nx-o6ZN3fwa0ARFe0pAY_SO5njxa2CDkc5jEcqcCNeXkH4juv4JUgT6dcFx6Jig%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcnloQFgsyznaymJHpyj1a1TbDKtwHWUPFDoKhrDJqbOwLEBGsFLPcQ&gaa_ts=696b50dc&gaa_sig=llQicCE1kFH6se0ZtNL7h1UYPg-h9y4af2uyzA7xuqfTQnjRfPC35hNYg7Wg6YEnwEyRDc3RolSDLsKJ_JPthg%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -186,6 +178,14 @@ Automotive News • 1d ago
 
 ---
 
+**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
+
+Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
+
+Game Developer • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 101K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 106K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 101K • 👍 5K • 💬 310 • ⏱️ 17:36 • 2d ago
+👁️ 102K • 👍 5K • 💬 311 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 163K • 👍 2K • 💬 398 • ⏱️ 11:46 • 5d ago
+👁️ 164K • 👍 2K • 💬 400 • ⏱️ 11:46 • 5d ago
 
 ---
 
@@ -226,17 +226,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 454K • 👍 14K • 💬 795 • ⏱️ 17:09 • 4d ago
-
----
-
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
-
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
-
-📺 KhanFlicks
-
-👁️ 26K • 💬 16 • ⏱️ 6:37 • 1d ago
+👁️ 455K • 👍 14K • 💬 797 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -250,33 +240,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 The Laughing Lion
+📺 KhanFlicks
 
-👁️ 16K • 👍 121 • 💬 10 • ⏱️ 0:12 • 5d ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 576 • 👍 24 • 💬 1 • ⏱️ 3:19 • 15h ago
-
----
-
-**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
-
-Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 393 • 💬 52 • ⏱️ 15:23 • 19h ago
+👁️ 26K • 💬 16 • ⏱️ 6:37 • 1d ago
 
 ---
 
@@ -286,7 +256,33 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 240K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 241K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+
+---
+
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 16K • 👍 122 • 💬 10 • ⏱️ 0:12 • 5d ago
+
+---
+
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 329K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 123K • 👍 1K • 💬 67 • ⏱️ 1:16 • 3d ago
 
 ---
 

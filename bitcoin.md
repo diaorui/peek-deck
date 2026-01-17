@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T08:28:07.655261+00:00'
+updated: '2026-01-17T08:50:53.154047+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 08:28 UTC  
+**Last Updated:** January 17, 2026 at 08:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,352.31
+### $95,039.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +4.6%  
-**30d:** +7.9%  
-**90d:** -13.9%  
+**24h:** -0.4%  
+**7d:** +4.7%  
+**30d:** +8.0%  
+**90d:** -13.8%  
 **1y:** -8.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1901.38B
+**Market Cap:** $1901.78B
 Rank #1
 
-**Circulating Supply:** 19,976,790 BTC
+**Circulating Supply:** 19,976,909 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.5%
 
 **All-Time Low:** $67.81
-+140262.8%
++140290.8%
 
 ---
 
@@ -83,25 +83,25 @@ Rank #1
 
 ---
 
-**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
-
-First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
-
-9h ago
-
----
-
-**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
-
-20h ago
-
----
-
 **[Anyone here going all in in BTC and nothing else?](https://www.reddit.com/r/Bitcoin/comments/1qf5geg/anyone_here_going_all_in_in_btc_and_nothing_else/)**
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
 2h ago
+
+---
+
+**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
+
+33m ago
+
+---
+
+**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
+
+First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
+
+9h ago
 
 ---
 
@@ -113,9 +113,21 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
+**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+
+21h ago
+
+---
+
+**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
+
+7h ago
+
+---
+
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -123,19 +135,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 "When Bitcoin was here last cycle the price did this...."
 
-4h ago
-
----
-
-**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
-
-20h ago
-
----
-
-**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
-
-7h ago
+5h ago
 
 ---
 
@@ -171,23 +171,7 @@ CoinDesk • 19h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 18h ago
-
----
-
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 19h ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 15h ago
+The Block • 19h ago
 
 ---
 
@@ -205,11 +189,27 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[DOJ didn't sell Bitcoin forfeited from Samourai case: White House advisor](https://www.tradingview.com/news/cointelegraph:215b41cfd094b:0-doj-didn-t-sell-bitcoin-forfeited-from-samourai-case-white-house-advisor/)**
+**[DOJ Did Not Sell Forfeited Samourai Bitcoin, White House Crypto Advisor Says](https://finance.yahoo.com/news/doj-did-not-sell-forfeited-074510857.html)**
 
-A White House crypto advisor said he received confirmation from the US Department of Justice that no Bitcoin forfeited from the Samourai case was sold, putting rumors to rest.The confirmation was shared on X by Patrick Witt, Executive Director of the White House President’s Council of Advisors for…
+A White House crypto advisor said the US government has not sold any Bitcoin forfeited in the Samourai Wallet case, pushing back against market rumors sparked by recent on-chain activity. Key Takeaways: The DOJ confirmed it has not sold any Bitcoin forfeited in the Samourai Wallet case. The clarification follows ...
 
-TradingView — Track All Markets • 8h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 15h ago
+
+---
+
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Motley Fool • 22h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 16h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 17h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -237,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -303,23 +303,23 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
-
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
-
-📺 What Bitcoin Did
-
-👁️ 17K • 👍 868 • 💬 196 • ⏱️ 1:13:07 • 21h ago
-
----
-
 **[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
 Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 163 • ⏱️ 8:18 • 10h ago
+👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 11h ago
+
+---
+
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
+
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
+
+📺 What Bitcoin Did
+
+👁️ 18K • 👍 894 • 💬 208 • ⏱️ 1:13:07 • 21h ago
 
 ---
 
@@ -329,27 +329,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 193 • 💬 35 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 22K • 👍 1K • 💬 149 • ⏱️ 43:25 • 16h ago
-
----
-
-**[MASSIVE Trade Setup ON BITCOIN RIGHT NOW! Is Bitcoin About To Rally? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=mLLxl1wLi0w)**
-
-A MAJOR Rally Up To $100k is HIGHLY LIKELY at this point! Are you ready? Sign Up For Phemex and get 35A Mastery for ...
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 240 • 💬 102 • ⏱️ 6:45 • 13h ago
+👁️ 10K • 👍 197 • 💬 35 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -359,7 +339,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 219 • ⏱️ 11:32 • 1d ago
+👁️ 64K • 👍 3K • 💬 217 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -369,7 +349,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 187 • ⏱️ 18:18 • 1d ago
+👁️ 70K • 👍 4K • 💬 190 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -379,7 +359,37 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 9h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 10h ago
+
+---
+
+**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
+
+Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
+
+📺 Swan Bitcoin
+
+👁️ 45K • 👍 2K • 💬 94 • ⏱️ 14:15 • 1d ago
+
+---
+
+**[BITCOIN PATH TO NEW HIGHS](https://www.youtube.com/watch?v=OyRtuWBB63Q)**
+
+Bitcoin's path to new highs is coming into focus as momentum, on-chain data, and macro trends align. In today's crypto news, we ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 141 • 💬 7 • ⏱️ 0:32 • 2d ago
+
+---
+
+**[Bitcoin Mastermind Q1 2026 w/ Joe Carlasare, Jeff Ross, &amp; American HODL (BTC257)](https://www.youtube.com/watch?v=bzzFBvzONBo)**
+
+From Venezuela to Taiwan, AI disruption to Bitcoin trends—this episode dives into shifting global power, evolving economic ...
+
+📺 Preston Pysh
+
+👁️ 17K • 👍 854 • 💬 190 • ⏱️ 1:22:16 • 2d ago
 
 ---
 
@@ -389,17 +399,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 129K • 👍 2K • 💬 446 • ⏱️ 5:15 • 1d ago
-
----
-
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
-
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 3K • 💬 201 • ⏱️ 21:24 • 1d ago
+👁️ 132K • 👍 2K • 💬 450 • ⏱️ 5:15 • 1d ago
 
 ---
 
