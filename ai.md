@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T16:25:26.950694+00:00'
+updated: '2026-01-17T16:46:19.337309+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 16:25 UTC  
+**Last Updated:** January 17, 2026 at 16:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 1h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 2h ago
 
 ---
 
@@ -49,13 +49,13 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 12h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 13h ago
 
 ---
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 20h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 21h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 23h ago
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 56m ago
 
 AI-driven pay changes at Meta, Google, Amazon, and Nvidia prioritize standout individual contributors over traditional management roles.
 
-Business Insider • 55m ago
+Business Insider • 1h ago
 
 ---
 
@@ -354,7 +354,7 @@ There's a scene in the 2005 Charlie and the Chocolate Factory that I think about
 
 📺 Real Life Fake Wizard
 
-👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 21h ago
+👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 22h ago
 
 ---
 
@@ -374,7 +374,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 81K • 👍 3K • 💬 396 • ⏱️ 19:03 • 2d ago
+👁️ 81K • 👍 3K • 💬 396 • ⏱️ 19:03 • 3d ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 337 • 21h ago
+⭐ 7.1k • 🔱 337 • 22h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 257 • 11h ago
+⭐ 5.7k • 🔱 257 • 12h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 3h ago
+⭐ 2.4k • 🔱 2.3k • 4h ago
 
 ---
 

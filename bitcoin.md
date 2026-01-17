@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T16:25:26.959066+00:00'
+updated: '2026-01-17T16:46:19.345905+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 16:25 UTC  
+**Last Updated:** January 17, 2026 at 16:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -139,7 +139,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-54m ago
+1h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 1d ago
 
 The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 195 • ⏱️ 8:18 • 18h ago
+👁️ 33K • 👍 2K • 💬 195 • ⏱️ 8:18 • 19h ago
 
 ---
 
@@ -351,7 +351,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 17h ago
+👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 18h ago
 
 ---
 
