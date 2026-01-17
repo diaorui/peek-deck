@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T09:21:33.132964+00:00'
+updated: '2026-01-17T09:41:46.980355+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 09:21 UTC  
+**Last Updated:** January 17, 2026 at 09:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -115,7 +115,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 20h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -237,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -359,7 +359,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 10h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 11h ago
 
 ---
 

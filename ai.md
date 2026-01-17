@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T09:21:33.124319+00:00'
+updated: '2026-01-17T09:41:46.971971+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 09:21 UTC  
+**Last Updated:** January 17, 2026 at 09:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 13h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 14h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 5h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 The CEO of a digital economy think tank said relying on identical AI tools can erode competitive edge and weaken firms' independence.
 
-Business Insider • 48m ago
+Business Insider • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 59 • 💬 5 • 21h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 59 • 💬 5 • 22h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -639,7 +639,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 4h ago
+⭐ 8.9k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -649,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 326 • 14h ago
+⭐ 7.0k • 🔱 326 • 15h ago
 
 ---
 
@@ -679,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 162 • 33m ago
+⭐ 2.7k • 🔱 162 • 53m ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.2k • 49m ago
+⭐ 2.3k • 🔱 2.2k • 1h ago
 
 ---
 
