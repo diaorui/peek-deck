@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T20:43:38.228860+00:00'
+updated: '2026-01-17T21:19:18.616647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 20:43 UTC  
+**Last Updated:** January 17, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,25 +87,25 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-7h ago
+8h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,13 +119,13 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 **[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin's true measure is gold, or dollars ?](https://www.reddit.com/r/Bitcoin/comments/1qfh5wy/bitcoins_true_measure_is_gold_or_dollars/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Do you think this is still a realistic, positiv scenario today?
 
-9h ago
+10h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 45m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -335,7 +335,7 @@ BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What
 
 📺 CryptoWendyO
 
-👁️ 21K • 👍 1K • 💬 49 • ⏱️ 3:57 • 22h ago
+👁️ 21K • 👍 1K • 💬 49 • ⏱️ 3:57 • 23h ago
 
 ---
 
@@ -345,7 +345,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 8h ago
+👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 29K • 👍 3K • 💬 825 • ⏱️ 16:04 • 6h ago
+👁️ 29K • 👍 3K • 💬 825 • ⏱️ 16:04 • 7h ago
 
 ---
 

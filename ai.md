@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T20:43:38.220290+00:00'
+updated: '2026-01-17T21:19:18.609118+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 20:43 UTC  
+**Last Updated:** January 17, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-15h ago
+16h ago
 
 ---
 
@@ -91,7 +91,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 3h ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 **[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqegP24k-sqF8-4t0CuG73xOtlD1l4R7IbYc7sjBn7Sr8tT5pgODvJQZ&gaa_ts=696bf33d&gaa_sig=Jm8miUZ1VoHBiBkTtk3-BFvFXfHjsDwOeCAOkkX1V0k718PUPmQyhBc8f32yfr8Ays6s2uLkQ5ymV5FlVRzJcw%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -125,7 +125,7 @@ The Wall Street Journal • 3h ago
 
 Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 Palantir Executive Vice President and Chief Technology Officer Shyam Sankar joins ‘Fox News Live’ to discuss using AI to spot fraud patterns nationwide, the energy and workforce questions around AI and the need to protect kids online.
 
-Fox News • 50m ago
+Fox News • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 2d ago
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 10h ago
 
 AI is offering people a way to figure out what they really want in romance.
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 5h ago
 
 Star fund manager Stanley Druckenmiller sold Broadcom and bought Sandisk in the third quarter.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -205,7 +205,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 265 • 💬 171 • 2d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 265 • 💬 171 • 3d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -244,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 85 • 💬 25 • 17h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 85 • 💬 25 • 18h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -252,7 +252,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 78 • 💬 72 • 7h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 78 • 💬 72 • 8h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -282,7 +282,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 26K • 👍 2K • 💬 270 • ⏱️ 19:38 • 5h ago
+👁️ 26K • 👍 2K • 💬 270 • ⏱️ 19:38 • 6h ago
 
 ---
 
@@ -322,7 +322,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 53K • 👍 2K • 💬 482 • ⏱️ 7:05 • 20h ago
+👁️ 53K • 👍 2K • 💬 482 • ⏱️ 7:05 • 21h ago
 
 ---
 
@@ -362,7 +362,7 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 8K • 💬 5 • ⏱️ 19:34 • 7h ago
+👁️ 8K • 💬 5 • ⏱️ 19:34 • 8h ago
 
 ---
 
@@ -640,7 +640,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 20m ago
+⭐ 8.9k • 🔱 1.2k • 56m ago
 
 ---
 
@@ -660,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.8k • 🔱 264 • 15h ago
+⭐ 5.8k • 🔱 264 • 16h ago
 
 ---
 
@@ -670,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 614 • 9d ago
+⭐ 4.7k • 🔱 614 • 10d ago
 
 ---
 
@@ -680,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 164 • 2h ago
+⭐ 2.8k • 🔱 164 • 3h ago
 
 ---
 
