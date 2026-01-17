@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T15:21:24.005494+00:00'
+updated: '2026-01-17T15:41:51.675921+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 15:21 UTC  
+**Last Updated:** January 17, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1903.74B
+**Market Cap:** $1907.78B
 Rank #1
 
-**Circulating Supply:** 19,976,909 BTC
+**Circulating Supply:** 19,977,034 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.4%
+-24.2%
 
 **All-Time Low:** $67.81
-+140451.5%
++140756.8%
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 1d ago
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 2h ago
 
 The world's leading cryptocurrency has made early adopters incredibly wealthy.
 
-The Motley Fool • 6m ago
+The Motley Fool • 26m ago
 
 ---
 
@@ -209,7 +209,7 @@ MarketWatch • 22h ago
 
 Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -237,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -291,13 +291,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
-📺 Yahoo Finance
+📺 Altcoin Daily
 
-👁️ 10K • 👍 205 • 💬 32 • ⏱️ 5:23 • 1d ago
+👁️ 33K • 👍 2K • 💬 195 • ⏱️ 8:18 • 17h ago
 
 ---
 
@@ -307,17 +307,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 19K • 👍 938 • 💬 225 • ⏱️ 1:13:07 • 1d ago
+👁️ 20K • 👍 969 • 💬 261 • ⏱️ 1:13:07 • 1d ago
 
 ---
 
-**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 17h ago
+👁️ 10K • 👍 212 • 💬 33 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -327,17 +327,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 213 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=zwMsWZxhhRs)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Goodguys2Greatmen
-
-👁️ 3K • 👍 1K • 2h ago
+👁️ 65K • 👍 3K • 💬 211 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -347,7 +337,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 73K • 👍 4K • 💬 194 • ⏱️ 18:18 • 1d ago
+👁️ 74K • 👍 4K • 💬 195 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -357,7 +347,17 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 16h ago
+👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 17h ago
+
+---
+
+**[NO ONE IS SELLING THEIR BITCOIN](https://www.youtube.com/watch?v=amV45dVqqt8)**
+
+No one is selling their Bitcoin—and that supply shock could be massive for crypto markets. In today's crypto news, we break down ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 68 • 💬 3 • ⏱️ 0:11 • 2d ago
 
 ---
 
@@ -367,7 +367,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 137K • 👍 2K • 💬 464 • ⏱️ 5:15 • 1d ago
+👁️ 139K • 👍 2K • 💬 465 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -381,13 +381,13 @@ Coinbase pulls out of the highly anticipated crypto financial markup bill comple
 
 ---
 
-**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
 
-Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Fox Business
+📺 Crypto World
 
-👁️ 24K • 👍 491 • 💬 23 • ⏱️ 1:06 • 1d ago
+👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 3h ago
 
 ---
 

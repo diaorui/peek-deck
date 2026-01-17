@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T15:21:23.996689+00:00'
+updated: '2026-01-17T15:41:51.667265+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 15:21 UTC  
+**Last Updated:** January 17, 2026 at 15:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 11h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 12h ago
 
 ---
 
@@ -49,13 +49,13 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 43m ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 1h ago
 
 ---
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 19h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 20h ago
 
 ---
 
@@ -135,7 +135,7 @@ OpenAI • 21h ago
 
 Dr. Danielle Bitterman of MGH Brigham discusses the pros and cons of ChatGPT Health, an AI app designed to answer personal health questions.
 
-WCVB • 10m ago
+WCVB • 30m ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1d ago
 
 **[Trump Is Pushing Gas to Power AI Boom, But Building Plants Take Years](https://www.bloomberg.com/news/articles/2026-01-17/trump-is-pushing-gas-to-power-ai-boom-but-building-plants-take-years)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 50m ago
 
 In partnership with the Texas A&M Transportation Institute, UNT is using a $400,000 grant to focus on how the technology could make commutes safer.
 
-CBS News • 56m ago
+CBS News • 1h ago
 
 ---
 
@@ -274,13 +274,23 @@ Starlink quietly enabled third-party AI model training on its customers' persona
 
 ## YouTube Videos: "ai"
 
-**[Trump calls emergency as AI bubble crashes](https://www.youtube.com/watch?v=_JWRQdWHZlQ)**
+**[I Tried Every 2026 AI Video Generator (These Win)](https://www.youtube.com/watch?v=_m7rI6RZkSc)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Access the BEST Video Models in OpenArt https://roboverse-ai.com/AI-Video-2026 In this video, I test the five AI video ...
 
-📺 Chris Norlund
+📺 Roboverse
 
-👁️ 103K • 👍 7K • 💬 2K • ⏱️ 14:15 • 19h ago
+👁️ 3K • 💬 5 • ⏱️ 15:43 • 1h ago
+
+---
+
+**[Ed Zitron: At least a quarter of AI data centres will go unused](https://www.youtube.com/watch?v=rsCGisbz04Y)**
+
+I believe, at the very best, that a quarter of datacenter are going under.” It's very concerning that we're this far into the AI buildout ...
+
+📺 The Tech Report
+
+👁️ 17K • 👍 874 • 💬 274 • ⏱️ 26:53 • 21h ago
 
 ---
 
@@ -290,7 +300,17 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 153K • 👍 3K • 💬 875 • ⏱️ 10:04 • 21h ago
+👁️ 161K • 👍 4K • 💬 912 • ⏱️ 10:04 • 21h ago
+
+---
+
+**[Trump calls emergency as AI bubble crashes](https://www.youtube.com/watch?v=_JWRQdWHZlQ)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 19h ago
 
 ---
 
@@ -300,17 +320,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 30K • 👍 843 • 💬 291 • ⏱️ 7:05 • 15h ago
-
----
-
-**[I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4)**
-
-Copy this method to create a business that prints money using AI. Sabri Suby AI Service Business Research Prompt: ...
-
-📺 Sabri Suby
-
-👁️ 7K • 👍 448 • 💬 27 • ⏱️ 51:44 • 20h ago
+👁️ 35K • 👍 1K • 💬 345 • ⏱️ 7:05 • 15h ago
 
 ---
 
@@ -320,7 +330,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 18K • 👍 491 • 💬 405 • ⏱️ 9:43 • 1d ago
+👁️ 18K • 👍 501 • 💬 406 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -330,17 +340,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 113K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
-
----
-
-**[US Unveils AI Drone Swarm Built to Annihilate Targets](https://www.youtube.com/watch?v=0PiA7H4t3II)**
-
-The US military has unveiled an AI-powered drone swarm capable of selecting and annihilating targets autonomously, calling it ...
-
-📺 New York Post
-
-👁️ 16K • 👍 326 • 💬 196 • ⏱️ 2:05 • 22h ago
+👁️ 119K • 👍 6K • 💬 2K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -350,7 +350,7 @@ There's a scene in the 2005 Charlie and the Chocolate Factory that I think about
 
 📺 Real Life Fake Wizard
 
-👁️ 13K • 👍 2K • 💬 754 • ⏱️ 24:24 • 20h ago
+👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 20h ago
 
 ---
 
@@ -360,7 +360,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 25K • 👍 247 • 💬 37 • ⏱️ 6:40 • 1d ago
+👁️ 26K • 👍 266 • 💬 39 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -370,7 +370,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 80K • 👍 3K • 💬 396 • ⏱️ 19:03 • 2d ago
+👁️ 81K • 👍 3K • 💬 396 • ⏱️ 19:03 • 2d ago
 
 ---
 
@@ -386,7 +386,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 780 • 2d ago
+⬇️ 6,001 • ❤️ 785 • 2d ago
 
 ---
 
@@ -398,7 +398,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 51,009 • ❤️ 716 • 9d ago
+⬇️ 51,009 • ❤️ 718 • 9d ago
 
 ---
 
@@ -410,7 +410,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,463,289 • ❤️ 1,110 • 2d ago
+⬇️ 1,463,289 • ❤️ 1,113 • 2d ago
 
 ---
 
@@ -434,7 +434,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 5,382 • ❤️ 249 • 2d ago
+⬇️ 5,382 • ❤️ 255 • 2d ago
 
 ---
 
@@ -444,7 +444,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 18,894 • ❤️ 247 • 2d ago
+⬇️ 18,894 • ❤️ 253 • 2d ago
 
 ---
 
@@ -456,7 +456,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 17,417 • ❤️ 246 • 2d ago
+⬇️ 17,417 • ❤️ 247 • 2d ago
 
 ---
 
@@ -468,7 +468,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 11,904 • ❤️ 274 • 11d ago
+⬇️ 11,904 • ❤️ 275 • 11d ago
 
 ---
 
@@ -480,7 +480,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 51,565 • ❤️ 296 • 2d ago
+⬇️ 51,565 • ❤️ 298 • 2d ago
 
 ---
 
@@ -492,7 +492,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 2,591 • ❤️ 158 • 2d ago
+⬇️ 2,591 • ❤️ 162 • 2d ago
 
 ---
 
@@ -506,7 +506,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 19 • 💬 1 • ⭐ 2,670 • 5d ago
+▲ 20 • 💬 1 • ⭐ 2,670 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -518,7 +518,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,120 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,190 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 333 • 20h ago
+⭐ 7.1k • 🔱 337 • 21h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 256 • 10h ago
+⭐ 5.7k • 🔱 257 • 10h ago
 
 ---
 
@@ -668,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 606 • 9d ago
+⭐ 4.6k • 🔱 610 • 9d ago
 
 ---
 
@@ -688,7 +688,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.5k • 🔱 479 • 1d ago
+⭐ 2.5k • 🔱 484 • 1d ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 2h ago
+⭐ 2.4k • 🔱 2.3k • 3h ago
 
 ---
 
@@ -718,7 +718,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 135 • 1d ago
+⭐ 1.7k • 🔱 136 • 1d ago
 
 ---
 
@@ -728,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 238 • 1d ago
+⭐ 1.6k • 🔱 243 • 1d ago
 
 ---
 

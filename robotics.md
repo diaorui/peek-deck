@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T15:21:24.014843+00:00'
+updated: '2026-01-17T15:41:51.685250+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 15:21 UTC  
+**Last Updated:** January 17, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-20m ago
+41m ago
 
 ---
 
@@ -90,7 +90,7 @@ There is a vocabulary problem in scientific robotics right now. We are seeing th
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-12h ago
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-15h ago
+16h ago
 
 ---
 
@@ -176,7 +176,7 @@ MarketWatch • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 2h ago
+Futurism • 3h ago
 
 ---
 
@@ -198,7 +198,17 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 113K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 119K • 👍 6K • 💬 2K • ⏱️ 19:17 • 1d ago
+
+---
+
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 105K • 👍 5K • 💬 313 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -212,53 +222,13 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 ---
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 104K • 👍 5K • 💬 313 • ⏱️ 17:36 • 2d ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 3:19 • 22h ago
-
----
-
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 99K • 👍 1K • 💬 177 • ⏱️ 10:48 • 7d ago
-
----
-
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 457K • 👍 14K • 💬 799 • ⏱️ 17:09 • 5d ago
-
----
-
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
-
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
-
-📺 The Laughing Lion
-
-👁️ 16K • 👍 125 • 💬 10 • ⏱️ 0:12 • 5d ago
+👁️ 457K • 👍 14K • 💬 805 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -266,7 +236,17 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 Chris Wabs
 
-👁️ 336K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
+👁️ 340K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 244K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 
@@ -280,13 +260,31 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 joeybtoonz
+📺 DPCcars
 
-👁️ 243K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 2K • 👍 39 • 💬 4 • ⏱️ 3:19 • 22h ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 127K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+
+---
+
+**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
+
+Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 418 • 💬 55 • ⏱️ 15:23 • 1d ago
 
 ---
 
