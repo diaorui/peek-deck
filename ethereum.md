@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T22:20:23.281064+00:00'
+updated: '2026-01-17T22:44:13.518012+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 22:20 UTC  
+**Last Updated:** January 17, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,316.79
+### $3,303.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +6.0%  
-**30d:** +10.9%  
-**90d:** -16.9%  
-**1y:** +0.1%  
+**24h:** +0.2%  
+**7d:** +5.8%  
+**30d:** +10.8%  
+**90d:** -17.0%  
+**1y:** -0.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.16B
+**Market Cap:** $398.37B
 Rank #2
 
 **Circulating Supply:** 120,694,601 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.0%
+-33.3%
 
 **All-Time Low:** $0.43
-+765660.0%
++762228.0%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,12 +97,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
 23h ago
-
----
-
-**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
-
-5h ago
 
 ---
 
@@ -144,6 +138,14 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 ---
 
+**[Programmable tokens on Base.](https://www.reddit.com/r/ethereum/comments/1qe3xji/programmable_tokens_on_base/)**
+
+The modular token standard.
+
+🔗 [totems.fun](https://totems.fun/) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -168,25 +170,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
-
-Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
-
-dlnews.com • 2d ago
-
----
-
-**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
-
-The Block • 3d ago
-
----
-
 **[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
+
+The Block • 2d ago
 
 ---
 
@@ -198,11 +192,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
 
-Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-Nasdaq • 2d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -222,6 +216,14 @@ This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin.
 
 ---
 
+**[Ethereum (ETH): First Enormous Breakthrough Since May 2025](https://www.tradingview.com/news/u_today:baceb161b094b:0-ethereum-eth-first-enormous-breakthrough-since-may-2025/)**
+
+Ethereum is at last regaining and maintaining above the 200-day EMA, something it has been unable to do for the majority of the previous eight months. Technically speaking, this is not a cosmetic detail. The 200 EMA has served as a boundary between long-term trends and dead-cat bounces for ETH.Long…
+
+TradingView — Track All Markets • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +234,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 122 • ⏱️ 10:28 • 5h ago
+👁️ 27K • 👍 2K • 💬 230 • ⏱️ 10:28 • 5h ago
 
 ---
 
@@ -242,17 +244,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Stock Moe
 
-👁️ 6K • 👍 567 • 💬 41 • ⏱️ 15:35 • 8h ago
-
----
-
-**[ETH Ethereum Price Prediction: 17th of January](https://www.youtube.com/watch?v=vpkd8jNtqDs)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 237 • 👍 34 • 💬 44 • ⏱️ 14:00 • 5h ago
+👁️ 7K • 👍 605 • 💬 42 • ⏱️ 15:35 • 9h ago
 
 ---
 
@@ -262,17 +254,27 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 6K • 👍 181 • 💬 29 • ⏱️ 24:55 • 1d ago
+👁️ 6K • 👍 185 • 💬 41 • ⏱️ 24:55 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MgAxwhzlD9w)**
+**[ETH Ethereum Price Prediction: 17th of January](https://www.youtube.com/watch?v=vpkd8jNtqDs)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 96 • 💬 5 • ⏱️ 4:59 • 7h ago
+👁️ 320 • 👍 38 • 💬 42 • ⏱️ 14:00 • 5h ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 538 • 💬 38 • ⏱️ 12:19 • 1h ago
 
 ---
 
@@ -282,7 +284,17 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 10h ago
+👁️ 6K • 👍 309 • 💬 158 • ⏱️ 22:05 • 10h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MgAxwhzlD9w)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 101 • 💬 6 • ⏱️ 4:59 • 8h ago
 
 ---
 
@@ -292,7 +304,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 715 • 💬 42 • ⏱️ 16:47 • 1d ago
+👁️ 20K • 👍 731 • 💬 42 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -302,17 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 4:27 • 16h ago
-
----
-
-**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors In January!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 182 • 💬 239 • ⏱️ 15:03 • 1d ago
+👁️ 2K • 👍 125 • 💬 6 • ⏱️ 4:27 • 16h ago
 
 ---
 
@@ -322,7 +324,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 63 • 💬 107 • ⏱️ 6:39 • 2d ago
+👁️ 2K • 👍 66 • 💬 90 • ⏱️ 6:39 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T22:20:23.274821+00:00'
+updated: '2026-01-17T22:44:13.512071+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 22:20 UTC  
+**Last Updated:** January 17, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,340.83
+### $95,278.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +4.8%  
-**30d:** +8.1%  
-**90d:** -13.7%  
-**1y:** -8.8%  
+**24h:** -0.5%  
+**7d:** +4.6%  
+**30d:** +7.9%  
+**90d:** -13.9%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1903.02B
+**Market Cap:** $1898.85B
 Rank #1
 
-**Circulating Supply:** 19,977,125 BTC
+**Circulating Supply:** 19,977,156 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.4%
+-24.6%
 
 **All-Time Low:** $67.81
-+140383.7%
++140131.5%
 
 ---
 
@@ -103,15 +103,15 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 ---
 
-**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
-
-17h ago
-
----
-
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
 2h ago
+
+---
+
+**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
+
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-6h ago
+7h ago
 
 ---
 
@@ -135,11 +135,11 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 ---
 
-**[Anyone here going all in in BTC and nothing else?](https://www.reddit.com/r/Bitcoin/comments/1qf5geg/anyone_here_going_all_in_in_btc_and_nothing_else/)**
+**[Is the recent Bitcoin rally a dead cat bounce or the beginning of a major bull run?](https://www.reddit.com/r/Bitcoin/comments/1qflkm6/is_the_recent_bitcoin_rally_a_dead_cat_bounce_or/)**
 
-Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
+Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
 
-16h ago
+3h ago
 
 ---
 
@@ -153,27 +153,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+**[‘Serious Concern’—Trump Just Quietly Revealed A Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/17/serious-concern-trump-just-quietly-revealed-a-bitcoin-price-game-changer/)**
 
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+Bitcoin and crypto prices have surged into 2026, with bitcoin nearing $100,000 and adding 10% since its December lows...
 
-CoinDesk • 1d ago
-
----
-
-**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
-
-Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
-
-Gizmodo • 1h ago
-
----
-
-**[Bitcoin-loving burger joint Steak ‘n Shake adds $10m to crypto treasury](https://finance.yahoo.com/news/bitcoin-loving-burger-joint-steak-175639464.html)**
-
-Burger chain Steak ‘n Shake has added $10 million in Bitcoin to its strategic reserve. The restaurant franchise last year started accepting Bitcoin payments. Steak ‘n Shake claims sales have increased since it started accepting crypto.
-
-Yahoo Finance • 4h ago
+Forbes • 9h ago
 
 ---
 
@@ -185,17 +169,39 @@ CoinDesk • 2h ago
 
 ---
 
+**[Peter Schiff Has Advice For Iranians Dealing With Collapse Of Their Currency And Instead Of Bitcoin He Wants Them To Choose A Crypto Like This](https://finance.yahoo.com/news/peter-schiff-advice-iranians-dealing-203157611.html)**
+
+Economist Peter Schiff said in an interview aired Thursday that he’d prefer a gold-backed cryptocurrency over Bitcoin (CRYPTO: BTC) during a crisis like the one in Iran. Schiff Choses Gold Again Appearing on the Randi Hipper show, Schiff said that...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
+
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqfjfoMdMi_4lnOCUz-yJbDuVWKu8DnghndylfSLq-A1PKEDhZG7l5he&gaa_ts=696c1428&gaa_sig=HljnU-XsZLex13C19ns2kqSq7Wt1kyFfsgOV4hcQPxjfraZdyduribeeRUvk-2semh08793bLYbJjUXKKzxfxA%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -210,14 +216,6 @@ The Block • 1d ago
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
 CoinDesk • 1d ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 1d ago
 
 ---
 
@@ -254,6 +252,14 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
 ⬆️ 2 • 💬 0 • 5d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+
+---
+
+**[New fintech company claims Bitcoin will reach 100M by 2050](https://news.ycombinator.com/item?id=46662735)**
+
+Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
+
+⬆️ 1 • 💬 1 • 17m ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -305,17 +311,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 184 • ⏱️ 8:18 • 1d ago
-
----
-
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 11K • 👍 230 • 💬 29 • ⏱️ 5:23 • 1d ago
+👁️ 37K • 👍 2K • 💬 186 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -325,7 +321,17 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 256 • ⏱️ 16:02 • 1d ago
+👁️ 52K • 👍 3K • 💬 251 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+
+📺 Yahoo Finance
+
+👁️ 12K • 👍 238 • 💬 27 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -335,7 +341,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 22K • 👍 1K • 💬 258 • ⏱️ 1:13:07 • 1d ago
+👁️ 23K • 👍 1K • 💬 258 • ⏱️ 1:13:07 • 1d ago
+
+---
+
+**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
+
+Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+
+📺 Keith D
+
+👁️ 35K • 👍 3K • 💬 870 • ⏱️ 16:04 • 8h ago
 
 ---
 
@@ -345,27 +361,7 @@ BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What
 
 📺 CryptoWendyO
 
-👁️ 21K • 👍 1K • 💬 49 • ⏱️ 3:57 • 1d ago
-
----
-
-**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
-
-BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 289 • 💬 208 • ⏱️ 22:05 • 10h ago
-
----
-
-**[Is Bitcoin Being Manipulated? Here’s Who’s Pulling The Strings](https://www.youtube.com/watch?v=W-O-Nx4nWrc)**
-
-Bitcoin #Crypto #Finance Bitcoin's price action is raising uncomfortable questions as capital floods in, regulation stalls, and power ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 1K • 💬 355 • ⏱️ 34:46 • 1d ago
+👁️ 21K • 👍 1K • 💬 183 • ⏱️ 3:57 • 1d ago
 
 ---
 
@@ -375,17 +371,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 208 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Wall Street Just Turned Its Back on Bitcoin](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
-
-Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
-
-📺 Keith D
-
-👁️ 29K • 👍 3K • 💬 825 • ⏱️ 16:04 • 8h ago
+👁️ 67K • 👍 3K • 💬 204 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -395,7 +381,27 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 5K • 💬 208 • ⏱️ 18:18 • 1d ago
+👁️ 79K • 👍 5K • 💬 208 • ⏱️ 18:18 • 1d ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
+
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 309 • 💬 158 • ⏱️ 22:05 • 10h ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 139 • 💬 18 • ⏱️ 4:55 • 1d ago
 
 ---
 

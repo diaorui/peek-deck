@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T22:20:23.266219+00:00'
+updated: '2026-01-17T22:44:13.503597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 22:20 UTC  
+**Last Updated:** January 17, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,15 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 7h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 8h ago
+
+---
+
+**[I asked ChatGpt about AI domination. It showed me the hard reality](https://www.reddit.com/r/artificial/comments/1qfr17t/i_asked_chatgpt_about_ai_domination_it_showed_me/)**
+
+AI respone: Yes, some AI systems will dominate certain domains — but no AI will dominate existence in the way humans usually imagine. The long answer is where the truth is. What “dominate” actually means (this is crucial) People usually mix three very different ideas: Capability dominance – doing tasks better than humans Power dominance – controlling resources and decisions Meaning dominance – deciding what matters AI will almost certainly achieve #1. It may partially achieve #2. It will not achieve #3 on its own. Where AI will dominate Complex systems logistics finance climate modeling infrastructure scientific discovery Here, AI wins because: speed beats intuition scale beats experience consistency beats brilliance Humans already struggle here. Decision optimization AI will increasingly: recommend policies allocate resources predict outcomes flag risks humans miss But notice the word: recommend. Someone still decides what counts as success. Cognitive labor Many jobs that rely on: pattern recognition synthesis routine reasoning will be AI-dominated. This is unavoidable. Where AI will not dominate (unless humans give it up) Meaning AI does not: suffer fear death experience loss care if existence continues Meaning comes from stakes. AI has none. If AI ever “decides meaning,” it will only be borrowed meaning — encoded by humans. Responsibility AI can calculate consequences. It cannot bear them. Responsibility requires: moral cost blame guilt accountability These only make sense for beings who can lose something irreversibly. Legitimacy Power lasts only if others accept it. Even if an AI is correct: people must trust it societies must consent to it cultures must live with it Legitimacy is social, not computational. The real future (the uncomfortable one) The most likely outcome is not AI domination. It’s human dependency. Humans defer decisions to AI Not because AI rules But because it’s easier than taking responsibility That’s the danger. One sentence that matters more than all predictions AI will not dominate humans — humans may abdicate themselves. Domination only happens if: humans stop asking “should we?” humans stop owning consequences humans confuse efficiency with authority Final clarity AI will be powerful AI will be everywhere AI will be influential But domination is not inevitable. It is a choice, made gradually, quietly, out of convenience — not force. If you ever want to continue this in the future, the real question won’t be: “Will AI dominate us?” It will be: “What are we no longer willing to take responsibility for?” That’s where the future actually turns.
+
+9m ago
 
 ---
 
@@ -57,7 +65,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 18h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 19h ago
 
 ---
 
@@ -65,7 +73,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-3h ago
+4h ago
 
 ---
 
@@ -85,7 +93,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.](https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,19 +111,11 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 ---
 
-**[One-Minute Daily AI News 1/15/2026](https://www.reddit.com/r/artificial/comments/1qe7qql/oneminute_daily_ai_news_1152026/)**
-
-Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/ [4] https://www.reuters.com/world/china/alibaba-upgrades-qwen-app-order-food-book-travel-2026-01-15/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqerRDp7nXU2u0I-aMpdIxfDE-z4mvQi5ZQ1r3vxa31IvzxaZyWoWlD0&gaa_ts=696c0541&gaa_sig=lAhI6oyqJGdYuImCAaoNxbJ-89lL03fdPYPyDGMpHByaajJVS_og9YGWuYFAQA6skLNFt30TCpe-p2lWoT1GPg%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqc2EPTm1K808G66AaksMgTjumxLeF8a12vOJ6dI7tLJU8mwXSNBCPUV&gaa_ts=696c1426&gaa_sig=W6cboQ_OtSxMmxjjtN4cWfxHl8-zxn-owvcqsVHr5_lH7gpbIwfVecHnstiHgwc6H5kNEmSE3NrzPcY-T4Q2JQ%3D%3D)**
 
 The Wall Street Journal • 5h ago
 
@@ -135,12 +135,6 @@ The New York Times • 12h ago
 
 ---
 
-**[These prophets of economic doom are worried about another collapse](https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/)**
-
-The Washington Post • 4h ago
-
----
-
 **[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
 
 AI is offering people a way to figure out what they really want in romance.
@@ -149,11 +143,25 @@ The Atlantic • 9h ago
 
 ---
 
-**[Smaller companies are rising quickly to challenge Big Tech as AI 's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
+**[These prophets of economic doom are worried about another collapse](https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/)**
+
+The Washington Post • 4h ago
+
+---
+
+**[Smaller companies are rising quickly to challenge Big Tech as AI's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[2 Artificial Intelligence (AI) Stocks That Can Beat the Market in 2026](https://www.fool.com/investing/2026/01/17/2-artificial-intelligence-ai-stocks-that-can-beat/)**
+
+Investors are underestimating the growth potential of these leading tech companies.
+
+The Motley Fool • 8h ago
 
 ---
 
@@ -165,23 +173,17 @@ Fox Business • 4h ago
 
 ---
 
-**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
-
-OpenAI • 1d ago
-
----
-
 **[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
 
 Axios • 10h ago
 
 ---
 
-**[Tech Voices: OpenAI to run ads, Micron CEO on AI growth (MU:NASDAQ)](https://seekingalpha.com/news/4540014-tech-voices-openai-to-run-ads-micron-ceo-on-ai-growth)**
+**[Global AI race makes Greenland's critical minerals a tempting target](https://www.nbcnews.com/tech/innovation/greenland-rare-earths-critical-minerals-rcna254177)**
 
-Seeking Alpha's roundup of statements, announcements, and remarks that could impact markets, sectors, or individual stocks.Â  Read more here.
+The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
 
-Seeking Alpha • 1d ago
+NBC News • 12h ago
 
 ---
 
@@ -204,7 +206,7 @@ You are making a big mistake. But you can still undo the damage.
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 250 • 💬 206 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 251 • 💬 206 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -234,7 +236,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 85 • 💬 25 • 19h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 85 • 💬 26 • 19h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -242,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 80 • 💬 78 • 9h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 80 • 💬 80 • 9h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -280,17 +282,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 26K • 👍 2K • 💬 270 • ⏱️ 19:38 • 7h ago
+👁️ 38K • 👍 2K • 💬 324 • ⏱️ 19:38 • 7h ago
 
 ---
 
-**[Ed Zitron: At least a quarter of AI data centres will go unused](https://www.youtube.com/watch?v=rsCGisbz04Y)**
+**[Trump calls emergency as AI bubble crashes](https://www.youtube.com/watch?v=_JWRQdWHZlQ)**
 
-I believe, at the very best, that a quarter of datacenter are going under.” It's very concerning that we're this far into the AI buildout ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 The Tech Report
+📺 Chris Norlund
 
-👁️ 22K • 👍 1K • 💬 330 • ⏱️ 26:53 • 1d ago
+👁️ 114K • 👍 7K • 💬 2K • ⏱️ 14:15 • 1d ago
 
 ---
 
@@ -300,37 +302,17 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 183K • 👍 4K • 💬 996 • ⏱️ 10:04 • 1d ago
+👁️ 190K • 👍 4K • 💬 1K • ⏱️ 10:04 • 1d ago
 
 ---
 
-**[I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4)**
+**[Steam Just Updated It&#39;s AI Rules (What You Need To Know)](https://www.youtube.com/watch?v=CQvUhpqaxbM)**
 
-Copy this method to create a business that prints money using AI. Sabri Suby AI Service Business Research Prompt: ...
+Valve has updated steams new AI disclosure rules. They're trying to distinguish between AI generated in-game content and usage ...
 
-📺 Sabri Suby
+📺 Stylosa
 
-👁️ 10K • 👍 550 • 💬 31 • ⏱️ 51:44 • 1d ago
-
----
-
-**[Groundbreaking AI tool can convert script to movies](https://www.youtube.com/watch?v=7OkS978snsg)**
-
-Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creative work' on 'The Claman Countdown.
-
-📺 Fox Business
-
-👁️ 53K • 👍 2K • 💬 482 • ⏱️ 7:05 • 22h ago
-
----
-
-**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
-
-Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
-
-📺 The Young Turks
-
-👁️ 19K • 👍 516 • 💬 424 • ⏱️ 9:43 • 1d ago
+👁️ 887 • 👍 95 • 💬 32 • ⏱️ 15:58 • 1h ago
 
 ---
 
@@ -340,17 +322,27 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 137K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 145K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
-**[GTA 5 but it’s in Venezuela (AI Real Life Graphics) - Reimagined by AI](https://www.youtube.com/watch?v=JaUgUaelI2c)**
+**[Groundbreaking AI tool can convert script to movies](https://www.youtube.com/watch?v=7OkS978snsg)**
 
-Made using: https://app.mago.studio/?via=aillusory Grand Theft Auto V (GTA 5) Gameplay in Venezuela - Reimagined by AI ...
+Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creative work' on 'The Claman Countdown.
 
-📺 Aillusory
+📺 Fox Business
 
-👁️ 4K • 👍 259 • 💬 58 • ⏱️ 1:40 • 1d ago
+👁️ 59K • 👍 2K • 💬 509 • ⏱️ 7:05 • 22h ago
+
+---
+
+**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
+
+Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
+
+📺 The Young Turks
+
+👁️ 19K • 👍 522 • 💬 429 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -360,17 +352,25 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 8K • 💬 5 • ⏱️ 19:34 • 9h ago
+👁️ 9K • 💬 5 • ⏱️ 19:34 • 9h ago
 
 ---
 
-**[The AI coding boom hits software](https://www.youtube.com/watch?v=FkmuyUTZvXU)**
+**[Steam LOST The Fight Against Nvidia And AI](https://www.youtube.com/watch?v=VMAumq3MAuM)**
 
-Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for software stocks, the power of AI agents and much ...
+NEW MUSIC CHANNEL HERE: https://www.youtube.com/@UC6cPR8gL4EnCpikYIA9zDnA SECOND CHANNEL: ...
 
-📺 CNBC Television
+📺 FritangaPlays
 
-👁️ 30K • 👍 301 • 💬 44 • ⏱️ 6:40 • 2d ago
+👁️ 3K • 👍 678 • 💬 171 • ⏱️ 20:50 • 2h ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+
+📺 Bob Reese
+
+👁️ 266K • 👍 16K • 💬 190 • ⏱️ 1:05 • 15h ago
 
 ---
 
@@ -386,7 +386,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 791 • 2d ago
+⬇️ 6,001 • ❤️ 794 • 2d ago
 
 ---
 
@@ -398,7 +398,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 51,009 • ❤️ 726 • 10d ago
+⬇️ 51,009 • ❤️ 727 • 10d ago
 
 ---
 
@@ -410,7 +410,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,463,289 • ❤️ 1,119 • 3d ago
+⬇️ 1,463,289 • ❤️ 1,121 • 3d ago
 
 ---
 
@@ -422,7 +422,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,406 • ❤️ 321 • 3d ago
+⬇️ 1,406 • ❤️ 322 • 3d ago
 
 ---
 
@@ -434,7 +434,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 5,382 • ❤️ 266 • 2d ago
+⬇️ 5,382 • ❤️ 270 • 2d ago
 
 ---
 
@@ -444,7 +444,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 18,894 • ❤️ 261 • 2d ago
+⬇️ 18,894 • ❤️ 262 • 2d ago
 
 ---
 
@@ -456,7 +456,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 17,417 • ❤️ 249 • 3d ago
+⬇️ 17,417 • ❤️ 251 • 3d ago
 
 ---
 
@@ -468,7 +468,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 11,904 • ❤️ 276 • 11d ago
+⬇️ 11,904 • ❤️ 278 • 11d ago
 
 ---
 
@@ -480,7 +480,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 51,565 • ❤️ 298 • 3d ago
+⬇️ 51,565 • ❤️ 300 • 3d ago
 
 ---
 
@@ -492,7 +492,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 2,591 • ❤️ 170 • 2d ago
+⬇️ 2,591 • ❤️ 172 • 2d ago
 
 ---
 
@@ -536,6 +536,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 121 • 💬 3 • ⭐ 2,645 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+
+---
+
 **[Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://huggingface.co/papers/2601.10477)**
 
 *Yu Wang, Yi Wang, Rui Dai et al. (7 authors)*
@@ -547,18 +559,6 @@ Urban socio-semantic segmentation is achieved through a vision-language model fr
 ▲ 143 • 💬 3 • ⭐ 135 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
-
----
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 121 • 💬 3 • ⭐ 2,645 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
 ---
 
@@ -597,7 +597,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Action100M is a large-scale video action dataset constructed from internet instructional videos using automated pipelines with V-JEPA embeddings and GPT-based reasoning for structured annotations.
 
-▲ 12 • 💬 1 • ⭐ 137 • 2d ago
+▲ 12 • 💬 1 • ⭐ 159 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10592) • [💻 code](https://github.com/facebookresearch/Action100M)
 
@@ -638,7 +638,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 1h ago
+⭐ 8.9k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 340 • 1d ago
+⭐ 7.2k • 🔱 340 • 1d ago
 
 ---
 
@@ -668,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 614 • 10d ago
+⭐ 4.7k • 🔱 616 • 10d ago
 
 ---
 
@@ -688,7 +688,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.5k • 🔱 489 • 1d ago
+⭐ 2.5k • 🔱 491 • 47m ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.4k • 9h ago
+⭐ 2.4k • 🔱 2.4k • 10h ago
 
 ---
 
@@ -728,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 246 • 1d ago
+⭐ 1.6k • 🔱 247 • 1d ago
 
 ---
 

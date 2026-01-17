@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T22:20:23.284325+00:00'
+updated: '2026-01-17T22:44:13.521249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 22:20 UTC  
+**Last Updated:** January 17, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,19 +54,19 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 ---
 
-**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
-
-1d ago
-
----
-
 **[What's a good opensouce kit for learning advanced robotics?](https://www.reddit.com/r/robotics/comments/1qffd03/whats_a_good_opensouce_kit_for_learning_advanced/)**
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
 7h ago
+
+---
+
+**[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
+
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -126,25 +126,17 @@ Fortune • 2d ago
 
 ---
 
-**[Vermont Students Showcase Robotics Skills at FIRST LEGO League State Championship](https://www.yahoo.com/news/articles/vermont-students-showcase-robotics-skills-195550647.html)**
-
-The GlobalFoundries facility in Essex Junction transformed into a hub of innovation and teamwork Saturday as students from across Vermont competed in the FIRST LEGO League State Championship.
-
-Yahoo • 2h ago
-
----
-
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
-**[Skild AI brain lets robots watch videos to master everyday tasks](https://interestingengineering.com/ai-robotics/robot-brain-learns-by-watching-human-videos)**
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
-New AI model lets robots learn from human videos, handling tasks from cooking to assembly with minimal training and strong adaptability.
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -160,7 +152,13 @@ Nikkei Asia • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 9h ago
+Futurism • 10h ago
+
+---
+
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+
+GeekWire • 3d ago
 
 ---
 
@@ -172,17 +170,19 @@ CBS News • 21h ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
-
-GeekWire • 3d ago
-
----
-
 **[A $450 Billion Opportunity: Is Serve Robotics Stock a Buy in 2026?](https://www.fool.com/investing/2026/01/16/a-450-billion-is-serve-robotics-stock-a-buy-2026/)**
 
 Serve Robotics stock plunged by 23% last year, but it's off to a hot start in 2026.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+
+Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+
+Crunchbase News • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 118K • 👍 5K • 💬 317 • ⏱️ 17:36 • 2d ago
+👁️ 119K • 👍 5K • 💬 325 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 137K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 145K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 167K • 👍 2K • 💬 403 • ⏱️ 11:46 • 6d ago
+👁️ 168K • 👍 2K • 💬 403 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -226,7 +226,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 460K • 👍 14K • 💬 808 • ⏱️ 17:09 • 5d ago
+👁️ 461K • 👍 14K • 💬 810 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -234,25 +234,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 354K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 130K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 246K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+👁️ 357K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -262,7 +244,25 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 128 • 💬 10 • ⏱️ 0:12 • 6d ago
+👁️ 16K • 👍 129 • 💬 10 • ⏱️ 0:12 • 6d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 131K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+
+---
+
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+
+📺 KhanFlicks
+
+👁️ 26K • 💬 16 • ⏱️ 6:37 • 2d ago
 
 ---
 
@@ -272,17 +272,17 @@ Japan is training robotic dogs for airborne assault. Recent footage from Japan's
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 19 • 💬 4 • ⏱️ 0:45 • 8h ago
+👁️ 2K • 👍 22 • 💬 4 • ⏱️ 0:45 • 8h ago
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-📺 Cybernews
+📺 joeybtoonz
 
-👁️ 21K • 👍 284 • 💬 38 • ⏱️ 11:29 • 7d ago
+👁️ 247K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
 
 ---
 
