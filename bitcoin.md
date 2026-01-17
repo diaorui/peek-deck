@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T11:39:27.842642+00:00'
+updated: '2026-01-17T12:41:56.047293+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 11:39 UTC  
+**Last Updated:** January 17, 2026 at 12:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
+**24h:** -0.3%  
 **7d:** +4.7%  
 **30d:** +8.0%  
 **90d:** -13.8%  
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-8h ago
+9h ago
 
 ---
 
@@ -115,7 +115,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-12h ago
+13h ago
 
 ---
 
@@ -125,23 +125,25 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 ---
 
+**[Asked a similar question yesterday](https://www.reddit.com/r/Bitcoin/comments/1qfahde/asked_a_similar_question_yesterday/)**
+
+Do you think this is still a realistic, positiv scenario today?
+
+1h ago
+
+---
+
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-10h ago
+11h ago
 
 ---
 
-**[Am I the only one?](https://www.reddit.com/r/Bitcoin/comments/1qf2kaj/am_i_the_only_one/)**
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.reddit.com/r/Bitcoin/comments/1qf74mt/these_finnish_homes_are_being_heated_by_a/)**
 
-"When Bitcoin was here last cycle the price did this...."
+Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-7h ago
-
----
-
-**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
-
-14h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/) • 5h ago
 
 ---
 
@@ -151,7 +153,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -165,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -173,7 +175,15 @@ Business Insider • 1h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
+
+---
+
+**[Could Monero Be the Next Bitcoin?](https://www.fool.com/investing/2026/01/17/could-monero-be-the-next-bitcoin/)**
+
+This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
+
+The Motley Fool • 11m ago
 
 ---
 
@@ -181,15 +191,7 @@ CoinDesk • 22h ago
 
 Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Yahoo Finance • 36m ago
-
----
-
-**[Here Are All 50 Cryptocurrencies That U.S. Investors Can Buy on Robinhood. These 3 Are the Best of the Bunch](https://www.fool.com/investing/2026/01/17/here-are-all-50-cryptocurrencies-that-us-investors/)**
-
-The popular online brokerage Robinhood has become a go-to spot for retail investors to purchase cryptocurrencies.
-
-The Motley Fool • 9m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +199,7 @@ The Motley Fool • 9m ago
 
 A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -205,21 +207,21 @@ CoinDesk • 19h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 18h ago
+Mother Jones • 19h ago
 
 ---
 
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqe7G5NNRG3OTeom88jlDqYk4JPtIdi74SdyF_gg3KP3OwH57qq482IN&gaa_ts=696b86ff&gaa_sig=UoUviQIwYwGc6Hr4RUgcpu3dWsJAeNnQkSCPgzd1V_sypyOFQLXepMG01rhEp2GQZfngKGi9FPtlBX32IYWm9A%3D%3D)**
 
-The Block • 15h ago
+Barron's • 1d ago
 
 ---
 
-**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
+**[Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target](https://finance.yahoo.com/news/viral-prediction-5-000-xrp-162020049.html)**
 
-The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
+The XRP versus Bitcoin debate just went viral. Crypto influencer Bird claims that by year-end, 5,000 XRP (CRYPTO: XRP) could be worth 1 Bitcoin (CRYPTO: BTC)—implying an XRP $18.40 target that would represent nearly 800% upside from current levels. The bold forecast has ignited fierce debate about whether XRP outperforms Bitcoin in the coming months. ... Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -231,7 +233,7 @@ Yahoo Finance • 11h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 19h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 20h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -239,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -269,7 +271,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -299,7 +301,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 168 • ⏱️ 8:18 • 13h ago
+👁️ 29K • 👍 1K • 💬 168 • ⏱️ 8:18 • 14h ago
 
 ---
 
@@ -339,7 +341,7 @@ The Bitcoin rally recently is reaching critical levels. But is this rally for re
 
 📺 Alessio Rastani
 
-👁️ 25K • 👍 2K • 💬 322 • ⏱️ 15:58 • 16h ago
+👁️ 25K • 👍 2K • 💬 322 • ⏱️ 15:58 • 17h ago
 
 ---
 
@@ -349,7 +351,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 13h ago
+👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 14h ago
 
 ---
 
@@ -379,7 +381,7 @@ From Venezuela to Taiwan, AI disruption to Bitcoin trends—this episode dives i
 
 📺 Preston Pysh
 
-👁️ 17K • 👍 856 • 💬 189 • ⏱️ 1:22:16 • 2d ago
+👁️ 17K • 👍 856 • 💬 189 • ⏱️ 1:22:16 • 3d ago
 
 ---
 

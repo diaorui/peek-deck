@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T11:39:27.852027+00:00'
+updated: '2026-01-17T12:41:56.056570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 11:39 UTC  
+**Last Updated:** January 17, 2026 at 12:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-22h ago
+23h ago
 
 ---
 
@@ -90,7 +90,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-12h ago
+13h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 15h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 16h ago
 
 ---
 
@@ -140,7 +140,7 @@ Crunchbase News • 2d ago
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -158,7 +158,7 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdjGqeljXBw0tH6XC0TrZem1msuLjHeO8rDyQPzexAqW-6hi1qn0n4w&gaa_ts=696b785c&gaa_sig=DKyl-VyCNJFeC5X0xWebN0CcumQQ2lMFzX_gw8jsHeVbZ4vnTlLtAPWhv0qckYg4NgIPA_CkIEuf8gxxAGcQ6g%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd7k6UcVExKMeDrfTzgtDKpfdxgnweaXNRXK8eoacEBEZYXJ-P_O91M&gaa_ts=696b8702&gaa_sig=CvtvyCzmIbiaFQUA2wdS3IrkI1j3PQRlHHfGifF8JbNnP4aTPFAyJMiSUcAS4AMCsPpL5ilfVkCMM1PGH2PgOQ%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -174,15 +174,15 @@ GeekWire • 2d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
-**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
+**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
 
-Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
+Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
 
-Automotive News • 2d ago
+Game Developer • 1d ago
 
 ---
 
