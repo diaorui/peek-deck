@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T10:21:39.449447+00:00'
+updated: '2026-01-17T10:44:10.812332+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 10:21 UTC  
+**Last Updated:** January 17, 2026 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 14h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 15h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 6h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 2d ago
 
 Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
 
-CNBC • 27m ago
+CNBC • 50m ago
 
 ---
 
@@ -145,13 +145,13 @@ CNBC • 27m ago
 
 The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
 
-NBC News • 21m ago
+NBC News • 44m ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 19m ago
+The New York Times • 41m ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 19m ago
 
 The CEO of a digital economy think tank said relying on identical AI tools can erode competitive edge and weaken firms' independence.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -260,7 +260,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 59 • 💬 5 • 22h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 59 • 💬 5 • 23h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -641,7 +641,7 @@ STEP3-VL-10B achieves superior multimodal performance through unified pre-traini
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 5h ago
+⭐ 8.9k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -651,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 326 • 15h ago
+⭐ 7.0k • 🔱 326 • 16h ago
 
 ---
 
@@ -691,7 +691,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.3k • 🔱 453 • 21h ago
+⭐ 2.3k • 🔱 453 • 22h ago
 
 ---
 
@@ -701,7 +701,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.2k • 1h ago
+⭐ 2.3k • 🔱 2.2k • 2h ago
 
 ---
 

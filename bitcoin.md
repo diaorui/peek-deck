@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T10:21:39.458167+00:00'
+updated: '2026-01-17T10:44:10.820834+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 10:21 UTC  
+**Last Updated:** January 17, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-21m ago
+43m ago
 
 ---
 
@@ -121,7 +121,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 21h ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 6m ago
+Business Insider • 29m ago
 
 ---
 
@@ -231,7 +231,7 @@ The Motley Fool • 1d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 18h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 19h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -239,7 +239,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -285,7 +285,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 3d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+⬆️ 1 • 💬 0 • 4d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 12h ago
+👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 13h ago
 
 ---
 
@@ -361,7 +361,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 11h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 12h ago
 
 ---
 
