@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T17:18:20.670234+00:00'
+updated: '2026-01-17T17:41:17.754193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 17:18 UTC  
+**Last Updated:** January 17, 2026 at 17:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,167.95
+### $95,626.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.8%  
-**30d:** +8.1%  
-**90d:** -13.8%  
-**1y:** -8.8%  
+**24h:** +0.4%  
+**7d:** +4.9%  
+**30d:** +8.2%  
+**90d:** -13.7%  
+**1y:** -8.7%  
 
 ---
 
@@ -83,6 +83,14 @@ Rank #1
 
 ---
 
+**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
+
+I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
+
+4h ago
+
+---
+
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
 7h ago
@@ -95,11 +103,11 @@ Rank #1
 
 ---
 
-**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
+**[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
 
-I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
+Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-4h ago
+2h ago
 
 ---
 
@@ -108,6 +116,12 @@ I live in a student shared house in Brazil and wanted to share a real example of
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
 11h ago
+
+---
+
+**[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
+
+38m ago
 
 ---
 
@@ -127,25 +141,9 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
-**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
+**[X Visa](https://www.reddit.com/r/Bitcoin/comments/1qfj2qi/x_visa/)**
 
-First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
-
-17h ago
-
----
-
-**[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
-
-Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
-
-1h ago
-
----
-
-**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
-
-16h ago
+18m ago
 
 ---
 
@@ -173,11 +171,9 @@ Business Insider • 7h ago
 
 ---
 
-**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
-
-CoinDesk • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -185,43 +181,45 @@ CoinDesk • 1d ago
 
 The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Is Bitcoin a Millionaire Maker?](https://www.fool.com/investing/2026/01/17/is-bitcoin-a-millionaire-maker/)**
+**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
 
-The world's leading cryptocurrency has made early adopters incredibly wealthy.
+Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
 
-The Motley Fool • 2h ago
-
----
-
-**[Could Monero Be the Next Bitcoin?](https://finance.yahoo.com/news/could-monero-next-bitcoin-125000159.html)**
-
-This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqfURQdJ6Lwlash_vid1byL3_7-IXVN-2U_F2hmHUveOMgBk6RS4M7i2&gaa_ts=696bbb5f&gaa_sig=lMVPGJ50WhAAKSi0Wc_kbzeOKaDkYRv9FyTs_WJrMMo6wCZTuLtTaHcXE1Oy3Wq2pQMGCLNZS_asLo2jZgv80A%3D%3D)**
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
-MarketWatch • 1d ago
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 1d ago
+CNBC • 2h ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqd5cZI_re0f3M7XeoWoYmEitmfV3Njf_TJwpbBrQEhU42-e_Eg-R7tW&gaa_ts=696bbb5f&gaa_sig=vDD08qwkUNkEhcNlP-H2fETp-iuKDcWbqJbS2xdqKrAEhdMFlNC-6xyoRLx2l8lw0YvySBGfklg-3pFRi5pPZQ%3D%3D)**
+**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqdbT_9K66K3ISQy35dBU1MWTEvBMTp-jyEPHKBnErqMj-djKsYeIqNc&gaa_ts=696bcd26&gaa_sig=_cI892W4p-yngPnm7ZX1r289v74N1XxjA_HLY8HBxJW57BJXDGzt7543SWLWb3UQCvMwwlJWDp_bG4b0Am1DVg%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[XRP Poised To Move On Its Own, Separate From Bitcoin: CEO](https://www.tradingview.com/news/newsbtc:b8177f924094b:0-xrp-poised-to-move-on-its-own-separate-from-bitcoin-ceo/)**
+
+For a market that usually moves in one direction, some voices are starting to say this time might look a little different. Canary Capital CEO Steven McClurg said XRP could move on a different path from Bitcoin this year, pointing to enterprise use cases as a key reason.He made the remarks during a…
+
+TradingView — Track All Markets • 8h ago
+
+---
+
+**[XRP Reclaims Its Footing as Ripple Expands Real-World Use Cases, Setting Stage for Next Move](https://news.bitcoin.com/xrp-reclaims-its-footing-as-ripple-expands-real-world-use-cases-setting-stage-for-next-move/)**
+
+XRP steadied after defending key support, signaling easing selling pressure as the token consolidates from recent highs, with technical momentum stabilizing and Ripple ecosystem developments offering a supportive backdrop.
+
+Bitcoin.com News • 18h ago
 
 ---
 
@@ -351,7 +349,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 18h ago
+👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 19h ago
 
 ---
 

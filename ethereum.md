@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T17:18:20.675623+00:00'
+updated: '2026-01-17T17:41:17.760263+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 17:18 UTC  
+**Last Updated:** January 17, 2026 at 17:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,315.73
+### $3,314.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +6.2%  
-**30d:** +11.1%  
-**90d:** -16.7%  
-**1y:** +0.3%  
+**24h:** +1.5%  
+**7d:** +6.4%  
+**30d:** +11.4%  
+**90d:** -16.5%  
+**1y:** +0.5%  
 
 ---
 
@@ -80,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-20h ago
+21h ago
+
+---
+
+**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
+
+39m ago
 
 ---
 
@@ -88,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-53m ago
+1h ago
 
 ---
 
@@ -138,14 +144,6 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 ---
 
-**[Programmable tokens on Base.](https://www.reddit.com/r/ethereum/comments/1qe3xji/programmable_tokens_on_base/)**
-
-The modular token standard.
-
-🔗 [totems.fun](https://totems.fun/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -161,14 +159,6 @@ The Block • 18h ago
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
 Decrypt • 1d ago
-
----
-
-**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
-
-Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
-
-Yahoo Finance • 5h ago
 
 ---
 
@@ -194,6 +184,14 @@ CryptoSlate • 2d ago
 
 ---
 
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
 The smaller chain could lose ground in an important arena during a critical period.
@@ -210,19 +208,19 @@ Seeking Alpha • 3d ago
 
 ---
 
+**[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
+
+Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
+
+Nasdaq • 2d ago
+
+---
+
 **[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
 24/7 Wall St. • 2d ago
-
----
-
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
-
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -256,7 +254,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 Stock Moe
 
-👁️ 2K • 👍 327 • 💬 15 • ⏱️ 15:35 • 3h ago
+👁️ 2K • 👍 327 • 💬 15 • ⏱️ 15:35 • 4h ago
 
 ---
 
@@ -276,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 277 • 👍 31 • 💬 3 • ⏱️ 4:59 • 2h ago
+👁️ 277 • 👍 31 • 💬 3 • ⏱️ 4:59 • 3h ago
 
 ---
 
@@ -296,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 7K • 👍 527 • 💬 16 • ⏱️ 14:06 • 19h ago
+👁️ 7K • 👍 527 • 💬 16 • ⏱️ 14:06 • 20h ago
 
 ---
 

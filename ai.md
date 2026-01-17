@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T17:18:20.662125+00:00'
+updated: '2026-01-17T17:41:17.745507+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 17:18 UTC  
+**Last Updated:** January 17, 2026 at 17:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 2h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 3h ago
+
+---
+
+**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
+
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 22h ago
 
 ---
 
@@ -49,13 +55,13 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 13h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 14h ago
 
 ---
 
-**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
+**[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 21h ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 33m ago
 
 ---
 
@@ -107,21 +113,49 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 ---
 
-**[Senate passes bill letting victims sue over Grok AI explicit images](https://www.reddit.com/r/artificial/comments/1qcpxzs/senate_passes_bill_letting_victims_sue_over_grok/)**
-
-The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 3d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+**[‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward)**
 
-The New York Times • 2d ago
+Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
+
+The Guardian • 5h ago
+
+---
+
+**[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
+
+AI is offering people a way to figure out what they really want in romance.
+
+The Atlantic • 4h ago
+
+---
+
+**[AI is driving the rise of contextual advertising](https://www.axios.com/media-trends-membership/2026/01/17/contextual-advertising-live-ai)**
+
+Axios • 33m ago
+
+---
+
+**[AI investments made AppLovin a Wall Street ad tech darling](https://www.axios.com/media-trends-membership/2026/01/17/wall-street-ad-tech-stock-applovin)**
+
+Axios • 36m ago
+
+---
+
+**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
+
+Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+
+CNBC • 7h ago
 
 ---
 
@@ -137,57 +171,19 @@ Axios • 3h ago
 
 ---
 
-**[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
+**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
 
-AI is offering people a way to figure out what they really want in romance.
+Could Siri be the last piece of the puzzle?
 
-The Atlantic • 4h ago
-
----
-
-**[Billionaire Stanley Druckenmiller Sells Broadcom Stock and Buys an AI Stock Up 1,000% Since Early 2025](https://www.fool.com/investing/2026/01/17/druckenmiller-sell-broadcom-buy-ai-stock-up-1000/)**
-
-Star fund manager Stanley Druckenmiller sold Broadcom and bought Sandisk in the third quarter.
-
-The Motley Fool • 9h ago
+The Verge • 2d ago
 
 ---
 
-**[This energy stock is the clearest winner in efforts aimed at powering the AI buildout](https://www.cnbc.com/2026/01/16/this-energy-stock-is-the-clearest-winner-in-efforts-aimed-at-powering-the-ai-buildout.html)**
+**[She runs her company with 17 AI 'employees.' She says there's no going back.](https://www.businessinsider.com/built-steve-jobs-custom-gpt-to-make-my-business-decisions-2026-1)**
 
-The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+Solopreneur Yesim Saydan shares how she trained over 17 custom GPT workers and a Steve Jobs—inspired custom GPT to work for her consultancy agency.
 
-CNBC • 1d ago
-
----
-
-**[Smaller companies are rising quickly to challenge Big Tech as AI 's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
-
-Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
-
-CNBC • 1h ago
-
----
-
-**[AI is turning Big Tech into a superstar economy](https://www.businessinsider.com/ai-big-tech-superstar-economy-meta-google-amazon-compensation-2026-1)**
-
-AI-driven pay changes at Meta, Google, Amazon, and Nvidia prioritize standout individual contributors over traditional management roles.
-
-Business Insider • 1h ago
-
----
-
-**[Discussing the new AI health app](https://www.wcvb.com/article/discussing-the-new-ai-health-app/70031112)**
-
-Dr. Danielle Bitterman of MGH Brigham discusses the pros and cons of ChatGPT Health, an AI app designed to answer personal health questions.
-
-WCVB • 2h ago
-
----
-
-**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
-
-The New York Times • 7h ago
+Business Insider • 22h ago
 
 ---
 
@@ -226,7 +222,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 100 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 101 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -246,7 +242,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 87 • 💬 149 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 87 • 💬 150 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -254,15 +250,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 80 • 💬 23 • 14h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
-
----
-
-**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://news.ycombinator.com/item?id=46645430)**
-
-Introducing Confer, an end-to-end AI assistant that just works.
-
-⬆️ 59 • 💬 5 • 1d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 83 • 💬 24 • 14h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -270,7 +258,15 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 55 • 💬 21 • 4h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 72 • 💬 57 • 4h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+
+---
+
+**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://news.ycombinator.com/item?id=46645430)**
+
+Introducing Confer, an end-to-end AI assistant that just works.
+
+⬆️ 60 • 💬 5 • 1d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -314,7 +310,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 20h ago
+👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 21h ago
 
 ---
 
@@ -652,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 337 • 22h ago
+⭐ 7.1k • 🔱 337 • 23h ago
 
 ---
 
@@ -702,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 4h ago
+⭐ 2.4k • 🔱 2.3k • 5h ago
 
 ---
 
