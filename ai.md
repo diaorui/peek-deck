@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T14:19:39.782548+00:00'
+updated: '2026-01-17T14:42:51.208108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 14:19 UTC  
+**Last Updated:** January 17, 2026 at 14:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 10h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 11h ago
 
 ---
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 18h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 19h ago
 
 ---
 
@@ -344,7 +344,7 @@ The US military has unveiled an AI-powered drone swarm capable of selecting and 
 
 📺 New York Post
 
-👁️ 16K • 👍 326 • 💬 196 • ⏱️ 2:05 • 21h ago
+👁️ 16K • 👍 326 • 💬 196 • ⏱️ 2:05 • 22h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 333 • 19h ago
+⭐ 7.1k • 🔱 333 • 20h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 1h ago
+⭐ 2.4k • 🔱 2.3k • 2h ago
 
 ---
 

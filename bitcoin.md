@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T14:19:39.791497+00:00'
+updated: '2026-01-17T14:42:51.216649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 14:19 UTC  
+**Last Updated:** January 17, 2026 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -123,7 +123,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-14h ago
+15h ago
 
 ---
 
@@ -241,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 16h ago
+👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 17h ago
 
 ---
 
@@ -361,7 +361,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 15h ago
+👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 16h ago
 
 ---
 

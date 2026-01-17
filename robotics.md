@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T14:19:39.801328+00:00'
+updated: '2026-01-17T14:42:51.225825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 14:19 UTC  
+**Last Updated:** January 17, 2026 at 14:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-11h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-14h ago
+15h ago
 
 ---
 
