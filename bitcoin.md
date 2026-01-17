@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-16T23:42:32.170659+00:00'
+updated: '2026-01-17T01:45:09.476515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 16, 2026 at 23:42 UTC  
+**Last Updated:** January 17, 2026 at 01:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,334.62
+### $95,439.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +5.5%  
-**30d:** +11.9%  
-**90d:** -12.0%  
-**1y:** -8.4%  
+**24h:** +0.1%  
+**7d:** +4.9%  
+**30d:** +8.2%  
+**90d:** -13.7%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1903.46B
+**Market Cap:** $1905.18B
 Rank #1
 
-**Circulating Supply:** 19,976,712 BTC
+**Circulating Supply:** 19,976,781 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.4%
 
 **All-Time Low:** $67.81
-+140470.7%
++140528.2%
 
 ---
 
@@ -77,29 +77,41 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
-
-War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
-
-12h ago
-
----
-
-**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
-
-11h ago
-
----
-
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-12h ago
+14h ago
+
+---
+
+**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
+
+First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fanscy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
+
+2h ago
 
 ---
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-2h ago
+4h ago
+
+---
+
+**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
+
+13h ago
+
+---
+
+**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
+
+7h ago
+
+---
+
+**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
+
+7h ago
 
 ---
 
@@ -107,13 +119,15 @@ War is expensive. In the old days, Kings had to tax peasants to pay for wars. If
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-19h ago
+21h ago
 
 ---
 
-**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
+**[War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war.](https://www.reddit.com/r/Bitcoin/comments/1qednas/war_is_expensive_in_the_old_days_kings_had_to_tax/)**
 
-5h ago
+War is expensive. In the old days, Kings had to tax peasants to pay for wars. If the peasants ran out of gold, the war ended. Now, governments print money to pay for wars. The war goes on forever, and the peasants pay for it through inflation for decades. Bitcoin defunds the forever war. If they want to drop bombs, they have to ask for Bitcoin first. Peace isn't a treaty; it's a balanced budget.
+
+14h ago
 
 ---
 
@@ -121,27 +135,15 @@ Trying my hand at memeing. Reminder not to try timing the market. Be like Isildu
 
 I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
-6h ago
+8h ago
 
 ---
 
-**[Marty Bent thinks bitcoin has just started the next leg up](https://www.reddit.com/r/Bitcoin/comments/1qejin6/marty_bent_thinks_bitcoin_has_just_started_the/)**
+**[How to swap BTC without giving ID](https://www.reddit.com/r/Bitcoin/comments/1qexiep/how_to_swap_btc_without_giving_id/)**
 
-7h ago
+I hold a lot of USDC and want to move part of it into BTC. I prefer not to use exchanges that require identity verification. What are reliable non KYC options these days?
 
----
-
-**[99% of financial advisors plan to add or maintain their crypto exposures this year. CRAZY](https://www.reddit.com/r/Bitcoin/comments/1qejgug/99_of_financial_advisors_plan_to_add_or_maintain/)**
-
-This is crazy, Bitcoin is going to the moon sooner or later.
-
-7h ago
-
----
-
-**[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -151,13 +153,13 @@ This is crazy, Bitcoin is going to the moon sooner or later.
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 8h ago
+The New York Times • 10h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -165,27 +167,43 @@ Bloomberg.com • 14h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 10h ago
-
----
-
-**[Bitcoin price may hit $300,000 to $1.5 million by 2030, Ark Invest Says](https://www.coindesk.com/markets/2026/01/15/lower-volatility-bigger-allocations-ark-invest-sees-bitcoin-entering-its-next-chapter)**
-
-With ETFs and corporate treasuries absorbing more bitcoin than expected, the market is entering a more institutional, lower-volatility era.
-
-CoinDesk • 1d ago
+The Block • 12h ago
 
 ---
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 3h ago
+The Block • 5h ago
+
+---
+
+**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
+
+The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve](https://bitcoinmagazine.com/featured/us-gov-denies-sale-of-samourai-bitcoin)**
+
+U.S. officials say the DOJ confirmed that the bitcoin forfeited by Samourai Wallet developers wasn't sold and will stay on balance sheets.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -193,29 +211,15 @@ The Block • 3h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 7h ago
+Mother Jones • 2d ago
 
 ---
 
-**[Despite the Dip, Bitcoin Just Flashed Its Most Reliable Bullish Signal: Analysis](https://decrypt.co/354918/bitcoin-bullish-signal-golden-cross-price-analysis)**
+**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
 
-The price of Bitcoin is down today, but BTC also just flashed its most-watched bullish signal. Is a recovery rally on the way?
+Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Decrypt • 5h ago
-
----
-
-**[West Virginia SB143 Would Allow 10% Bitcoin Reserve](https://bitbo.io/news/west-virginia-sb143-bitcoin-reserve/)**
-
-West Virginia’s SB143 would let the state treasury allocate up to 10% of public funds to bitcoin and gold, while limiting eligible digital assets to those above a $750 billion average market cap and adding custody and staking provisions.
-
-Bitbo • 13h ago
-
----
-
-**[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
-
-The Block • 2d ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -227,7 +231,7 @@ The Block • 2d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 7h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 10h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -235,7 +239,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -265,7 +269,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 3 • 💬 0 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -287,13 +291,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
 
-⬆️ 11 • 💬 6 • 3d ago
+⬆️ 12 • 💬 6 • 3d ago
 
 ---
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 17h ago
+⬆️ 2 • 💬 4 • 19h ago
 
 ---
 
@@ -301,23 +305,23 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
-
-LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
-
-📺 Altcoin Daily
-
-👁️ 61K • 👍 3K • 💬 210 • ⏱️ 11:32 • 1d ago
-
----
-
 **[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
 
 Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 157 • ⏱️ 16:02 • 5h ago
+👁️ 29K • 👍 2K • 💬 257 • ⏱️ 16:02 • 8h ago
+
+---
+
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
+
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
+
+📺 What Bitcoin Did
+
+👁️ 14K • 👍 789 • 💬 179 • ⏱️ 1:13:07 • 14h ago
 
 ---
 
@@ -327,7 +331,27 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 8K • 👍 181 • 💬 72 • ⏱️ 5:23 • 1d ago
+👁️ 8K • 👍 184 • 💬 45 • ⏱️ 5:23 • 1d ago
+
+---
+
+**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
+
+LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 223 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Galaxy CEO Michael Novogratz on data center expansion, fate of Senate crypto bill](https://www.youtube.com/watch?v=v6v0rlUMGOI)**
+
+Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the expansion of the company's Helios data center, ...
+
+📺 CNBC Television
+
+👁️ 15K • 👍 192 • 💬 47 • ⏱️ 9:06 • 12h ago
 
 ---
 
@@ -337,17 +361,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 103 • ⏱️ 43:25 • 8h ago
-
----
-
-**[Bitcoin Holders… Brace Yourself](https://www.youtube.com/watch?v=t8q97oIlp5U)**
-
-Bitcoin turning point, sol, eth, and altcoin trade updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 14K • 👍 713 • 💬 83 • ⏱️ 13:46 • 12h ago
+👁️ 20K • 👍 1K • 💬 148 • ⏱️ 43:25 • 10h ago
 
 ---
 
@@ -357,37 +371,27 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 171 • ⏱️ 18:18 • 18h ago
+👁️ 65K • 👍 4K • 💬 178 • ⏱️ 18:18 • 20h ago
 
 ---
 
-**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
 
-The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
 
-📺 Paul Barron Network
+📺 Simply Bitcoin
 
-👁️ 83K • 👍 5K • 💬 569 • ⏱️ 14:43 • 1d ago
-
----
-
-**[BITCOIN PATH TO NEW HIGHS](https://www.youtube.com/watch?v=OyRtuWBB63Q)**
-
-Bitcoin's path to new highs is coming into focus as momentum, on-chain data, and macro trends align. In today's crypto news, we ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 138 • 💬 7 • ⏱️ 0:32 • 1d ago
+👁️ 33K • 👍 3K • 💬 207 • ⏱️ 21:24 • 1d ago
 
 ---
 
-**[Bitcoin Supercycle: The Last Trade Is Here | Marty Bent](https://www.youtube.com/watch?v=8BFPkX268Ws)**
+**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
 
-The Last Trade: Marty Bent breaks down bitcoin's 2026 setup, Fed vs Treasury tension, and why the denominator is breaking.
+Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
 
-📺 Onramp Bitcoin Media
+📺 CNBC Television
 
-👁️ 1K • 👍 77 • 💬 18 • ⏱️ 1:11:59 • 9h ago
+👁️ 120K • 👍 2K • 💬 440 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 43K • 👍 2K • 💬 122 • ⏱️ 14:15 • 1d ago
+👁️ 44K • 👍 2K • 💬 101 • ⏱️ 14:15 • 1d ago
 
 ---
 

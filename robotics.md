@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-16T23:42:32.179768+00:00'
+updated: '2026-01-17T01:45:09.485770+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 16, 2026 at 23:42 UTC  
+**Last Updated:** January 17, 2026 at 01:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-12h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-14h ago
+16h ago
 
 ---
 
@@ -52,7 +52,13 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-13h ago
+15h ago
+
+---
+
+**[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
+
+3h ago
 
 ---
 
@@ -60,13 +66,23 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-10h ago
+12h ago
 
 ---
 
-**[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
+**[Looking for general research paper ideas in mechatronics engineering](https://www.reddit.com/r/robotics/comments/1qexnlj/looking_for_general_research_paper_ideas_in/)**
+
+Hey, I'm a fourth-year mechatronics engineering student looking for general ideias for a research paper. I'm open to any area within mechatronics. Any suggestions or advice are welcome.
 
 1h ago
+
+---
+
+**[Looking for UGV chassis suggestions for Nvidia Jetson Orin AGX](https://www.reddit.com/r/robotics/comments/1qew8ke/looking_for_ugv_chassis_suggestions_for_nvidia/)**
+
+Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
+
+2h ago
 
 ---
 
@@ -74,7 +90,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 3h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 5h ago
 
 ---
 
@@ -82,7 +98,7 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 9h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 11h ago
 
 ---
 
@@ -90,21 +106,7 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-17h ago
-
----
-
-**[Tool for Camera Calibration directly from the browser](https://www.reddit.com/r/robotics/comments/1qdwkfk/tool_for_camera_calibration_directly_from_the/)**
-
-As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
-
-1d ago
-
----
-
-**[Boston Dynamics Atlas, introduced at CES 2026](https://www.reddit.com/r/robotics/comments/1qe35t9/boston_dynamics_atlas_introduced_at_ces_2026/)**
-
-21h ago
+19h ago
 
 ---
 
@@ -140,11 +142,11 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Lip-syncing robot watches your face to speak like you](https://newatlas.com/robotics/lip-syncing-robot/)**
+**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
 
-When it comes to ultra-humanlike Westworld-style robots, one of their most defining features are lips that move in perfect sync with their spoken words. A new robot not only sports that feature, but it can actually train itself to speak like a person.
+At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-New Atlas • 4h ago
+CBS News • 55m ago
 
 ---
 
@@ -152,7 +154,7 @@ New Atlas • 4h ago
 
 At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.
 
-Forbes • 1h ago
+Forbes • 3h ago
 
 ---
 
@@ -180,9 +182,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfQ9c4cFZrz1KNeNPmQBzLdigpymyaG_5CQsQYtS5qmiv7NEuqamJ3c&gaa_ts=696ad055&gaa_sig=MQ3TwIXG9-WIkNVJWOuVpbr-eakck96GynxDSiiFIquDRDSvslzZ-PwdCAF96QJD01UNAqlcv4cEWDXuymQZ-g%3D%3D)**
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-MarketWatch • 2d ago
+GeekWire • 2d ago
 
 ---
 
@@ -196,7 +198,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 61K • 👍 4K • 💬 893 • ⏱️ 19:17 • 1d ago
+👁️ 81K • 👍 4K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -206,37 +208,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 95K • 👍 4K • 💬 294 • ⏱️ 17:36 • 2d ago
-
----
-
-**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
-
-Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
-
-📺 PREDATOR WR
-
-👁️ 6K • 👍 308 • 💬 42 • ⏱️ 15:23 • 10h ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 237K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
-
----
-
-**[This Mom 🦿🤖 gets the job done!](https://www.youtube.com/watch?v=ADidwqqsct4)**
-
-The HYPERSHEL X exoskeleton is a game changer. Follow them @Hypershell_Tech LINK: https://s.rto.ai/9de03a7b @ces ...
-
-📺 Kim Java
-
-👁️ 1K • 👍 25 • 💬 3 • ⏱️ 0:43 • 8h ago
+👁️ 98K • 👍 4K • 💬 305 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -250,33 +222,61 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
 
-📺 Julia McCoy
+📺 The Laughing Lion
 
-👁️ 52K • 👍 3K • 💬 433 • ⏱️ 14:30 • 5d ago
-
----
-
-**[Wikise - Chi Robot (Official video)](https://www.youtube.com/watch?v=1WXFltl5kjI)**
-
-malawimusic #zambiamusic #zimbabwemusic #wikise.
-
-📺 Wikise1992
-
-👁️ 56K • 👍 4K • 💬 445 • ⏱️ 3:51 • 16h ago
+👁️ 16K • 👍 118 • 💬 10 • ⏱️ 0:12 • 5d ago
 
 ---
 
-**[HONOR ROBOT Phone, Samsung TriFold, Crazy Robots - BEST OF CES 2026 🔥](https://www.youtube.com/watch?v=PO0TKXEsjmg)**
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
-BEST OF CES 2026 ▻Checkout iGarden Swim Jet X, M1 Pro Pool Cleaner & Lawn Mower - http://igarden.ai/ ▻ Narwal Flow ...
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
-📺 XEETECHCARE
+📺 CNBC
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 13:33 • 6h ago
+👁️ 161K • 👍 2K • 💬 400 • ⏱️ 11:46 • 5d ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 452K • 👍 14K • 💬 792 • ⏱️ 17:09 • 4d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 238K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+
+---
+
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
+
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
+
+📺 The Verge
+
+👁️ 99K • 👍 1K • 💬 173 • ⏱️ 10:48 • 6d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 116K • 👍 1K • 💬 67 • ⏱️ 1:16 • 3d ago
 
 ---
 
@@ -284,7 +284,7 @@ BEST OF CES 2026 ▻Checkout iGarden Swim Jet X, M1 Pro Pool Cleaner & Lawn Mowe
 
 📺 Chris Wabs
 
-👁️ 315K • 👍 2K • 💬 967 • ⏱️ 0:16 • 5d ago
+👁️ 319K • 👍 2K • 💬 981 • ⏱️ 0:16 • 5d ago
 
 ---
 
