@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T13:29:39.313666+00:00'
+updated: '2026-01-17T13:47:38.839548+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 13:29 UTC  
+**Last Updated:** January 17, 2026 at 13:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
-
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 18h ago
-
----
-
 **[ChatGPT Users May Soon See Targeted Ads: What It Means](https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/)**
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
 🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 10h ago
+
+---
+
+**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
+
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 18h ago
 
 ---
 
@@ -87,7 +87,7 @@ I analyzed 3,023 enterprise AI use cases to understand what's actually being dep
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-1d ago
+2d ago
 
 ---
 
@@ -127,6 +127,30 @@ The Guardian • 8h ago
 
 ---
 
+**[Why People Create AI “Workslop”—and How to Stop It](https://hbr.org/2026/01/why-people-create-ai-workslop-and-how-to-stop-it)**
+
+With the rise of gen AI tools, offices have had to contend with a new scourge: “workslop” or low-effort, AI-generated work that looks plausibly polished, but ends up wasting time and effort as it offloads cognitive work onto the recipient. Workslop can have a corrosive effect on office dynamics. But why do people create it and send it to their colleagues, especially if it can lead to bosses, coworkers, and subordinates thinking less of them? New research suggests that the recipe for workslop is surprisingly simple and under the control of management: It’s the result of unclear AI mandates and overwhelmed teams. Leaders are issuing vague directives for employees to start using extremely powerful tools, while many of those employees are overburdened, psychologically depleted, and operating in environments where it doesn’t feel safe to admit uncertainty or ask for help. Addressing this problem first requires understanding pressures at both the top and bottom of organizations.
+
+Harvard Business Review • 1d ago
+
+---
+
+**[The Real Allure of an AI Boyfriend](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
+
+AI is offering people a way to figure out what they really want in romance.
+
+The Atlantic • 47m ago
+
+---
+
+**[Opinion: Remembering Ai, a remarkably intelligent chimpanzee](https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee)**
+
+We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
+
+NPR • 47m ago
+
+---
+
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
 The New York Times • 2d ago
@@ -145,19 +169,11 @@ Axios • 1h ago
 
 ---
 
-**['Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why.](https://www.businessinsider.com/big-short-michael-burry-warren-buffett-ai-boom-nvidia-palantir-2026-1)**
+**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
 
-Michael Burry of "The Big Short" fame relayed a Warren Buffett story to warn of wasteful tech spending, and took aim at Nvidia and Palantir again.
+Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
 
-Business Insider • 1h ago
-
----
-
-**[How artificial intelligence is transforming healthcare](https://www.foxbusiness.com/healthcare/how-artificial-intelligence-transforming-healthcare)**
-
-Hospitals and health systems are increasingly partnering with AI companies to improve diagnostics and expand access to medical information.
-
-Fox Business • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -167,27 +183,11 @@ The New York Times • 3h ago
 
 ---
 
-**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
+**[Sienna Rose: AI suspicions surround mysterious singer](https://www.bbc.com/news/articles/cq6v83gq66eo)**
 
-Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
 
-CNBC • 3h ago
-
----
-
-**[Amateur mathematicians solve long-standing maths problems with AI](https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/)**
-
-Professional mathematicians have been stunned by the progress amateurs have made in solving long-standing problems with the assistance of AI tools, and say it could lead to a new way of doing mathematics
-
-New Scientist • 22h ago
-
----
-
-**[Gemini introduces Personal Intelligence](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)**
-
-Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
-
-blog.google • 2d ago
+BBC • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 263 • 💬 171 • 2d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 264 • 💬 171 • 2d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -226,13 +226,13 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 98 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 99 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
 **[Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)](https://news.ycombinator.com/item?id=46620358)**
 
-⬆️ 124 • 💬 23 • 2d ago
+⬆️ 125 • 💬 23 • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 88 • 💬 17 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 89 • 💬 17 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
@@ -254,7 +254,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 77 • 💬 21 • 10h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 79 • 💬 23 • 10h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -270,7 +270,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 49 • 💬 10 • 21h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 50 • 💬 10 • 21h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -344,7 +344,7 @@ The US military has unveiled an AI-powered drone swarm capable of selecting and 
 
 📺 New York Post
 
-👁️ 16K • 👍 326 • 💬 196 • ⏱️ 2:05 • 20h ago
+👁️ 16K • 👍 326 • 💬 196 • ⏱️ 2:05 • 21h ago
 
 ---
 
@@ -354,7 +354,7 @@ There's a scene in the 2005 Charlie and the Chocolate Factory that I think about
 
 📺 Real Life Fake Wizard
 
-👁️ 13K • 👍 2K • 💬 754 • ⏱️ 24:24 • 18h ago
+👁️ 13K • 👍 2K • 💬 754 • ⏱️ 24:24 • 19h ago
 
 ---
 
@@ -642,7 +642,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 42m ago
+⭐ 8.9k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 256 • 8h ago
+⭐ 5.6k • 🔱 256 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 55m ago
+⭐ 2.4k • 🔱 2.3k • 1h ago
 
 ---
 

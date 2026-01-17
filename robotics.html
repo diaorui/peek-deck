@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-17T13:29:38.934079+00:00"
+          "dateModified": "2026-01-17T13:47:38.472414+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -750,6 +750,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/ue2d0wt1qwdg1.png?width=640&crop=smart&auto=webp&s=b7981bbeea4c8f4d9ba905c65c017a704de56e9e" alt="[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/" target="_blank" onclick="event.stopPropagation();">[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768655066.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qec4lq/boston_dynamics_spot_in_2025/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -936,41 +971,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cnRrb2l0anNqbmRnMdedz7eo1dkTQgbOT1IU_6yyy_g29zVxHS9mGeU_uJsv.png?width=640&crop=smart&auto=webp&s=09d5e1222c3c8839d5804d5ff2349a61651d847e" alt="Shadow Hand cube reorientation task" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/" target="_blank" onclick="event.stopPropagation();">Shadow Hand cube reorientation task</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768543650.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -994,7 +994,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-17T12:41:34.922699+00:00">Updated 2026-01-17T12:41:34.922699+00:00</small>
+        <small data-timestamp="2026-01-17T13:47:08.673875+00:00">Updated 2026-01-17T13:47:08.673875+00:00</small>
     </div>
 </div>
 
@@ -1418,14 +1418,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd7k6UcVExKMeDrfTzgtDKpfdxgnweaXNRXK8eoacEBEZYXJ-P_O91M&gaa_ts=696b8702&gaa_sig=CvtvyCzmIbiaFQUA2wdS3IrkI1j3PQRlHHfGifF8JbNnP4aTPFAyJMiSUcAS4AMCsPpL5ilfVkCMM1PGH2PgOQ%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdzsgbgqcY3MAH8VpWckbmAc3hlBU51dYyRU_swyTgsFR2La5fOCRqJ&gaa_ts=696b9660&gaa_sig=J-gesZpeLLDtXlCGuCIfO_P75sy8BvGIO0N8PhMUVu3yNiu2v_p17iUJmPEDalNp2AqCenz5Hx3Mzf4XwTWFdg%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd7k6UcVExKMeDrfTzgtDKpfdxgnweaXNRXK8eoacEBEZYXJ-P_O91M&gaa_ts=696b8702&gaa_sig=CvtvyCzmIbiaFQUA2wdS3IrkI1j3PQRlHHfGifF8JbNnP4aTPFAyJMiSUcAS4AMCsPpL5ilfVkCMM1PGH2PgOQ%3D%3D" target="_blank" onclick="event.stopPropagation();">3 ways to invest in what could become a $200 billion market for humanoid robots</a>
+                            <a href="https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdzsgbgqcY3MAH8VpWckbmAc3hlBU51dYyRU_swyTgsFR2La5fOCRqJ&gaa_ts=696b9660&gaa_sig=J-gesZpeLLDtXlCGuCIfO_P75sy8BvGIO0N8PhMUVu3yNiu2v_p17iUJmPEDalNp2AqCenz5Hx3Mzf4XwTWFdg%3D%3D" target="_blank" onclick="event.stopPropagation();">3 ways to invest in what could become a $200 billion market for humanoid robots</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1594,7 +1594,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-17T12:41:54.769391+00:00">Updated 2026-01-17T12:41:54.769391+00:00</small>
+        <small data-timestamp="2026-01-17T13:47:27.335791+00:00">Updated 2026-01-17T13:47:27.335791+00:00</small>
     </div>
 </div>
 

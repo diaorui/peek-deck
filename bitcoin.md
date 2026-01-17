@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T13:29:39.322182+00:00'
+updated: '2026-01-17T13:47:38.848235+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 13:29 UTC  
+**Last Updated:** January 17, 2026 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +4.7%  
-**30d:** +8.0%  
-**90d:** -13.8%  
-**1y:** -8.8%  
+**24h:** +0.2%  
+**7d:** +4.9%  
+**30d:** +8.2%  
+**90d:** -13.7%  
+**1y:** -8.7%  
 
 ---
 
@@ -95,6 +95,14 @@ Rank #1
 
 ---
 
+**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
+
+I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
+
+34m ago
+
+---
+
 **[Anyone here going all in in BTC and nothing else?](https://www.reddit.com/r/Bitcoin/comments/1qf5geg/anyone_here_going_all_in_in_btc_and_nothing_else/)**
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
@@ -119,17 +127,17 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 ---
 
-**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
-
-1d ago
-
----
-
 **[Asked a similar question yesterday](https://www.reddit.com/r/Bitcoin/comments/1qfahde/asked_a_similar_question_yesterday/)**
 
 Do you think this is still a realistic, positiv scenario today?
 
 2h ago
+
+---
+
+**[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
+
+1d ago
 
 ---
 
@@ -139,21 +147,13 @@ Do you think this is still a realistic, positiv scenario today?
 
 ---
 
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.reddit.com/r/Bitcoin/comments/1qf74mt/these_finnish_homes_are_being_heated_by_a/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/) • 5h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 23h ago
+The New York Times • 22h ago
 
 ---
 
@@ -179,11 +179,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Could Monero Be the Next Bitcoin?](https://www.fool.com/investing/2026/01/17/could-monero-be-the-next-bitcoin/)**
+**[Could Monero Be the Next Bitcoin?](https://finance.yahoo.com/news/could-monero-next-bitcoin-125000159.html)**
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-The Motley Fool • 59m ago
+Yahoo Finance • 57m ago
+
+---
+
+**[Crypto Wallet MetaMask Adds Tron Support Following Bitcoin, Solana Expansions](https://decrypt.co/354727/crypto-wallet-metamask-adds-tron-following-bitcoin-solana)**
+
+MetaMask continues adding chains as it expands beyond Ethereum, adding Tron support Thursday following last month’s Bitcoin move.
+
+Decrypt • 1d ago
 
 ---
 
@@ -195,33 +203,25 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+**[Crypto Today: Why Bitcoin, Ethereum, XRP are struggling on Friday](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-support-amid-waning-retail-demand-202601161200)**
 
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+Bitcoin (BTC) holds above support at $95,000 at the time of writing on Friday, after retracing from its recent high of $97,924 amid profit-taking and emerging regulatory headwinds in the United States (US).
 
-CoinDesk • 21h ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 20h ago
+FXStreet • 1d ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqe7G5NNRG3OTeom88jlDqYk4JPtIdi74SdyF_gg3KP3OwH57qq482IN&gaa_ts=696b86ff&gaa_sig=UoUviQIwYwGc6Hr4RUgcpu3dWsJAeNnQkSCPgzd1V_sypyOFQLXepMG01rhEp2GQZfngKGi9FPtlBX32IYWm9A%3D%3D)**
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
 
-Barron's • 1d ago
-
----
-
-**[Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target](https://finance.yahoo.com/news/viral-prediction-5-000-xrp-162020049.html)**
-
-The XRP versus Bitcoin debate just went viral. Crypto influencer Bird claims that by year-end, 5,000 XRP (CRYPTO: XRP) could be worth 1 Bitcoin (CRYPTO: BTC)—implying an XRP $18.40 target that would represent nearly 800% upside from current levels. The bold forecast has ignited fierce debate about whether XRP outperforms Bitcoin in the coming months. ... Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqcLuAbEKoJUtRV8YRbpnHAycmUymbkKybSFRWaNWdEA2xreacCbgV4q&gaa_ts=696b965d&gaa_sig=hFAuSUnzJ3PWTcW49pBMpWbyZi-OJiLXH1lsUVETwWs83WdOD-6G2Jon3xWHnZVV4l5-MEUInnpoNiMGa7xAfA%3D%3D)**
+
+MarketWatch • 20h ago
 
 ---
 
@@ -233,7 +233,7 @@ Yahoo Finance • 1d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 21h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 22h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -241,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 15h ago
+👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Goodguys2Greatmen
 
-👁️ 3K • 👍 1K • 22m ago
+👁️ 3K • 👍 1K • 40m ago
 
 ---
 
@@ -361,7 +361,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 14h ago
+👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 15h ago
 
 ---
 

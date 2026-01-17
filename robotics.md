@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T13:29:39.331540+00:00'
+updated: '2026-01-17T13:47:38.857541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 13:29 UTC  
+**Last Updated:** January 17, 2026 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,6 +62,14 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
+**[[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe.](https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/)**
+
+There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
+
+43m ago
+
+---
+
 **[Boston Dynamics Spot in 2025](https://www.reddit.com/r/robotics/comments/1qec4lq/boston_dynamics_spot_in_2025/)**
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
@@ -90,7 +98,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-13h ago
+14h ago
 
 ---
 
@@ -99,14 +107,6 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
 🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 17h ago
-
----
-
-**[Shadow Hand cube reorientation task](https://www.reddit.com/r/robotics/comments/1qe85rj/shadow_hand_cube_reorientation_task/)**
-
-This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
-
-1d ago
 
 ---
 
@@ -158,7 +158,7 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd7k6UcVExKMeDrfTzgtDKpfdxgnweaXNRXK8eoacEBEZYXJ-P_O91M&gaa_ts=696b8702&gaa_sig=CvtvyCzmIbiaFQUA2wdS3IrkI1j3PQRlHHfGifF8JbNnP4aTPFAyJMiSUcAS4AMCsPpL5ilfVkCMM1PGH2PgOQ%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdzsgbgqcY3MAH8VpWckbmAc3hlBU51dYyRU_swyTgsFR2La5fOCRqJ&gaa_ts=696b9660&gaa_sig=J-gesZpeLLDtXlCGuCIfO_P75sy8BvGIO0N8PhMUVu3yNiu2v_p17iUJmPEDalNp2AqCenz5Hx3Mzf4XwTWFdg%3D%3D)**
 
 MarketWatch • 2d ago
 
