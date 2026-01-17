@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T03:23:54.977490+00:00'
+updated: '2026-01-17T04:07:29.292444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 03:23 UTC  
+**Last Updated:** January 17, 2026 at 04:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1905.18B
+**Market Cap:** $1904.27B
 Rank #1
 
-**Circulating Supply:** 19,976,781 BTC
+**Circulating Supply:** 19,976,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.4%
 
 **All-Time Low:** $67.81
-+140528.2%
++140470.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,13 +95,13 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Hey everyone, ​Looking at the charts today, it seems $95,000 is becoming a very important level for Bitcoin. After the recent volatility, we are seeing some solid consolidation here. ​A few things I’m watching: ● ​Support: The $94.5k - $95k zone is holding well. If we stay above this, the trend stays bullish. ● ​Volume: Trading volume is starting to steady, which usually happens before a big breakout. ● ​The Goal: Everyone is eyeing $100,000. It’s a huge psychological barrier, but the market structure looks healthy enough to test it soon. ​Personally, I think we might sideways for a few more days before the next leg up. ​What do you guys think? Are we buying this consolidation, or do you think we need a deeper correction to $90k first? ​Disclaimer: Not financial advice. Just sharing my analysis.
 
-47m ago
+1h ago
 
 ---
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,19 +115,19 @@ Hey everyone, ​Looking at the charts today, it seems $95,000 is becoming a ver
 
 I hold a lot of USDC and want to move part of it into BTC. I prefer not to use exchanges that require identity verification. What are reliable non KYC options these days?
 
-2h ago
+3h ago
 
 ---
 
 **[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ I hold a lot of USDC and want to move part of it into BTC. I prefer not to use e
 
 Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
 
-22h ago
+23h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 12h ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 18h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ Mother Jones • 2d ago
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 7h ago
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 8h ago
 
 Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -233,7 +233,7 @@ Seeking Alpha • 8h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 11h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 12h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -241,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -299,7 +299,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 21h ago
+⬆️ 2 • 💬 4 • 22h ago
 
 ---
 
@@ -307,53 +307,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 29K • 👍 2K • 💬 257 • ⏱️ 16:02 • 9h ago
-
----
-
 **[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
 
 Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
 
 📺 What Bitcoin Did
 
-👁️ 14K • 👍 789 • 💬 179 • ⏱️ 1:13:07 • 16h ago
-
----
-
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 184 • 💬 45 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
-
-LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 223 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Galaxy CEO Michael Novogratz on data center expansion, fate of Senate crypto bill](https://www.youtube.com/watch?v=v6v0rlUMGOI)**
-
-Michael Novogratz, Galaxy founder and CEO, joins 'Squawk Box' to discuss the expansion of the company's Helios data center, ...
-
-📺 CNBC Television
-
-👁️ 15K • 👍 192 • 💬 47 • ⏱️ 9:06 • 14h ago
+👁️ 16K • 👍 835 • 💬 188 • ⏱️ 1:13:07 • 17h ago
 
 ---
 
@@ -363,27 +323,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 148 • ⏱️ 43:25 • 11h ago
+👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 12h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 Benjamin Cowen
+📺 Yahoo Finance
 
-👁️ 65K • 👍 4K • 💬 178 • ⏱️ 18:18 • 22h ago
+👁️ 9K • 👍 191 • 💬 42 • ⏱️ 5:23 • 1d ago
 
 ---
 
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
 
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 33K • 👍 3K • 💬 207 • ⏱️ 21:24 • 1d ago
+👁️ 63K • 👍 3K • 💬 221 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -393,7 +353,17 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 120K • 👍 2K • 💬 440 • ⏱️ 5:15 • 1d ago
+👁️ 125K • 👍 2K • 💬 444 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 67K • 👍 4K • 💬 183 • ⏱️ 18:18 • 23h ago
 
 ---
 
@@ -403,7 +373,37 @@ Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold
 
 📺 Swan Bitcoin
 
-👁️ 44K • 👍 2K • 💬 101 • ⏱️ 14:15 • 1d ago
+👁️ 44K • 👍 2K • 💬 95 • ⏱️ 14:15 • 1d ago
+
+---
+
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 3K • 💬 205 • ⏱️ 21:24 • 1d ago
+
+---
+
+**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
+
+The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
+
+📺 Gareth Soloway
+
+👁️ 59K • 👍 4K • 💬 165 • ⏱️ 11:07 • 2d ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 5h ago
 
 ---
 

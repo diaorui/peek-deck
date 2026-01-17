@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T03:23:54.986799+00:00'
+updated: '2026-01-17T04:07:29.301754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 03:23 UTC  
+**Last Updated:** January 17, 2026 at 04:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-59m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 Hey, I'm a fourth-year mechatronics engineering student looking for general ideias for a research paper. I'm open to any area within mechatronics. Any suggestions or advice are welcome.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey, I'm a fourth-year mechatronics engineering student looking for general idei
 
 Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
 
-3h ago
+4h ago
 
 ---
 
@@ -146,7 +146,7 @@ Crunchbase News • 2d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 81K • 👍 4K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 92K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -206,7 +206,27 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 98K • 👍 4K • 💬 305 • ⏱️ 17:36 • 2d ago
+👁️ 100K • 👍 4K • 💬 309 • ⏱️ 17:36 • 2d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 162K • 👍 2K • 💬 397 • ⏱️ 11:46 • 5d ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 453K • 👍 14K • 💬 792 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -230,23 +250,31 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
-📺 CNBC
+📺 The Verge
 
-👁️ 161K • 👍 2K • 💬 400 • ⏱️ 11:46 • 5d ago
+👁️ 99K • 👍 1K • 💬 177 • ⏱️ 10:48 • 6d ago
 
 ---
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
 
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
 
-📺 Kim Java
+📺 PREDATOR WR
 
-👁️ 452K • 👍 14K • 💬 792 • ⏱️ 17:09 • 4d ago
+👁️ 7K • 👍 373 • 💬 52 • ⏱️ 15:23 • 15h ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 119K • 👍 1K • 💬 67 • ⏱️ 1:16 • 3d ago
 
 ---
 
@@ -256,33 +284,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 238K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
-
----
-
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 99K • 👍 1K • 💬 173 • ⏱️ 10:48 • 6d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 116K • 👍 1K • 💬 67 • ⏱️ 1:16 • 3d ago
-
----
-
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
-
-📺 Chris Wabs
-
-👁️ 319K • 👍 2K • 💬 981 • ⏱️ 0:16 • 5d ago
+👁️ 239K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 
