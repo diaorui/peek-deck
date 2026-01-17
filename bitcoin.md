@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T05:21:29.064628+00:00'
+updated: '2026-01-17T05:44:01.097514+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 05:21 UTC  
+**Last Updated:** January 17, 2026 at 05:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 49
+### 50
 **NEUTRAL**
 
 ---
@@ -87,25 +87,25 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-17h ago
+18h ago
 
 ---
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-7h ago
+8h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 16h ago
 
 **[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bitcoin Magazine • 10h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 13h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 14h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -237,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 13h ago
+👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 14h ago
 
 ---
 
@@ -399,7 +399,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 6h ago
+👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 7h ago
 
 ---
 

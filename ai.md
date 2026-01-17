@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T05:21:29.056219+00:00'
+updated: '2026-01-17T05:44:01.089121+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 05:21 UTC  
+**Last Updated:** January 17, 2026 at 05:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 9h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 10h ago
 
 ---
 
@@ -55,7 +55,7 @@ I was just asked by my colleague who, unfortunately, came into that Claude Cowor
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 1h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 1d ago
 
 She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 17h ago
 
 **[MAGA targets Brian Mast over AI chips regulation](https://www.axios.com/2026/01/16/maga-brian-mast-ai-chips)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Axios • 1h ago
 
 Professional mathematicians have been stunned by the progress amateurs have made in solving long-standing problems with the assistance of AI tools, and say it could lead to a new way of doing mathematics
 
-New Scientist • 13h ago
+New Scientist • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 59 • 💬 5 • 17h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 59 • 💬 5 • 18h ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -264,7 +264,7 @@ Starlink quietly enabled third-party AI model training on its customers' persona
 
 Big Tech doesn't care if you want AI or not. They should.
 
-⬆️ 40 • 💬 25 • 9h ago • [duckduckgo.com](https://duckduckgo.com/vote)
+⬆️ 40 • 💬 25 • 10h ago • [duckduckgo.com](https://duckduckgo.com/vote)
 
 ---
 
@@ -298,7 +298,7 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 16K • 👍 461 • 💬 376 • ⏱️ 9:43 • 21h ago
+👁️ 16K • 👍 461 • 💬 376 • ⏱️ 9:43 • 22h ago
 
 ---
 
@@ -645,7 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.9k • 🔱 322 • 10h ago
+⭐ 6.9k • 🔱 322 • 11h ago
 
 ---
 
@@ -705,7 +705,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 2.0k • 🔱 409 • 16h ago
+⭐ 2.0k • 🔱 409 • 17h ago
 
 ---
 
