@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T10:44:10.830108+00:00'
+updated: '2026-01-17T11:18:28.211581+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 10:44 UTC  
+**Last Updated:** January 17, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-41m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 14h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 15h ago
 
 ---
 
@@ -196,17 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 106K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
-
----
-
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 102K • 👍 5K • 💬 311 • ⏱️ 17:36 • 2d ago
+👁️ 110K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -220,13 +210,23 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 ---
 
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 103K • 👍 5K • 💬 312 • ⏱️ 17:36 • 2d ago
+
+---
+
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 455K • 👍 14K • 💬 797 • ⏱️ 17:09 • 4d ago
+👁️ 456K • 👍 14K • 💬 797 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -240,6 +240,16 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 16K • 👍 124 • 💬 10 • ⏱️ 0:12 • 5d ago
+
+---
+
 **[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
 At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
@@ -250,31 +260,11 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 241K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
-
----
-
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
-
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
-
-📺 The Laughing Lion
-
-👁️ 16K • 👍 122 • 💬 10 • ⏱️ 0:12 • 5d ago
-
----
-
 **[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
 
 📺 Chris Wabs
 
-👁️ 329K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
+👁️ 333K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -282,7 +272,17 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 Wowearth
 
-👁️ 123K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+👁️ 125K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 242K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 

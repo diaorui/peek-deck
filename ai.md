@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T10:44:10.812332+00:00'
+updated: '2026-01-17T11:18:28.194045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 10:44 UTC  
+**Last Updated:** January 17, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-5h ago
+6h ago
 
 ---
 
@@ -63,7 +63,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 2d ago
 
 Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ CNBC • 50m ago
 
 The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
 
-NBC News • 44m ago
+NBC News • 1h ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 41m ago
+The New York Times • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Business Insider • 2h ago
 
 Microsoft Copilot AI was near-perfect predicting the results of the NFL's wild-card weekend. Will it repeat its success in the divisional round?
 
-USA Today • 23h ago
+USA Today • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ OpenAI • 2d ago
 
 **[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
@@ -252,7 +252,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 71 • 💬 21 • 7h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 71 • 💬 21 • 8h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -268,7 +268,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 49 • 💬 10 • 18h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 49 • 💬 10 • 19h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -282,7 +282,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 92K • 👍 7K • 💬 2K • ⏱️ 14:15 • 14h ago
+👁️ 99K • 👍 7K • 💬 2K • ⏱️ 14:15 • 14h ago
 
 ---
 
@@ -292,37 +292,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 22K • 👍 556 • 💬 188 • ⏱️ 7:05 • 10h ago
-
----
-
-**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
-
-Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
-
-📺 JRE Clips
-
-👁️ 134K • 👍 3K • 💬 769 • ⏱️ 10:04 • 16h ago
-
----
-
-**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
-
-Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
-
-📺 The Young Turks
-
-👁️ 18K • 👍 491 • 💬 395 • ⏱️ 9:43 • 1d ago
-
----
-
-**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
-
-Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
-
-📺 Lindey Glenn
-
-👁️ 112K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
+👁️ 26K • 👍 698 • 💬 233 • ⏱️ 7:05 • 11h ago
 
 ---
 
@@ -332,7 +302,27 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 106K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 110K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
+
+---
+
+**[US Unveils AI Drone Swarm Built to Annihilate Targets](https://www.youtube.com/watch?v=0PiA7H4t3II)**
+
+The US military has unveiled an AI-powered drone swarm capable of selecting and annihilating targets autonomously, calling it ...
+
+📺 New York Post
+
+👁️ 16K • 👍 326 • 💬 194 • ⏱️ 2:05 • 18h ago
+
+---
+
+**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
+
+Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
+
+📺 The Young Turks
+
+👁️ 18K • 👍 495 • 💬 397 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -342,7 +332,7 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 224 • 💬 35 • ⏱️ 6:40 • 1d ago
+👁️ 24K • 👍 236 • 💬 36 • ⏱️ 6:40 • 1d ago
 
 ---
 
@@ -352,7 +342,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 79K • 👍 3K • 💬 395 • ⏱️ 19:03 • 2d ago
+👁️ 80K • 👍 3K • 💬 397 • ⏱️ 19:03 • 2d ago
 
 ---
 
@@ -362,7 +352,7 @@ Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to di
 
 📺 CNBC Television
 
-👁️ 3K • 👍 49 • 💬 11 • ⏱️ 7:53 • 20h ago
+👁️ 4K • 👍 51 • 💬 11 • ⏱️ 7:53 • 21h ago
 
 ---
 
@@ -372,7 +362,17 @@ Common Bandcamp W #music #ai #bandcamp #spotify #siennarose.
 
 📺 fantano
 
-👁️ 62K • 👍 7K • 💬 265 • ⏱️ 0:55 • 2d ago
+👁️ 62K • 👍 7K • 💬 266 • ⏱️ 0:55 • 2d ago
+
+---
+
+**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
+
+Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
+
+📺 AI Revolution
+
+👁️ 23K • 👍 687 • 💬 56 • ⏱️ 15:44 • 1d ago
 
 ---
 
@@ -388,7 +388,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 772 • 2d ago
+⬇️ 6,001 • ❤️ 778 • 2d ago
 
 ---
 
@@ -400,7 +400,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 51,009 • ❤️ 711 • 9d ago
+⬇️ 51,009 • ❤️ 715 • 9d ago
 
 ---
 
@@ -412,7 +412,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,463,289 • ❤️ 1,103 • 2d ago
+⬇️ 1,463,289 • ❤️ 1,107 • 2d ago
 
 ---
 
@@ -434,7 +434,43 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 18,894 • ❤️ 242 • 2d ago
+⬇️ 18,894 • ❤️ 245 • 2d ago
+
+---
+
+**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
+
+*Google*
+
+MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
+
+`image-text-to-text` `4.3B`
+
+⬇️ 17,417 • ❤️ 241 • 2d ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 5,382 • ❤️ 239 • 1d ago
+
+---
+
+**[supertonic-2](https://huggingface.co/Supertone/supertonic-2)**
+
+*Supertone*
+
+Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model supporting English, Korean, Spanish, Portuguese, and French. It offers extreme performance with minimal overhead, achieving up to 167x faster than real-time inference and optimized for privacy-focused applications.
+
+`text-to-speech`
+
+⬇️ 11,904 • ❤️ 272 • 11d ago
 
 ---
 
@@ -450,42 +486,6 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 ---
 
-**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
-
-*Google*
-
-MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
-
-`image-text-to-text` `4.3B`
-
-⬇️ 17,417 • ❤️ 239 • 2d ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 5,382 • ❤️ 233 • 1d ago
-
----
-
-**[supertonic-2](https://huggingface.co/Supertone/supertonic-2)**
-
-*Supertone*
-
-Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model supporting English, Korean, Spanish, Portuguese, and French. It offers extreme performance with minimal overhead, achieving up to 167x faster than real-time inference and optimized for privacy-focused applications.
-
-`text-to-speech`
-
-⬇️ 11,904 • ❤️ 271 • 11d ago
-
----
-
 **[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
 
 *Qwen*
@@ -494,7 +494,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 42,243 • ❤️ 267 • 7d ago
+⬇️ 42,243 • ❤️ 268 • 7d ago
 
 ---
 
@@ -508,7 +508,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 19 • 💬 1 • ⭐ 2,626 • 5d ago
+▲ 19 • 💬 1 • ⭐ 2,670 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -534,7 +534,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 142 • 💬 3 • ⭐ 130 • 2d ago
+▲ 143 • 💬 3 • ⭐ 130 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
 
@@ -546,7 +546,7 @@ Urban socio-semantic segmentation is achieved through a vision-language model fr
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 20 • 💬 3 • ⭐ 15,354 • 2mo ago
+▲ 20 • 💬 3 • ⭐ 15,451 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -573,7 +573,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 135 • 💬 19 • ⭐ 50,283 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,313 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -591,18 +591,6 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
-
-*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
-
-LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
-
-▲ 176 • 💬 6 • ⭐ 65,894 • 22mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
-
----
-
 **[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)**
 
 *Delong Chen, Tejaswi Kasarla, Yejin Bang et al. (9 authors)*
@@ -611,23 +599,33 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 Action100M is a large-scale video action dataset constructed from internet instructional videos using automated pipelines with V-JEPA embeddings and GPT-based reasoning for structured annotations.
 
-▲ 10 • 💬 1 • ⭐ 105 • 1d ago
+▲ 11 • 💬 1 • ⭐ 105 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10592) • [💻 code](https://github.com/facebookresearch/Action100M)
 
 ---
 
-**[STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668)**
+**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
-*Ailin Huang, Chengyuan Yao, Chunrui Han et al. (93 authors)*
+*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
 
-🏢 StepFun
+LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-STEP3-VL-10B achieves superior multimodal performance through unified pre-training with a language-aligned Perception Encoder and Qwen3-8B decoder, combined with scaled post-training and Parallel Coordinated Reasoning for efficient large-scale visual reasoning.
+▲ 176 • 💬 6 • ⭐ 65,909 • 22mo ago
 
-▲ 139 • 💬 5 • ⭐ 152 • 2d ago
+[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
-[🎓 arXiv](https://arxiv.org/abs/2601.09668) • [💻 code](https://github.com/stepfun-ai/Step3-VL-10B) • [🔗 project](https://stepfun-ai.github.io/Step3-VL-10B)
+---
+
+**[MediaPipe: A Framework for Building Perception Pipelines](https://huggingface.co/papers/1906.08172)**
+
+*Camillo Lugaresi, Jiuqiang Tang, Hadon Nash et al. (14 authors)*
+
+MediaPipe framework facilitates the development of perception applications by providing tools for combining components, prototyping, and measuring performance across platforms.
+
+▲ 2 • 💬 0 • ⭐ 33,302 • 80mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/1906.08172) • [💻 code](https://github.com/google-ai-edge/mediapipe)
 
 ---
 
@@ -651,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 326 • 16h ago
+⭐ 7.0k • 🔱 330 • 16h ago
 
 ---
 
@@ -661,7 +659,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 249 • 5h ago
+⭐ 5.6k • 🔱 251 • 6h ago
 
 ---
 
@@ -671,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 601 • 9d ago
+⭐ 4.5k • 🔱 605 • 9d ago
 
 ---
 
@@ -681,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 162 • 1h ago
+⭐ 2.7k • 🔱 163 • 2h ago
 
 ---
 
@@ -691,17 +689,17 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.3k • 🔱 453 • 22h ago
+⭐ 2.5k • 🔱 473 • 22h ago
 
 ---
 
 **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
 
-LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.2k • 2h ago
+⭐ 2.3k • 🔱 2.3k • 58m ago
 
 ---
 
@@ -711,7 +709,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 244 • 1d ago
+⭐ 2.2k • 🔱 245 • 1d ago
 
 ---
 
@@ -721,7 +719,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 20h ago
+⭐ 1.7k • 🔱 134 • 21h ago
 
 ---
 
@@ -731,7 +729,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 234 • 23h ago
+⭐ 1.6k • 🔱 236 • 1d ago
 
 ---
 

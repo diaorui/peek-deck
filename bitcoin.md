@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T10:44:10.820834+00:00'
+updated: '2026-01-17T11:18:28.202375+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 10:44 UTC  
+**Last Updated:** January 17, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1901.78B
+**Market Cap:** $1898.77B
 Rank #1
 
 **Circulating Supply:** 19,976,909 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.6%
 
 **All-Time Low:** $67.81
-+140290.8%
++140140.4%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 "When Bitcoin was here last cycle the price did this...."
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 1d ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -173,13 +173,13 @@ CoinDesk • 21h ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 29m ago
+Business Insider • 1h ago
 
 ---
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 14h ago
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 10h ago
 
 A White House crypto advisor said the US government has not sold any Bitcoin forfeited in the Samourai Wallet case, pushing back against market rumors sparked by recent on-chain activity. Key Takeaways: The DOJ confirmed it has not sold any Bitcoin forfeited in the Samourai Wallet case. The clarification follows ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 2h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 17h ago
+Mother Jones • 18h ago
 
 ---
 
@@ -269,7 +269,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -297,7 +297,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Politics and the English Language (1946) [pdf]](https://news.ycombinator.com/item?id=46655913)**
 
-⬆️ 2 • 💬 0 • 3h ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
+⬆️ 2 • 💬 0 • 4h ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 13h ago
+👁️ 29K • 👍 1K • 💬 168 • ⏱️ 8:18 • 13h ago
 
 ---
 
@@ -321,7 +321,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 18K • 👍 894 • 💬 208 • ⏱️ 1:13:07 • 23h ago
+👁️ 19K • 👍 911 • 💬 213 • ⏱️ 1:13:07 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 197 • 💬 35 • ⏱️ 5:23 • 1d ago
+👁️ 10K • 👍 199 • 💬 31 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -341,17 +341,17 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 217 • ⏱️ 11:32 • 1d ago
+👁️ 65K • 👍 3K • 💬 214 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+**[Bitcoin Reaches CRITICAL Levels... Here&#39;s what this means](https://www.youtube.com/watch?v=TeZ8k2OiHtk)**
 
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+The Bitcoin rally recently is reaching critical levels. But is this rally for real or could it potentially fail? What are the likely outcomes ...
 
-📺 Benjamin Cowen
+📺 Alessio Rastani
 
-👁️ 70K • 👍 4K • 💬 190 • ⏱️ 18:18 • 1d ago
+👁️ 25K • 👍 2K • 💬 322 • ⏱️ 15:58 • 16h ago
 
 ---
 
@@ -361,17 +361,17 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 4:55 • 12h ago
+👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 12h ago
 
 ---
 
-**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
 
-Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
 
-📺 Swan Bitcoin
+📺 Benjamin Cowen
 
-👁️ 45K • 👍 2K • 💬 94 • ⏱️ 14:15 • 1d ago
+👁️ 72K • 👍 4K • 💬 193 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin's path to new highs is coming into focus as momentum, on-chain data, and
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 141 • 💬 7 • ⏱️ 0:32 • 2d ago
+👁️ 9K • 👍 142 • 💬 7 • ⏱️ 0:32 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ From Venezuela to Taiwan, AI disruption to Bitcoin trends—this episode dives i
 
 📺 Preston Pysh
 
-👁️ 17K • 👍 854 • 💬 190 • ⏱️ 1:22:16 • 2d ago
+👁️ 17K • 👍 856 • 💬 189 • ⏱️ 1:22:16 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 132K • 👍 2K • 💬 450 • ⏱️ 5:15 • 1d ago
+👁️ 135K • 👍 2K • 💬 458 • ⏱️ 5:15 • 1d ago
 
 ---
 
