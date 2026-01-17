@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T12:41:56.047293+00:00'
+updated: '2026-01-17T13:29:39.322182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 12:41 UTC  
+**Last Updated:** January 17, 2026 at 13:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1898.77B
+**Market Cap:** $1903.74B
 Rank #1
 
 **Circulating Supply:** 19,976,909 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.6%
+-24.4%
 
 **All-Time Low:** $67.81
-+140140.4%
++140451.5%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-13h ago
+14h ago
 
 ---
 
@@ -129,13 +129,13 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Do you think this is still a realistic, positiv scenario today?
 
-1h ago
+2h ago
 
 ---
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ Can the reuse of crypto's waste heat redeem its bad climate rep?
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 2h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 23h ago
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-The Motley Fool • 11m ago
+The Motley Fool • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 11m ago
 
 Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 20h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 19h ago
+Mother Jones • 20h ago
 
 ---
 
@@ -233,7 +233,7 @@ Yahoo Finance • 1d ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 20h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 21h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -271,7 +271,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -295,13 +295,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 29K • 👍 1K • 💬 168 • ⏱️ 8:18 • 14h ago
+👁️ 10K • 👍 205 • 💬 32 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -311,17 +311,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 19K • 👍 911 • 💬 213 • ⏱️ 1:13:07 • 1d ago
+👁️ 19K • 👍 938 • 💬 225 • ⏱️ 1:13:07 • 1d ago
 
 ---
 
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
-📺 Yahoo Finance
+📺 Altcoin Daily
 
-👁️ 10K • 👍 199 • 💬 31 • ⏱️ 5:23 • 1d ago
+👁️ 31K • 👍 2K • 💬 199 • ⏱️ 8:18 • 15h ago
 
 ---
 
@@ -331,27 +331,17 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 214 • ⏱️ 11:32 • 1d ago
+👁️ 65K • 👍 3K • 💬 213 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Bitcoin Reaches CRITICAL Levels... Here&#39;s what this means](https://www.youtube.com/watch?v=TeZ8k2OiHtk)**
+**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=zwMsWZxhhRs)**
 
-The Bitcoin rally recently is reaching critical levels. But is this rally for real or could it potentially fail? What are the likely outcomes ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Alessio Rastani
+📺 Goodguys2Greatmen
 
-👁️ 25K • 👍 2K • 💬 322 • ⏱️ 15:58 • 17h ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
-
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
-
-📺 Road To $1 Million USD
-
-👁️ 2K • 👍 127 • 💬 28 • ⏱️ 4:55 • 14h ago
+👁️ 3K • 👍 1K • 22m ago
 
 ---
 
@@ -361,27 +351,17 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 4K • 💬 193 • ⏱️ 18:18 • 1d ago
+👁️ 73K • 👍 4K • 💬 194 • ⏱️ 18:18 • 1d ago
 
 ---
 
-**[BITCOIN PATH TO NEW HIGHS](https://www.youtube.com/watch?v=OyRtuWBB63Q)**
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
 
-Bitcoin's path to new highs is coming into focus as momentum, on-chain data, and macro trends align. In today's crypto news, we ...
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
 
-📺 Discover Crypto
+📺 Road To $1 Million USD
 
-👁️ 9K • 👍 142 • 💬 7 • ⏱️ 0:32 • 2d ago
-
----
-
-**[Bitcoin Mastermind Q1 2026 w/ Joe Carlasare, Jeff Ross, &amp; American HODL (BTC257)](https://www.youtube.com/watch?v=bzzFBvzONBo)**
-
-From Venezuela to Taiwan, AI disruption to Bitcoin trends—this episode dives into shifting global power, evolving economic ...
-
-📺 Preston Pysh
-
-👁️ 17K • 👍 856 • 💬 189 • ⏱️ 1:22:16 • 3d ago
+👁️ 2K • 👍 128 • 💬 23 • ⏱️ 4:55 • 14h ago
 
 ---
 
@@ -391,7 +371,27 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 135K • 👍 2K • 💬 458 • ⏱️ 5:15 • 1d ago
+👁️ 137K • 👍 2K • 💬 464 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
+
+Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 415 • 💬 49 • ⏱️ 1:31:47 • 1d ago
+
+---
+
+**[&#39;DEEPLY UNFAIR&#39;: Coinbase CEO on withdrawing support for senate crypto bill #shorts #foxbusiness](https://www.youtube.com/watch?v=5wrKyp5TOgA)**
+
+Coinbase CEO Brian Armstrong breaks down the decision-making that led him to withdraw support for the Senate's crypto bill on ...
+
+📺 Fox Business
+
+👁️ 24K • 👍 491 • 💬 23 • ⏱️ 1:06 • 1d ago
 
 ---
 

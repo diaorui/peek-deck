@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T12:41:56.053346+00:00'
+updated: '2026-01-17T13:29:39.328330+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 12:41 UTC  
+**Last Updated:** January 17, 2026 at 13:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $397.95B
+**Market Cap:** $398.39B
 Rank #2
 
 **Circulating Supply:** 120,694,601 ETH
@@ -62,7 +62,7 @@ No max supply
 -33.3%
 
 **All-Time Low:** $0.43
-+761454.3%
++762290.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-20h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -152,7 +152,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 13h ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 20h ago
 
 Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ dlnews.com • 2d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -236,7 +236,17 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 4K • 👍 117 • 💬 34 • ⏱️ 24:55 • 15h ago
+👁️ 4K • 👍 131 • 💬 32 • ⏱️ 24:55 • 16h ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
+
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 106 • 💬 37 • ⏱️ 22:05 • 1h ago
 
 ---
 
@@ -246,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 625 • 💬 50 • ⏱️ 16:47 • 21h ago
+👁️ 17K • 👍 649 • 💬 47 • ⏱️ 16:47 • 22h ago
 
 ---
 
@@ -256,27 +266,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 945 • 👍 84 • 💬 2 • ⏱️ 4:27 • 6h ago
+👁️ 1K • 👍 112 • 💬 5 • ⏱️ 4:27 • 7h ago
 
 ---
 
-**[ETHEREUM XRP HOLDERS 🚨 I JUST BOUGHT THIS TODAY](https://www.youtube.com/watch?v=KQOQ2J2C81Q)**
+**[CRYPTO LIVE TRADING || 17 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=02mbX0LmsMc)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
 
-📺 Stock Moe
+📺 Balraj Trading Tech
 
-👁️ 7K • 👍 501 • 💬 12 • ⏱️ 14:06 • 15h ago
-
----
-
-**[BTC to $180K, ETH to $10K? Altcoin Daily’s 2026 Outlook](https://www.youtube.com/watch?v=hDJuU6iH0dE)**
-
-In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outlook, breaking down Bitcoin and Ethereum price ...
-
-📺 Cointelegraph
-
-👁️ 5K • 👍 280 • 💬 74 • ⏱️ 22:38 • 19h ago
+👁️ 3K • 👍 580 • 1h ago
 
 ---
 
@@ -286,17 +286,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 171 • 💬 262 • ⏱️ 15:03 • 1d ago
-
----
-
-**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
-
-Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 61 • 💬 85 • ⏱️ 6:39 • 2d ago
+👁️ 5K • 👍 173 • 💬 253 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -306,7 +296,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 214 • ⏱️ 11:32 • 1d ago
+👁️ 65K • 👍 3K • 💬 213 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -316,17 +306,27 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 199 • 💬 149 • ⏱️ 15:10 • 2d ago
+👁️ 5K • 👍 199 • 💬 137 • ⏱️ 15:10 • 2d ago
 
 ---
 
-**[Tom Lee&#39;s BitMine Predicts 10x on MrBeast Investment, Targets $400M ETH Yield](https://www.youtube.com/watch?v=y68usiE89M8)**
+**[BTC to $180K, ETH to $10K? Altcoin Daily’s 2026 Outlook](https://www.youtube.com/watch?v=hDJuU6iH0dE)**
 
-BitMine Chairman Tom Lee told shareholders the firm expects over $400 million in annual income purely from staking its massive ...
+In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outlook, breaking down Bitcoin and Ethereum price ...
 
-📺 CoinDesk
+📺 Cointelegraph
 
-👁️ 3K • 👍 65 • 💬 31 • ⏱️ 2:05 • 20h ago
+👁️ 6K • 👍 302 • 💬 71 • ⏱️ 22:38 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=JkSpTOBC5k4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 110 • 💬 6 • ⏱️ 3:49 • 22h ago
 
 ---
 

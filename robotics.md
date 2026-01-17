@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T12:41:56.056570+00:00'
+updated: '2026-01-17T13:29:39.331540+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 12:41 UTC  
+**Last Updated:** January 17, 2026 at 13:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 17h ago
 
 ---
 
@@ -116,7 +116,7 @@ This is the Shadow Hand cube reorientation task — a standard benchmark in robo
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -174,7 +174,7 @@ GeekWire • 2d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 110K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 113K • 👍 6K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 164K • 👍 2K • 💬 400 • ⏱️ 11:46 • 5d ago
+👁️ 165K • 👍 2K • 💬 401 • ⏱️ 11:46 • 5d ago
 
 ---
 
@@ -216,17 +216,17 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 103K • 👍 5K • 💬 312 • ⏱️ 17:36 • 2d ago
+👁️ 104K • 👍 5K • 💬 313 • ⏱️ 17:36 • 2d ago
 
 ---
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 Kim Java
+📺 DPCcars
 
-👁️ 456K • 👍 14K • 💬 797 • ⏱️ 17:09 • 4d ago
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 3:19 • 20h ago
 
 ---
 
@@ -240,13 +240,31 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 457K • 👍 14K • 💬 799 • ⏱️ 17:09 • 5d ago
+
+---
+
 **[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
 
 Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 124 • 💬 10 • ⏱️ 0:12 • 5d ago
+👁️ 16K • 👍 125 • 💬 10 • ⏱️ 0:12 • 5d ago
+
+---
+
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 336K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -260,29 +278,13 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
-
-📺 Chris Wabs
-
-👁️ 333K • 👍 2K • 💬 1K • ⏱️ 0:16 • 5d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 125K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
-
----
-
 **[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
 Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
 📺 joeybtoonz
 
-👁️ 242K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 243K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 
