@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T14:42:51.216649+00:00'
+updated: '2026-01-17T15:21:24.005494+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 14:42 UTC  
+**Last Updated:** January 17, 2026 at 15:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.9%  
-**30d:** +8.2%  
-**90d:** -13.7%  
-**1y:** -8.7%  
+**24h:** +0.6%  
+**7d:** +5.0%  
+**30d:** +8.3%  
+**90d:** -13.6%  
+**1y:** -8.6%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-1h ago
+2h ago
 
 ---
 
@@ -107,23 +107,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-8h ago
-
----
-
-**[Need more Bitcoin 😩](https://www.reddit.com/r/Bitcoin/comments/1qf1y14/need_more_bitcoin/)**
-
-Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
-
-11h ago
-
----
-
-**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
-
-First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
-
-15h ago
+9h ago
 
 ---
 
@@ -131,7 +115,23 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Do you think this is still a realistic, positiv scenario today?
 
-3h ago
+4h ago
+
+---
+
+**[Need more Bitcoin 😩](https://www.reddit.com/r/Bitcoin/comments/1qf1y14/need_more_bitcoin/)**
+
+Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
+
+12h ago
+
+---
+
+**[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
+
+First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
+
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Do you think this is still a realistic, positiv scenario today?
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -153,21 +153,13 @@ Do you think this is still a realistic, positiv scenario today?
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
-
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
-
-Business Insider • 4h ago
 
 ---
 
@@ -179,49 +171,53 @@ CoinDesk • 1d ago
 
 ---
 
-**[Could Monero Be the Next Bitcoin?](https://finance.yahoo.com/news/could-monero-next-bitcoin-125000159.html)**
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+
+The Block • 1d ago
+
+---
+
+**[Could Monero Be the Next Bitcoin?](https://www.fool.com/investing/2026/01/17/could-monero-be-the-next-bitcoin/)**
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-Yahoo Finance • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Crypto Wallet MetaMask Adds Tron Support Following Bitcoin, Solana Expansions](https://decrypt.co/354727/crypto-wallet-metamask-adds-tron-following-bitcoin-solana)**
+**[Is Bitcoin a Millionaire Maker?](https://www.fool.com/investing/2026/01/17/is-bitcoin-a-millionaire-maker/)**
 
-MetaMask continues adding chains as it expands beyond Ethereum, adding Tron support Thursday following last month’s Bitcoin move.
+The world's leading cryptocurrency has made early adopters incredibly wealthy.
 
-Decrypt • 1d ago
-
----
-
-**[US Housing Lender Will Accept Bitcoin and Ethereum for Mortgage Qualification](https://finance.yahoo.com/news/us-housing-lender-accept-bitcoin-110326147.html)**
-
-Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
-
-Yahoo Finance • 3h ago
+The Motley Fool • 6m ago
 
 ---
 
-**[Crypto Today: Why Bitcoin, Ethereum, XRP are struggling on Friday](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-support-amid-waning-retail-demand-202601161200)**
+**[Bitcoin price today: steadies at $95.5k with US crypto market bill in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-recovers-to-96k-with-us-crypto-market-bill-in-focus-4448605)**
 
-Bitcoin (BTC) holds above support at $95,000 at the time of writing on Friday, after retracing from its recent high of $97,924 amid profit-taking and emerging regulatory headwinds in the United States (US).
-
-FXStreet • 1d ago
+Investing.com • 2d ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqe8EcWhv1U8J_GGaMxBh0kIuIsEAxEwrV3x9ZlV1sY-VZ9_3zu5EBYt&gaa_ts=696bac5b&gaa_sig=k3xATjrJO1TEEWIcVL3KgZVreDdx5ookXr0mws2yLko8hFb_7R-jxtNYcOwizoxLukFo6lzHltabjvm697-trw%3D%3D)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 1d ago
+MarketWatch • 22h ago
 
 ---
 
-**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqcLuAbEKoJUtRV8YRbpnHAycmUymbkKybSFRWaNWdEA2xreacCbgV4q&gaa_ts=696b965d&gaa_sig=hFAuSUnzJ3PWTcW49pBMpWbyZi-OJiLXH1lsUVETwWs83WdOD-6G2Jon3xWHnZVV4l5-MEUInnpoNiMGa7xAfA%3D%3D)**
+**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
 
-MarketWatch • 21h ago
+Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
+
+CoinDesk • 11h ago
+
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 22h ago
 
 ---
 
@@ -233,7 +229,7 @@ MarketWatch • 21h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 22h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 23h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -271,7 +267,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 21h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -341,7 +337,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Goodguys2Greatmen
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 

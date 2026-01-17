@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T14:42:51.222621+00:00'
+updated: '2026-01-17T15:21:24.011626+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 14:42 UTC  
+**Last Updated:** January 17, 2026 at 15:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +5.7%  
-**30d:** +10.6%  
-**90d:** -17.1%  
-**1y:** -0.2%  
+**24h:** +1.0%  
+**7d:** +6.2%  
+**30d:** +11.2%  
+**90d:** -16.6%  
+**1y:** +0.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-22h ago
+23h ago
 
 ---
 
@@ -152,7 +152,7 @@ This blog post recaps the Argot Collective’s work from the second half of 2025
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 15h ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 22h ago
 
 Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 3h ago
 
 Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 2d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -214,15 +214,15 @@ The Motley Fool • 1d ago
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 2d ago
+Seeking Alpha • 3d ago
 
 ---
 
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
-24/7 Wall St. • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 4K • 👍 131 • 💬 32 • ⏱️ 24:55 • 17h ago
+👁️ 4K • 👍 131 • 💬 32 • ⏱️ 24:55 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 1K • 👍 106 • 💬 37 • ⏱️ 22:05 • 2h ago
+👁️ 1K • 👍 106 • 💬 37 • ⏱️ 22:05 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 649 • 💬 47 • ⏱️ 16:47 • 23h ago
+👁️ 17K • 👍 649 • 💬 47 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 112 • 💬 5 • ⏱️ 4:27 • 8h ago
+👁️ 1K • 👍 112 • 💬 5 • ⏱️ 4:27 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 3K • 👍 580 • 2h ago
+👁️ 3K • 👍 580 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outloo
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 302 • 💬 71 • ⏱️ 22:38 • 21h ago
+👁️ 6K • 👍 302 • 💬 71 • ⏱️ 22:38 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 6 • ⏱️ 3:49 • 23h ago
+👁️ 2K • 👍 110 • 💬 6 • ⏱️ 3:49 • 1d ago
 
 ---
 
