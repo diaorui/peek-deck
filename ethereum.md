@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T23:20:10.232590+00:00'
+updated: '2026-01-17T23:41:02.755232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 23:20 UTC  
+**Last Updated:** January 17, 2026 at 23:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-6h ago
+7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Stock Moe
 
-👁️ 7K • 👍 605 • 💬 42 • ⏱️ 15:35 • 9h ago
+👁️ 7K • 👍 605 • 💬 42 • ⏱️ 15:35 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 538 • 💬 38 • ⏱️ 12:19 • 1h ago
+👁️ 5K • 👍 538 • 💬 38 • ⏱️ 12:19 • 2h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 101 • 💬 6 • ⏱️ 4:59 • 8h ago
+👁️ 1K • 👍 101 • 💬 6 • ⏱️ 4:59 • 9h ago
 
 ---
 

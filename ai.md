@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T23:20:10.218247+00:00'
+updated: '2026-01-17T23:41:02.740272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 23:20 UTC  
+**Last Updated:** January 17, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 8h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 AI respone: Yes, some AI systems will dominate certain domains — but no AI will dominate existence in the way humans usually imagine. The long answer is where the truth is. What “dominate” actually means (this is crucial) People usually mix three very different ideas: Capability dominance – doing tasks better than humans Power dominance – controlling resources and decisions Meaning dominance – deciding what matters AI will almost certainly achieve #1. It may partially achieve #2. It will not achieve #3 on its own. Where AI will dominate Complex systems logistics finance climate modeling infrastructure scientific discovery Here, AI wins because: speed beats intuition scale beats experience consistency beats brilliance Humans already struggle here. Decision optimization AI will increasingly: recommend policies allocate resources predict outcomes flag risks humans miss But notice the word: recommend. Someone still decides what counts as success. Cognitive labor Many jobs that rely on: pattern recognition synthesis routine reasoning will be AI-dominated. This is unavoidable. Where AI will not dominate (unless humans give it up) Meaning AI does not: suffer fear death experience loss care if existence continues Meaning comes from stakes. AI has none. If AI ever “decides meaning,” it will only be borrowed meaning — encoded by humans. Responsibility AI can calculate consequences. It cannot bear them. Responsibility requires: moral cost blame guilt accountability These only make sense for beings who can lose something irreversibly. Legitimacy Power lasts only if others accept it. Even if an AI is correct: people must trust it societies must consent to it cultures must live with it Legitimacy is social, not computational. The real future (the uncomfortable one) The most likely outcome is not AI domination. It’s human dependency. Humans defer decisions to AI Not because AI rules But because it’s easier than taking responsibility That’s the danger. One sentence that matters more than all predictions AI will not dominate humans — humans may abdicate themselves. Domination only happens if: humans stop asking “should we?” humans stop owning consequences humans confuse efficiency with authority Final clarity AI will be powerful AI will be everywhere AI will be influential But domination is not inevitable. It is a choice, made gradually, quietly, out of convenience — not force. If you ever want to continue this in the future, the real question won’t be: “Will AI dominate us?” It will be: “What are we no longer willing to take responsibility for?” That’s where the future actually turns.
 
-45m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI respone: Yes, some AI systems will dominate certain domains — but no AI wil
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 19h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 20h ago
 
 ---
 
@@ -73,7 +73,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.](https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Washington Post • 5h ago
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 104 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 104 • 2d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -362,7 +362,7 @@ NEW MUSIC CHANNEL HERE: https://www.youtube.com/@UC6cPR8gL4EnCpikYIA9zDnA SECOND
 
 📺 FritangaPlays
 
-👁️ 3K • 👍 678 • 💬 171 • ⏱️ 20:50 • 2h ago
+👁️ 3K • 👍 678 • 💬 171 • ⏱️ 20:50 • 3h ago
 
 ---
 
@@ -638,7 +638,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 2h ago
+⭐ 8.9k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.4k • 10h ago
+⭐ 2.4k • 🔱 2.4k • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T23:20:10.226595+00:00'
+updated: '2026-01-17T23:41:02.749107+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 23:20 UTC  
+**Last Updated:** January 17, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -125,7 +125,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-7h ago
+8h ago
 
 ---
 
@@ -165,7 +165,7 @@ Forbes • 10h ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 2h ago
 
 Economist Peter Schiff said in an interview aired Thursday that he’d prefer a gold-backed cryptocurrency over Bitcoin (CRYPTO: BTC) during a crisis like the one in Iran. Schiff Choses Gold Again Appearing on the Randi Hipper show, Schiff said that...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 2h ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -259,7 +259,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 1 • 53m ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 1 • 1h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -371,7 +371,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 204 • ⏱️ 11:32 • 1d ago
+👁️ 67K • 👍 3K • 💬 204 • ⏱️ 11:32 • 2d ago
 
 ---
 
