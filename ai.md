@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T05:44:01.089121+00:00'
+updated: '2026-01-17T06:32:49.941442+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 05:44 UTC  
+**Last Updated:** January 17, 2026 at 06:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 10h ago
-
----
-
-**[Can't Wait To Try Claude Cowork? Don't Let It Accidentally Delete Your Hard Drive](https://www.reddit.com/r/artificial/comments/1qex7ym/cant_wait_to_try_claude_cowork_dont_let_it/)**
-
-I was just asked by my colleague who, unfortunately, came into that Claude Cowork mis-deleting all the important files unexpectedly. Claude Could Misinterpret Your Command If you never tried Claude Code or other AI/vibe coding tools, no worries, you will definitely be amazed. However, before that, there's one thing you might be unaware of When Claude Cowork deletes something, it is possibly permanent deletion (when you delete something on your MacBook, it goes to the trash bin and you can restore it) You think "I just want to organize my Downloads folder", you prompt it, and you click "Send", looking forward to the great result. Then Cowork understands "clean this up" as "delete all files that look unused." By default, after you click on the "I accept the T&Cs" button without even opening it up (give a shout out if you read the T&Cs!), Cowork could easily have the right to read, write, or even delete anything you give it access to on your MacBook. I am not sure about you, but I definitely do not want my work for the client meeting tmr to disappear, then trying to recover them in a panic. So I am going to show you how to avoid this risk 3 Easy & Effective Methods Method 1: Create Separate Folder Do not give Claude Cowork access to your real work folders. Actually, Make a new folder, maybe called "Claude Workspace" Copy files into it (do not move them) Think about it as a playground where mistakes are okay People usually forget to make backups. But if asked to intentionally copy files to a new folder, easy-peacy! People will do it Method 2: Be Very Specific Being polite with AI can be dangerous. ❌ Bad: "Could you organize these files?" ✅ Good: "Sort these 47 PDFs by date. DO NOT delete anything. Make folders named by year." When you are more specific, Claude Cowork does not need to guess, and guessing is where problems happen. Method 3: Check Before You Approve When Claude Cowork wants to delete/move/rename something: Wait 2 seconds Ask: "Do I understand WHY Claude wants to do this?" No? Refuse and do it yourself Be cautious on what Claude Cowork is about to do before you choose A Simple Smart-Intern Mindset Claude Cowork is fast & useful for people. But like driving a fast car, you want to drive it carefully. Good news is all these protections are basically just asking you to think a bit differently: Think of Claude Cowork as a smart intern who understands words literally, and has the key to your office. You would not tell an intern "figure out my files by yourself." Same thing here.
-
-5h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 11h ago
 
 ---
 
@@ -55,7 +47,15 @@ I was just asked by my colleague who, unfortunately, came into that Claude Cowor
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 2h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 3h ago
+
+---
+
+**[One-Minute Daily AI News 1/16/2026](https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/)**
+
+Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
+
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 We are entering the era where LLMs are being trained on data generated by other LLMs. I’m starting to see "semantic collapse" in some of the smaller models. In our internal testing, reasoning capabilities for edge-case logic are stagnating because the diversity of the training set is shrinking. I believe the only way out is to prioritize "Sovereign Human Data"—high-quality, non-public human reasoning logs. This is why private, secure environments for AI interaction are becoming more valuable than the models themselves. Thoughts?
 
-15h ago
+16h ago
 
 ---
 
@@ -71,7 +71,7 @@ We are entering the era where LLMs are being trained on data generated by other 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-11h ago
+12h ago
 
 ---
 
@@ -79,7 +79,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/ [4] https://www.reuters.com/world/china/alibaba-upgrades-qwen-app-order-food-book-travel-2026-01-15/
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Sorry if it's the wrong sub to post it, I'm clueless on where to spread awareness on it It raises serious safety concerns but alas their subreddit was unreceptive saying things like "oh no we should ban knives too" I don't want to give exact instructions Turning on the voice mode with the +18 models and a bit of prompting, it answered me on how to make different explosives at home including how to make my own napalm from the ground up and how/where to use it most effectively when I asked playfully. I don't know if a model like this should just be open for anyone's use
 
-13h ago
+14h ago
 
 ---
 
@@ -119,21 +119,29 @@ Sorry if it's the wrong sub to post it, I'm clueless on where to spread awarenes
 
 ## Google News: "ai"
 
-**[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-OpenAI • 2d ago
+OpenAI • 12h ago
 
 ---
 
 **[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
 **[Opinion | This Is What Convinced Me OpenAI Will Run Out of Money](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
 The New York Times • 3d ago
+
+---
+
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 8d ago
 
 ---
 
@@ -151,6 +159,14 @@ The New York Times • 1d ago
 
 ---
 
+**[China blocks Nvidia H200 AI chips that US government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report)**
+
+Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
+
+The Guardian • 1h ago
+
+---
+
 **[Sienna Rose: AI suspicions surround mysterious singer](https://www.bbc.com/news/articles/cq6v83gq66eo)**
 
 She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
@@ -159,29 +175,15 @@ BBC • 5h ago
 
 ---
 
-**[Lockheed Martin CIO Says AI Is Remaking Her Role](https://www.wsj.com/articles/lockheed-martin-cio-says-ai-is-remaking-her-role-90cf319c?gaa_at=eafs&gaa_n=AWEtsqd6vLyjt6Jo7lsiIwEm4JxS6kTLhPi47i7j8Su7n0NBhS4JGhrjMn6n&gaa_ts=696b1914&gaa_sig=0v-8OpTWD4FiZqcOXBNXnUEJ7_OTezUQWmBGEc6h4RL1y398_Px8U82ybfjKJ72DO8NYHsVbrW8-IwEQ5M0qyw%3D%3D)**
+**[Global sports face challenges from 'AI slop' misinformation](https://www.reuters.com/sports/global-sports-face-challenges-ai-slop-misinformation-2026-01-17/)**
 
-The Wall Street Journal • 17h ago
+Reuters • 6h ago
 
 ---
 
 **[MAGA targets Brian Mast over AI chips regulation](https://www.axios.com/2026/01/16/maga-brian-mast-ai-chips)**
 
 Axios • 2h ago
-
----
-
-**[Amateur mathematicians solve long-standing maths problems with AI](https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/)**
-
-Professional mathematicians have been stunned by the progress amateurs have made in solving long-standing problems with the assistance of AI tools, and say it could lead to a new way of doing mathematics
-
-New Scientist • 14h ago
-
----
-
-**[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
-
-The New York Times • 9h ago
 
 ---
 
@@ -195,7 +197,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 341 • 💬 258 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 342 • 💬 258 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -220,7 +222,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 179 • 💬 96 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 96 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -234,13 +236,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 87 • 💬 15 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 87 • 💬 16 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 85 • 💬 145 • 19h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 85 • 💬 145 • 20h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -252,19 +254,19 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 ---
 
+**[Crypto grifters are recruiting open-source AI developers](https://news.ycombinator.com/item?id=46654878)**
+
+--
+
+⬆️ 58 • 💬 19 • 3h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+
+---
+
 **[Starlink updates Privacy Policy to allow AI model training with personal data](https://news.ycombinator.com/item?id=46647716)**
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 48 • 💬 10 • 13h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
-
----
-
-**[DuckDuckGo is asking for a Yes or No vote on AI](https://news.ycombinator.com/item?id=46651155)**
-
-Big Tech doesn't care if you want AI or not. They should.
-
-⬆️ 40 • 💬 25 • 10h ago • [duckduckgo.com](https://duckduckgo.com/vote)
+⬆️ 49 • 💬 10 • 14h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -278,47 +280,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 75K • 👍 6K • 💬 2K • ⏱️ 14:15 • 9h ago
-
----
-
-**[Future of &#39;AI doctors&#39;: Doctronic co-founders on the rise of AI prescriptions](https://www.youtube.com/watch?v=ZOX6ubU_Wq4)**
-
-Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to discuss the implementation of AI in health care, ...
-
-📺 CNBC Television
-
-👁️ 3K • 👍 47 • 💬 10 • ⏱️ 7:53 • 15h ago
-
----
-
-**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
-
-Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
-
-📺 The Young Turks
-
-👁️ 16K • 👍 461 • 💬 376 • ⏱️ 9:43 • 22h ago
-
----
-
-**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
-
-Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
-
-📺 Lindey Glenn
-
-👁️ 110K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
-
----
-
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 92K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 85K • 👍 6K • 💬 2K • ⏱️ 14:15 • 10h ago
 
 ---
 
@@ -328,27 +290,47 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 102K • 👍 3K • 💬 666 • ⏱️ 10:04 • 11h ago
+👁️ 121K • 👍 3K • 💬 725 • ⏱️ 10:04 • 12h ago
 
 ---
 
-**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
+**[Crazy AI Beds You’ll Wish Were Real 🛏️✨ | Oddly Satisfying ASMR](https://www.youtube.com/watch?v=4rjkWa4Sjbk)**
 
-A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
+Crazy AI Beds You'll Wish Were Real 🛏️✨ | Oddly Satisfying ASMR: https://youtu.be/4rjkWa4Sjbk Step into a dream world of ...
 
-📺 AI Explained
+📺 Satisfy Hub ASMR
 
-👁️ 78K • 👍 3K • 💬 395 • ⏱️ 19:03 • 2d ago
+👁️ 25K • 👍 3K • 💬 104 • ⏱️ 5:38 • 17h ago
 
 ---
 
-**[X to stop Grok AI from undressing images of real people after backlash | BBC News](https://www.youtube.com/watch?v=_imoWbeE3OU)**
+**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
 
-Elon Musk's AI tool Grok will no longer be able to edit photos of real people to show them in revealing clothing in jurisdictions ...
+Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
 
-📺 BBC News
+📺 Lindey Glenn
 
-👁️ 39K • 👍 263 • 💬 422 • ⏱️ 4:37 • 1d ago
+👁️ 111K • 👍 7K • 💬 2K • ⏱️ 20:29 • 1d ago
+
+---
+
+**[Elon Musk GLAZES AI!!!!](https://www.youtube.com/watch?v=74llRj71REQ)**
+
+Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasmin Khan discuss on The Young Turks.
+
+📺 The Young Turks
+
+👁️ 17K • 👍 484 • 💬 382 • ⏱️ 9:43 • 23h ago
+
+---
+
+**[Groundbreaking AI tool can convert script to movies](https://www.youtube.com/watch?v=7OkS978snsg)**
+
+Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creative work' on 'The Claman Countdown.
+
+📺 Fox Business
+
+👁️ 15K • 👍 441 • 💬 149 • ⏱️ 7:05 • 6h ago
 
 ---
 
@@ -358,17 +340,37 @@ Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 212 • 💬 34 • ⏱️ 6:40 • 1d ago
+👁️ 22K • 👍 218 • 💬 34 • ⏱️ 6:40 • 1d ago
 
 ---
 
-**[Zhipu Just Dropped Full Stack AI Model on China Chips: West Panics!](https://www.youtube.com/watch?v=nojVWKZBLmM)**
+**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
 
-Zhipu and Huawei just open-sourced GLM-Image — and the real shock is that it was trained end-to-end on China's domestic AI ...
+A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
 
-📺 AI Revolution
+📺 AI Explained
 
-👁️ 22K • 👍 667 • 💬 53 • ⏱️ 15:44 • 1d ago
+👁️ 79K • 👍 3K • 💬 395 • ⏱️ 19:03 • 2d ago
+
+---
+
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 101K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+
+---
+
+**[Claude Cowork is Taking Over &amp; More AI Use Cases](https://www.youtube.com/watch?v=b1MBaMze_nA)**
+
+Subscribe to stay up to date with AI in 2026! This week, Igor shows off some results of his Claude Cowork testing, the new Scribe ...
+
+📺 The AI Advantage
+
+👁️ 5K • 👍 233 • 💬 16 • ⏱️ 15:07 • 12h ago
 
 ---
 
@@ -384,7 +386,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 4,402 • ❤️ 757 • 1d ago
+⬇️ 4,402 • ❤️ 767 • 1d ago
 
 ---
 
@@ -396,7 +398,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 48,059 • ❤️ 705 • 9d ago
+⬇️ 48,059 • ❤️ 707 • 9d ago
 
 ---
 
@@ -408,7 +410,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,356,446 • ❤️ 1,099 • 2d ago
+⬇️ 1,356,446 • ❤️ 1,101 • 2d ago
 
 ---
 
@@ -430,7 +432,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 0 • ❤️ 240 • 2d ago
+⬇️ 0 • ❤️ 241 • 2d ago
 
 ---
 
@@ -454,7 +456,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 11,284 • ❤️ 237 • 2d ago
+⬇️ 11,284 • ❤️ 238 • 2d ago
 
 ---
 
@@ -466,7 +468,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 772 • ❤️ 222 • 1d ago
+⬇️ 772 • ❤️ 228 • 1d ago
 
 ---
 
@@ -478,7 +480,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 10,269 • ❤️ 267 • 10d ago
+⬇️ 10,269 • ❤️ 268 • 10d ago
 
 ---
 
@@ -490,7 +492,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 36,543 • ❤️ 263 • 7d ago
+⬇️ 36,543 • ❤️ 266 • 7d ago
 
 ---
 
@@ -516,7 +518,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,077 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,120 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -581,21 +583,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 2 • ⭐ 1,192 • 11d ago
+▲ 28 • 💬 2 • ⭐ 1,213 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
-
----
-
-**[MediaPipe: A Framework for Building Perception Pipelines](https://huggingface.co/papers/1906.08172)**
-
-*Camillo Lugaresi, Jiuqiang Tang, Hadon Nash et al. (14 authors)*
-
-MediaPipe framework facilitates the development of perception applications by providing tools for combining components, prototyping, and measuring performance across platforms.
-
-▲ 2 • 💬 0 • ⭐ 33,297 • 80mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/1906.08172) • [💻 code](https://github.com/google-ai-edge/mediapipe)
 
 ---
 
@@ -625,6 +615,19 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 29 • 💬 1 • ⭐ 67,680 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -635,7 +638,7 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 3h ago
+⭐ 8.9k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -645,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.9k • 🔱 322 • 11h ago
+⭐ 7.0k • 🔱 324 • 12h ago
 
 ---
 
@@ -655,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.4k • 🔱 241 • 1h ago
+⭐ 5.5k • 🔱 243 • 1h ago
 
 ---
 
@@ -665,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 596 • 9d ago
+⭐ 4.5k • 🔱 599 • 9d ago
 
 ---
 
@@ -685,7 +688,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.2k • 3h ago
+⭐ 2.3k • 🔱 2.2k • 4h ago
 
 ---
 
@@ -705,7 +708,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 2.0k • 🔱 409 • 17h ago
+⭐ 2.2k • 🔱 432 • 17h ago
 
 ---
 
@@ -715,7 +718,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 15h ago
+⭐ 1.7k • 🔱 134 • 16h ago
 
 ---
 
@@ -725,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 231 • 18h ago
+⭐ 1.5k • 🔱 233 • 19h ago
 
 ---
 

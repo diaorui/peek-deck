@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T05:44:01.106551+00:00'
+updated: '2026-01-17T06:32:49.959199+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 05:44 UTC  
+**Last Updated:** January 17, 2026 at 06:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,13 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-20h ago
+21h ago
+
+---
+
+**[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
+
+8h ago
 
 ---
 
@@ -52,21 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-19h ago
-
----
-
-**[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
-
-7h ago
-
----
-
-**[Realistic lip motions for humanoid face robots - Columbia University School of Engineering and Applied Science (2026)](https://www.reddit.com/r/robotics/comments/1qefref/realistic_lip_motions_for_humanoid_face_robots/)**
-
-"Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
-
-16h ago
+20h ago
 
 ---
 
@@ -74,7 +66,15 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-3h ago
+4h ago
+
+---
+
+**[Realistic lip motions for humanoid face robots - Columbia University School of Engineering and Applied Science (2026)](https://www.reddit.com/r/robotics/comments/1qefref/realistic_lip_motions_for_humanoid_face_robots/)**
+
+"Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
+
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 10h ago
 
 ---
 
@@ -98,7 +98,7 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 15h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Autonomous inventory robots have been operating in grocery stores for nearly a d
 
 This is the Shadow Hand cube reorientation task — a standard benchmark in robotic manipulation that evaluates in-hand dexterity by requiring the robot to rotate a cube to randomly generated target orientations.
 
-23h ago
+1d ago
 
 ---
 
@@ -158,6 +158,18 @@ Nikkei Asia • 1d ago
 
 ---
 
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+
+GeekWire • 2d ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqel-44a651Tg7J6p3Zb3Cz55dKcCTpCNYRHH7QI6adIOPaJ73g-kE5p&gaa_ts=696b3080&gaa_sig=5KFSiTa3ZrDZf5o-emZ0fycxOzPPL3FC2otYktv_FepJvT9gCmFDnV7EkEmdMawT-D_tTJcIYLacopskA8tcSQ%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
@@ -166,23 +178,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+**[Krafton is evaluating how its game tech may be applied to 'physical AI and robotics'](https://www.gamedeveloper.com/business/krafton-is-evaluating-how-its-game-tech-may-be-applied-to-physical-ai-and-robotics-)**
 
-GeekWire • 2d ago
+Krafton, the video game publisher of PUBG: Battlegrounds and inZOI, is evaluating how its game technology may be applied to physical AI and robotics.
 
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqf9QVyO1WrOwIFt72yvrEu1jbm6Z1jh7MsjeYua0HhflnbchxDIkZJH&gaa_ts=696b1919&gaa_sig=kDwPZn8WcZIzBnmGZ-ZALdkvw0VLnUIVr0NgmW6650bZNBBAjNmLHNt5ea8sNOlWjT2ny1jotC4K9WjP284t9A%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
-**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
-
-At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
-
-CBS News • 4h ago
+Game Developer • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 92K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
+👁️ 101K • 👍 5K • 💬 1K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 100K • 👍 4K • 💬 309 • ⏱️ 17:36 • 2d ago
+👁️ 101K • 👍 5K • 💬 310 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 162K • 👍 2K • 💬 397 • ⏱️ 11:46 • 5d ago
+👁️ 163K • 👍 2K • 💬 398 • ⏱️ 11:46 • 5d ago
 
 ---
 
@@ -226,7 +226,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 453K • 👍 14K • 💬 792 • ⏱️ 17:09 • 4d ago
+👁️ 454K • 👍 14K • 💬 795 • ⏱️ 17:09 • 4d ago
 
 ---
 
@@ -240,16 +240,6 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
-
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
-
-📺 The Laughing Lion
-
-👁️ 16K • 👍 118 • 💬 10 • ⏱️ 0:12 • 5d ago
-
----
-
 **[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
 Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
@@ -260,21 +250,33 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 16K • 👍 121 • 💬 10 • ⏱️ 0:12 • 5d ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 576 • 👍 24 • 💬 1 • ⏱️ 3:19 • 13h ago
+
+---
+
 **[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
 
 Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 373 • 💬 52 • ⏱️ 15:23 • 16h ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 119K • 👍 1K • 💬 67 • ⏱️ 1:16 • 3d ago
+👁️ 8K • 👍 393 • 💬 52 • ⏱️ 15:23 • 17h ago
 
 ---
 
@@ -284,7 +286,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 239K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 240K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T05:44:01.097514+00:00'
+updated: '2026-01-17T06:32:49.949952+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 05:44 UTC  
+**Last Updated:** January 17, 2026 at 06:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,346.22
+### $95,352.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +4.8%  
-**30d:** +8.1%  
-**90d:** -13.7%  
-**1y:** -8.7%  
+**24h:** -0.5%  
+**7d:** +4.7%  
+**30d:** +8.0%  
+**90d:** -13.8%  
+**1y:** -8.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1904.27B
+**Market Cap:** $1901.38B
 Rank #1
 
 **Circulating Supply:** 19,976,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.4%
+-24.5%
 
 **All-Time Low:** $67.81
-+140470.7%
++140262.8%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
+
+1h ago
+
+---
+
 **[The plan was to pay of my house once I had enough BTC](https://www.reddit.com/r/Bitcoin/comments/1qevptt/the_plan_was_to_pay_of_my_house_once_i_had_enough/)**
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-6h ago
+7h ago
 
 ---
 
@@ -93,19 +99,33 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 **[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-8h ago
+9h ago
 
 ---
 
 **[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
 
-17h ago
+18h ago
+
+---
+
+**[Need more Bitcoin 😩](https://www.reddit.com/r/Bitcoin/comments/1qf1y14/need_more_bitcoin/)**
+
+Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
+
+3h ago
 
 ---
 
 **[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
-11h ago
+12h ago
+
+---
+
+**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
+
+5h ago
 
 ---
 
@@ -113,33 +133,11 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 "When Bitcoin was here last cycle the price did this...."
 
-1h ago
+2h ago
 
 ---
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
-
-11h ago
-
----
-
-**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
-
-4h ago
-
----
-
-**[NO](https://www.reddit.com/r/Bitcoin/comments/1qe6i70/no/)**
-
-Trying my hand at memeing. Reminder not to try timing the market. Be like Isildur.
-
-1d ago
-
----
-
-**[Bitcoin doesn't require a galaxy-brain strategy. Stop overcomplicating it.](https://www.reddit.com/r/Bitcoin/comments/1qelyln/bitcoin_doesnt_require_a_galaxybrain_strategy/)**
-
-I skim this subreddit daily and most people here seem to have the right 'long term' mindset for bitcoin. But I still regularly see people talking about intraday moves, technical indicators, timing the market, etc. Sounds stressful as hell tbh. This post is for you guys. If you believe in bitcoin long-term, the “low stress, low time preference" plan is simple: treat bitcoin like a savings account. The setup: Pick an amount you are comfortable buying every 2 weeks. Obviously this varies from person to person depending on your expenses. A good starting point might be 5% of your paycheck. Don’t go too high to where you’re stressing / hemorrhaging cash every month. It should be sustainable, rain or shine. You can always adjust the amount later as your circumstances permit. Set up a recurring buy and time it with your paycheck. Automation beats “I’ll remember to do it” every time. If your paycheck normally hits on Friday mornings, have an automated recurring buy happen Friday afternoon. In your mind, treat it like rent, bills, or any other regular expense. Don’t deviate, regardless of price action. This is where people goof up. Bitcoin starts dumping and they stop buying. If you believe in bitcoin long-term, this is where DCA buys matter more than ever — you are getting more sats per dollar. Remove yourself from the day-to-day noise. Delete the price apps. Stop following CT traders and price-speculators. Use your newfound free time in more productive/enjoyable ways. I know several people IRL who’ve done this exact strategy -- DCAing biweekly since 2020–2022 -- and they are comfortably in the green (like 200-400% ish) without ever staring at charts or stressing over dips. Could they have made more by perfectly timing a generational bottom? Sure. But how many actually achieve this? IMO it’s wishful thinking for most people. If you believe in the long-term thesis for bitcoin, you don’t need 4D chess moves to “make it.” Time will do the heavy lifting for you as long as you’re consistently accumulating sats. And please people, self-custody your bitcoin. Every time you leave bitcoin on a CEX, a single tear rolls down Satoshi’s cheek 😢
 
 12h ago
 
@@ -151,13 +149,13 @@ I skim this subreddit daily and most people here seem to have the right 'long te
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -165,21 +163,15 @@ Bloomberg.com • 20h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
-**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
 
-The Block • 16h ago
+Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
----
-
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
-
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
-
-CoinDesk • 13h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -187,21 +179,13 @@ CoinDesk • 13h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 12h ago
+Mother Jones • 13h ago
 
 ---
 
-**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
+**['Bear market rally': CryptoQuant breaks down bitcoin's recent price rebound](https://www.theblock.co/post/386021/bear-market-rally-cryptoquant-bitcoin-price-rebound)**
 
-The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
-
-The Motley Fool • 19h ago
-
----
-
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -209,15 +193,29 @@ The Block • 9h ago
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve](https://bitcoinmagazine.com/featured/us-gov-denies-sale-of-samourai-bitcoin)**
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-U.S. officials say the DOJ confirmed that the bitcoin forfeited by Samourai Wallet developers wasn't sold and will stay on balance sheets.
+The Block • 10h ago
 
-Bitcoin Magazine • 10h ago
+---
+
+**[DOJ didn't sell Bitcoin forfeited from Samourai case: White House advisor](https://www.tradingview.com/news/cointelegraph:215b41cfd094b:0-doj-didn-t-sell-bitcoin-forfeited-from-samourai-case-white-house-advisor/)**
+
+A White House crypto advisor said he received confirmation from the US Department of Justice that no Bitcoin forfeited from the Samourai case was sold, putting rumors to rest.The confirmation was shared on X by Patrick Witt, Executive Director of the White House President’s Council of Advisors for…
+
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
+
+Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
+
+Seeking Alpha • 12h ago
 
 ---
 
@@ -267,7 +265,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 12h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -295,7 +293,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 2 • 💬 4 • 23h ago
+⬆️ 2 • 💬 4 • 1d ago
 
 ---
 
@@ -309,17 +307,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 16K • 👍 835 • 💬 188 • ⏱️ 1:13:07 • 18h ago
+👁️ 17K • 👍 868 • 💬 196 • ⏱️ 1:13:07 • 19h ago
 
 ---
 
-**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
+**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 158 • ⏱️ 43:25 • 14h ago
+👁️ 23K • 👍 1K • 💬 163 • ⏱️ 8:18 • 8h ago
 
 ---
 
@@ -329,7 +327,27 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 191 • 💬 42 • ⏱️ 5:23 • 1d ago
+👁️ 9K • 👍 193 • 💬 35 • ⏱️ 5:23 • 1d ago
+
+---
+
+**[Get Ready for a HUGE Bitcoin Rebound Ahead](https://www.youtube.com/watch?v=XI3v1LCS5DQ)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 149 • ⏱️ 43:25 • 15h ago
+
+---
+
+**[MASSIVE Trade Setup ON BITCOIN RIGHT NOW! Is Bitcoin About To Rally? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=mLLxl1wLi0w)**
+
+A MAJOR Rally Up To $100k is HIGHLY LIKELY at this point! Are you ready? Sign Up For Phemex and get 35A Mastery for ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 240 • 💬 102 • ⏱️ 6:45 • 11h ago
 
 ---
 
@@ -339,17 +357,7 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 221 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
-
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
-
-📺 CNBC Television
-
-👁️ 125K • 👍 2K • 💬 444 • ⏱️ 5:15 • 1d ago
+👁️ 64K • 👍 3K • 💬 219 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -359,37 +367,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 183 • ⏱️ 18:18 • 1d ago
-
----
-
-**[Bitcoin’s Next Move Is Hidden In Gold’s Rally and Iran’s Collapse!](https://www.youtube.com/watch?v=53Z8aTfS_i0)**
-
-Bitcoin is up 10% to start 2026, but the real signal isn't price. It's what gold, institutional demand, and collapsing fiat currencies are ...
-
-📺 Swan Bitcoin
-
-👁️ 44K • 👍 2K • 💬 95 • ⏱️ 14:15 • 1d ago
-
----
-
-**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
-
-Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 3K • 💬 205 • ⏱️ 21:24 • 1d ago
-
----
-
-**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
-
-The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
-
-📺 Gareth Soloway
-
-👁️ 59K • 👍 4K • 💬 165 • ⏱️ 11:07 • 2d ago
+👁️ 69K • 👍 4K • 💬 187 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -399,7 +377,27 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 1K • 👍 106 • 💬 38 • ⏱️ 4:55 • 7h ago
+👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 7h ago
+
+---
+
+**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
+
+Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
+
+📺 CNBC Television
+
+👁️ 129K • 👍 2K • 💬 446 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[Did Big Banks Just DESTROY Bitcoin &amp; Crypto in America?!](https://www.youtube.com/watch?v=H1jyHD6awpw)**
+
+Bitcoin just broke $97K but that's not the real story. Washington just handed your financial future to the banks, gutting the crypto ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 3K • 💬 201 • ⏱️ 21:24 • 1d ago
 
 ---
 

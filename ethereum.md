@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T05:44:01.103400+00:00'
+updated: '2026-01-17T06:32:49.956000+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 05:44 UTC  
+**Last Updated:** January 17, 2026 at 06:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $396.83B
+**Market Cap:** $396.73B
 Rank #2
 
 **Circulating Supply:** 120,694,601 ETH
@@ -62,7 +62,7 @@ No max supply
 -33.5%
 
 **All-Time Low:** $0.43
-+759218.6%
++759066.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-9h ago
+10h ago
+
+---
+
+**[Daily General Discussion January 17, 2026](https://www.reddit.com/r/ethereum/comments/1qf5ctg/daily_general_discussion_january_17_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+31m ago
 
 ---
 
@@ -80,7 +88,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +104,15 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-6h ago
+7h ago
+
+---
+
+**[Need help with Ethereum](https://www.reddit.com/r/ethereum/comments/1qf5kcs/need_help_with_ethereum/)**
+
+I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
+
+20m ago
 
 ---
 
@@ -104,7 +120,7 @@ I have a 20 hour flight and I want to spend it studying all that I can about blo
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 17h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 18h ago
 
 ---
 
@@ -122,27 +138,11 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 ---
 
-**[Argot Roadmap Update 2026 (1/2)](https://www.reddit.com/r/ethereum/comments/1qdyue0/argot_roadmap_update_2026_12/)**
-
-This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
-
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 1d ago
-
----
-
 **[Programmable tokens on Base.](https://www.reddit.com/r/ethereum/comments/1qe3xji/programmable_tokens_on_base/)**
 
 The modular token standard.
 
 🔗 [totems.fun](https://totems.fun/) • 1d ago
-
----
-
-**[Daily General Discussion January 15, 2026](https://www.reddit.com/r/ethereum/comments/1qdbmtv/daily_general_discussion_january_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 6h ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ dlnews.com • 1d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -190,7 +190,7 @@ CryptoSlate • 2d ago
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -236,17 +236,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 2K • 👍 64 • 💬 35 • ⏱️ 24:55 • 8h ago
-
----
-
-**[ETHEREUM XRP HOLDERS 🚨 I JUST BOUGHT THIS TODAY](https://www.youtube.com/watch?v=KQOQ2J2C81Q)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 5K • 👍 447 • 💬 8 • ⏱️ 14:06 • 8h ago
+👁️ 3K • 👍 86 • 💬 29 • ⏱️ 24:55 • 9h ago
 
 ---
 
@@ -256,7 +246,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 522 • 💬 63 • ⏱️ 16:47 • 14h ago
+👁️ 14K • 👍 562 • 💬 57 • ⏱️ 16:47 • 15h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FkOsA7ajAuw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 60 • 👍 2 • 💬 1 • ⏱️ 4:27 • 17m ago
+
+---
+
+**[ETHEREUM XRP HOLDERS 🚨 I JUST BOUGHT THIS TODAY](https://www.youtube.com/watch?v=KQOQ2J2C81Q)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 6K • 👍 475 • 💬 8 • ⏱️ 14:06 • 8h ago
 
 ---
 
@@ -266,17 +276,17 @@ In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outloo
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 220 • 💬 81 • ⏱️ 22:38 • 12h ago
+👁️ 4K • 👍 243 • 💬 75 • ⏱️ 22:38 • 13h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=JkSpTOBC5k4)**
+**[CRYPTO LIVE TRADING || 17JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=j58VNZvknQY)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
 
-📺 More Crypto Online
+📺 Balraj Trading Tech
 
-👁️ 2K • 👍 109 • 💬 6 • ⏱️ 3:49 • 14h ago
+👁️ 4K • 👍 656 • 1h ago
 
 ---
 
@@ -286,7 +296,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 60 • 💬 88 • ⏱️ 6:39 • 1d ago
+👁️ 2K • 👍 60 • 💬 85 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -296,17 +306,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 163 • 💬 297 • ⏱️ 15:03 • 1d ago
-
----
-
-**[Tom Lee&#39;s BitMine Predicts 10x on MrBeast Investment, Targets $400M ETH Yield](https://www.youtube.com/watch?v=y68usiE89M8)**
-
-BitMine Chairman Tom Lee told shareholders the firm expects over $400 million in annual income purely from staking its massive ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 49 • 💬 43 • ⏱️ 2:05 • 13h ago
+👁️ 5K • 👍 165 • 💬 286 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -316,17 +316,17 @@ LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 221 • ⏱️ 11:32 • 1d ago
+👁️ 64K • 👍 3K • 💬 219 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[THIS Will Trigger The LARGEST Crypto Bull Run EVER! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=Pd4E2Otg72Q)**
+**[Tom Lee&#39;s BitMine Predicts 10x on MrBeast Investment, Targets $400M ETH Yield](https://www.youtube.com/watch?v=y68usiE89M8)**
 
-Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily On-Chain Analysis & Crypto News ...
+BitMine Chairman Tom Lee told shareholders the firm expects over $400 million in annual income purely from staking its massive ...
 
-📺 Library Of Wealth
+📺 CoinDesk
 
-👁️ 5K • 👍 198 • 💬 151 • ⏱️ 15:10 • 2d ago
+👁️ 2K • 👍 57 • 💬 38 • ⏱️ 2:05 • 14h ago
 
 ---
 
