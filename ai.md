@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T19:37:52.961728+00:00'
+updated: '2026-01-17T20:23:51.006883+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 19:37 UTC  
+**Last Updated:** January 17, 2026 at 20:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Mechanistic interpretability, are we any closer than we were 5 years ago?](https://www.reddit.com/r/artificial/comments/1qfetmg/mechanistic_interpretability_are_we_any_closer/)**
-
-New techniques are giving researchers a glimpse at the inner workings of AI models.
-
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 4h ago
-
----
-
 **["I kind of think of ads as like a last resort for us as a business model" - Sam Altman , October 2024](https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/)**
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
@@ -53,11 +45,11 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 ---
 
-**[ChatGPT Users May Soon See Targeted Ads: What It Means](https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/)**
+**[Mechanistic interpretability, are we any closer than we were 5 years ago?](https://www.reddit.com/r/artificial/comments/1qfetmg/mechanistic_interpretability_are_we_any_closer/)**
 
-ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
+New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 16h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 5h ago
 
 ---
 
@@ -66,6 +58,14 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
 1h ago
+
+---
+
+**[ChatGPT Users May Soon See Targeted Ads: What It Means](https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/)**
+
+ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
+
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 16h ago
 
 ---
 
@@ -79,13 +79,19 @@ Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-14h ago
+15h ago
+
+---
+
+**[ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.](https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/)**
+
+53m ago
 
 ---
 
 **[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 2h ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 3h ago
 
 ---
 
@@ -105,59 +111,13 @@ Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th bir
 
 ---
 
-**[What 3,000 AI Case Studies Actually Tell Us (And What They Don't)](https://www.reddit.com/r/artificial/comments/1qe5ax3/what_3000_ai_case_studies_actually_tell_us_and/)**
-
-I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack. Dataset (open source) on GitHub.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd2wjsalHqDMu7-wO7ssCbSfkypB35n0ESS8R2o7MihaVj77KS9z--L&gaa_ts=696bddf5&gaa_sig=qRoG-4ytXPMhFSvZKSC79dSG8Pr4nPCp_bnt2QyAXuWwS-IClSsMFyJNCwu1SlfRbe89sWInCO-Ti9tAqZXBIg%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqegP24k-sqF8-4t0CuG73xOtlD1l4R7IbYc7sjBn7Sr8tT5pgODvJQZ&gaa_ts=696bf33d&gaa_sig=Jm8miUZ1VoHBiBkTtk3-BFvFXfHjsDwOeCAOkkX1V0k718PUPmQyhBc8f32yfr8Ays6s2uLkQ5ymV5FlVRzJcw%3D%3D)**
 
-The Wall Street Journal • 2h ago
-
----
-
-**[AI raises average wages by 21% and substantially reduces' wage inequality, researchers find](https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find)**
-
-Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
-
-Fox Business • 1h ago
-
----
-
-**[Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026](https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html)**
-
-NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On January 13, Wolfe reiterated the stock as “Outperform,” noting that the idea is its favorite for 2026. Analyst Chris Caso noted that the AI chip maker is being added to the Wolfe Alpha List, replacing Micron. This is despite […]
-
-Yahoo Finance • 1h ago
-
----
-
-**[Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore](https://finance.yahoo.com/news/apple-aapl-ai-roadmap-strengthens-174853486.html)**
-
-Apple Inc. (NASDAQ:AAPL) is one of the Hot AI Stocks to Keep on Your Radar. On January 12, Evercore ISI analyst Amit Daryanani reiterated an Outperform rating on the stock with a $330.00 price target. Firm analysts highlight Apple’s new AI partnership with Google Gemini, citing monetization upside and custom AI experiences ahead. The firm […]
-
-Yahoo Finance • 1h ago
-
----
-
-**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
-
-The New York Times • 9h ago
-
----
-
-**[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
-
-AI is offering people a way to figure out what they really want in romance.
-
-The Atlantic • 6h ago
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -165,7 +125,41 @@ The Atlantic • 6h ago
 
 Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
-The Guardian • 7h ago
+The Guardian • 8h ago
+
+---
+
+**[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Trump taps Palantir to hunt fraud with AI 'Ironman suit'](https://www.foxnews.com/video/6387872790112)**
+
+Palantir Executive Vice President and Chief Technology Officer Shyam Sankar joins ‘Fox News Live’ to discuss using AI to spot fraud patterns nationwide, the energy and workforce questions around AI and the need to protect kids online.
+
+Fox News • 30m ago
+
+---
+
+**[ICE raid on Meta shows tension between Trump's immigration and AI agendas](https://www.axios.com/2026/01/15/ice-meta-ai-immigration-raid-trump)**
+
+Axios • 2d ago
+
+---
+
+**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+
+The New York Times • 10h ago
+
+---
+
+**[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
+
+AI is offering people a way to figure out what they really want in romance.
+
+The Atlantic • 7h ago
 
 ---
 
@@ -177,17 +171,19 @@ CNBC • 4h ago
 
 ---
 
-**[Sienna Rose: AI suspicions surround mysterious singer](https://www.bbc.com/news/articles/cq6v83gq66eo)**
+**[Billionaire Stanley Druckenmiller Sells Broadcom Stock and Buys an AI Stock Up 1,000% Since Early 2025](https://www.fool.com/investing/2026/01/17/druckenmiller-sell-broadcom-buy-ai-stock-up-1000/)**
 
-She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
+Star fund manager Stanley Druckenmiller sold Broadcom and bought Sandisk in the third quarter.
 
-BBC • 18h ago
+The Motley Fool • 12h ago
 
 ---
 
-**[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
+**[The Weakest Links Within The AI Bubble](https://seekingalpha.com/article/4860572-the-weakest-links-within-the-ai-bubble)**
 
-Axios • 5h ago
+Markets are choppy in early 2026 after big gains. Click to see the S&P 493 profit growth outlook and which AI stocks may struggle if the AI narrative fades.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -218,7 +214,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 249 • 💬 206 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 250 • 💬 206 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -226,7 +222,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 102 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 103 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -234,13 +230,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 89 • 💬 19 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 90 • 💬 19 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 87 • 💬 150 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 87 • 💬 152 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -248,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 84 • 💬 25 • 16h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 85 • 💬 25 • 17h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -256,7 +252,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 75 • 💬 64 • 6h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 78 • 💬 72 • 7h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -272,7 +268,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 53 • 💬 11 • 1d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 54 • 💬 11 • 1d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -286,7 +282,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 4h ago
+👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 5h ago
 
 ---
 
@@ -306,7 +302,7 @@ Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was su
 
 📺 Matt Wolfe
 
-👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 5h ago
+👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 6h ago
 
 ---
 
@@ -326,7 +322,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 19h ago
+👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 20h ago
 
 ---
 
@@ -366,7 +362,7 @@ JOIN JERRY'S PATREON with TRADE ALERTS: https://www.patreon.com/jerryromine Ever
 
 📺 Jerry Romine Stocks
 
-👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 6h ago
+👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 7h ago
 
 ---
 
@@ -376,7 +372,7 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 7K • 💬 5 • ⏱️ 19:34 • 6h ago
+👁️ 7K • 💬 5 • ⏱️ 19:34 • 7h ago
 
 ---
 
@@ -664,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.8k • 🔱 262 • 14h ago
+⭐ 5.8k • 🔱 262 • 15h ago
 
 ---
 
@@ -684,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 164 • 1h ago
+⭐ 2.8k • 🔱 164 • 2h ago
 
 ---
 

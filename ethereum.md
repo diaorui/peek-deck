@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T19:37:52.976462+00:00'
+updated: '2026-01-17T20:23:51.021981+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 19:37 UTC  
+**Last Updated:** January 17, 2026 at 20:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,314.61
+### $3,318.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +0.7%  
 **7d:** +6.2%  
 **30d:** +11.2%  
-**90d:** -16.6%  
-**1y:** +0.4%  
+**90d:** -16.7%  
+**1y:** +0.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -84,15 +84,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
-
-2h ago
-
----
-
 **[Re: Best hardware for running ETH node](https://www.reddit.com/r/ethereum/comments/1qfhiwt/re_best_hardware_for_running_eth_node/)**
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
+
+3h ago
+
+---
+
+**[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
 
 3h ago
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-20h ago
+21h ago
 
 ---
 
@@ -140,7 +140,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-1d ago
+2d ago
 
 ---
 
@@ -150,7 +150,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -184,9 +184,9 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
-Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
 Yahoo Finance • 2d ago
 
@@ -197,6 +197,14 @@ Yahoo Finance • 2d ago
 The smaller chain could lose ground in an important arena during a critical period.
 
 The Motley Fool • 1d ago
+
+---
+
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -216,14 +224,6 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
-
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
-
-24/7 Wall St. • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 6K • 👍 678 • 💬 52 • ⏱️ 10:28 • 2h ago
+👁️ 6K • 👍 678 • 💬 52 • ⏱️ 10:28 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 4K • 👍 264 • 💬 84 • ⏱️ 22:05 • 7h ago
+👁️ 4K • 👍 264 • 💬 84 • ⏱️ 22:05 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 6K • 👍 178 • 💬 30 • ⏱️ 24:55 • 22h ago
+👁️ 6K • 👍 178 • 💬 30 • ⏱️ 24:55 • 23h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 138 • 👍 22 • 💬 4 • ⏱️ 14:00 • 2h ago
+👁️ 138 • 👍 22 • 💬 4 • ⏱️ 14:00 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 4:27 • 13h ago
+👁️ 2K • 👍 123 • 💬 6 • ⏱️ 4:27 • 14h ago
 
 ---
 

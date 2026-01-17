@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T19:37:52.979700+00:00'
+updated: '2026-01-17T20:23:51.025354+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 19:37 UTC  
+**Last Updated:** January 17, 2026 at 20:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-9h ago
+10h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-2h ago
-
----
-
-**[Why aren’t more people building robots with fully local AI](https://www.reddit.com/r/robotics/comments/1qfir5k/why_arent_more_people_building_robots_with_fully/)**
-
-I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
-
-2h ago
+3h ago
 
 ---
 
@@ -62,11 +54,19 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 ---
 
+**[Why aren’t more people building robots with fully local AI](https://www.reddit.com/r/robotics/comments/1qfir5k/why_arent_more_people_building_robots_with_fully/)**
+
+I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
+
+3h ago
+
+---
+
 **[What's a good opensouce kit for learning advanced robotics?](https://www.reddit.com/r/robotics/comments/1qffd03/whats_a_good_opensouce_kit_for_learning_advanced/)**
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,13 +88,13 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
-3h ago
+4h ago
 
 ---
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -110,12 +110,6 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ## Google News: "robotics"
 
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
-
-Bloomberg.com • 3d ago
-
----
-
 **[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
@@ -124,25 +118,17 @@ TechCrunch • 3d ago
 
 ---
 
-**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
 
-Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Crunchbase News • 3d ago
-
----
-
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
-
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
-
-Futurism • 7h ago
+Fortune • 2d ago
 
 ---
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -162,9 +148,20 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
 
-GeekWire • 3d ago
+Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
+
+Futurism • 7h ago
+
+---
+
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 11h ago
 
 ---
 
@@ -172,13 +169,23 @@ GeekWire • 3d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 18h ago
+CBS News • 19h ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcglDVLGvFfv_VUlhkz2ThFa4m8uBvf67LVDjYJ3fNY5eYYFg3URJJx&gaa_ts=696bddfa&gaa_sig=2X8tbuLclqPoxYNgHCXWBYs0xhJD0wbssZrtdbLJHKKzPyFyP7Y4_ZKWDC6bGfBhYBpYo7T5A3CWSPm7HtKFxQ%3D%3D)**
+**[A $450 Billion Opportunity: Is Serve Robotics Stock a Buy in 2026?](https://www.fool.com/investing/2026/01/16/a-450-billion-is-serve-robotics-stock-a-buy-2026/)**
 
-MarketWatch • 2d ago
+Serve Robotics stock plunged by 23% last year, but it's off to a hot start in 2026.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+
+Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+
+Crunchbase News • 3d ago
 
 ---
 
@@ -268,7 +275,7 @@ Japan is training robotic dogs for airborne assault. Recent footage from Japan's
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:45 • 5h ago
+👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:45 • 6h ago
 
 ---
 
