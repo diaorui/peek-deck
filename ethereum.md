@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T09:41:46.986331+00:00'
+updated: '2026-01-17T10:21:39.464297+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 09:41 UTC  
+**Last Updated:** January 17, 2026 at 10:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +5.5%  
-**30d:** +10.4%  
-**90d:** -17.2%  
-**1y:** -0.4%  
+**24h:** -0.1%  
+**7d:** +5.6%  
+**30d:** +10.6%  
+**90d:** -17.1%  
+**1y:** -0.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have a 20 hour flight and I want to spend it studying all that I can about blo
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +112,13 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 21h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 22h ago
+
+---
+
+**[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
+
+19h ago
 
 ---
 
@@ -120,13 +126,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
 
-3h ago
-
----
-
-**[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
-
-18h ago
+4h ago
 
 ---
 
@@ -152,7 +152,7 @@ The modular token standard.
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 10h ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -168,13 +168,13 @@ Decrypt • 17h ago
 
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -186,19 +186,19 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
-
-The smaller chain could lose ground in an important arena during a critical period.
-
-The Motley Fool • 22h ago
-
----
-
 **[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
 
 Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
+
+The smaller chain could lose ground in an important arena during a critical period.
+
+The Motley Fool • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 3K • 👍 102 • 💬 31 • ⏱️ 24:55 • 12h ago
+👁️ 3K • 👍 102 • 💬 31 • ⏱️ 24:55 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 602 • 💬 53 • ⏱️ 16:47 • 18h ago
+👁️ 15K • 👍 602 • 💬 53 • ⏱️ 16:47 • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 474 • 👍 53 • 💬 2 • ⏱️ 4:27 • 3h ago
+👁️ 474 • 👍 53 • 💬 2 • ⏱️ 4:27 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outloo
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 265 • 💬 76 • ⏱️ 22:38 • 16h ago
+👁️ 5K • 👍 265 • 💬 76 • ⏱️ 22:38 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 60 • 💬 84 • ⏱️ 6:39 • 1d ago
+👁️ 2K • 👍 60 • 💬 84 • ⏱️ 6:39 • 2d ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 447 • 👍 17 • 💬 21 • ⏱️ 5:32 • 23h ago
+👁️ 447 • 👍 17 • 💬 21 • ⏱️ 5:32 • 1d ago
 
 ---
 

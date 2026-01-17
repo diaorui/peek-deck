@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T09:41:46.971971+00:00'
+updated: '2026-01-17T10:21:39.449447+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - videos
 - social
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 09:41 UTC  
+**Last Updated:** January 17, 2026 at 10:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-4h ago
+5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Sorry if it's the wrong sub to post it, I'm clueless on where to spread awareness on it It raises serious safety concerns but alas their subreddit was unreceptive saying things like "oh no we should ban knives too" I don't want to give exact instructions Turning on the voice mode with the +18 models and a bit of prompting, it answered me on how to make different explosives at home including how to make my own napalm from the ground up and how/where to use it most effectively when I asked playfully. I don't know if a model like this should just be open for anyone's use
 
-17h ago
+18h ago
 
 ---
 
@@ -123,13 +123,35 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
+
+---
+
+**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
+
+Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+
+CNBC • 27m ago
+
+---
+
+**[Global AI race makes Greenland's critical minerals a tempting target](https://www.nbcnews.com/tech/innovation/greenland-rare-earths-critical-minerals-rcna254177)**
+
+The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
+
+NBC News • 21m ago
+
+---
+
+**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+
+The New York Times • 19m ago
 
 ---
 
@@ -141,49 +163,29 @@ Business Insider • 1h ago
 
 ---
 
-**[A.I. Is Coming to Class. These Professors Want to Ease Your Worries.](https://www.nytimes.com/2026/01/17/nyregion/ai-college-classes.html)**
-
-The New York Times • 1h ago
-
----
-
 **[NFL divisional predictions by Microsoft Copilot AI for every playoff game](https://www.usatoday.com/story/sports/nfl/2026/01/16/nfl-playoff-divisional-picks-predictions-ai/88161843007/)**
 
 Microsoft Copilot AI was near-perfect predicting the results of the NFL's wild-card weekend. Will it repeat its success in the divisional round?
 
-USA Today • 22h ago
+USA Today • 23h ago
 
 ---
 
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+**[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
 
-The New York Times • 2d ago
-
----
-
-**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
-
-OpenAI • 15h ago
+OpenAI • 2d ago
 
 ---
 
 **[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
 
-Axios • 13h ago
+Axios • 14h ago
 
 ---
 
-**[MAGA targets Brian Mast over AI chips regulation](https://www.axios.com/2026/01/16/maga-brian-mast-ai-chips)**
+**[Opinion | This Is What Convinced Me OpenAI Will Run Out of Money](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-Axios • 10h ago
-
----
-
-**[Micron stock climbs as CEO highlights AI demand for memory](https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html)**
-
-"We need more and more memory to address that demand," Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.
-
-CNBC • 15h ago
+The New York Times • 4d ago
 
 ---
 
@@ -197,7 +199,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 342 • 💬 258 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 343 • 💬 260 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -222,7 +224,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 97 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 98 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -242,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 86 • 💬 145 • 23h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 86 • 💬 145 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -250,7 +252,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 69 • 💬 21 • 6h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 71 • 💬 21 • 7h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -266,7 +268,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 49 • 💬 10 • 17h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 49 • 💬 10 • 18h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -280,7 +282,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 92K • 👍 7K • 💬 2K • ⏱️ 14:15 • 13h ago
+👁️ 92K • 👍 7K • 💬 2K • ⏱️ 14:15 • 14h ago
 
 ---
 
@@ -290,7 +292,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 22K • 👍 556 • 💬 188 • ⏱️ 7:05 • 9h ago
+👁️ 22K • 👍 556 • 💬 188 • ⏱️ 7:05 • 10h ago
 
 ---
 
@@ -300,7 +302,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 134K • 👍 3K • 💬 769 • ⏱️ 10:04 • 15h ago
+👁️ 134K • 👍 3K • 💬 769 • ⏱️ 10:04 • 16h ago
 
 ---
 
@@ -360,7 +362,7 @@ Doctronic co-founders Dr. Adam Oskowitz and Matt Pavelle join 'Squawk Box' to di
 
 📺 CNBC Television
 
-👁️ 3K • 👍 49 • 💬 11 • ⏱️ 7:53 • 19h ago
+👁️ 3K • 👍 49 • 💬 11 • ⏱️ 7:53 • 20h ago
 
 ---
 
@@ -386,7 +388,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 772 • 1d ago
+⬇️ 6,001 • ❤️ 772 • 2d ago
 
 ---
 
@@ -532,7 +534,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 142 • 💬 3 • ⭐ 130 • 1d ago
+▲ 142 • 💬 3 • ⭐ 130 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
 
@@ -659,7 +661,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 249 • 4h ago
+⭐ 5.5k • 🔱 249 • 5h ago
 
 ---
 
@@ -679,7 +681,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.7k • 🔱 162 • 53m ago
+⭐ 2.7k • 🔱 162 • 1h ago
 
 ---
 
@@ -689,7 +691,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.3k • 🔱 453 • 20h ago
+⭐ 2.3k • 🔱 453 • 21h ago
 
 ---
 
@@ -719,7 +721,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 19h ago
+⭐ 1.7k • 🔱 134 • 20h ago
 
 ---
 
@@ -729,7 +731,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 234 • 22h ago
+⭐ 1.6k • 🔱 234 • 23h ago
 
 ---
 

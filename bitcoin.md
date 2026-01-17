@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T09:41:46.980355+00:00'
+updated: '2026-01-17T10:21:39.458167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 09:41 UTC  
+**Last Updated:** January 17, 2026 at 10:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.2%  
 **7d:** +4.7%  
 **30d:** +8.0%  
 **90d:** -13.8%  
-**1y:** -8.9%  
+**1y:** -8.8%  
 
 ---
 
@@ -79,7 +79,19 @@ Rank #1
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-4h ago
+5h ago
+
+---
+
+**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
+
+2h ago
+
+---
+
+**[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
+
+21m ago
 
 ---
 
@@ -87,13 +99,7 @@ Rank #1
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-3h ago
-
----
-
-**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
-
-1h ago
+4h ago
 
 ---
 
@@ -101,7 +107,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +115,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +127,15 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-8h ago
+9h ago
+
+---
+
+**[Am I the only one?](https://www.reddit.com/r/Bitcoin/comments/1qf2kaj/am_i_the_only_one/)**
+
+"When Bitcoin was here last cycle the price did this...."
+
+6h ago
 
 ---
 
@@ -131,27 +145,13 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
-**[Am I the only one?](https://www.reddit.com/r/Bitcoin/comments/1qf2kaj/am_i_the_only_one/)**
-
-"When Bitcoin was here last cycle the price did this...."
-
-5h ago
-
----
-
-**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
-
-15h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -165,19 +165,21 @@ Bloomberg.com • 1d ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
 
-The Block • 20h ago
+Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
+
+Business Insider • 6m ago
 
 ---
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -185,7 +187,7 @@ The Block • 13h ago
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -193,7 +195,7 @@ Yahoo Finance • 9h ago
 
 A White House crypto advisor said the US government has not sold any Bitcoin forfeited in the Samourai Wallet case, pushing back against market rumors sparked by recent on-chain activity. Key Takeaways: The DOJ confirmed it has not sold any Bitcoin forfeited in the Samourai Wallet case. The clarification follows ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,15 +203,15 @@ Yahoo Finance • 1h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 16h ago
+Mother Jones • 17h ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Bitcoin price may hit $300,000 to $1.5 million by 2030, Ark Invest Says](https://www.coindesk.com/markets/2026/01/15/lower-volatility-bigger-allocations-ark-invest-sees-bitcoin-entering-its-next-chapter)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+With ETFs and corporate treasuries absorbing more bitcoin than expected, the market is entering a more institutional, lower-volatility era.
 
-Yahoo Finance • 20h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -217,7 +219,7 @@ Yahoo Finance • 20h ago
 
 The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -229,7 +231,7 @@ The Motley Fool • 23h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 17h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 18h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -267,7 +269,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 16h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -295,7 +297,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Politics and the English Language (1946) [pdf]](https://news.ycombinator.com/item?id=46655913)**
 
-⬆️ 2 • 💬 0 • 2h ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
+⬆️ 2 • 💬 0 • 3h ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
 
 ---
 
@@ -309,7 +311,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 11h ago
+👁️ 26K • 👍 1K • 💬 170 • ⏱️ 8:18 • 12h ago
 
 ---
 
@@ -319,7 +321,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 18K • 👍 894 • 💬 208 • ⏱️ 1:13:07 • 22h ago
+👁️ 18K • 👍 894 • 💬 208 • ⏱️ 1:13:07 • 23h ago
 
 ---
 
