@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T07:40:16.681959+00:00'
+updated: '2026-01-17T08:28:07.661351+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 07:40 UTC  
+**Last Updated:** January 17, 2026 at 08:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-8h ago
+9h ago
 
 ---
 
@@ -112,7 +112,7 @@ I have a 20 hour flight and I want to spend it studying all that I can about blo
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 20h ago
 
 ---
 
@@ -120,13 +120,13 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
 
-1h ago
+2h ago
 
 ---
 
 **[What are you building on ENS?](https://www.reddit.com/r/ethereum/comments/1qehrj6/what_are_you_building_on_ens/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ The modular token standard.
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ dlnews.com • 1d ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 1d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -206,7 +206,7 @@ CryptoSlate • 2d ago
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 3K • 👍 86 • 💬 29 • ⏱️ 24:55 • 10h ago
+👁️ 3K • 👍 86 • 💬 29 • ⏱️ 24:55 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 562 • 💬 57 • ⏱️ 16:47 • 16h ago
+👁️ 14K • 👍 562 • 💬 57 • ⏱️ 16:47 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 60 • 👍 2 • 💬 1 • ⏱️ 4:27 • 1h ago
+👁️ 60 • 👍 2 • 💬 1 • ⏱️ 4:27 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 6K • 👍 475 • 💬 8 • ⏱️ 14:06 • 9h ago
+👁️ 6K • 👍 475 • 💬 8 • ⏱️ 14:06 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outloo
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 243 • 💬 75 • ⏱️ 22:38 • 14h ago
+👁️ 4K • 👍 243 • 💬 75 • ⏱️ 22:38 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 656 • 2h ago
+👁️ 4K • 👍 656 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ BitMine Chairman Tom Lee told shareholders the firm expects over $400 million in
 
 📺 CoinDesk
 
-👁️ 2K • 👍 57 • 💬 38 • ⏱️ 2:05 • 15h ago
+👁️ 2K • 👍 57 • 💬 38 • ⏱️ 2:05 • 16h ago
 
 ---
 

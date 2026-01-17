@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T07:40:16.667159+00:00'
+updated: '2026-01-17T08:28:07.646679+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 07:40 UTC  
+**Last Updated:** January 17, 2026 at 08:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 12h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 4h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 5h ago
 
 ---
 
@@ -55,7 +55,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Sorry if it's the wrong sub to post it, I'm clueless on where to spread awareness on it It raises serious safety concerns but alas their subreddit was unreceptive saying things like "oh no we should ban knives too" I don't want to give exact instructions Turning on the voice mode with the +18 models and a bit of prompting, it answered me on how to make different explosives at home including how to make my own napalm from the ground up and how/where to use it most effectively when I asked playfully. I don't know if a model like this should just be open for anyone's use
 
-15h ago
+16h ago
 
 ---
 
@@ -127,13 +127,13 @@ OpenAI • 2d ago
 
 **[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-OpenAI • 13h ago
+OpenAI • 14h ago
 
 ---
 
 **[Charted: AI adoption inside U.S. companies is soaring](https://www.axios.com/2026/01/16/chatgpt-ai-jobs-companies)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 11h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 8d ago
+blog.google • 9d ago
 
 ---
 
@@ -163,13 +163,13 @@ The New York Times • 1d ago
 
 Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy.](https://www.barrons.com/articles/nvidia-stock-price-analyst-buy-ai-3a0dfa05?gaa_at=eafs&gaa_n=AWEtsqeEe9eaRQCkm_0C_vHfC0HfpLDviGl28l_kuDEUbl27F3sxlRtzGZ8r&gaa_ts=696b404b&gaa_sig=HORzX4Gj4m6YixsBHKIvNfD0yrQL5pCNNTSxX85VUgpiCAchPObBhwMX7p6lyE4NhFfFZ_Sp4Mjha7xbmDm09w%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 16h ago
 
 Limited supply and skyrocketing demand brew a perfect storm.
 
-Tom's Hardware • 20h ago
+Tom's Hardware • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ Tom's Hardware • 20h ago
 
 Elon Musk was forced to put restrictions on X and its AI chatbot, Grok, after its image generator sparked outrage around the world. Grok created non-consensual sexualized images, prompting some countries to ban the bot. Liz Landers discussed Grok's troubles with Riana Pfefferkorn of the Stanford Institute for Human-Centered Artificial Intelligence.
 
-PBS • 7h ago
+PBS • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 342 • 💬 258 • 1d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 342 • 💬 258 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -216,7 +216,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 249 • 💬 205 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 249 • 💬 205 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -244,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 85 • 💬 145 • 21h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 85 • 💬 145 • 22h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -252,7 +252,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 62 • 💬 19 • 4h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 62 • 💬 19 • 5h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -268,7 +268,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 49 • 💬 10 • 15h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 49 • 💬 10 • 16h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -282,7 +282,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 85K • 👍 6K • 💬 2K • ⏱️ 14:15 • 11h ago
+👁️ 85K • 👍 6K • 💬 2K • ⏱️ 14:15 • 12h ago
 
 ---
 
@@ -292,7 +292,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 121K • 👍 3K • 💬 725 • ⏱️ 10:04 • 13h ago
+👁️ 121K • 👍 3K • 💬 725 • ⏱️ 10:04 • 14h ago
 
 ---
 
@@ -332,7 +332,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 15K • 👍 441 • 💬 149 • ⏱️ 7:05 • 7h ago
+👁️ 15K • 👍 441 • 💬 149 • ⏱️ 7:05 • 8h ago
 
 ---
 
@@ -372,7 +372,7 @@ Subscribe to stay up to date with AI in 2026! This week, Igor shows off some res
 
 📺 The AI Advantage
 
-👁️ 5K • 👍 233 • 💬 16 • ⏱️ 15:07 • 13h ago
+👁️ 5K • 👍 233 • 💬 16 • ⏱️ 15:07 • 14h ago
 
 ---
 
@@ -482,7 +482,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 10,269 • ❤️ 268 • 10d ago
+⬇️ 10,269 • ❤️ 268 • 11d ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 324 • 13h ago
+⭐ 7.0k • 🔱 324 • 14h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.5k • 🔱 243 • 2h ago
+⭐ 5.5k • 🔱 243 • 3h ago
 
 ---
 
@@ -690,7 +690,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.3k • 🔱 2.2k • 5h ago
+⭐ 2.3k • 🔱 2.2k • 6h ago
 
 ---
 
@@ -710,7 +710,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Vue`
 
-⭐ 2.2k • 🔱 432 • 18h ago
+⭐ 2.2k • 🔱 432 • 19h ago
 
 ---
 
@@ -720,7 +720,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 134 • 17h ago
+⭐ 1.7k • 🔱 134 • 18h ago
 
 ---
 
@@ -730,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 233 • 20h ago
+⭐ 1.5k • 🔱 233 • 21h ago
 
 ---
 

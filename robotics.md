@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T07:40:16.685258+00:00'
+updated: '2026-01-17T08:28:07.664571+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 07:40 UTC  
+**Last Updated:** January 17, 2026 at 08:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-22h ago
+23h ago
 
 ---
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/2011826012439335212 Blog: A Retrospective on Uses of Boston Dynamics’ Spot Robot: https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 "Robots with this ability will clearly have a much better ability to connect with humans because such a significant portion of our communication involves facial body language, and that entire channel is still untapped", Hu said. https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adx3017
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 11h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 12h ago
 
 ---
 
@@ -98,7 +98,7 @@ ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup w
 
 Autonomous inventory robots have been operating in grocery stores for nearly a decade, performing repeated shelf scans and navigation tasks during regular store hours. These systems are deployed across more than 1,000 cities in multiple countries and operate in customer-facing environments. Data generated through daily operation includes shelf state changes, product availability, store layout updates, and navigational mapping information. Early deployments occurred during a period when robotics investment was limited. Continued operation preceded later increases in funding across the robotics sector, while the system remained focused on inventory monitoring rather than physical manipulation.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 17h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/taking-stock-of-physical-ai-simbes-ceo-on-the-power-of-data) • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 576 • 👍 24 • 💬 1 • ⏱️ 3:19 • 14h ago
+👁️ 576 • 👍 24 • 💬 1 • ⏱️ 3:19 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ Stryx Bane with insane acid power. This is one of the only Stryx builds I've nev
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 393 • 💬 52 • ⏱️ 15:23 • 18h ago
+👁️ 8K • 👍 393 • 💬 52 • ⏱️ 15:23 • 19h ago
 
 ---
 
