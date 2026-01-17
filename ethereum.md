@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T08:50:53.160166+00:00'
+updated: '2026-01-17T09:21:33.139068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 08:50 UTC  
+**Last Updated:** January 17, 2026 at 09:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-9h ago
+10h ago
 
 ---
 
@@ -112,7 +112,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 20h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 21h ago
 
 ---
 
@@ -120,7 +120,7 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
 
-2h ago
+3h ago
 
 ---
 
@@ -152,7 +152,7 @@ The modular token standard.
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 9h ago
 
 The crypto market wavered as trading volumes cooled, with Bitcoin and Ethereum drifting downward despite positive momentum earlier this week.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -190,7 +190,7 @@ CryptoSlate • 2d ago
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 3K • 👍 102 • 💬 31 • ⏱️ 24:55 • 11h ago
+👁️ 3K • 👍 102 • 💬 31 • ⏱️ 24:55 • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 602 • 💬 53 • ⏱️ 16:47 • 17h ago
+👁️ 15K • 👍 602 • 💬 53 • ⏱️ 16:47 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 474 • 👍 53 • 💬 2 • ⏱️ 4:27 • 2h ago
+👁️ 474 • 👍 53 • 💬 2 • ⏱️ 4:27 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 447 • 👍 17 • 💬 21 • ⏱️ 5:32 • 22h ago
+👁️ 447 • 👍 17 • 💬 21 • ⏱️ 5:32 • 23h ago
 
 ---
 
