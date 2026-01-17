@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T18:53:00.579371+00:00'
+updated: '2026-01-17T19:16:45.628645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 18:53 UTC  
+**Last Updated:** January 17, 2026 at 19:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,25 +87,25 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-5h ago
+6h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-12h ago
+13h ago
 
 ---
 
@@ -129,13 +129,13 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Do you think this is still a realistic, positiv scenario today?
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin's true measure is gold, or dollars ?](https://www.reddit.com/r/Bitcoin/comments/1qfh5wy/bitcoins_true_measure_is_gold_or_dollars/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 3h ago
 
 The world's leading cryptocurrency has made early adopters incredibly wealthy.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -257,7 +257,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 4d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 5d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -371,7 +371,7 @@ BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What
 
 📺 CryptoWendyO
 
-👁️ 20K • 👍 1K • 💬 47 • ⏱️ 3:57 • 20h ago
+👁️ 20K • 👍 1K • 💬 47 • ⏱️ 3:57 • 21h ago
 
 ---
 

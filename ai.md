@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T18:53:00.570912+00:00'
+updated: '2026-01-17T19:16:45.620286+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 18:53 UTC  
+**Last Updated:** January 17, 2026 at 19:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-21m ago
+45m ago
 
 ---
 
@@ -79,13 +79,13 @@ Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-13h ago
+14h ago
 
 ---
 
 **[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 1h ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 2h ago
 
 ---
 
@@ -119,7 +119,7 @@ I analyzed 3,023 enterprise AI use cases to understand what's actually being dep
 
 **[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd2wjsalHqDMu7-wO7ssCbSfkypB35n0ESS8R2o7MihaVj77KS9z--L&gaa_ts=696bddf5&gaa_sig=qRoG-4ytXPMhFSvZKSC79dSG8Pr4nPCp_bnt2QyAXuWwS-IClSsMFyJNCwu1SlfRbe89sWInCO-Ti9tAqZXBIg%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Wall Street Journal • 1h ago
 
 Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
 
-Fox Business • 51m ago
+Fox Business • 1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Fox Business • 51m ago
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On January 13, Wolfe reiterated the stock as “Outperform,” noting that the idea is its favorite for 2026. Analyst Chris Caso noted that the AI chip maker is being added to the Wolfe Alpha List, replacing Micron. This is despite […]
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Yahoo Finance • 1h ago
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 8h ago
 
 AI is offering people a way to figure out what they really want in romance.
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Atlantic • 5h ago
 
 Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -187,7 +187,7 @@ BBC • 18h ago
 
 **[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 84 • 💬 25 • 15h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 84 • 💬 25 • 16h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -256,7 +256,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 75 • 💬 64 • 5h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 75 • 💬 64 • 6h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -286,7 +286,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 3h ago
+👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ Copy this method to create a business that prints money using AI. Sabri Suby AI 
 
 📺 Sabri Suby
 
-👁️ 9K • 👍 514 • 💬 27 • ⏱️ 51:44 • 23h ago
+👁️ 9K • 👍 514 • 💬 27 • ⏱️ 51:44 • 1d ago
 
 ---
 
@@ -306,7 +306,7 @@ Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was su
 
 📺 Matt Wolfe
 
-👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 4h ago
+👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 5h ago
 
 ---
 
@@ -326,7 +326,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 18h ago
+👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 19h ago
 
 ---
 
@@ -356,7 +356,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 1d ago
+👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -366,7 +366,7 @@ JOIN JERRY'S PATREON with TRADE ALERTS: https://www.patreon.com/jerryromine Ever
 
 📺 Jerry Romine Stocks
 
-👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 5h ago
+👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 6h ago
 
 ---
 
@@ -376,7 +376,7 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 7K • 💬 5 • ⏱️ 19:34 • 5h ago
+👁️ 7K • 💬 5 • ⏱️ 19:34 • 6h ago
 
 ---
 
