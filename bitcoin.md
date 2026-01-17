@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T06:32:49.949952+00:00'
+updated: '2026-01-17T07:20:06.747950+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 06:32 UTC  
+**Last Updated:** January 17, 2026 at 07:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,13 +133,13 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 "When Bitcoin was here last cycle the price did this...."
 
-2h ago
+3h ago
 
 ---
 
 **[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -149,13 +149,13 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 21h ago
 
 Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 17h ago
 
 Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
@@ -179,13 +179,13 @@ Bitcoin Magazine • 10h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 13h ago
+Mother Jones • 14h ago
 
 ---
 
 **['Bear market rally': CryptoQuant breaks down bitcoin's recent price rebound](https://www.theblock.co/post/386021/bear-market-rally-cryptoquant-bitcoin-price-rebound)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -193,13 +193,13 @@ The Block • 10h ago
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 10h ago
 
 A White House crypto advisor said he received confirmation from the US Department of Justice that no Bitcoin forfeited from the Samourai case was sold, putting rumors to rest.The confirmation was shared on X by Patrick Witt, Executive Director of the White House President’s Council of Advisors for…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -227,7 +227,7 @@ Seeking Alpha • 12h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 14h ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 15h ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -235,7 +235,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -265,7 +265,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -307,7 +307,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 17K • 👍 868 • 💬 196 • ⏱️ 1:13:07 • 19h ago
+👁️ 17K • 👍 868 • 💬 196 • ⏱️ 1:13:07 • 20h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 163 • ⏱️ 8:18 • 8h ago
+👁️ 23K • 👍 1K • 💬 163 • ⏱️ 8:18 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ A MAJOR Rally Up To $100k is HIGHLY LIKELY at this point! Are you ready? Sign Up
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 240 • 💬 102 • ⏱️ 6:45 • 11h ago
+👁️ 4K • 👍 240 • 💬 102 • ⏱️ 6:45 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 7h ago
+👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 8h ago
 
 ---
 
