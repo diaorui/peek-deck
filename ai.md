@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T13:47:38.839548+00:00'
+updated: '2026-01-17T14:19:39.782548+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 13:47 UTC  
+**Last Updated:** January 17, 2026 at 14:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-8h ago
+9h ago
 
 ---
 
@@ -63,7 +63,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://drive.google.com/file/d/1Muj8f1twIFaYDZZqsJBvQyq5w9f9GocC/view?usp=drive
 
 Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Harvard Business Review • 1d ago
 
 AI is offering people a way to figure out what they really want in romance.
 
-The Atlantic • 47m ago
+The Atlantic • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Atlantic • 47m ago
 
 We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
 
-NPR • 47m ago
+NPR • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ The New York Times • 2d ago
 
 **[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-OpenAI • 19h ago
+OpenAI • 20h ago
 
 ---
 
 **[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ Axios • 1h ago
 
 Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 79 • 💬 23 • 10h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 79 • 💬 23 • 11h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -270,7 +270,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 50 • 💬 10 • 21h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 50 • 💬 10 • 22h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -284,7 +284,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 103K • 👍 7K • 💬 2K • ⏱️ 14:15 • 17h ago
+👁️ 103K • 👍 7K • 💬 2K • ⏱️ 14:15 • 18h ago
 
 ---
 
@@ -294,7 +294,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 153K • 👍 3K • 💬 875 • ⏱️ 10:04 • 19h ago
+👁️ 153K • 👍 3K • 💬 875 • ⏱️ 10:04 • 20h ago
 
 ---
 
@@ -304,7 +304,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 30K • 👍 843 • 💬 291 • ⏱️ 7:05 • 13h ago
+👁️ 30K • 👍 843 • 💬 291 • ⏱️ 7:05 • 14h ago
 
 ---
 
@@ -314,7 +314,7 @@ Copy this method to create a business that prints money using AI. Sabri Suby AI 
 
 📺 Sabri Suby
 
-👁️ 7K • 👍 448 • 💬 27 • ⏱️ 51:44 • 18h ago
+👁️ 7K • 👍 448 • 💬 27 • ⏱️ 51:44 • 19h ago
 
 ---
 
@@ -438,7 +438,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 5,382 • ❤️ 249 • 1d ago
+⬇️ 5,382 • ❤️ 249 • 2d ago
 
 ---
 
@@ -496,7 +496,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 2,591 • ❤️ 158 • 1d ago
+⬇️ 2,591 • ❤️ 158 • 2d ago
 
 ---
 
@@ -682,7 +682,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 163 • 4h ago
+⭐ 2.8k • 🔱 163 • 5h ago
 
 ---
 
@@ -722,7 +722,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 135 • 23h ago
+⭐ 1.7k • 🔱 135 • 1d ago
 
 ---
 

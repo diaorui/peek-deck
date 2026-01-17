@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T13:47:38.857541+00:00'
+updated: '2026-01-17T14:19:39.801328+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 13:47 UTC  
+**Last Updated:** January 17, 2026 at 14:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
 
-43m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain v
 
 ROS News for the Week of January 12th, 2026    Our next ROS By-The-Bay  Meetup will be on January 29th with the calibration gurus at Main Street Autonomy.       Our next Gazebo Community Meeting will be on Wednesday, January 28th. Our speakers will be the team at Forest3D, a Blender plugin that can automatically generate realistic outdoor scenes for Gazebo.       Speaking of Blender, LinkForge is a native blender extension for visual URDF/Xacro editing with ROS 2 support.       TBAI, or towards ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 17h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-12th-2026/51866) • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ GeekWire • 2d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 3:19 • 20h ago
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 3:19 • 21h ago
 
 ---
 

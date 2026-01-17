@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T13:47:38.848235+00:00'
+updated: '2026-01-17T14:19:39.791497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 13:47 UTC  
+**Last Updated:** January 17, 2026 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-34m ago
+1h ago
 
 ---
 
@@ -107,7 +107,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy stra
 
 Do you think this is still a realistic, positiv scenario today?
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Do you think this is still a realistic, positiv scenario today?
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ Do you think this is still a realistic, positiv scenario today?
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1d ago
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Decrypt • 1d ago
 
 Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqcLuAbEKoJUtRV8YRbpnHAycmUymbkKybSFRWaNWdEA2xreacCbgV4q&gaa_ts=696b965d&gaa_sig=hFAuSUnzJ3PWTcW49pBMpWbyZi-OJiLXH1lsUVETwWs83WdOD-6G2Jon3xWHnZVV4l5-MEUInnpoNiMGa7xAfA%3D%3D)**
 
-MarketWatch • 20h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -271,7 +271,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 21h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -279,7 +279,7 @@ Rolling coverage of the latest economic and financial news
 
 Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
 
-⬆️ 1 • 💬 1 • 4d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
+⬆️ 1 • 💬 1 • 5d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
 
 ---
 
@@ -341,7 +341,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Goodguys2Greatmen
 
-👁️ 3K • 👍 1K • 40m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
