@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T15:41:51.685250+00:00'
+updated: '2026-01-17T16:25:26.968238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 15:41 UTC  
+**Last Updated:** January 17, 2026 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-5h ago
+6h ago
 
 ---
 
@@ -56,17 +56,25 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
+**[Robotic baristas & ice cream makers](https://www.reddit.com/r/robotics/comments/1qfh8xz/robotic_baristas_ice_cream_makers/)**
+
+Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
+
+11m ago
+
+---
+
 **[What's a good opensouce kit for learning advanced robotics?](https://www.reddit.com/r/robotics/comments/1qffd03/whats_a_good_opensouce_kit_for_learning_advanced/)**
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-41m ago
+1h ago
 
 ---
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -82,7 +90,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +98,7 @@ There is a vocabulary problem in scientific robotics right now. We are seeing th
 
 wouldn't a mantis-style quadruped be objectively better from an engineering standpoint? I mean, we're not putting them behind the wheel of a vehicle, the biggest demand for their development outside of entertainment is warehouse work and package delivery. a four-legged design with a humanoid upper half would allow it to use human workstations and infrastructure while also vastly increasing its stability, especially when holding something heavy. wouldn't it? the need is for a robot that can human tools and equipment effectively, right? this seems like the way to go. is there something I'm missing?
 
-13h ago
+14h ago
 
 ---
 
@@ -102,21 +110,13 @@ wouldn't a mantis-style quadruped be objectively better from an engineering stan
 
 ---
 
-**[Looking for UGV chassis suggestions for Nvidia Jetson Orin AGX](https://www.reddit.com/r/robotics/comments/1qew8ke/looking_for_ugv_chassis_suggestions_for_nvidia/)**
-
-Hello, I am looking to install a Jetson Orin AGX 32gb onto a small all terrain vehicle. The size needs to be approximately equivalent to a small push lawn mower. I have found some good options from waveshare for Orin nano and nx boards, but nothing that can accommodate the agx with carrier board, cameras, lidar, battery pack, etc. This is a proof of concept so it just needs to run well for about an hour or so. Rover style preferred but will accept tracks. Any recommendations on an RC that I can convert or a UGV kit that can fit and support the Orin agx? Thanks
-
-16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 3d ago
+Bloomberg • 3d ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 3d ago
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -136,17 +136,25 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
 
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Interesting Engineering • 2d ago
+Futurism • 3h ago
 
 ---
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
+
+---
+
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -162,21 +170,13 @@ Nikkei Asia • 1d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 14h ago
+CBS News • 15h ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfhK4eS3KlcIiByv5jcRmAFgjIl7hDmqyNVJGHADNprI7H3xHkXV7YI&gaa_ts=696bac5e&gaa_sig=CiGLn2M7iq-Y5P1QGuM8C1hUjpPL7efGjwYUTG8qE0Uvm4A-DDoupXGDbTOG-9BXL61d8ndBmf5Y9OX2e32xpQ%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdQycfN9IdoOVgcOyM04EGwraEdfaoUKWDZ9JJT1YcnadhHB_GUXQNX&gaa_ts=696bbb62&gaa_sig=TsdUXTSr3gy-KJeCAcsEoHAwVvXGBY3kRDiB_zkN-oRYoAEBPfEv-Pcww4TtNJIC5m5FREOWfpw3kjOFqfvbsg%3D%3D)**
 
 MarketWatch • 2d ago
-
----
-
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
-
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
-
-Futurism • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 165K • 👍 2K • 💬 401 • ⏱️ 11:46 • 5d ago
+👁️ 165K • 👍 2K • 💬 401 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -266,7 +266,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 2K • 👍 39 • 💬 4 • ⏱️ 3:19 • 22h ago
+👁️ 2K • 👍 39 • 💬 4 • ⏱️ 3:19 • 23h ago
 
 ---
 

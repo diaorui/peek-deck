@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T15:41:51.667265+00:00'
+updated: '2026-01-17T16:25:26.950694+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 15:41 UTC  
+**Last Updated:** January 17, 2026 at 16:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[ChatGPT Users May Soon See Targeted Ads: What It Means](https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/)**
-
-ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
-
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 12h ago
-
----
-
 **[Mechanistic interpretability, are we any closer than we were 5 years ago?](https://www.reddit.com/r/artificial/comments/1qfetmg/mechanistic_interpretability_are_we_any_closer/)**
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
 🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 1h ago
+
+---
+
+**[ChatGPT Users May Soon See Targeted Ads: What It Means](https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/)**
+
+ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
+
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 12h ago
 
 ---
 
@@ -63,7 +63,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-21h ago
+22h ago
 
 ---
 
@@ -119,15 +119,61 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 ## Google News: "ai"
 
-**[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-Axios • 1h ago
+The New York Times • 2d ago
 
 ---
 
 **[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-OpenAI • 21h ago
+OpenAI • 22h ago
+
+---
+
+**[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
+
+Axios • 2h ago
+
+---
+
+**[The Bots That Women Use in a World of Unsatisfying Men](https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/)**
+
+AI is offering people a way to figure out what they really want in romance.
+
+The Atlantic • 3h ago
+
+---
+
+**[Billionaire Stanley Druckenmiller Sells Broadcom Stock and Buys an AI Stock Up 1,000% Since Early 2025](https://www.fool.com/investing/2026/01/17/druckenmiller-sell-broadcom-buy-ai-stock-up-1000/)**
+
+Star fund manager Stanley Druckenmiller sold Broadcom and bought Sandisk in the third quarter.
+
+The Motley Fool • 8h ago
+
+---
+
+**[This energy stock is the clearest winner in efforts aimed at powering the AI buildout](https://www.cnbc.com/2026/01/16/this-energy-stock-is-the-clearest-winner-in-efforts-aimed-at-powering-the-ai-buildout.html)**
+
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+
+CNBC • 23h ago
+
+---
+
+**[Smaller companies are rising quickly to challenge Big Tech as AI 's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
+
+Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
+
+CNBC • 56m ago
+
+---
+
+**[AI is turning Big Tech into a superstar economy](https://www.businessinsider.com/ai-big-tech-superstar-economy-meta-google-amazon-compensation-2026-1)**
+
+AI-driven pay changes at Meta, Google, Amazon, and Nvidia prioritize standout individual contributors over traditional management roles.
+
+Business Insider • 55m ago
 
 ---
 
@@ -135,55 +181,13 @@ OpenAI • 21h ago
 
 Dr. Danielle Bitterman of MGH Brigham discusses the pros and cons of ChatGPT Health, an AI app designed to answer personal health questions.
 
-WCVB • 30m ago
-
----
-
-**[China blocks Nvidia H200 AI chips that US government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report)**
-
-Parts suppliers ‘put production on hold’ amid mounting confusion as China restricts purchase of the chips and US puts 25% roundabout tariff on their sale
-
-The Guardian • 10h ago
-
----
-
-**[Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://www.nytimes.com/2026/01/16/business/trump-ai-electricity-costs.html)**
-
-The New York Times • 19h ago
-
----
-
-**[ICE raid on Meta shows tension between Trump's immigration and AI agendas](https://www.axios.com/2026/01/15/ice-meta-ai-immigration-raid-trump)**
-
-Axios • 1d ago
-
----
-
-**[Trump Is Pushing Gas to Power AI Boom, But Building Plants Take Years](https://www.bloomberg.com/news/articles/2026-01-17/trump-is-pushing-gas-to-power-ai-boom-but-building-plants-take-years)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[How UNT is helping TxDOT use AI to detect debris, hazardous conditions on roadways](https://www.cbsnews.com/texas/news/ai-images-txdot-traffic-alert-highway-unt-dallas-texas-a-m-transportation-road-hazard/)**
-
-In partnership with the Texas A&M Transportation Institute, UNT is using a $400,000 grant to focus on how the technology could make commutes safer.
-
-CBS News • 1h ago
+WCVB • 1h ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 5h ago
-
----
-
-**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
-
-Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
-
-CNBC • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -197,7 +201,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 344 • 💬 261 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 345 • 💬 261 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -214,7 +218,7 @@ Why we are losing technical rigor to social hype
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 249 • 💬 205 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 249 • 💬 206 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -222,7 +226,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 99 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 181 • 💬 100 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -236,13 +240,13 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
-⬆️ 89 • 💬 18 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
+⬆️ 89 • 💬 19 • 1d ago • [GitHub](https://github.com/bolt-foundry/gambit)
 
 ---
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 87 • 💬 148 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 87 • 💬 149 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -250,7 +254,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 79 • 💬 23 • 12h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 80 • 💬 23 • 13h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -262,11 +266,11 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 ---
 
-**[Starlink updates Privacy Policy to allow AI model training with personal data](https://news.ycombinator.com/item?id=46647716)**
+**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
 
-Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 50 • 💬 10 • 23h ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 55 • 💬 21 • 3h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -280,7 +284,7 @@ Access the BEST Video Models in OpenArt https://roboverse-ai.com/AI-Video-2026 I
 
 📺 Roboverse
 
-👁️ 3K • 💬 5 • ⏱️ 15:43 • 1h ago
+👁️ 3K • 💬 5 • ⏱️ 15:43 • 2h ago
 
 ---
 
@@ -290,7 +294,7 @@ I believe, at the very best, that a quarter of datacenter are going under.” It
 
 📺 The Tech Report
 
-👁️ 17K • 👍 874 • 💬 274 • ⏱️ 26:53 • 21h ago
+👁️ 17K • 👍 874 • 💬 274 • ⏱️ 26:53 • 22h ago
 
 ---
 
@@ -300,7 +304,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 161K • 👍 4K • 💬 912 • ⏱️ 10:04 • 21h ago
+👁️ 161K • 👍 4K • 💬 912 • ⏱️ 10:04 • 22h ago
 
 ---
 
@@ -310,7 +314,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 19h ago
+👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 20h ago
 
 ---
 
@@ -320,7 +324,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 35K • 👍 1K • 💬 345 • ⏱️ 7:05 • 15h ago
+👁️ 35K • 👍 1K • 💬 345 • ⏱️ 7:05 • 16h ago
 
 ---
 
@@ -350,7 +354,7 @@ There's a scene in the 2005 Charlie and the Chocolate Factory that I think about
 
 📺 Real Life Fake Wizard
 
-👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 20h ago
+👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 21h ago
 
 ---
 
@@ -583,7 +587,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 2 • ⭐ 1,213 • 11d ago
+▲ 28 • 💬 2 • ⭐ 1,213 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -638,7 +642,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 2h ago
+⭐ 8.9k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -658,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 257 • 10h ago
+⭐ 5.7k • 🔱 257 • 11h ago
 
 ---
 
@@ -678,7 +682,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 163 • 6h ago
+⭐ 2.8k • 🔱 163 • 7h ago
 
 ---
 

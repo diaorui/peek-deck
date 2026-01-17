@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T15:41:51.681998+00:00'
+updated: '2026-01-17T16:25:26.965045+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 15:41 UTC  
+**Last Updated:** January 17, 2026 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,285.75
+### $3,315.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
+**24h:** +1.1%  
 **7d:** +6.2%  
-**30d:** +11.2%  
-**90d:** -16.6%  
+**30d:** +11.1%  
+**90d:** -16.7%  
 **1y:** +0.3%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -84,11 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Re: Best hardware for running ETH node](https://www.reddit.com/r/ethereum/comments/1qfhiwt/re_best_hardware_for_running_eth_node/)**
+
+2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
+
+1m ago
+
+---
+
 **[I have 20 hours to learn as much as I can.](https://www.reddit.com/r/ethereum/comments/1qeuzx0/i_have_20_hours_to_learn_as_much_as_i_can/)**
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-23h ago
+1d ago
 
 ---
 
@@ -138,21 +146,13 @@ The modular token standard.
 
 ---
 
-**[Argot Roadmap Update 2026 (1/2)](https://www.reddit.com/r/ethereum/comments/1qdyue0/argot_roadmap_update_2026_12/)**
-
-This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
-
-🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -164,19 +164,17 @@ Decrypt • 1d ago
 
 ---
 
-**[US Housing Lender Will Accept Bitcoin and Ethereum for Mortgage Qualification](https://finance.yahoo.com/news/us-housing-lender-accept-bitcoin-110326147.html)**
+**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
 
-Newrez plans to begin recognizing certain cryptocurrency holdings for mortgage qualification starting February 2026.
+Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
 
 Yahoo Finance • 4h ago
 
 ---
 
-**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
+**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
-
-Yahoo Finance • 3h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -185,12 +183,6 @@ Yahoo Finance • 3h ago
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
 dlnews.com • 2d ago
-
----
-
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
-
-CoinDesk • 20h ago
 
 ---
 
@@ -218,6 +210,14 @@ Seeking Alpha • 3d ago
 
 ---
 
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
+
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
+
+24/7 Wall St. • 2d ago
+
+---
+
 **[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
@@ -236,7 +236,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 3h ago
+👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 5K • 👍 155 • 💬 30 • ⏱️ 24:55 • 18h ago
+👁️ 5K • 👍 155 • 💬 30 • ⏱️ 24:55 • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 6 • ⏱️ 4:27 • 9h ago
+👁️ 2K • 👍 122 • 💬 6 • ⏱️ 4:27 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outloo
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 322 • 💬 64 • ⏱️ 22:38 • 22h ago
+👁️ 6K • 👍 322 • 💬 64 • ⏱️ 22:38 • 23h ago
 
 ---
 
