@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-17T18:30:21.615561+00:00"
+          "dateModified": "2026-01-17T18:53:00.096760+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,18 +664,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bG44NmdxMjV6dmRnMfBuhG5LWXSwckUdBVvyEpR7Blv9rfWKfXEoJ8NqKUj-.png?width=640&crop=smart&auto=webp&s=a96bc4a702f62fad56c66ee4c7070b6e7364f7cb" alt=""I kind of think of ads as like a last resort for us as a business model" - Sam Altman , October 2024" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/" target="_blank" onclick="event.stopPropagation();">Here it comes - Ads on ChatGPT</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/" target="_blank" onclick="event.stopPropagation();">"I kind of think of ads as like a last resort for us as a business model" - Sam Altman , October 2024</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -683,24 +689,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1768591624.0"></span>
+                                    <span data-timestamp="1768645508.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://openai.com/index/our-approach-to-advertising-and-expanding-access/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>openai.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -757,6 +749,115 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/" target="_blank" onclick="event.stopPropagation();">Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768674667.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/" target="_blank" onclick="event.stopPropagation();">Here it comes - Ads on ChatGPT</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768591624.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://openai.com/index/our-approach-to-advertising-and-expanding-access/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>openai.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 1/16/2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768626285.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -794,39 +895,6 @@
                                         <span>perplexity.ai</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 1/16/2026</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768626285.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -932,72 +1000,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/" target="_blank" onclick="event.stopPropagation();">Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768484651.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qe3hw4/why_does_ai_do_marvels_with_imaging_and_realism/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qe3hw4/why_does_ai_do_marvels_with_imaging_and_realism/" target="_blank" onclick="event.stopPropagation();">Why does ai do marvels with imaging and realism but is terrible at following text prompts within those images?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768530059.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1021,7 +1023,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-17T17:40:56.500550+00:00">Updated 2026-01-17T17:40:56.500550+00:00</small>
+        <small data-timestamp="2026-01-17T18:52:34.760484+00:00">Updated 2026-01-17T18:52:34.760484+00:00</small>
     </div>
 </div>
 
@@ -1207,20 +1209,57 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd2wjsalHqDMu7-wO7ssCbSfkypB35n0ESS8R2o7MihaVj77KS9z--L&gaa_ts=696bddf5&gaa_sig=qRoG-4ytXPMhFSvZKSC79dSG8Pr4nPCp_bnt2QyAXuWwS-IClSsMFyJNCwu1SlfRbe89sWInCO-Ti9tAqZXBIg%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/a0eef0b4544b41b055733e7d0826315830269b70/547_0_5468_4374/master/5468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0827b0776297b562f7de1e2b5b00e2ca');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward" target="_blank" onclick="event.stopPropagation();">‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd2wjsalHqDMu7-wO7ssCbSfkypB35n0ESS8R2o7MihaVj77KS9z--L&gaa_ts=696bddf5&gaa_sig=qRoG-4ytXPMhFSvZKSC79dSG8Pr4nPCp_bnt2QyAXuWwS-IClSsMFyJNCwu1SlfRbe89sWInCO-Ti9tAqZXBIg%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768669200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find" target="_blank" onclick="event.stopPropagation();">AI raises average wages by 21% and substantially reduces' wage inequality, researchers find</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
+                            Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
                         </div>
                         
 
@@ -1230,9 +1269,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1240,7 +1279,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768651320.0"></span>
+                                    <span data-timestamp="1768672920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/ENmNeWc0VnWpngIWxXawgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html" target="_blank" onclick="event.stopPropagation();">Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On January 13, Wolfe reiterated the stock as “Outperform,” noting that the idea is its favorite for 2026. Analyst Chris Caso noted that the AI chip maker is being added to the Wolfe Alpha List, replacing Micron. This is despite […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768672419.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/apple-aapl-ai-roadmap-strengthens-174853486.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/ndU42yyiO6AR2iM7JKelxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/apple-aapl-ai-roadmap-strengthens-174853486.html" target="_blank" onclick="event.stopPropagation();">Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Apple Inc. (NASDAQ:AAPL) is one of the Hot AI Stocks to Keep on Your Radar. On January 12, Evercore ISI analyst Amit Daryanani reiterated an Outperform rating on the stock with a $330.00 price target. Firm analysts highlight Apple’s new AI partnership with Google Gemini, citing monetization upside and custom AI experiences ahead. The firm […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768672133.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html" target="_blank" onclick="event.stopPropagation();">Tech Firms Are Persuading Retailers to Put A.I. Everywhere</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768644140.0"></span>
                                 </div>
                                 
                             </div>
@@ -1289,131 +1447,61 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/media-trends-membership/2026/01/17/contextual-advertising-live-ai', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/a0eef0b4544b41b055733e7d0826315830269b70/547_0_5468_4374/master/5468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0827b0776297b562f7de1e2b5b00e2ca');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/media-trends-membership/2026/01/17/contextual-advertising-live-ai" target="_blank" onclick="event.stopPropagation();">AI is driving the rise of contextual advertising</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768669647.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/media-trends-membership/2026/01/17/wall-street-ad-tech-stock-applovin', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/media-trends-membership/2026/01/17/wall-street-ad-tech-stock-applovin" target="_blank" onclick="event.stopPropagation();">AI investments made AppLovin a Wall Street ad tech darling</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768669464.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html" target="_blank" onclick="event.stopPropagation();">Tech Firms Are Persuading Retailers to Put A.I. Everywhere</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768644140.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108182542-1754505460421-iw_newBillionaires_wangAlexandr.png?v=1768471671&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html" target="_blank" onclick="event.stopPropagation();">The founders of billion-dollar AI startups are getting younger — here’s why</a>
+                            <a href="https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward" target="_blank" onclick="event.stopPropagation();">‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+                            Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768651320.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108214648-1761049143277-gettyimages-2242297318-dji_20251020161839_0128_d_qnjnfejv.jpeg?v=1761049165&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html" target="_blank" onclick="event.stopPropagation();">Smaller companies are rising quickly to challenge Big Tech as AI 's best trade</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
                         </div>
                         
 
@@ -1433,7 +1521,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768643648.0"></span>
+                                    <span data-timestamp="1768663727.0"></span>
                                 </div>
                                 
                             </div>
@@ -1441,17 +1529,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://openai.com/index/our-approach-to-advertising-and-expanding-access/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cq6v83gq66eo', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/0604/live/b48b8ae0-f2e2-11f0-b5f7-49f0357294ff.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://openai.com/index/our-approach-to-advertising-and-expanding-access/" target="_blank" onclick="event.stopPropagation();">Our approach to advertising and expanding access to ChatGPT</a>
+                            <a href="https://www.bbc.com/news/articles/cq6v83gq66eo" target="_blank" onclick="event.stopPropagation();">Sienna Rose: AI suspicions surround mysterious singer</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1460,9 +1552,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="OpenAI" class="news-favicon">
-                                    <a href="https://openai.com" target="_blank" onclick="event.stopPropagation();">OpenAI</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1470,7 +1562,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768586445.0"></span>
+                                    <span data-timestamp="1768610598.0"></span>
                                 </div>
                                 
                             </div>
@@ -1515,88 +1607,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0%2C2.0352385861162%2C100%2C95.929522827768&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner" target="_blank" onclick="event.stopPropagation();">Gemini is winning</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Could Siri be the last piece of the puzzle?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768414599.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/built-steve-jobs-custom-gpt-to-make-my-business-decisions-2026-1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69694b6504eda4732f2f29a6?width=949&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/built-steve-jobs-custom-gpt-to-make-my-business-decisions-2026-1" target="_blank" onclick="event.stopPropagation();">She runs her company with 17 AI 'employees.' She says there's no going back.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Solopreneur Yesim Saydan shares how she trained over 17 custom GPT workers and a Steve Jobs—inspired custom GPT to work for her consultancy agency.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768589400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1617,7 +1627,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-17T17:41:16.484069+00:00">Updated 2026-01-17T17:41:16.484069+00:00</small>
+        <small data-timestamp="2026-01-17T18:52:58.204076+00:00">Updated 2026-01-17T18:52:58.204076+00:00</small>
     </div>
 </div>
 
@@ -1995,7 +2005,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                                     <span class="post-points">▲ 181</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 101</span>
+                                    <span style="color: #9ca3af;">💬 102</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2014,40 +2024,6 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                                         <span>GitHub</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46620358', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46620358" target="_blank" onclick="event.stopPropagation();">Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 125</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 23</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-14T18:33:56Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -2172,10 +2148,10 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 83</span>
+                                    <span class="post-points">▲ 84</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 24</span>
+                                    <span style="color: #9ca3af;">💬 25</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2221,10 +2197,10 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 72</span>
+                                    <span class="post-points">▲ 75</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 57</span>
+                                    <span style="color: #9ca3af;">💬 64</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2298,6 +2274,55 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46647716', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://coywolf.com/wp-content/uploads/2026/01/starlink-ai-training.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46647716" target="_blank" onclick="event.stopPropagation();">Starlink updates Privacy Policy to allow AI model training with personal data</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 53</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 11</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-01-16T15:51:18Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://coywolf.com/wp-content/uploads/2025/10/cropped-coywolf-icon-180x180.webp" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Coywolf</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2318,7 +2343,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-17T17:40:51.277674+00:00">Updated 2026-01-17T17:40:51.277674+00:00</small>
+        <small data-timestamp="2026-01-17T18:52:34.681505+00:00">Updated 2026-01-17T18:52:34.681505+00:00</small>
     </div>
 </div>
 

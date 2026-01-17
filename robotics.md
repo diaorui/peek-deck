@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T18:30:22.126617+00:00'
+updated: '2026-01-17T18:53:00.588675+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 18:30 UTC  
+**Last Updated:** January 17, 2026 at 18:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,6 +46,14 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 ---
 
+**[Why aren’t more people building robots with fully local AI](https://www.reddit.com/r/robotics/comments/1qfir5k/why_arent_more_people_building_robots_with_fully/)**
+
+I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
+
+1h ago
+
+---
+
 **[Three-minute uncut video of the Figure 03 humanoid running around the San Jose campus](https://www.reddit.com/r/robotics/comments/1qedmih/threeminute_uncut_video_of_the_figure_03_humanoid/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
@@ -54,9 +62,11 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 ---
 
-**[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
+**[What's a good opensouce kit for learning advanced robotics?](https://www.reddit.com/r/robotics/comments/1qffd03/whats_a_good_opensouce_kit_for_learning_advanced/)**
 
-1h ago
+I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
+
+3h ago
 
 ---
 
@@ -68,11 +78,9 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
-**[Why aren’t more people building robots with fully local AI](https://www.reddit.com/r/robotics/comments/1qfir5k/why_arent_more_people_building_robots_with_fully/)**
+**[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
 
-I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
-
-1h ago
+2h ago
 
 ---
 
@@ -81,14 +89,6 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
 2h ago
-
----
-
-**[What's a good opensouce kit for learning advanced robotics?](https://www.reddit.com/r/robotics/comments/1qffd03/whats_a_good_opensouce_kit_for_learning_advanced/)**
-
-I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
-
-3h ago
 
 ---
 
@@ -110,19 +110,17 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ## Google News: "robotics"
 
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 3d ago
+
+---
+
 **[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
 TechCrunch • 3d ago
-
----
-
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
-
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-
-Interesting Engineering • 2d ago
 
 ---
 
@@ -144,16 +142,15 @@ Futurism • 6h ago
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
 
-Pittsburgh Post-Gazette • 9h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -165,21 +162,21 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
-
-At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
-
-CBS News • 17h ago
-
----
-
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 3d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqer0r39xjLZHQhvRjVoFEv0Z9zwbKaUjIk7kaKyrw8EfC12ZVAqIpxT&gaa_ts=696bcd2a&gaa_sig=mEE5tX2vsMlFN-X5U6NvHF2O_z9zuDb5RtWAnIPy2QmUG0hrgzEyB8PKNUNbNCDA2du_D2W7ddLhrQ-mLo5VKw%3D%3D)**
+**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
+
+At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
+
+CBS News • 18h ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcglDVLGvFfv_VUlhkz2ThFa4m8uBvf67LVDjYJ3fNY5eYYFg3URJJx&gaa_ts=696bddfa&gaa_sig=2X8tbuLclqPoxYNgHCXWBYs0xhJD0wbssZrtdbLJHKKzPyFyP7Y4_ZKWDC6bGfBhYBpYo7T5A3CWSPm7HtKFxQ%3D%3D)**
 
 MarketWatch • 2d ago
 

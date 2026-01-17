@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T18:30:22.123373+00:00'
+updated: '2026-01-17T18:53:00.585428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 18:30 UTC  
+**Last Updated:** January 17, 2026 at 18:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +6.4%  
-**30d:** +11.4%  
-**90d:** -16.5%  
-**1y:** +0.5%  
+**24h:** +1.3%  
+**7d:** +6.2%  
+**30d:** +11.2%  
+**90d:** -16.6%  
+**1y:** +0.4%  
 
 ---
 
@@ -150,7 +150,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -200,19 +200,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
-
-Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
-
-Seeking Alpha • 3d ago
-
----
-
 **[Why Is Ethereum Jumping Today?](https://www.nasdaq.com/articles/why-ethereum-jumping-today-0)**
 
 Key PointsU.S. senators introduced draft legislation establishing a clear regulatory framework for crypto.
 
 Nasdaq • 2d ago
+
+---
+
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
+
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
+
+Seeking Alpha • 3d ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Stock Moe
 
-👁️ 5K • 👍 493 • 💬 41 • ⏱️ 15:35 • 4h ago
+👁️ 5K • 👍 493 • 💬 41 • ⏱️ 15:35 • 5h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 696 • 👍 79 • 💬 5 • ⏱️ 4:59 • 3h ago
+👁️ 696 • 👍 79 • 💬 5 • ⏱️ 4:59 • 4h ago
 
 ---
 

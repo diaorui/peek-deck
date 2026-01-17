@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T18:30:22.117279+00:00'
+updated: '2026-01-17T18:53:00.579371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 18:30 UTC  
+**Last Updated:** January 17, 2026 at 18:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,626.71
+### $95,331.45
 
 ---
 
@@ -103,11 +103,17 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 ---
 
+**[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
+
+1h ago
+
+---
+
 **[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-2h ago
+3h ago
 
 ---
 
@@ -119,12 +125,6 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 ---
 
-**[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
-
-1h ago
-
----
-
 **[Asked a similar question yesterday](https://www.reddit.com/r/Bitcoin/comments/1qfahde/asked_a_similar_question_yesterday/)**
 
 Do you think this is still a realistic, positiv scenario today?
@@ -133,17 +133,17 @@ Do you think this is still a realistic, positiv scenario today?
 
 ---
 
+**[Bitcoin's true measure is gold, or dollars ?](https://www.reddit.com/r/Bitcoin/comments/1qfh5wy/bitcoins_true_measure_is_gold_or_dollars/)**
+
+2h ago
+
+---
+
 **[Need more Bitcoin 😩](https://www.reddit.com/r/Bitcoin/comments/1qf1y14/need_more_bitcoin/)**
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
 15h ago
-
----
-
-**[X Visa](https://www.reddit.com/r/Bitcoin/comments/1qfj2qi/x_visa/)**
-
-1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1d ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -171,9 +171,19 @@ Business Insider • 8h ago
 
 ---
 
-**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
+**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
 
-The Block • 1d ago
+Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
+
+CoinDesk • 1d ago
+
+---
+
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+CNBC • 3h ago
 
 ---
 
@@ -185,41 +195,33 @@ CoinDesk • 3h ago
 
 ---
 
-**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
+**[Is Bitcoin a Millionaire Maker?](https://www.fool.com/investing/2026/01/17/is-bitcoin-a-millionaire-maker/)**
 
-Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
+The world's leading cryptocurrency has made early adopters incredibly wealthy.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-CNBC • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqdbT_9K66K3ISQy35dBU1MWTEvBMTp-jyEPHKBnErqMj-djKsYeIqNc&gaa_ts=696bcd26&gaa_sig=_cI892W4p-yngPnm7ZX1r289v74N1XxjA_HLY8HBxJW57BJXDGzt7543SWLWb3UQCvMwwlJWDp_bG4b0Am1DVg%3D%3D)**
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
 
-Barron's • 1d ago
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
----
-
-**[XRP Poised To Move On Its Own, Separate From Bitcoin: CEO](https://www.tradingview.com/news/newsbtc:b8177f924094b:0-xrp-poised-to-move-on-its-own-separate-from-bitcoin-ceo/)**
-
-For a market that usually moves in one direction, some voices are starting to say this time might look a little different. Canary Capital CEO Steven McClurg said XRP could move on a different path from Bitcoin this year, pointing to enterprise use cases as a key reason.He made the remarks during a…
-
-TradingView — Track All Markets • 9h ago
+CoinDesk • 1d ago
 
 ---
 
-**[XRP Reclaims Its Footing as Ripple Expands Real-World Use Cases, Setting Stage for Next Move](https://news.bitcoin.com/xrp-reclaims-its-footing-as-ripple-expands-real-world-use-cases-setting-stage-for-next-move/)**
+**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqcV1Hd3SU0Ujyo-TdYaUyLuk1vwmLD_G6bHTS-2V1JtZlWqppp_2ycF&gaa_ts=696bddf7&gaa_sig=hxYK5InWxP2tDi3jPNTlFK5dNtDb1yAKhutdkTAKhmIGk2ASIH6QIb6Ep35bCVpaN4Td-QNA97WJxTEBtgZ-Hg%3D%3D)**
 
-XRP steadied after defending key support, signaling easing selling pressure as the token consolidates from recent highs, with technical momentum stabilizing and Ripple ecosystem developments offering a supportive backdrop.
+MarketWatch • 1d ago
 
-Bitcoin.com News • 19h ago
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 1d ago
 
 ---
 
@@ -299,7 +301,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 184 • ⏱️ 8:18 • 20h ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 8:18 • 21h ago
 
 ---
 
@@ -379,7 +381,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 133 • 💬 19 • ⏱️ 4:55 • 19h ago
+👁️ 3K • 👍 133 • 💬 19 • ⏱️ 4:55 • 20h ago
 
 ---
 

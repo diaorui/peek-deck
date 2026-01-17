@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T18:30:22.108664+00:00'
+updated: '2026-01-17T18:53:00.570912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - news
 - social
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 18:30 UTC  
+**Last Updated:** January 17, 2026 at 18:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,15 @@ AI news, discussions, and developments
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 3h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 4h ago
 
 ---
 
-**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
+**["I kind of think of ads as like a last resort for us as a business model" - Sam Altman , October 2024](https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 23h ago
+Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
+
+8h ago
 
 ---
 
@@ -59,9 +61,17 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 ---
 
-**[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
+**[Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment](https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 1h ago
+Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
+
+21m ago
+
+---
+
+**[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
+
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 23h ago
 
 ---
 
@@ -70,6 +80,12 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
 13h ago
+
+---
+
+**[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
+
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 1h ago
 
 ---
 
@@ -97,31 +113,43 @@ I analyzed 3,023 enterprise AI use cases to understand what's actually being dep
 
 ---
 
-**[Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.](https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/)**
-
-Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
-
-2d ago
-
----
-
-**[Why does ai do marvels with imaging and realism but is terrible at following text prompts within those images?](https://www.reddit.com/r/artificial/comments/1qe3hw4/why_does_ai_do_marvels_with_imaging_and_realism/)**
-
-By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd2wjsalHqDMu7-wO7ssCbSfkypB35n0ESS8R2o7MihaVj77KS9z--L&gaa_ts=696bddf5&gaa_sig=qRoG-4ytXPMhFSvZKSC79dSG8Pr4nPCp_bnt2QyAXuWwS-IClSsMFyJNCwu1SlfRbe89sWInCO-Ti9tAqZXBIg%3D%3D)**
 
-Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
+The Wall Street Journal • 1h ago
 
-The Guardian • 6h ago
+---
+
+**[AI raises average wages by 21% and substantially reduces' wage inequality, researchers find](https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find)**
+
+Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
+
+Fox Business • 51m ago
+
+---
+
+**[Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026](https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html)**
+
+NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On January 13, Wolfe reiterated the stock as “Outperform,” noting that the idea is its favorite for 2026. Analyst Chris Caso noted that the AI chip maker is being added to the Wolfe Alpha List, replacing Micron. This is despite […]
+
+Yahoo Finance • 59m ago
+
+---
+
+**[Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore](https://finance.yahoo.com/news/apple-aapl-ai-roadmap-strengthens-174853486.html)**
+
+Apple Inc. (NASDAQ:AAPL) is one of the Hot AI Stocks to Keep on Your Radar. On January 12, Evercore ISI analyst Amit Daryanani reiterated an Outperform rating on the stock with a $330.00 price target. Firm analysts highlight Apple’s new AI partnership with Google Gemini, citing monetization upside and custom AI experiences ahead. The firm […]
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+
+The New York Times • 8h ago
 
 ---
 
@@ -133,57 +161,33 @@ The Atlantic • 5h ago
 
 ---
 
-**[AI is driving the rise of contextual advertising](https://www.axios.com/media-trends-membership/2026/01/17/contextual-advertising-live-ai)**
+**[‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward)**
 
-Axios • 1h ago
+Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
----
-
-**[AI investments made AppLovin a Wall Street ad tech darling](https://www.axios.com/media-trends-membership/2026/01/17/wall-street-ad-tech-stock-applovin)**
-
-Axios • 1h ago
+The Guardian • 6h ago
 
 ---
 
-**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+**[Smaller companies are rising quickly to challenge Big Tech as AI 's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
 
-The New York Times • 8h ago
+Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
----
-
-**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
-
-Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
-
-CNBC • 8h ago
+CNBC • 3h ago
 
 ---
 
-**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
+**[Sienna Rose: AI suspicions surround mysterious singer](https://www.bbc.com/news/articles/cq6v83gq66eo)**
 
-OpenAI • 1d ago
+She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.
+
+BBC • 18h ago
 
 ---
 
 **[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
 
 Axios • 4h ago
-
----
-
-**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
-
-Could Siri be the last piece of the puzzle?
-
-The Verge • 3d ago
-
----
-
-**[She runs her company with 17 AI 'employees.' She says there's no going back.](https://www.businessinsider.com/built-steve-jobs-custom-gpt-to-make-my-business-decisions-2026-1)**
-
-Solopreneur Yesim Saydan shares how she trained over 17 custom GPT workers and a Steve Jobs—inspired custom GPT to work for her consultancy agency.
-
-Business Insider • 23h ago
 
 ---
 
@@ -222,13 +226,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 181 • 💬 101 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
-
----
-
-**[Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)](https://news.ycombinator.com/item?id=46620358)**
-
-⬆️ 125 • 💬 23 • 2d ago
+⬆️ 181 • 💬 102 • 1d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -250,7 +248,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 83 • 💬 24 • 15h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 84 • 💬 25 • 15h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -258,7 +256,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 72 • 💬 57 • 5h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 75 • 💬 64 • 5h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -267,6 +265,14 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 Introducing Confer, an end-to-end AI assistant that just works.
 
 ⬆️ 60 • 💬 5 • 1d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+
+---
+
+**[Starlink updates Privacy Policy to allow AI model training with personal data](https://news.ycombinator.com/item?id=46647716)**
+
+Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
+
+⬆️ 53 • 💬 11 • 1d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -658,7 +664,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.8k • 🔱 262 • 13h ago
+⭐ 5.8k • 🔱 262 • 14h ago
 
 ---
 
@@ -678,7 +684,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 164 • 43m ago
+⭐ 2.8k • 🔱 164 • 1h ago
 
 ---
 
@@ -698,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.4k • 5h ago
+⭐ 2.4k • 🔱 2.4k • 6h ago
 
 ---
 
