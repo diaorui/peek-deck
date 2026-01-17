@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T16:46:19.345905+00:00'
+updated: '2026-01-17T17:18:20.670234+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 16:46 UTC  
+**Last Updated:** January 17, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Do you think this is still a realistic, positiv scenario today?
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Do you think this is still a realistic, positiv scenario today?
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 **[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 1h ago
 
 The world's leading cryptocurrency has made early adopters incredibly wealthy.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Motley Fool • 1h ago
 
 This privacy coin is having a moment right now, and it's making investors wonder if it could one-up Bitcoin.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqfURQdJ6Lwlash_vid1byL3_7-IXVN-2U_F2hmHUveOMgBk6RS4M7i2&gaa_ts=696bbb5f&gaa_sig=lMVPGJ50WhAAKSi0Wc_kbzeOKaDkYRv9FyTs_WJrMMo6wCZTuLtTaHcXE1Oy3Wq2pQMGCLNZS_asLo2jZgv80A%3D%3D)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ MarketWatch • 23h ago
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-Mother Jones • 23h ago
+Mother Jones • 1d ago
 
 ---
 
@@ -271,7 +271,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 23h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -391,7 +391,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 4h ago
+👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 5h ago
 
 ---
 
