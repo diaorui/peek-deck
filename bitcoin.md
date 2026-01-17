@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T07:20:06.747950+00:00'
+updated: '2026-01-17T07:40:16.675816+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 07:20 UTC  
+**Last Updated:** January 17, 2026 at 07:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +4.7%  
-**30d:** +8.0%  
-**90d:** -13.8%  
+**24h:** -0.6%  
+**7d:** +4.6%  
+**30d:** +7.9%  
+**90d:** -13.9%  
 **1y:** -8.9%  
 
 ---
@@ -87,25 +87,21 @@ Rank #1
 
 First buy was Dec 2021 $300USD when btc was $47k, 43m Millennial - No fancy strategy, just buy with anything left after bills. I now have enough BTC to pay off my house but I want to sell my house to buy more BTC instead. Stay humble, Stack sats
 
-7h ago
+8h ago
 
 ---
 
 **[Is it true?](https://www.reddit.com/r/Bitcoin/comments/1qedmld/is_it_true/)**
 
-19h ago
+20h ago
 
 ---
 
-**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
+**[Anyone here going all in in BTC and nothing else?](https://www.reddit.com/r/Bitcoin/comments/1qf5geg/anyone_here_going_all_in_in_btc_and_nothing_else/)**
 
-9h ago
+Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
----
-
-**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
-
-18h ago
+1h ago
 
 ---
 
@@ -117,15 +113,9 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
-**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
+**[BTC is the vision](https://www.reddit.com/r/Bitcoin/comments/1qesuvq/btc_is_the_vision/)**
 
-12h ago
-
----
-
-**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
-
-6h ago
+10h ago
 
 ---
 
@@ -137,7 +127,19 @@ Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want more
 
 ---
 
-**[I made a silly game where you have to guess the BTC move from Historical chart snippet](https://www.reddit.com/r/Bitcoin/comments/1qemszk/i_made_a_silly_game_where_you_have_to_guess_the/)**
+**[BTC basically skipping steps this month... just waiting for that $100k comeback in the next one.](https://www.reddit.com/r/Bitcoin/comments/1qeekiw/btc_basically_skipping_steps_this_month_just/)**
+
+19h ago
+
+---
+
+**[Be present. Stay humble stack sats. Don't gamble.](https://www.reddit.com/r/Bitcoin/comments/1qeyeyh/be_present_stay_humble_stack_sats_dont_gamble/)**
+
+6h ago
+
+---
+
+**[Is the 4-Year Cycle Dead?](https://www.reddit.com/r/Bitcoin/comments/1qenycy/is_the_4year_cycle_dead/)**
 
 13h ago
 
@@ -167,11 +169,17 @@ CoinDesk • 18h ago
 
 ---
 
-**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
+**[Jefferies' Wood drops 10% bitcoin allocation over quantum computing fears](https://www.theblock.co/post/385951/jefferies-wood-drops-bitcoin-allocation-over-quantum-computing-fears)**
 
-Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
+The Block • 18h ago
 
-Bitcoin Magazine • 11h ago
+---
+
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -183,7 +191,7 @@ Mother Jones • 14h ago
 
 ---
 
-**['Bear market rally': CryptoQuant breaks down bitcoin's recent price rebound](https://www.theblock.co/post/386021/bear-market-rally-cryptoquant-bitcoin-price-rebound)**
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
 The Block • 11h ago
 
@@ -197,12 +205,6 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 11h ago
-
----
-
 **[DOJ didn't sell Bitcoin forfeited from Samourai case: White House advisor](https://www.tradingview.com/news/cointelegraph:215b41cfd094b:0-doj-didn-t-sell-bitcoin-forfeited-from-samourai-case-white-house-advisor/)**
 
 A White House crypto advisor said he received confirmation from the US Department of Justice that no Bitcoin forfeited from the Samourai case was sold, putting rumors to rest.The confirmation was shared on X by Patrick Witt, Executive Director of the White House President’s Council of Advisors for…
@@ -211,11 +213,11 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Long Bitcoin; Short Silver (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4860552-long-bitcoin-short-silver)**
+**[This 1 Big Reason to Buy Bitcoin Just Got Reaffirmed by President Trump](https://www.fool.com/investing/2026/01/16/this-1-big-reason-to-buy-bitcoin-just-got-reaffirm/)**
 
-Pair trade idea: long Bitcoin (BTC-USD) and short Silver (SLV).
+The president is attacking the independence of the Federal Reserve because it won't implement the policies he wants.
 
-Seeking Alpha • 12h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -235,7 +237,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -291,9 +293,9 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ---
 
-**[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
+**[Politics and the English Language (1946) [pdf]](https://news.ycombinator.com/item?id=46655913)**
 
-⬆️ 2 • 💬 4 • 1d ago
+⬆️ 2 • 💬 0 • 45m ago • [bioinfo.uib.es](https://bioinfo.uib.es/~joemiro/RecEscr/PoliticsandEngLang.pdf)
 
 ---
 
@@ -337,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 149 • ⏱️ 43:25 • 15h ago
+👁️ 22K • 👍 1K • 💬 149 • ⏱️ 43:25 • 16h ago
 
 ---
 
@@ -377,7 +379,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 8h ago
+👁️ 2K • 👍 119 • 💬 31 • ⏱️ 4:55 • 9h ago
 
 ---
 

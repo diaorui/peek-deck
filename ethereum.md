@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T07:20:06.753924+00:00'
+updated: '2026-01-17T07:40:16.681959+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 07:20 UTC  
+**Last Updated:** January 17, 2026 at 07:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +5.3%  
-**30d:** +10.2%  
-**90d:** -17.4%  
-**1y:** -0.6%  
+**24h:** -0.8%  
+**7d:** +5.4%  
+**30d:** +10.3%  
+**90d:** -17.3%  
+**1y:** -0.5%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[2026: the year that we take back lost ground](https://www.reddit.com/r/ethereum/comments/1qer9cy/2026_the_year_that_we_take_back_lost_ground/)**
-
-2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
-
-10h ago
-
----
-
 **[Daily General Discussion January 17, 2026](https://www.reddit.com/r/ethereum/comments/1qf5ctg/daily_general_discussion_january_17_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1h ago
+
+---
+
+**[2026: the year that we take back lost ground](https://www.reddit.com/r/ethereum/comments/1qer9cy/2026_the_year_that_we_take_back_lost_ground/)**
+
+2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
+
+11h ago
 
 ---
 
@@ -108,19 +108,19 @@ I have a 20 hour flight and I want to spend it studying all that I can about blo
 
 ---
 
-**[Need help with Ethereum](https://www.reddit.com/r/ethereum/comments/1qf5kcs/need_help_with_ethereum/)**
-
-I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
-
-1h ago
-
----
-
 **[Ethereal news weekly #7 | Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills](https://www.reddit.com/r/ethereum/comments/1qedycf/ethereal_news_weekly_7_ethereum_must_pass/)**
 
 Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Claude Code skills
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-7/) • 19h ago
+
+---
+
+**[Need help with Ethereum](https://www.reddit.com/r/ethereum/comments/1qf5kcs/need_help_with_ethereum/)**
+
+I'm trying to sell my Maple Finance and Pepe coins to get Solana, but I don't have any Ethereum to pay the tiny network fee, which is only about $0.50-$1, and without it I can't complete the swap. If anyone has a little ETH to sell, I can pay you via PayPal for just enough to cover the fee. Any help would be massively appreciated so I can finally swap my Maple Finance and Pepe coins for Solana. My Ethereum code: 0x145cFB008d208031eF1EE471363d382Bde5389c3
+
+1h ago
 
 ---
 
@@ -153,6 +153,22 @@ The modular token standard.
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
 The Block • 8h ago
+
+---
+
+**[Ethereum Should Strive To Become 'Cryptographically Safe' For 100 Years, Says Vitalik Buterin: Resist The Trap Of 'Ekeing Out More Efficiencies'](https://finance.yahoo.com/news/ethereum-strive-become-cryptographically-safe-233114236.html)**
+
+Vitalik Buterin called for the swift deployment of quantum-resistant technology for Ethereum (CRYPTO: ETH) on Monday, emphasizing its importance for long-term cryptographic safety. Is Efficiency Worth Sacrificing For Security? Buterin took to X to voice his concerns about delaying quantum...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Vitalik Buterin, Sam Altman to attend Bitmine shareholder meeting as firm conducts key vote](https://www.dlnews.com/articles/people-culture/vitalik-buterin-and-sam-altman-to-attend-bitmine-shareholder-meeting/)**
+
+Bitmine will hold its shareholder meeting in Las Vegas today. Vitalik Buterin and Sam Altman are attending.  The meeting centres around a vote to increase the number of new shares Bitmine can issue.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -207,22 +223,6 @@ Yahoo Finance • 1d ago
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
 Seeking Alpha • 2d ago
-
----
-
-**[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
-
-What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
-
-Yahoo Finance • 1d ago
-
----
-
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
-
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
-
-Yahoo Finance • 1d ago
 
 ---
 
