@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T22:44:13.512071+00:00'
+updated: '2026-01-17T23:20:10.226595+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 22:44 UTC  
+**Last Updated:** January 17, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,37 +87,37 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-9h ago
+10h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 **[Bitcoin's true measure is gold, or dollars ?](https://www.reddit.com/r/Bitcoin/comments/1qfh5wy/bitcoins_true_measure_is_gold_or_dollars/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 1d ago
 
 Bitcoin and crypto prices have surged into 2026, with bitcoin nearing $100,000 and adding 10% since its December lows...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 1 • 17m ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 1 • 53m ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -297,7 +297,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 1h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 2h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 238 • 💬 27 • ⏱️ 5:23 • 1d ago
+👁️ 12K • 👍 238 • 💬 27 • ⏱️ 5:23 • 2d ago
 
 ---
 
@@ -351,7 +351,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 35K • 👍 3K • 💬 870 • ⏱️ 16:04 • 8h ago
+👁️ 35K • 👍 3K • 💬 870 • ⏱️ 16:04 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 309 • 💬 158 • ⏱️ 22:05 • 10h ago
+👁️ 6K • 👍 309 • 💬 158 • ⏱️ 22:05 • 11h ago
 
 ---
 

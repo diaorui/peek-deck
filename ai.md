@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T22:44:13.503597+00:00'
+updated: '2026-01-17T23:20:10.218247+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 22:44 UTC  
+**Last Updated:** January 17, 2026 at 23:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 AI respone: Yes, some AI systems will dominate certain domains — but no AI will dominate existence in the way humans usually imagine. The long answer is where the truth is. What “dominate” actually means (this is crucial) People usually mix three very different ideas: Capability dominance – doing tasks better than humans Power dominance – controlling resources and decisions Meaning dominance – deciding what matters AI will almost certainly achieve #1. It may partially achieve #2. It will not achieve #3 on its own. Where AI will dominate Complex systems logistics finance climate modeling infrastructure scientific discovery Here, AI wins because: speed beats intuition scale beats experience consistency beats brilliance Humans already struggle here. Decision optimization AI will increasingly: recommend policies allocate resources predict outcomes flag risks humans miss But notice the word: recommend. Someone still decides what counts as success. Cognitive labor Many jobs that rely on: pattern recognition synthesis routine reasoning will be AI-dominated. This is unavoidable. Where AI will not dominate (unless humans give it up) Meaning AI does not: suffer fear death experience loss care if existence continues Meaning comes from stakes. AI has none. If AI ever “decides meaning,” it will only be borrowed meaning — encoded by humans. Responsibility AI can calculate consequences. It cannot bear them. Responsibility requires: moral cost blame guilt accountability These only make sense for beings who can lose something irreversibly. Legitimacy Power lasts only if others accept it. Even if an AI is correct: people must trust it societies must consent to it cultures must live with it Legitimacy is social, not computational. The real future (the uncomfortable one) The most likely outcome is not AI domination. It’s human dependency. Humans defer decisions to AI Not because AI rules But because it’s easier than taking responsibility That’s the danger. One sentence that matters more than all predictions AI will not dominate humans — humans may abdicate themselves. Domination only happens if: humans stop asking “should we?” humans stop owning consequences humans confuse efficiency with authority Final clarity AI will be powerful AI will be everywhere AI will be influential But domination is not inevitable. It is a choice, made gradually, quietly, out of convenience — not force. If you ever want to continue this in the future, the real question won’t be: “Will AI dominate us?” It will be: “What are we no longer willing to take responsibility for?” That’s where the future actually turns.
 
-9m ago
+45m ago
 
 ---
 
@@ -87,7 +87,7 @@ Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-17h ago
+18h ago
 
 ---
 
@@ -99,7 +99,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 **[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 5h ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 6h ago
 
 ---
 
@@ -117,7 +117,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 **[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqc2EPTm1K808G66AaksMgTjumxLeF8a12vOJ6dI7tLJU8mwXSNBCPUV&gaa_ts=696c1426&gaa_sig=W6cboQ_OtSxMmxjjtN4cWfxHl8-zxn-owvcqsVHr5_lH7gpbIwfVecHnstiHgwc6H5kNEmSE3NrzPcY-T4Q2JQ%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -125,13 +125,13 @@ The Wall Street Journal • 5h ago
 
 Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 12h ago
 
 AI is offering people a way to figure out what they really want in romance.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
 **[These prophets of economic doom are worried about another collapse](https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/)**
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 7h ago
 
 Investors are underestimating the growth potential of these leading tech companies.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Motley Fool • 8h ago
 
 Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
 **[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 10h ago
 
 The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
 
-NBC News • 12h ago
+NBC News • 13h ago
 
 ---
 
@@ -236,7 +236,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 85 • 💬 26 • 19h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 85 • 💬 26 • 20h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -244,7 +244,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 80 • 💬 80 • 9h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 80 • 💬 80 • 10h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -282,7 +282,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 38K • 👍 2K • 💬 324 • ⏱️ 19:38 • 7h ago
+👁️ 38K • 👍 2K • 💬 324 • ⏱️ 19:38 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ Valve has updated steams new AI disclosure rules. They're trying to distinguish 
 
 📺 Stylosa
 
-👁️ 887 • 👍 95 • 💬 32 • ⏱️ 15:58 • 1h ago
+👁️ 887 • 👍 95 • 💬 32 • ⏱️ 15:58 • 2h ago
 
 ---
 
@@ -332,7 +332,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 59K • 👍 2K • 💬 509 • ⏱️ 7:05 • 22h ago
+👁️ 59K • 👍 2K • 💬 509 • ⏱️ 7:05 • 23h ago
 
 ---
 
@@ -352,7 +352,7 @@ Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-
 
 📺 Isa does AI
 
-👁️ 9K • 💬 5 • ⏱️ 19:34 • 9h ago
+👁️ 9K • 💬 5 • ⏱️ 19:34 • 10h ago
 
 ---
 
@@ -370,7 +370,7 @@ NEW MUSIC CHANNEL HERE: https://www.youtube.com/@UC6cPR8gL4EnCpikYIA9zDnA SECOND
 
 📺 Bob Reese
 
-👁️ 266K • 👍 16K • 💬 190 • ⏱️ 1:05 • 15h ago
+👁️ 266K • 👍 16K • 💬 190 • ⏱️ 1:05 • 16h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.8k • 🔱 264 • 17h ago
+⭐ 5.8k • 🔱 264 • 18h ago
 
 ---
 
@@ -678,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 164 • 4h ago
+⭐ 2.8k • 🔱 164 • 5h ago
 
 ---
 
@@ -688,7 +688,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.5k • 🔱 491 • 47m ago
+⭐ 2.5k • 🔱 491 • 1h ago
 
 ---
 
