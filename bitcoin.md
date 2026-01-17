@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-17T17:41:17.754193+00:00'
+updated: '2026-01-17T18:30:22.117279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 17:41 UTC  
+**Last Updated:** January 17, 2026 at 18:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1907.78B
+**Market Cap:** $1905.97B
 Rank #1
 
-**Circulating Supply:** 19,977,034 BTC
+**Circulating Supply:** 19,977,103 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.2%
+-24.3%
 
 **All-Time Low:** $67.81
-+140756.8%
++140602.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-4h ago
+5h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -115,13 +115,13 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Hello, I just want to know how you are managing your finances and your lifestyle. Did anyone here just stop investing in index funds and stocks and just go all in on BTC?
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hello, I just want to know how you are managing your finances and your lifestyle
 
 Do you think this is still a realistic, positiv scenario today?
 
-6h ago
+7h ago
 
 ---
 
@@ -137,13 +137,13 @@ Do you think this is still a realistic, positiv scenario today?
 
 Need more Bitcoin…. Currently have about $25,000 in bitcoin 😩 but want moreeeeee. Credit goes to Blossom for this meme. Invest invest invest
 
-14h ago
+15h ago
 
 ---
 
 **[X Visa](https://www.reddit.com/r/Bitcoin/comments/1qfj2qi/x_visa/)**
 
-18m ago
+1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 1d ago
 
 The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 2h ago
 
 Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 1d ago
 
 For a market that usually moves in one direction, some voices are starting to say this time might look a little different. Canary Capital CEO Steven McClurg said XRP could move on a different path from Bitcoin this year, pointing to enterprise use cases as a key reason.He made the remarks during a…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -219,7 +219,7 @@ TradingView — Track All Markets • 8h ago
 
 XRP steadied after defending key support, signaling easing selling pressure as the token consolidates from recent highs, with technical momentum stabilizing and Ripple ecosystem developments offering a supportive backdrop.
 
-Bitcoin.com News • 18h ago
+Bitcoin.com News • 19h ago
 
 ---
 
@@ -299,17 +299,17 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 195 • ⏱️ 8:18 • 19h ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 8:18 • 20h ago
 
 ---
 
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
 
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
 
-📺 What Bitcoin Did
+📺 Altcoin Daily
 
-👁️ 20K • 👍 969 • 💬 261 • ⏱️ 1:13:07 • 1d ago
+👁️ 50K • 👍 3K • 💬 258 • ⏱️ 16:02 • 1d ago
 
 ---
 
@@ -319,17 +319,27 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 212 • 💬 33 • ⏱️ 5:23 • 1d ago
+👁️ 11K • 👍 222 • 💬 30 • ⏱️ 5:23 • 1d ago
 
 ---
 
-**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
 
-LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
 
-📺 Altcoin Daily
+📺 What Bitcoin Did
 
-👁️ 65K • 👍 3K • 💬 211 • ⏱️ 11:32 • 1d ago
+👁️ 21K • 👍 1K • 💬 256 • ⏱️ 1:13:07 • 1d ago
+
+---
+
+**[Is Bitcoin Being Manipulated? Here’s Who’s Pulling The Strings](https://www.youtube.com/watch?v=W-O-Nx4nWrc)**
+
+Bitcoin #Crypto #Finance Bitcoin's price action is raising uncomfortable questions as capital floods in, regulation stalls, and power ...
+
+📺 The Wolf Of All Streets
+
+👁️ 23K • 👍 1K • 💬 356 • ⏱️ 34:46 • 1d ago
 
 ---
 
@@ -339,7 +349,27 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 4K • 💬 195 • ⏱️ 18:18 • 1d ago
+👁️ 76K • 👍 5K • 💬 202 • ⏱️ 18:18 • 1d ago
+
+---
+
+**[&#39;DANGEROUS&#39;: Coinbase CEO warns banks are undermining Trump&#39;s crypto agenda](https://www.youtube.com/watch?v=weJSr63HJLI)**
+
+Coinbase CEO Brian Armstrong explains his opposition to the Clarity Act on 'Mornings with Maria.' #foxbusiness ...
+
+📺 Fox Business
+
+👁️ 198K • 👍 5K • 💬 1K • ⏱️ 18:09 • 1d ago
+
+---
+
+**[BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What It Means for YOU](https://www.youtube.com/watch?v=-iq6ZsN7Dm0)**
+
+BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What It Means for BITCOIN The banks are ...
+
+📺 CryptoWendyO
+
+👁️ 20K • 👍 1K • 💬 47 • ⏱️ 3:57 • 20h ago
 
 ---
 
@@ -349,17 +379,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 132 • 💬 21 • ⏱️ 4:55 • 19h ago
-
----
-
-**[NO ONE IS SELLING THEIR BITCOIN](https://www.youtube.com/watch?v=amV45dVqqt8)**
-
-No one is selling their Bitcoin—and that supply shock could be massive for crypto markets. In today's crypto news, we break down ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 68 • 💬 3 • ⏱️ 0:11 • 2d ago
+👁️ 3K • 👍 133 • 💬 19 • ⏱️ 4:55 • 19h ago
 
 ---
 
@@ -369,27 +389,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 139K • 👍 2K • 💬 465 • ⏱️ 5:15 • 1d ago
-
----
-
-**[Coinbase JUST DESTROYED NEW Bill but NOT For The Reasons You Think...| EP 1419](https://www.youtube.com/watch?v=YRfBxNahPW0)**
-
-Coinbase pulls out of the highly anticipated crypto financial markup bill completely derailing progress - good or bad?
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 415 • 💬 49 • ⏱️ 1:31:47 • 1d ago
-
----
-
-**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
-
-BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 5h ago
+👁️ 143K • 👍 2K • 💬 469 • ⏱️ 5:15 • 2d ago
 
 ---
 

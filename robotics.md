@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T17:41:17.763543+00:00'
+updated: '2026-01-17T18:30:22.126617+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 17:41 UTC  
+**Last Updated:** January 17, 2026 at 18:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-7h ago
+8h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-30m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ Hey there! I’m exploring options for robotic barista machines (coffee robots) 
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-2h ago
+3h ago
 
 ---
 
 **[Yay! My Unitree Go2 learned to climb stairs](https://www.reddit.com/r/robotics/comments/1qeu2y8/yay_my_unitree_go2_learned_to_climb_stairs/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 2d ago
 
 Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
 
-Crunchbase News • 2d ago
+Crunchbase News • 3d ago
 
 ---
 
@@ -138,7 +138,7 @@ Crunchbase News • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 5h ago
+Futurism • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg • 2d ago
 You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
-Pittsburgh Post-Gazette • 8h ago
+Pittsburgh Post-Gazette • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Nikkei Asia • 2d ago
 
 At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -195,7 +195,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 119K • 👍 6K • 💬 2K • ⏱️ 19:17 • 1d ago
+👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 105K • 👍 5K • 💬 313 • ⏱️ 17:36 • 2d ago
+👁️ 117K • 👍 5K • 💬 316 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 165K • 👍 2K • 💬 401 • ⏱️ 11:46 • 6d ago
+👁️ 167K • 👍 2K • 💬 402 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -225,7 +225,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 457K • 👍 14K • 💬 805 • ⏱️ 17:09 • 5d ago
+👁️ 459K • 👍 14K • 💬 808 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -233,7 +233,15 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 340K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 350K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 128K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
 
 ---
 
@@ -243,7 +251,27 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 244K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+👁️ 245K • 👍 15K • 💬 3K • ⏱️ 5:12 • 3d ago
+
+---
+
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 16K • 👍 125 • 💬 10 • ⏱️ 0:12 • 6d ago
+
+---
+
+**[Japan&#39;s Military Robot Dogs Train to Protect Paratroopers #airobot #robot #robotics #defensetech](https://www.youtube.com/watch?v=V5R1g_raTvA)**
+
+Japan is training robotic dogs for airborne assault. Recent footage from Japan's Ground Self-Defense Force (JGSDF) shows the ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:45 • 4h ago
 
 ---
 
@@ -254,34 +282,6 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 📺 KhanFlicks
 
 👁️ 26K • 💬 16 • ⏱️ 6:37 • 2d ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 39 • 💬 4 • ⏱️ 3:19 • 1d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 127K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
-
----
-
-**[NOBODY Uses These Anymore... 5x Bane Corroding Robots Into Dust | War Robots](https://www.youtube.com/watch?v=tB7LeP4eorY)**
-
-Stryx Bane with insane acid power. This is one of the only Stryx builds I've never tried, until now. The Bane are almost extinct now ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 418 • 💬 55 • ⏱️ 15:23 • 1d ago
 
 ---
 

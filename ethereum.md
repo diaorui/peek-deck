@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-17T17:41:17.760263+00:00'
+updated: '2026-01-17T18:30:22.123373+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 17, 2026 at 17:41 UTC  
+**Last Updated:** January 17, 2026 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.54B
+**Market Cap:** $400.48B
 Rank #2
 
 **Circulating Supply:** 120,694,601 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.8%
+-32.9%
 
 **All-Time Low:** $0.43
-+767766.3%
++766281.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
 
-21h ago
+22h ago
 
 ---
 
 **[What's the best city of 30k-50k population east of the Mississippi to live just outside of?](https://www.reddit.com/r/ethereum/comments/1qfiics/whats_the_best_city_of_30k50k_population_east_of/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-18h ago
+19h ago
 
 ---
 
@@ -150,7 +150,7 @@ Element a leading global Testing, Inspection and Certification company is using 
 
 **[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -228,23 +228,13 @@ This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin.
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
+**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
 
-BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
 
-📺 Crypto World
+📺 Paul Barron Network
 
-👁️ 2K • 👍 211 • 💬 83 • ⏱️ 22:05 • 5h ago
-
----
-
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 5K • 👍 155 • 💬 30 • ⏱️ 24:55 • 20h ago
+👁️ 6K • 👍 678 • 💬 52 • ⏱️ 10:28 • 1h ago
 
 ---
 
@@ -254,17 +244,37 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 Stock Moe
 
-👁️ 2K • 👍 327 • 💬 15 • ⏱️ 15:35 • 4h ago
+👁️ 5K • 👍 493 • 💬 41 • ⏱️ 15:35 • 4h ago
 
 ---
 
-**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 18K • 👍 678 • 💬 46 • ⏱️ 16:47 • 1d ago
+👁️ 4K • 👍 264 • 💬 84 • ⏱️ 22:05 • 6h ago
+
+---
+
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
+
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
+
+📺 CoinDesk
+
+👁️ 6K • 👍 178 • 💬 30 • ⏱️ 24:55 • 21h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 17th of January](https://www.youtube.com/watch?v=vpkd8jNtqDs)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 138 • 👍 22 • 💬 4 • ⏱️ 14:00 • 1h ago
 
 ---
 
@@ -274,7 +284,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 277 • 👍 31 • 💬 3 • ⏱️ 4:59 • 3h ago
+👁️ 696 • 👍 79 • 💬 5 • ⏱️ 4:59 • 3h ago
+
+---
+
+**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 19K • 👍 698 • 💬 44 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -284,17 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 6 • ⏱️ 4:27 • 11h ago
-
----
-
-**[ETHEREUM XRP HOLDERS 🚨 I JUST BOUGHT THIS TODAY](https://www.youtube.com/watch?v=KQOQ2J2C81Q)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 7K • 👍 527 • 💬 16 • ⏱️ 14:06 • 20h ago
+👁️ 2K • 👍 123 • 💬 6 • ⏱️ 4:27 • 12h ago
 
 ---
 
@@ -304,27 +314,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 175 • 💬 250 • ⏱️ 15:03 • 1d ago
+👁️ 5K • 👍 180 • 💬 246 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[BTC to $180K, ETH to $10K? Altcoin Daily’s 2026 Outlook](https://www.youtube.com/watch?v=hDJuU6iH0dE)**
+**[THIS Will Trigger The LARGEST Crypto Bull Run EVER! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=Pd4E2Otg72Q)**
 
-In this interview, Aaron Arnold from Altcoin Daily shares his 2026 crypto outlook, breaking down Bitcoin and Ethereum price ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily On-Chain Analysis & Crypto News ...
 
-📺 Cointelegraph
+📺 Library Of Wealth
 
-👁️ 6K • 👍 322 • 💬 64 • ⏱️ 22:38 • 1d ago
-
----
-
-**[Crypto is Absolutely Done (MAJOR Legislation FAIL in Congress)](https://www.youtube.com/watch?v=PW7eFGoF-0k)**
-
-LIMITED TIME: CoinW ($150 Bonus): http://www.coinw.com/module/altcoin-daily?r=26418586 Join CoinW KOL community ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 3K • 💬 211 • ⏱️ 11:32 • 1d ago
+👁️ 5K • 👍 207 • 💬 137 • ⏱️ 15:10 • 2d ago
 
 ---
 

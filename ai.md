@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-17T17:41:17.745507+00:00'
+updated: '2026-01-17T18:30:22.108664+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 17, 2026 at 17:41 UTC  
+**Last Updated:** January 17, 2026 at 18:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 **[Here it comes - Ads on ChatGPT](https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/)**
 
-🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 22h ago
+🔗 [openai.com](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) • 23h ago
 
 ---
 
@@ -55,13 +55,13 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 ChatGPT is preparing to show targeted ads to free users. Learn how the ads will work, who will see them, privacy concerns, and what it means for everyday users.
 
-🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 14h ago
+🔗 [techputs](https://techputs.com/chatgpt-targeted-ads-free-users/) • 15h ago
 
 ---
 
 **[Tesla deploys over 1,000 Optimus robots in factories](https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/)**
 
-🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 33m ago
+🔗 [perplexity.ai](https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug) • 1h ago
 
 ---
 
@@ -69,7 +69,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] OpenAI to begin testing ads on ChatGPT in the U.S.[2] AI system aims to detect roadway hazards for TxDOT.[3] Trump wants Big Tech to pay $15 billion to fund new power plants.[4] Sources: [1] https://www.nature.com/articles/s44460-025-00006-y [2] https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html [3] https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/ [4] https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/
 
-12h ago
+13h ago
 
 ---
 
@@ -77,7 +77,7 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ By text prompts I mean if I wanted part of my video/image to say a certain word 
 
 Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -129,25 +129,25 @@ The Guardian • 5h ago
 
 AI is offering people a way to figure out what they really want in romance.
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
 **[AI is driving the rise of contextual advertising](https://www.axios.com/media-trends-membership/2026/01/17/contextual-advertising-live-ai)**
 
-Axios • 33m ago
+Axios • 1h ago
 
 ---
 
 **[AI investments made AppLovin a Wall Street ad tech darling](https://www.axios.com/media-trends-membership/2026/01/17/wall-street-ad-tech-stock-applovin)**
 
-Axios • 36m ago
+Axios • 1h ago
 
 ---
 
 **[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -155,19 +155,19 @@ The New York Times • 7h ago
 
 Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
 
-OpenAI • 23h ago
+OpenAI • 1d ago
 
 ---
 
 **[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Axios • 3h ago
 
 Could Siri be the last piece of the puzzle?
 
-The Verge • 2d ago
+The Verge • 3d ago
 
 ---
 
@@ -183,7 +183,7 @@ The Verge • 2d ago
 
 Solopreneur Yesim Saydan shares how she trained over 17 custom GPT workers and a Steve Jobs—inspired custom GPT to work for her consultancy agency.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -250,7 +250,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 --
 
-⬆️ 83 • 💬 24 • 14h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 83 • 💬 24 • 15h ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -258,7 +258,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 72 • 💬 57 • 4h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 72 • 💬 57 • 5h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -274,23 +274,33 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 ## YouTube Videos: "ai"
 
-**[I Tried Every 2026 AI Video Generator (These Win)](https://www.youtube.com/watch?v=_m7rI6RZkSc)**
+**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
 
-Access the BEST Video Models in OpenArt https://roboverse-ai.com/AI-Video-2026 In this video, I test the five AI video ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
 
-📺 Roboverse
+📺 Julia McCoy
 
-👁️ 3K • 💬 5 • ⏱️ 15:43 • 3h ago
+👁️ 10K • 👍 1K • 💬 157 • ⏱️ 19:38 • 3h ago
 
 ---
 
-**[Ed Zitron: At least a quarter of AI data centres will go unused](https://www.youtube.com/watch?v=rsCGisbz04Y)**
+**[I let AI find the business. Make the ads. I print $10k/day. (this feels illegal)](https://www.youtube.com/watch?v=MJQFfZkuqS4)**
 
-I believe, at the very best, that a quarter of datacenter are going under.” It's very concerning that we're this far into the AI buildout ...
+Copy this method to create a business that prints money using AI. Sabri Suby AI Service Business Research Prompt: ...
 
-📺 The Tech Report
+📺 Sabri Suby
 
-👁️ 17K • 👍 874 • 💬 274 • ⏱️ 26:53 • 23h ago
+👁️ 9K • 👍 514 • 💬 27 • ⏱️ 51:44 • 23h ago
+
+---
+
+**[AI News: Claude Can Now Control Your Computer!](https://www.youtube.com/watch?v=a_T5fjA2ulY)**
+
+Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was supposed to be a light news week. It absolutely ...
+
+📺 Matt Wolfe
+
+👁️ 11K • 👍 719 • 💬 59 • ⏱️ 31:10 • 4h ago
 
 ---
 
@@ -300,17 +310,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 161K • 👍 4K • 💬 912 • ⏱️ 10:04 • 23h ago
-
----
-
-**[Trump calls emergency as AI bubble crashes](https://www.youtube.com/watch?v=_JWRQdWHZlQ)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 14:15 • 21h ago
+👁️ 173K • 👍 4K • 💬 958 • ⏱️ 10:04 • 1d ago
 
 ---
 
@@ -320,7 +320,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 35K • 👍 1K • 💬 345 • ⏱️ 7:05 • 17h ago
+👁️ 45K • 👍 1K • 💬 425 • ⏱️ 7:05 • 18h ago
 
 ---
 
@@ -330,7 +330,17 @@ Elon Musk is promising a world of abundance under AI rule. Wosny Lambre and Yasm
 
 📺 The Young Turks
 
-👁️ 18K • 👍 501 • 💬 406 • ⏱️ 9:43 • 1d ago
+👁️ 19K • 👍 510 • 💬 409 • ⏱️ 9:43 • 1d ago
+
+---
+
+**[GTA 5 but it’s in Venezuela (AI Real Life Graphics) - Reimagined by AI](https://www.youtube.com/watch?v=JaUgUaelI2c)**
+
+Made using: https://app.mago.studio/?via=aillusory Grand Theft Auto V (GTA 5) Gameplay in Venezuela - Reimagined by AI ...
+
+📺 Aillusory
+
+👁️ 4K • 👍 255 • 💬 58 • ⏱️ 1:40 • 1d ago
 
 ---
 
@@ -340,37 +350,27 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 119K • 👍 6K • 💬 2K • ⏱️ 19:17 • 1d ago
+👁️ 129K • 👍 7K • 💬 2K • ⏱️ 19:17 • 1d ago
 
 ---
 
-**[Learn AI or Be Replaced](https://www.youtube.com/watch?v=6BjWPtof2Oc)**
+**[This Stock Is Quietly Dominating AI (And It’s Not Nvidia)❗](https://www.youtube.com/watch?v=09-3SZYGKBk)**
 
-There's a scene in the 2005 Charlie and the Chocolate Factory that I think about a lot lately. Charlie's father works at a toothpaste ...
+JOIN JERRY'S PATREON with TRADE ALERTS: https://www.patreon.com/jerryromine Everyone's watching Nvidia. But the ...
 
-📺 Real Life Fake Wizard
+📺 Jerry Romine Stocks
 
-👁️ 14K • 👍 2K • 💬 776 • ⏱️ 24:24 • 22h ago
-
----
-
-**[The AI coding boom hits software](https://www.youtube.com/watch?v=FkmuyUTZvXU)**
-
-Aaron Levie, Box CEO, joins 'The Exchange' to discuss the start to the year for software stocks, the power of AI agents and much ...
-
-📺 CNBC Television
-
-👁️ 26K • 👍 266 • 💬 39 • ⏱️ 6:40 • 1d ago
+👁️ 15K • 👍 1K • 💬 103 • ⏱️ 9:18 • 5h ago
 
 ---
 
-**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
+**[How to Make Music Videos with AI | Full Course](https://www.youtube.com/watch?v=V15sxYf30sk)**
 
-A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
+Create Beautiful Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-23 In this video, I walk you through the ...
 
-📺 AI Explained
+📺 Isa does AI
 
-👁️ 81K • 👍 3K • 💬 396 • ⏱️ 19:03 • 3d ago
+👁️ 7K • 💬 5 • ⏱️ 19:34 • 5h ago
 
 ---
 
@@ -386,7 +386,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,001 • ❤️ 785 • 2d ago
+⬇️ 6,001 • ❤️ 787 • 2d ago
 
 ---
 
@@ -398,7 +398,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 51,009 • ❤️ 718 • 10d ago
+⬇️ 51,009 • ❤️ 724 • 10d ago
 
 ---
 
@@ -410,7 +410,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,463,289 • ❤️ 1,113 • 2d ago
+⬇️ 1,463,289 • ❤️ 1,116 • 3d ago
 
 ---
 
@@ -422,7 +422,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,406 • ❤️ 320 • 3d ago
+⬇️ 1,406 • ❤️ 321 • 3d ago
 
 ---
 
@@ -434,7 +434,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 5,382 • ❤️ 255 • 2d ago
+⬇️ 5,382 • ❤️ 263 • 2d ago
 
 ---
 
@@ -444,7 +444,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 18,894 • ❤️ 253 • 2d ago
+⬇️ 18,894 • ❤️ 258 • 2d ago
 
 ---
 
@@ -456,7 +456,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 17,417 • ❤️ 247 • 2d ago
+⬇️ 17,417 • ❤️ 249 • 2d ago
 
 ---
 
@@ -468,7 +468,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 11,904 • ❤️ 275 • 11d ago
+⬇️ 11,904 • ❤️ 276 • 11d ago
 
 ---
 
@@ -492,7 +492,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 2,591 • ❤️ 162 • 2d ago
+⬇️ 2,591 • ❤️ 165 • 2d ago
 
 ---
 
@@ -556,7 +556,7 @@ Urban socio-semantic segmentation is achieved through a vision-language model fr
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 121 • 💬 3 • ⭐ 2,615 • 11d ago
+▲ 121 • 💬 3 • ⭐ 2,645 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -583,7 +583,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 2 • ⭐ 1,213 • 12d ago
+▲ 28 • 💬 2 • ⭐ 1,232 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -622,7 +622,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 30 • 💬 1 • ⭐ 67,698 • 28mo ago
+▲ 30 • 💬 1 • ⭐ 67,723 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -638,7 +638,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 4h ago
+⭐ 8.9k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 337 • 23h ago
+⭐ 7.1k • 🔱 337 • 1d ago
 
 ---
 
@@ -658,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 257 • 12h ago
+⭐ 5.8k • 🔱 262 • 13h ago
 
 ---
 
@@ -668,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 610 • 9d ago
+⭐ 4.6k • 🔱 611 • 9d ago
 
 ---
 
@@ -678,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 163 • 8h ago
+⭐ 2.8k • 🔱 164 • 43m ago
 
 ---
 
@@ -688,7 +688,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.5k • 🔱 484 • 1d ago
+⭐ 2.5k • 🔱 488 • 1d ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.4k • 🔱 2.3k • 5h ago
+⭐ 2.4k • 🔱 2.4k • 5h ago
 
 ---
 
@@ -708,7 +708,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.2k • 🔱 245 • 1d ago
+⭐ 2.2k • 🔱 246 • 1d ago
 
 ---
 
@@ -728,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 243 • 1d ago
+⭐ 1.6k • 🔱 245 • 1d ago
 
 ---
 
