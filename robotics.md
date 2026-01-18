@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-17T23:41:02.758545+00:00'
+updated: '2026-01-18T01:57:23.488123+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 17, 2026 at 23:41 UTC  
+**Last Updated:** January 18, 2026 at 01:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-13h ago
+15h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-6h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-8h ago
+10h ago
 
 ---
 
@@ -78,17 +78,11 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
-**[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
-
-7h ago
-
----
-
 **[Robotic baristas & ice cream makers](https://www.reddit.com/r/robotics/comments/1qfh8xz/robotic_baristas_ice_cream_makers/)**
 
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
-7h ago
+9h ago
 
 ---
 
@@ -106,15 +100,23 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ---
 
+**[[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe.](https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/)**
+
+There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
+**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
 
-Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
+Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-TechCrunch • 3d ago
+Futurism • 13h ago
 
 ---
 
@@ -132,6 +134,14 @@ Bloomberg • 2d ago
 
 ---
 
+**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
+
+Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
+
+TechCrunch • 3d ago
+
+---
+
 **[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
 
 Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
@@ -140,33 +150,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[China leads world in robotics and other physical AI patents: analysis](https://asia.nikkei.com/business/technology/artificial-intelligence/china-leads-world-in-robotics-and-other-physical-ai-patents-analysis)**
+**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
 
-US companies close 2nd in emerging artificial intelligence race, South Korea distant 3rd
+Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
 
-Nikkei Asia • 2d ago
-
----
-
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
-
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
-
-Futurism • 11h ago
-
----
-
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
-
-GeekWire • 3d ago
-
----
-
-**[Pittsburgh researchers developing lifesaving robot "dogs"](https://www.cbsnews.com/news/pittsburgh-researchers-carnegie-mellon-life-saving-robot-dogs/)**
-
-At Carnegie Mellon University in Pittsburgh, researchers are hard at work developing robot "dogs" designed to assist in situations too dangerous for humans to help.
-
-CBS News • 22h ago
+Automotive News • 2d ago
 
 ---
 
@@ -178,11 +166,26 @@ The Motley Fool • 1d ago
 
 ---
 
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqefSaqdLTKUi-__tv1v0Z6Wfc1Jfa0YS0VvTIh8To_wHuvDH7EtugQp&gaa_ts=696c4171&gaa_sig=X97LfgPfkkmMe_mftmb47iJd8XJ4YlW2Ht3eH3qTD6z0QilonUbkYGVPNQ3CSlLrCYI36Iq0cEf7c8CVDIE_4A%3D%3D)**
+
+MarketWatch • 3d ago
+
+---
+
 **[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
 
 Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
 
 Crunchbase News • 3d ago
+
+---
+
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 16h ago
 
 ---
 
@@ -196,7 +199,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 119K • 👍 5K • 💬 325 • ⏱️ 17:36 • 3d ago
+👁️ 121K • 👍 5K • 💬 325 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -206,7 +209,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 145K • 👍 8K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 159K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -216,7 +219,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 168K • 👍 2K • 💬 403 • ⏱️ 11:46 • 6d ago
+👁️ 169K • 👍 2K • 💬 404 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -226,7 +229,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 461K • 👍 14K • 💬 810 • ⏱️ 17:09 • 5d ago
+👁️ 462K • 👍 14K • 💬 810 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -234,7 +237,25 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 357K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 364K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 134K • 👍 2K • 💬 68 • ⏱️ 1:16 • 4d ago
+
+---
+
+**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
+
+Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
+
+📺 The Military Show
+
+👁️ 200K • 👍 5K • 💬 249 • ⏱️ 23:16 • 11h ago
 
 ---
 
@@ -244,15 +265,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 129 • 💬 10 • ⏱️ 0:12 • 6d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 131K • 👍 1K • 💬 67 • ⏱️ 1:16 • 4d ago
+👁️ 16K • 👍 130 • 💬 10 • ⏱️ 0:12 • 6d ago
 
 ---
 
@@ -266,23 +279,13 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Japan&#39;s Military Robot Dogs Train to Protect Paratroopers #airobot #robot #robotics #defensetech](https://www.youtube.com/watch?v=V5R1g_raTvA)**
-
-Japan is training robotic dogs for airborne assault. Recent footage from Japan's Ground Self-Defense Force (JGSDF) shows the ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 22 • 💬 4 • ⏱️ 0:45 • 9h ago
-
----
-
 **[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
 Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
 📺 joeybtoonz
 
-👁️ 247K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+👁️ 248K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
 
 ---
 
