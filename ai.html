@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-18T11:39:11.591404+00:00"
+          "dateModified": "2026-01-18T12:42:22.029313+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,39 +649,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qg6eef/anyone_remember_that_video_of_a_woman_burned/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qg6eef/anyone_remember_that_video_of_a_woman_burned/" target="_blank" onclick="event.stopPropagation();">Anyone remember that video of a woman burned alive in a NYC subway? Well… was that whole story an AI psyop?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The video was unusual and highly distressing. The whole thing raised many questions about the police response. The woman was the victim, was apparently identified as “Debbie”. Nothing was ever found of her, and the news outlets never reported any follow-ups. Was the whole thing real? Or could it have been a plan to test the realness of AI’s capabilities?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768736122.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfwq9w/a_new_ai_assistant_with_gemini/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1007,6 +974,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/" target="_blank" onclick="event.stopPropagation();">We gave Claude access to messages left by previous Claudes. Here's what happened and how to replicate it.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768586804.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1030,7 +1030,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T11:38:44.934843+00:00">Updated 2026-01-18T11:38:44.934843+00:00</small>
+        <small data-timestamp="2026-01-18T12:41:54.153991+00:00">Updated 2026-01-18T12:41:54.153991+00:00</small>
     </div>
 </div>
 
@@ -1216,14 +1216,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfQD9olCf2kihQOX7qh3rNuxtjYEyUBEtAUVqMYkiY0TrJ5kCULqBD9&gaa_ts=696cc9c7&gaa_sig=Gigy9XLXTXT_LxLI-YqLJyTxZHTJGWxPHrXmWxqYDSEeowddn9zUmGHETKsDvMhDVykPF-pWz2SEHaXlTm2vPg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdGAdYleE1kKKLHa6IBgMLzIXRvxvXKfQ5Q-3DLSdkMRhfz8-JVWoyV&gaa_ts=696cd895&gaa_sig=B40E9eS_WAxYYx_4xtD8lbnf7oD_Vwuvz4KbhY8esQ1VRdDNg1qUiY3nuPbEYLNIDJkPuR25fCYu_VxFMlD1kA%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfQD9olCf2kihQOX7qh3rNuxtjYEyUBEtAUVqMYkiY0TrJ5kCULqBD9&gaa_ts=696cc9c7&gaa_sig=Gigy9XLXTXT_LxLI-YqLJyTxZHTJGWxPHrXmWxqYDSEeowddn9zUmGHETKsDvMhDVykPF-pWz2SEHaXlTm2vPg%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdGAdYleE1kKKLHa6IBgMLzIXRvxvXKfQ5Q-3DLSdkMRhfz8-JVWoyV&gaa_ts=696cd895&gaa_sig=B40E9eS_WAxYYx_4xtD8lbnf7oD_Vwuvz4KbhY8esQ1VRdDNg1qUiY3nuPbEYLNIDJkPuR25fCYu_VxFMlD1kA%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1294,14 +1294,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.fastcompany.com/91465858/the-answer-to-ai-in-music-isnt-suppression-its-data-technology-ai-music', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html" target="_blank" onclick="event.stopPropagation();">The Sunday Daily: Hollywood’s A.I. Moment</a>
+                            <a href="https://www.fastcompany.com/91465858/the-answer-to-ai-in-music-isnt-suppression-its-data-technology-ai-music" target="_blank" onclick="event.stopPropagation();">The answer to AI in music isn’t suppression. It’s data</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1313,9 +1313,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fast Company" class="news-favicon">
+                                    <a href="https://www.fastcompany.com" target="_blank" onclick="event.stopPropagation();">Fast Company</a>
                                     
                                 </div>
                                 
@@ -1323,7 +1323,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768734008.0"></span>
+                                    <span data-timestamp="1768739012.0"></span>
                                 </div>
                                 
                             </div>
@@ -1372,21 +1372,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/strong-analyst-sentiment-advanced-micro-111619431.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/01/18/google-ipsos-poll-ai-global-americans', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/insidermonkey.com/f6cb4efe03a549234a41bd402927b6d8');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/strong-analyst-sentiment-advanced-micro-111619431.html" target="_blank" onclick="event.stopPropagation();">Strong Analyst Sentiment on Advanced Micro Devices (AMD) Amid CES AI Processor Launches Despite Nvidia Competition</a>
+                            <a href="https://www.axios.com/2026/01/18/google-ipsos-poll-ai-global-americans" target="_blank" onclick="event.stopPropagation();">As AI use increases, Americans still don't trust it</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Advanced Micro Devices, Inc. (NASDAQ:AMD) is included in our list of the best stocks to buy right now. As of January 12, 2026, 75% of analysts are bullish on Advanced Micro Devices, Inc. (NASDAQ:AMD). The consensus price target of $281.50 implies a 38.60% upside. Recent analyst commentaries reinforce the positive trend, with Jefferies reiterating a […]
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1395,9 +1391,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1405,7 +1401,44 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768734979.0"></span>
+                                    <span data-timestamp="1768738788.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html" target="_blank" onclick="event.stopPropagation();">The Sunday Daily: Hollywood’s A.I. Moment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768734008.0"></span>
                                 </div>
                                 
                             </div>
@@ -1454,6 +1487,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bostonglobe.com/2026/01/18/business/ai-restaurants-phone-pizza/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/GOVKDRTORGF5IVOSBIZMUJKBH4.jpg?auth=fdecd3d7c3df4c471fed421ba562e0f621d0ac90dcf7dfc42cc00257316c9bc8&width=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bostonglobe.com/2026/01/18/business/ai-restaurants-phone-pizza/" target="_blank" onclick="event.stopPropagation();">AI answering systems are ‘saving the day’ for New England pizzerias. Customers aren’t so sure.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Boston Globe" class="news-favicon">
+                                    <a href="https://www.bostonglobe.com" target="_blank" onclick="event.stopPropagation();">The Boston Globe</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768735832.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
@@ -1488,43 +1562,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1768672920.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/01/17/ai-coding-claude-apps', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/01/17/ai-coding-claude-apps" target="_blank" onclick="event.stopPropagation();">Behind the Curtain: The AI future has arrived</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768659803.0"></span>
                                 </div>
                                 
                             </div>
@@ -1573,47 +1610,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.sciencealert.com/images/2026/01/ai_psychosis_header-3.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains" target="_blank" onclick="event.stopPropagation();">Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencealert.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ScienceAlert" class="news-favicon">
-                                    <a href="https://www.sciencealert.com" target="_blank" onclick="event.stopPropagation();">ScienceAlert</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768673131.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1634,7 +1630,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T11:39:09.154164+00:00">Updated 2026-01-18T11:39:09.154164+00:00</small>
+        <small data-timestamp="2026-01-18T12:42:21.245386+00:00">Updated 2026-01-18T12:42:21.245386+00:00</small>
     </div>
 </div>
 
@@ -1911,7 +1907,7 @@
                                     <span class="post-points">▲ 90</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 90</span>
+                                    <span style="color: #9ca3af;">💬 91</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2347,7 +2343,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T11:38:45.311831+00:00">Updated 2026-01-18T11:38:45.311831+00:00</small>
+        <small data-timestamp="2026-01-18T12:41:54.096160+00:00">Updated 2026-01-18T12:41:54.096160+00:00</small>
     </div>
 </div>
 
