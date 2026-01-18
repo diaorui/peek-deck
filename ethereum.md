@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T21:40:29.495727+00:00'
+updated: '2026-01-18T22:20:44.081519+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 21:40 UTC  
+**Last Updated:** January 18, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Coinpedia • 9h ago
 
 Ethereum co-founder Vitalik Buterin is urging developers to confront the protocol bloat driven by an endless push to add new features while rarely removing old ones.In a Sunday post on X, Buterin argued that true trustlessness and self-sovereignty depend less on raw decentralization metrics and mor…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -206,7 +206,7 @@ CoinDesk • 2d ago
 
 Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 3d ago
 
 ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 230 • 💬 100 • ⏱️ 9:21 • 10h ago
+👁️ 5K • 👍 230 • 💬 100 • ⏱️ 9:21 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 10h ago
+👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T21:40:29.489615+00:00'
+updated: '2026-01-18T22:20:44.075075+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 21:40 UTC  
+**Last Updated:** January 18, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,13 +89,13 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-10h ago
+11h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 I put $50 into Bitcoin in early 2022 and then did what most small, curious investors do: watched it crater, bounce, and lurch through news cycles. After
 
-findarticles.com • 1h ago
+findarticles.com • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 7h ago
+👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 4h ago
+👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 5h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 158 • ⏱️ 8:18 • 1d ago
+👁️ 42K • 👍 2K • 💬 158 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCod
 
 📺 The Moon Show
 
-👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 7h ago
+👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 10h ago
+👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 11h ago
 
 ---
 
