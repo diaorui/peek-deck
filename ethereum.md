@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T16:48:24.939902+00:00'
+updated: '2026-01-18T17:18:30.517392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 16:48 UTC  
+**Last Updated:** January 18, 2026 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Motley Fool • 2d ago
 
 **[Why enterprises choose Ethereum for tokenization](https://www.jpost.com/crypto-currency/article-883721)**
 
-The Jerusalem Post • 2h ago
+The Jerusalem Post • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 Ethereum is currently at a technically critical point, which explains the resurgence of bull market discourse. The zone created by the 20- and 21-week EMAs on longer time frames or their daily equivalents in trend structure is known as the bull market support band, and it is currently interacting w…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 57K • 👍 2K • 💬 277 • ⏱️ 10:28 • 23h ago
+👁️ 57K • 👍 2K • 💬 277 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 5h ago
+👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 4K • 👍 219 • 💬 39 • ⏱️ 13:56 • 21h ago
+👁️ 4K • 👍 219 • 💬 39 • ⏱️ 13:56 • 22h ago
 
 ---
 

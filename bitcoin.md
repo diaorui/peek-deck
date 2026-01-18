@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T16:48:24.933965+00:00'
+updated: '2026-01-18T17:18:30.511300+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 16:48 UTC  
+**Last Updated:** January 18, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -137,13 +137,13 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -191,7 +191,7 @@ MSN • 1h ago
 
 Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 39m ago
 
 Gold and silver offer stability amid market turmoil, while bitcoin can swing wildly. A diversified mix of assets is advisable to protect wealth in uncertain times.
 
-Yahoo! Finance Canada • 2h ago
+Yahoo! Finance Canada • 3h ago
 
 ---
 
@@ -279,7 +279,7 @@ Rolling coverage of the latest economic and financial news
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 19h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 20h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -327,7 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 128 • ⏱️ 17:39 • 20h ago
+👁️ 27K • 👍 2K • 💬 128 • ⏱️ 17:39 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 429 • 💬 134 • ⏱️ 53:40 • 2h ago
+👁️ 5K • 👍 429 • 💬 134 • ⏱️ 53:40 • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 5h ago
+👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 6h ago
 
 ---
 

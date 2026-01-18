@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T16:48:24.943110+00:00'
+updated: '2026-01-18T17:18:30.520654+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 16:48 UTC  
+**Last Updated:** January 18, 2026 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 Hey im a mechanical engineering student who is specifically interested in a career in robotics , i find myself intimated by the jobs posted in terms of requirements and how they actively ask for MSc or PhDs so i am hoping if anyone can give some advice on my CV how can i improve or how i can apply jobs in an effective manner. sorry if this is the wrong sub
 
-31m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
 
-8h ago
+9h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 1d ago
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 38m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 38m ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 16h ago
+WRGB • 17h ago
 
 ---
 
@@ -225,7 +225,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 413K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 413K • 👍 3K • 💬 1K • ⏱️ 0:16 • 7d ago
 
 ---
 
@@ -235,7 +235,7 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 133 • 💬 10 • ⏱️ 0:12 • 6d ago
+👁️ 16K • 👍 133 • 💬 10 • ⏱️ 0:12 • 7d ago
 
 ---
 
@@ -285,7 +285,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 7K • 👍 67 • 💬 16 • ⏱️ 3:19 • 1d ago
+👁️ 7K • 👍 67 • 💬 16 • ⏱️ 3:19 • 2d ago
 
 ---
 
