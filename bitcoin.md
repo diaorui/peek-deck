@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T19:37:50.544818+00:00'
+updated: '2026-01-18T20:24:54.581161+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 19:37 UTC  
+**Last Updated:** January 18, 2026 at 20:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,181.51
+### $95,318.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.2%  
 **7d:** +4.6%  
-**30d:** +7.9%  
+**30d:** +8.0%  
 **90d:** -12.1%  
-**1y:** -5.6%  
+**1y:** -5.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-8h ago
+9h ago
 
 ---
 
@@ -89,13 +89,13 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-7h ago
+8h ago
 
 ---
 
-**[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
+**[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-16h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -159,49 +159,53 @@ CNBC • 1d ago
 
 ---
 
-**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The New York Times • 2d ago
-
----
-
-**[Large bitcoin investors are increasingly piling into bullish bets and cutting short positions](https://www.coindesk.com/markets/2026/01/19/here-is-why-usd1-2-billion-bitcoin-etf-inflow-is-a-new-bullish-signal)**
-
-Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
-
-CoinDesk • 3h ago
+The Block • 2d ago
 
 ---
 
-**[The Crypto ETF Showdown: BITQ's Diversification vs. IBIT's Bitcoin Bet](https://www.fool.com/coverage/etfs/2026/01/18/the-crypto-etf-showdown-bitq-s-diversification-vs-ibit-s-bitcoin-bet/)**
+**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
 
-Explore how these two crypto ETFs differ in cost, risk, and portfolio approach -- key factors for aligning with your investment strategy.
+The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-The Motley Fool • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Peter Schiff Warns Traders Taking Profits In Gold, Silver And Buying Bitcoin ETFs And MSTR Stock: 'That's A Big Mistake'](https://finance.yahoo.com/news/peter-schiff-warns-traders-taking-120106265.html)**
+**['Bear market rally': CryptoQuant breaks down bitcoin's recent price rebound](https://www.theblock.co/post/386021/bear-market-rally-cryptoquant-bitcoin-price-rebound)**
 
-Economist Peter Schiff questioned the sustainability of Bitcoin’s ongoing rally on Wednesday, arguing that investors are mistakenly rotating profits from commodities into cryptocurrency-linked assets. Schiff Downplays Bitcoin Rally Schiff suggested in an X post that traders are taking profits in...
+The Block • 2d ago
+
+---
+
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[Fish to shark holders accumulate at fastest pace since the FTX collapse](https://www.coindesk.com/markets/2026/01/18/large-bitcoin-holders-buy-the-most-coins-since-the-ftx-collapse-of-2022)**
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
-The so-called Fish-to-Shark cohort added 110,000 BTC over the past 30 days, according to Glassnode.
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-CoinDesk • 2h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
+**[MicroStrategy’s Saylor Hints at Bitcoin Acquisition Surpassing $1.25 Billion](https://finance.yahoo.com/news/microstrategy-saylor-hints-bitcoin-acquisition-190105018.html)**
 
-XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
+Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -215,15 +219,7 @@ Bloomberg • 2d ago
 
 Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 2d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -305,7 +301,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 22h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 23h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -319,7 +315,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 22h ago
+👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 23h ago
 
 ---
 
@@ -329,7 +325,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 23h ago
+👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -339,7 +335,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 5h ago
+👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 6h ago
 
 ---
 
@@ -379,7 +375,7 @@ WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCod
 
 📺 The Moon Show
 
-👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 5h ago
+👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 6h ago
 
 ---
 
@@ -399,7 +395,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 8h ago
+👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 9h ago
 
 ---
 
