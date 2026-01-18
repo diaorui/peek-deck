@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T04:42:54.783913+00:00'
+updated: '2026-01-18T05:24:55.993339+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 04:42 UTC  
+**Last Updated:** January 18, 2026 at 05:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,303.88
+### $3,313.60
 
 ---
 
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.7%  
 **7d:** +7.0%  
-**30d:** +11.3%  
+**30d:** +11.2%  
 **90d:** -14.1%  
-**1y:** +3.0%  
+**1y:** +2.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-12h ago
+13h ago
 
 ---
 
@@ -194,14 +194,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
-
-Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
-
-Seeking Alpha • 3d ago
-
----
-
 **[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
@@ -224,6 +216,12 @@ FinanceFeeds • 1d ago
 
 ---
 
+**[Tokenization will determine whether Solana can close the valuation gap with Ethereum, says analyst](https://www.thestreet.com/crypto/markets/tokenization-will-determine-whether-solana-can-close-the-valuation-gap-with-ethereum-says-analyst)**
+
+thestreet.com • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +232,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 262 • ⏱️ 10:28 • 11h ago
+👁️ 45K • 👍 2K • 💬 262 • ⏱️ 10:28 • 12h ago
 
 ---
 
@@ -244,7 +242,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 197 • ⏱️ 12:19 • 7h ago
+👁️ 23K • 👍 2K • 💬 197 • ⏱️ 12:19 • 8h ago
 
 ---
 
@@ -274,7 +272,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 508 • 👍 47 • 💬 17 • ⏱️ 14:00 • 11h ago
+👁️ 508 • 👍 47 • 💬 17 • ⏱️ 14:00 • 12h ago
 
 ---
 
@@ -304,7 +302,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 339 • 💬 152 • ⏱️ 22:05 • 16h ago
+👁️ 8K • 👍 339 • 💬 152 • ⏱️ 22:05 • 17h ago
 
 ---
 
@@ -314,7 +312,7 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 6K • 👍 191 • 💬 27 • ⏱️ 1:22 • 8h ago
+👁️ 6K • 👍 191 • 💬 27 • ⏱️ 1:22 • 9h ago
 
 ---
 
@@ -324,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 6 • ⏱️ 4:27 • 22h ago
+👁️ 2K • 👍 126 • 💬 6 • ⏱️ 4:27 • 23h ago
 
 ---
 

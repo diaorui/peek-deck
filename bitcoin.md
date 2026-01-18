@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T04:42:54.777849+00:00'
+updated: '2026-01-18T05:24:55.987379+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 04:42 UTC  
+**Last Updated:** January 18, 2026 at 05:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,021.31
+### $95,100.10
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.2%  
-**7d:** +4.3%  
-**30d:** +7.7%  
-**90d:** -12.3%  
-**1y:** -5.8%  
+**7d:** +4.2%  
+**30d:** +7.6%  
+**90d:** -12.4%  
+**1y:** -5.9%  
 
 ---
 
@@ -79,47 +79,13 @@ Rank #1
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-18h ago
-
----
-
-**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
-
-8h ago
-
----
-
-**[Flat line for all day trade today, what’s cooking?](https://www.reddit.com/r/Bitcoin/comments/1qft1fu/flat_line_for_all_day_trade_today_whats_cooking/)**
-
-The chart line is going so flat today. Anyone has any idea why so?
-
-4h ago
-
----
-
-**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
-
-20h ago
-
----
-
-**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
-
-I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
-
-15h ago
-
----
-
-**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
-
-23h ago
+19h ago
 
 ---
 
@@ -127,7 +93,41 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-1h ago
+2h ago
+
+---
+
+**[Flat line for all day trade today, what’s cooking?](https://www.reddit.com/r/Bitcoin/comments/1qft1fu/flat_line_for_all_day_trade_today_whats_cooking/)**
+
+The chart line is going so flat today. Anyone has any idea why so?
+
+5h ago
+
+---
+
+**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
+
+9h ago
+
+---
+
+**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
+
+21h ago
+
+---
+
+**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
+
+I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
+
+16h ago
+
+---
+
+**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
+
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
 
-9h ago
+10h ago
 
 ---
 
@@ -165,11 +165,11 @@ CNBC • 13h ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-Yahoo Finance • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -203,17 +203,11 @@ CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqclHiwDdW0ZgAYKPTcTe5yOrbztVWfFwuElH7S3jrErXcLvRvh6GHQv&gaa_ts=696c5bc8&gaa_sig=fibpxh5giqSnhsCrpx3__VFlLagALnA72i9lYvmQHnoqf8RnEF3vhtN97s6A8HU7BYtMBaZc0t-1kWWVMKqz_Q%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 7h ago
+Gizmodo • 8h ago
 
 ---
 
@@ -222,6 +216,12 @@ Gizmodo • 7h ago
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
 Mother Jones • 1d ago
+
+---
+
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+
+The Block • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 8h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -327,7 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 8h ago
+👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 14h ago
+👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth 
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 13h ago
+👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 14h ago
 
 ---
 
@@ -387,7 +387,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 213 • ⏱️ 18:18 • 1d ago
+👁️ 81K • 👍 5K • 💬 213 • ⏱️ 18:18 • 2d ago
 
 ---
 

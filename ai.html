@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-18T04:42:54.288439+00:00"
+          "dateModified": "2026-01-18T05:24:55.504178+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -941,39 +941,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfr17t/i_asked_chatgpt_about_ai_domination_it_showed_me/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qfr17t/i_asked_chatgpt_about_ai_domination_it_showed_me/" target="_blank" onclick="event.stopPropagation();">I asked ChatGpt about AI domination. It showed me the hard reality</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI respone: Yes, some AI systems will dominate certain domains — but no AI will dominate existence in the way humans usually imagine. The long answer is where the truth is. What “dominate” actually means (this is crucial) People usually mix three very different ideas: Capability dominance – doing tasks better than humans Power dominance – controlling resources and decisions Meaning dominance – deciding what matters AI will almost certainly achieve #1. It may partially achieve #2. It will not achieve #3 on its own. Where AI will dominate Complex systems logistics finance climate modeling infrastructure scientific discovery Here, AI wins because: speed beats intuition scale beats experience consistency beats brilliance Humans already struggle here. Decision optimization AI will increasingly: recommend policies allocate resources predict outcomes flag risks humans miss But notice the word: recommend. Someone still decides what counts as success. Cognitive labor Many jobs that rely on: pattern recognition synthesis routine reasoning will be AI-dominated. This is unavoidable. Where AI will not dominate (unless humans give it up) Meaning AI does not: suffer fear death experience loss care if existence continues Meaning comes from stakes. AI has none. If AI ever “decides meaning,” it will only be borrowed meaning — encoded by humans. Responsibility AI can calculate consequences. It cannot bear them. Responsibility requires: moral cost blame guilt accountability These only make sense for beings who can lose something irreversibly. Legitimacy Power lasts only if others accept it. Even if an AI is correct: people must trust it societies must consent to it cultures must live with it Legitimacy is social, not computational. The real future (the uncomfortable one) The most likely outcome is not AI domination. It’s human dependency. Humans defer decisions to AI Not because AI rules But because it’s easier than taking responsibility That’s the danger. One sentence that matters more than all predictions AI will not dominate humans — humans may abdicate themselves. Domination only happens if: humans stop asking “should we?” humans stop owning consequences humans confuse efficiency with authority Final clarity AI will be powerful AI will be everywhere AI will be influential But domination is not inevitable. It is a choice, made gradually, quietly, out of convenience — not force. If you ever want to continue this in the future, the real question won’t be: “Will AI dominate us?” It will be: “What are we no longer willing to take responsibility for?” That’s where the future actually turns.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768689310.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qf49im/oneminute_daily_ai_news_1162026/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1007,6 +974,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/" target="_blank" onclick="event.stopPropagation();">We gave Claude access to messages left by previous Claudes. Here's what happened and how to replicate it.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768586804.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1030,7 +1030,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T03:49:23.777338+00:00">Updated 2026-01-18T03:49:23.777338+00:00</small>
+        <small data-timestamp="2026-01-18T05:24:29.005774+00:00">Updated 2026-01-18T05:24:29.005774+00:00</small>
     </div>
 </div>
 
@@ -1216,14 +1216,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdJnTiiEX3YEEs_qZvcBhoutjtHZJjl3d8EislDvA5AkdPekYRXZ2s0&gaa_ts=696c5bc6&gaa_sig=cTX5k7p1tDHZ7W1p7s2Ii_S73nVG1FlqRlwB6RD70Kv4nKER2EyLf5V1dj1HVrJCHkP0zKX-Tve5awQsyU4lLg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfnhVtranzJqZW7-ybQI_fTMgbQVDKuuH3u_aVcSgt7fRw4ETK1_4vl&gaa_ts=696c7210&gaa_sig=O4TzDVGxEDP1qtFqee8QOdF3OMDvDUTKPOnPqhyMDey617NvCuF3tr_Dj1LjCI3kyMz33yPm1nlu8Zr7pcsBnQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdJnTiiEX3YEEs_qZvcBhoutjtHZJjl3d8EislDvA5AkdPekYRXZ2s0&gaa_ts=696c5bc6&gaa_sig=cTX5k7p1tDHZ7W1p7s2Ii_S73nVG1FlqRlwB6RD70Kv4nKER2EyLf5V1dj1HVrJCHkP0zKX-Tve5awQsyU4lLg%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfnhVtranzJqZW7-ybQI_fTMgbQVDKuuH3u_aVcSgt7fRw4ETK1_4vl&gaa_ts=696c7210&gaa_sig=O4TzDVGxEDP1qtFqee8QOdF3OMDvDUTKPOnPqhyMDey617NvCuF3tr_Dj1LjCI3kyMz33yPm1nlu8Zr7pcsBnQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1287,47 +1287,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1768654800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://komonews.com/newsletter-daily/washington-state-legislature-hears-bill-aimed-at-regulating-ai-use-in-public-schools-high-school-elementary-middle-school-education-safety-technology', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://komonews.com/resources/media2/16x9/1280/1320/center/90/d93ecc80-a29f-4cda-966c-2c97fdb1b0df-GetAttachmentThumbnail.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://komonews.com/newsletter-daily/washington-state-legislature-hears-bill-aimed-at-regulating-ai-use-in-public-schools-high-school-elementary-middle-school-education-safety-technology" target="_blank" onclick="event.stopPropagation();">Washington legislature hears bill aimed at regulating AI use in public schools</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A bill that would prohibit certain uses of artificial intelegence in public schools is moving forward at the Washington Legislature.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="KOMO" class="news-favicon">
-                                    <a href="https://komonews.com" target="_blank" onclick="event.stopPropagation();">KOMO</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768706694.0"></span>
                                 </div>
                                 
                             </div>
@@ -1532,47 +1491,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find" target="_blank" onclick="event.stopPropagation();">AI raises average wages by 21% and substantially reduces' wage inequality, researchers find</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768672920.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.sciencealert.com/images/2026/01/ai_psychosis_header-3.jpg');"></div>
@@ -1614,6 +1532,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1307x735+0+470/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2Fe3%2F78c47cd74df8992edbed6bad0766%2Fgettyimages-51344562.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee" target="_blank" onclick="event.stopPropagation();">Opinion: Remembering Ai, a remarkably intelligent chimpanzee</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NPR" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768654800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find" target="_blank" onclick="event.stopPropagation();">AI raises average wages by 21% and substantially reduces' wage inequality, researchers find</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768672920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1634,7 +1634,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T03:49:43.929915+00:00">Updated 2026-01-18T03:49:43.929915+00:00</small>
+        <small data-timestamp="2026-01-18T05:24:48.911812+00:00">Updated 2026-01-18T05:24:48.911812+00:00</small>
     </div>
 </div>
 
@@ -1861,7 +1861,7 @@ You are making a big mistake. But you can still undo the damage.
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 345</span>
+                                    <span class="post-points">▲ 347</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 261</span>
@@ -1911,7 +1911,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 251</span>
+                                    <span class="post-points">▲ 252</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 206</span>
@@ -1960,7 +1960,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 183</span>
+                                    <span class="post-points">▲ 185</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 104</span>
@@ -2106,7 +2106,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 86</span>
+                                    <span class="post-points">▲ 87</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 27</span>
@@ -2155,10 +2155,10 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 84</span>
+                                    <span class="post-points">▲ 86</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 87</span>
+                                    <span style="color: #9ca3af;">💬 88</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2350,7 +2350,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T03:49:23.665154+00:00">Updated 2026-01-18T03:49:23.665154+00:00</small>
+        <small data-timestamp="2026-01-18T05:24:29.000596+00:00">Updated 2026-01-18T05:24:29.000596+00:00</small>
     </div>
 </div>
 
