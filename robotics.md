@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T01:57:23.488123+00:00'
+updated: '2026-01-18T03:49:47.220064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 01:57 UTC  
+**Last Updated:** January 18, 2026 at 03:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-15h ago
+17h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-8h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-10h ago
+12h ago
 
 ---
 
@@ -78,11 +78,17 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
+**[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
+
+11h ago
+
+---
+
 **[Robotic baristas & ice cream makers](https://www.reddit.com/r/robotics/comments/1qfh8xz/robotic_baristas_ice_cream_makers/)**
 
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
-9h ago
+11h ago
 
 ---
 
@@ -100,14 +106,6 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 ---
 
-**[[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe.](https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/)**
-
-There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
-
-12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +114,7 @@ There is a vocabulary problem in scientific robotics right now. We are seeing th
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 13h ago
+Futurism • 15h ago
 
 ---
 
@@ -128,36 +126,6 @@ Fortune • 2d ago
 
 ---
 
-**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
-
-Bloomberg • 2d ago
-
----
-
-**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
-
-Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
-
-TechCrunch • 3d ago
-
----
-
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
-
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-
-Interesting Engineering • 2d ago
-
----
-
-**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
-
-Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
-
-Automotive News • 2d ago
-
----
-
 **[A $450 Billion Opportunity: Is Serve Robotics Stock a Buy in 2026?](https://www.fool.com/investing/2026/01/16/a-450-billion-is-serve-robotics-stock-a-buy-2026/)**
 
 Serve Robotics stock plunged by 23% last year, but it's off to a hot start in 2026.
@@ -166,9 +134,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqefSaqdLTKUi-__tv1v0Z6Wfc1Jfa0YS0VvTIh8To_wHuvDH7EtugQp&gaa_ts=696c4171&gaa_sig=X97LfgPfkkmMe_mftmb47iJd8XJ4YlW2Ht3eH3qTD6z0QilonUbkYGVPNQ3CSlLrCYI36Iq0cEf7c8CVDIE_4A%3D%3D)**
+**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-MarketWatch • 3d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -185,7 +153,37 @@ Crunchbase News • 3d ago
 You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
-Pittsburgh Post-Gazette • 16h ago
+Pittsburgh Post-Gazette • 18h ago
+
+---
+
+**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
+
+Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
+
+Automotive News • 2d ago
+
+---
+
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdCTVF86ke2Vl9sBRKoClr6tFhtlK_FNysLC7tqkuiRNz0eNzrhHooD&gaa_ts=696c5bcb&gaa_sig=8DfMV89S2V2WkTda5DqOEwy8EYwPa5v9XshA-5vSDhx4K7E4qENoZ8WQMp6aru_ujiD_H8H8YYd1jpkbbOeQ0Q%3D%3D)**
+
+MarketWatch • 3d ago
+
+---
+
+**[Can Grab (GRAB) Turn EV Partnerships and Robotics Bets Into a Defensible Logistics Edge?](https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html)**
+
+In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -255,7 +253,7 @@ Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From g
 
 📺 The Military Show
 
-👁️ 200K • 👍 5K • 💬 249 • ⏱️ 23:16 • 11h ago
+👁️ 200K • 👍 5K • 💬 249 • ⏱️ 23:16 • 13h ago
 
 ---
 

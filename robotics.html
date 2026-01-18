@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-18T01:57:23.109695+00:00"
+          "dateModified": "2026-01-18T03:49:46.808806+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -816,6 +816,35 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/" target="_blank" onclick="event.stopPropagation();">𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768667716.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qfh8xz/robotic_baristas_ice_cream_makers/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -915,41 +944,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/ue2d0wt1qwdg1.png?width=640&crop=smart&auto=webp&s=b7981bbeea4c8f4d9ba905c65c017a704de56e9e" alt="[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qfcppq/research_we_adapted_the_sae_selfdriving_car/" target="_blank" onclick="event.stopPropagation();">[Research] We adapted the SAE Self-Driving Car levels for Scientific Instruments (Microscopes/Synchrotrons) and argue Level 5 is currently unsafe.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            There is a vocabulary problem in scientific robotics right now. We are seeing the term autonomous applied interchangeably to everything from a basic Python script running a grid scan to a generative agent discovering new physics. It makes it impossible to define safety standards for big facilities like particle accelerators so we just published a paper proposing the BASE Scale which adapts the standard SAE automotive levels for scientific instruments. The biggest difference between a self driving car and a self driving microscope is what we call the Inference Barrier. A car camera sees a pedestrian and the data is usable almost instantly but a scientific detector outputs raw diffraction patterns or sinograms. To be truly autonomous at Level 3 the system has to invert that raw data into a 3D physical model in milliseconds. If you cannot cross that compute barrier you are just running a fast script rather than making decisions based on the physics. We also argue that Level 5 or fully unsupervised discovery is actually a bad idea for expensive hardware. If a curiosity driven agent tries to explore a weird edge case it might actually be a beam dump or a collision that destroys the machine. We think the goal should be Level 4 Supervisory control where a human defines the safety sandbox and the AI handles the speed. Questions for the community: Do you use the concept of Operational Design Domains or ODD in industrial robotics? How do you handle the liability when a Sim to Real agent breaks physical hardware? Is anyone else struggling with the latency of reconstructing 3D data at the edge? Full Preprint on arXiv: https://arxiv.org/abs/2601.06978 (Disclosure: I am the lead author on this study. We are trying to establish a formal taxonomy so we can actually license these agents for user facilities without terrifying the safety officers.) P.S. We are currently hitting a bottleneck on real-time tomographic reconstruction at the edge so if anyone has benchmarks I would love to see them.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768655066.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +967,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T01:57:02.260342+00:00">Updated 2026-01-18T01:57:02.260342+00:00</small>
+        <small data-timestamp="2026-01-18T03:49:27.471028+00:00">Updated 2026-01-18T03:49:27.471028+00:00</small>
     </div>
 </div>
 
@@ -1241,166 +1235,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push" target="_blank" onclick="event.stopPropagation();">OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768494982.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/" target="_blank" onclick="event.stopPropagation();">Robotics software maker Skild AI hits $14B valuation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768407213.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Thumbnails-for-IE-articles-Unscripted-Robot-Conversation.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation" target="_blank" onclick="event.stopPropagation();">Video: First-ever live unscripted conversation between humanoid robots</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768477320.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/crain/Z6HCFQUSYJDQZFEKMDAZ2IHR4E.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/" target="_blank" onclick="event.stopPropagation();">First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Automotive News" class="news-favicon">
-                                    <a href="https://www.autonews.com" target="_blank" onclick="event.stopPropagation();">Automotive News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768473000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/01/16/a-450-billion-is-serve-robotics-stock-a-buy-2026/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F851272%2Fa-pair-of-autonomous-food-delivery-robots-waiting-on-the-sidewalk.jpg&w=1200&op=resize');"></div>
@@ -1442,14 +1276,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqefSaqdLTKUi-__tv1v0Z6Wfc1Jfa0YS0VvTIh8To_wHuvDH7EtugQp&gaa_ts=696c4171&gaa_sig=X97LfgPfkkmMe_mftmb47iJd8XJ4YlW2Ht3eH3qTD6z0QilonUbkYGVPNQ3CSlLrCYI36Iq0cEf7c8CVDIE_4A%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqefSaqdLTKUi-__tv1v0Z6Wfc1Jfa0YS0VvTIh8To_wHuvDH7EtugQp&gaa_ts=696c4171&gaa_sig=X97LfgPfkkmMe_mftmb47iJd8XJ4YlW2Ht3eH3qTD6z0QilonUbkYGVPNQ3CSlLrCYI36Iq0cEf7c8CVDIE_4A%3D%3D" target="_blank" onclick="event.stopPropagation();">3 ways to invest in what could become a $200 billion market for humanoid robots</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push" target="_blank" onclick="event.stopPropagation();">OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1461,9 +1295,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MarketWatch" class="news-favicon">
-                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
                                     
                                 </div>
                                 
@@ -1471,7 +1305,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768423560.0"></span>
+                                    <span data-timestamp="1768494982.0"></span>
                                 </div>
                                 
                             </div>
@@ -1562,6 +1396,166 @@ Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/crain/Z6HCFQUSYJDQZFEKMDAZ2IHR4E.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/" target="_blank" onclick="event.stopPropagation();">First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Automotive News" class="news-favicon">
+                                    <a href="https://www.autonews.com" target="_blank" onclick="event.stopPropagation();">Automotive News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768473000.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Thumbnails-for-IE-articles-Unscripted-Robot-Conversation.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation" target="_blank" onclick="event.stopPropagation();">Video: First-ever live unscripted conversation between humanoid robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768477320.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdCTVF86ke2Vl9sBRKoClr6tFhtlK_FNysLC7tqkuiRNz0eNzrhHooD&gaa_ts=696c5bcb&gaa_sig=8DfMV89S2V2WkTda5DqOEwy8EYwPa5v9XshA-5vSDhx4K7E4qENoZ8WQMp6aru_ujiD_H8H8YYd1jpkbbOeQ0Q%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdCTVF86ke2Vl9sBRKoClr6tFhtlK_FNysLC7tqkuiRNz0eNzrhHooD&gaa_ts=696c5bcb&gaa_sig=8DfMV89S2V2WkTda5DqOEwy8EYwPa5v9XshA-5vSDhx4K7E4qENoZ8WQMp6aru_ujiD_H8H8YYd1jpkbbOeQ0Q%3D%3D" target="_blank" onclick="event.stopPropagation();">3 ways to invest in what could become a $200 billion market for humanoid robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MarketWatch" class="news-favicon">
+                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768423560.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/976387f9691d9e9c613091b5dddac717');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html" target="_blank" onclick="event.stopPropagation();">Can Grab (GRAB) Turn EV Partnerships and Robotics Bets Into a Defensible Logistics Edge?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768432357.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1582,7 +1576,7 @@ Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T01:57:21.514275+00:00">Updated 2026-01-18T01:57:21.514275+00:00</small>
+        <small data-timestamp="2026-01-18T03:49:45.910957+00:00">Updated 2026-01-18T03:49:45.910957+00:00</small>
     </div>
 </div>
 

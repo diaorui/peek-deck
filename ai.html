@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-18T01:57:23.002681+00:00"
+          "dateModified": "2026-01-18T03:49:46.699272+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,23 +649,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfwq9w/a_new_ai_assistant_with_gemini/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/GHY1BCs7VcgslKXQoCK3OIUL8465Dhx3Bvhgs0AXl7s.jpeg?width=640&crop=smart&auto=webp&s=84b6551a5ee79544805122b40d7f706361eebf05" alt="Simulating real life with 6 autonomous AI agents" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/" target="_blank" onclick="event.stopPropagation();">Simulating real life with 6 autonomous AI agents</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1qfwq9w/a_new_ai_assistant_with_gemini/" target="_blank" onclick="event.stopPropagation();">A new AI assistant with Gemini</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A social experiment: 6 AI models released into a dating simulation.
+                            I got the bug to try and develop an assistant and Google Gemini APIs are pretty cost effective. I started with an idea based on Geminis remote system calls that allow it to make a request locally to call a function or service. I started with an intent and tool calling agent. The intent agent is given a cached context of current tools and how to use them. this way as more tools and functions becom available, the model doesn't need to be retrained. each tool is a function within python. when a user asks about the weather for example, the intent agent simply calls the weather tool. I programmed it so most tools when called simply make API calls to separate agents. Having agents run separately greatly improves development and improvement on the fly. the most important and hardest part was the memory tool. I programmed a local SQL db that is searchable and editable via these tools. the AI uses memory calls to query previous history. the intent and chat agent are given a brief history in context cache for all conversations. When a user starts talking about things that seam out of context, the agents can call on all history via the memory tool. like humans needing a prompt to remember, it takes a users intent and conversation then breaks it down into keyword searches. the search results are presented to these agents to enrich the conversation. same for; news, fuel prices, recycling guide, web searching, calendar management and more. keeping everything modular and combining multiple AI models together makes for a great assistant. I'm not trying to get anywhere near chatgpt but it maintains context in a single form chat very well. the user doesn't need to reset the conversation or start again. a user can ask it to change what it remembers and delete history just with natural language. just thought I would share some experience. just needing to improve its interface. right now I'm just using sms and text chat programs to interact. I might work on a web UI or something via voice.
                         </div>
                         
 
@@ -674,25 +672,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1768696842.0"></span>
+                                    <span data-timestamp="1768704392.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://singularity.game/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://singularity.game/icon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>singularity.game</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -741,6 +724,56 @@
                                             
                                         
                                         <span>MIT Technology Review</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/GHY1BCs7VcgslKXQoCK3OIUL8465Dhx3Bvhgs0AXl7s.jpeg?width=640&crop=smart&auto=webp&s=84b6551a5ee79544805122b40d7f706361eebf05" alt="Simulating real life with 6 autonomous AI agents" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/" target="_blank" onclick="event.stopPropagation();">Simulating real life with 6 autonomous AI agents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A social experiment: 6 AI models released into a dating simulation.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768696842.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://singularity.game/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://singularity.game/icon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>singularity.game</span>
                                     </a>
                                 </div>
                                 
@@ -832,39 +865,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/" target="_blank" onclick="event.stopPropagation();">Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768674667.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -902,6 +902,39 @@
                                         <span>openai.com</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/" target="_blank" onclick="event.stopPropagation();">Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768674667.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -974,37 +1007,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/M3dsbzhzdmJveWRnMdyQv3trJBmHRqe1wXH01cFZxOMprrsmKzL23nints7Q.png?width=640&crop=smart&auto=webp&s=b2b6bc37d7d3ee22bb67123cea3027fd64a634fd" alt="ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/" target="_blank" onclick="event.stopPropagation();">ChatGPT 40 WAS special. Not many knew just HOW special. I am here to set the record straight. This is the first drop. Grok is tapped for new military plans. I had questions. The 2 are related.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768678220.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1028,7 +1030,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T01:56:58.277807+00:00">Updated 2026-01-18T01:56:58.277807+00:00</small>
+        <small data-timestamp="2026-01-18T03:49:23.777338+00:00">Updated 2026-01-18T03:49:23.777338+00:00</small>
     </div>
 </div>
 
@@ -1214,14 +1216,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdxyU_jSKjVfuEJbSTvzC0wW6ZCuRPYFOMM9id_UqWWbhwIkD5bYCEs&gaa_ts=696c416c&gaa_sig=Mzjhf7y_0i7eH3zR9HhVWdXFM8NEd4gZyMq0lbhXfyIkS0LaTsDmMDE_99WFp9EtPk7zgKm-DGZ9dY5Qn8Eb3w%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdJnTiiEX3YEEs_qZvcBhoutjtHZJjl3d8EislDvA5AkdPekYRXZ2s0&gaa_ts=696c5bc6&gaa_sig=cTX5k7p1tDHZ7W1p7s2Ii_S73nVG1FlqRlwB6RD70Kv4nKER2EyLf5V1dj1HVrJCHkP0zKX-Tve5awQsyU4lLg%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdxyU_jSKjVfuEJbSTvzC0wW6ZCuRPYFOMM9id_UqWWbhwIkD5bYCEs&gaa_ts=696c416c&gaa_sig=Mzjhf7y_0i7eH3zR9HhVWdXFM8NEd4gZyMq0lbhXfyIkS0LaTsDmMDE_99WFp9EtPk7zgKm-DGZ9dY5Qn8Eb3w%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdJnTiiEX3YEEs_qZvcBhoutjtHZJjl3d8EislDvA5AkdPekYRXZ2s0&gaa_ts=696c5bc6&gaa_sig=cTX5k7p1tDHZ7W1p7s2Ii_S73nVG1FlqRlwB6RD70Kv4nKER2EyLf5V1dj1HVrJCHkP0zKX-Tve5awQsyU4lLg%3D%3D" target="_blank" onclick="event.stopPropagation();">Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1244,6 +1246,88 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1768669200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/MEzwePbzKFBuFd12WW53CpiqiB4=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_12_12_AI_Boyfriends/original.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/" target="_blank" onclick="event.stopPropagation();">The Bots That Women Use in a World of Unsatisfying Men</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            AI is offering people a way to figure out what they really want in romance.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768654800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://komonews.com/newsletter-daily/washington-state-legislature-hears-bill-aimed-at-regulating-ai-use-in-public-schools-high-school-elementary-middle-school-education-safety-technology', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://komonews.com/resources/media2/16x9/1280/1320/center/90/d93ecc80-a29f-4cda-966c-2c97fdb1b0df-GetAttachmentThumbnail.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://komonews.com/newsletter-daily/washington-state-legislature-hears-bill-aimed-at-regulating-ai-use-in-public-schools-high-school-elementary-middle-school-education-safety-technology" target="_blank" onclick="event.stopPropagation();">Washington legislature hears bill aimed at regulating AI use in public schools</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A bill that would prohibit certain uses of artificial intelegence in public schools is moving forward at the Washington Legislature.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="KOMO" class="news-favicon">
+                                    <a href="https://komonews.com" target="_blank" onclick="event.stopPropagation();">KOMO</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768706694.0"></span>
                                 </div>
                                 
                             </div>
@@ -1288,21 +1372,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/MEzwePbzKFBuFd12WW53CpiqiB4=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_12_12_AI_Boyfriends/original.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theatlantic.com/family/2026/01/ai-boyfriend-women-gender/685315/" target="_blank" onclick="event.stopPropagation();">The Bots That Women Use in a World of Unsatisfying Men</a>
+                            <a href="https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/" target="_blank" onclick="event.stopPropagation();">These prophets of economic doom are worried about another collapse</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI is offering people a way to figure out what they really want in romance.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1311,9 +1391,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1321,7 +1401,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768654800.0"></span>
+                                    <span data-timestamp="1768672800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1411,47 +1491,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find" target="_blank" onclick="event.stopPropagation();">AI raises average wages by 21% and substantially reduces' wage inequality, researchers find</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768672920.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108182542-1754505460421-iw_newBillionaires_wangAlexandr.png?v=1768471671&w=1920&h=1080');"></div>
@@ -1493,20 +1532,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1307x735+0+470/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2Fe3%2F78c47cd74df8992edbed6bad0766%2Fgettyimages-51344562.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/trades-and-ai.png?ve=1&tl=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee" target="_blank" onclick="event.stopPropagation();">Opinion: Remembering Ai, a remarkably intelligent chimpanzee</a>
+                            <a href="https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find" target="_blank" onclick="event.stopPropagation();">AI raises average wages by 21% and substantially reduces' wage inequality, researchers find</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
+                            Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
                         </div>
                         
 
@@ -1516,9 +1555,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NPR" class="news-favicon">
-                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1526,7 +1565,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768654800.0"></span>
+                                    <span data-timestamp="1768672920.0"></span>
                                 </div>
                                 
                             </div>
@@ -1534,17 +1573,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://openai.com/index/our-approach-to-advertising-and-expanding-access/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.sciencealert.com/images/2026/01/ai_psychosis_header-3.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://openai.com/index/our-approach-to-advertising-and-expanding-access/" target="_blank" onclick="event.stopPropagation();">Our approach to advertising and expanding access to ChatGPT</a>
+                            <a href="https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains" target="_blank" onclick="event.stopPropagation();">Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1553,9 +1596,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="OpenAI" class="news-favicon">
-                                    <a href="https://openai.com" target="_blank" onclick="event.stopPropagation();">OpenAI</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencealert.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ScienceAlert" class="news-favicon">
+                                    <a href="https://www.sciencealert.com" target="_blank" onclick="event.stopPropagation();">ScienceAlert</a>
                                     
                                 </div>
                                 
@@ -1563,44 +1606,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768586445.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/01/16/chatgpt-ai-openai-ads', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/01/16/chatgpt-ai-openai-ads" target="_blank" onclick="event.stopPropagation();">ChatGPT ads are coming, and they'll be influenced by your conversations</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768586555.0"></span>
+                                    <span data-timestamp="1768673131.0"></span>
                                 </div>
                                 
                             </div>
@@ -1628,7 +1634,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T01:57:16.000715+00:00">Updated 2026-01-18T01:57:16.000715+00:00</small>
+        <small data-timestamp="2026-01-18T03:49:43.929915+00:00">Updated 2026-01-18T03:49:43.929915+00:00</small>
     </div>
 </div>
 
@@ -1954,7 +1960,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 182</span>
+                                    <span class="post-points">▲ 183</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 104</span>
@@ -2149,10 +2155,10 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 83</span>
+                                    <span class="post-points">▲ 84</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 85</span>
+                                    <span style="color: #9ca3af;">💬 87</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2344,7 +2350,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-18T01:56:56.979955+00:00">Updated 2026-01-18T01:56:56.979955+00:00</small>
+        <small data-timestamp="2026-01-18T03:49:23.665154+00:00">Updated 2026-01-18T03:49:23.665154+00:00</small>
     </div>
 </div>
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T01:57:23.478935+00:00'
+updated: '2026-01-18T03:49:47.210837+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 01:57 UTC  
+**Last Updated:** January 18, 2026 at 03:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,884.72
+### $95,021.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +4.0%  
-**30d:** +7.4%  
-**90d:** -12.6%  
-**1y:** -6.0%  
+**24h:** -0.2%  
+**7d:** +4.3%  
+**30d:** +7.7%  
+**90d:** -12.3%  
+**1y:** -5.8%  
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-15h ago
+17h ago
 
 ---
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-5h ago
-
----
-
-**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
-
-17h ago
+7h ago
 
 ---
 
@@ -105,7 +99,13 @@ Rank #1
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-1h ago
+3h ago
+
+---
+
+**[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
+
+19h ago
 
 ---
 
@@ -113,13 +113,21 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-12h ago
+14h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-21h ago
+22h ago
+
+---
+
+**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
+
+Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
+
+1h ago
 
 ---
 
@@ -127,13 +135,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-10h ago
-
----
-
-**[Bitcoin January 3, 2009, 18:15:05 UTC](https://www.reddit.com/r/Bitcoin/comments/1qfij3p/bitcoin_january_3_2009_181505_utc/)**
-
-8h ago
+12h ago
 
 ---
 
@@ -141,7 +143,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +161,7 @@ The New York Times • 1d ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
@@ -171,25 +173,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
-
-Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
-
-CoinDesk • 22h ago
-
----
-
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg • 1d ago
-
----
-
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
-
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
-
-Business Insider • 15h ago
 
 ---
 
@@ -201,15 +187,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
 
-Can the reuse of crypto's waste heat redeem its bad climate rep?
+Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Mother Jones • 1d ago
+Business Insider • 17h ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqeBNt2k8C31ektf06FihbNjIBp4I5velidDarIk9sGW2abb4gx0lZlb&gaa_ts=696c416d&gaa_sig=H8dhHbogPsV_xla1FL7cCzaX-acEu4z7asKUE-_j7Rul2cgn8Awsrn6xoiDjNOUo_Qeqm_yDejxOK_zeQUlelw%3D%3D)**
+**[Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns](https://www.coindesk.com/business/2026/01/17/cathie-wood-calls-bitcoin-good-source-of-diversification-for-investors-seeking-higher-returns)**
+
+Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqclHiwDdW0ZgAYKPTcTe5yOrbztVWfFwuElH7S3jrErXcLvRvh6GHQv&gaa_ts=696c5bc8&gaa_sig=fibpxh5giqSnhsCrpx3__VFlLagALnA72i9lYvmQHnoqf8RnEF3vhtN97s6A8HU7BYtMBaZc0t-1kWWVMKqz_Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -219,7 +213,15 @@ Barron's • 1d ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 5h ago
+Gizmodo • 7h ago
+
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 1d ago
 
 ---
 
@@ -263,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 3h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 5h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -301,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 4h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -325,7 +327,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 43K • 👍 4K • 💬 977 • ⏱️ 16:04 • 11h ago
+👁️ 43K • 👍 4K • 💬 977 • ⏱️ 16:04 • 13h ago
 
 ---
 
@@ -405,7 +407,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 233 • ⏱️ 12:19 • 4h ago
+👁️ 15K • 👍 1K • 💬 233 • ⏱️ 12:19 • 6h ago
 
 ---
 
