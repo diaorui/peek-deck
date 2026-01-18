@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T06:33:40.733326+00:00'
+updated: '2026-01-18T07:20:58.473655+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 06:33 UTC  
+**Last Updated:** January 18, 2026 at 07:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1898.60B
+**Market Cap:** $1898.51B
 Rank #1
 
-**Circulating Supply:** 19,977,290 BTC
+**Circulating Supply:** 19,977,356 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.6%
 
 **All-Time Low:** $67.81
-+140051.9%
++140047.5%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-10h ago
+11h ago
 
 ---
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-6h ago
+7h ago
 
 ---
 
@@ -115,13 +115,13 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-58m ago
+1h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-17h ago
+18h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 1d ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -199,7 +199,7 @@ CryptoSlate • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 9h ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 9h ago
+Gizmodo • 10h ago
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 9h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 10h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,17 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 154 • ⏱️ 8:18 • 1d ago
+👁️ 40K • 👍 2K • 💬 153 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[Why Bitcoin &amp; The Crypto Market Refuse to Crash.](https://www.youtube.com/watch?v=b7G2pmuXn4o)**
+
+Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolved? I believe so and it makes me turn from ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 11h ago
 
 ---
 
@@ -327,7 +337,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 10h ago
+👁️ 21K • 👍 2K • 💬 109 • ⏱️ 17:39 • 11h ago
 
 ---
 
@@ -337,27 +347,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 16h ago
-
----
-
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 225 • ⏱️ 16:02 • 1d ago
-
----
-
-**[Bitcoin Didn’t Make Millionaires—Conviction Did](https://www.youtube.com/watch?v=EewQ2GMF3kA)**
-
-Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth $2.8 billion today—but almost nobody could ...
-
-📺 Swan Bitcoin
-
-👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 15h ago
+👁️ 53K • 👍 4K • 💬 1K • ⏱️ 16:04 • 17h ago
 
 ---
 
@@ -367,7 +357,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 24K • 👍 1K • 💬 287 • ⏱️ 1:13:07 • 1d ago
+👁️ 25K • 👍 1K • 💬 288 • ⏱️ 1:13:07 • 1d ago
+
+---
+
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
+
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 226 • ⏱️ 16:02 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 250 • 💬 24 • ⏱️ 5:23 • 2d ago
+👁️ 13K • 👍 255 • 💬 26 • ⏱️ 5:23 • 2d ago
 
 ---
 
@@ -387,27 +387,27 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 213 • ⏱️ 18:18 • 2d ago
+👁️ 82K • 👍 5K • 💬 213 • ⏱️ 18:18 • 2d ago
 
 ---
 
-**[BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What It Means for YOU](https://www.youtube.com/watch?v=-iq6ZsN7Dm0)**
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
 
-BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What It Means for BITCOIN The banks are ...
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 CryptoWendyO
+📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 172 • ⏱️ 3:57 • 1d ago
+👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 10h ago
 
 ---
 
-**[Coinbase CEO on failed crypto bill: Some things in bill we were surprised by and had issues with](https://www.youtube.com/watch?v=XFuIGXP8WuQ)**
+**[Bitcoin Didn’t Make Millionaires—Conviction Did](https://www.youtube.com/watch?v=EewQ2GMF3kA)**
 
-Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest crypto deal to work its way through Congress.
+Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth $2.8 billion today—but almost nobody could ...
 
-📺 CNBC Television
+📺 Swan Bitcoin
 
-👁️ 157K • 👍 2K • 💬 487 • ⏱️ 5:15 • 2d ago
+👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 15h ago
 
 ---
 

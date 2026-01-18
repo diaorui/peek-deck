@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T06:33:40.739345+00:00'
+updated: '2026-01-18T07:20:58.479831+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 06:33 UTC  
+**Last Updated:** January 18, 2026 at 07:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.45B
+**Market Cap:** $399.30B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.1%
+-33.2%
 
 **All-Time Low:** $0.43
-+764283.5%
++763313.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-32m ago
+1h ago
 
 ---
 
@@ -232,7 +232,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 262 • ⏱️ 10:28 • 13h ago
+👁️ 49K • 👍 2K • 💬 264 • ⏱️ 10:28 • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 197 • ⏱️ 12:19 • 9h ago
+👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Stock Moe
 
-👁️ 9K • 👍 676 • 💬 59 • ⏱️ 15:35 • 17h ago
+👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 7K • 👍 197 • 💬 20 • ⏱️ 24:55 • 1d ago
+👁️ 7K • 👍 201 • 💬 20 • ⏱️ 24:55 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 508 • 👍 47 • 💬 17 • ⏱️ 14:00 • 13h ago
+👁️ 567 • 👍 48 • 💬 14 • ⏱️ 14:00 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 756 • 💬 27 • ⏱️ 16:47 • 1d ago
+👁️ 22K • 👍 781 • 💬 27 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 6 • ⏱️ 4:59 • 15h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 16h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 339 • 💬 152 • ⏱️ 22:05 • 18h ago
+👁️ 8K • 👍 344 • 💬 109 • ⏱️ 22:05 • 19h ago
 
 ---
 
@@ -312,17 +312,17 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 6K • 👍 191 • 💬 27 • ⏱️ 1:22 • 10h ago
+👁️ 6K • 👍 210 • 💬 28 • ⏱️ 1:22 • 11h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FkOsA7ajAuw)**
+**[Bitcoin &amp; Ethereum. BTC &amp; ETH im Niemandsland aber mit Potential auf neue Highs!](https://www.youtube.com/watch?v=UmZSlxHX2Tc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20% Auf ...
 
-📺 More Crypto Online
+📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 126 • 💬 6 • ⏱️ 4:27 • 1d ago
+👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 1h ago
 
 ---
 
