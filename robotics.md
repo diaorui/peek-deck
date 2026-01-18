@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T08:28:31.919676+00:00'
+updated: '2026-01-18T08:51:31.396059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 08:28 UTC  
+**Last Updated:** January 18, 2026 at 08:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,9 +62,25 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 ---
 
+**[Recording robot movement on RViz or similar](https://www.reddit.com/r/robotics/comments/1qg3hu5/recording_robot_movement_on_rviz_or_similar/)**
+
+Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
+
+7m ago
+
+---
+
+**[A Turret from the game Portal is quite feasible.](https://www.reddit.com/r/robotics/comments/1qg2ld3/a_turret_from_the_game_portal_is_quite_feasible/)**
+
+Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
+
+1h ago
+
+---
+
 **[Control strategy for mid-air dropped quadcopter (PX4): cascaded PID vs FSM vs global stabilization](https://www.reddit.com/r/robotics/comments/1qg2d5b/control_strategy_for_midair_dropped_quadcopter/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -92,20 +108,6 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 ---
 
-**[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
-
-15h ago
-
----
-
-**[Robotic baristas & ice cream makers](https://www.reddit.com/r/robotics/comments/1qfh8xz/robotic_baristas_ice_cream_makers/)**
-
-Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
-
-16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,7 +124,7 @@ Interesting Engineering • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 19h ago
+Futurism • 20h ago
 
 ---
 
@@ -130,7 +132,7 @@ Futurism • 19h ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 8h ago
+WRGB • 9h ago
 
 ---
 
@@ -156,14 +158,6 @@ Fortune • 2d ago
 
 ---
 
-**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
-
-Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
-
-Automotive News • 2d ago
-
----
-
 **[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
 
 You soon might go grocery shopping alongside robots.
@@ -173,9 +167,17 @@ Pittsburgh Post-Gazette • 23h ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd0jZS2GBdMewRzUx9NaJ83iYrbKUWVDGdjuHh6YmTX2ln_vSCGpSgu&gaa_ts=696c9204&gaa_sig=9buZs7n-mnk4ddLktvBxd6cpwZ68Qyo4dc3OyrqUtSKbKrX5TDbxgQcgnNcA1xsMhGGdlh-73jiZ0CLLKH2KcQ%3D%3D)**
+**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
 
-MarketWatch • 3d ago
+Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
+
+Automotive News • 2d ago
+
+---
+
+**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
+
+Tech Xplore • 16h ago
 
 ---
 

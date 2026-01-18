@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T08:28:31.916465+00:00'
+updated: '2026-01-18T08:51:31.390208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 08:28 UTC  
+**Last Updated:** January 18, 2026 at 08:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,313.60
+### $3,309.69
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.4%  
-**7d:** +6.8%  
-**30d:** +11.1%  
-**90d:** -14.3%  
-**1y:** +2.7%  
+**7d:** +7.0%  
+**30d:** +11.2%  
+**90d:** -14.2%  
+**1y:** +2.9%  
 
 ---
 
@@ -164,23 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
+**[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
 
-CoinDesk • 1d ago
+The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
----
-
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
-
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
-
-The Block • 2d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -224,6 +212,20 @@ This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin.
 
 ---
 
+**[Top Analyst Says Next Crypto Rally for Bitcoin, Ethereum and XRP Has Begun](https://www.tradingview.com/news/coinpedia:1d7e1cbd1094b:0-top-analyst-says-next-crypto-rally-for-bitcoin-ethereum-and-xrp-has-begun/)**
+
+A fresh rally may be underway in the cryptocurrency market, according to a senior analyst at blockchain data firm Santiment, who says investor sentiment is setting up a classic bullish signal for Bitcoin, Ethereum, and XRP.Brian Quinlivan, marketing director at Santiment, said in a recent interview…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Ethereum Technical Analysis Report 16 January, 2026](https://financefeeds.com/ethereum-technical-analysis-report-16-january-2026-2/)**
+
+FinanceFeeds • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -254,7 +256,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Stock Moe
 
-👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 18h ago
+👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 19h ago
 
 ---
 
@@ -294,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 17h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 18h ago
 
 ---
 
@@ -324,7 +326,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 2h ago
+👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T08:28:31.910458+00:00'
+updated: '2026-01-18T08:51:31.379281+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 08:28 UTC  
+**Last Updated:** January 18, 2026 at 08:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +4.1%  
-**30d:** +7.5%  
-**90d:** -12.5%  
-**1y:** -5.9%  
+**24h:** -0.1%  
+**7d:** +4.3%  
+**30d:** +7.7%  
+**90d:** -12.4%  
+**1y:** -5.8%  
 
 ---
 
@@ -77,9 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
+**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
 
-12h ago
+Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
+
+6h ago
 
 ---
 
@@ -95,19 +97,11 @@ Rank #1
 
 ---
 
-**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
-
-Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
-
-5h ago
-
----
-
 **[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-2h ago
+3h ago
 
 ---
 
@@ -119,9 +113,21 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 ---
 
+**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
+
+12h ago
+
+---
+
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
 1d ago
+
+---
+
+**[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
+
+35m ago
 
 ---
 
@@ -139,17 +145,17 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 ---
 
-**[A satoshi question](https://www.reddit.com/r/Bitcoin/comments/1qfs2dv/a_satoshi_question/)**
-
-Ok, so we all know you can buy bitcoin in any amount you want. My question(s) are these: Is the price of bitcoin scaring off small investors? I've talked to people who wonder what the point of owning a small fraction of a btc is especially considering the volumes some of the bigger holders have. Yes, I'm looking at you Michael. So the follow up to that is, when do we start denoting its value in Satoshis? For reference, I bought a whole btc at 10k and still have it. These questions come from conversations with people who know very little about it
-
-9h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+CNBC • 17h ago
+
+---
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
@@ -157,19 +163,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
+**[American Burger Chain Makes $10 Million Bitcoin Purchase](https://finance.yahoo.com/news/american-burger-chain-makes-10-204503804.html)**
 
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+Steak ’n Shake has invested $10 million in Bitcoin, embedding BTC accumulation directly into its daily operations.
 
-CNBC • 16h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Popular Burger joint Steak ’n Shake adds $10 million in bitcoin to treasury](https://www.coindesk.com/business/2026/01/17/popular-burger-joint-steak-n-shake-buys-usd10-million-bitcoin)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-Yahoo Finance • 1d ago
+CoinDesk • 17h ago
+
+---
+
+**[Steak ’n Shake Makes First Bitcoin Treasury Bet With $10M BTC Purchase](https://finance.yahoo.com/news/steak-n-shake-makes-first-072618109.html)**
+
+Steak ’n Shake, the 91-year-old American burger chain, has taken its first public step into corporate Bitcoin ownership, announcing a $10 million purchase of the cryptocurrency for its treasury. Key Takeaways: Steak ’n Shake made its first $10M Bitcoin treasury purchase after adopting crypto payments. All customer-paid Bitcoin now flows ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,11 +193,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
+**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
 
-Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
+Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -199,31 +213,15 @@ CryptoSlate • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
 
-Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
-Gizmodo • 11h ago
-
----
-
-**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
-
-Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
-
-The Motley Fool • 11h ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 12h ago
+👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 13h ago
 
 ---
 

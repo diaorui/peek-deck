@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T08:28:31.901601+00:00'
+updated: '2026-01-18T08:51:31.367073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 08:28 UTC  
+**Last Updated:** January 18, 2026 at 08:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 I got the bug to try and develop an assistant and Google Gemini APIs are pretty cost effective. I started with an idea based on Geminis remote system calls that allow it to make a request locally to call a function or service. I started with an intent and tool calling agent. The intent agent is given a cached context of current tools and how to use them. this way as more tools and functions becom available, the model doesn't need to be retrained. each tool is a function within python. when a user asks about the weather for example, the intent agent simply calls the weather tool. I programmed it so most tools when called simply make API calls to separate agents. Having agents run separately greatly improves development and improvement on the fly. the most important and hardest part was the memory tool. I programmed a local SQL db that is searchable and editable via these tools. the AI uses memory calls to query previous history. the intent and chat agent are given a brief history in context cache for all conversations. When a user starts talking about things that seam out of context, the agents can call on all history via the memory tool. like humans needing a prompt to remember, it takes a users intent and conversation then breaks it down into keyword searches. the search results are presented to these agents to enrich the conversation. same for; news, fuel prices, recycling guide, web searching, calendar management and more. keeping everything modular and combining multiple AI models together makes for a great assistant. I'm not trying to get anywhere near chatgpt but it maintains context in a single form chat very well. the user doesn't need to reset the conversation or start again. a user can ask it to change what it remembers and delete history just with natural language. just thought I would share some experience. just needing to improve its interface. right now I'm just using sms and text chat programs to interact. I might work on a web UI or something via voice.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 17h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 18h ago
 
 ---
 
@@ -87,7 +87,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 A social experiment: 6 AI models released into a dating simulation.
 
-🔗 [singularity.game](https://singularity.game/) • 7h ago
+🔗 [singularity.game](https://singularity.game/) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ A social experiment: 6 AI models released into a dating simulation.
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdzqRwYYUvwYkQqB_A9G8lAul8N_KRQG985oUrNLulEDm4xcV-swKIa&gaa_ts=696c91ff&gaa_sig=kRr8KP1GWAo9RqfI89E01V2PEliadQtqIqRdGW58vocfBJGY0CORqN96dQdnZeioIcTcWCJCXIvuED6D7iMStw%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqegKhkFri-sQfMyXac8_TuteM9zrj61tg3JqWqzB_datU3IqBqE44du&gaa_ts=696ca27f&gaa_sig=cmlD4Yhdx9TgJhRUVI5U-fGQxEJARYTw4EnWkmaIJNHFp9rIwwVxAsDq3ZBMBx38CnX33YmLg2STqAQajwAYhw%3D%3D)**
 
 The Wall Street Journal • 15h ago
 
@@ -179,9 +179,9 @@ ScienceAlert • 14h ago
 
 ---
 
-**[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
+**[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
 
-Axios • 20h ago
+Axios • 10h ago
 
 ---
 
@@ -196,25 +196,6 @@ NBC News • 22h ago
 ---
 
 ## HackerNews: "ai"
-
-**[To those who fired or didn't hire tech writers because of AI](https://news.ycombinator.com/item?id=46629474)**
-
-Hey you,
-Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
-You are making a big mistake. But you can still undo the damage.
-
-⬆️ 348 • 💬 261 • 3d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
-
----
-
-**[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://news.ycombinator.com/item?id=46629682)**
-
-Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
-With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
-
-⬆️ 253 • 💬 206 • 3d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
-
----
 
 **[Tldraw pauses external contributions due to AI slop](https://news.ycombinator.com/item?id=46641042)**
 
@@ -242,7 +223,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 87 • 💬 89 • 19h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 88 • 💬 89 • 19h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -275,6 +256,22 @@ Starlink quietly enabled third-party AI model training on its customers' persona
 Big Tech doesn't care if you want AI or not. They should.
 
 ⬆️ 47 • 💬 28 • 1d ago • [duckduckgo.com](https://duckduckgo.com/vote)
+
+---
+
+**[Song banned from Swedish charts for being AI creation](https://news.ycombinator.com/item?id=46645886)**
+
+The creators behind the chart-topping song believe their creative process has been misunderstood.
+
+⬆️ 41 • 💬 96 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cp829jey9z7o)
+
+---
+
+**[Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://news.ycombinator.com/item?id=46656759)**
+
+Deterministic PR readiness detection for AI coding agents
+
+⬆️ 37 • 💬 32 • 22h ago • [Good To Go](https://dsifry.github.io/goodtogo/)
 
 ---
 
@@ -655,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 344 • 5h ago
+⭐ 7.3k • 🔱 344 • 6h ago
 
 ---
 
@@ -685,7 +682,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 166 • 14h ago
+⭐ 2.8k • 🔱 166 • 15h ago
 
 ---
 
@@ -695,7 +692,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.6k • 🔱 509 • 1h ago
+⭐ 2.6k • 🔱 509 • 2h ago
 
 ---
 
