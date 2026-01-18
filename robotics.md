@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T15:41:24.858281+00:00'
+updated: '2026-01-18T16:26:39.415877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 15:41 UTC  
+**Last Updated:** January 18, 2026 at 16:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-5h ago
+6h ago
+
+---
+
+**[CV feedback](https://www.reddit.com/r/robotics/comments/1qgcpyw/cv_feedback/)**
+
+Hey im a mechanical engineering student who is specifically interested in a career in robotics , i find myself intimated by the jobs posted in terms of requirements and how they actively ask for MSc or PhDs so i am hoping if anyone can give some advice on my CV how can i improve or how i can apply jobs in an effective manner. sorry if this is the wrong sub
+
+9m ago
 
 ---
 
@@ -64,7 +72,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -72,7 +80,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +88,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-22h ago
+23h ago
 
 ---
 
@@ -88,19 +96,13 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-6h ago
+7h ago
 
 ---
 
 **[A Turret from the game Portal is quite feasible.](https://www.reddit.com/r/robotics/comments/1qg2ld3/a_turret_from_the_game_portal_is_quite_feasible/)**
 
 Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
-
-7h ago
-
----
-
-**[Control strategy for mid-air dropped quadcopter (PX4): cascaded PID vs FSM vs global stabilization](https://www.reddit.com/r/robotics/comments/1qg2d5b/control_strategy_for_midair_dropped_quadcopter/)**
 
 8h ago
 
@@ -126,11 +128,11 @@ Futurism • 1d ago
 
 ---
 
-**[The hidden technology behind fluid robot motion](https://www.therobotreport.com/hidden-technology-behind-fluid-robot-motion/)**
+**[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
-Fluid robot motion is the result of design choices among five options including pneumatics and strain wave gears.
+Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-The Robot Report • 1h ago
+TechCrunch • 16m ago
 
 ---
 
@@ -138,7 +140,7 @@ The Robot Report • 1h ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 15h ago
+WRGB • 16h ago
 
 ---
 
@@ -156,6 +158,14 @@ Bloomberg • 2d ago
 
 ---
 
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+
+Fortune • 3d ago
+
+---
+
 **[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
 
 You soon might go grocery shopping alongside robots.
@@ -165,25 +175,15 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
-
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
-
-Fortune • 3d ago
-
----
-
-**[Oshen built the first ocean robot to collect data in a Category 5 hurricane](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/)**
-
-Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.
-
-TechCrunch • 23h ago
-
----
-
 **[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
+
+---
+
+**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/robots-that-think-before-they-pick-could-transform-tomato-farming/)**
+
+SciTechDaily • 45m ago
 
 ---
 
@@ -197,7 +197,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 203K • 👍 10K • 💬 3K • ⏱️ 19:17 • 2d ago
+👁️ 219K • 👍 11K • 💬 3K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -207,7 +207,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 125K • 👍 5K • 💬 332 • ⏱️ 17:36 • 3d ago
+👁️ 126K • 👍 5K • 💬 333 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -217,17 +217,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 465K • 👍 14K • 💬 815 • ⏱️ 17:09 • 6d ago
-
----
-
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
-
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
-
-📺 CNBC
-
-👁️ 171K • 👍 2K • 💬 410 • ⏱️ 11:46 • 6d ago
+👁️ 466K • 👍 14K • 💬 815 • ⏱️ 17:09 • 6d ago
 
 ---
 
@@ -235,7 +225,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 Chris Wabs
 
-👁️ 402K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 413K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -265,7 +255,7 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 42K • 👍 164 • 💬 15 • ⏱️ 9:43 • 3d ago
+👁️ 43K • 👍 167 • 💬 15 • ⏱️ 9:43 • 3d ago
 
 ---
 
@@ -285,7 +275,17 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 257K • 👍 12K • 💬 207 • ⏱️ 0:49 • 3d ago
+👁️ 260K • 👍 12K • 💬 207 • ⏱️ 0:49 • 3d ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 7K • 👍 67 • 💬 16 • ⏱️ 3:19 • 1d ago
 
 ---
 

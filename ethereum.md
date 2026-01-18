@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T15:41:24.855063+00:00'
+updated: '2026-01-18T16:26:39.412651+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 15:41 UTC  
+**Last Updated:** January 18, 2026 at 16:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +7.5%  
-**30d:** +11.8%  
-**90d:** -13.7%  
-**1y:** +3.4%  
+**24h:** +0.5%  
+**7d:** +7.6%  
+**30d:** +11.9%  
+**90d:** -13.6%  
+**1y:** +3.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.58B
+**Market Cap:** $402.56B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.7%
+-32.6%
 
 **All-Time Low:** $0.43
-+768283.7%
++770099.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-23h ago
+1d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have heard ETH being compared to oil. If oil goes up too high, those, who can, will cut back its use. If ETH goes to some stupid high prices, wouldn't people cut back on its usages and help prices go lower. Wouldn't higher prices also encourage the production of more ETH... the old the solution to high prices is high prices. Please explain to me where the flaw is in my reasoning.
 
-1d ago
+2d ago
 
 ---
 
@@ -166,7 +166,7 @@ The Motley Fool • 2d ago
 
 **[Why enterprises choose Ethereum for tokenization](https://www.jpost.com/crypto-currency/article-883721)**
 
-The Jerusalem Post • 1h ago
+The Jerusalem Post • 2h ago
 
 ---
 
@@ -196,15 +196,7 @@ Decrypt • 2d ago
 
 Ethereum is currently at a technically critical point, which explains the resurgence of bull market discourse. The zone created by the 20- and 21-week EMAs on longer time frames or their daily equivalents in trend structure is known as the bull market support band, and it is currently interacting w…
 
-TradingView — Track All Markets • 4h ago
-
----
-
-**[From $3.5K to $12K? Here’s why BMNR’s Ethereum forecast makes sense](https://ambcrypto.com/from-3-5k-to-12k-heres-why-bmnrs-ethereum-forecast-makes-sense/)**
-
-Is Ethereum following Bitcoin’s institutional playbook?
-
-AMBCrypto • 13h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -222,6 +214,14 @@ thestreet.com • 1d ago
 
 ---
 
+**[XRP volume is exploding in Korea because it exploits a specific gap in the country’s spot-only exchange laws](https://cryptoslate.com/xrp-volume-is-exploding-in-korea-because-it-exploits-a-specific-gap-in-the-countrys-spot-only-exchange-laws/)**
+
+South Korea's market infrastructure and community culture make XRP the preferred choice for high-velocity trades and retail engagement.
+
+CryptoSlate • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,17 +232,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 109 • 💬 7 • ⏱️ 9:21 • 4h ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 4h ago
+👁️ 2K • 👍 169 • 💬 18 • ⏱️ 9:21 • 5h ago
 
 ---
 
@@ -252,7 +242,27 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 55K • 👍 2K • 💬 271 • ⏱️ 10:28 • 22h ago
+👁️ 57K • 👍 2K • 💬 277 • ⏱️ 10:28 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=xvbqk57Spf4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 766 • 👍 81 • 💬 3 • ⏱️ 4:43 • 3h ago
+
+---
+
+**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
+
+BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 5h ago
 
 ---
 
@@ -262,17 +272,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 235 • ⏱️ 12:19 • 18h ago
-
----
-
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 7K • 👍 208 • 💬 22 • ⏱️ 24:55 • 1d ago
+👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 19h ago
 
 ---
 
@@ -282,17 +282,27 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 4K • 👍 212 • 💬 38 • ⏱️ 13:56 • 20h ago
+👁️ 4K • 👍 219 • 💬 39 • ⏱️ 13:56 • 21h ago
 
 ---
 
-**[These 11 Altcoins Could Become VERY Popular In 2026 Bitcoin Ethereum &amp; XRP Could Have New Rivals](https://www.youtube.com/watch?v=mZv0DrW8f5w)**
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
 
-Never a dull moment in the cryptocurrency space. Things are about to heat up even more in the crypto market as more and more ...
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
 
-📺 The Modern Investor
+📺 CoinDesk
 
-👁️ 2K • 👍 385 • 💬 85 • ⏱️ 27:39 • 6h ago
+👁️ 8K • 👍 213 • 💬 25 • ⏱️ 24:55 • 1d ago
+
+---
+
+**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 24K • 👍 859 • 💬 29 • ⏱️ 16:47 • 2d ago
 
 ---
 
@@ -302,27 +312,17 @@ Never a dull moment in the cryptocurrency space. Things are about to heat up eve
 
 📺 Stock Moe
 
-👁️ 10K • 👍 697 • 💬 60 • ⏱️ 15:35 • 1d ago
+👁️ 10K • 👍 704 • 💬 60 • ⏱️ 15:35 • 1d ago
 
 ---
 
-**[Ethereum Exploding? MrBeast &amp; $200M Investment Hint! #shorts #mrbeast](https://www.youtube.com/watch?v=aPnV-0lVbAE)**
+**[These 11 Altcoins Could Become VERY Popular In 2026 Bitcoin Ethereum &amp; XRP Could Have New Rivals](https://www.youtube.com/watch?v=mZv0DrW8f5w)**
 
-Is MrBeast about to endorse Ethereum? With over half a billion followers, his voice carries weight. A $200M investment deal ...
+Never a dull moment in the cryptocurrency space. Things are about to heat up even more in the crypto market as more and more ...
 
-📺 Traders Reality
+📺 The Modern Investor
 
-👁️ 8K • 👍 235 • 💬 52 • ⏱️ 1:22 • 19h ago
-
----
-
-**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors In January!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 190 • 💬 186 • ⏱️ 15:03 • 2d ago
+👁️ 4K • 👍 566 • 💬 125 • ⏱️ 27:39 • 6h ago
 
 ---
 

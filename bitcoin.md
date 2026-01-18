@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T15:41:24.849160+00:00'
+updated: '2026-01-18T16:26:39.406633+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 15:41 UTC  
+**Last Updated:** January 18, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +4.2%  
-**30d:** +7.5%  
-**90d:** -12.5%  
-**1y:** -5.9%  
+**24h:** -0.2%  
+**7d:** +4.3%  
+**30d:** +7.6%  
+**90d:** -12.4%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1900.31B
+**Market Cap:** $1900.29B
 Rank #1
 
-**Circulating Supply:** 19,977,415 BTC
+**Circulating Supply:** 19,977,521 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.6%
 
 **All-Time Low:** $67.81
-+140208.2%
++140164.0%
 
 ---
 
@@ -81,13 +81,15 @@ Rank #1
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-4h ago
+5h ago
 
 ---
 
-**[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
+**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
 
-2h ago
+Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
+
+4h ago
 
 ---
 
@@ -101,21 +103,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-12h ago
-
----
-
-**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
-
-Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
-
-4h ago
-
----
-
-**[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
-
-1d ago
+13h ago
 
 ---
 
@@ -135,15 +123,27 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 ---
 
-**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
-
-20h ago
-
----
-
 **[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
 
 2h ago
+
+---
+
+**[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
+
+1d ago
+
+---
+
+**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
+
+21h ago
+
+---
+
+**[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
+
+8h ago
 
 ---
 
@@ -165,19 +165,33 @@ The New York Times • 2d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/18/should-you-forget-bitcoin-and-buy-xrp-instead/)**
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
-XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-The Motley Fool • 1h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Bitcoin to $180,000, stablecoins to soar in 2026, investor Dan Tapiero predicts](https://www.coindesk.com/markets/2026/01/18/bitcoin-to-usd180-000-stablecoins-to-soar-in-2026-investor-dan-tapiero-predicts)**
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
 
-From macro tailwinds to trillion-dollar rails, the 50T Funds founder sees real-world adoption reshaping the crypto landscape.
+XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
 
-CoinDesk • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Should you forget Bitcoin and buy XRP instead?](https://www.msn.com/en-us/money/savingandinvesting/should-you-forget-bitcoin-and-buy-xrp-instead/ar-AA1Us5QB?ocid=finance-verthp-feeds)**
+
+MSN • 55m ago
+
+---
+
+**[Large bitcoin investors are increasingly piling into bullish bets and cutting short positions](https://www.coindesk.com/markets/2026/01/19/here-is-why-usd1-2-billion-bitcoin-etf-inflow-is-a-new-bullish-signal)**
+
+Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
+
+CoinDesk • 17m ago
 
 ---
 
@@ -185,21 +199,13 @@ CoinDesk • 2h ago
 
 Gold and silver offer stability amid market turmoil, while bitcoin can swing wildly. A diversified mix of assets is advisable to protect wealth in uncertain times.
 
-Yahoo! Finance Canada • 1h ago
+Yahoo! Finance Canada • 2h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg • 2d ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -211,17 +217,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.](https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?gaa_at=eafs&gaa_n=AWEtsqeHmHSA8ySykqTZWqdBCg1qwPxTfJHWe8IMlCmwvfY8xVSQyUO4NvtF&gaa_ts=696cfdc0&gaa_sig=psOX9y1nyYKLzKULkOy6hB_I0dJBH4JfHXjcWWRpHef4lfYkBXNPrqW9wePfBu7VjInNf_1QOsH4IBbS4bSDuQ%3D%3D)**
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
 
-MarketWatch • 1d ago
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
 
----
-
-**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
-
-Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
-
-Gizmodo • 18h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ Gizmodo • 18h ago
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 1d ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 2d ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 18h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 19h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 235 • ⏱️ 12:19 • 18h ago
+👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 19h ago
 
 ---
 
@@ -327,7 +327,17 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 122 • ⏱️ 17:39 • 19h ago
+👁️ 27K • 👍 2K • 💬 128 • ⏱️ 17:39 • 20h ago
+
+---
+
+**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
+
+Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
+
+📺 The Wolf Of All Streets
+
+👁️ 5K • 👍 429 • 💬 134 • ⏱️ 53:40 • 2h ago
 
 ---
 
@@ -337,17 +347,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 155 • ⏱️ 8:18 • 1d ago
-
----
-
-**[Why Bitcoin &amp; The Crypto Market Refuse to Crash.](https://www.youtube.com/watch?v=b7G2pmuXn4o)**
-
-Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolved? I believe so and it makes me turn from ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 613 • 💬 87 • ⏱️ 29:43 • 20h ago
+👁️ 41K • 👍 2K • 💬 157 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 59K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
+👁️ 61K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 26K • 👍 1K • 💬 291 • ⏱️ 1:13:07 • 2d ago
+👁️ 27K • 👍 1K • 💬 294 • ⏱️ 1:13:07 • 2d ago
 
 ---
 
@@ -377,27 +377,17 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 221 • ⏱️ 16:02 • 1d ago
+👁️ 55K • 👍 3K • 💬 223 • ⏱️ 16:02 • 1d ago
 
 ---
 
-**[IMPORTANT FOR ALL BITCOIN HOLDERS!!!](https://www.youtube.com/watch?v=eYMfMHL2Ohc)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 Crypto Rover
+📺 Yahoo Finance
 
-👁️ 6K • 👍 425 • 💬 17 • ⏱️ 11:13 • 10h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 84K • 👍 5K • 💬 217 • ⏱️ 18:18 • 2d ago
+👁️ 14K • 👍 269 • 💬 28 • ⏱️ 5:23 • 2d ago
 
 ---
 
@@ -407,7 +397,17 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 4h ago
+👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 5h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 85K • 👍 5K • 💬 219 • ⏱️ 18:18 • 2d ago
 
 ---
 
