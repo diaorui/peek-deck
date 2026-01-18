@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T13:48:30.574064+00:00'
+updated: '2026-01-18T14:19:16.744328+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 13:48 UTC  
+**Last Updated:** January 18, 2026 at 14:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 3d ago
 
 Ethereum is currently at a technically critical point, which explains the resurgence of bull market discourse. The zone created by the 20- and 21-week EMAs on longer time frames or their daily equivalents in trend structure is known as the bull market support band, and it is currently interacting w…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -206,7 +206,7 @@ Decrypt • 2d ago
 
 Is Ethereum following Bitcoin’s institutional playbook?
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ AMBCrypto • 11h ago
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-24/7 Wall St. • 2d ago
+24/7 Wall St. • 3d ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 2h ago
+👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 55K • 👍 2K • 💬 271 • ⏱️ 10:28 • 20h ago
+👁️ 55K • 👍 2K • 💬 271 • ⏱️ 10:28 • 21h ago
 
 ---
 
@@ -284,7 +284,7 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 4K • 👍 212 • 💬 38 • ⏱️ 13:56 • 18h ago
+👁️ 4K • 👍 212 • 💬 38 • ⏱️ 13:56 • 19h ago
 
 ---
 
@@ -314,7 +314,7 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 8K • 👍 235 • 💬 52 • ⏱️ 1:22 • 17h ago
+👁️ 8K • 👍 235 • 💬 52 • ⏱️ 1:22 • 18h ago
 
 ---
 

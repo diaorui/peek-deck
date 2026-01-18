@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T13:48:30.577263+00:00'
+updated: '2026-01-18T14:19:16.747555+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 13:48 UTC  
+**Last Updated:** January 18, 2026 at 14:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-17m ago
+47m ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
 
-5h ago
+6h ago
 
 ---
 
@@ -130,7 +130,7 @@ Futurism • 1d ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 13h ago
+WRGB • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ Fortune • 3d ago
 
 **[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ Tech Xplore • 21h ago
 
 Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -183,7 +183,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 High school and college students compete in back-to-back tournaments – More than 60 robotics teams from across California and beyond will compete this weekend at […]
 
-Paso Robles Daily News • 1d ago
+Paso Robles Daily News • 2d ago
 
 ---
 

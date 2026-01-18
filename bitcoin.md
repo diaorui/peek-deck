@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T13:48:30.568113+00:00'
+updated: '2026-01-18T14:19:16.738318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 13:48 UTC  
+**Last Updated:** January 18, 2026 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -121,7 +121,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 22h ago
 
 **[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 1d ago
 
 From macro tailwinds to trillion-dollar rails, the 50T Funds founder sees real-world adoption reshaping the crypto landscape.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -285,7 +285,7 @@ Rolling coverage of the latest economic and financial news
 
 Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
 
-⬆️ 1 • 💬 1 • 5d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
+⬆️ 1 • 💬 1 • 6d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
 
 ---
 
@@ -301,7 +301,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 16h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 17h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -325,7 +325,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 122 • ⏱️ 17:39 • 17h ago
+👁️ 26K • 👍 2K • 💬 122 • ⏱️ 17:39 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 59K • 👍 4K • 💬 1K • ⏱️ 16:04 • 23h ago
+👁️ 59K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 425 • 💬 17 • ⏱️ 11:13 • 8h ago
+👁️ 6K • 👍 425 • 💬 17 • ⏱️ 11:13 • 9h ago
 
 ---
 
@@ -405,7 +405,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 2h ago
+👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 3h ago
 
 ---
 
