@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T21:19:13.670966+00:00'
+updated: '2026-01-18T21:40:29.489615+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 21:19 UTC  
+**Last Updated:** January 18, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** +4.6%  
-**30d:** +8.0%  
-**90d:** -12.1%  
-**1y:** -5.5%  
+**7d:** +4.5%  
+**30d:** +7.9%  
+**90d:** -12.2%  
+**1y:** -5.6%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[From Bitcoin skeptic to owning 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1qg5jc1/from_bitcoin_skeptic_to_owning_01_btc/)**
+**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
 
-Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
+Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
 10h ago
 
 ---
 
-**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+**[From Bitcoin skeptic to owning 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1qg5jc1/from_bitcoin_skeptic_to_owning_01_btc/)**
 
-Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
+Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-15h ago
+16h ago
 
 ---
 
@@ -159,34 +159,6 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 2d ago
-
----
-
-**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
-
-The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
-
-Yahoo Finance • 1d ago
-
----
-
-**['Bear market rally': CryptoQuant breaks down bitcoin's recent price rebound](https://www.theblock.co/post/386021/bear-market-rally-cryptoquant-bitcoin-price-rebound)**
-
-The Block • 2d ago
-
----
-
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 2d ago
-
----
-
 **[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
 Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
@@ -195,11 +167,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[MicroStrategy’s Saylor Hints at Bitcoin Acquisition Surpassing $1.25 Billion](https://finance.yahoo.com/news/microstrategy-saylor-hints-bitcoin-acquisition-190105018.html)**
+**[Bitcoin $50 2022 Bet Nearly Doubles Today](https://www.findarticles.com/bitcoin-50-2022-bet-nearly-doubles-today/)**
 
-Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
+I put $50 into Bitcoin in early 2022 and then did what most small, curious investors do: watched it crater, bounce, and lurch through news cycles. After
 
-Yahoo Finance • 2h ago
+findarticles.com • 1h ago
 
 ---
 
@@ -209,9 +181,25 @@ The New York Times • 2d ago
 
 ---
 
+**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
+
+Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
+
+Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
+
+Gizmodo • 1d ago
+
+---
+
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -220,6 +208,22 @@ Bloomberg • 2d ago
 Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
 
 Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
+
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
+
+Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -263,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 22h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 23h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -315,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 270 • ⏱️ 12:19 • 23h ago
+👁️ 47K • 👍 3K • 💬 270 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -355,7 +359,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Crypto Cam
 
-👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 20h ago
+👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 21h ago
 
 ---
 
@@ -405,7 +409,7 @@ Follow me on X for more frequent posts! https://x.com/colintcrypto ————�
 
 📺 Colin Talks Crypto
 
-👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 20h ago
+👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 21h ago
 
 ---
 
