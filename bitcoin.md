@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T10:23:20.965723+00:00'
+updated: '2026-01-18T10:45:06.355236+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 10:23 UTC  
+**Last Updated:** January 18, 2026 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-51m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 1d ago
 
 This privacy coin has a few significant things going for it that Bitcoin doesn't.
 
-The Motley Fool • 23m ago
+The Motley Fool • 45m ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 23m ago
 
 Bitcoin ETFs saw $1.42 billion inflows this week as indicators flash a buy signal and BTC holds key $95,000 support.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 45m ago
 
 Steak ’n Shake has invested $10 million in Bitcoin, embedding BTC accumulation directly into its daily operations.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 13h ago
 
 The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 18h ago
 
 Steak ’n Shake, the 91-year-old American burger chain, has taken its first public step into corporate Bitcoin ownership, announcing a $10 million purchase of the cryptocurrency for its treasury. Key Takeaways: Steak ’n Shake made its first $10M Bitcoin treasury purchase after adopting crypto payments. All customer-paid Bitcoin now flows ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 11h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 12h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -295,7 +295,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 4d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+⬆️ 1 • 💬 0 • 5d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -327,7 +327,7 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 571 • 💬 82 • ⏱️ 29:43 • 14h ago
+👁️ 8K • 👍 571 • 💬 82 • ⏱️ 29:43 • 15h ago
 
 ---
 

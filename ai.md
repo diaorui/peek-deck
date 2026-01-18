@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T10:23:20.957280+00:00'
+updated: '2026-01-18T10:45:06.346464+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 10:23 UTC  
+**Last Updated:** January 18, 2026 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-23h ago
+1d ago
 
 ---
 
@@ -57,7 +57,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 19h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 A social experiment: 6 AI models released into a dating simulation.
 
-🔗 [singularity.game](https://singularity.game/) • 9h ago
+🔗 [singularity.game](https://singularity.game/) • 10h ago
 
 ---
 
@@ -95,7 +95,7 @@ A social experiment: 6 AI models released into a dating simulation.
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 22h ago
 
 Tech News News: Andrej Karpathy, the OpenAI cofounder who led Tesla's Autopilot AI for five years, has pushed back against the idea that software engineers should sto.
 
-Times of India • 2h ago
+Times of India • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 1h ago
 
 Experts warn use of VPNs makes it hard to limit access to technology that can create nonconsensual explicit images
 
-The Guardian • 39m ago
+The Guardian • 1h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 346 • 7h ago
+⭐ 7.3k • 🔱 346 • 8h ago
 
 ---
 
@@ -692,7 +692,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.7k • 🔱 514 • 3h ago
+⭐ 2.7k • 🔱 514 • 4h ago
 
 ---
 
