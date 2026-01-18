@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T18:52:45.846818+00:00'
+updated: '2026-01-18T19:16:37.134421+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 18:52 UTC  
+**Last Updated:** January 18, 2026 at 19:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-11h ago
+12h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 3d ago
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 **[Robotic competition puts students to test](https://www.news10.com/top-stories/robotic-competition-puts-students-to-test/)**
 
-NEWS10 ABC • 15h ago
+NEWS10 ABC • 16h ago
 
 ---
 
@@ -195,7 +195,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 2d ago
+👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 3d ago
 
 ---
 

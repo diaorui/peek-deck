@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T18:52:45.836541+00:00'
+updated: '2026-01-18T19:16:37.125115+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 18:52 UTC  
+**Last Updated:** January 18, 2026 at 19:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -137,13 +137,13 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-23h ago
+1d ago
 
 ---
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 2d ago
 
 Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2d ago
 
 The so-called Fish-to-Shark cohort added 110,000 BTC over the past 30 days, according to Glassnode.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 5d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 6d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -305,7 +305,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 21h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 22h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -329,7 +329,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 22h ago
+👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 23h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 4h ago
+👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 5h ago
 
 ---
 
@@ -399,7 +399,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 7h ago
+👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 8h ago
 
 ---
 
