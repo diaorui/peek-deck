@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T12:42:22.523595+00:00'
+updated: '2026-01-18T13:29:19.697504+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 12:42 UTC  
+**Last Updated:** January 18, 2026 at 13:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-20h ago
+21h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 2d ago
 
 Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 2d ago
 
 Is Ethereum following Bitcoin’s institutional playbook?
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 401 • 👍 45 • 💬 5 • ⏱️ 9:21 • 1h ago
+👁️ 401 • 👍 45 • 💬 5 • ⏱️ 9:21 • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 53K • 👍 2K • 💬 269 • ⏱️ 10:28 • 19h ago
+👁️ 53K • 👍 2K • 💬 269 • ⏱️ 10:28 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 510 • 👍 45 • 💬 10 • ⏱️ 19:48 • 1h ago
+👁️ 510 • 👍 45 • 💬 10 • ⏱️ 19:48 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 239 • ⏱️ 12:19 • 15h ago
+👁️ 37K • 👍 2K • 💬 239 • ⏱️ 12:19 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 57 • 👍 10 • 💬 2 • ⏱️ 5:23 • 2h ago
+👁️ 57 • 👍 10 • 💬 2 • ⏱️ 5:23 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 7K • 👍 227 • 💬 52 • ⏱️ 1:22 • 16h ago
+👁️ 7K • 👍 227 • 💬 52 • ⏱️ 1:22 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T12:42:22.517562+00:00'
+updated: '2026-01-18T13:29:19.692193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 12:42 UTC  
+**Last Updated:** January 18, 2026 at 13:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-1h ago
+2h ago
 
 ---
 
@@ -101,13 +101,13 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-12h ago
+13h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 1d ago
 
 This privacy coin has a few significant things going for it that Bitcoin doesn't.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ MarketWatch • 1d ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 15h ago
+Gizmodo • 16h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 14h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 15h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 15h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 16h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 239 • ⏱️ 12:19 • 15h ago
+👁️ 37K • 👍 2K • 💬 239 • ⏱️ 12:19 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 118 • ⏱️ 17:39 • 16h ago
+👁️ 25K • 👍 2K • 💬 118 • ⏱️ 17:39 • 17h ago
 
 ---
 
@@ -357,7 +357,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 57K • 👍 4K • 💬 1K • ⏱️ 16:04 • 22h ago
+👁️ 57K • 👍 4K • 💬 1K • ⏱️ 16:04 • 23h ago
 
 ---
 
@@ -387,7 +387,7 @@ Crypto News: Coinbase CEO denies White House clash, says negotiations are ongoin
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 349 • 💬 54 • ⏱️ 18:55 • 8h ago
+👁️ 4K • 👍 349 • 💬 54 • ⏱️ 18:55 • 9h ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 376 • 💬 16 • ⏱️ 11:13 • 7h ago
+👁️ 5K • 👍 376 • 💬 16 • ⏱️ 11:13 • 8h ago
 
 ---
 
