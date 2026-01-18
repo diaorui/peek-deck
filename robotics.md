@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T03:49:47.220064+00:00'
+updated: '2026-01-18T04:42:54.787159+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 03:49 UTC  
+**Last Updated:** January 18, 2026 at 04:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-17h ago
+18h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 Hey there! I’m exploring options for robotic barista machines (coffee robots) and robotic ice cream makers that are good quality and budget-friendly, ideally available in Canada or that can be shipped here without insane import costs. Please share suggestions, links, pricing info, and your honest experience. TIA
 
-11h ago
+12h ago
 
 ---
 
@@ -114,7 +114,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 15h ago
+Futurism • 16h ago
 
 ---
 
@@ -153,7 +153,7 @@ Crunchbase News • 3d ago
 You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
-Pittsburgh Post-Gazette • 18h ago
+Pittsburgh Post-Gazette • 19h ago
 
 ---
 
@@ -191,33 +191,23 @@ Yahoo Finance • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 121K • 👍 5K • 💬 325 • ⏱️ 17:36 • 3d ago
-
----
-
 **[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 159K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 168K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-📺 CNBC
+📺 Ticker Symbol: YOU
 
-👁️ 169K • 👍 2K • 💬 404 • ⏱️ 11:46 • 6d ago
+👁️ 123K • 👍 5K • 💬 332 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -227,7 +217,17 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 462K • 👍 14K • 💬 810 • ⏱️ 17:09 • 5d ago
+👁️ 463K • 👍 14K • 💬 812 • ⏱️ 17:09 • 5d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 170K • 👍 2K • 💬 406 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -235,7 +235,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Chris Wabs
 
-👁️ 364K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+👁️ 370K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -243,17 +243,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Wowearth
 
-👁️ 134K • 👍 2K • 💬 68 • ⏱️ 1:16 • 4d ago
-
----
-
-**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
-
-Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
-
-📺 The Military Show
-
-👁️ 200K • 👍 5K • 💬 249 • ⏱️ 23:16 • 13h ago
+👁️ 135K • 👍 2K • 💬 68 • ⏱️ 1:16 • 4d ago
 
 ---
 
@@ -284,6 +274,16 @@ Today we explore a civilization that develops and allows it's own replacement. -
 📺 joeybtoonz
 
 👁️ 248K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+
+---
+
+**[CES 2026&#39;s Wildest Tech: AI &amp; Robotics You Have to See](https://www.youtube.com/watch?v=8yLsLMNB5uc)**
+
+This year's CES offered a revealing look at where AI and robotics stand in 2026, with companies like Realbotix and Boston ...
+
+📺 Cheddar
+
+👁️ 41K • 👍 155 • 💬 14 • ⏱️ 9:43 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T03:49:47.210837+00:00'
+updated: '2026-01-18T04:42:54.777849+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 03:49 UTC  
+**Last Updated:** January 18, 2026 at 04:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1895.87B
+**Market Cap:** $1898.60B
 Rank #1
 
-**Circulating Supply:** 19,977,256 BTC
+**Circulating Supply:** 19,977,290 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.7%
+-24.6%
 
 **All-Time Low:** $67.81
-+139820.4%
++140051.9%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -113,13 +113,13 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-14h ago
+15h ago
 
 ---
 
 **[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -135,7 +135,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Does anyone feel that buying bitcoin right now is a race against the time? Proba
 
 Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 1d ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1d ago
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Business Insider • 17h ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 5h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 6h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,17 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 155 • ⏱️ 8:18 • 1d ago
+👁️ 39K • 👍 2K • 💬 154 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
+
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
+
+📺 Simply Bitcoin
+
+👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 8h ago
 
 ---
 
@@ -327,7 +337,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 43K • 👍 4K • 💬 977 • ⏱️ 16:04 • 13h ago
+👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 14h ago
 
 ---
 
@@ -337,7 +347,17 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 225 • ⏱️ 16:02 • 1d ago
+👁️ 53K • 👍 3K • 💬 225 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[Bitcoin Didn’t Make Millionaires—Conviction Did](https://www.youtube.com/watch?v=EewQ2GMF3kA)**
+
+Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth $2.8 billion today—but almost nobody could ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 13h ago
 
 ---
 
@@ -347,7 +367,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 24K • 👍 1K • 💬 285 • ⏱️ 1:13:07 • 1d ago
+👁️ 24K • 👍 1K • 💬 287 • ⏱️ 1:13:07 • 1d ago
 
 ---
 
@@ -357,7 +377,7 @@ Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 246 • 💬 24 • ⏱️ 5:23 • 2d ago
+👁️ 12K • 👍 250 • 💬 24 • ⏱️ 5:23 • 2d ago
 
 ---
 
@@ -367,7 +387,7 @@ Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 211 • ⏱️ 18:18 • 1d ago
+👁️ 81K • 👍 5K • 💬 213 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -377,17 +397,7 @@ BOMBSHELL Crypto Bill Passing SOON! BANK CEO Drops Stablecoin Ultimatum – What
 
 📺 CryptoWendyO
 
-👁️ 22K • 👍 1K • 💬 175 • ⏱️ 3:57 • 1d ago
-
----
-
-**[Bitcoin Reaches CRITICAL Levels... Here&#39;s what this means](https://www.youtube.com/watch?v=TeZ8k2OiHtk)**
-
-The Bitcoin rally recently is reaching critical levels. But is this rally for real or could it potentially fail? What are the likely outcomes ...
-
-📺 Alessio Rastani
-
-👁️ 33K • 👍 2K • 💬 315 • ⏱️ 15:58 • 1d ago
+👁️ 22K • 👍 1K • 💬 172 • ⏱️ 3:57 • 1d ago
 
 ---
 
@@ -397,17 +407,7 @@ Brian Armstrong, Coinbase CEO, joins 'Halftime Report' to discuss the latest cry
 
 📺 CNBC Television
 
-👁️ 154K • 👍 2K • 💬 473 • ⏱️ 5:15 • 2d ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 15K • 👍 1K • 💬 233 • ⏱️ 12:19 • 6h ago
+👁️ 157K • 👍 2K • 💬 487 • ⏱️ 5:15 • 2d ago
 
 ---
 
