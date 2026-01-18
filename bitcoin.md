@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T22:44:22.970106+00:00'
+updated: '2026-01-18T23:20:46.087403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 22:44 UTC  
+**Last Updated:** January 18, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1903.62B
+**Market Cap:** $1898.53B
 Rank #1
 
-**Circulating Supply:** 19,977,587 BTC
+**Circulating Supply:** 19,977,656 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.4%
+-24.6%
 
 **All-Time Low:** $67.81
-+140422.0%
++140124.2%
 
 ---
 
@@ -89,13 +89,13 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-11h ago
+12h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
 
-56m ago
+1h ago
 
 ---
 
@@ -315,13 +315,23 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
+
+Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
+
+📺 The Wolf Of All Streets
+
+👁️ 22K • 👍 996 • 💬 329 • ⏱️ 53:40 • 9h ago
+
+---
+
 **[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 270 • ⏱️ 12:19 • 1d ago
+👁️ 49K • 👍 3K • 💬 251 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -331,17 +341,17 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 236 • ⏱️ 17:39 • 1d ago
+👁️ 30K • 👍 2K • 💬 221 • ⏱️ 17:39 • 1d ago
 
 ---
 
-**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
+**[Satoshi Bitcoin Wallet Dumps EVERYTHING! Why Crypto ISN’T DEAD (Send This To 1 Friend)](https://www.youtube.com/watch?v=NX-AQYwhptg)**
 
-Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 8h ago
+👁️ 13K • 👍 1K • 💬 221 • ⏱️ 14:15 • 2h ago
 
 ---
 
@@ -351,27 +361,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 5h ago
-
----
-
-**[Satoshi Sold His Bitcoin?!😨🚨](https://www.youtube.com/watch?v=k21KexeFkOY)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 22h ago
-
----
-
-**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
-
-Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
-
-📺 Keith D
-
-👁️ 64K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
+👁️ 4K • 👍 217 • 💬 172 • ⏱️ 8:40 • 6h ago
 
 ---
 
@@ -381,37 +371,47 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 158 • ⏱️ 8:18 • 2d ago
+👁️ 42K • 👍 2K • 💬 160 • ⏱️ 8:18 • 2d ago
 
 ---
 
-**[BITCOIN: THE LOCAL TOP IS IN!!!!!!!!!!!!!!!!!!?](https://www.youtube.com/watch?v=8P3BS3lOODM)**
+**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
 
-WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCode=g2gb $1000 DAILY BLOFIN: ...
+Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
 
-📺 The Moon Show
+📺 Keith D
 
-👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 8h ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 11h ago
+👁️ 65K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
-**[🔵 BTC, ETH and ETH/BTC | Bullish Month Ahead! | Don&#39;t Fall for the Certainty Trap](https://www.youtube.com/watch?v=fJySDtJI700)**
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
 
-Follow me on X for more frequent posts! https://x.com/colintcrypto —————————————— Disclaimer: This video is not ...
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
 
-📺 Colin Talks Crypto
+📺 What Bitcoin Did
 
-👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 22h ago
+👁️ 29K • 👍 1K • 💬 305 • ⏱️ 1:13:07 • 2d ago
+
+---
+
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
+
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
+
+📺 Altcoin Daily
+
+👁️ 57K • 👍 3K • 💬 225 • ⏱️ 16:02 • 2d ago
+
+---
+
+**[Silver Market Just Sent An Emergency Signal To Bitcoin](https://www.youtube.com/watch?v=jaV6oWQRPwM)**
+
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+
+📺 Tim Talks Finance
+
+👁️ 19K • 👍 419 • 💬 85 • ⏱️ 9:47 • 1d ago
 
 ---
 

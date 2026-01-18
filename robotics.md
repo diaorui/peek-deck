@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T22:44:22.979243+00:00'
+updated: '2026-01-18T23:20:46.096657+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 22:44 UTC  
+**Last Updated:** January 18, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-15h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 3d ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 22h ago
+WRGB • 23h ago
 
 ---
 
@@ -189,23 +189,31 @@ Pittsburgh Post-Gazette • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 128K • 👍 5K • 💬 337 • ⏱️ 17:36 • 4d ago
-
----
-
 **[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 250K • 👍 12K • 💬 3K • ⏱️ 19:17 • 3d ago
+👁️ 264K • 👍 13K • 💬 3K • ⏱️ 19:17 • 3d ago
+
+---
+
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 129K • 👍 5K • 💬 348 • ⏱️ 17:36 • 4d ago
+
+---
+
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 161K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
 
 ---
 
@@ -215,7 +223,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 280K • 👍 7K • 💬 696 • ⏱️ 33:05 • 5h ago
+👁️ 490K • 👍 10K • 💬 828 • ⏱️ 33:05 • 5h ago
 
 ---
 
@@ -225,7 +233,17 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 469K • 👍 14K • 💬 817 • ⏱️ 17:09 • 6d ago
+👁️ 471K • 👍 14K • 💬 820 • ⏱️ 17:09 • 6d ago
+
+---
+
+**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+
+HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+
+📺 Deepen
+
+👁️ 19K • 👍 240 • 💬 4 • ⏱️ 0:23 • 2d ago
 
 ---
 
@@ -239,13 +257,13 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
 
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
 
-📺 DPCcars
+📺 Gohar Khan
 
-👁️ 7K • 👍 71 • 💬 18 • ⏱️ 3:19 • 2d ago
+👁️ 269K • 👍 12K • 💬 209 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -255,37 +273,17 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 43K • 👍 168 • 💬 15 • ⏱️ 9:43 • 4d ago
+👁️ 43K • 👍 170 • 💬 15 • ⏱️ 9:43 • 4d ago
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
 
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
 
-📺 joeybtoonz
+📺 Pit Novations
 
-👁️ 252K • 👍 15K • 💬 3K • ⏱️ 5:12 • 5d ago
-
----
-
-**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
-
-Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
-
-📺 The Military Show
-
-👁️ 285K • 👍 7K • 💬 290 • ⏱️ 23:16 • 1d ago
-
----
-
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
-
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
-
-📺 Gohar Khan
-
-👁️ 266K • 👍 12K • 💬 208 • ⏱️ 0:49 • 4d ago
+👁️ 44K • 👍 125 • 💬 14 • ⏱️ 0:05 • 4d ago
 
 ---
 

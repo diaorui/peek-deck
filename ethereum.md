@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T22:44:22.976036+00:00'
+updated: '2026-01-18T23:20:46.093451+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 22:44 UTC  
+**Last Updated:** January 18, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $403.28B
+**Market Cap:** $401.78B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.5%
+-32.7%
 
 **All-Time Low:** $0.43
-+771219.2%
++769029.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
 
-1d ago
+2d ago
 
 ---
 
@@ -198,7 +198,7 @@ The Motley Fool • 2d ago
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 26m ago
+The Block • 1h ago
 
 ---
 
@@ -212,7 +212,7 @@ CoinDesk • 2d ago
 
 Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 230 • 💬 100 • ⏱️ 9:21 • 12h ago
+👁️ 5K • 👍 249 • 💬 81 • ⏱️ 9:21 • 12h ago
 
 ---
 
@@ -244,27 +244,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 62K • 👍 3K • 💬 276 • ⏱️ 10:28 • 1d ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=xvbqk57Spf4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 111 • 💬 16 • ⏱️ 4:43 • 10h ago
+👁️ 65K • 👍 3K • 💬 278 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -274,7 +254,17 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 8K • 👍 227 • 💬 26 • ⏱️ 24:55 • 2d ago
+👁️ 8K • 👍 234 • 💬 89 • ⏱️ 24:55 • 2d ago
+
+---
+
+**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
+
+BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 336 • 💬 262 • ⏱️ 19:48 • 12h ago
 
 ---
 
@@ -284,37 +274,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 270 • ⏱️ 12:19 • 1d ago
-
----
-
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 5K • 👍 229 • 💬 36 • ⏱️ 13:56 • 1d ago
-
----
-
-**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 25K • 👍 874 • 💬 28 • ⏱️ 16:47 • 2d ago
-
----
-
-**[These 11 Altcoins Could Become VERY Popular In 2026 Bitcoin Ethereum &amp; XRP Could Have New Rivals](https://www.youtube.com/watch?v=mZv0DrW8f5w)**
-
-Never a dull moment in the cryptocurrency space. Things are about to heat up even more in the crypto market as more and more ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 694 • 💬 264 • ⏱️ 27:39 • 13h ago
+👁️ 49K • 👍 3K • 💬 251 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -324,7 +284,47 @@ Never a dull moment in the cryptocurrency space. Things are about to heat up eve
 
 📺 Stock Moe
 
-👁️ 10K • 👍 716 • 💬 60 • ⏱️ 15:35 • 1d ago
+👁️ 10K • 👍 724 • 💬 56 • ⏱️ 15:35 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=xvbqk57Spf4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 116 • 💬 6 • ⏱️ 4:43 • 10h ago
+
+---
+
+**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 5K • 👍 236 • 💬 37 • ⏱️ 13:56 • 1d ago
+
+---
+
+**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 26K • 👍 882 • 💬 28 • ⏱️ 16:47 • 2d ago
+
+---
+
+**[These 11 Altcoins Could Become VERY Popular In 2026 Bitcoin Ethereum &amp; XRP Could Have New Rivals](https://www.youtube.com/watch?v=mZv0DrW8f5w)**
+
+Never a dull moment in the cryptocurrency space. Things are about to heat up even more in the crypto market as more and more ...
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 727 • 💬 241 • ⏱️ 27:39 • 13h ago
 
 ---
 
