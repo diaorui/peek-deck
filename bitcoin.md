@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T05:47:06.993678+00:00'
+updated: '2026-01-18T06:33:40.733326+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 05:47 UTC  
+**Last Updated:** January 18, 2026 at 06:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,100.10
+### $95,177.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +4.2%  
+**24h:** +0.1%  
+**7d:** +4.3%  
 **30d:** +7.6%  
 **90d:** -12.4%  
-**1y:** -5.9%  
+**1y:** -5.8%  
 
 ---
 
@@ -77,15 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
+**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
 10h ago
 
 ---
 
+**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
+
+11h ago
+
+---
+
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -101,19 +107,21 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-5h ago
+6h ago
 
 ---
 
-**[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
+**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
 
-9h ago
+Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
+
+58m ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +129,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,15 +143,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-14h ago
-
----
-
-**[Is the recent Bitcoin rally a dead cat bounce or the beginning of a major bull run?](https://www.reddit.com/r/Bitcoin/comments/1qflkm6/is_the_recent_bitcoin_rally_a_dead_cat_bounce_or/)**
-
-Do you believe the theory that Bitcoin follows global liquidity? I plotted these graphs and it seems to make sense; I explain in more detail here: https://open.substack.com/pub/stacklytics/p/bitcoin-global-liquidity-and-the-dollar
-
-10h ago
+15h ago
 
 ---
 
@@ -165,11 +165,11 @@ CNBC • 14h ago
 
 ---
 
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
 
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,19 +179,19 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
-
-Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
-
-CoinDesk • 1d ago
-
----
-
 **[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
 
 Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
+
+---
+
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
+
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 9h ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 8h ago
+Gizmodo • 9h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 7h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 8h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 8h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 9h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -327,7 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 9h ago
+👁️ 18K • 👍 1K • 💬 119 • ⏱️ 17:39 • 10h ago
 
 ---
 
@@ -337,7 +337,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 15h ago
+👁️ 49K • 👍 4K • 💬 1K • ⏱️ 16:04 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth 
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 14h ago
+👁️ 3K • 👍 131 • 💬 6 • ⏱️ 1:50 • 15h ago
 
 ---
 
