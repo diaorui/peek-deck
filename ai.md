@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T14:19:16.729867+00:00'
+updated: '2026-01-18T14:41:54.336374+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 14:19 UTC  
+**Last Updated:** January 18, 2026 at 14:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 23h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 1d ago
 
 ---
 
@@ -95,7 +95,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 A social experiment: 6 AI models released into a dating simulation.
 
-🔗 [singularity.game](https://singularity.game/) • 13h ago
+🔗 [singularity.game](https://singularity.game/) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ A social experiment: 6 AI models released into a dating simulation.
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-19h ago
+20h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Boston Globe • 3h ago
 
 **[As AI use increases, Americans still don't trust it](https://www.axios.com/2026/01/18/google-ipsos-poll-ai-global-americans)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fox Business • 20h ago
 
 Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -425,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 329 • 1h ago
+⬇️ 1,548 • ❤️ 329 • 2h ago
 
 ---
 
@@ -640,7 +640,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 1h ago
+⭐ 9.0k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 350 • 43m ago
+⭐ 7.4k • 🔱 350 • 1h ago
 
 ---
 
@@ -680,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 2.9k • 🔱 541 • 7h ago
+⭐ 2.9k • 🔱 541 • 8h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.6k • 🔱 2.6k • 2h ago
+⭐ 2.6k • 🔱 2.6k • 3h ago
 
 ---
 
@@ -720,7 +720,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 140 • 9h ago
+⭐ 1.7k • 🔱 140 • 10h ago
 
 ---
 
@@ -730,7 +730,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 120 • 6h ago
+⭐ 1.4k • 🔱 120 • 7h ago
 
 ---
 
