@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T13:29:19.697504+00:00'
+updated: '2026-01-18T13:48:30.574064+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 13:29 UTC  
+**Last Updated:** January 18, 2026 at 13:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +7.3%  
-**30d:** +11.6%  
-**90d:** -13.9%  
+**24h:** +0.5%  
+**7d:** +7.4%  
+**30d:** +11.7%  
+**90d:** -13.8%  
 **1y:** +3.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.49B
+**Market Cap:** $401.58B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-32.7%
 
 **All-Time Low:** $0.43
-+766260.5%
++768283.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An important, and perenially underrated, aspect of "trustlessness", "passing the walkaway test" and "self-sovereignty" is protocol simplicity. Even if a protocol is super decentralized with hundreds of thousands of nodes, and it has 49% byzantine fault tolerance, and nodes fully verify everything with quantum-safe peerdas and starks, if the protocol is an unwieldy mess of hundreds of thousands of lines of code and five forms of PhD-level cryptography, ultimately that protocol fails all three tests: It's not trustless because you have to trust a small class of high priests who tell you what properties the protocol has It doesn't pass the walkaway test because if existing client teams go away, it's extremely hard for new teams to get up to the same level of quality It's not self-sovereign because if even the most technical people can't inspect and understand the thing, it's not fully yours It's also less secure, because each part of the protocol, especially if it can interact with other parts in complicated ways, carries a risk of the protocol breaking. One of my fears with Ethereum protocol development is that we can be too eager to add new features to meet highly specific needs, even if those features bloat the protocol or add entire new types of interacting components or complicated cryptography as critical dependencies. This can be nice for short-term functionality gains, but it is highly destructive to preserving long-term self-sovereignty, and creating a hundred-year decentralized hyperstructure that transcends the rise and fall of empires and ideologies. The core problem is that if protocol changes are judged from the perspective of "how big are they as changes to the existing protocol", then the desire to preserve backwards compatibility means that additions happen much more often than subtractions, and the protocol inevitably bloats over time. To counteract this, the Ethereum development process needs an explicit "simplification" / "garbage collection" function. "Simplification" has three metrics: Minimizing total lines of code in the protocol. An ideal protocol fits onto a single page - or at least a few pages Avoiding unnecessary dependencies on fundamentally complex technical components. For example, a protocol whose security solely depends on hashes (even better: on exactly one hash function) is better than one that depends on hashes and lattices. Throwing in isogenies is worst of all, because (sorry to the truly brilliant hardworking nerds who figured that stuff out) nobody understands isogenies. Adding more invariants: core properties that the protocol can rely on, for example EIP-6780 (selfdestruct removal) added the property that at most N storage slots can be changedakem per slot, significantly simplifying client development, and EIP-7825 (per-tx gas cap) added a maximum on the cost of processing one transaction, which greatly helps ZK-EVMs and parallel execution. Garbage collection can be piecemeal, or it can be large-scale. The piecemeal approach tries to take existing features, and streamline them so that they are simpler and make more sense. One example is the gas cost reforms in Glamsterdam, which make many gas costs that were previously arbitrary, instead depend on a small number of parameters that are clearly tied to resource consumption. One large-scale garbage collection was replacing PoW with PoS. Another is likely to happen as part of Lean consensus, opening the room to fix a large number of mistakes at the same time ( youtube.com/watch?v=10Ym34y3E… ). Another approach is "Rosetta-style backwards compatibility", where features that are complex but little-used remain usable but are "demoted" from being part of the mandatory protocol and instead become smart contract code, so new client developers do not need to bother with them. Examples: After we upgrade to full native account abstraction, all old tx types can be retired, and EOAs can be converted into smart contract wallets whose code can process all of those transaction types We can replace existing precompiles (except those that are really needed) with EVM or later RISC-V code We can eventually change the VM from EVM to RISC-V (or other simpler VM); EVM could be turned into a smart contract in the new VM. Finally, we want to move away from client developers feeling the need to handle all older versions of the Ethereum protocol. That can be left to older client versions running in docker containers. In the long term, I hope that the rate of change to Ethereum can be slower. I think for various reasons that ultimately that must happen. These first fifteen years should in part be viewed as an adolescence stage where we explored a lot of ideas and saw what works and what is useful and what is not. We should strive to avoid the parts that are not useful being a permanent drag on the Ethereum protocol. Basically, we want to improve Ethereum in a way that looks like this: https://old.reddit.com/r/SpaceXLounge/comments/1eis952/evolution_of_the_raptor_engine_by_cstanley/
 
-3h ago
+4h ago
 
 ---
 
@@ -164,19 +164,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Validator Exit Queue Hits Zero as Staking Demand Surges](https://finance.yahoo.com/news/ethereum-validator-exit-queue-hits-095400552.html)**
+**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
-Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
-
-Yahoo Finance • 3h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
 
-The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
 
-CoinDesk • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -185,6 +183,14 @@ CoinDesk • 2d ago
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
 dlnews.com • 3d ago
+
+---
+
+**[Ethereum (ETH) Ready to Enter Bull Market: Official Data](https://www.tradingview.com/news/u_today:c92b2263d094b:0-ethereum-eth-ready-to-enter-bull-market-official-data/)**
+
+Ethereum is currently at a technically critical point, which explains the resurgence of bull market discourse. The zone created by the 20- and 21-week EMAs on longer time frames or their daily equivalents in trend structure is known as the bull market support band, and it is currently interacting w…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -212,17 +218,9 @@ This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin.
 
 ---
 
-**[Top Analyst Says Next Crypto Rally for Bitcoin, Ethereum and XRP Has Begun](https://www.tradingview.com/news/coinpedia:1d7e1cbd1094b:0-top-analyst-says-next-crypto-rally-for-bitcoin-ethereum-and-xrp-has-begun/)**
+**[Tokenization will determine whether Solana can close the valuation gap with Ethereum, says analyst](https://www.thestreet.com/crypto/markets/tokenization-will-determine-whether-solana-can-close-the-valuation-gap-with-ethereum-says-analyst)**
 
-A fresh rally may be underway in the cryptocurrency market, according to a senior analyst at blockchain data firm Santiment, who says investor sentiment is setting up a classic bullish signal for Bitcoin, Ethereum, and XRP.Brian Quinlivan, marketing director at Santiment, said in a recent interview…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Ethereum Technical Analysis Report 16 January, 2026](https://financefeeds.com/ethereum-technical-analysis-report-16-january-2026-2/)**
-
-FinanceFeeds • 1d ago
+thestreet.com • 1d ago
 
 ---
 
@@ -236,17 +234,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 401 • 👍 45 • 💬 5 • ⏱️ 9:21 • 2h ago
-
----
-
-**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
-
-Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
-
-📺 Paul Barron Network
-
-👁️ 53K • 👍 2K • 💬 269 • ⏱️ 10:28 • 20h ago
+👁️ 1K • 👍 109 • 💬 7 • ⏱️ 9:21 • 3h ago
 
 ---
 
@@ -256,7 +244,17 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 510 • 👍 45 • 💬 10 • ⏱️ 19:48 • 2h ago
+👁️ 2K • 👍 160 • 💬 49 • ⏱️ 19:48 • 2h ago
+
+---
+
+**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
+
+Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
+
+📺 Paul Barron Network
+
+👁️ 55K • 👍 2K • 💬 271 • ⏱️ 10:28 • 20h ago
 
 ---
 
@@ -266,7 +264,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 239 • ⏱️ 12:19 • 16h ago
+👁️ 39K • 👍 2K • 💬 235 • ⏱️ 12:19 • 16h ago
 
 ---
 
@@ -276,7 +274,17 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 7K • 👍 203 • 💬 22 • ⏱️ 24:55 • 1d ago
+👁️ 7K • 👍 208 • 💬 22 • ⏱️ 24:55 • 1d ago
+
+---
+
+**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 4K • 👍 212 • 💬 38 • ⏱️ 13:56 • 18h ago
 
 ---
 
@@ -286,17 +294,7 @@ Never a dull moment in the cryptocurrency space. Things are about to heat up eve
 
 📺 The Modern Investor
 
-👁️ 986 • 👍 194 • 💬 67 • ⏱️ 27:39 • 3h ago
-
----
-
-**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 23K • 👍 814 • 💬 27 • ⏱️ 16:47 • 1d ago
+👁️ 2K • 👍 385 • 💬 85 • ⏱️ 27:39 • 4h ago
 
 ---
 
@@ -306,17 +304,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 696 • 💬 60 • ⏱️ 15:35 • 23h ago
-
----
-
-**[ETH OUTPERFORMING BITCOIN NOW!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cPAzE_0R63k)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 57 • 👍 10 • 💬 2 • ⏱️ 5:23 • 3h ago
+👁️ 10K • 👍 697 • 💬 60 • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -326,7 +314,17 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 7K • 👍 227 • 💬 52 • ⏱️ 1:22 • 17h ago
+👁️ 8K • 👍 235 • 💬 52 • ⏱️ 1:22 • 17h ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors In January!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 5K • 👍 190 • 💬 186 • ⏱️ 15:03 • 2d ago
 
 ---
 

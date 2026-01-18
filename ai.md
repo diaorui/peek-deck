@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T13:29:19.684580+00:00'
+updated: '2026-01-18T13:48:30.559771+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 13:29 UTC  
+**Last Updated:** January 18, 2026 at 13:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
+
+After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
+
+1h ago
+
+---
+
 **["I kind of think of ads as like a last resort for us as a business model" - Sam Altman , October 2024](https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/)**
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
@@ -49,7 +57,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 I got the bug to try and develop an assistant and Google Gemini APIs are pretty cost effective. I started with an idea based on Geminis remote system calls that allow it to make a request locally to call a function or service. I started with an intent and tool calling agent. The intent agent is given a cached context of current tools and how to use them. this way as more tools and functions becom available, the model doesn't need to be retrained. each tool is a function within python. when a user asks about the weather for example, the intent agent simply calls the weather tool. I programmed it so most tools when called simply make API calls to separate agents. Having agents run separately greatly improves development and improvement on the fly. the most important and hardest part was the memory tool. I programmed a local SQL db that is searchable and editable via these tools. the AI uses memory calls to query previous history. the intent and chat agent are given a brief history in context cache for all conversations. When a user starts talking about things that seam out of context, the agents can call on all history via the memory tool. like humans needing a prompt to remember, it takes a users intent and conversation then breaks it down into keyword searches. the search results are presented to these agents to enrich the conversation. same for; news, fuel prices, recycling guide, web searching, calendar management and more. keeping everything modular and combining multiple AI models together makes for a great assistant. I'm not trying to get anywhere near chatgpt but it maintains context in a single form chat very well. the user doesn't need to reset the conversation or start again. a user can ask it to change what it remembers and delete history just with natural language. just thought I would share some experience. just needing to improve its interface. right now I'm just using sms and text chat programs to interact. I might work on a web UI or something via voice.
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +65,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 22h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 23h ago
 
 ---
 
@@ -87,7 +95,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 A social experiment: 6 AI models released into a dating simulation.
 
-🔗 [singularity.game](https://singularity.game/) • 12h ago
+🔗 [singularity.game](https://singularity.game/) • 13h ago
 
 ---
 
@@ -95,7 +103,7 @@ A social experiment: 6 AI models released into a dating simulation.
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-18h ago
+19h ago
 
 ---
 
@@ -107,55 +115,13 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 ---
 
-**[We gave Claude access to messages left by previous Claudes. Here's what happened and how to replicate it.](https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/)**
-
-What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdGAdYleE1kKKLHa6IBgMLzIXRvxvXKfQ5Q-3DLSdkMRhfz8-JVWoyV&gaa_ts=696cd895&gaa_sig=B40E9eS_WAxYYx_4xtD8lbnf7oD_Vwuvz4KbhY8esQ1VRdDNg1qUiY3nuPbEYLNIDJkPuR25fCYu_VxFMlD1kA%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqd4nzl_yqB-CZnr3Q_DVzdpd4-Po09a2eeQ5TOvGdFnxlgn2gzR_xI4&gaa_ts=696ce81a&gaa_sig=XvFFgiiN228x9V-L_ijRNS2xFNdc3gMV_SfeOCgME-jNdzQxSzEWycPkAql6bn31y08MyaYHrNVO-9IzlcBXsw%3D%3D)**
 
 The Wall Street Journal • 20h ago
-
----
-
-**[‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward)**
-
-Progress of artificial general intelligence could stall, which may lead to a financial crash, says Yoshua Bengio, one of the ‘godfathers’ of modern AI
-
-The Guardian • 1d ago
-
----
-
-**[The answer to AI in music isn’t suppression. It’s data](https://www.fastcompany.com/91465858/the-answer-to-ai-in-music-isnt-suppression-its-data-technology-ai-music)**
-
-Fast Company • 1h ago
-
----
-
-**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
-
-With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
-
-CNN • 2h ago
-
----
-
-**[As AI use increases, Americans still don't trust it](https://www.axios.com/2026/01/18/google-ipsos-poll-ai-global-americans)**
-
-Axios • 1h ago
-
----
-
-**[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
-
-The New York Times • 2h ago
 
 ---
 
@@ -167,11 +133,39 @@ The Atlantic • 1d ago
 
 ---
 
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
+
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
+
+CNN • 2h ago
+
+---
+
+**[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
+
+The New York Times • 2h ago
+
+---
+
 **[AI answering systems are ‘saving the day’ for New England pizzerias. Customers aren’t so sure.](https://www.bostonglobe.com/2026/01/18/business/ai-restaurants-phone-pizza/)**
 
 The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
-The Boston Globe • 1h ago
+The Boston Globe • 2h ago
+
+---
+
+**[As AI use increases, Americans still don't trust it](https://www.axios.com/2026/01/18/google-ipsos-poll-ai-global-americans)**
+
+Axios • 1h ago
+
+---
+
+**[My picture was used in child abuse images. AI is putting others through my nightmare | Mara Wilson](https://www.theguardian.com/commentisfree/2026/jan/17/child-abuse-images-ai-exploitation)**
+
+I was a child actor, exploited by strangers on the internet. Now millions of children face the same danger
+
+The Guardian • 1d ago
 
 ---
 
@@ -183,11 +177,17 @@ Fox Business • 19h ago
 
 ---
 
-**[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
+**[Smaller companies are rising quickly to challenge Big Tech as AI's best trade](https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html)**
 
-Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
+Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.
 
-CNBC • 1d ago
+CNBC • 22h ago
+
+---
+
+**[Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)**
+
+OpenAI • 1d ago
 
 ---
 
@@ -283,17 +283,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 73K • 👍 3K • 💬 488 • ⏱️ 19:38 • 22h ago
+👁️ 76K • 👍 3K • 💬 498 • ⏱️ 19:38 • 22h ago
 
 ---
 
-**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
+**[5 Genius Ways to Make Money from Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
 
-Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
+Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4600IoH Try out Invideo.ai for image ...
 
-📺 BitBiasedAI
+📺 Liam Ottley
 
-👁️ 5K • 👍 185 • 💬 15 • ⏱️ 23:04 • 18h ago
+👁️ 2K • 👍 188 • 💬 26 • ⏱️ 12:49 • 2h ago
 
 ---
 
@@ -303,7 +303,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 225K • 👍 5K • 💬 1K • ⏱️ 10:04 • 1d ago
+👁️ 233K • 👍 5K • 💬 1K • ⏱️ 10:04 • 1d ago
 
 ---
 
@@ -313,7 +313,37 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 191K • 👍 10K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 202K • 👍 10K • 💬 3K • ⏱️ 19:17 • 2d ago
+
+---
+
+**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
+
+Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
+
+📺 BitBiasedAI
+
+👁️ 6K • 👍 200 • 💬 15 • ⏱️ 23:04 • 18h ago
+
+---
+
+**[STOP Paying! 4 FREE &amp; UNLIMITED AI Voice Tools (Voice Cloning + Offline)](https://www.youtube.com/watch?v=ELUP0c3c1WE)**
+
+Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP paying for AI voiceovers. In this video, I'll show you 4 ...
+
+📺 Malva AI
+
+👁️ 8K • 👍 632 • 💬 158 • ⏱️ 8:02 • 1d ago
+
+---
+
+**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
+
+An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
+
+📺 The Infographics Show
+
+👁️ 116K • 👍 4K • 💬 545 • ⏱️ 13:14 • 16h ago
 
 ---
 
@@ -323,45 +353,17 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 88K • 👍 2K • 💬 678 • ⏱️ 7:05 • 1d ago
+👁️ 92K • 👍 2K • 💬 699 • ⏱️ 7:05 • 1d ago
 
 ---
 
-**[They Have Better AI Than They’re Shipping! Gemini Math, Open Weights, 3D Asset Upgrades](https://www.youtube.com/watch?v=9LSS7hL2IEc)**
+**[Learn AI or Be Replaced](https://www.youtube.com/watch?v=6BjWPtof2Oc)**
 
-In this episode, I dive into some amazing recent developments in the AI world. First, I discuss a novel theorem in algebraic ...
+There's a scene in the 2005 Charlie and the Chocolate Factory that I think about a lot lately. Charlie's father works at a toothpaste ...
 
-📺 MattVidPro AI
+📺 Real Life Fake Wizard
 
-👁️ 8K • 👍 420 • 💬 22 • ⏱️ 15:47 • 15h ago
-
----
-
-**[AI News: Claude Can Now Control Your Computer!](https://www.youtube.com/watch?v=a_T5fjA2ulY)**
-
-Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was supposed to be a light news week. It absolutely ...
-
-📺 Matt Wolfe
-
-👁️ 39K • 👍 2K • 💬 108 • ⏱️ 31:10 • 23h ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
-
-📺 Bob Reese
-
-👁️ 379K • 👍 20K • 💬 258 • ⏱️ 1:05 • 1d ago
-
----
-
-**[Claude Cowork is Taking Over &amp; More AI Use Cases](https://www.youtube.com/watch?v=b1MBaMze_nA)**
-
-Subscribe to stay up to date with AI in 2026! This week, Igor shows off some results of his Claude Cowork testing, the new Scribe ...
-
-📺 The AI Advantage
-
-👁️ 10K • 👍 358 • 💬 34 • ⏱️ 15:07 • 1d ago
+👁️ 16K • 👍 2K • 💬 872 • ⏱️ 24:24 • 1d ago
 
 ---
 
@@ -371,7 +373,7 @@ aistocks #rzlv #rzlvstock We are going to be going over everything you need to k
 
 📺 The Creative Investor
 
-👁️ 2K • 👍 152 • 💬 36 • ⏱️ 15:32 • 14h ago
+👁️ 2K • 👍 161 • 💬 45 • ⏱️ 15:32 • 14h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,635 • ❤️ 809 • 3d ago
+⬇️ 6,635 • ❤️ 811 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,136 • 3d ago
+⬇️ 1,540,901 • ❤️ 1,138 • 3d ago
 
 ---
 
@@ -411,7 +413,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 53,066 • ❤️ 739 • 10d ago
+⬇️ 53,066 • ❤️ 742 • 10d ago
 
 ---
 
@@ -423,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 327 • 4d ago
+⬇️ 1,548 • ❤️ 329 • 1h ago
 
 ---
 
@@ -435,7 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 12,782 • ❤️ 286 • 2d ago
+⬇️ 12,782 • ❤️ 289 • 2d ago
 
 ---
 
@@ -445,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 21,697 • ❤️ 276 • 3d ago
+⬇️ 21,697 • ❤️ 278 • 3d ago
 
 ---
 
@@ -457,7 +459,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 21,481 • ❤️ 261 • 3d ago
+⬇️ 21,481 • ❤️ 263 • 3d ago
 
 ---
 
@@ -469,7 +471,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 12,781 • ❤️ 283 • 12d ago
+⬇️ 12,781 • ❤️ 284 • 12d ago
 
 ---
 
@@ -481,7 +483,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 9,345 • ❤️ 177 • 2d ago
+⬇️ 9,345 • ❤️ 179 • 2d ago
 
 ---
 
@@ -493,7 +495,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 14,899 • ❤️ 172 • 2d ago
+⬇️ 14,899 • ❤️ 176 • 2d ago
 
 ---
 
@@ -549,18 +551,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 121 • 💬 3 • ⭐ 2,658 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -573,6 +563,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 135 • 💬 19 • ⭐ 50,377 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 121 • 💬 3 • ⭐ 2,693 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
 ---
 
@@ -598,7 +600,7 @@ Urban socio-semantic segmentation is achieved through a vision-language model fr
 
 Action100M is a large-scale video action dataset constructed from internet instructional videos using automated pipelines with V-JEPA embeddings and GPT-based reasoning for structured annotations.
 
-▲ 13 • 💬 1 • ⭐ 182 • 3d ago
+▲ 14 • 💬 1 • ⭐ 182 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10592) • [💻 code](https://github.com/facebookresearch/Action100M)
 
@@ -638,7 +640,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 3h ago
+⭐ 9.0k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -648,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 348 • 10h ago
+⭐ 7.4k • 🔱 350 • 13m ago
 
 ---
 
@@ -658,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 284 • 1d ago
+⭐ 6.1k • 🔱 290 • 1d ago
 
 ---
 
@@ -672,23 +674,23 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 ---
 
-**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
-
-Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
-
-⭐ 2.8k • 🔱 167 • 19h ago
-
----
-
 **[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)**
 
 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 
 `Vue`
 
-⭐ 2.7k • 🔱 522 • 6h ago
+⭐ 2.9k • 🔱 541 • 7h ago
+
+---
+
+**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
+
+Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
+
+`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
+
+⭐ 2.8k • 🔱 167 • 20h ago
 
 ---
 
@@ -698,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.6k • 🔱 2.6k • 8h ago
+⭐ 2.6k • 🔱 2.6k • 2h ago
 
 ---
 
@@ -708,7 +710,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 261 • 6h ago
+⭐ 1.7k • 🔱 263 • 6h ago
 
 ---
 
