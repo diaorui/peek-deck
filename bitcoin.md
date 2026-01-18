@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T09:22:36.240938+00:00'
+updated: '2026-01-18T09:42:39.297028+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 09:22 UTC  
+**Last Updated:** January 18, 2026 at 09:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 12h ago
 
 The company says that accepting bitcoin has led to a "self-reinforcing cycle" where crypto revenue helps fund upgrades and improvements.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 17h ago
 
 Steak ’n Shake, the 91-year-old American burger chain, has taken its first public step into corporate Bitcoin ownership, announcing a $10 million purchase of the cryptocurrency for its treasury. Key Takeaways: Steak ’n Shake made its first $10M Bitcoin treasury purchase after adopting crypto payments. All customer-paid Bitcoin now flows ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ CryptoSlate • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 10h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 11h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -327,7 +327,7 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 571 • 💬 82 • ⏱️ 29:43 • 13h ago
+👁️ 8K • 👍 571 • 💬 82 • ⏱️ 29:43 • 14h ago
 
 ---
 
