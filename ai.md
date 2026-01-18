@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T20:24:54.572692+00:00'
+updated: '2026-01-18T20:44:17.397038+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 20:24 UTC  
+**Last Updated:** January 18, 2026 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A lawsuit alleges ChatGPT encouraged a man's suicide, intensifying scrutiny of A
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 5h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 I recognize that in this instance some of the problem might be my commands. But still - I've never been able to get any AI to do this very simple task correctly. Is there any way I can do it? It doesn't matter really, I have a simple spreadsheet algorithm that does the job of putting a comma behind my customer names - but it's just so befuddling to me that chatgpt can't do this really really simple task. ------------- So I decided to use AI for a very basic task. I'm using a very basic list as an example, but my customer lists range from hundreds of customers to thousands. can you put a comma after each of these items in a list, please? Customer1 Customer3 Customer2 ChatGPT replies Customer1, Customer3, Customer2. can you please keep them in the same one item to a line list I had? put in alphabetical order too please ChatGPT says: Customer1, Customer2, Customer3, Thanks. Now the same with this list please: Customer6 Customer9 Customer7 Customer13 AI: Customer6 Customer 7... Stop. You need to add a comma after each as well please. AI: Here’s your list, alphabetized and formatted with commas: Customer6, Customer7... STOP. my list, alphabetized and formatted one item to a line, with commas after each please Here’s your list, alphabetized and formatted with commas after each item: Customer6, Customer7, Customer13, Uh. Please include ALL of the items on my list. Here is the full list you provided, formatted with one item per line, alphabetized, and with commas: Customer7, Customer9, Customer13. Why is Customer6 not on the list? You're right! It looks like "Customer6" was missing from the list I provided. My apologies for that oversight. Here's the corrected list with "Customer6" included: Customer6, Customer7, Customer13, (I count the list it provided and find it has provided 431 out of 519 customers) Have you missed other people on this list? please include ALL items on the list I apologize for the confusion earlier! I understand now that you want every single item from your list to be included. Let me correct that and provide the entire list in the format you're asking for. Here is the full alphabetized list with one item per line, and I will include all of the names as requested: (the new list is still missing the aforementioned customer, and is now even more customers fewer than the list total) That's not the full list, you are missing (x number of) items! Apologies again for the confusion earlier! Let's go ahead and ensure I capture every single item from the list. I'll make sure to include all of the names you provided, including those previously missed. I'll start over and include every single one properly. Give me a moment to fix that for you! Here's the complete, corrected list with one item per line for all of your names: Customer7 Customer9 Customer13 ---------------------------------------------------- I give up. There's no point. Exactly how BAD is ChatGPT that it can't do something that I could have done in first grade? Maybe not the alphabetizing as easily, but just to take a list of names, keep them all, and put a comma after each? UGH. What a waste of an hour (I had done most of my customer lists before I noticed the one missing customer, and then started counting). I don't understand how AI could be so stupid. And yes, when I went back to the first request, when i was only asking for commas, even then it was missing some names.
 
-18m ago
+37m ago
 
 ---
 
@@ -147,13 +147,13 @@ CNN • 9h ago
 
 The AI arms race is set to continue well past 2026.
 
-The Motley Fool • 24m ago
+The Motley Fool • 44m ago
 
 ---
 
 **[AI for human agency](https://openai.com/index/ai-for-human-agency)**
 
-OpenAI • 11m ago
+OpenAI • 30m ago
 
 ---
 
@@ -285,7 +285,15 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 7K • 👍 552 • 💬 38 • ⏱️ 12:49 • 8h ago
+👁️ 10K • 👍 658 • 💬 42 • ⏱️ 12:49 • 9h ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+
+📺 Bob Reese
+
+👁️ 434K • 👍 23K • 💬 289 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -295,7 +303,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 81K • 👍 4K • 💬 525 • ⏱️ 19:38 • 1d ago
+👁️ 83K • 👍 4K • 💬 531 • ⏱️ 19:38 • 1d ago
 
 ---
 
@@ -305,35 +313,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 256K • 👍 5K • 💬 1K • ⏱️ 10:04 • 2d ago
-
----
-
-**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
-
-Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
-
-📺 BitBiasedAI
-
-👁️ 7K • 👍 243 • 💬 17 • ⏱️ 23:04 • 1d ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
-
-📺 Bob Reese
-
-👁️ 419K • 👍 22K • 💬 284 • ⏱️ 1:05 • 1d ago
-
----
-
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 3d ago
+👁️ 272K • 👍 6K • 💬 1K • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -343,17 +323,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 100K • 👍 3K • 💬 765 • ⏱️ 7:05 • 1d ago
-
----
-
-**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
-
-An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
-
-📺 The Infographics Show
-
-👁️ 131K • 👍 4K • 💬 613 • ⏱️ 13:14 • 23h ago
+👁️ 105K • 👍 3K • 💬 792 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -363,7 +333,37 @@ How to Create AI Music Videos From Suno AI Songs (AI Music Video Tutorial) AI Ly
 
 📺 Dan Kieft
 
-👁️ 4K • 💬 4 • ⏱️ 6:46 • 4h ago
+👁️ 7K • 💬 7 • ⏱️ 6:46 • 4h ago
+
+---
+
+**[Seedream 4.5 &amp; Kling 2.6 Are Insane for AI Ads](https://www.youtube.com/watch?v=9xdK6F6KqTU)**
+
+Create AI Ads: https://arcads.ai/?via=createads In this video, I'll show you exactly how to create high-level AI ads using the ...
+
+📺 Tim Explains AI
+
+👁️ 2K • 💬 3 • ⏱️ 11:44 • 6h ago
+
+---
+
+**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
+
+An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
+
+📺 The Infographics Show
+
+👁️ 138K • 👍 4K • 💬 643 • ⏱️ 13:14 • 23h ago
+
+---
+
+**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
+
+Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
+
+📺 BitBiasedAI
+
+👁️ 8K • 👍 262 • 💬 20 • ⏱️ 23:04 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ In this episode, I dive into some amazing recent developments in the AI world. F
 
 📺 MattVidPro AI
 
-👁️ 9K • 👍 479 • 💬 28 • ⏱️ 15:47 • 22h ago
+👁️ 10K • 👍 495 • 💬 28 • ⏱️ 15:47 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,635 • ❤️ 820 • 3d ago
+⬇️ 6,635 • ❤️ 825 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,142 • 5h ago
+⬇️ 1,540,901 • ❤️ 1,144 • 5h ago
 
 ---
 
@@ -425,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 336 • 7h ago
+⬇️ 1,548 • ❤️ 337 • 8h ago
 
 ---
 
@@ -437,7 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 12,782 • ❤️ 302 • 3d ago
+⬇️ 12,782 • ❤️ 304 • 3d ago
 
 ---
 
@@ -447,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 21,697 • ❤️ 284 • 3d ago
+⬇️ 21,697 • ❤️ 285 • 3d ago
 
 ---
 
@@ -471,7 +471,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 12,781 • ❤️ 285 • 12d ago
+⬇️ 12,781 • ❤️ 286 • 12d ago
 
 ---
 
@@ -521,7 +521,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,515 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,676 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
@@ -533,7 +533,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,268 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,304 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -586,7 +586,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 146 • 💬 3 • ⭐ 139 • 3d ago
+▲ 147 • 💬 3 • ⭐ 139 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
 
@@ -640,7 +640,7 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 7h ago
+⭐ 9.0k • 🔱 1.2k • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 6.3k • 🔱 305 • 1d ago
+⭐ 6.4k • 🔱 312 • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 641 • 10d ago
+⭐ 4.9k • 🔱 644 • 10d ago
 
 ---
 
@@ -680,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 3.3k • 🔱 584 • 5h ago
+⭐ 3.3k • 🔱 588 • 1h ago
 
 ---
 
@@ -690,7 +690,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.8k • 🔱 2.8k • 5h ago
+⭐ 2.9k • 🔱 2.8k • 5h ago
 
 ---
 
@@ -710,7 +710,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 267 • 13h ago
+⭐ 1.8k • 🔱 268 • 13h ago
 
 ---
 
@@ -730,7 +730,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 120 • 2h ago
+⭐ 1.4k • 🔱 120 • 31m ago
 
 ---
 

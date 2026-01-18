@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T20:24:54.590337+00:00'
+updated: '2026-01-18T20:44:17.413317+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 20:24 UTC  
+**Last Updated:** January 18, 2026 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-40m ago
+59m ago
 
 ---
 
@@ -50,13 +50,13 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-10h ago
+11h ago
 
 ---
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-5m ago
+24m ago
 
 ---
 
@@ -72,7 +72,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-6h ago
+7h ago
 
 ---
 
@@ -158,7 +158,7 @@ Interesting Engineering • 3d ago
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 4h ago
+SciTechDaily • 5h ago
 
 ---
 
@@ -189,23 +189,33 @@ Pittsburgh Post-Gazette • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 3d ago
-
----
-
 **[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
 Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
 📺 Ticker Symbol: YOU
 
-👁️ 127K • 👍 5K • 💬 334 • ⏱️ 17:36 • 3d ago
+👁️ 128K • 👍 5K • 💬 337 • ⏱️ 17:36 • 3d ago
+
+---
+
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 250K • 👍 12K • 💬 3K • ⏱️ 19:17 • 3d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 280K • 👍 7K • 💬 696 • ⏱️ 33:05 • 3h ago
 
 ---
 
@@ -215,25 +225,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 468K • 👍 14K • 💬 817 • ⏱️ 17:09 • 6d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 148K • 👍 2K • 💬 69 • ⏱️ 1:16 • 5d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 251K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+👁️ 469K • 👍 14K • 💬 817 • ⏱️ 17:09 • 6d ago
 
 ---
 
@@ -247,13 +239,13 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 Pit Novations
+📺 DPCcars
 
-👁️ 44K • 👍 125 • 💬 14 • ⏱️ 0:05 • 4d ago
+👁️ 7K • 👍 71 • 💬 18 • ⏱️ 3:19 • 2d ago
 
 ---
 
@@ -263,7 +255,27 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 43K • 👍 167 • 💬 15 • ⏱️ 9:43 • 4d ago
+👁️ 43K • 👍 168 • 💬 15 • ⏱️ 9:43 • 4d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 252K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+
+---
+
+**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
+
+Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
+
+📺 The Military Show
+
+👁️ 285K • 👍 7K • 💬 290 • ⏱️ 23:16 • 1d ago
 
 ---
 
@@ -273,15 +285,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 263K • 👍 12K • 💬 208 • ⏱️ 0:49 • 3d ago
-
----
-
-**[Rodney’s parents are proud of him.#shorts #edit #robots #viral #shortvideo](https://www.youtube.com/watch?v=M_zeIgByPDI)**
-
-📺 Voidryn Film
-
-👁️ 1.4M • 👍 92K • 💬 488 • ⏱️ 0:58 • 6d ago
+👁️ 266K • 👍 12K • 💬 208 • ⏱️ 0:49 • 3d ago
 
 ---
 

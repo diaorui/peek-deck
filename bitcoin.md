@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T20:24:54.581161+00:00'
+updated: '2026-01-18T20:44:17.405348+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 20:24 UTC  
+**Last Updated:** January 18, 2026 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1901.54B
+**Market Cap:** $1903.62B
 Rank #1
 
-**Circulating Supply:** 19,977,562 BTC
+**Circulating Supply:** 19,977,587 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.4%
 
 **All-Time Low:** $67.81
-+140280.5%
++140422.0%
 
 ---
 
@@ -89,7 +89,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-17h ago
+18h ago
 
 ---
 
@@ -247,7 +247,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 5d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 6d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -263,7 +263,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 21h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 22h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -315,7 +315,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 23h ago
+👁️ 47K • 👍 3K • 💬 270 • ⏱️ 12:19 • 23h ago
 
 ---
 
@@ -325,7 +325,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 1d ago
+👁️ 29K • 👍 2K • 💬 236 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -335,17 +335,27 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 6h ago
+👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 6h ago
 
 ---
 
-**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
+**[🚨Iran Chaos WARNING: Bitcoin Black Monday Event!?](https://www.youtube.com/watch?v=2bDsM2A9xU4)**
 
-Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
+Geo-political turmoil with Iran unrest and potential conflict is rattling crypto markets—Bitcoin, altcoin prices, and risk sentiment are ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 42K • 👍 2K • 💬 157 • ⏱️ 8:18 • 1d ago
+👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 3h ago
+
+---
+
+**[Satoshi Sold His Bitcoin?!😨🚨](https://www.youtube.com/watch?v=k21KexeFkOY)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 20h ago
 
 ---
 
@@ -355,17 +365,17 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 62K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
+👁️ 64K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
+**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
+Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
-📺 What Bitcoin Did
+📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 297 • ⏱️ 1:13:07 • 2d ago
+👁️ 42K • 👍 2K • 💬 158 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -375,17 +385,7 @@ WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCod
 
 📺 The Moon Show
 
-👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 6h ago
-
----
-
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 3K • 💬 224 • ⏱️ 16:02 • 2d ago
+👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 6h ago
 
 ---
 
@@ -395,17 +395,17 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 9h ago
+👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 9h ago
 
 ---
 
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+**[🔵 BTC, ETH and ETH/BTC | Bullish Month Ahead! | Don&#39;t Fall for the Certainty Trap](https://www.youtube.com/watch?v=fJySDtJI700)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+Follow me on X for more frequent posts! https://x.com/colintcrypto —————————————— Disclaimer: This video is not ...
 
-📺 Yahoo Finance
+📺 Colin Talks Crypto
 
-👁️ 14K • 👍 270 • 💬 28 • ⏱️ 5:23 • 2d ago
+👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 20h ago
 
 ---
 
