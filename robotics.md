@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T17:43:00.627630+00:00'
+updated: '2026-01-18T18:29:59.010740+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 17:43 UTC  
+**Last Updated:** January 18, 2026 at 18:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
 
-9h ago
+10h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 3d ago
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 1h ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 17h ago
+WRGB • 18h ago
 
 ---
 
@@ -195,7 +195,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 219K • 👍 11K • 💬 3K • ⏱️ 19:17 • 2d ago
+👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -205,7 +205,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 126K • 👍 5K • 💬 333 • ⏱️ 17:36 • 3d ago
+👁️ 127K • 👍 5K • 💬 334 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -215,25 +215,25 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 466K • 👍 14K • 💬 815 • ⏱️ 17:09 • 6d ago
+👁️ 468K • 👍 14K • 💬 817 • ⏱️ 17:09 • 6d ago
 
 ---
 
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
 
-📺 Chris Wabs
+📺 Wowearth
 
-👁️ 413K • 👍 3K • 💬 1K • ⏱️ 0:16 • 7d ago
+👁️ 148K • 👍 2K • 💬 69 • ⏱️ 1:16 • 5d ago
 
 ---
 
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-📺 The Laughing Lion
+📺 joeybtoonz
 
-👁️ 16K • 👍 133 • 💬 10 • ⏱️ 0:12 • 7d ago
+👁️ 251K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
 
 ---
 
@@ -247,6 +247,16 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
+**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
+
+Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
+
+📺 Pit Novations
+
+👁️ 44K • 👍 125 • 💬 14 • ⏱️ 0:05 • 4d ago
+
+---
+
 **[CES 2026&#39;s Wildest Tech: AI &amp; Robotics You Have to See](https://www.youtube.com/watch?v=8yLsLMNB5uc)**
 
 This year's CES offered a revealing look at where AI and robotics stand in 2026, with companies like Realbotix and Boston ...
@@ -257,33 +267,21 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 250K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
-
----
-
 **[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
 
 ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
 
 📺 Gohar Khan
 
-👁️ 260K • 👍 12K • 💬 207 • ⏱️ 0:49 • 3d ago
+👁️ 263K • 👍 12K • 💬 208 • ⏱️ 0:49 • 3d ago
 
 ---
 
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+**[Rodney’s parents are proud of him.#shorts #edit #robots #viral #shortvideo](https://www.youtube.com/watch?v=M_zeIgByPDI)**
 
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+📺 Voidryn Film
 
-📺 DPCcars
-
-👁️ 7K • 👍 67 • 💬 16 • ⏱️ 3:19 • 2d ago
+👁️ 1.4M • 👍 92K • 💬 488 • ⏱️ 0:58 • 6d ago
 
 ---
 

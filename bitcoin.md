@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T17:43:00.617906+00:00'
+updated: '2026-01-18T18:29:59.001434+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 17:43 UTC  
+**Last Updated:** January 18, 2026 at 18:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1900.29B
+**Market Cap:** $1901.54B
 Rank #1
 
-**Circulating Supply:** 19,977,521 BTC
+**Circulating Supply:** 19,977,562 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.6%
+-24.5%
 
 **All-Time Low:** $67.81
-+140164.0%
++140280.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,13 +137,13 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-22h ago
+23h ago
 
 ---
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 2d ago
 
 Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1h ago
 
 Explore how these two crypto ETFs differ in cost, risk, and portfolio approach -- key factors for aligning with your investment strategy.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1h ago
 
 The so-called Fish-to-Shark cohort added 110,000 BTC over the past 30 days, according to Glassnode.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ CryptoSlate • 2d ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 20h ago
+Gizmodo • 21h ago
 
 ---
 
@@ -267,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 19h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 20h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -305,7 +305,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 20h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 21h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -319,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 20h ago
+👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 128 • ⏱️ 17:39 • 21h ago
+👁️ 28K • 👍 2K • 💬 151 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 429 • 💬 134 • ⏱️ 53:40 • 3h ago
+👁️ 10K • 👍 686 • 💬 242 • ⏱️ 53:40 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 157 • ⏱️ 8:18 • 1d ago
+👁️ 42K • 👍 2K • 💬 157 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 61K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
+👁️ 62K • 👍 4K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
@@ -369,7 +369,17 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 27K • 👍 1K • 💬 294 • ⏱️ 1:13:07 • 2d ago
+👁️ 27K • 👍 1K • 💬 297 • ⏱️ 1:13:07 • 2d ago
+
+---
+
+**[BITCOIN: THE LOCAL TOP IS IN!!!!!!!!!!!!!!!!!!?](https://www.youtube.com/watch?v=8P3BS3lOODM)**
+
+WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCode=g2gb $1000 DAILY BLOFIN: ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 4h ago
 
 ---
 
@@ -379,17 +389,7 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 223 • ⏱️ 16:02 • 2d ago
-
----
-
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 269 • 💬 28 • ⏱️ 5:23 • 2d ago
+👁️ 56K • 👍 3K • 💬 224 • ⏱️ 16:02 • 2d ago
 
 ---
 
@@ -399,17 +399,17 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 6h ago
+👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 7h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
 
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
 
-📺 Benjamin Cowen
+📺 Yahoo Finance
 
-👁️ 85K • 👍 5K • 💬 219 • ⏱️ 18:18 • 2d ago
+👁️ 14K • 👍 270 • 💬 28 • ⏱️ 5:23 • 2d ago
 
 ---
 

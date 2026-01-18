@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T17:43:00.624225+00:00'
+updated: '2026-01-18T18:29:59.007422+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 17:43 UTC  
+**Last Updated:** January 18, 2026 at 18:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $402.56B
+**Market Cap:** $403.38B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.6%
+-32.4%
 
 **All-Time Low:** $0.43
-+770099.0%
++771969.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -168,13 +168,13 @@ Yahoo Finance • 1d ago
 
 Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
 
-Coinpedia • 5h ago
+Coinpedia • 6h ago
 
 ---
 
 **[“No Longer”: Vitalik Buterin Demands End to Ethereum’s Value Compromises](https://cryptonews.com/news/no-longer-vitalik-buterin-demands-end-to-ethereums-value-compromises/)**
 
-Cryptonews • 23h ago
+Cryptonews • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ Decrypt • 2d ago
 
 Ethereum is currently at a technically critical point, which explains the resurgence of bull market discourse. The zone created by the 20- and 21-week EMAs on longer time frames or their daily equivalents in trend structure is known as the bull market support band, and it is currently interacting w…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 169 • 💬 18 • ⏱️ 9:21 • 7h ago
+👁️ 4K • 👍 199 • 💬 20 • ⏱️ 9:21 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 57K • 👍 2K • 💬 277 • ⏱️ 10:28 • 1d ago
+👁️ 60K • 👍 2K • 💬 277 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -256,37 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 766 • 👍 81 • 💬 3 • ⏱️ 4:43 • 5h ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 248 • 💬 135 • ⏱️ 19:48 • 6h ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 20h ago
-
----
-
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 4K • 👍 219 • 💬 39 • ⏱️ 13:56 • 22h ago
+👁️ 1K • 👍 97 • 💬 4 • ⏱️ 4:43 • 5h ago
 
 ---
 
@@ -296,7 +266,37 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 8K • 👍 213 • 💬 25 • ⏱️ 24:55 • 1d ago
+👁️ 8K • 👍 220 • 💬 25 • ⏱️ 24:55 • 1d ago
+
+---
+
+**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
+
+BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 284 • 💬 174 • ⏱️ 19:48 • 7h ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 21h ago
+
+---
+
+**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 5K • 👍 224 • 💬 36 • ⏱️ 13:56 • 23h ago
 
 ---
 
@@ -306,7 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 859 • 💬 29 • ⏱️ 16:47 • 2d ago
+👁️ 25K • 👍 867 • 💬 29 • ⏱️ 16:47 • 2d ago
 
 ---
 
@@ -316,7 +316,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 704 • 💬 60 • ⏱️ 15:35 • 1d ago
+👁️ 10K • 👍 709 • 💬 61 • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ Never a dull moment in the cryptocurrency space. Things are about to heat up eve
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 566 • 💬 125 • ⏱️ 27:39 • 8h ago
+👁️ 5K • 👍 651 • 💬 237 • ⏱️ 27:39 • 8h ago
 
 ---
 

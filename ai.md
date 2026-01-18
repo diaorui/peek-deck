@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T17:43:00.608878+00:00'
+updated: '2026-01-18T18:29:58.992706+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 17:43 UTC  
+**Last Updated:** January 18, 2026 at 18:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lawsuit alleges ChatGPT encouraged a man's suicide, intensifying scrutiny of AI chatbots and mental health risks.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/chatgpt-suicide-lawsuit-openai-ai-mental-health) • 40m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/chatgpt-suicide-lawsuit-openai-ai-mental-health) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 3h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 **TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
-51m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 The greatest conspiracy theories in the World are the ones that can take a fantastical story and add so much circumstantial evidence and other data points to it that it begins to make you wonder, "Is this true?" That's why more people are fascinated by the JFK assassination than they are of lizard people. Both sound unbelievable, but one contains real evidence and grounded logic that makes sense when you dig into it. The other? Not so much. That's why, as a fiction writer, I'm fascinated by conspiracy theories, particularly when it comes to politics because, well...There's a lot of them and when you're able to induce cognitive dissonance in others and make them question reality like how many probably felt after watching the Matrix, that's worth a ton in "audience gold" given how powerful that feeling can be. However, my problem has always been the convoluted nature of these kinds of stories. With a great conspiracy theory, you need to add a lot of moving parts that are interconnected (the evidence), and you have to possess a ton of knowledge in areas you may not be familiar with. Otherwise you'll struggle to turn a fantastical big picture into something that's grounded in reality. That's how you would make something like the "Hollow Moon" theory stick. I can write the plotlines, develop the characters, and add the drama. No problem. But when it comes to unpacking it with all those "facts" and realism so that I'm moving beyond the unbelievable and getting readers to truly question their reality, I'm virtually hopeless in that regard....That is, until I discovered mind-mapping with AI. Check this out. Doesn't look like much but this is Whitney Webb's 2 vol. series, "One Nation Under Blackmail" mapped out as a knowledge graph. It took over 60 hours to build since the information was dense, but I finally completed it! To say my hands are tired is an understatement, but this was totally worth it because now I can use her corpus of information that she's gathered about clandestine operations throughout the 20th Century and infuse that into this Sci-fi political thriller that I'm working on. I've had this idea for quite a while, but I never quite knew how to make it feel real, so I never bothered to develop it. But once I realized I can use mind mapping to convert books into LLM systems that can directly connect to my story, I decided to give it a shot. Before I get into this little sample of the story, it needs to be noted that this is not a simple document uploader connected to an AI like you might find on Gemini or ChatGPT. This is a way for anyone to build the "neurological" structure of a chatbot assistant based on any work you're doing. It means the books that I map out can act as information guides, but also act as systems to provide specific things that I need. In this case, I needed to add realism to my conspiracy by using Whitney Webb's academic research. This was the result: The Story: For generations, a secret society known as the Foundry has operated as the unseen hand guiding human history. Born from a secret pact with a silent, extraterrestrial "Benefactor," their sacred mission is to prepare humanity for First Contact. The terms were clear: by a pre-calculated moment in time—Timeline X—mankind must achieve global technological unity, masterful control over fundamental forces, and a single, functioning world government. To the Foundry's ruthless leadership, the path was obvious. Believing humanity's chaos, sentimentality, and free will—the "Original Flaw"—were liabilities, they embraced a doctrine of "Necessary Cruelty." Through engineered wars that accelerated technology, black-budget breeding programs that purged genetic "impurities," and systematic psychological abuse, they forged generations of perfect operatives. To ascend within their ranks is to prove one's utter devotion to the cause by performing the ultimate act of control: a ritual infant sacrifice, severing the final tie to the flawed human animal. Every atrocity, every life erased, was a calculated step toward creating a compliant, perfected species worthy of partnership with the stars. It's a non-linear story that follows six characters who unravel aspects of this entire grand conspiracy through inductive sequencing. It's taking pretty much every conspiracy theory we've heard and combining it into one grand narrative to connect them altogether. The idea sounds a bit hoaky, right? But once I started ironing out the finer details and how the Foundry operates by using my Whitney Webb chatbot, that's when this story went from, "Cool" to "Holy shit!". Here's an example of what I mean. Yes, it's a little long, but if you read it, you'll see how the Whitney Webb chatbot was able to derive knowledge from the two books, which added teeth to this idea of secret breeding programs to foster elite operators for carrying out the conspiracy. That sounds batshit insane and it is, but when you infuse this idea with real facts on how clandestine operators behave, suddenly the fantastical begins to feel more real than you ever thought it could. That's why I'm personally so excited about using AI in my writing because it's the one tool that can easily help me overcome this burden of adding the necessary dense information that's needed to tell a big story like this. Prior to AI, I was limited to only working on things that I was familiar with, but now it's like I can tackle anything without spending decades on research. Anywho, just wanted to share this. Hope it spurs some ideas on your end!
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ The greatest conspiracy theories in the World are the ones that can take a fanta
 
 Hey everyone! 👋 I'm excited to share the biggest update ever for Skill Seekers — the open-source tool that transforms documentation into production-ready AI skills for Claude, Gemini, and OpenAI. 🚀 What's New? Skill Seekers has evolved from a simple documentation scraper into a complete skill generation factory. You can now create comprehensive AI skills by combining: 🌐 Web Scraping — Any documentation website (async support for 3x speed) 🐙 GitHub Analysis — Deep AST parsing for functions, classes, APIs 📊 Codebase Analysis — Design patterns, architecture, dependencies 📄 PDF Extraction — Tables, OCR for scanned docs, password-protected files 🔄 Smart Unified Merging — Cross-reference ALL sources with conflict detection 🎯 Bootstrap (NEW!) — Generate skill-seekers itself as a Claude Code skill! ✨ Major New Features This is the most significant release in Skill Seekers history: Feature Details 🎯 Bootstrap Skill (Self-Hosting!) Generate skill-seekers itself as a Claude Code skill! Run ./scripts/bootstrap_skill.sh and install to ~/.claude/skills/ 🔐 Smart Rate Limit Management Multi-token GitHub profiles, auto-switching when rate limited, configurable strategies (prompt/wait/switch/fail) 🧙 Interactive Config Wizard Beautiful terminal UI for GitHub tokens, API keys, rate limits — run skill-seekers config 📦 Resume Interrupted Jobs Resume scraping from checkpoints with skill-seekers resume --list Design Pattern Detection 10 patterns (Singleton, Factory, Observer, Strategy, etc.) with 87% precision Language Support Python, JavaScript, TypeScript, C++, C, C#, Go, Rust, Java (+Ruby, PHP) Three-Stream Analysis Code, Docs, and Insights streams for comprehensive skills Architectural Patterns MVC, MVVM, Clean Architecture auto-detection How-To Guide Generation Automatically extracts guides from your tests with AI enhancement Config Pattern Extraction 9 formats (JSON, YAML, TOML, ENV, INI, Python, JS, Dockerfile, Docker Compose) 18 MCP Tools Use directly in Claude Code, Cursor, Windsurf, VS Code + Cline, IntelliJ 4 LLM Platforms Deploy to Claude, Gemini, OpenAI, or export as Markdown 1200+ Tests Production-ready with comprehensive validation MCP Now Optional Choose your install: pip install skill-seekers (CLI) or skill-seekers[mcp] (full) 🎯 NEW: Bootstrap Skill — Self-Hosting! The coolest feature: You can now generate Skill Seekers itself as a Claude Code skill! ```bash Generate skill-seekers as a skill ./scripts/bootstrap_skill.sh Install to Claude Code cp -r output/skill-seekers ~/.claude/skills/ Now Claude Code knows how to use Skill Seekers! 🤯 ``` This means Claude can help you create skills... using the skill about creating skills. Meta! 🌐 NEW: SkillSeekersWeb.com We launched a dedicated website where you can: 📦 Browse 24+ Configs — Find ready-to-use configs for popular frameworks 🔗 Share Your Configs — Contribute and share custom configs with the community 📚 Full Documentation — Complete guides for installation, quick start, advanced features 🚀 One-Click Start — Copy install commands and get started in seconds Check it out: skillseekersweb.com 💡 The Magic: Unified Multi-Source Skills The real power is combining everything: json { "name": "myframework", "sources": [ {"type": "documentation", "base_url": "https://docs.example.com"}, {"type": "github", "repo": "owner/repo", "code_analysis_depth": "deep"}, {"type": "pdf", "path": "manual.pdf"} ] } One command. Three sources. One unified skill with: - ⚠️ Conflict detection (docs say X, code does Y) - 📊 Documentation gap analysis - 🔍 Cross-referenced API information - 📈 Architecture & design pattern insights 📦 Quick Start ```bash pip install skill-seekers Scrape docs skill-seekers scrape --config react Analyze a codebase skill-seekers codebase --directory ./my-project Create unified skill from multiple sources skill-seekers unified --config my_unified.json Package & upload skill-seekers package output/myskill/ ``` 📊 By the Numbers ⭐ 7.1K+ GitHub stars 🧪 1,200+ tests passing 🤖 4 LLM platforms supported 📦 24 preset configs 👥 24 contributors 🔧 18 MCP tools 🔗 Links 🌐 Website (NEW!): https://skillseekersweb.com — Browse configs, docs & guides GitHub: https://github.com/yusufkaraaslan/Skill_Seekers PyPI: pip install skill-seekers What skills will you create? I'd love to hear your use cases! Feel free to ask questions or request features. 🙏
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 So, I have a 7h long UVB-76 recording(monotone buzzes with occasional encrypted messages) and I want to find those messages. Ofc, I can't listen to those buzzes or watch the spectrogram for seven hours, so I'm asking if there's an AI that's able to do it.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ So, I have a 7h long UVB-76 recording(monotone buzzes with occasional encrypted 
 
 been reading this new textbook (Learning Deep Representations of Data Distributions - ) and it basically says deep learning can't reach human intelligence because of how we train it animals learn through closed-loop feedback - they do something, reality corrects them immediately, brain updates. our models? train once on a dataset, freeze, deploy. no real-time correction from the world. turns out this was understood in the 1940s by wiener and shannon but we still haven't figured out how to scale closed-loop learning. we have the math, we have the theory, we just can't make it work at scale without it becoming unstable or computationally impossible. which is wild if everyone thinks AGI is 5 years away. like we're celebrating how good ChatGPT is at pattern matching while ignoring that it literally can't learn from reality the way a dog does. am i missing something here or is this actually a hard wall we're pretending doesn't exist? Source - https://ma-lab-berkeley.github.io/deep-representation-learning-book/
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ been reading this new textbook (Learning Deep Representations of Data Distributi
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 1d ago
 
 AI stocks may continue to advance in the new year.
 
-The Motley Fool • 33m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ The Motley Fool • 33m ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -161,19 +161,19 @@ The New York Times • 6h ago
 
 The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
-The Boston Globe • 6h ago
+The Boston Globe • 7h ago
 
 ---
 
 **[‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://www.bloomberg.com/news/articles/2026-01-18/-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
 **[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Axios • 2h ago
 
 Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 5h ago
 
 Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
 
-ScienceAlert • 23h ago
+ScienceAlert • 1d ago
 
 ---
 
@@ -247,7 +247,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 58 • 💬 64 • 2h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 58 • 💬 64 • 3h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -263,7 +263,7 @@ Starlink quietly enabled third-party AI model training on its customers' persona
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 53 • 💬 21 • 11h ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 53 • 💬 21 • 12h ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -279,33 +279,13 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ## YouTube Videos: "ai"
 
-**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
-
-Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
-
-📺 BitBiasedAI
-
-👁️ 7K • 👍 226 • 💬 16 • ⏱️ 23:04 • 22h ago
-
----
-
 **[5 Genius Ways to Make Money from Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
 
 Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4600IoH Try out Invideo.ai for image ...
 
 📺 Liam Ottley
 
-👁️ 4K • 👍 407 • 💬 35 • ⏱️ 12:49 • 6h ago
-
----
-
-**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
-
-Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
-
-📺 JRE Clips
-
-👁️ 244K • 👍 5K • 💬 1K • ⏱️ 10:04 • 1d ago
+👁️ 7K • 👍 552 • 💬 38 • ⏱️ 12:49 • 6h ago
 
 ---
 
@@ -315,7 +295,35 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 79K • 👍 3K • 💬 516 • ⏱️ 19:38 • 1d ago
+👁️ 81K • 👍 4K • 💬 525 • ⏱️ 19:38 • 1d ago
+
+---
+
+**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
+
+Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
+
+📺 JRE Clips
+
+👁️ 256K • 👍 5K • 💬 1K • ⏱️ 10:04 • 2d ago
+
+---
+
+**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
+
+Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
+
+📺 BitBiasedAI
+
+👁️ 7K • 👍 243 • 💬 17 • ⏱️ 23:04 • 23h ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+
+📺 Bob Reese
+
+👁️ 419K • 👍 22K • 💬 284 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -325,7 +333,17 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 219K • 👍 11K • 💬 3K • ⏱️ 19:17 • 2d ago
+👁️ 236K • 👍 12K • 💬 3K • ⏱️ 19:17 • 2d ago
+
+---
+
+**[Groundbreaking AI tool can convert script to movies](https://www.youtube.com/watch?v=7OkS978snsg)**
+
+Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creative work' on 'The Claman Countdown.
+
+📺 Fox Business
+
+👁️ 100K • 👍 3K • 💬 765 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -335,27 +353,17 @@ An AI system inside a controlled research lab unexpectedly spiraled into a full 
 
 📺 The Infographics Show
 
-👁️ 125K • 👍 4K • 💬 589 • ⏱️ 13:14 • 20h ago
+👁️ 131K • 👍 4K • 💬 613 • ⏱️ 13:14 • 21h ago
 
 ---
 
-**[This Silicon Valley Episode Was a Warning #trendingshorts #ai #siliconvalley #technology](https://www.youtube.com/watch?v=B7VeoMmAlUE)**
+**[How to Make AI Music Videos From Suno AI Songs (AI Lyric Video Tutorial)](https://www.youtube.com/watch?v=4He-MET8fik)**
 
-In the finale of HBO's Silicon Valley, the Pied Piper team creates an AI called Son of Anton—built to manage networks, but it ends ...
+How to Create AI Music Videos From Suno AI Songs (AI Music Video Tutorial) AI Lyric video generator ...
 
-📺 Mindception - Empowering Your Mind
+📺 Dan Kieft
 
-👁️ 5K • 👍 108 • 💬 6 • ⏱️ 0:55 • 2h ago
-
----
-
-**[AI Took Over the Drive-Thru — Customers Immediately Lost It](https://www.youtube.com/watch?v=Gye5It3UHpk)**
-
-Fast food drive-thrus are officially entering the AI era — and some customers are absolutely not ready for it. In this video, we're ...
-
-📺 Lindey Glenn
-
-👁️ 123K • 👍 8K • 💬 2K • ⏱️ 20:29 • 3d ago
+👁️ 4K • 💬 4 • ⏱️ 6:46 • 2h ago
 
 ---
 
@@ -365,17 +373,7 @@ In this episode, I dive into some amazing recent developments in the AI world. F
 
 📺 MattVidPro AI
 
-👁️ 9K • 👍 467 • 💬 28 • ⏱️ 15:47 • 19h ago
-
----
-
-**[Claude Cowork is Taking Over &amp; More AI Use Cases](https://www.youtube.com/watch?v=b1MBaMze_nA)**
-
-Subscribe to stay up to date with AI in 2026! This week, Igor shows off some results of his Claude Cowork testing, the new Scribe ...
-
-📺 The AI Advantage
-
-👁️ 10K • 👍 381 • 💬 34 • ⏱️ 15:07 • 1d ago
+👁️ 9K • 👍 479 • 💬 28 • ⏱️ 15:47 • 20h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,635 • ❤️ 817 • 3d ago
+⬇️ 6,635 • ❤️ 820 • 3d ago
 
 ---
 
@@ -403,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,140 • 2h ago
+⬇️ 1,540,901 • ❤️ 1,142 • 3h ago
 
 ---
 
@@ -415,7 +413,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 53,066 • ❤️ 746 • 11d ago
+⬇️ 53,066 • ❤️ 747 • 11d ago
 
 ---
 
@@ -427,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 333 • 5h ago
+⬇️ 1,548 • ❤️ 336 • 5h ago
 
 ---
 
@@ -439,7 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 12,782 • ❤️ 296 • 3d ago
+⬇️ 12,782 • ❤️ 302 • 3d ago
 
 ---
 
@@ -449,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 21,697 • ❤️ 282 • 3d ago
+⬇️ 21,697 • ❤️ 284 • 3d ago
 
 ---
 
@@ -485,7 +483,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 9,345 • ❤️ 184 • 3d ago
+⬇️ 9,345 • ❤️ 187 • 3d ago
 
 ---
 
@@ -497,7 +495,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 14,899 • ❤️ 179 • 2d ago
+⬇️ 14,899 • ❤️ 181 • 3d ago
 
 ---
 
@@ -588,23 +586,9 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Urban socio-semantic segmentation is achieved through a vision-language model framework that combines cross-modal recognition and multi-stage reasoning with reinforcement learning optimization.
 
-▲ 146 • 💬 3 • ⭐ 136 • 3d ago
+▲ 146 • 💬 3 • ⭐ 139 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10477) • [💻 code](https://github.com/AMAP-ML/SocioReasoner)
-
----
-
-**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)**
-
-*Delong Chen, Tejaswi Kasarla, Yejin Bang et al. (9 authors)*
-
-🏢 Meta Research
-
-Action100M is a large-scale video action dataset constructed from internet instructional videos using automated pipelines with V-JEPA embeddings and GPT-based reasoning for structured annotations.
-
-▲ 14 • 💬 1 • ⭐ 182 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10592) • [💻 code](https://github.com/facebookresearch/Action100M)
 
 ---
 
@@ -626,9 +610,23 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 3 • ⭐ 1,257 • 13d ago
+▲ 29 • 💬 3 • ⭐ 1,257 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+
+---
+
+**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)**
+
+*Delong Chen, Tejaswi Kasarla, Yejin Bang et al. (9 authors)*
+
+🏢 Meta Research
+
+Action100M is a large-scale video action dataset constructed from internet instructional videos using automated pipelines with V-JEPA embeddings and GPT-based reasoning for structured annotations.
+
+▲ 14 • 💬 1 • ⭐ 198 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10592) • [💻 code](https://github.com/facebookresearch/Action100M)
 
 ---
 
@@ -652,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 356 • 2h ago
+⭐ 7.4k • 🔱 358 • 45m ago
 
 ---
 
@@ -662,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 6.3k • 🔱 300 • 1d ago
+⭐ 6.3k • 🔱 305 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 641 • 10d ago
+⭐ 4.9k • 🔱 641 • 10d ago
 
 ---
 
@@ -682,17 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 3.2k • 🔱 570 • 2h ago
-
----
-
-**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
-
-Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
-
-⭐ 2.8k • 🔱 168 • 23h ago
+⭐ 3.3k • 🔱 584 • 3h ago
 
 ---
 
@@ -702,7 +690,17 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.7k • 🔱 2.7k • 2h ago
+⭐ 2.8k • 🔱 2.8k • 3h ago
+
+---
+
+**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
+
+Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
+
+`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
+
+⭐ 2.8k • 🔱 168 • 1d ago
 
 ---
 
@@ -712,7 +710,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 267 • 10h ago
+⭐ 1.8k • 🔱 267 • 11h ago
 
 ---
 
@@ -722,7 +720,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 141 • 1h ago
+⭐ 1.7k • 🔱 141 • 2h ago
 
 ---
 
@@ -732,7 +730,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 120 • 10h ago
+⭐ 1.4k • 🔱 120 • 1h ago
 
 ---
 
