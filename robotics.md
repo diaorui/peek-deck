@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T18:29:59.010740+00:00'
+updated: '2026-01-18T18:52:45.846818+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 18:29 UTC  
+**Last Updated:** January 18, 2026 at 18:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,13 +96,13 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Just for fun, I decided to design the mechanics for a Turret from the game Portal and performed strength calculations for simultaneous firing from four Glock 21 pistols. The result is terrible, it's quite possible to 3D-print something like that: https://preview.redd.it/k2q51p7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=542e66075f01d499609f54cfc4b7bcdb4d703772 https://preview.redd.it/gam1co7h1arf1.jpg?width=1280&format=pjpg&auto=webp&s=fddad514b86e7018e081ae889bd0cb603888543d
 
-10h ago
+11h ago
 
 ---
 
 **[Control strategy for mid-air dropped quadcopter (PX4): cascaded PID vs FSM vs global stabilization](https://www.reddit.com/r/robotics/comments/1qg2d5b/control_strategy_for_midair_dropped_quadcopter/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -138,7 +138,13 @@ TechCrunch • 2h ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 18h ago
+WRGB • 19h ago
+
+---
+
+**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
+
+Bloomberg • 3d ago
 
 ---
 
@@ -150,9 +156,18 @@ The Motley Fool • 2d ago
 
 ---
 
-**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
 
-Bloomberg • 3d ago
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[Robotic competition puts students to test](https://www.news10.com/top-stories/robotic-competition-puts-students-to-test/)**
+
+NEWS10 ABC • 15h ago
 
 ---
 
@@ -167,21 +182,6 @@ Futurism • 1d ago
 **[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
-
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
-
-SciTechDaily • 2h ago
 
 ---
 

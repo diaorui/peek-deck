@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T18:29:59.001434+00:00'
+updated: '2026-01-18T18:52:45.836541+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 18:29 UTC  
+**Last Updated:** January 18, 2026 at 18:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +4.3%  
-**30d:** +7.7%  
-**90d:** -12.3%  
-**1y:** -5.8%  
+**24h:** +0.1%  
+**7d:** +4.6%  
+**30d:** +7.9%  
+**90d:** -12.1%  
+**1y:** -5.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-7h ago
+8h ago
 
 ---
 
@@ -89,13 +89,13 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-6h ago
+7h ago
 
 ---
 
 **[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-15h ago
+16h ago
 
 ---
 
@@ -181,6 +181,14 @@ The Motley Fool • 2h ago
 
 ---
 
+**[Peter Schiff Warns Traders Taking Profits In Gold, Silver And Buying Bitcoin ETFs And MSTR Stock: 'That's A Big Mistake'](https://finance.yahoo.com/news/peter-schiff-warns-traders-taking-120106265.html)**
+
+Economist Peter Schiff questioned the sustainability of Bitcoin’s ongoing rally on Wednesday, arguing that investors are mistakenly rotating profits from commodities into cryptocurrency-linked assets. Schiff Downplays Bitcoin Rally Schiff suggested in an X post that traders are taking profits in...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Fish to shark holders accumulate at fastest pace since the FTX collapse](https://www.coindesk.com/markets/2026/01/18/large-bitcoin-holders-buy-the-most-coins-since-the-ftx-collapse-of-2022)**
 
 The so-called Fish-to-Shark cohort added 110,000 BTC over the past 30 days, according to Glassnode.
@@ -193,7 +201,7 @@ CoinDesk • 1h ago
 
 XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -216,14 +224,6 @@ Bitcoin Magazine • 1d ago
 Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
 
 CryptoSlate • 2d ago
-
----
-
-**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
-
-Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
-
-Gizmodo • 21h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCod
 
 📺 The Moon Show
 
-👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 4h ago
+👁️ 4K • 👍 337 • 💬 45 • ⏱️ 8:35 • 5h ago
 
 ---
 
