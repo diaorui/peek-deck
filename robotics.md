@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T17:18:30.520654+00:00'
+updated: '2026-01-18T17:43:00.627630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 17:18 UTC  
+**Last Updated:** January 18, 2026 at 17:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -43,14 +43,6 @@ Robotics research and industry news
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
 7h ago
-
----
-
-**[CV feedback](https://www.reddit.com/r/robotics/comments/1qgcpyw/cv_feedback/)**
-
-Hey im a mechanical engineering student who is specifically interested in a career in robotics , i find myself intimated by the jobs posted in terms of requirements and how they actively ask for MSc or PhDs so i am hoping if anyone can give some advice on my CV how can i improve or how i can apply jobs in an effective manner. sorry if this is the wrong sub
-
-1h ago
 
 ---
 
@@ -66,7 +58,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -108,6 +100,12 @@ Just for fun, I decided to design the mechanics for a Turret from the game Porta
 
 ---
 
+**[Control strategy for mid-air dropped quadcopter (PX4): cascaded PID vs FSM vs global stabilization](https://www.reddit.com/r/robotics/comments/1qg2d5b/control_strategy_for_midair_dropped_quadcopter/)**
+
+10h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -120,11 +118,11 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
 
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Futurism • 1d ago
+Fortune • 3d ago
 
 ---
 
@@ -158,11 +156,17 @@ Bloomberg • 3d ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Fortune • 3d ago
+Futurism • 1d ago
+
+---
+
+**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -175,15 +179,9 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
-**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
+**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-Tech Xplore • 1d ago
-
----
-
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/robots-that-think-before-they-pick-could-transform-tomato-farming/)**
-
-SciTechDaily • 1h ago
+SciTechDaily • 2h ago
 
 ---
 
@@ -245,7 +243,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 26K • 💬 26 • ⏱️ 6:37 • 2d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 3d ago
 
 ---
 

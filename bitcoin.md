@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T17:18:30.511300+00:00'
+updated: '2026-01-18T17:43:00.617906+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 17:18 UTC  
+**Last Updated:** January 18, 2026 at 17:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,8 +46,8 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.2%  
 **7d:** +4.3%  
-**30d:** +7.6%  
-**90d:** -12.4%  
+**30d:** +7.7%  
+**90d:** -12.3%  
 **1y:** -5.8%  
 
 ---
@@ -89,29 +89,19 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-5h ago
+6h ago
+
+---
+
+**[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
+
+4h ago
 
 ---
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-7h ago
-
----
-
-**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
-
-Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
-
-14h ago
-
----
-
-**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
-
-Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
-
-11h ago
+8h ago
 
 ---
 
@@ -119,13 +109,23 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-7h ago
+8h ago
 
 ---
 
-**[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
+**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
 
-3h ago
+Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
+
+12h ago
+
+---
+
+**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
+
+Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
+
+15h ago
 
 ---
 
@@ -165,28 +165,6 @@ The New York Times • 2d ago
 
 ---
 
-**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
-
-Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
-
-The Motley Fool • 20h ago
-
----
-
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
-
-XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Should you forget Bitcoin and buy XRP instead?](https://www.msn.com/en-us/money/savingandinvesting/should-you-forget-bitcoin-and-buy-xrp-instead/ar-AA1Us5QB?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
-
----
-
 **[Large bitcoin investors are increasingly piling into bullish bets and cutting short positions](https://www.coindesk.com/markets/2026/01/19/here-is-why-usd1-2-billion-bitcoin-etf-inflow-is-a-new-bullish-signal)**
 
 Institutions take bullish bets via ETFs and CME futures as arbitrage bets, profiting from price gaps in two markets, lose shine.
@@ -195,11 +173,27 @@ CoinDesk • 1h ago
 
 ---
 
-**[Gold, Silver and Bitcoin: How These 3 Assets Have Protected Wealth in Uncertain Times](https://ca.finance.yahoo.com/news/gold-silver-bitcoin-3-assets-135417680.html)**
+**[The Crypto ETF Showdown: BITQ's Diversification vs. IBIT's Bitcoin Bet](https://www.fool.com/coverage/etfs/2026/01/18/the-crypto-etf-showdown-bitq-s-diversification-vs-ibit-s-bitcoin-bet/)**
 
-Gold and silver offer stability amid market turmoil, while bitcoin can swing wildly. A diversified mix of assets is advisable to protect wealth in uncertain times.
+Explore how these two crypto ETFs differ in cost, risk, and portfolio approach -- key factors for aligning with your investment strategy.
 
-Yahoo! Finance Canada • 3h ago
+The Motley Fool • 1h ago
+
+---
+
+**[Fish to shark holders accumulate at fastest pace since the FTX collapse](https://www.coindesk.com/markets/2026/01/18/large-bitcoin-holders-buy-the-most-coins-since-the-ftx-collapse-of-2022)**
+
+The so-called Fish-to-Shark cohort added 110,000 BTC over the past 30 days, according to Glassnode.
+
+CoinDesk • 41m ago
+
+---
+
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
+
+XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -222,6 +216,14 @@ Bitcoin Magazine • 1d ago
 Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
+
+Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
+
+Gizmodo • 20h ago
 
 ---
 
@@ -265,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 18h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 19h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -317,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 19h ago
+👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 20h ago
 
 ---
 
@@ -377,7 +379,7 @@ Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://w
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 223 • ⏱️ 16:02 • 1d ago
+👁️ 55K • 👍 3K • 💬 223 • ⏱️ 16:02 • 2d ago
 
 ---
 

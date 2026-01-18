@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T17:18:30.517392+00:00'
+updated: '2026-01-18T17:43:00.624225+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 17:18 UTC  
+**Last Updated:** January 18, 2026 at 17:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An important, and perenially underrated, aspect of "trustlessness", "passing the walkaway test" and "self-sovereignty" is protocol simplicity. Even if a protocol is super decentralized with hundreds of thousands of nodes, and it has 49% byzantine fault tolerance, and nodes fully verify everything with quantum-safe peerdas and starks, if the protocol is an unwieldy mess of hundreds of thousands of lines of code and five forms of PhD-level cryptography, ultimately that protocol fails all three tests: It's not trustless because you have to trust a small class of high priests who tell you what properties the protocol has It doesn't pass the walkaway test because if existing client teams go away, it's extremely hard for new teams to get up to the same level of quality It's not self-sovereign because if even the most technical people can't inspect and understand the thing, it's not fully yours It's also less secure, because each part of the protocol, especially if it can interact with other parts in complicated ways, carries a risk of the protocol breaking. One of my fears with Ethereum protocol development is that we can be too eager to add new features to meet highly specific needs, even if those features bloat the protocol or add entire new types of interacting components or complicated cryptography as critical dependencies. This can be nice for short-term functionality gains, but it is highly destructive to preserving long-term self-sovereignty, and creating a hundred-year decentralized hyperstructure that transcends the rise and fall of empires and ideologies. The core problem is that if protocol changes are judged from the perspective of "how big are they as changes to the existing protocol", then the desire to preserve backwards compatibility means that additions happen much more often than subtractions, and the protocol inevitably bloats over time. To counteract this, the Ethereum development process needs an explicit "simplification" / "garbage collection" function. "Simplification" has three metrics: Minimizing total lines of code in the protocol. An ideal protocol fits onto a single page - or at least a few pages Avoiding unnecessary dependencies on fundamentally complex technical components. For example, a protocol whose security solely depends on hashes (even better: on exactly one hash function) is better than one that depends on hashes and lattices. Throwing in isogenies is worst of all, because (sorry to the truly brilliant hardworking nerds who figured that stuff out) nobody understands isogenies. Adding more invariants: core properties that the protocol can rely on, for example EIP-6780 (selfdestruct removal) added the property that at most N storage slots can be changedakem per slot, significantly simplifying client development, and EIP-7825 (per-tx gas cap) added a maximum on the cost of processing one transaction, which greatly helps ZK-EVMs and parallel execution. Garbage collection can be piecemeal, or it can be large-scale. The piecemeal approach tries to take existing features, and streamline them so that they are simpler and make more sense. One example is the gas cost reforms in Glamsterdam, which make many gas costs that were previously arbitrary, instead depend on a small number of parameters that are clearly tied to resource consumption. One large-scale garbage collection was replacing PoW with PoS. Another is likely to happen as part of Lean consensus, opening the room to fix a large number of mistakes at the same time ( youtube.com/watch?v=10Ym34y3E… ). Another approach is "Rosetta-style backwards compatibility", where features that are complex but little-used remain usable but are "demoted" from being part of the mandatory protocol and instead become smart contract code, so new client developers do not need to bother with them. Examples: After we upgrade to full native account abstraction, all old tx types can be retired, and EOAs can be converted into smart contract wallets whose code can process all of those transaction types We can replace existing precompiles (except those that are really needed) with EVM or later RISC-V code We can eventually change the VM from EVM to RISC-V (or other simpler VM); EVM could be turned into a smart contract in the new VM. Finally, we want to move away from client developers feeling the need to handle all older versions of the Ethereum protocol. That can be left to older client versions running in docker containers. In the long term, I hope that the rate of change to Ethereum can be slower. I think for various reasons that ultimately that must happen. These first fifteen years should in part be viewed as an adolescence stage where we explored a lot of ideas and saw what works and what is useful and what is not. We should strive to avoid the parts that are not useful being a permanent drag on the Ethereum protocol. Basically, we want to improve Ethereum in a way that looks like this: https://old.reddit.com/r/SpaceXLounge/comments/1eis952/evolution_of_the_raptor_engine_by_cstanley/
 
-7h ago
+8h ago
 
 ---
 
@@ -156,6 +156,36 @@ The Block • 1d ago
 
 ---
 
+**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
+
+Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
+
+Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
+
+Coinpedia • 5h ago
+
+---
+
+**[“No Longer”: Vitalik Buterin Demands End to Ethereum’s Value Compromises](https://cryptonews.com/news/no-longer-vitalik-buterin-demands-end-to-ethereums-value-compromises/)**
+
+Cryptonews • 23h ago
+
+---
+
+**[Ethereum Should Strive To Become 'Cryptographically Safe' For 100 Years, Says Vitalik Buterin: Resist The Trap Of 'Ekeing Out More Efficiencies'](https://finance.yahoo.com/news/ethereum-strive-become-cryptographically-safe-233114236.html)**
+
+Vitalik Buterin called for the swift deployment of quantum-resistant technology for Ethereum (CRYPTO: ETH) on Monday, emphasizing its importance for long-term cryptographic safety. Is Efficiency Worth Sacrificing For Security? Buterin took to X to voice his concerns about delaying quantum...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
 The smaller chain could lose ground in an important arena during a critical period.
@@ -164,15 +194,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Why enterprises choose Ethereum for tokenization](https://www.jpost.com/crypto-currency/article-883721)**
+**[Ethereum news: Spike in first-time wallet activity over the past month](https://www.coindesk.com/tech/2026/01/16/more-people-are-using-ethereum-for-the-first-time-data-shows)**
 
-The Jerusalem Post • 3h ago
+The rise in new wallets suggests broader interest in Ethereum, driven by decentralized finance, stablecoin transfers, NFTs, and new applications.
 
----
-
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
-
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -200,28 +226,6 @@ TradingView — Track All Markets • 6h ago
 
 ---
 
-**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
-
-This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
-
-24/7 Wall St. • 3d ago
-
----
-
-**[Tokenization will determine whether Solana can close the valuation gap with Ethereum, says analyst](https://www.thestreet.com/crypto/markets/tokenization-will-determine-whether-solana-can-close-the-valuation-gap-with-ethereum-says-analyst)**
-
-thestreet.com • 1d ago
-
----
-
-**[XRP volume is exploding in Korea because it exploits a specific gap in the country’s spot-only exchange laws](https://cryptoslate.com/xrp-volume-is-exploding-in-korea-because-it-exploits-a-specific-gap-in-the-countrys-spot-only-exchange-laws/)**
-
-South Korea's market infrastructure and community culture make XRP the preferred choice for high-velocity trades and retail engagement.
-
-CryptoSlate • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 169 • 💬 18 • ⏱️ 9:21 • 6h ago
+👁️ 2K • 👍 169 • 💬 18 • ⏱️ 9:21 • 7h ago
 
 ---
 
@@ -252,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 766 • 👍 81 • 💬 3 • ⏱️ 4:43 • 4h ago
+👁️ 766 • 👍 81 • 💬 3 • ⏱️ 4:43 • 5h ago
 
 ---
 
@@ -272,7 +276,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 19h ago
+👁️ 42K • 👍 2K • 💬 257 • ⏱️ 12:19 • 20h ago
 
 ---
 
@@ -322,7 +326,7 @@ Never a dull moment in the cryptocurrency space. Things are about to heat up eve
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 566 • 💬 125 • ⏱️ 27:39 • 7h ago
+👁️ 4K • 👍 566 • 💬 125 • ⏱️ 27:39 • 8h ago
 
 ---
 
