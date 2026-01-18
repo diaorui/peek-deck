@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T07:41:10.991624+00:00'
+updated: '2026-01-18T08:28:31.910458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 07:41 UTC  
+**Last Updated:** January 18, 2026 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-21h ago
+22h ago
 
 ---
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-4h ago
+5h ago
 
 ---
 
@@ -115,13 +115,13 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Ok, so we all know you can buy bitcoin in any amount you want. My question(s) are these: Is the price of bitcoin scaring off small investors? I've talked to people who wonder what the point of owning a small fraction of a btc is especially considering the volumes some of the bigger holders have. Yes, I'm looking at you Michael. So the follow up to that is, when do we start denoting its value in Satoshis? For reference, I bought a whole btc at 10k and still have it. These questions come from conversations with people who know very little about it
 
-8h ago
+9h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 11h ago
 
 Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
 
-Gizmodo • 10h ago
+Gizmodo • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Gizmodo • 10h ago
 
 Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -267,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 9h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 10h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 63 • 💬 13 • 5d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 63 • 💬 13 • 6d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -305,7 +305,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 10h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 11h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -339,7 +339,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 109 • ⏱️ 17:39 • 11h ago
+👁️ 21K • 👍 2K • 💬 109 • ⏱️ 17:39 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 53K • 👍 4K • 💬 1K • ⏱️ 16:04 • 17h ago
+👁️ 53K • 👍 4K • 💬 1K • ⏱️ 16:04 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 10h ago
+👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 11h ago
 
 ---
 
@@ -409,7 +409,7 @@ Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth 
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 16h ago
+👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 17h ago
 
 ---
 
