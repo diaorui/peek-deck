@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T05:24:55.987379+00:00'
+updated: '2026-01-18T05:47:06.993678+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 05:24 UTC  
+**Last Updated:** January 18, 2026 at 05:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
 
-13h ago
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 1d ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ Business Insider • 19h ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 6h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 7h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 

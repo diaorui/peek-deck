@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T05:24:55.993339+00:00'
+updated: '2026-01-18T05:47:06.998996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 05:24 UTC  
+**Last Updated:** January 18, 2026 at 05:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -252,7 +252,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Stock Moe
 
-👁️ 9K • 👍 676 • 💬 59 • ⏱️ 15:35 • 15h ago
+👁️ 9K • 👍 676 • 💬 59 • ⏱️ 15:35 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 6 • ⏱️ 4:59 • 14h ago
+👁️ 2K • 👍 110 • 💬 6 • ⏱️ 4:59 • 15h ago
 
 ---
 

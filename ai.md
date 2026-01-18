@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T05:24:55.978969+00:00'
+updated: '2026-01-18T05:47:06.986224+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 05:24 UTC  
+**Last Updated:** January 18, 2026 at 05:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-18h ago
+19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 I got the bug to try and develop an assistant and Google Gemini APIs are pretty cost effective. I started with an idea based on Geminis remote system calls that allow it to make a request locally to call a function or service. I started with an intent and tool calling agent. The intent agent is given a cached context of current tools and how to use them. this way as more tools and functions becom available, the model doesn't need to be retrained. each tool is a function within python. when a user asks about the weather for example, the intent agent simply calls the weather tool. I programmed it so most tools when called simply make API calls to separate agents. Having agents run separately greatly improves development and improvement on the fly. the most important and hardest part was the memory tool. I programmed a local SQL db that is searchable and editable via these tools. the AI uses memory calls to query previous history. the intent and chat agent are given a brief history in context cache for all conversations. When a user starts talking about things that seam out of context, the agents can call on all history via the memory tool. like humans needing a prompt to remember, it takes a users intent and conversation then breaks it down into keyword searches. the search results are presented to these agents to enrich the conversation. same for; news, fuel prices, recycling guide, web searching, calendar management and more. keeping everything modular and combining multiple AI models together makes for a great assistant. I'm not trying to get anywhere near chatgpt but it maintains context in a single form chat very well. the user doesn't need to reset the conversation or start again. a user can ask it to change what it remembers and delete history just with natural language. just thought I would share some experience. just needing to improve its interface. right now I'm just using sms and text chat programs to interact. I might work on a web UI or something via voice.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 14h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ New techniques are giving researchers a glimpse at the inner workings of AI mode
 
 A social experiment: 6 AI models released into a dating simulation.
 
-🔗 [singularity.game](https://singularity.game/) • 4h ago
+🔗 [singularity.game](https://singularity.game/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-10h ago
+11h ago
 
 ---
 
@@ -338,7 +338,7 @@ I revisited this old DaVinci prompt from a while back. It never gets old to me. 
 
 📺 Kelly Boesch AI Art
 
-👁️ 7K • 👍 528 • 💬 46 • ⏱️ 3:00 • 15h ago
+👁️ 7K • 👍 528 • 💬 46 • ⏱️ 3:00 • 16h ago
 
 ---
 
@@ -645,7 +645,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.9k • 🔱 1.2k • 42m ago
+⭐ 8.9k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 342 • 2h ago
+⭐ 7.2k • 🔱 342 • 3h ago
 
 ---
 
@@ -685,7 +685,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.8k • 🔱 166 • 11h ago
+⭐ 2.8k • 🔱 166 • 12h ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.6k • 🔱 507 • 2h ago
+⭐ 2.6k • 🔱 507 • 3h ago
 
 ---
 
@@ -705,7 +705,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.5k • 🔱 2.4k • 16h ago
+⭐ 2.5k • 🔱 2.4k • 17h ago
 
 ---
 

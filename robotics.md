@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T05:24:55.996565+00:00'
+updated: '2026-01-18T05:47:07.001752+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 05:24 UTC  
+**Last Updated:** January 18, 2026 at 05:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ We're building Asimov, an open-source humanoid robot. We're on Day 116, and we c
 
 **[𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞: 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 3𝐃 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧.](https://www.reddit.com/r/robotics/comments/1qfht37/𝐋𝐢𝐧𝐤𝐅𝐨𝐫𝐠𝐞_𝐁𝐥𝐞𝐧𝐝𝐞𝐫_𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧_𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝_𝐭𝐨_𝐛𝐫𝐢𝐝𝐠𝐞/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ From Boston Dynamics on 𝕏: https://x.com/BostonDynamics/status/20118260124393
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 16h ago
+Futurism • 17h ago
 
 ---
 
