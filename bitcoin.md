@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T15:21:01.445530+00:00'
+updated: '2026-01-18T15:41:24.849160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 15:21 UTC  
+**Last Updated:** January 18, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 **[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -265,7 +265,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 16h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 17h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -347,7 +347,7 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 613 • 💬 87 • ⏱️ 29:43 • 19h ago
+👁️ 9K • 👍 613 • 💬 87 • ⏱️ 29:43 • 20h ago
 
 ---
 
