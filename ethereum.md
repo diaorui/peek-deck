@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T08:51:31.390208+00:00'
+updated: '2026-01-18T09:22:36.247058+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 08:51 UTC  
+**Last Updated:** January 18, 2026 at 09:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.30B
+**Market Cap:** $400.25B
 Rank #2
 
 **Circulating Supply:** 120,694,592 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.2%
+-32.9%
 
 **All-Time Low:** $0.43
-+763313.5%
++766094.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 2d ago
 
 Is Ethereum following Bitcoin’s institutional playbook?
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 264 • ⏱️ 10:28 • 15h ago
+👁️ 51K • 👍 2K • 💬 266 • ⏱️ 10:28 • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 11h ago
+👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Stock Moe
 
-👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 19h ago
+👁️ 9K • 👍 689 • 💬 59 • ⏱️ 15:35 • 19h ago
 
 ---
 
@@ -266,17 +266,7 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 7K • 👍 201 • 💬 20 • ⏱️ 24:55 • 1d ago
-
----
-
-**[ETH Ethereum Price Prediction: 17th of January](https://www.youtube.com/watch?v=vpkd8jNtqDs)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 567 • 👍 48 • 💬 14 • ⏱️ 14:00 • 15h ago
+👁️ 7K • 👍 201 • 💬 21 • ⏱️ 24:55 • 1d ago
 
 ---
 
@@ -286,27 +276,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 781 • 💬 27 • ⏱️ 16:47 • 1d ago
+👁️ 22K • 👍 796 • 💬 27 • ⏱️ 16:47 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MgAxwhzlD9w)**
+**[ETH Ethereum Price Prediction: 17th of January](https://www.youtube.com/watch?v=vpkd8jNtqDs)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 18h ago
-
----
-
-**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
-
-BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 344 • 💬 109 • ⏱️ 22:05 • 20h ago
+👁️ 580 • 👍 49 • 💬 14 • ⏱️ 14:00 • 16h ago
 
 ---
 
@@ -316,17 +296,37 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 6K • 👍 210 • 💬 28 • ⏱️ 1:22 • 12h ago
+👁️ 7K • 👍 216 • 💬 43 • ⏱️ 1:22 • 13h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. BTC &amp; ETH im Niemandsland aber mit Potential auf neue Highs!](https://www.youtube.com/watch?v=UmZSlxHX2Tc)**
+**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20% Auf ...
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
-📺 Krypto Trading & Investing
+📺 Marzell Crypto
 
-👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 3h ago
+👁️ 2K • 👍 68 • 💬 90 • ⏱️ 6:39 • 2d ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pRQdkJ5cqzk)**
+
+BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 348 • 💬 155 • ⏱️ 22:05 • 21h ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message for Bitcoin &amp; Crypto Investors In January!](https://www.youtube.com/watch?v=buMiV8EnaUE)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 5K • 👍 190 • 💬 203 • ⏱️ 15:03 • 2d ago
 
 ---
 

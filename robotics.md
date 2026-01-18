@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T08:51:31.396059+00:00'
+updated: '2026-01-18T09:22:36.250303+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 08:51 UTC  
+**Last Updated:** January 18, 2026 at 09:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-22h ago
+23h ago
 
 ---
 
 **[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-7m ago
+38m ago
 
 ---
 
@@ -88,7 +88,7 @@ Just for fun, I decided to design the mechanics for a Turret from the game Porta
 
 I've done some robot building kits but they all seem very simplistic, like I've built harder Lego sets. I've come across other kits that are like $1,000 which seems way over priced. What are the open source options for complex robots where I can just buy the parts on my own? I'd like it to have wifi to use an LLM, and preferably look like a cat.
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
 We're building Asimov, an open-source humanoid robot. We're on Day 116, and we can now control the robot using a mobile app, and we're ready to open-source some components in a few days!
 
-1d ago
+2d ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 2d ago
 You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
-Pittsburgh Post-Gazette • 23h ago
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -177,7 +177,7 @@ Automotive News • 2d ago
 
 **[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ Tech Xplore • 16h ago
 
 Oshen has signed contracts with multiple government agencies for its C-Star robots to collect ocean data autonomously.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 176K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 182K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -213,13 +213,11 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+📺 Wowearth
 
-📺 CNBC
-
-👁️ 170K • 👍 2K • 💬 408 • ⏱️ 11:46 • 6d ago
+👁️ 139K • 👍 2K • 💬 68 • ⏱️ 1:16 • 4d ago
 
 ---
 
@@ -233,11 +231,23 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 ---
 
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-📺 Chris Wabs
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-👁️ 375K • 👍 2K • 💬 1K • ⏱️ 0:16 • 6d ago
+📺 joeybtoonz
+
+👁️ 249K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 171K • 👍 2K • 💬 408 • ⏱️ 11:46 • 6d ago
 
 ---
 
@@ -248,6 +258,14 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 📺 KhanFlicks
 
 👁️ 26K • 💬 26 • ⏱️ 6:37 • 2d ago
+
+---
+
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 381K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -267,25 +285,7 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 41K • 👍 159 • 💬 14 • ⏱️ 9:43 • 3d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 249K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 137K • 👍 2K • 💬 68 • ⏱️ 1:16 • 4d ago
+👁️ 42K • 👍 160 • 💬 14 • ⏱️ 9:43 • 3d ago
 
 ---
 

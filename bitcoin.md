@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T08:51:31.379281+00:00'
+updated: '2026-01-18T09:22:36.240938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 08:51 UTC  
+**Last Updated:** January 18, 2026 at 09:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1898.51B
+**Market Cap:** $1901.03B
 Rank #1
 
-**Circulating Supply:** 19,977,356 BTC
+**Circulating Supply:** 19,977,400 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.6%
+-24.5%
 
 **All-Time Low:** $67.81
-+140047.5%
++140236.2%
 
 ---
 
@@ -87,13 +87,13 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-22h ago
+23h ago
 
 ---
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,13 +109,13 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-8h ago
+9h ago
 
 ---
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ The chart line is going so flat today. Anyone has any idea why so?
 
 I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
 
-19h ago
+20h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 11h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 12h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -311,13 +311,13 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
+**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
 
-Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 153 • ⏱️ 8:18 • 1d ago
+👁️ 23K • 👍 2K • 💬 114 • ⏱️ 17:39 • 13h ago
 
 ---
 
@@ -327,17 +327,17 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 13h ago
+👁️ 8K • 👍 571 • 💬 82 • ⏱️ 29:43 • 13h ago
 
 ---
 
-**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
+**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
 
-While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
+Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 21K • 👍 2K • 💬 109 • ⏱️ 17:39 • 12h ago
+👁️ 40K • 👍 2K • 💬 154 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -347,47 +347,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 53K • 👍 4K • 💬 1K • ⏱️ 16:04 • 18h ago
-
----
-
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
-
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
-
-📺 What Bitcoin Did
-
-👁️ 25K • 👍 1K • 💬 288 • ⏱️ 1:13:07 • 1d ago
-
----
-
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 226 • ⏱️ 16:02 • 1d ago
-
----
-
-**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
-
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 255 • 💬 26 • ⏱️ 5:23 • 2d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
-
-Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
-
-📺 Benjamin Cowen
-
-👁️ 82K • 👍 5K • 💬 213 • ⏱️ 18:18 • 2d ago
+👁️ 55K • 👍 4K • 💬 1K • ⏱️ 16:04 • 19h ago
 
 ---
 
@@ -397,17 +357,57 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 183 • ⏱️ 12:19 • 11h ago
+👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 12h ago
 
 ---
 
-**[Bitcoin Didn’t Make Millionaires—Conviction Did](https://www.youtube.com/watch?v=EewQ2GMF3kA)**
+**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
 
-Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth $2.8 billion today—but almost nobody could ...
+Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
 
-📺 Swan Bitcoin
+📺 What Bitcoin Did
 
-👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 17h ago
+👁️ 25K • 👍 1K • 💬 290 • ⏱️ 1:13:07 • 1d ago
+
+---
+
+**[The case for bitcoin hitting $130K](https://www.youtube.com/watch?v=hxVLwDaNChc)**
+
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 257 • 💬 26 • ⏱️ 5:23 • 2d ago
+
+---
+
+**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
+
+Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 227 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=FW02mg4BMxg)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 143 • 💬 13 • ⏱️ 4:55 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Z2maHj5YVeU)**
+
+Let's dubiously speculate about the price of Bitcoin! Read the Crypto Macro Risk Memo Q1 2026: ...
+
+📺 Benjamin Cowen
+
+👁️ 83K • 👍 5K • 💬 213 • ⏱️ 18:18 • 2d ago
 
 ---
 
