@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T20:44:17.405348+00:00'
+updated: '2026-01-18T21:19:13.670966+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 20:44 UTC  
+**Last Updated:** January 18, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2d ago
 
 Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 23h ago
 
 Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -301,7 +301,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 23h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 1d ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 6h ago
+👁️ 16K • 👍 868 • 💬 278 • ⏱️ 53:40 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 3h ago
+👁️ 2K • 👍 163 • 💬 135 • ⏱️ 8:40 • 4h ago
 
 ---
 
@@ -385,7 +385,7 @@ WEEX: https://weex.com/events/trading-challenge/dailytradingcompetition-1?vipCod
 
 📺 The Moon Show
 
-👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 6h ago
+👁️ 6K • 👍 379 • 💬 66 • ⏱️ 8:35 • 7h ago
 
 ---
 
@@ -395,7 +395,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 9h ago
+👁️ 9K • 👍 314 • 💬 214 • ⏱️ 19:48 • 10h ago
 
 ---
 

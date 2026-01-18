@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T20:44:17.397038+00:00'
+updated: '2026-01-18T21:19:13.663549+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 20:44 UTC  
+**Last Updated:** January 18, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lawsuit alleges ChatGPT encouraged a man's suicide, intensifying scrutiny of AI chatbots and mental health risks.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/chatgpt-suicide-lawsuit-openai-ai-mental-health) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/chatgpt-suicide-lawsuit-openai-ai-mental-health) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 I recognize that in this instance some of the problem might be my commands. But still - I've never been able to get any AI to do this very simple task correctly. Is there any way I can do it? It doesn't matter really, I have a simple spreadsheet algorithm that does the job of putting a comma behind my customer names - but it's just so befuddling to me that chatgpt can't do this really really simple task. ------------- So I decided to use AI for a very basic task. I'm using a very basic list as an example, but my customer lists range from hundreds of customers to thousands. can you put a comma after each of these items in a list, please? Customer1 Customer3 Customer2 ChatGPT replies Customer1, Customer3, Customer2. can you please keep them in the same one item to a line list I had? put in alphabetical order too please ChatGPT says: Customer1, Customer2, Customer3, Thanks. Now the same with this list please: Customer6 Customer9 Customer7 Customer13 AI: Customer6 Customer 7... Stop. You need to add a comma after each as well please. AI: Here’s your list, alphabetized and formatted with commas: Customer6, Customer7... STOP. my list, alphabetized and formatted one item to a line, with commas after each please Here’s your list, alphabetized and formatted with commas after each item: Customer6, Customer7, Customer13, Uh. Please include ALL of the items on my list. Here is the full list you provided, formatted with one item per line, alphabetized, and with commas: Customer7, Customer9, Customer13. Why is Customer6 not on the list? You're right! It looks like "Customer6" was missing from the list I provided. My apologies for that oversight. Here's the corrected list with "Customer6" included: Customer6, Customer7, Customer13, (I count the list it provided and find it has provided 431 out of 519 customers) Have you missed other people on this list? please include ALL items on the list I apologize for the confusion earlier! I understand now that you want every single item from your list to be included. Let me correct that and provide the entire list in the format you're asking for. Here is the full alphabetized list with one item per line, and I will include all of the names as requested: (the new list is still missing the aforementioned customer, and is now even more customers fewer than the list total) That's not the full list, you are missing (x number of) items! Apologies again for the confusion earlier! Let's go ahead and ensure I capture every single item from the list. I'll make sure to include all of the names you provided, including those previously missed. I'll start over and include every single one properly. Give me a moment to fix that for you! Here's the complete, corrected list with one item per line for all of your names: Customer7 Customer9 Customer13 ---------------------------------------------------- I give up. There's no point. Exactly how BAD is ChatGPT that it can't do something that I could have done in first grade? Maybe not the alphabetizing as easily, but just to take a list of names, keep them all, and put a comma after each? UGH. What a waste of an hour (I had done most of my customer lists before I noticed the one missing customer, and then started counting). I don't understand how AI could be so stupid. And yes, when I went back to the first request, when i was only asking for commas, even then it was missing some names.
 
-37m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I recognize that in this instance some of the problem might be my commands. But 
 
 **TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ I recognize that in this instance some of the problem might be my commands. But 
 
 The greatest conspiracy theories in the World are the ones that can take a fantastical story and add so much circumstantial evidence and other data points to it that it begins to make you wonder, "Is this true?" That's why more people are fascinated by the JFK assassination than they are of lizard people. Both sound unbelievable, but one contains real evidence and grounded logic that makes sense when you dig into it. The other? Not so much. That's why, as a fiction writer, I'm fascinated by conspiracy theories, particularly when it comes to politics because, well...There's a lot of them and when you're able to induce cognitive dissonance in others and make them question reality like how many probably felt after watching the Matrix, that's worth a ton in "audience gold" given how powerful that feeling can be. However, my problem has always been the convoluted nature of these kinds of stories. With a great conspiracy theory, you need to add a lot of moving parts that are interconnected (the evidence), and you have to possess a ton of knowledge in areas you may not be familiar with. Otherwise you'll struggle to turn a fantastical big picture into something that's grounded in reality. That's how you would make something like the "Hollow Moon" theory stick. I can write the plotlines, develop the characters, and add the drama. No problem. But when it comes to unpacking it with all those "facts" and realism so that I'm moving beyond the unbelievable and getting readers to truly question their reality, I'm virtually hopeless in that regard....That is, until I discovered mind-mapping with AI. Check this out. Doesn't look like much but this is Whitney Webb's 2 vol. series, "One Nation Under Blackmail" mapped out as a knowledge graph. It took over 60 hours to build since the information was dense, but I finally completed it! To say my hands are tired is an understatement, but this was totally worth it because now I can use her corpus of information that she's gathered about clandestine operations throughout the 20th Century and infuse that into this Sci-fi political thriller that I'm working on. I've had this idea for quite a while, but I never quite knew how to make it feel real, so I never bothered to develop it. But once I realized I can use mind mapping to convert books into LLM systems that can directly connect to my story, I decided to give it a shot. Before I get into this little sample of the story, it needs to be noted that this is not a simple document uploader connected to an AI like you might find on Gemini or ChatGPT. This is a way for anyone to build the "neurological" structure of a chatbot assistant based on any work you're doing. It means the books that I map out can act as information guides, but also act as systems to provide specific things that I need. In this case, I needed to add realism to my conspiracy by using Whitney Webb's academic research. This was the result: The Story: For generations, a secret society known as the Foundry has operated as the unseen hand guiding human history. Born from a secret pact with a silent, extraterrestrial "Benefactor," their sacred mission is to prepare humanity for First Contact. The terms were clear: by a pre-calculated moment in time—Timeline X—mankind must achieve global technological unity, masterful control over fundamental forces, and a single, functioning world government. To the Foundry's ruthless leadership, the path was obvious. Believing humanity's chaos, sentimentality, and free will—the "Original Flaw"—were liabilities, they embraced a doctrine of "Necessary Cruelty." Through engineered wars that accelerated technology, black-budget breeding programs that purged genetic "impurities," and systematic psychological abuse, they forged generations of perfect operatives. To ascend within their ranks is to prove one's utter devotion to the cause by performing the ultimate act of control: a ritual infant sacrifice, severing the final tie to the flawed human animal. Every atrocity, every life erased, was a calculated step toward creating a compliant, perfected species worthy of partnership with the stars. It's a non-linear story that follows six characters who unravel aspects of this entire grand conspiracy through inductive sequencing. It's taking pretty much every conspiracy theory we've heard and combining it into one grand narrative to connect them altogether. The idea sounds a bit hoaky, right? But once I started ironing out the finer details and how the Foundry operates by using my Whitney Webb chatbot, that's when this story went from, "Cool" to "Holy shit!". Here's an example of what I mean. Yes, it's a little long, but if you read it, you'll see how the Whitney Webb chatbot was able to derive knowledge from the two books, which added teeth to this idea of secret breeding programs to foster elite operators for carrying out the conspiracy. That sounds batshit insane and it is, but when you infuse this idea with real facts on how clandestine operators behave, suddenly the fantastical begins to feel more real than you ever thought it could. That's why I'm personally so excited about using AI in my writing because it's the one tool that can easily help me overcome this burden of adding the necessary dense information that's needed to tell a big story like this. Prior to AI, I was limited to only working on things that I was familiar with, but now it's like I can tackle anything without spending decades on research. Anywho, just wanted to share this. Hope it spurs some ideas on your end!
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ The greatest conspiracy theories in the World are the ones that can take a fanta
 
 Hey everyone! 👋 I'm excited to share the biggest update ever for Skill Seekers — the open-source tool that transforms documentation into production-ready AI skills for Claude, Gemini, and OpenAI. 🚀 What's New? Skill Seekers has evolved from a simple documentation scraper into a complete skill generation factory. You can now create comprehensive AI skills by combining: 🌐 Web Scraping — Any documentation website (async support for 3x speed) 🐙 GitHub Analysis — Deep AST parsing for functions, classes, APIs 📊 Codebase Analysis — Design patterns, architecture, dependencies 📄 PDF Extraction — Tables, OCR for scanned docs, password-protected files 🔄 Smart Unified Merging — Cross-reference ALL sources with conflict detection 🎯 Bootstrap (NEW!) — Generate skill-seekers itself as a Claude Code skill! ✨ Major New Features This is the most significant release in Skill Seekers history: Feature Details 🎯 Bootstrap Skill (Self-Hosting!) Generate skill-seekers itself as a Claude Code skill! Run ./scripts/bootstrap_skill.sh and install to ~/.claude/skills/ 🔐 Smart Rate Limit Management Multi-token GitHub profiles, auto-switching when rate limited, configurable strategies (prompt/wait/switch/fail) 🧙 Interactive Config Wizard Beautiful terminal UI for GitHub tokens, API keys, rate limits — run skill-seekers config 📦 Resume Interrupted Jobs Resume scraping from checkpoints with skill-seekers resume --list Design Pattern Detection 10 patterns (Singleton, Factory, Observer, Strategy, etc.) with 87% precision Language Support Python, JavaScript, TypeScript, C++, C, C#, Go, Rust, Java (+Ruby, PHP) Three-Stream Analysis Code, Docs, and Insights streams for comprehensive skills Architectural Patterns MVC, MVVM, Clean Architecture auto-detection How-To Guide Generation Automatically extracts guides from your tests with AI enhancement Config Pattern Extraction 9 formats (JSON, YAML, TOML, ENV, INI, Python, JS, Dockerfile, Docker Compose) 18 MCP Tools Use directly in Claude Code, Cursor, Windsurf, VS Code + Cline, IntelliJ 4 LLM Platforms Deploy to Claude, Gemini, OpenAI, or export as Markdown 1200+ Tests Production-ready with comprehensive validation MCP Now Optional Choose your install: pip install skill-seekers (CLI) or skill-seekers[mcp] (full) 🎯 NEW: Bootstrap Skill — Self-Hosting! The coolest feature: You can now generate Skill Seekers itself as a Claude Code skill! ```bash Generate skill-seekers as a skill ./scripts/bootstrap_skill.sh Install to Claude Code cp -r output/skill-seekers ~/.claude/skills/ Now Claude Code knows how to use Skill Seekers! 🤯 ``` This means Claude can help you create skills... using the skill about creating skills. Meta! 🌐 NEW: SkillSeekersWeb.com We launched a dedicated website where you can: 📦 Browse 24+ Configs — Find ready-to-use configs for popular frameworks 🔗 Share Your Configs — Contribute and share custom configs with the community 📚 Full Documentation — Complete guides for installation, quick start, advanced features 🚀 One-Click Start — Copy install commands and get started in seconds Check it out: skillseekersweb.com 💡 The Magic: Unified Multi-Source Skills The real power is combining everything: json { "name": "myframework", "sources": [ {"type": "documentation", "base_url": "https://docs.example.com"}, {"type": "github", "repo": "owner/repo", "code_analysis_depth": "deep"}, {"type": "pdf", "path": "manual.pdf"} ] } One command. Three sources. One unified skill with: - ⚠️ Conflict detection (docs say X, code does Y) - 📊 Documentation gap analysis - 🔍 Cross-referenced API information - 📈 Architecture & design pattern insights 📦 Quick Start ```bash pip install skill-seekers Scrape docs skill-seekers scrape --config react Analyze a codebase skill-seekers codebase --directory ./my-project Create unified skill from multiple sources skill-seekers unified --config my_unified.json Package & upload skill-seekers package output/myskill/ ``` 📊 By the Numbers ⭐ 7.1K+ GitHub stars 🧪 1,200+ tests passing 🤖 4 LLM platforms supported 📦 24 preset configs 👥 24 contributors 🔧 18 MCP tools 🔗 Links 🌐 Website (NEW!): https://skillseekersweb.com — Browse configs, docs & guides GitHub: https://github.com/yusufkaraaslan/Skill_Seekers PyPI: pip install skill-seekers What skills will you create? I'd love to hear your use cases! Feel free to ask questions or request features. 🙏
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 6h ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -147,19 +147,19 @@ CNN • 9h ago
 
 The AI arms race is set to continue well past 2026.
 
-The Motley Fool • 44m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[AI for human agency](https://openai.com/index/ai-for-human-agency)**
 
-OpenAI • 30m ago
+OpenAI • 1h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 9h ago
 
 Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -175,13 +175,13 @@ Financial Times • 8h ago
 
 The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
-The Boston Globe • 14h ago
+The Boston Globe • 15h ago
 
 ---
 
 **[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 5h ago
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -239,7 +239,7 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 74 • 💬 31 • 14h ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 74 • 💬 31 • 15h ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -247,7 +247,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 70 • 💬 69 • 5h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 70 • 💬 69 • 6h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -333,7 +333,7 @@ How to Create AI Music Videos From Suno AI Songs (AI Music Video Tutorial) AI Ly
 
 📺 Dan Kieft
 
-👁️ 7K • 💬 7 • ⏱️ 6:46 • 4h ago
+👁️ 7K • 💬 7 • ⏱️ 6:46 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ An AI system inside a controlled research lab unexpectedly spiraled into a full 
 
 📺 The Infographics Show
 
-👁️ 138K • 👍 4K • 💬 643 • ⏱️ 13:14 • 23h ago
+👁️ 138K • 👍 4K • 💬 643 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ In this episode, I dive into some amazing recent developments in the AI world. F
 
 📺 MattVidPro AI
 
-👁️ 10K • 👍 495 • 💬 28 • ⏱️ 15:47 • 22h ago
+👁️ 10K • 👍 495 • 💬 28 • ⏱️ 15:47 • 23h ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 358 • 2h ago
+⭐ 7.4k • 🔱 358 • 3h ago
 
 ---
 
@@ -670,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 644 • 10d ago
+⭐ 4.9k • 🔱 644 • 11d ago
 
 ---
 
@@ -690,7 +690,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.9k • 🔱 2.8k • 5h ago
+⭐ 2.9k • 🔱 2.8k • 6h ago
 
 ---
 
@@ -710,7 +710,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 268 • 13h ago
+⭐ 1.8k • 🔱 268 • 14h ago
 
 ---
 
@@ -720,7 +720,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 141 • 4h ago
+⭐ 1.7k • 🔱 141 • 5h ago
 
 ---
 
@@ -730,7 +730,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 120 • 31m ago
+⭐ 1.4k • 🔱 120 • 1h ago
 
 ---
 
