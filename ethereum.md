@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T10:45:06.361363+00:00'
+updated: '2026-01-18T11:17:43.330032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 10:45 UTC  
+**Last Updated:** January 18, 2026 at 11:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -192,7 +192,7 @@ dlnews.com • 3d ago
 
 Is Ethereum following Bitcoin’s institutional playbook?
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 266 • ⏱️ 10:28 • 17h ago
+👁️ 51K • 👍 2K • 💬 266 • ⏱️ 10:28 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 580 • 👍 49 • 💬 14 • ⏱️ 14:00 • 17h ago
+👁️ 580 • 👍 49 • 💬 14 • ⏱️ 14:00 • 18h ago
 
 ---
 
@@ -296,7 +296,7 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 7K • 👍 216 • 💬 43 • ⏱️ 1:22 • 14h ago
+👁️ 7K • 👍 216 • 💬 43 • ⏱️ 1:22 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 348 • 💬 155 • ⏱️ 22:05 • 22h ago
+👁️ 8K • 👍 348 • 💬 155 • ⏱️ 22:05 • 23h ago
 
 ---
 

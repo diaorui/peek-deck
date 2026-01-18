@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T10:45:06.355236+00:00'
+updated: '2026-01-18T11:17:43.324050+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 10:45 UTC  
+**Last Updated:** January 18, 2026 at 11:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -107,7 +107,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 **[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-10h ago
+11h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 1d ago
 
 This privacy coin has a few significant things going for it that Bitcoin doesn't.
 
-The Motley Fool • 45m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 13h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 14h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 114 • ⏱️ 17:39 • 14h ago
+👁️ 23K • 👍 2K • 💬 114 • ⏱️ 17:39 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 55K • 👍 4K • 💬 1K • ⏱️ 16:04 • 20h ago
+👁️ 55K • 👍 4K • 💬 1K • ⏱️ 16:04 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a f
 
 📺 What Bitcoin Did
 
-👁️ 25K • 👍 1K • 💬 290 • ⏱️ 1:13:07 • 1d ago
+👁️ 25K • 👍 1K • 💬 290 • ⏱️ 1:13:07 • 2d ago
 
 ---
 
