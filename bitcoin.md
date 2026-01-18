@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T22:20:44.075075+00:00'
+updated: '2026-01-18T22:44:22.970106+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 22:20 UTC  
+**Last Updated:** January 18, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,318.82
+### $95,461.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.5%  
-**30d:** +7.9%  
-**90d:** -12.2%  
-**1y:** -5.6%  
+**24h:** +0.3%  
+**7d:** +4.6%  
+**30d:** +8.0%  
+**90d:** -12.1%  
+**1y:** -5.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,15 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-16h ago
+17h ago
+
+---
+
+**[What misconception about Bitcoin do you still see repeated today?p](https://www.reddit.com/r/Bitcoin/comments/1qgk9fu/what_misconception_about_bitcoin_do_you_still_see/)**
+
+I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
+
+1h ago
 
 ---
 
@@ -125,7 +133,15 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-19h ago
+20h ago
+
+---
+
+**[You are not late to the party](https://www.reddit.com/r/Bitcoin/comments/1qgladb/you_are_not_late_to_the_party/)**
+
+I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
+
+56m ago
 
 ---
 
@@ -135,29 +151,9 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 ---
 
-**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
-
-1d ago
-
----
-
-**[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
-
-14h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-CNBC • 1d ago
-
----
 
 **[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
@@ -167,11 +163,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin $50 2022 Bet Nearly Doubles Today](https://www.findarticles.com/bitcoin-50-2022-bet-nearly-doubles-today/)**
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
-I put $50 into Bitcoin in early 2022 and then did what most small, curious investors do: watched it crater, bounce, and lurch through news cycles. After
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-findarticles.com • 2h ago
+CNBC • 1d ago
+
+---
+
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+
+The Block • 2d ago
+
+---
+
+**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
+
+The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -219,14 +229,6 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
-
-Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
-
-CoinDesk • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -267,7 +269,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 23h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 1d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -359,7 +361,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Crypto Cam
 
-👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 21h ago
+👁️ 40K • 👍 805 • 💬 90 • ⏱️ 0:29 • 22h ago
 
 ---
 
@@ -409,7 +411,7 @@ Follow me on X for more frequent posts! https://x.com/colintcrypto ————�
 
 📺 Colin Talks Crypto
 
-👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 21h ago
+👁️ 9K • 👍 740 • 💬 158 • ⏱️ 25:41 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T22:20:44.066492+00:00'
+updated: '2026-01-18T22:44:22.961712+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 22:20 UTC  
+**Last Updated:** January 18, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 7h ago
-
----
-
-**[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
-
-After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
-
-9h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 8h ago
 
 ---
 
@@ -61,11 +53,11 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 ---
 
-**[Why can't AI do simple organizational tasks correctly?](https://www.reddit.com/r/artificial/comments/1qgiune/why_cant_ai_do_simple_organizational_tasks/)**
+**[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
 
-I recognize that in this instance some of the problem might be my commands. But still - I've never been able to get any AI to do this very simple task correctly. Is there any way I can do it? It doesn't matter really, I have a simple spreadsheet algorithm that does the job of putting a comma behind my customer names - but it's just so befuddling to me that chatgpt can't do this really really simple task. ------------- So I decided to use AI for a very basic task. I'm using a very basic list as an example, but my customer lists range from hundreds of customers to thousands. can you put a comma after each of these items in a list, please? Customer1 Customer3 Customer2 ChatGPT replies Customer1, Customer3, Customer2. can you please keep them in the same one item to a line list I had? put in alphabetical order too please ChatGPT says: Customer1, Customer2, Customer3, Thanks. Now the same with this list please: Customer6 Customer9 Customer7 Customer13 AI: Customer6 Customer 7... Stop. You need to add a comma after each as well please. AI: Here’s your list, alphabetized and formatted with commas: Customer6, Customer7... STOP. my list, alphabetized and formatted one item to a line, with commas after each please Here’s your list, alphabetized and formatted with commas after each item: Customer6, Customer7, Customer13, Uh. Please include ALL of the items on my list. Here is the full list you provided, formatted with one item per line, alphabetized, and with commas: Customer7, Customer9, Customer13. Why is Customer6 not on the list? You're right! It looks like "Customer6" was missing from the list I provided. My apologies for that oversight. Here's the corrected list with "Customer6" included: Customer6, Customer7, Customer13, (I count the list it provided and find it has provided 431 out of 519 customers) Have you missed other people on this list? please include ALL items on the list I apologize for the confusion earlier! I understand now that you want every single item from your list to be included. Let me correct that and provide the entire list in the format you're asking for. Here is the full alphabetized list with one item per line, and I will include all of the names as requested: (the new list is still missing the aforementioned customer, and is now even more customers fewer than the list total) That's not the full list, you are missing (x number of) items! Apologies again for the confusion earlier! Let's go ahead and ensure I capture every single item from the list. I'll make sure to include all of the names you provided, including those previously missed. I'll start over and include every single one properly. Give me a moment to fix that for you! Here's the complete, corrected list with one item per line for all of your names: Customer7 Customer9 Customer13 ---------------------------------------------------- I give up. There's no point. Exactly how BAD is ChatGPT that it can't do something that I could have done in first grade? Maybe not the alphabetizing as easily, but just to take a list of names, keep them all, and put a comma after each? UGH. What a waste of an hour (I had done most of my customer lists before I noticed the one missing customer, and then started counting). I don't understand how AI could be so stupid. And yes, when I went back to the first request, when i was only asking for commas, even then it was missing some names.
+After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-2h ago
+10h ago
 
 ---
 
@@ -81,7 +73,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
-6h ago
+7h ago
 
 ---
 
@@ -117,21 +109,21 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 ---
 
+**[Is there an AI that can analyze long audios and find something in them](https://www.reddit.com/r/artificial/comments/1qg6on4/is_there_an_ai_that_can_analyze_long_audios_and/)**
+
+So, I have a 7h long UVB-76 recording(monotone buzzes with occasional encrypted messages) and I want to find those messages. Ofc, I can't listen to those buzzes or watch the spectrogram for seven hours, so I'm asking if there's an AI that's able to do it.
+
+10h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdA9djJPRxz90hqMMpgevvNTPcHptGes4610ZlN-15V6mxRd9zIj_g6&gaa_ts=696d56b6&gaa_sig=oVHorfgWBuRnWrrH7MZVrZxrJGrDfVzeTbNCqwNEP9DL3C9_W9p0VPfZMNiwNh_u3VVMheGXbDIVGXKrIyTs2A%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqe3i7Uw1fnZb-layi-STz-a73-WKMyWyndD3aXcyvLFlYswzP80gLRK&gaa_ts=696d65b3&gaa_sig=_DrsfjRjDpbHpXS1ilVILlu91g2Z-rF_MHAw2n9LL1WRExi0LCvDWzkAWv-5pzDIsXuLAtjZQmQi5DBZwWzCrQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
-
-With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
-
-CNN • 11h ago
 
 ---
 
@@ -143,15 +135,41 @@ The Guardian • 8h ago
 
 ---
 
-**[AI for self empowerment](https://openai.com/index/ai-for-human-agency)**
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
-OpenAI • 2h ago
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
+
+CNN • 11h ago
+
+---
+
+**[Artificial Intelligence (AI) Infrastructure Spending Is Rising. This Stock Could Benefit.](https://www.fool.com/investing/2026/01/18/artificial-intelligence-ai-infrastructure-stock/)**
+
+Rolls-Royce is set to be a leading provider of electricity for AI data centers.
+
+The Motley Fool • 59m ago
 
 ---
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
 The New York Times • 3d ago
+
+---
+
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 10d ago
+
+---
+
+**[All Google AI Apps & Tools for 2026 Explored : Including Gemini 3 Advanced Perks](https://www.geeky-gadgets.com/google-ai-tools-apps-guide/)**
+
+What are the best Google AI tools and apps for your needs in 2026. This comprehensive guide goes through all
+
+Geeky Gadgets • 11h ago
 
 ---
 
@@ -163,14 +181,6 @@ Financial Times • 10h ago
 
 ---
 
-**[AI answering systems are ‘saving the day’ for New England pizzerias. Customers aren’t so sure.](https://www.bostonglobe.com/2026/01/18/business/ai-restaurants-phone-pizza/)**
-
-The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
-
-The Boston Globe • 11h ago
-
----
-
 **[‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://finance.yahoo.com/news/no-reasons-own-software-stocks-140000103.html)**
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
@@ -179,15 +189,11 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
+**[AI answering systems are ‘saving the day’ for New England pizzerias. Customers aren’t so sure.](https://www.bostonglobe.com/2026/01/18/business/ai-restaurants-phone-pizza/)**
 
-Axios • 7h ago
+The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
----
-
-**[How 'planetary intelligence' could be the next phase of AI](https://www.weforum.org/stories/2026/01/planetary-intelligence-ai-internet-real-world/)**
-
-The World Economic Forum • 12h ago
+The Boston Globe • 11h ago
 
 ---
 
@@ -207,7 +213,15 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 90 • 💬 93 • 1d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 90 • 💬 94 • 1d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+
+---
+
+**[Show HN: Figma-use – CLI to control Figma for AI agents](https://news.ycombinator.com/item?id=46665169)**
+
+Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
+
+⬆️ 90 • 💬 35 • 16h ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -233,19 +247,11 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 ---
 
-**[Show HN: Figma-use – CLI to control Figma for AI agents](https://news.ycombinator.com/item?id=46665169)**
-
-Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
-
-⬆️ 83 • 💬 33 • 16h ago • [GitHub](https://github.com/dannote/figma-use)
-
----
-
 **[AI companies will fail. We can salvage something from the wreckage](https://news.ycombinator.com/item?id=46668170)**
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 75 • 💬 69 • 7h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 78 • 💬 72 • 7h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -265,11 +271,11 @@ Starlink quietly enabled third-party AI model training on its customers' persona
 
 ---
 
-**[DuckDuckGo is asking for a Yes or No vote on AI](https://news.ycombinator.com/item?id=46651155)**
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
-Big Tech doesn't care if you want AI or not. They should.
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 47 • 💬 29 • 2d ago • [duckduckgo.com](https://duckduckgo.com/vote)
+⬆️ 53 • 💬 28 • 3h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -283,7 +289,7 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 10K • 👍 658 • 💬 42 • ⏱️ 12:49 • 10h ago
+👁️ 10K • 👍 658 • 💬 42 • ⏱️ 12:49 • 11h ago
 
 ---
 
@@ -341,7 +347,7 @@ Create AI Ads: https://arcads.ai/?via=createads In this video, I'll show you exa
 
 📺 Tim Explains AI
 
-👁️ 2K • 💬 3 • ⏱️ 11:44 • 7h ago
+👁️ 2K • 💬 3 • ⏱️ 11:44 • 8h ago
 
 ---
 
@@ -399,7 +405,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,144 • 6h ago
+⬇️ 1,540,901 • ❤️ 1,144 • 7h ago
 
 ---
 
@@ -423,7 +429,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 337 • 9h ago
+⬇️ 1,548 • ❤️ 337 • 10h ago
 
 ---
 
@@ -638,7 +644,7 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 9h ago
+⭐ 9.0k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -678,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 3.3k • 🔱 588 • 2h ago
+⭐ 3.3k • 🔱 588 • 3h ago
 
 ---
 
