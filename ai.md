@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T07:20:58.465104+00:00'
+updated: '2026-01-18T07:41:10.982601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 07:20 UTC  
+**Last Updated:** January 18, 2026 at 07:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Announced initially only for the go and free tiers. Will follow into the higher tier subs pretty soon knowing Sam Altman. Cancelling my plus sub and switching over completely to Perplexity and Claude now. Atleast they're ad free. (No thank you, I don't want product recommendations in my answers when I make important health emergency related questions.)
 
-20h ago
+21h ago
 
 ---
 
@@ -57,15 +57,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 16h ago
-
----
-
-**[Simulating real life with 6 autonomous AI agents](https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/)**
-
-A social experiment: 6 AI models released into a dating simulation.
-
-🔗 [singularity.game](https://singularity.game/) • 6h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 17h ago
 
 ---
 
@@ -91,11 +83,19 @@ ChatGPT is preparing to show targeted ads to free users. Learn how the ads will 
 
 ---
 
+**[Simulating real life with 6 autonomous AI agents](https://www.reddit.com/r/artificial/comments/1qftz31/simulating_real_life_with_6_autonomous_ai_agents/)**
+
+A social experiment: 6 AI models released into a dating simulation.
+
+🔗 [singularity.game](https://singularity.game/) • 7h ago
+
+---
+
 **[Self-deploying AI agent: Watched it spend 6+ hours debugging its own VPS deployment](https://www.reddit.com/r/artificial/comments/1qfkwgd/selfdeploying_ai_agent_watched_it_spend_6_hours/)**
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ What this is: A small experiment in giving Claude persistent space. I do not wan
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqeuq-j7SPSJ73OGU-fbBczpOQvgM9_1iFg-BOiAAn7UYhXzhGOtr6h2&gaa_ts=696c8231&gaa_sig=YGxbm3fY-KYYkDcwFvj28AYMhtri3UElL3r-MhtvE2FbKkvCA5cBEVYPD92jEAdG8avfCGciR-TLzKHY8FFo7A%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdzqRwYYUvwYkQqB_A9G8lAul8N_KRQG985oUrNLulEDm4xcV-swKIa&gaa_ts=696c91ff&gaa_sig=kRr8KP1GWAo9RqfI89E01V2PEliadQtqIqRdGW58vocfBJGY0CORqN96dQdnZeioIcTcWCJCXIvuED6D7iMStw%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
@@ -147,11 +147,11 @@ The Atlantic • 18h ago
 
 ---
 
-**[Global AI race makes Greenland's critical minerals a tempting target](https://www.nbcnews.com/tech/innovation/greenland-rare-earths-critical-minerals-rcna254177)**
+**[AI raises average wages by 21% and substantially reduces' wage inequality, researchers find](https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find)**
 
-The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
+Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
 
-NBC News • 21h ago
+Fox Business • 13h ago
 
 ---
 
@@ -163,22 +163,6 @@ CNBC • 21h ago
 
 ---
 
-**[Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It?](https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains)**
-
-Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
-
-ScienceAlert • 13h ago
-
----
-
-**[AI raises average wages by 21% and substantially reduces' wage inequality, researchers find](https://www.foxbusiness.com/economy/ai-raises-average-wages-21-substantially-reduces-wage-inequality-researchers-find)**
-
-Artificial intelligence "substantially reduces wage inequality while raising average wages by 21 percent," a new working paper published this week says.
-
-Fox Business • 13h ago
-
----
-
 **[Opinion: Remembering Ai, a remarkably intelligent chimpanzee](https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee)**
 
 We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
@@ -187,9 +171,25 @@ NPR • 18h ago
 
 ---
 
+**[Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It?](https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains)**
+
+Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
+
+ScienceAlert • 13h ago
+
+---
+
 **[6 signs the AI race just entered a new phase](https://www.axios.com/2026/01/17/chatgpt-ads-claude-gemini-ai-race)**
 
-Axios • 18h ago
+Axios • 19h ago
+
+---
+
+**[Global AI race makes Greenland's critical minerals a tempting target](https://www.nbcnews.com/tech/innovation/greenland-rare-earths-critical-minerals-rcna254177)**
+
+The island is home to a massive deposit of rare earths, which are crucial to U.S. efforts to maintain its technological lead over China. But tapping them isn't so easy.
+
+NBC News • 21h ago
 
 ---
 
@@ -203,7 +203,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 347 • 💬 261 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 348 • 💬 261 • 2d ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -220,7 +220,7 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 Hey all, update on the tldraw policy with regard to contributions. For the good of the project, we're going to begin automatically closing pull requests from external contributors. We will of cours...
 
-⬆️ 186 • 💬 104 • 2d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
+⬆️ 186 • 💬 105 • 2d ago • [GitHub](https://github.com/tldraw/tldraw/issues/7695)
 
 ---
 
@@ -234,7 +234,15 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 88 • 💬 153 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 88 • 💬 154 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+
+---
+
+**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
+
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
+
+⬆️ 87 • 💬 89 • 18h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -243,14 +251,6 @@ Agent harness framework for building, running, and verifying LLM workflows - bol
 --
 
 ⬆️ 87 • 💬 27 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
-
----
-
-**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
-
-A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
-
-⬆️ 86 • 💬 88 • 18h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -655,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 344 • 4h ago
+⭐ 7.3k • 🔱 344 • 5h ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.6k • 🔱 509 • 46m ago
+⭐ 2.6k • 🔱 509 • 1h ago
 
 ---
 
@@ -715,7 +715,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.7k • 🔱 139 • 2h ago
+⭐ 1.7k • 🔱 139 • 3h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 257 • 13m ago
+⭐ 1.7k • 🔱 257 • 34m ago
 
 ---
 

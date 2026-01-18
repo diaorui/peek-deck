@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T07:20:58.479831+00:00'
+updated: '2026-01-18T07:41:10.998978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 07:20 UTC  
+**Last Updated:** January 18, 2026 at 07:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +6.9%  
-**30d:** +11.2%  
-**90d:** -14.2%  
-**1y:** +2.9%  
+**24h:** +0.4%  
+**7d:** +6.8%  
+**30d:** +11.1%  
+**90d:** -14.3%  
+**1y:** +2.7%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2 months ago was solving this. With RAM hikes I found a solution that required me to dig in the trash, literally. Bought a cheap Mac Pro (2013), the trashcan Mac off eBay with DDR3 64gb ram, works well. It would have been the same price as one of those NUCs or mini PCs and it has much better specs even so from then. What I need next for it is an external SSD or NVME to house both the beacon and geth node state, account, blockchain data. Regular HDD is impossible to use and keep up with the network, way too slow. HDDs however have good endurance compared to SSDs and cheaper, from what I know, GETH does a lot of read/writes. I was curious if any self-host ETH node folks here can share smartctl output for how much TBs written their SSDs or NVMEs has had to endure for the last year. I want to see how many drives I'll burn through from all the read/writes happening to the drive from continuous syncing. Also feel free to share disk brands, sizes, etc. that you used along with the TBW data.
 
-14h ago
+15h ago
 
 ---
 
@@ -170,6 +170,20 @@ CoinDesk • 1d ago
 
 ---
 
+**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
+
+BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
+
+The Block • 2d ago
+
+---
+
 **[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
 
 Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
@@ -194,31 +208,19 @@ Decrypt • 2d ago
 
 ---
 
+**[From $3.5K to $12K? Here’s why BMNR’s Ethereum forecast makes sense](https://ambcrypto.com/from-3-5k-to-12k-heres-why-bmnrs-ethereum-forecast-makes-sense/)**
+
+Is Ethereum following Bitcoin’s institutional playbook?
+
+AMBCrypto • 5h ago
+
+---
+
 **[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
 24/7 Wall St. • 2d ago
-
----
-
-**[Top Analyst Says Next Crypto Rally for Bitcoin, Ethereum and XRP Has Begun](https://www.tradingview.com/news/coinpedia:1d7e1cbd1094b:0-top-analyst-says-next-crypto-rally-for-bitcoin-ethereum-and-xrp-has-begun/)**
-
-A fresh rally may be underway in the cryptocurrency market, according to a senior analyst at blockchain data firm Santiment, who says investor sentiment is setting up a classic bullish signal for Bitcoin, Ethereum, and XRP.Brian Quinlivan, marketing director at Santiment, said in a recent interview…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Ethereum Technical Analysis Report 16 January, 2026](https://financefeeds.com/ethereum-technical-analysis-report-16-january-2026-2/)**
-
-FinanceFeeds • 1d ago
-
----
-
-**[Tokenization will determine whether Solana can close the valuation gap with Ethereum, says analyst](https://www.thestreet.com/crypto/markets/tokenization-will-determine-whether-solana-can-close-the-valuation-gap-with-ethereum-says-analyst)**
-
-thestreet.com • 1d ago
 
 ---
 
@@ -252,7 +254,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Stock Moe
 
-👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 17h ago
+👁️ 9K • 👍 686 • 💬 59 • ⏱️ 15:35 • 18h ago
 
 ---
 
@@ -292,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 16h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:59 • 17h ago
 
 ---
 
@@ -322,7 +324,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 1h ago
+👁️ 525 • 👍 189 • 💬 73 • ⏱️ 10:32 • 2h ago
 
 ---
 

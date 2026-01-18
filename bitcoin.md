@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T07:20:58.473655+00:00'
+updated: '2026-01-18T07:41:10.991624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 07:20 UTC  
+**Last Updated:** January 18, 2026 at 07:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +4.3%  
-**30d:** +7.6%  
-**90d:** -12.4%  
-**1y:** -5.8%  
+**24h:** -0.2%  
+**7d:** +4.1%  
+**30d:** +7.5%  
+**90d:** -12.5%  
+**1y:** -5.9%  
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
-
-12h ago
-
----
-
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
 21h ago
+
+---
+
+**[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
+
+12h ago
 
 ---
 
@@ -103,19 +103,19 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 ---
 
+**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
+
+Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
+
+2h ago
+
+---
+
 **[Flat line for all day trade today, what’s cooking?](https://www.reddit.com/r/Bitcoin/comments/1qft1fu/flat_line_for_all_day_trade_today_whats_cooking/)**
 
 The chart line is going so flat today. Anyone has any idea why so?
 
 7h ago
-
----
-
-**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
-
-Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
-
-1h ago
 
 ---
 
@@ -139,11 +139,11 @@ I live in a student shared house in Brazil and wanted to share a real example of
 
 ---
 
-**[Is it only me?](https://www.reddit.com/r/Bitcoin/comments/1qfg5bu/is_it_only_me/)**
+**[A satoshi question](https://www.reddit.com/r/Bitcoin/comments/1qfs2dv/a_satoshi_question/)**
 
-Does anyone feel that buying bitcoin right now is a race against the time? Probably, all of you felt this before. I have my DCA weekly and I buy a few hundred bucks monthly (separated budget) and as the prices of stocks, gold, silver, etc. are rising up and bitcoin soon will go up, lately I feel like that I'm getting behind and late with this matter. What are your thoughts? Maybe I'm just stressing myseld about this. Lol
+Ok, so we all know you can buy bitcoin in any amount you want. My question(s) are these: Is the price of bitcoin scaring off small investors? I've talked to people who wonder what the point of owning a small fraction of a btc is especially considering the volumes some of the bigger holders have. Yes, I'm looking at you Michael. So the follow up to that is, when do we start denoting its value in Satoshis? For reference, I bought a whole btc at 10k and still have it. These questions come from conversations with people who know very little about it
 
-15h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 1d ago
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -175,15 +175,15 @@ Yahoo Finance • 1d ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
+**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
 
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
+Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-Business Insider • 21h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ CryptoSlate • 1d ago
 
 Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -211,17 +211,19 @@ Gizmodo • 10h ago
 
 ---
 
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
+
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
+
+The Motley Fool • 10h ago
+
+---
+
 **[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
 
 Can the reuse of crypto's waste heat redeem its bad climate rep?
 
 Mother Jones • 1d ago
-
----
-
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 1d ago
 
 ---
 
@@ -265,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 8h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 9h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -327,7 +329,7 @@ Donald Trump threatens MORE Tariffs and the market...does nothing. Have we evolv
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 11h ago
+👁️ 7K • 👍 549 • 💬 80 • ⏱️ 29:43 • 12h ago
 
 ---
 
@@ -407,7 +409,7 @@ Everyone's seen the Reddit post claiming $100 in Bitcoin in 2010 would be worth 
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 15h ago
+👁️ 3K • 👍 144 • 💬 6 • ⏱️ 1:50 • 16h ago
 
 ---
 
