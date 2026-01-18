@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T11:17:43.333283+00:00'
+updated: '2026-01-18T11:39:12.076575+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 11:17 UTC  
+**Last Updated:** January 18, 2026 at 11:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Just for fun, I decided to design the mechanics for a Turret from the game Porta
 
 **[Control strategy for mid-air dropped quadcopter (PX4): cascaded PID vs FSM vs global stabilization](https://www.reddit.com/r/robotics/comments/1qg2d5b/control_strategy_for_midair_dropped_quadcopter/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've done some robot building kits but they all seem very simplistic, like I've 
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2011880712220393592
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 2d ago
 
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
@@ -146,7 +146,16 @@ The Motley Fool • 2d ago
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -155,14 +164,6 @@ Bloomberg • 2d ago
 Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
 Fortune • 2d ago
-
----
-
-**[First ‘dark factory’ where robots build the entire car tipped to open in China or U.S. by 2030](https://www.autonews.com/technology/ane-fully-automated-car-plant-china-us-0115/)**
-
-Hyundai showcased its next step toward adding humanoid robots to its assembly lines at CES while Mercedes expects robots to start working alongside people at its plants in 2030.
-
-Automotive News • 3d ago
 
 ---
 
@@ -180,12 +181,11 @@ TechCrunch • 19h ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+**[Skild AI raises $1.4B to build ‘omni-bodied’ robot brain](https://www.therobotreport.com/skild-ai-raises-1-4b-building-omni-bodied-robot-skild-brain/)**
 
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+Skild AI has received investment from SoftBank, NVIDIA, Bezos Expeditions, and more as it builds a brain to operate any robot.
 
-Pittsburgh Post-Gazette • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -199,7 +199,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 182K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 191K • 👍 10K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -209,15 +209,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 124K • 👍 5K • 💬 332 • ⏱️ 17:36 • 3d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 139K • 👍 2K • 💬 68 • ⏱️ 1:16 • 5d ago
+👁️ 125K • 👍 5K • 💬 332 • ⏱️ 17:36 • 3d ago
 
 ---
 
@@ -227,17 +219,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 464K • 👍 14K • 💬 813 • ⏱️ 17:09 • 5d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 249K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
+👁️ 465K • 👍 14K • 💬 813 • ⏱️ 17:09 • 5d ago
 
 ---
 
@@ -251,6 +233,24 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 ---
 
+**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
+
+📺 Chris Wabs
+
+👁️ 394K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
+
+---
+
+**[China’s New Agentic AI Robot OS #humanoidrobot #robot #robotics #ai #agenticai](https://www.youtube.com/watch?v=d_88uU0Q1ZM)**
+
+The Shenzhen startup LimX Dynamics is boasting what it calls the world's first agentic operating system for humanoids. According ...
+
+📺 Kalil 4.0
+
+👁️ 666 • 👍 32 • ⏱️ 0:51 • 8h ago
+
+---
+
 **[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
 At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
@@ -261,21 +261,23 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[China Vs USA in Backflips: Which Robot Does it Better? #robots #unitree #bostondynamics #atlasrobot](https://www.youtube.com/watch?v=kjhw-HyDQno)**
-
-📺 Chris Wabs
-
-👁️ 381K • 👍 3K • 💬 1K • ⏱️ 0:16 • 6d ago
-
----
-
 **[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
 
 Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
 
 📺 The Laughing Lion
 
-👁️ 16K • 👍 131 • 💬 10 • ⏱️ 0:12 • 6d ago
+👁️ 16K • 👍 132 • 💬 10 • ⏱️ 0:12 • 6d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 250K • 👍 15K • 💬 3K • ⏱️ 5:12 • 4d ago
 
 ---
 
@@ -285,7 +287,7 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 
 📺 Cheddar
 
-👁️ 42K • 👍 160 • 💬 14 • ⏱️ 9:43 • 3d ago
+👁️ 42K • 👍 162 • 💬 14 • ⏱️ 9:43 • 3d ago
 
 ---
 

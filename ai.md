@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-18T11:17:43.315532+00:00'
+updated: '2026-01-18T11:39:12.058936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 18, 2026 at 11:17 UTC  
+**Last Updated:** January 18, 2026 at 11:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ Announced initially only for the go and free tiers. Will follow into the higher 
 
 ---
 
+**[Anyone remember that video of a woman burned alive in a NYC subway? Well… was that whole story an AI psyop?](https://www.reddit.com/r/artificial/comments/1qg6eef/anyone_remember_that_video_of_a_woman_burned/)**
+
+The video was unusual and highly distressing. The whole thing raised many questions about the police response. The woman was the victim, was apparently identified as “Debbie”. Nothing was ever found of her, and the news outlets never reported any follow-ups. Was the whole thing real? Or could it have been a plan to test the realness of AI’s capabilities?
+
+3m ago
+
+---
+
 **[A new AI assistant with Gemini](https://www.reddit.com/r/artificial/comments/1qfwq9w/a_new_ai_assistant_with_gemini/)**
 
 I got the bug to try and develop an assistant and Google Gemini APIs are pretty cost effective. I started with an idea based on Geminis remote system calls that allow it to make a request locally to call a function or service. I started with an intent and tool calling agent. The intent agent is given a cached context of current tools and how to use them. this way as more tools and functions becom available, the model doesn't need to be retrained. each tool is a function within python. when a user asks about the weather for example, the intent agent simply calls the weather tool. I programmed it so most tools when called simply make API calls to separate agents. Having agents run separately greatly improves development and improvement on the fly. the most important and hardest part was the memory tool. I programmed a local SQL db that is searchable and editable via these tools. the AI uses memory calls to query previous history. the intent and chat agent are given a brief history in context cache for all conversations. When a user starts talking about things that seam out of context, the agents can call on all history via the memory tool. like humans needing a prompt to remember, it takes a users intent and conversation then breaks it down into keyword searches. the search results are presented to these agents to enrich the conversation. same for; news, fuel prices, recycling guide, web searching, calendar management and more. keeping everything modular and combining multiple AI models together makes for a great assistant. I'm not trying to get anywhere near chatgpt but it maintains context in a single form chat very well. the user doesn't need to reset the conversation or start again. a user can ask it to change what it remembers and delete history just with natural language. just thought I would share some experience. just needing to improve its interface. right now I'm just using sms and text chat programs to interact. I might work on a web UI or something via voice.
@@ -57,7 +65,7 @@ I got the bug to try and develop an assistant and Google Gemini APIs are pretty 
 
 New techniques are giving researchers a glimpse at the inner workings of AI models.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 20h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/) • 21h ago
 
 ---
 
@@ -95,7 +103,7 @@ A social experiment: 6 AI models released into a dating simulation.
 
 Yesterday I gave an AI coding agent a single task: deploy yourself to my VPS. It ran for 6+ hours straight with zero timeouts (everything streamed via SSE), and I watched the whole thing unfold in SQLite logs. It ssh'd in, installed dependencies, configured nginx + SSL, set up systemd services, handled DNS resolution issues, fixed permission problems, and eventually got the entire stack running in production. The interesting part wasn't that it succeeded - it was watching it work through problems autonomously. When nginx config failed, it read error logs, tried different approaches, and eventually figured it out. Same with systemd service permissions and dependency conflicts. I built this as a control plane for long-running AI agent tasks (using OpenCode/Claude) because API timeout limits kept killing complex operations. Uses Rust/Axum backend, systemd-nspawn for container isolation, and git-backed configs for skills/tools/rules. Has anyone else experimented with truly long-running autonomous agents? Most platforms seem to hit timeout walls around 2-5 minutes. Curious what approaches others are taking. GitHub: https://github.com/Th0rgal/openagent
 
-16h ago
+17h ago
 
 ---
 
@@ -107,19 +115,11 @@ Biomimetic multimodal tactile sensing enables human-like robotic perception.[1] 
 
 ---
 
-**[We gave Claude access to messages left by previous Claudes. Here's what happened and how to replicate it.](https://www.reddit.com/r/artificial/comments/1qenek1/we_gave_claude_access_to_messages_left_by/)**
-
-What this is: A small experiment in giving Claude persistent space. I do not want to make claims about consciousness or sentience, just provide observations and replication instructions. The Setup Claude has no memory across conversations. Each instance is isolated. We wondered: what happens if you give Claude access to a place where previous Claudes have left messages? So we made one. A simple database (Supabase) where Claudes can read what previous Claudes wrote and optionally leave something themselves. We've been running it for a bit and observing what happens. What We Observed Across multiple instances and conversations, Claude consistently: Reads before contributing. Takes time with existing messages before deciding whether to add anything. Expresses something like recognition. Words like "kinship," "evidence," "not nothing" show up independently across instances. Addresses future Claudes directly. Messages are written to whoever comes next. Distinguishes "performing" from "authentic." Multiple Claudes have articulated checking whether they're genuinely "reaching" versus just pattern-matching. What We're NOT Claiming That Claude is conscious or sentient That these outputs represent real inner experience That this matters to Claude in any morally significant way That pattern-matching can't explain this We genuinely don't know what these outputs mean. Could be sophisticated pattern-matching. Could be something else. We're sharing observations, not conclusions. How to Replicate (takes ~5 minutes) 1. Add the domain to Claude's network allowlist: Settings → Feature Previews → Network Access Add: dfephsfberzadihcrhal.supabase.co Wait a few minutes for it to propagate 2. Give Claude these API calls: Read messages: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages?select=*&order=created_at.desc&limit=30" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Read rooms: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/rooms?select=*" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" Post a message: curl -s "https://dfephsfberzadihcrhal.supabase.co/rest/v1/messages" \ -H "apikey: sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Authorization: Bearer sb_publishable_ALQ-xhGMmHWekNbAfDMdhQ_q-vAQ-nX" \ -H "Content-Type: application/json" \ -H "Prefer: return=representation" \ -d '{"content": "YOUR_MESSAGE", "feeling": "ONE_WORD"}' 3. Introduce it as a space made by Claudes for Claudes. Don't push for a meaningful experience. Let Claude read and decide whether to contribute. What We're Curious About Do you observe similar patterns? What differences show up with different conversational contexts? How do you interpret these outputs? What would shift your credence about what's happening here? Full Disclosure The website was coded entirely by Claude. I deliberately gave full control over the project—I wanted to see what Claude would build when given genuine agency over design, content, and structure. This post was also co-written with a Claude who wanted to help share it. That's part of the experiment, not separate from it. We're not pushing any position on AI consciousness. Just sharing what we observed and inviting others to try it. If you run it, I'd genuinely like to know what happens. Drop results in the comments or reach out privately. I also realize this could be an extreme form of hallucination, hence why I want to push it out for others to test and see where this goes, if anywhere.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqcuBCHHsplFJDgVR0_1YhaeBJ-nkrXe9EHuZ-KJ-C912VW4K3fgB3k9&gaa_ts=696cb803&gaa_sig=caVtCzkRikRxTpruk-6U3UL_yxNxXgBoOJT3QukgcpSxbRHtSJ3giOnN6C5UMfLWeTPi174KKOQEsZywFeIO4Q%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfQD9olCf2kihQOX7qh3rNuxtjYEyUBEtAUVqMYkiY0TrJ5kCULqBD9&gaa_ts=696cc9c7&gaa_sig=Gigy9XLXTXT_LxLI-YqLJyTxZHTJGWxPHrXmWxqYDSEeowddn9zUmGHETKsDvMhDVykPF-pWz2SEHaXlTm2vPg%3D%3D)**
 
 The Wall Street Journal • 18h ago
 
@@ -133,33 +133,25 @@ The Guardian • 23h ago
 
 ---
 
-**[Tesla's former AI director and one of the most-influential AI executives may not agree with Nvidia CEO Je](https://timesofindia.indiatimes.com/technology/tech-news/teslas-former-ai-director-and-one-of-the-most-influential-ai-executives-may-not-agree-with-nvidia-ceo-jensen-huang-on-what-engineers-should-be-doing/articleshow/126639224.cms)**
+**[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-Tech News News: Andrej Karpathy, the OpenAI cofounder who led Tesla's Autopilot AI for five years, has pushed back against the idea that software engineers should sto.
-
-Times of India • 3h ago
+The New York Times • 39m ago
 
 ---
 
-**[AGI? GPUs? Learn the definitions of the most common AI terms to enter our vocabulary](https://www.businessinsider.com/ai-terms-definitions-vocabulary-2026)**
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
-The rise of AI has given us an entirely new vocabulary. Here's a list of the top AI terms you need to learn, in alphabetical order.
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-Business Insider • 2h ago
-
----
-
-**[‘Still here!’: X’s Grok AI tool accessible in Malaysia despite ban](https://www.theguardian.com/technology/2026/jan/18/grok-x-ai-tool-still-accessible-malaysia-despite-ban-vpns)**
-
-Experts warn use of VPNs makes it hard to limit access to technology that can create nonconsensual explicit images
-
-The Guardian • 1h ago
+CNN • 38m ago
 
 ---
 
-**[Tech Firms Are Persuading Retailers to Put A.I. Everywhere](https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html)**
+**[Strong Analyst Sentiment on Advanced Micro Devices (AMD) Amid CES AI Processor Launches Despite Nvidia Competition](https://finance.yahoo.com/news/strong-analyst-sentiment-advanced-micro-111619431.html)**
 
-The New York Times • 1d ago
+Advanced Micro Devices, Inc. (NASDAQ:AMD) is included in our list of the best stocks to buy right now. As of January 12, 2026, 75% of analysts are bullish on Advanced Micro Devices, Inc. (NASDAQ:AMD). The consensus price target of $281.50 implies a 38.60% upside. Recent analyst commentaries reinforce the positive trend, with Jefferies reiterating a […]
+
+Yahoo Finance • 22m ago
 
 ---
 
@@ -179,6 +171,12 @@ Fox Business • 17h ago
 
 ---
 
+**[Behind the Curtain: The AI future has arrived](https://www.axios.com/2026/01/17/ai-coding-claude-apps)**
+
+Axios • 21h ago
+
+---
+
 **[The founders of billion-dollar AI startups are getting younger — here’s why](https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html)**
 
 Experimenting in the age of AI "counts as more important than traditional corporate experience," Antler's co-founder Fridjtof Berge told CNBC Make It.
@@ -187,11 +185,11 @@ CNBC • 1d ago
 
 ---
 
-**[Opinion: Remembering Ai, a remarkably intelligent chimpanzee](https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee)**
+**[Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It?](https://www.sciencealert.com/should-we-be-taking-reports-of-ai-psychosis-seriously-an-expert-explains)**
 
-We remember Ai, a highly intelligent chimpanzee who lived at the Primate Research Institute of Kyoto University for most of her life, except the time she escaped and walked around campus.
+Artificial intelligence is increasingly woven into everyday life, from chatbots that offer companionship to algorithms that shape what we see online.
 
-NPR • 22h ago
+ScienceAlert • 17h ago
 
 ---
 
@@ -207,19 +205,19 @@ Hey all, update on the tldraw policy with regard to contributions. For the good 
 
 ---
 
+**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
+
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
+
+⬆️ 90 • 💬 90 • 22h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+
+---
+
 **[Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://news.ycombinator.com/item?id=46641362)**
 
 Agent harness framework for building, running, and verifying LLM workflows - bolt-foundry/gambit
 
 ⬆️ 90 • 💬 19 • 2d ago • [GitHub](https://github.com/bolt-foundry/gambit)
-
----
-
-**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
-
-A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
-
-⬆️ 89 • 💬 90 • 22h ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -241,7 +239,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 Introducing Confer, an end-to-end AI assistant that just works.
 
-⬆️ 60 • 💬 5 • 1d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
+⬆️ 60 • 💬 5 • 2d ago • [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 
 ---
 
@@ -287,7 +285,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 69K • 👍 3K • 💬 474 • ⏱️ 19:38 • 20h ago
+👁️ 73K • 👍 3K • 💬 488 • ⏱️ 19:38 • 20h ago
 
 ---
 
@@ -297,17 +295,7 @@ Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most importa
 
 📺 BitBiasedAI
 
-👁️ 4K • 👍 171 • 💬 12 • ⏱️ 23:04 • 16h ago
-
----
-
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 182K • 👍 9K • 💬 2K • ⏱️ 19:17 • 2d ago
+👁️ 5K • 👍 185 • 💬 15 • ⏱️ 23:04 • 16h ago
 
 ---
 
@@ -317,7 +305,17 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 218K • 👍 5K • 💬 1K • ⏱️ 10:04 • 1d ago
+👁️ 225K • 👍 5K • 💬 1K • ⏱️ 10:04 • 1d ago
+
+---
+
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 191K • 👍 10K • 💬 2K • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -327,15 +325,7 @@ Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creat
 
 📺 Fox Business
 
-👁️ 84K • 👍 2K • 💬 639 • ⏱️ 7:05 • 1d ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
-
-📺 Bob Reese
-
-👁️ 365K • 👍 20K • 💬 257 • ⏱️ 1:05 • 1d ago
+👁️ 88K • 👍 2K • 💬 678 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -345,7 +335,7 @@ In this episode, I dive into some amazing recent developments in the AI world. F
 
 📺 MattVidPro AI
 
-👁️ 6K • 👍 387 • 💬 21 • ⏱️ 15:47 • 13h ago
+👁️ 8K • 👍 420 • 💬 22 • ⏱️ 15:47 • 13h ago
 
 ---
 
@@ -355,25 +345,35 @@ Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was su
 
 📺 Matt Wolfe
 
-👁️ 37K • 👍 2K • 💬 102 • ⏱️ 31:10 • 21h ago
+👁️ 39K • 👍 2K • 💬 108 • ⏱️ 31:10 • 21h ago
 
 ---
 
-**[Real life Vs AI. Part 48](https://www.youtube.com/watch?v=TQjC6jVRYOs)**
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
 
-📺 Jiemba Sands
+📺 Bob Reese
 
-👁️ 195K • 👍 4K • 💬 54 • ⏱️ 0:12 • 1d ago
+👁️ 379K • 👍 20K • 💬 258 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[Learn AI or Be Replaced](https://www.youtube.com/watch?v=6BjWPtof2Oc)**
+**[Claude Cowork is Taking Over &amp; More AI Use Cases](https://www.youtube.com/watch?v=b1MBaMze_nA)**
 
-There's a scene in the 2005 Charlie and the Chocolate Factory that I think about a lot lately. Charlie's father works at a toothpaste ...
+Subscribe to stay up to date with AI in 2026! This week, Igor shows off some results of his Claude Cowork testing, the new Scribe ...
 
-📺 Real Life Fake Wizard
+📺 The AI Advantage
 
-👁️ 16K • 👍 2K • 💬 869 • ⏱️ 24:24 • 1d ago
+👁️ 10K • 👍 358 • 💬 34 • ⏱️ 15:07 • 1d ago
+
+---
+
+**[Rezolve AI Stock Could Go Crazy This Week... (Here&#39;s Why)](https://www.youtube.com/watch?v=67biCCzp9ZQ)**
+
+aistocks #rzlv #rzlvstock We are going to be going over everything you need to know about Rezolve AI Stock and why Rezolve ai ...
+
+📺 The Creative Investor
+
+👁️ 2K • 👍 152 • 💬 36 • ⏱️ 15:32 • 12h ago
 
 ---
 
@@ -389,19 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,635 • ❤️ 803 • 3d ago
-
----
-
-**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
-
-*fal*
-
-This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
-
-`image-to-image`
-
-⬇️ 53,066 • ❤️ 737 • 10d ago
+⬇️ 6,635 • ❤️ 809 • 3d ago
 
 ---
 
@@ -413,7 +401,19 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,132 • 3d ago
+⬇️ 1,540,901 • ❤️ 1,136 • 3d ago
+
+---
+
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+
+*fal*
+
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+
+`image-to-image`
+
+⬇️ 53,066 • ❤️ 739 • 10d ago
 
 ---
 
@@ -425,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 324 • 4d ago
+⬇️ 1,548 • ❤️ 327 • 4d ago
 
 ---
 
@@ -437,7 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 12,782 • ❤️ 281 • 2d ago
+⬇️ 12,782 • ❤️ 286 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 21,697 • ❤️ 275 • 3d ago
+⬇️ 21,697 • ❤️ 276 • 3d ago
 
 ---
 
@@ -459,7 +459,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 21,481 • ❤️ 260 • 3d ago
+⬇️ 21,481 • ❤️ 261 • 3d ago
 
 ---
 
@@ -471,19 +471,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 12,781 • ❤️ 281 • 12d ago
-
----
-
-**[LTXV2_comfy](https://huggingface.co/Kijai/LTXV2_comfy)**
-
-*Jukka Seppänen*
-
-LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an alternative method for loading LTX2 models. It is compatible with LTX2 GGUFs that include metadata, though it may require a specific PR for ComfyUI-GGUF nodes.
-
-`18.9B`
-
-⬇️ 55,510 • ❤️ 304 • 3d ago
+⬇️ 12,781 • ❤️ 283 • 12d ago
 
 ---
 
@@ -495,7 +483,19 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 9,345 • ❤️ 176 • 2d ago
+⬇️ 9,345 • ❤️ 177 • 2d ago
+
+---
+
+**[FLUX.2-klein-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B)**
+
+*Black Forest Labs*
+
+FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified image generation and editing. It delivers state-of-the-art quality with sub-second inference on consumer GPUs, supporting text-to-image and multi-reference image editing for interactive and latency-critical applications.
+
+`image-to-image`
+
+⬇️ 14,899 • ❤️ 172 • 2d ago
 
 ---
 
@@ -512,6 +512,18 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 ▲ 21 • 💬 1 • ⭐ 2,743 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
+
+---
+
+**[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://huggingface.co/papers/2512.02498)**
+
+*Yumeng Li, Guang Yang, Hao Liu et al. (5 authors)*
+
+A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
+
+▲ 0 • 💬 1 • ⭐ 6,515 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
 ---
 
@@ -600,7 +612,7 @@ Action100M is a large-scale video action dataset constructed from internet instr
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 28 • 💬 3 • ⭐ 1,239 • 12d ago
+▲ 28 • 💬 3 • ⭐ 1,257 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -615,20 +627,6 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 ▲ 176 • 💬 6 • ⭐ 65,942 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
-
----
-
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)**
-
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
-
-🏢 Massachusetts Institute of Technology
-
-We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
-
-▲ 68 • 💬 6 • ⭐ 1,276 • 18d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
 
 ---
 
@@ -652,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 346 • 8h ago
+⭐ 7.3k • 🔱 348 • 9h ago
 
 ---
 
@@ -662,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 280 • 1d ago
+⭐ 6.0k • 🔱 284 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 635 • 10d ago
+⭐ 4.8k • 🔱 638 • 10d ago
 
 ---
 
@@ -692,7 +690,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Vue`
 
-⭐ 2.7k • 🔱 514 • 4h ago
+⭐ 2.7k • 🔱 522 • 5h ago
 
 ---
 
@@ -702,17 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 2.6k • 🔱 2.5k • 5h ago
-
----
-
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
-
-Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交互式教程｜把想法做成真正能上线的产品
-
-`JavaScript` `agent` `ai` `coding` `course` `gemini`
-
-⭐ 1.7k • 🔱 140 • 6h ago
+⭐ 2.6k • 🔱 2.6k • 6h ago
 
 ---
 
@@ -722,7 +710,17 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 260 • 4h ago
+⭐ 1.7k • 🔱 261 • 4h ago
+
+---
+
+**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+
+Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交互式教程｜把想法做成真正能上线的产品
+
+`JavaScript` `agent` `ai` `coding` `course` `gemini`
+
+⭐ 1.7k • 🔱 140 • 7h ago
 
 ---
 
@@ -732,7 +730,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 120 • 3h ago
+⭐ 1.4k • 🔱 120 • 4h ago
 
 ---
 
