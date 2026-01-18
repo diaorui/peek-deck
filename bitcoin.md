@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T19:16:37.125115+00:00'
+updated: '2026-01-18T19:37:50.544818+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 19:16 UTC  
+**Last Updated:** January 18, 2026 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 **[Haha so real](https://www.reddit.com/r/Bitcoin/comments/1qg8phj/haha_so_real/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Someone admits they sold early and the replies are basically “skill issue” d
 
 Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
 
-13h ago
+14h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 3h ago
 
 Explore how these two crypto ETFs differ in cost, risk, and portfolio approach -- key factors for aligning with your investment strategy.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 2h ago
 
 XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -267,7 +267,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 20h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 21h ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -319,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 21h ago
+👁️ 45K • 👍 2K • 💬 256 • ⏱️ 12:19 • 22h ago
 
 ---
 
