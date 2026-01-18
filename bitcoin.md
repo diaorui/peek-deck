@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T09:42:39.297028+00:00'
+updated: '2026-01-18T10:23:20.965723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 09:42 UTC  
+**Last Updated:** January 18, 2026 at 10:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,177.42
+### $95,090.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +4.3%  
-**30d:** +7.7%  
+**24h:** -0.2%  
+**7d:** +4.2%  
+**30d:** +7.6%  
 **90d:** -12.4%  
-**1y:** -5.8%  
+**1y:** -5.9%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
 
-6h ago
+7h ago
 
 ---
 
 **[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
 
-23h ago
+1d ago
 
 ---
 
 **[India ranked No. 1 as having the most Bitcoin owners in the world, followed by China and the USA.](https://www.reddit.com/r/Bitcoin/comments/1qflzvb/india_ranked_no_1_as_having_the_most_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -105,41 +105,41 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 ---
 
+**[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
+
+2h ago
+
+---
+
 **[Flat line for all day trade today, what’s cooking?](https://www.reddit.com/r/Bitcoin/comments/1qft1fu/flat_line_for_all_day_trade_today_whats_cooking/)**
 
 The chart line is going so flat today. Anyone has any idea why so?
 
-9h ago
+10h ago
 
 ---
 
 **[Just wanted to share this flashback for all the younglings who weren’t around then.](https://www.reddit.com/r/Bitcoin/comments/1qfnnat/just_wanted_to_share_this_flashback_for_all_the/)**
 
-13h ago
+14h ago
+
+---
+
+**[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
+
+55m ago
+
+---
+
+**[Reminder: There’s a person behind that post](https://www.reddit.com/r/Bitcoin/comments/1qg4bhu/reminder_theres_a_person_behind_that_post/)**
+
+Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
+
+51m ago
 
 ---
 
 **[Bitcoin has no ceiling because fiat has no floor](https://www.reddit.com/r/Bitcoin/comments/1qf7r05/bitcoin_has_no_ceiling_because_fiat_has_no_floor/)**
-
-1d ago
-
----
-
-**[My friend got a bag of bitcoin finding people to raid his house.](https://www.reddit.com/r/Bitcoin/comments/1qg30tu/my_friend_got_a_bag_of_bitcoin_finding_people_to/)**
-
-1h ago
-
----
-
-**[My landlord accepts Bitcoin for rent – student shared house 🇧🇷](https://www.reddit.com/r/Bitcoin/comments/1qfcwc2/my_landlord_accepts_bitcoin_for_rent_student/)**
-
-I live in a student shared house in Brazil and wanted to share a real example of Bitcoin being used in everyday life. My landlord officially accepts Bitcoin as a payment method for rent. This is not an informal agreement — Bitcoin is explicitly mentioned in the rental contract. I’m attaching a photo of the contract showing this clause. It’s interesting to see Bitcoin adoption happening at a small but practical level, especially in student housing. No banks involved, no intermediaries, just a direct peer-to-peer option alongside traditional payments. This post is simply to document and share a real-world use case. Bitcoin is being used, not just discussed.
-
-20h ago
-
----
-
-**[Steak N Shake adds $10M bitcoin exposure after huge success accepting lightning payments. This is what adoption looks like.](https://www.reddit.com/r/Bitcoin/comments/1qf414g/steak_n_shake_adds_10m_bitcoin_exposure_after/)**
 
 1d ago
 
@@ -163,11 +163,27 @@ The New York Times • 1d ago
 
 ---
 
+**[Could Zcash Be the Next Bitcoin?](https://www.fool.com/investing/2026/01/18/could-zcash-be-the-next-bitcoin/)**
+
+This privacy coin has a few significant things going for it that Bitcoin doesn't.
+
+The Motley Fool • 23m ago
+
+---
+
+**[Bitcoin ETFs Note $1.4 Billion Inflows This Week As Indicator Flashes Buy Signal](https://finance.yahoo.com/news/bitcoin-etfs-note-1-4-093800740.html)**
+
+Bitcoin ETFs saw $1.42 billion inflows this week as indicators flash a buy signal and BTC holds key $95,000 support.
+
+Yahoo Finance • 45m ago
+
+---
+
 **[American Burger Chain Makes $10 Million Bitcoin Purchase](https://finance.yahoo.com/news/american-burger-chain-makes-10-204503804.html)**
 
 Steak ’n Shake has invested $10 million in Bitcoin, embedding BTC accumulation directly into its daily operations.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -189,15 +205,15 @@ Yahoo Finance • 2h ago
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
-**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
+**[Bitcoin, gold investment news: Jefferies strategist swaps BTC for gold, cites quantum computing risk](https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern)**
 
-Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
+Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -206,22 +222,6 @@ Bitcoin Magazine • 1d ago
 Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
 
 CryptoSlate • 1d ago
-
----
-
-**[Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns](https://www.coindesk.com/business/2026/01/17/cathie-wood-calls-bitcoin-good-source-of-diversification-for-investors-seeking-higher-returns)**
-
-Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.
-
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
-
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 12h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 13h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +317,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 114 • ⏱️ 17:39 • 13h ago
+👁️ 23K • 👍 2K • 💬 114 • ⏱️ 17:39 • 14h ago
 
 ---
 
@@ -347,7 +347,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 55K • 👍 4K • 💬 1K • ⏱️ 16:04 • 19h ago
+👁️ 55K • 👍 4K • 💬 1K • ⏱️ 16:04 • 20h ago
 
 ---
 
@@ -357,7 +357,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 12h ago
+👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 13h ago
 
 ---
 

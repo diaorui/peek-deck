@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T09:42:39.303044+00:00'
+updated: '2026-01-18T10:23:20.972096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 09:42 UTC  
+**Last Updated:** January 18, 2026 at 10:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +7.0%  
-**30d:** +11.2%  
-**90d:** -14.2%  
-**1y:** +2.9%  
+**24h:** +0.5%  
+**7d:** +7.2%  
+**30d:** +11.4%  
+**90d:** -14.0%  
+**1y:** +3.1%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
+
+---
+
+**[Protocol simplicity as necessary part of trustlessness](https://www.reddit.com/r/ethereum/comments/1qg4ay1/protocol_simplicity_as_necessary_part_of/)**
+
+An important, and perenially underrated, aspect of "trustlessness", "passing the walkaway test" and "self-sovereignty" is protocol simplicity. Even if a protocol is super decentralized with hundreds of thousands of nodes, and it has 49% byzantine fault tolerance, and nodes fully verify everything with quantum-safe peerdas and starks, if the protocol is an unwieldy mess of hundreds of thousands of lines of code and five forms of PhD-level cryptography, ultimately that protocol fails all three tests: It's not trustless because you have to trust a small class of high priests who tell you what properties the protocol has It doesn't pass the walkaway test because if existing client teams go away, it's extremely hard for new teams to get up to the same level of quality It's not self-sovereign because if even the most technical people can't inspect and understand the thing, it's not fully yours It's also less secure, because each part of the protocol, especially if it can interact with other parts in complicated ways, carries a risk of the protocol breaking. One of my fears with Ethereum protocol development is that we can be too eager to add new features to meet highly specific needs, even if those features bloat the protocol or add entire new types of interacting components or complicated cryptography as critical dependencies. This can be nice for short-term functionality gains, but it is highly destructive to preserving long-term self-sovereignty, and creating a hundred-year decentralized hyperstructure that transcends the rise and fall of empires and ideologies. The core problem is that if protocol changes are judged from the perspective of "how big are they as changes to the existing protocol", then the desire to preserve backwards compatibility means that additions happen much more often than subtractions, and the protocol inevitably bloats over time. To counteract this, the Ethereum development process needs an explicit "simplification" / "garbage collection" function. "Simplification" has three metrics: Minimizing total lines of code in the protocol. An ideal protocol fits onto a single page - or at least a few pages Avoiding unnecessary dependencies on fundamentally complex technical components. For example, a protocol whose security solely depends on hashes (even better: on exactly one hash function) is better than one that depends on hashes and lattices. Throwing in isogenies is worst of all, because (sorry to the truly brilliant hardworking nerds who figured that stuff out) nobody understands isogenies. Adding more invariants: core properties that the protocol can rely on, for example EIP-6780 (selfdestruct removal) added the property that at most N storage slots can be changedakem per slot, significantly simplifying client development, and EIP-7825 (per-tx gas cap) added a maximum on the cost of processing one transaction, which greatly helps ZK-EVMs and parallel execution. Garbage collection can be piecemeal, or it can be large-scale. The piecemeal approach tries to take existing features, and streamline them so that they are simpler and make more sense. One example is the gas cost reforms in Glamsterdam, which make many gas costs that were previously arbitrary, instead depend on a small number of parameters that are clearly tied to resource consumption. One large-scale garbage collection was replacing PoW with PoS. Another is likely to happen as part of Lean consensus, opening the room to fix a large number of mistakes at the same time ( youtube.com/watch?v=10Ym34y3E… ). Another approach is "Rosetta-style backwards compatibility", where features that are complex but little-used remain usable but are "demoted" from being part of the mandatory protocol and instead become smart contract code, so new client developers do not need to bother with them. Examples: After we upgrade to full native account abstraction, all old tx types can be retired, and EOAs can be converted into smart contract wallets whose code can process all of those transaction types We can replace existing precompiles (except those that are really needed) with EVM or later RISC-V code We can eventually change the VM from EVM to RISC-V (or other simpler VM); EVM could be turned into a smart contract in the new VM. Finally, we want to move away from client developers feeling the need to handle all older versions of the Ethereum protocol. That can be left to older client versions running in docker containers. In the long term, I hope that the rate of change to Ethereum can be slower. I think for various reasons that ultimately that must happen. These first fifteen years should in part be viewed as an adolescence stage where we explored a lot of ideas and saw what works and what is useful and what is not. We should strive to avoid the parts that are not useful being a permanent drag on the Ethereum protocol. Basically, we want to improve Ethereum in a way that looks like this: https://old.reddit.com/r/SpaceXLounge/comments/1eis952/evolution_of_the_raptor_engine_by_cstanley/
+
+52m ago
 
 ---
 
@@ -138,14 +146,6 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 ---
 
-**[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
-
-Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -184,7 +184,15 @@ Yahoo Finance • 2d ago
 
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-dlnews.com • 2d ago
+dlnews.com • 3d ago
+
+---
+
+**[From $3.5K to $12K? Here’s why BMNR’s Ethereum forecast makes sense](https://ambcrypto.com/from-3-5k-to-12k-heres-why-bmnrs-ethereum-forecast-makes-sense/)**
+
+Is Ethereum following Bitcoin’s institutional playbook?
+
+AMBCrypto • 8h ago
 
 ---
 
@@ -196,11 +204,11 @@ Decrypt • 2d ago
 
 ---
 
-**[From $3.5K to $12K? Here’s why BMNR’s Ethereum forecast makes sense](https://ambcrypto.com/from-3-5k-to-12k-heres-why-bmnrs-ethereum-forecast-makes-sense/)**
+**[Top Analyst Says Next Crypto Rally for Bitcoin, Ethereum and XRP Has Begun](https://www.tradingview.com/news/coinpedia:1d7e1cbd1094b:0-top-analyst-says-next-crypto-rally-for-bitcoin-ethereum-and-xrp-has-begun/)**
 
-Is Ethereum following Bitcoin’s institutional playbook?
+A fresh rally may be underway in the cryptocurrency market, according to a senior analyst at blockchain data firm Santiment, who says investor sentiment is setting up a classic bullish signal for Bitcoin, Ethereum, and XRP.Brian Quinlivan, marketing director at Santiment, said in a recent interview…
 
-AMBCrypto • 7h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -209,14 +217,6 @@ AMBCrypto • 7h ago
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
 24/7 Wall St. • 2d ago
-
----
-
-**[Top Analyst Says Next Crypto Rally for Bitcoin, Ethereum and XRP Has Begun](https://www.tradingview.com/news/coinpedia:1d7e1cbd1094b:0-top-analyst-says-next-crypto-rally-for-bitcoin-ethereum-and-xrp-has-begun/)**
-
-A fresh rally may be underway in the cryptocurrency market, according to a senior analyst at blockchain data firm Santiment, who says investor sentiment is setting up a classic bullish signal for Bitcoin, Ethereum, and XRP.Brian Quinlivan, marketing director at Santiment, said in a recent interview…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 266 • ⏱️ 10:28 • 16h ago
+👁️ 51K • 👍 2K • 💬 266 • ⏱️ 10:28 • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 12h ago
+👁️ 33K • 👍 2K • 💬 225 • ⏱️ 12:19 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 580 • 👍 49 • 💬 14 • ⏱️ 14:00 • 16h ago
+👁️ 580 • 👍 49 • 💬 14 • ⏱️ 14:00 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Is MrBeast about to endorse Ethereum? With over half a billion followers, his vo
 
 📺 Traders Reality
 
-👁️ 7K • 👍 216 • 💬 43 • ⏱️ 1:22 • 13h ago
+👁️ 7K • 👍 216 • 💬 43 • ⏱️ 1:22 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 90 • ⏱️ 6:39 • 2d ago
+👁️ 2K • 👍 68 • 💬 90 • ⏱️ 6:39 • 3d ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN WARNING: It's Getting WORSE (important update)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 348 • 💬 155 • ⏱️ 22:05 • 21h ago
+👁️ 8K • 👍 348 • 💬 155 • ⏱️ 22:05 • 22h ago
 
 ---
 
