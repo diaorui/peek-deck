@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T01:55:34.328511+00:00'
+updated: '2026-01-19T03:52:20.113088+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 01:55 UTC  
+**Last Updated:** January 19, 2026 at 03:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 5h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 7h ago
 
 ---
 
@@ -50,7 +50,13 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-6h ago
+8h ago
+
+---
+
+**[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
+
+7h ago
 
 ---
 
@@ -58,13 +64,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-16h ago
-
----
-
-**[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
-
-5h ago
+18h ago
 
 ---
 
@@ -76,17 +76,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 ---
 
-**[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
-
-1d ago
-
----
-
 **[Robot vision architecture question: processing on robot vs ground station + UI design](https://www.reddit.com/r/robotics/comments/1qg8mx1/robot_vision_architecture_question_processing_on/)**
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-12h ago
+14h ago
+
+---
+
+**[new video of Figure 03 running from a third person view](https://www.reddit.com/r/robotics/comments/1qfio3i/new_video_of_figure_03_running_from_a_third/)**
+
+1d ago
 
 ---
 
@@ -94,15 +94,15 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-18h ago
+20h ago
 
 ---
 
-**[Why aren’t more people building robots with fully local AI](https://www.reddit.com/r/robotics/comments/1qfir5k/why_arent_more_people_building_robots_with_fully/)**
+**[Recording robot movement on RViz or similar](https://www.reddit.com/r/robotics/comments/1qg3hu5/recording_robot_movement_on_rviz_or_similar/)**
 
-I’ve been exploring local AI for robotics and I’m genuinely curious about this. Google’s Gemma 3n are specifically designed to run on edge devices, and they seem like a really strong fit for small mobile robots. With today’s hardware, even a decent smartphone can run reasonably capable models locally. That feels like a huge opportunity for robots that don’t depend on the cloud at all. So why aren’t we seeing more robots built around fully local AI using multi model like Gemma? From my perspective, local AI has some big advantages: No latency from cloud calls Works offline and in constrained environments Better privacy and reliability Lower long-term costs Easier to deploy in real-world, mobile scenarios For hobbyists and researchers, a phone-class SoC already has a GPU/NPU, cameras, sensors, and power management built in. Pair that with a small mobile base and you could have a capable, autonomous robot running entirely on-device. Is the barrier tooling? Model optimization? Power consumption? Lack of robotics-focused examples or middleware? Or is everyone just defaulting to cloud LLMs because they’re easier to prototype with? I’d love to hear thoughts from people working in robotics, edge AI, or embedded ML. It feels like local-first robotic intelligence should be taking off right now, but I’m clearly missing something.
+Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-1d ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 9h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -123,14 +123,6 @@ TechCrunch • 9h ago
 Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
 Futurism • 1d ago
-
----
-
-**[Assessing Qualcomm (QCOM) Valuation After New Robotics And AI Announcements](https://sg.finance.yahoo.com/news/assessing-qualcomm-qcom-valuation-robotics-011023701.html)**
-
-Why Qualcomm (QCOM) is Back in Focus After Its Latest AI and Robotics Moves Qualcomm (QCOM) is drawing fresh attention after its CES announcements around the Dragonwing IQ10 robotics processor and broader AI robotics stack, coupled with growing real world use cases like Motive's AI Dashcam Plus. See our latest analysis for QUALCOMM. Despite the buzz around its robotics and AI announcements, QUALCOMM's recent share price performance has been weak, with a 7 day share price return of 10.33% and...
-
-Yahoo Finance Singapore • 45m ago
 
 ---
 
@@ -146,13 +138,7 @@ WRGB • 1d ago
 
 Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
 
-KPTV • 19h ago
-
----
-
-**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
-
-Bloomberg.com • 3d ago
+KPTV • 21h ago
 
 ---
 
@@ -164,9 +150,31 @@ The Motley Fool • 2d ago
 
 ---
 
+**[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
+
+The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
+
+The Robot Report • 2d ago
+
+---
+
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 10h ago
+SciTechDaily • 12h ago
+
+---
+
+**[Future of parking? Robots quietly reshape how cars are parked](https://interestingengineering.com/ai-robotics/automated-parking-robots-cisco-urwb-hl-robotics)**
+
+Automated parking robots in Korea show how ultra-reliable wireless networks are critical for real-world autonomy.
+
+Interesting Engineering • 3d ago
+
+---
+
+**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -176,14 +184,6 @@ You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
 Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[Future of parking? Robots quietly reshape how cars are parked](https://interestingengineering.com/ai-robotics/automated-parking-robots-cisco-urwb-hl-robotics)**
-
-Automated parking robots in Korea show how ultra-reliable wireless networks are critical for real-world autonomy.
-
-Interesting Engineering • 3d ago
 
 ---
 
@@ -235,7 +235,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 164 • 👍 12 • 💬 1 • ⏱️ 2:17 • 1h ago
+👁️ 164 • 👍 12 • 💬 1 • ⏱️ 2:17 • 3h ago
 
 ---
 
@@ -255,7 +255,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 665K • 👍 12K • 💬 919 • ⏱️ 33:05 • 8h ago
+👁️ 665K • 👍 12K • 💬 919 • ⏱️ 33:05 • 10h ago
 
 ---
 

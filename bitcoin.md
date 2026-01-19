@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T01:55:34.319193+00:00'
+updated: '2026-01-19T03:52:20.103847+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 01:55 UTC  
+**Last Updated:** January 19, 2026 at 03:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,500.00
+### $92,425.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -3.2%  
-**30d:** +4.2%  
-**90d:** -14.1%  
-**1y:** -9.7%  
+**24h:** -2.6%  
+**7d:** -2.9%  
+**30d:** +4.5%  
+**90d:** -13.9%  
+**1y:** -9.5%  
 
 ---
 
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 49
-**NEUTRAL**
+### 44
+**FEAR**
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I can do this all day
 
-1h ago
+3h ago
 
 ---
 
@@ -89,13 +89,35 @@ I can do this all day
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-15h ago
+17h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-13h ago
+15h ago
+
+---
+
+**[Just bought the dip with 50 bucks](https://www.reddit.com/r/Bitcoin/comments/1qgr1e9/just_bought_the_dip_with_50_bucks/)**
+
+If it goes down to 88 will buy some more
+
+1h ago
+
+---
+
+**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
+
+4h ago
+
+---
+
+**[Can someone explain?](https://www.reddit.com/r/Bitcoin/comments/1qgrbc6/can_someone_explain/)**
+
+So yesterday I went to check on some BTC cash I had stored for approx the last 8 years. 0$ balance. Fuck. Someone took it, and along with 5 other wallets, loaded another worth roughly 60k. I just want to understand how! I made paper wallets 8 years ago on bitaddress.org , and the send key had never been entered… ever. They got my 15k I mined a long time ago as an experiment with some friends. I get its gone, I just want to understand how. SNT
+
+1h ago
 
 ---
 
@@ -103,27 +125,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-14h ago
-
----
-
-**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
-
-2h ago
-
----
-
-**[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
-
 16h ago
-
----
-
-**[What misconception about Bitcoin do you still see repeated today?p](https://www.reddit.com/r/Bitcoin/comments/1qgk9fu/what_misconception_about_bitcoin_do_you_still_see/)**
-
-I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
-
-4h ago
 
 ---
 
@@ -131,23 +133,21 @@ I still notice the same ideas being repeated when people talk about Bitcoin, esp
 
 I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
 
-4h ago
+6h ago
 
 ---
 
-**[Reminder: There’s a person behind that post](https://www.reddit.com/r/Bitcoin/comments/1qg4bhu/reminder_theres_a_person_behind_that_post/)**
+**[What misconception about Bitcoin do you still see repeated today?p](https://www.reddit.com/r/Bitcoin/comments/1qgk9fu/what_misconception_about_bitcoin_do_you_still_see/)**
 
-Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
+I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
 
-16h ago
+6h ago
 
 ---
 
-**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
+**[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
-
-20h ago
+18h ago
 
 ---
 
@@ -159,49 +159,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 7h ago
-
----
-
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
-
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
-
-Bloomberg.com • 56m ago
-
----
-
-**[Why crypto down today: Bitcoin slides below $93,000 as $680 million longs are liquidated](https://www.coindesk.com/markets/2026/01/19/bitcoin-slides-below-usd93-000-as-usd680-million-longs-are-liquidated-asia-morning-briefing)**
-
-Glassnode says the push toward $96,000 was driven by leverage, while CryptoQuant warns demand remains too weak to confirm a trend reversal.
-
-CoinDesk • 40m ago
-
----
-
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Peter Schiff Warns Traders Taking Profits In Gold, Silver And Buying Bitcoin ETFs And MSTR Stock: 'That's A Big Mistake'](https://finance.yahoo.com/news/peter-schiff-warns-traders-taking-120106265.html)**
-
-Economist Peter Schiff questioned the sustainability of Bitcoin’s ongoing rally on Wednesday, arguing that investors are mistakenly rotating profits from commodities into cryptocurrency-linked assets. Schiff Downplays Bitcoin Rally Schiff suggested in an X post that traders are taking profits in...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Key facts: US Bitcoin ETFs gain $1.42B; MicroStrategy buys 13,627 BTC; Steak 'n Shake invests $10M](https://www.tradingview.com/news/tradingview:28f268fe1d7f2:0-key-facts-us-bitcoin-etfs-gain-1-42b-microstrategy-buys-13-627-btc-steak-n-shake-invests-10m/)**
-
-TradingView — Track All Markets • 1h ago
+Gizmodo • 9h ago
 
 ---
 
@@ -213,17 +171,61 @@ CNBC • 1d ago
 
 ---
 
-**[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
+**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
 
-The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
+Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The Block • 2d ago
+The New York Times • 2d ago
+
+---
+
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 15h ago
+
+---
+
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
+
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
+
+CryptoSlate • 2d ago
+
+---
+
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+
+Can the reuse of crypto's waste heat redeem its bad climate rep?
+
+Mother Jones • 2d ago
+
+---
+
+**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
+
+Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -319,7 +321,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 253 • ⏱️ 14:15 • 4h ago
+👁️ 30K • 👍 2K • 💬 253 • ⏱️ 14:15 • 6h ago
 
 ---
 
@@ -329,7 +331,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 2K • 👍 239 • 💬 54 • ⏱️ 9:23 • 1h ago
+👁️ 2K • 👍 239 • 💬 54 • ⏱️ 9:23 • 3h ago
 
 ---
 
@@ -339,7 +341,7 @@ WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Os
 
 📺 Oscar Ramos
 
-👁️ 9K • 👍 505 • 💬 35 • ⏱️ 1:28:26 • 28m ago
+👁️ 9K • 👍 505 • 💬 35 • ⏱️ 1:28:26 • 2h ago
 
 ---
 
@@ -349,7 +351,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 2K • 👍 164 • 💬 50 • ⏱️ 25:20 • 47m ago
+👁️ 2K • 👍 164 • 💬 50 • ⏱️ 25:20 • 2h ago
 
 ---
 
@@ -359,7 +361,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 139 • 💬 81 • ⏱️ 5:48 • 3h ago
+👁️ 2K • 👍 139 • 💬 81 • ⏱️ 5:48 • 5h ago
 
 ---
 
@@ -369,7 +371,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 256 • 💬 188 • ⏱️ 8:40 • 8h ago
+👁️ 6K • 👍 256 • 💬 188 • ⏱️ 8:40 • 10h ago
 
 ---
 
@@ -379,7 +381,7 @@ Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market fe
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 367 • ⏱️ 53:40 • 11h ago
+👁️ 26K • 👍 1K • 💬 367 • ⏱️ 53:40 • 13h ago
 
 ---
 
@@ -389,7 +391,7 @@ Bitcoin #AnalisisTenico #bitcoinhoy OKX 10% de descuento en comisiones ▻ https
 
 📺 Billions Crypto
 
-👁️ 2K • 👍 262 • 💬 3 • ⏱️ 1:18:23 • 40m ago
+👁️ 2K • 👍 262 • 💬 3 • ⏱️ 1:18:23 • 2h ago
 
 ---
 
@@ -399,7 +401,7 @@ Sell On: https://aimcryptospace.com Buy in : Bybit - https://www.bybit.com/ Bina
 
 📺 Crafts for ME
 
-👁️ 6K • 👍 694 • 💬 99 • ⏱️ 3:59 • 11h ago
+👁️ 6K • 👍 694 • 💬 99 • ⏱️ 3:59 • 13h ago
 
 ---
 
