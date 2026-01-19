@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T19:20:09.895283+00:00'
+updated: '2026-01-19T19:40:33.347443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 19:20 UTC  
+**Last Updated:** January 19, 2026 at 19:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -162,7 +162,7 @@ The Block • 2d ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 4h ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 208 • 👍 18 • 💬 16 • ⏱️ 21:07 • 52m ago
+👁️ 208 • 👍 18 • 💬 16 • ⏱️ 21:07 • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 379 • 👍 14 • 💬 9 • ⏱️ 4:52 • 8h ago
+👁️ 379 • 👍 14 • 💬 9 • ⏱️ 4:52 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium 
 
 📺 Bankless
 
-👁️ 2K • 👍 91 • 💬 25 • ⏱️ 1:02:56 • 7h ago
+👁️ 2K • 👍 91 • 💬 25 • ⏱️ 1:02:56 • 8h ago
 
 ---
 
