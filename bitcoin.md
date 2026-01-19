@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T15:30:11.962293+00:00'
+updated: '2026-01-19T15:52:32.933472+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 15:30 UTC  
+**Last Updated:** January 19, 2026 at 15:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1858.75B
+**Market Cap:** $1856.98B
 Rank #1
 
-**Circulating Supply:** 19,977,915 BTC
+**Circulating Supply:** 19,977,962 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.2%
+-26.3%
 
 **All-Time Low:** $67.81
-+137106.9%
++136946.2%
 
 ---
 
@@ -93,7 +93,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-47m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,13 +123,13 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 I can do this all day
 
-14h ago
+15h ago
 
 ---
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ If it goes down to 88 will buy some more
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -179,13 +179,13 @@ The Motley Fool • 2h ago
 
 Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfsbgtMyQO3UcFgImqc_3Lt0iBDQZppxwnaUjsucfu0xTfqtfIHhSwz&gaa_ts=696e5168&gaa_sig=sMpDNQMGasYXAi9OIYN6ZAHaWDwTAXecs72gl2fjFv7L7qiY5Oy5TrZUiQRUwmsjErS8EirUEBV8Tw3_5iybRg%3D%3D)**
 
-MarketWatch • 11m ago
+MarketWatch • 33m ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 1h ago
 
 **[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqcK9tKr23LuAtF1Gq888B-7I27X04otKSAqdmQtKPdk71bHBZoN5ht3&gaa_ts=696e5168&gaa_sig=fsE8Ij0aHSxIVTcLPa6yyYrO7RT3BZoZ0p1NjiSjnbRrDqmSkIWcs9HceS4NS7zmrseMh44Vht55YKP9Up8GcQ%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -237,7 +237,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 2d ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 3d ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -245,7 +245,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -311,17 +311,17 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 12h ago
+👁️ 31K • 👍 2K • 💬 417 • ⏱️ 6:08 • 12h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
+**[Crypto Just Dumped Hard… Here’s Why](https://www.youtube.com/watch?v=1pnEWHxAsd4)**
 
-Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
+Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Thomas Kralow
+📺 Lark Davis
 
-👁️ 6K • 👍 2K • 💬 20 • ⏱️ 12:15 • 4h ago
+👁️ 8K • 👍 572 • 💬 68 • ⏱️ 15:35 • 4h ago
 
 ---
 
@@ -331,17 +331,17 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 18h ago
+👁️ 75K • 👍 3K • 💬 430 • ⏱️ 14:15 • 18h ago
 
 ---
 
-**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
+**[Jack Mallers: Bitcoin Is Getting DUMPED.. Here&#39;s What They&#39;re NOT Telling You](https://www.youtube.com/watch?v=ru2bhFK2O64)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
 
-📺 Crypto Kid
+📺 Library Of Wealth
 
-👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 9h ago
+👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 10h ago
 
 ---
 
@@ -351,57 +351,57 @@ In today's video, Kyledoops shows you why a large cohort of people are positione
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 7h ago
+👁️ 16K • 👍 1K • 💬 25 • ⏱️ 26:58 • 7h ago
 
 ---
 
-**[The REAL REASON Why CRYPTO IS CRASHING!! How LOW Will It GO!?](https://www.youtube.com/watch?v=hUb2ekPFASg)**
+**[How To Damage Bitcoin Forever](https://www.youtube.com/watch?v=4oYQ1tu7GPg)**
 
-The crypto market has experienced a sharp drop over the last day, and everyone assumes that it's because of tensions between ...
+Please help to support this channel's work: https://www.youtube.com/@Bitcoin_University/join In this video, I discuss how the ...
 
-📺 Coin Bureau Trading
+📺 Bitcoin University
 
-👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 5h ago
-
----
-
-**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
-
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
-
-📺 Jayson Casper
-
-👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 15h ago
+👁️ 718 • 👍 190 • 💬 95 • ⏱️ 12:22 • 54m ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=KCP0lx9r1ZQ)**
+**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
 
-📺 NieDoZajechania
+📺 Crypto Kid
 
-👁️ 6K • 👍 3K • 4h ago
-
----
-
-**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
-
-While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 2K • 💬 203 • ⏱️ 17:39 • 1d ago
+👁️ 7K • 👍 533 • 💬 93 • ⏱️ 5:22 • 9h ago
 
 ---
 
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+**[BITCOIN IS GOING MUCH LOWER, BUT FIRST...](https://www.youtube.com/watch?v=pg7cMqWGoMA)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
 
-📺 Altcoin Daily
+📺 100XClub
 
-👁️ 53K • 👍 3K • 💬 239 • ⏱️ 12:19 • 1d ago
+👁️ 7K • 👍 943 • 💬 177 • ⏱️ 8:03 • 6h ago
+
+---
+
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=9s2OO9U6oBY)**
+
+It is once again time for an update to the Bitcoin bull market support band. For inquiries: https://www.benjamincowen.com/ Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 38K • 👍 3K • 💬 100 • ⏱️ 6:54 • 11h ago
+
+---
+
+**[THIS WEEK WILL BE WILD FOR BITCOIN... YOU NEED TO SEE THIS](https://www.youtube.com/watch?v=Sx93quWS8Es)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 9K • 👍 500 • 💬 53 • ⏱️ 9:59 • 7h ago
 
 ---
 

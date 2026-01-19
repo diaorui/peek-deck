@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T15:30:11.967441+00:00'
+updated: '2026-01-19T15:52:32.941399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 15:30 UTC  
+**Last Updated:** January 19, 2026 at 15:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $388.44B
+**Market Cap:** $387.89B
 Rank #2
 
 **Circulating Supply:** 120,694,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.9%
+-35.0%
 
 **All-Time Low:** $0.43
-+743203.9%
++742150.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-29m ago
+51m ago
 
 ---
 
@@ -96,7 +96,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 Hey r/ethereum fam, I've been trading ETH for 5+ years and kept missing breakouts because I couldn't monitor charts 24/7. With the current setup at $3,300 (200-day EMA test, symmetrical triangle forming), I realized I needed automation. The Problem: ETH moves fast, especially with recent $480M ETF inflows Manual chart scanning across multiple timeframes is exhausting TradingView alerts are generic and miss nuanced patterns What I Built: ChartScout - detects 20+ chart patterns (head & shoulders, triangles, flags, wedges) in real-time for ETH and other cryptos. Currently detecting on ETH: Symmetrical triangle on daily (could break 15-25% either way) Bull flags on 4H timeframe Support at 200-day EMA ($3,300 zone) Looking for feedback from ETH traders: What patterns do you trade most? What features would make this actually useful? Any suggestions for improvement? I'm actively building based on trader input. Been working on this for 2 years as a solo founder. Demo: ChartScout Happy to answer questions about the tech stack or pattern detection algorithms!
 
-15m ago
+37m ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 He called for a new wave of DAOs that focus on critical functions, like data maintenance and dispute resolution, with more sophisticated governance.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 2K • 💬 21 • ⏱️ 12:15 • 4h ago
+👁️ 11K • 👍 3K • 💬 29 • ⏱️ 12:15 • 5h ago
 
 ---
 
@@ -248,17 +248,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 9 • 💬 5 • ⏱️ 4:52 • 5h ago
+👁️ 271 • 👍 12 • 💬 7 • ⏱️ 4:52 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YzOWWBPQ3s0)**
+**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
 
-📺 More Crypto Online
+📺 Paul Barron Network
 
-👁️ 3K • 👍 163 • 💬 10 • ⏱️ 8:02 • 14h ago
+👁️ 72K • 👍 3K • 💬 180 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -272,33 +272,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YzOWWBPQ3s0)**
 
-Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Paul Barron Network
+📺 More Crypto Online
 
-👁️ 71K • 👍 3K • 💬 177 • ⏱️ 10:28 • 1d ago
-
----
-
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 9K • 👍 243 • 💬 69 • ⏱️ 24:55 • 2d ago
+👁️ 3K • 👍 169 • 💬 10 • ⏱️ 8:02 • 14h ago
 
 ---
 
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+**[Stock Market Crash Incoming? 😳 Do THIS Now!](https://www.youtube.com/watch?v=0sZ5RjiflSg)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+This is all about why the US could be on the verge of the next big stock market crash. 0:00 - Intro 0:58 - The 3 Warnings 6:08 ...
 
-📺 Altcoin Daily
+📺 Investing Made Simple
 
-👁️ 53K • 👍 3K • 💬 239 • ⏱️ 12:19 • 1d ago
+👁️ 1K • 👍 209 • ⏱️ 14:05 • 1h ago
 
 ---
 
@@ -312,13 +302,23 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 ---
 
-**[CRYPTO LIVE TRADING || 19 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=-UKSzBDuUBg)**
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
 
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
 
-📺 Balraj Trading Tech
+📺 CoinDesk
 
-👁️ 3K • 👍 539 • 2h ago
+👁️ 9K • 👍 246 • 💬 61 • ⏱️ 24:55 • 2d ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 240 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Stock Moe
 
-👁️ 11K • 👍 741 • 💬 56 • ⏱️ 15:35 • 2d ago
+👁️ 11K • 👍 740 • 💬 56 • ⏱️ 15:35 • 2d ago
 
 ---
 

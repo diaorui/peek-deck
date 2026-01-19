@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T15:30:11.954946+00:00'
+updated: '2026-01-19T15:52:32.922354+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 15:30 UTC  
+**Last Updated:** January 19, 2026 at 15:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 51m ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
-23h ago
+1d ago
 
 ---
 
@@ -89,7 +89,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 18h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey guys, I need to start writing business plans including Research & Developmen
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 3h ago
 
 AI is currently in the "trough of disillusionment" according to Gartner.
 
-Computerworld • 33m ago
+Computerworld • 55m ago
 
 ---
 
@@ -147,7 +147,7 @@ Computerworld • 33m ago
 
 The human brain doesn’t remember everything verbatim. It remembers meaning. Patterns. Emotional weight. That’s the standard customers are unconsciously applying when they interact with AI. And right now, AI falls short.
 
-WRAL • 5m ago
+WRAL • 27m ago
 
 ---
 
@@ -155,7 +155,7 @@ WRAL • 5m ago
 
 The proliferation of intimate deepfakes on X has raised questions over the bloc’s AI law.
 
-politico.eu • 9m ago
+politico.eu • 31m ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 5h ago
 
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 11h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 234 • 💬 300 • 14h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 234 • 💬 300 • 15h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -261,7 +261,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
 
-⬆️ 55 • 💬 11 • 2d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 55 • 💬 11 • 3d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
 
 ---
 
@@ -277,21 +277,11 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ## YouTube Videos: "ai"
 
-**[Use Google’s New AI Release to Build a $10K/Month Empire (Before It’s Too Late)](https://www.youtube.com/watch?v=_-O4b2SDQKo)**
-
-Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 29th-Feb 17th): 48mo - new price at 2.99 ...
-
-📺 Journey With The Hintons
-
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 11:46 • 19h ago
-
----
-
 **[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
 
 📺 Bob Reese
 
-👁️ 501K • 👍 25K • 💬 313 • ⏱️ 1:05 • 2d ago
+👁️ 507K • 👍 26K • 💬 317 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -301,7 +291,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 814 • 💬 56 • ⏱️ 7:01 • 1d ago
+👁️ 15K • 👍 836 • 💬 58 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -311,7 +301,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 92K • 👍 4K • 💬 569 • ⏱️ 19:38 • 2d ago
+👁️ 92K • 👍 4K • 💬 574 • ⏱️ 19:38 • 2d ago
 
 ---
 
@@ -321,47 +311,7 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 325K • 👍 6K • 💬 2K • ⏱️ 10:04 • 2d ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.5M • 👍 59K • 💬 6K • ⏱️ 15:50 • 20h ago
-
----
-
-**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 179 • 💬 11 • ⏱️ 9:45 • 23h ago
-
----
-
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
-
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
-
-📺 Liam Ottley
-
-👁️ 21K • 👍 986 • 💬 46 • ⏱️ 12:49 • 1d ago
-
----
-
-**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
-
-An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
-
-📺 The Infographics Show
-
-👁️ 194K • 👍 6K • 💬 885 • ⏱️ 13:14 • 1d ago
+👁️ 330K • 👍 6K • 💬 2K • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -371,7 +321,55 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 109K • 👍 7K • 💬 934 • ⏱️ 9:27 • 1d ago
+👁️ 113K • 👍 7K • 💬 965 • ⏱️ 9:27 • 1d ago
+
+---
+
+**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+
+My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+
+📺 Liam Ottley
+
+👁️ 22K • 👍 1K • 💬 49 • ⏱️ 12:49 • 1d ago
+
+---
+
+**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 7K • 👍 189 • 💬 11 • ⏱️ 9:45 • 23h ago
+
+---
+
+**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.6M • 👍 62K • 💬 6K • ⏱️ 15:50 • 20h ago
+
+---
+
+**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
+
+Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
+
+📺 BitBiasedAI
+
+👁️ 11K • 👍 311 • 💬 24 • ⏱️ 23:04 • 1d ago
+
+---
+
+**[AI wants to be your boss](https://www.youtube.com/watch?v=udBnZeNqLkw)**
+
+📺 Alberta Tech
+
+👁️ 254K • 👍 14K • 💬 381 • ⏱️ 0:37 • 20h ago
 
 ---
 
@@ -387,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 7,589 • ❤️ 850 • 4d ago
+⬇️ 7,589 • ❤️ 856 • 4d ago
 
 ---
 
@@ -399,7 +397,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,830 • ❤️ 354 • 1d ago
+⬇️ 1,830 • ❤️ 359 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,168 • 2h ago
+⬇️ 1,540,901 • ❤️ 1,172 • 3h ago
 
 ---
 
@@ -423,7 +421,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 333 • 4d ago
+⬇️ 17,594 • ❤️ 338 • 4d ago
 
 ---
 
@@ -433,7 +431,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 299 • 5h ago
+⬇️ 26,093 • ❤️ 305 • 1h ago
 
 ---
 
@@ -445,7 +443,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 761 • 11d ago
+⬇️ 55,233 • ❤️ 766 • 11d ago
 
 ---
 
@@ -461,18 +459,6 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 ---
 
-**[translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it)**
-
-*Google*
-
-TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 languages, capable of translating text and extracting/translating text from images. It's designed for efficient deployment on resource-constrained environments, enabling state-of-the-art translation for diverse applications.
-
-`image-text-to-text` `28.8B`
-
-⬇️ 14,296 • ❤️ 204 • 4d ago
-
----
-
 **[FLUX.2-klein-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B)**
 
 *Black Forest Labs*
@@ -481,7 +467,19 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 203 • 3d ago
+⬇️ 18,931 • ❤️ 211 • 3d ago
+
+---
+
+**[translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it)**
+
+*Google*
+
+TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 languages, capable of translating text and extracting/translating text from images. It's designed for efficient deployment on resource-constrained environments, enabling state-of-the-art translation for diverse applications.
+
+`image-text-to-text` `28.8B`
+
+⬇️ 14,296 • ❤️ 205 • 4d ago
 
 ---
 
@@ -493,7 +491,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 15,024 • ❤️ 191 • 3d ago
+⬇️ 15,024 • ❤️ 194 • 3d ago
 
 ---
 
@@ -519,7 +517,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,781 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,850 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
@@ -531,7 +529,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,338 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,404 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -636,7 +634,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 6h ago
+⭐ 9.1k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -646,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 396 • 21h ago
+⭐ 8.0k • 🔱 404 • 22h ago
 
 ---
 
@@ -656,7 +654,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 337 • 2d ago
+⭐ 7.1k • 🔱 337 • 2d ago
 
 ---
 
@@ -666,7 +664,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 671 • 11d ago
+⭐ 5.1k • 🔱 673 • 11d ago
 
 ---
 
@@ -676,7 +674,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 807 • 5h ago
+⭐ 5.0k • 🔱 814 • 6h ago
 
 ---
 
@@ -686,7 +684,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.6k • 🔱 3.5k • 1h ago
+⭐ 3.7k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -706,7 +704,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 283 • 8h ago
+⭐ 2.0k • 🔱 286 • 9h ago
 
 ---
 
@@ -716,7 +714,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 2h ago
+⭐ 1.8k • 🔱 146 • 7m ago
 
 ---
 
@@ -726,7 +724,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.4k • 🔱 102 • 20d ago
+⭐ 1.5k • 🔱 102 • 20d ago
 
 ---
 

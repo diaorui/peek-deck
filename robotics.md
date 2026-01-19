@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T15:30:11.970199+00:00'
+updated: '2026-01-19T15:52:32.945519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 15:30 UTC  
+**Last Updated:** January 19, 2026 at 15:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-21m ago
+44m ago
 
 ---
 
@@ -58,7 +58,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 3d ago
 
 Robotics continues to be a growing extracurricular in Central Iowa Schools with programs doubling in participation in many of those schools. With the growth, schools are upgrading robotics to the classroom. In Newton, the high school will soon have a robotics classroom thanks to growing interest, funding and awards. Newton High School and Team Newbotics […]
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo • 2h ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 41m ago
+Fortune • 1h ago
 
 ---
 
@@ -180,13 +180,13 @@ Fortune • 41m ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 3h ago
+Tom's Hardware • 4h ago
 
 ---
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 23h ago
+SciTechDaily • 1d ago
 
 ---
 
@@ -198,17 +198,17 @@ SciTechDaily • 23h ago
 
 📺 Wowearth
 
-👁️ 181K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
+👁️ 182K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
 
 ---
 
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
 
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
 
-📺 Digital Engine
+📺 Pit Novations
 
-👁️ 321K • 👍 15K • 💬 4K • ⏱️ 19:17 • 3d ago
+👁️ 44K • 👍 127 • 💬 14 • ⏱️ 0:05 • 5d ago
 
 ---
 
@@ -228,17 +228,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 133K • 👍 5K • 💬 364 • ⏱️ 17:36 • 4d ago
-
----
-
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
-
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
-
-📺 Gohar Khan
-
-👁️ 283K • 👍 13K • 💬 212 • ⏱️ 0:49 • 4d ago
+👁️ 134K • 👍 5K • 💬 365 • ⏱️ 17:36 • 4d ago
 
 ---
 
@@ -248,7 +238,27 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 43 • 💬 2 • ⏱️ 2:17 • 14h ago
+👁️ 1K • 👍 46 • 💬 2 • ⏱️ 2:17 • 15h ago
+
+---
+
+**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
+
+What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
+
+📺 Future Lens Pi
+
+👁️ 4K • 💬 7 • ⏱️ 0:07 • 6h ago
+
+---
+
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+
+📺 Gohar Khan
+
+👁️ 287K • 👍 13K • 💬 214 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -262,33 +272,23 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 ---
 
-**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
-
-Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
-
-📺 Fox Business
-
-👁️ 12K • 👍 213 • 💬 85 • ⏱️ 5:12 • 1d ago
-
----
-
-**[CES 2026&#39;s Wildest Tech: AI &amp; Robotics You Have to See](https://www.youtube.com/watch?v=8yLsLMNB5uc)**
-
-This year's CES offered a revealing look at where AI and robotics stand in 2026, with companies like Realbotix and Boston ...
-
-📺 Cheddar
-
-👁️ 43K • 👍 171 • 💬 15 • ⏱️ 9:43 • 4d ago
-
----
-
 **[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
 
 We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
 
 📺 Stay Wild
 
-👁️ 1.2M • 👍 17K • 💬 1K • ⏱️ 33:05 • 21h ago
+👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 22h ago
+
+---
+
+**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+
+Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+
+📺 Fox Business
+
+👁️ 12K • 👍 212 • 💬 81 • ⏱️ 5:12 • 1d ago
 
 ---
 
