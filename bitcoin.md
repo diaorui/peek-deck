@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T20:46:53.158309+00:00'
+updated: '2026-01-19T21:20:58.667634+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 20:46 UTC  
+**Last Updated:** January 19, 2026 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hard to buy the dip when you're already all in!
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-8h ago
+9h ago
 
 ---
 
@@ -121,19 +121,19 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 **[This sub asked so I rebuilt it. Bitcoin company trackers, all free data, and now with a chat. This is how we Bitcoiners orange pill Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1qhdjaa/this_sub_asked_so_i_rebuilt_it_bitcoin_company/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-6h ago
+7h ago
 
 ---
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 3d ago
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcZ_F0wiHB6APjGp5jOn6CYFfAgmxlI6Nw9fO5Of-TBg4yjK1lCxMzv&gaa_ts=696e96d2&gaa_sig=J_Nxa1TzePyVkjECUKt263eOqeSiSHoJuFobDWzyBmssiZ9dfrwyRh9boA86n-BRD3jLpQuFIwZPI7nEes7YzQ%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Tom's Hardware • 1d ago
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -253,7 +253,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 10h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -277,7 +277,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -311,7 +311,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 801 • 💬 258 • ⏱️ 8:03 • 2h ago
+👁️ 10K • 👍 801 • 💬 258 • ⏱️ 8:03 • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 2K • 💬 50 • ⏱️ 20:35 • 5h ago
+👁️ 18K • 👍 2K • 💬 50 • ⏱️ 20:35 • 6h ago
 
 ---
 
@@ -361,7 +361,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Erik Anderson
 
-👁️ 4K • 👍 3K • 42m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
@@ -371,7 +371,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 4K • 👍 703 • 💬 182 • ⏱️ 12:22 • 5h ago
+👁️ 4K • 👍 703 • 💬 182 • ⏱️ 12:22 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 80K • 👍 4K • 💬 451 • ⏱️ 14:15 • 23h ago
+👁️ 80K • 👍 4K • 💬 451 • ⏱️ 14:15 • 1d ago
 
 ---
 
