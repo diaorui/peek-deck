@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T17:24:27.621494+00:00'
+updated: '2026-01-19T17:48:36.508353+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 17:24 UTC  
+**Last Updated:** January 19, 2026 at 17:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,6 +62,14 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 ---
 
+**[Your robot has an accent — why some sim-trained policies transfer and others faceplant](https://www.reddit.com/r/robotics/comments/1qhatfl/your_robot_has_an_accent_why_some_simtrained/)**
+
+Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
+
+11m ago
+
+---
+
 **[ABB Rapid Programming](https://www.reddit.com/r/robotics/comments/1qh3e2p/abb_rapid_programming/)**
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
@@ -74,7 +82,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-21h ago
+22h ago
 
 ---
 
@@ -82,7 +90,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 20h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 21h ago
 
 ---
 
@@ -97,14 +105,6 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
 21h ago
-
----
-
-**[Guys my new project. Queries and suggestions.](https://www.reddit.com/r/robotics/comments/1qgzeze/guys_my_new_project_queries_and_suggestions/)**
-
-https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
-
-8h ago
 
 ---
 
@@ -128,11 +128,11 @@ Futurism • 2d ago
 
 ---
 
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
+**[Spencer Krause: Why Hardware is the New Engineering Frontier](https://www.therobotreport.com/spencer-krause-why-hardware-is-the-new-engineering-frontier/)**
 
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
+Our guest this week is Spencer Krause, CEO and co-founder of SKA Robotics and co-founder of Tension Robotics.
 
-The Robot Report • 3h ago
+The Robot Report • 6m ago
 
 ---
 
@@ -168,11 +168,11 @@ WRGB • 1d ago
 
 ---
 
-**[Scholastic Spotlight: Newton Robotics Upgrade](https://www.yahoo.com/news/articles/scholastic-spotlight-newton-robotics-upgrade-124507205.html)**
+**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
-Robotics continues to be a growing extracurricular in Central Iowa Schools with programs doubling in participation in many of those schools. With the growth, schools are upgrading robotics to the classroom. In Newton, the high school will soon have a robotics classroom thanks to growing interest, funding and awards. Newton High School and Team Newbotics […]
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-Yahoo • 4h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -182,12 +182,11 @@ SciTechDaily • 1d ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
 
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+China adopts robotics faster than western counterparts
 
-Pittsburgh Post-Gazette • 2d ago
+Tom's Hardware • 6h ago
 
 ---
 
@@ -219,7 +218,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 26K • 💬 26 • ⏱️ 6:37 • 3d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 4d ago
 
 ---
 
@@ -249,7 +248,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 4K • 💬 7 • ⏱️ 0:07 • 7h ago
+👁️ 4K • 💬 7 • ⏱️ 0:07 • 8h ago
 
 ---
 
@@ -279,7 +278,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 23h ago
+👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 1d ago
 
 ---
 

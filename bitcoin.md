@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T17:24:27.613276+00:00'
+updated: '2026-01-19T17:48:36.500268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 17:24 UTC  
+**Last Updated:** January 19, 2026 at 17:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,117.69
+### $93,310.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
+**24h:** -2.4%  
 **7d:** -2.3%  
 **30d:** +5.1%  
 **90d:** -13.4%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,13 +93,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-2h ago
-
----
-
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-13h ago
+3h ago
 
 ---
 
@@ -111,11 +105,25 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 ---
 
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+13h ago
+
+---
+
 **[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
 13h ago
+
+---
+
+**[Anyone?](https://www.reddit.com/r/Bitcoin/comments/1qh8zwo/anyone/)**
+
+Hard to buy the dip when you're already all in!
+
+1h ago
 
 ---
 
@@ -125,25 +133,19 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 ---
 
-**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
-
-I can do this all day
-
-16h ago
-
----
-
 **[US crypto regulation coming soon: Coinbase expects approval within 30 days](https://www.reddit.com/r/Bitcoin/comments/1qh5p5t/us_crypto_regulation_coming_soon_coinbase_expects/)**
 
 Coinbase says the U.S. cryptocurrency market structure bill could be passed within about a month if Congress can find a final compromise.
 
-2h ago
+3h ago
 
 ---
 
-**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
+**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
 
-12h ago
+I can do this all day
+
+17h ago
 
 ---
 
@@ -155,21 +157,19 @@ Coinbase says the U.S. cryptocurrency market structure bill could be passed with
 
 traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 3h ago
-
----
-
-**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
-
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-Gizmodo • 23h ago
+Forbes • 4h ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 3d ago
+
+---
+
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdsz9ZjRrxfsuDS8NUTt45FB91XwurVSuXytOGyDVDm_MTp-M_gFCj8&gaa_ts=696e71dc&gaa_sig=QMELSTuTy7Y0tHVrZ_w7JX9VxrFslVku5nxrKqzkkQe_5vq5EofqiCVn7EZYkG4GQQMIDdfrHLuVn_xWj-mMhA%3D%3D)**
+
+MarketWatch • 2h ago
 
 ---
 
@@ -181,31 +181,11 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcWBupsEiY1GE8bBgpWrAjYS-yUSDmuukv85b70TtEQtgwNn61YK7Fq&gaa_ts=696e5fe0&gaa_sig=LfQKaLL4oe7ORgukDoITnWylUaDBUSOQShcIZXQ7B97xPTunYMZ12piNVuM6MvRkTxw2tM6GRFrDyHVhdOjbdA%3D%3D)**
-
-MarketWatch • 2h ago
-
----
-
-**[The Daily: Bitcoin slips as US-EU tariff war fears mount, NYSE develops 24/7 tokenized securities trading platform, and more](https://www.theblock.co/post/386142/the-daily-bitcoin-slips-as-us-eu-tariff-war-fears-mount-nyse-develops-24-7-tokenized-securities-trading-platform-and-more)**
-
-The Block • 1h ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
-
-Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
-
-Yahoo Finance • 6h ago
-
----
-
 **[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
 
 A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -217,9 +197,33 @@ CNBC • 2d ago
 
 ---
 
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
+
+Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
+
+Yahoo Finance • 6h ago
+
+---
+
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+Gizmodo • 23h ago
+
+---
+
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
 The New York Times • 3d ago
+
+---
+
+**[Bitcoin, Ethereum Surge Propels Crypto Fund Investments to $2.17 Billion—Best in Three Months](https://decrypt.co/354996/digital-asset-funds-drew-in-2-17b-last-week-highest-level-in-three-months)**
+
+Bitcoin ETFs led with a $1.42 billion netflow as digital asset funds saw their highest inflows since October last week.
+
+Decrypt • 2h ago
 
 ---
 
@@ -323,7 +327,7 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 8K • 👍 572 • 💬 68 • ⏱️ 15:35 • 5h ago
+👁️ 8K • 👍 572 • 💬 68 • ⏱️ 15:35 • 6h ago
 
 ---
 
@@ -343,7 +347,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 11h ago
+👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 12h ago
 
 ---
 
@@ -393,7 +397,7 @@ It is once again time for an update to the Bitcoin bull market support band. For
 
 📺 Benjamin Cowen
 
-👁️ 38K • 👍 3K • 💬 100 • ⏱️ 6:54 • 12h ago
+👁️ 38K • 👍 3K • 💬 100 • ⏱️ 6:54 • 13h ago
 
 ---
 

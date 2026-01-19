@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T17:24:27.618663+00:00'
+updated: '2026-01-19T17:48:36.505526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 17:24 UTC  
+**Last Updated:** January 19, 2026 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** -3.1%  
+**24h:** -4.3%  
+**7d:** -3.2%  
 **30d:** +7.2%  
 **90d:** -15.5%  
 **1y:** -1.8%  
@@ -100,6 +100,14 @@ Hey r/ethereum fam, I've been trading ETH for 5+ years and kept missing breakout
 
 ---
 
+**[Rabby wallet blocks transaction](https://www.reddit.com/r/ethereum/comments/1qh9dm9/rabby_wallet_blocks_transaction/)**
+
+Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
+
+1h ago
+
+---
+
 **[Daily General Discussion January 18, 2026](https://www.reddit.com/r/ethereum/comments/1qg0myc/daily_general_discussion_january_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -140,17 +148,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[I have 20 hours to learn as much as I can.](https://www.reddit.com/r/ethereum/comments/1qeuzx0/i_have_20_hours_to_learn_as_much_as_i_can/)**
-
-I have a 20 hour flight and I want to spend it studying all that I can about blockchain, ethereum, smart contracts, and web3. Let me know what are your best recommendations to learn about the technicals - I have a strong background in machine learning and computer science but am completely new to the blockchain as a concept (bar the 3b1b series). Anything works, books, videos, research papers.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-calls-142300878.html)**
+
+Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
+
+Yahoo Finance • 3h ago
+
+---
 
 **[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
 
@@ -166,22 +180,6 @@ The Block • 19h ago
 
 ---
 
-**[Bitcoin, Ethereum Surge Propels Crypto Fund Investments to $2.17 Billion—Best in Three Months](https://finance.yahoo.com/news/digital-asset-funds-drew-2-132545258.html)**
-
-Bitcoin ETFs led with $1.42 billion worth of investments as digital asset funds saw their highest inflows since October last week.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-calls-142300878.html)**
-
-Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
@@ -190,33 +188,35 @@ CoinDesk • 11h ago
 
 ---
 
-**[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum Validator Exit Queue Hits Zero as Staking Demand Surges](https://finance.yahoo.com/news/ethereum-validator-exit-queue-hits-095400552.html)**
-
-Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[2 Big Reasons to Buy Ethereum Before the Second Quarter of 2026](https://www.fool.com/investing/2026/01/19/2-big-reasons-to-buy-ethereum-before-the-second-qu/)**
 
 If these two things happen, Ethereum could skyrocket in value in 2026.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Ethereum Network Activity Explodes, Market Structure Points To Upside Continuation](https://www.tradingview.com/news/newsbtc:e4b181914094b:0-ethereum-network-activity-explodes-market-structure-points-to-upside-continuation/)**
+**[Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target](https://www.tradingview.com/news/newsbtc:6324476c6094b:0-ethereum-s-4-hour-chart-says-a-big-dump-is-coming-here-s-the-target/)**
 
-Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
+The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[Bitcoin, Ethereum Surge Propels Crypto Fund Investments to $2.17 Billion—Best in Three Months](https://finance.yahoo.com/news/digital-asset-funds-drew-2-132545258.html)**
+
+Bitcoin ETFs led with $1.42 billion worth of investments as digital asset funds saw their highest inflows since October last week.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
+
+Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
+
+CryptoSlate • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 3K • 💬 29 • ⏱️ 12:15 • 6h ago
+👁️ 11K • 👍 3K • 💬 29 • ⏱️ 12:15 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 271 • 👍 12 • 💬 7 • ⏱️ 4:52 • 6h ago
+👁️ 271 • 👍 12 • 💬 7 • ⏱️ 4:52 • 7h ago
 
 ---
 

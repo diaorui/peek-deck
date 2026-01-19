@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T17:24:27.605591+00:00'
+updated: '2026-01-19T17:48:36.492663+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - news
 - videos
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 17:24 UTC  
+**Last Updated:** January 19, 2026 at 17:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 3h ago
 
 ---
 
@@ -57,7 +57,15 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 5h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 6h ago
+
+---
+
+**[Feasibility of a computer-vision system for office occupancy & activity monitoring (YOLOv8, 2-month timeline)](https://www.reddit.com/r/artificial/comments/1qhb1cj/feasibility_of_a_computervision_system_for_office/)**
+
+Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
+
+4m ago
 
 ---
 
@@ -81,15 +89,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-12h ago
-
----
-
-**[Best AI model to build business plans?](https://www.reddit.com/r/artificial/comments/1qgya79/best_ai_model_to_build_business_plans/)**
-
-Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
-
-9h ago
+13h ago
 
 ---
 
@@ -121,14 +121,6 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 ## Google News: "ai"
 
-**[Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’](https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings)**
-
-His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
-
-The Guardian • 6h ago
-
----
-
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
@@ -137,25 +129,35 @@ CNN • 1d ago
 
 ---
 
-**[Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)**
+**[Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’](https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings)**
 
-Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance.
+His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
 
-TechCrunch • 1h ago
-
----
-
-**[Transformer architecture, the one innovation that supercharged AI: Best ideas of the century](https://www.newscientist.com/article/2510604-the-one-innovation-that-supercharged-ai-best-ideas-of-the-century/)**
-
-The most powerful artificial intelligence tools all have one thing in common. Whether they are writing poetry or predicting protein structures, they rely on the "transformer" architecture
-
-New Scientist • 1h ago
+The Guardian • 6h ago
 
 ---
 
-**[Mubadala CEO Al Mubarak on Monetization, AI, Private Credit](https://www.bloomberg.com/news/videos/2026-01-19/mubadala-ceo-on-monetization-ai-private-credit-video)**
+**[Trust AI Enough to Bet Your Retirement? You Said, 'No Thanks'](https://www.businessinsider.com/trust-ai-with-retirement-401k-survey-results-elon-musk-2026-1)**
 
-Bloomberg.com • 1h ago
+Elon Musk suggested you don't need to bother saving for a 401 (k) because of AI. Business Insider's readers weren't on board.
+
+Business Insider • 16m ago
+
+---
+
+**[Is Anthropic’s Claude Cowork Forcing C3.ai (AI) To Rethink Its Core Platform Strategy?](https://finance.yahoo.com/news/anthropic-claude-cowork-forcing-c3-170836872.html)**
+
+C3.ai has recently faced a mix of positive contract wins, including U.S. Army logistics projects, and negative signals such as insider share sales and revenue declines, while continuing to post losses and margin pressure. An important takeaway is that Anthropic's launch of its Claude Cowork autonomous enterprise AI agent is challenging C3.ai’s traditional top-down platform model, sharpening investor focus on whether the company can adapt and convert pilots into durable, recurring revenue...
+
+Yahoo Finance • 40m ago
+
+---
+
+**[Andreessen Horowitz Investing Billions in AI Infrastructure Projects](https://www.pymnts.com/artificial-intelligence-2/2026/andreessen-horowitz-investing-billions-in-ai-infrastructure-projects/)**
+
+In 2024, Andreessen Horowitz set up a $1.25 billion fund for AI infrastructure projects. Now, the venture capital firm is committing an additional $1.7
+
+PYMNTS.com • 19m ago
 
 ---
 
@@ -165,29 +167,29 @@ The New York Times • 7h ago
 
 ---
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqcfE1YLGQSVDwjoKYPyw8orVnIUItbedlXcpqMNKXLMO-VbQmR7KXas&gaa_ts=696e5fe2&gaa_sig=to8li9R-Nsa5jPqT1OLMdmZKsN5s8XEtUukoiMju_eL-ftwgh_43GT4iXKzD8cqLqWeI731IZuC1exBnhCq_WQ%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfHaIv7VFQNj5TjAQNEdsoK-ulY1XyN--HthMpZ1qtdQQJKtzzz49Bt&gaa_ts=696e71dd&gaa_sig=o-e1TcuN0J5YrYRuePKy-TALLK6pL8MdG6tRDeVo22beTQf_qoviap_F3XL9np3Xhfz7x2NXgVUedthbgKzE4w%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
+**[Jeremy Grantham Says AI Is Indeed a Classic Market Bubble (Podcast)](https://www.bloomberg.com/news/articles/2026-01-19/jeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast)**
+
+Bloomberg.com • 12h ago
+
+---
+
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
-**[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
+**[3 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://www.fool.com/investing/2026/01/19/3-no-brainer-ai-stocks-to-buy-hand-over-fist-2026/)**
 
-OpenAI • 21h ago
+Buy stakes in companies combining scale, profitability, and durable demand across the AI technology stack.
 
----
-
-**[Micron Says AI-Driven Memory Crunch Is ‘Unprecedented’](https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html)**
-
-“The shortage we are seeing is really unprecedented,” Micron Executive Vice President of Operations Manish Bhatia said in an interview shortly after the chipmaker held a groundbreaking ceremony for a $100 billion production site outside Syracuse, New York, on Friday, amplifying a similar forecast the company provided in December.  High-bandwidth memory required to make artificial intelligence accelerators is “consuming so much of the available capacity across the industry that it’s leaving a tremendous shortage for the conventional side of the industry, for phones or PCs,” Bhatia said.
-
-Yahoo Finance • 13h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -199,13 +201,19 @@ Yahoo Finance • 13h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 266 • 💬 345 • 16h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 285 • 💬 378 • 16h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 179 • 💬 66 • 7h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 193 • 💬 73 • 7h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+
+---
+
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+
+⬆️ 114 • 💬 121 • 4h ago
 
 ---
 
@@ -213,7 +221,15 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 108 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 109 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+
+---
+
+**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
+
+: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
+
+⬆️ 98 • 💬 79 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -225,9 +241,11 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
-**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+**[Crypto grifters are recruiting open-source AI developers](https://news.ycombinator.com/item?id=46654878)**
 
-⬆️ 92 • 💬 86 • 4h ago
+--
+
+⬆️ 92 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -239,27 +257,11 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 ---
 
-**[Crypto grifters are recruiting open-source AI developers](https://news.ycombinator.com/item?id=46654878)**
-
---
-
-⬆️ 91 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
-
----
-
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 82 • 💬 50 • 22h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
-
----
-
-**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
-
-: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
-
-⬆️ 73 • 💬 30 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 84 • 💬 50 • 22h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -367,7 +369,7 @@ Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most importa
 
 📺 Alberta Tech
 
-👁️ 254K • 👍 14K • 💬 381 • ⏱️ 0:37 • 21h ago
+👁️ 254K • 👍 14K • 💬 381 • ⏱️ 0:37 • 22h ago
 
 ---
 
@@ -407,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,172 • 4h ago
+⬇️ 1,540,901 • ❤️ 1,172 • 5h ago
 
 ---
 
@@ -632,7 +634,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 8h ago
+⭐ 9.1k • 🔱 1.2k • 9h ago
 
 ---
 
@@ -642,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 404 • 23h ago
+⭐ 8.0k • 🔱 404 • 1d ago
 
 ---
 
@@ -672,7 +674,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 814 • 7h ago
+⭐ 5.0k • 🔱 814 • 8h ago
 
 ---
 
@@ -692,7 +694,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 169 • 1d ago
+⭐ 2.9k • 🔱 169 • 2d ago
 
 ---
 
@@ -702,7 +704,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 286 • 10h ago
+⭐ 2.0k • 🔱 286 • 11h ago
 
 ---
 
@@ -712,7 +714,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 1h ago
+⭐ 1.8k • 🔱 146 • 2h ago
 
 ---
 
