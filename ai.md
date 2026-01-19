@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T15:52:32.922354+00:00'
+updated: '2026-01-19T16:31:52.708351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 15:52 UTC  
+**Last Updated:** January 19, 2026 at 16:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
+
+Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 1h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1qh7wwj/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
+
+36m ago
+
+---
+
 **[Ant-backed Chinese AI agent developer DeepWisdom aims to help solo entrepreneurs](https://www.reddit.com/r/artificial/comments/1qh1pmw/antbacked_chinese_ai_agent_developer_deepwisdom/)**
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 4h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 5h ago
 
 ---
 
@@ -53,19 +69,27 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 ---
 
-**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
-
-Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 1h ago
-
----
-
 **[Computational Functionalism, Philosophy, and the Future of AI Consciousness](https://www.reddit.com/r/artificial/comments/1qh5dw5/computational_functionalism_philosophy_and_the/)**
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 1h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 2h ago
+
+---
+
+**[One-Minute Daily AI News 1/18/2026](https://www.reddit.com/r/artificial/comments/1qguqc9/oneminute_daily_ai_news_1182026/)**
+
+South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
+
+11h ago
+
+---
+
+**[Best AI model to build business plans?](https://www.reddit.com/r/artificial/comments/1qgya79/best_ai_model_to_build_business_plans/)**
+
+Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
+
+8h ago
 
 ---
 
@@ -85,35 +109,11 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 ---
 
-**[One-Minute Daily AI News 1/18/2026](https://www.reddit.com/r/artificial/comments/1qguqc9/oneminute_daily_ai_news_1182026/)**
-
-South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
-
-11h ago
-
----
-
 **[Elon Musk’s xAI launches world’s first Gigawatt AI supercluster to rival OpenAI and Anthropic](https://www.reddit.com/r/artificial/comments/1qgjzg6/elon_musks_xai_launches_worlds_first_gigawatt_ai/)**
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
 🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 19h ago
-
----
-
-**[Best AI model to build business plans?](https://www.reddit.com/r/artificial/comments/1qgya79/best_ai_model_to_build_business_plans/)**
-
-Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
-
-7h ago
-
----
-
-**[Cybernetic-style AI idea](https://www.reddit.com/r/artificial/comments/1qgs8s1/cyberneticstyle_ai_idea/)**
-
-Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
-
-13h ago
 
 ---
 
@@ -125,37 +125,7 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
 
-The Guardian • 4h ago
-
----
-
-**[Andreessen Horowitz Makes a $3 Billion Bet That There’s No AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Gartner: Global AI spending to reach $2.5 trillion in 2026](https://www.computerworld.com/article/4118671/gartner-global-ai-spending-to-reach-2-5-trillion-by-2026.html)**
-
-AI is currently in the "trough of disillusionment" according to Gartner.
-
-Computerworld • 55m ago
-
----
-
-**[Tom Snyder: AI customer service saves money, but at a cost to satisfaction](https://www.wral.com/business/technology/ai-emotion-customer-service-january-2026/)**
-
-The human brain doesn’t remember everything verbatim. It remembers meaning. Patterns. Emotional weight. That’s the standard customers are unconsciously applying when they interact with AI. And right now, AI falls short.
-
-WRAL • 27m ago
-
----
-
-**[EU looks to ban nudification apps following Grok outrage](https://www.politico.eu/article/eu-looks-ban-nudification-apps-under-blocs-ai-law/)**
-
-The proliferation of intimate deepfakes on X has raised questions over the bloc’s AI law.
-
-politico.eu • 31m ago
+The Guardian • 5h ago
 
 ---
 
@@ -167,15 +137,37 @@ CNN • 1d ago
 
 ---
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfE3F_rHFAgrkLYmwhS11SGIw1UBW6npZwEW0REPVoEvPGzIAEtmJ0o&gaa_ts=696e5166&gaa_sig=RuOBREsV0Ih1M4J4RpMGiGnw1NthhSUOUGOyCaRD3lxEhVH2G7Hl74DFNiMeCaHmSsh2lP7asrWx1YDKJ0WcGw%3D%3D)**
+**[Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)**
 
-The Wall Street Journal • 1d ago
+Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance.
+
+TechCrunch • 31m ago
+
+---
+
+**[Transformer architecture, the one innovation that supercharged AI: Best ideas of the century](https://www.newscientist.com/article/2510604-the-one-innovation-that-supercharged-ai-best-ideas-of-the-century/)**
+
+The most powerful artificial intelligence tools all have one thing in common. Whether they are writing poetry or predicting protein structures, they rely on the "transformer" architecture
+
+New Scientist • 28m ago
+
+---
+
+**[Mubadala CEO Al Mubarak on Monetization, AI, Private Credit](https://www.bloomberg.com/news/videos/2026-01-19/mubadala-ceo-on-monetization-ai-private-credit-video)**
+
+Bloomberg.com • 45m ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
+
+---
+
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqcfE1YLGQSVDwjoKYPyw8orVnIUItbedlXcpqMNKXLMO-VbQmR7KXas&gaa_ts=696e5fe2&gaa_sig=to8li9R-Nsa5jPqT1OLMdmZKsN5s8XEtUukoiMju_eL-ftwgh_43GT4iXKzD8cqLqWeI731IZuC1exBnhCq_WQ%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -185,11 +177,17 @@ Axios • 3h ago
 
 ---
 
+**[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
+
+OpenAI • 20h ago
+
+---
+
 **[Micron Says AI-Driven Memory Crunch Is ‘Unprecedented’](https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html)**
 
 “The shortage we are seeing is really unprecedented,” Micron Executive Vice President of Operations Manish Bhatia said in an interview shortly after the chipmaker held a groundbreaking ceremony for a $100 billion production site outside Syracuse, New York, on Friday, amplifying a similar forecast the company provided in December.  High-bandwidth memory required to make artificial intelligence accelerators is “consuming so much of the available capacity across the industry that it’s leaving a tremendous shortage for the conventional side of the industry, for phones or PCs,” Bhatia said.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -201,13 +199,13 @@ Yahoo Finance • 11h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 234 • 💬 300 • 15h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 266 • 💬 345 • 15h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 158 • 💬 59 • 5h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 179 • 💬 66 • 6h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
@@ -215,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 106 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 108 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -223,7 +221,13 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 97 • 💬 84 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 97 • 💬 85 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+
+---
+
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+
+⬆️ 92 • 💬 86 • 3h ago
 
 ---
 
@@ -247,21 +251,15 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 82 • 💬 50 • 20h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 82 • 💬 50 • 21h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
-**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
 
-⬆️ 75 • 💬 47 • 2h ago
+: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
----
-
-**[Starlink updates Privacy Policy to allow AI model training with personal data](https://news.ycombinator.com/item?id=46647716)**
-
-Starlink quietly enabled third-party AI model training on its customers' personal data by default. Fortunately, there's a way to opt out.
-
-⬆️ 55 • 💬 11 • 3d ago • [Coywolf](https://coywolf.com/news/startups/starlink-updates-tos-to-allow-ai-model-training-with-personal-data/)
+⬆️ 73 • 💬 30 • 1h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -341,7 +339,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 189 • 💬 11 • ⏱️ 9:45 • 23h ago
+👁️ 7K • 👍 189 • 💬 11 • ⏱️ 9:45 • 1d ago
 
 ---
 
@@ -351,7 +349,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.6M • 👍 62K • 💬 6K • ⏱️ 15:50 • 20h ago
+👁️ 1.6M • 👍 62K • 💬 6K • ⏱️ 15:50 • 21h ago
 
 ---
 
@@ -431,7 +429,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 305 • 1h ago
+⬇️ 26,093 • ❤️ 305 • 2h ago
 
 ---
 
@@ -604,7 +602,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 30 • 💬 3 • ⭐ 1,347 • 13d ago
+▲ 30 • 💬 3 • ⭐ 1,347 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -684,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 1h ago
+⭐ 3.7k • 🔱 3.6k • 2h ago
 
 ---
 
@@ -704,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 286 • 9h ago
+⭐ 2.0k • 🔱 286 • 10h ago
 
 ---
 
@@ -714,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 7m ago
+⭐ 1.8k • 🔱 146 • 46m ago
 
 ---
 

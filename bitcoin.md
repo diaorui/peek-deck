@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T15:52:32.933472+00:00'
+updated: '2026-01-19T16:31:52.716789+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 15:52 UTC  
+**Last Updated:** January 19, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,039.26
+### $93,117.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -2.5%  
-**30d:** +4.9%  
-**90d:** -13.6%  
-**1y:** -9.1%  
+**24h:** -2.2%  
+**7d:** -2.3%  
+**30d:** +5.1%  
+**90d:** -13.4%  
+**1y:** -8.9%  
 
 ---
 
@@ -77,20 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-11h ago
-
----
-
-**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
-
-Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
-
-11h ago
-
----
-
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
 1h ago
@@ -107,7 +93,13 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-1h ago
+2h ago
+
+---
+
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+12h ago
 
 ---
 
@@ -115,7 +107,21 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-3h ago
+4h ago
+
+---
+
+**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
+
+Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
+
+12h ago
+
+---
+
+**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+
+2h ago
 
 ---
 
@@ -127,29 +133,81 @@ I can do this all day
 
 ---
 
-**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+**[US crypto regulation coming soon: Coinbase expects approval within 30 days](https://www.reddit.com/r/Bitcoin/comments/1qh5p5t/us_crypto_regulation_coming_soon_coinbase_expects/)**
 
-2h ago
+Coinbase says the U.S. cryptocurrency market structure bill could be passed within about a month if Congress can find a final compromise.
+
+1h ago
 
 ---
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-10h ago
-
----
-
-**[Just bought the dip with 50 bucks](https://www.reddit.com/r/Bitcoin/comments/1qgr1e9/just_bought_the_dip_with_50_bucks/)**
-
-If it goes down to 88 will buy some more
-
-13h ago
+11h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+
+traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
+
+Forbes • 3h ago
+
+---
+
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+Gizmodo • 22h ago
+
+---
+
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 1d ago
+
+---
+
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcWBupsEiY1GE8bBgpWrAjYS-yUSDmuukv85b70TtEQtgwNn61YK7Fq&gaa_ts=696e5fe0&gaa_sig=LfQKaLL4oe7ORgukDoITnWylUaDBUSOQShcIZXQ7B97xPTunYMZ12piNVuM6MvRkTxw2tM6GRFrDyHVhdOjbdA%3D%3D)**
+
+MarketWatch • 1h ago
+
+---
+
+**[The Daily: Bitcoin slips as US-EU tariff war fears mount, NYSE develops 24/7 tokenized securities trading platform, and more](https://www.theblock.co/post/386142/the-daily-bitcoin-slips-as-us-eu-tariff-war-fears-mount-nyse-develops-24-7-tokenized-securities-trading-platform-and-more)**
+
+The Block • 30m ago
+
+---
+
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
+
+Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+
+A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+
+Yahoo Finance • 21h ago
+
+---
 
 **[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
@@ -159,65 +217,9 @@ CNBC • 2d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
-
-XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/19/should-you-forget-bitcoin-and-buy-xrp-instead/)**
-
-Don't ignore Bitcoin's historical track record of success.
-
-The Motley Fool • 2h ago
-
----
-
-**[Where Will Bitcoin Be in 3 Years?](https://www.nasdaq.com/articles/where-will-bitcoin-be-3-years-0)**
-
-Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
-
-Nasdaq • 4h ago
-
----
-
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfsbgtMyQO3UcFgImqc_3Lt0iBDQZppxwnaUjsucfu0xTfqtfIHhSwz&gaa_ts=696e5168&gaa_sig=sMpDNQMGasYXAi9OIYN6ZAHaWDwTAXecs72gl2fjFv7L7qiY5Oy5TrZUiQRUwmsjErS8EirUEBV8Tw3_5iybRg%3D%3D)**
-
-MarketWatch • 33m ago
-
----
-
-**[Paradex's 'free bitcoin' pricing glitch triggers mass liquidations, forces rollback](https://www.theblock.co/post/386128/paradexs-free-bitcoin-pricing-glitch-triggers-mass-liquidations-forces-rollback)**
-
-The Block • 1h ago
-
----
-
-**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqcK9tKr23LuAtF1Gq888B-7I27X04otKSAqdmQtKPdk71bHBZoN5ht3&gaa_ts=696e5168&gaa_sig=fsE8Ij0aHSxIVTcLPa6yyYrO7RT3BZoZ0p1NjiSjnbRrDqmSkIWcs9HceS4NS7zmrseMh44Vht55YKP9Up8GcQ%3D%3D)**
-
-Barron's • 5h ago
-
----
-
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
 The New York Times • 3d ago
-
----
-
-**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
-
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-Gizmodo • 21h ago
-
----
-
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg.com • 3d ago
 
 ---
 
@@ -229,7 +231,7 @@ Bloomberg.com • 3d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 3 • 💬 1 • 2h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 3 • 💬 1 • 3h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -253,7 +255,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 5h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 6h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -311,7 +313,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 417 • ⏱️ 6:08 • 12h ago
+👁️ 31K • 👍 2K • 💬 417 • ⏱️ 6:08 • 13h ago
 
 ---
 
@@ -331,7 +333,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 430 • ⏱️ 14:15 • 18h ago
+👁️ 75K • 👍 3K • 💬 430 • ⏱️ 14:15 • 19h ago
 
 ---
 
@@ -341,7 +343,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 10h ago
+👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 11h ago
 
 ---
 
@@ -351,7 +353,7 @@ In today's video, Kyledoops shows you why a large cohort of people are positione
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 25 • ⏱️ 26:58 • 7h ago
+👁️ 16K • 👍 1K • 💬 25 • ⏱️ 26:58 • 8h ago
 
 ---
 
@@ -361,7 +363,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 718 • 👍 190 • 💬 95 • ⏱️ 12:22 • 54m ago
+👁️ 718 • 👍 190 • 💬 95 • ⏱️ 12:22 • 1h ago
 
 ---
 
@@ -371,7 +373,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 533 • 💬 93 • ⏱️ 5:22 • 9h ago
+👁️ 7K • 👍 533 • 💬 93 • ⏱️ 5:22 • 10h ago
 
 ---
 
@@ -381,7 +383,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 7K • 👍 943 • 💬 177 • ⏱️ 8:03 • 6h ago
+👁️ 7K • 👍 943 • 💬 177 • ⏱️ 8:03 • 7h ago
 
 ---
 

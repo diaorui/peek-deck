@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T15:52:32.945519+00:00'
+updated: '2026-01-19T16:31:52.726022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 15:52 UTC  
+**Last Updated:** January 19, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-44m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
 
-6h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byoro
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -132,15 +132,15 @@ Futurism • 2d ago
 
 Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-WRGB • 1d ago
+Fortune • 1h ago
 
 ---
 
@@ -160,6 +160,14 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 1d ago
+
+---
+
 **[Scholastic Spotlight: Newton Robotics Upgrade](https://www.yahoo.com/news/articles/scholastic-spotlight-newton-robotics-upgrade-124507205.html)**
 
 Robotics continues to be a growing extracurricular in Central Iowa Schools with programs doubling in participation in many of those schools. With the growth, schools are upgrading robotics to the classroom. In Newton, the high school will soon have a robotics classroom thanks to growing interest, funding and awards. Newton High School and Team Newbotics […]
@@ -168,25 +176,18 @@ Yahoo • 3h ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1h ago
-
----
-
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 4h ago
-
----
-
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
 SciTechDaily • 1d ago
+
+---
+
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
