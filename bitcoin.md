@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T14:55:54.604622+00:00'
+updated: '2026-01-19T15:30:11.962293+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 14:55 UTC  
+**Last Updated:** January 19, 2026 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,967.15
+### $93,039.26
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.3%  
-**7d:** -2.6%  
-**30d:** +4.8%  
-**90d:** -13.7%  
-**1y:** -9.3%  
+**7d:** -2.5%  
+**30d:** +4.9%  
+**90d:** -13.6%  
+**1y:** -9.1%  
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-10h ago
-
----
-
-**[Which you picking?](https://www.reddit.com/r/Bitcoin/comments/1qh33sd/which_you_picking/)**
-
-2h ago
+11h ago
 
 ---
 
@@ -97,9 +91,21 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 ---
 
+**[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
+
+47m ago
+
+---
+
 **[The BTC market doesn’t close](https://www.reddit.com/r/Bitcoin/comments/1qh4mn6/the_btc_market_doesnt_close/)**
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
+
+1h ago
+
+---
+
+**[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
 1h ago
 
@@ -109,7 +115,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-2h ago
+3h ago
 
 ---
 
@@ -121,15 +127,15 @@ I can do this all day
 
 ---
 
-**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
-
-9h ago
-
----
-
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
 1h ago
+
+---
+
+**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
+
+10h ago
 
 ---
 
@@ -141,25 +147,9 @@ If it goes down to 88 will buy some more
 
 ---
 
-**[Mentor Monday, January 19, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1qgxhl3/mentor_monday_january_19_2026_ask_all_your/)**
-
-Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
-
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-Gizmodo • 20h ago
-
----
 
 **[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
@@ -169,35 +159,45 @@ CNBC • 1d ago
 
 ---
 
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
+
+XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/19/should-you-forget-bitcoin-and-buy-xrp-instead/)**
 
 Don't ignore Bitcoin's historical track record of success.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Crypto exchange rolls back its blockchain after glitch prices bitcoin at $0](https://www.coindesk.com/business/2026/01/19/paradex-rolls-back-blockchain-after-data-glitch-valuing-bitcoin-at-usd0-triggers-mass-liquidations)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.nasdaq.com/articles/where-will-bitcoin-be-3-years-0)**
 
-Starknet-based DEX Paradex reversed its blockchain to an earlier block after a database migration error briefly crashed bitcoin’s price to zero.
+Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin hashrate drops 15% from October high as miner capitulation drags into almost 60 days](https://www.coindesk.com/markets/2026/01/19/btc-hashrate-drops-15-from-october-high-as-miner-capitulation-drags-into-almost-60-days)**
-
-Bitcoin mining difficulty set for a 4% decline, the seventh negative adjustment in the past eight.
-
-CoinDesk • 2h ago
+Nasdaq • 3h ago
 
 ---
 
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfsbgtMyQO3UcFgImqc_3Lt0iBDQZppxwnaUjsucfu0xTfqtfIHhSwz&gaa_ts=696e5168&gaa_sig=sMpDNQMGasYXAi9OIYN6ZAHaWDwTAXecs72gl2fjFv7L7qiY5Oy5TrZUiQRUwmsjErS8EirUEBV8Tw3_5iybRg%3D%3D)**
 
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+MarketWatch • 11m ago
 
-Yahoo Finance • 19h ago
+---
+
+**[Paradex's 'free bitcoin' pricing glitch triggers mass liquidations, forces rollback](https://www.theblock.co/post/386128/paradexs-free-bitcoin-pricing-glitch-triggers-mass-liquidations-forces-rollback)**
+
+The Block • 1h ago
+
+---
+
+**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqcK9tKr23LuAtF1Gq888B-7I27X04otKSAqdmQtKPdk71bHBZoN5ht3&gaa_ts=696e5168&gaa_sig=fsE8Ij0aHSxIVTcLPa6yyYrO7RT3BZoZ0p1NjiSjnbRrDqmSkIWcs9HceS4NS7zmrseMh44Vht55YKP9Up8GcQ%3D%3D)**
+
+Barron's • 4h ago
 
 ---
 
@@ -207,31 +207,31 @@ The New York Times • 3d ago
 
 ---
 
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+Gizmodo • 21h ago
+
+---
+
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 3d ago
 
 ---
 
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 1d ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Disclosure of Aliens Could Cause Bitcoin Rush – Former Bank of England Analyst](https://news.ycombinator.com/item?id=46678682)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+⬆️ 3 • 💬 1 • 2h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+
+---
 
 **[Show HN: ClientsOK – Forensic e-signature anchored on Bitcoin (eIDAS compliant)](https://news.ycombinator.com/item?id=46647591)**
 
@@ -249,19 +249,11 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 ---
 
-**[Disclosure of Aliens Could Cause Bitcoin Rush – Former Bank of England Analyst](https://news.ycombinator.com/item?id=46678682)**
-
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-⬆️ 2 • 💬 1 • 1h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
-
----
-
 **[Led by Texas, New Hampshire, U.S. states put Bitcoin on public balance sheet](https://news.ycombinator.com/item?id=46677022)**
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 4h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 5h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -319,7 +311,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 11h ago
+👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 12h ago
 
 ---
 
@@ -339,7 +331,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 17h ago
+👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 18h ago
 
 ---
 
@@ -349,7 +341,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 8h ago
+👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 9h ago
 
 ---
 
@@ -359,7 +351,7 @@ In today's video, Kyledoops shows you why a large cohort of people are positione
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 6h ago
+👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 7h ago
 
 ---
 
@@ -369,7 +361,7 @@ The crypto market has experienced a sharp drop over the last day, and everyone a
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 4h ago
+👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 5h ago
 
 ---
 
@@ -379,7 +371,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 14h ago
+👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 15h ago
 
 ---
 
@@ -389,7 +381,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 NieDoZajechania
 
-👁️ 6K • 👍 3K • 3h ago
+👁️ 6K • 👍 3K • 4h ago
 
 ---
 

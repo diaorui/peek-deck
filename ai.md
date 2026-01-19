@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T14:55:54.596948+00:00'
+updated: '2026-01-19T15:30:11.954946+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 14:55 UTC  
+**Last Updated:** January 19, 2026 at 15:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 3h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 4h ago
 
 ---
 
@@ -53,11 +53,19 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 ---
 
+**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
+
+Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 51m ago
+
+---
+
 **[Computational Functionalism, Philosophy, and the Future of AI Consciousness](https://www.reddit.com/r/artificial/comments/1qh5dw5/computational_functionalism_philosophy_and_the/)**
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 35m ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 1h ago
 
 ---
 
@@ -85,19 +93,19 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 ---
 
-**[Best AI model to build business plans?](https://www.reddit.com/r/artificial/comments/1qgya79/best_ai_model_to_build_business_plans/)**
-
-Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
-
-6h ago
-
----
-
 **[Elon Musk’s xAI launches world’s first Gigawatt AI supercluster to rival OpenAI and Anthropic](https://www.reddit.com/r/artificial/comments/1qgjzg6/elon_musks_xai_launches_worlds_first_gigawatt_ai/)**
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
 🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 18h ago
+
+---
+
+**[Best AI model to build business plans?](https://www.reddit.com/r/artificial/comments/1qgya79/best_ai_model_to_build_business_plans/)**
+
+Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
+
+7h ago
 
 ---
 
@@ -109,14 +117,6 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 ---
 
-**[Explainability and Interpretability of Multilingual Large Language Models: A Survey](https://www.reddit.com/r/artificial/comments/1qgf995/explainability_and_interpretability_of/)**
-
-https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
-
-21h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,37 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
 
-The Guardian • 3h ago
+The Guardian • 4h ago
+
+---
+
+**[Andreessen Horowitz Makes a $3 Billion Bet That There’s No AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Gartner: Global AI spending to reach $2.5 trillion in 2026](https://www.computerworld.com/article/4118671/gartner-global-ai-spending-to-reach-2-5-trillion-by-2026.html)**
+
+AI is currently in the "trough of disillusionment" according to Gartner.
+
+Computerworld • 33m ago
+
+---
+
+**[Tom Snyder: AI customer service saves money, but at a cost to satisfaction](https://www.wral.com/business/technology/ai-emotion-customer-service-january-2026/)**
+
+The human brain doesn’t remember everything verbatim. It remembers meaning. Patterns. Emotional weight. That’s the standard customers are unconsciously applying when they interact with AI. And right now, AI falls short.
+
+WRAL • 5m ago
+
+---
+
+**[EU looks to ban nudification apps following Grok outrage](https://www.politico.eu/article/eu-looks-ban-nudification-apps-under-blocs-ai-law/)**
+
+The proliferation of intimate deepfakes on X has raised questions over the bloc’s AI law.
+
+politico.eu • 9m ago
 
 ---
 
@@ -137,23 +167,15 @@ CNN • 1d ago
 
 ---
 
-**[What the Numbers Show About AI’s Harms](https://time.com/7346091/ai-harm-risk/)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfE3F_rHFAgrkLYmwhS11SGIw1UBW6npZwEW0REPVoEvPGzIAEtmJ0o&gaa_ts=696e5166&gaa_sig=RuOBREsV0Ih1M4J4RpMGiGnw1NthhSUOUGOyCaRD3lxEhVH2G7Hl74DFNiMeCaHmSsh2lP7asrWx1YDKJ0WcGw%3D%3D)**
 
-Incidents arising from use of the technology, such as deepfake-enabled scams and chatbot-induced delusions have been rising steadily.
-
-Time Magazine • 49m ago
-
----
-
-**[Can AI really replace your SEO team?](https://www.fastcompany.com/91476717/can-ai-really-replace-your-seo-team)**
-
-Fast Company • 49m ago
+The Wall Street Journal • 1d ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -163,29 +185,11 @@ Axios • 2h ago
 
 ---
 
-**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble)**
+**[Micron Says AI-Driven Memory Crunch Is ‘Unprecedented’](https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html)**
 
-Bloomberg.com • 2h ago
+“The shortage we are seeing is really unprecedented,” Micron Executive Vice President of Operations Manish Bhatia said in an interview shortly after the chipmaker held a groundbreaking ceremony for a $100 billion production site outside Syracuse, New York, on Friday, amplifying a similar forecast the company provided in December.  High-bandwidth memory required to make artificial intelligence accelerators is “consuming so much of the available capacity across the industry that it’s leaving a tremendous shortage for the conventional side of the industry, for phones or PCs,” Bhatia said.
 
----
-
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdiYp6blD9T2nrwhyGfhEERY4sRZjI777WUMa_gkUYeTe2ekrEJYXQT&gaa_ts=696e431d&gaa_sig=1GWQNTOz2j7jQg04bSy2p9kadMJWzHu0Lrjut1NIsrFAtpUnr8QWOKd13PbE36GNVL7CUzmofOqrZ2Oh-Y7E6Q%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[IMF warns global economic resilience at risk if AI falters](https://www.ft.com/content/2af4d92a-452c-4d35-ab55-3afce930f98a)**
-
-Fund’s chief economist says there are reasons to be concerned about a potential AI correction
-
-Financial Times • 5h ago
-
----
-
-**[IMF Warns AI, Trade Pose Risks to Solid Global Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-19/imf-warns-ai-trade-pose-risks-to-solid-global-growth-outlook)**
-
-Bloomberg.com • 5h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -197,13 +201,13 @@ Bloomberg.com • 5h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 210 • 💬 275 • 14h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 234 • 💬 300 • 14h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 143 • 💬 55 • 4h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 158 • 💬 59 • 5h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
@@ -219,7 +223,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 96 • 💬 82 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 97 • 💬 84 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -235,7 +239,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 --
 
-⬆️ 90 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 91 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -243,7 +247,13 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 81 • 💬 49 • 19h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 82 • 💬 50 • 20h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+
+---
+
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+
+⬆️ 75 • 💬 47 • 2h ago
 
 ---
 
@@ -263,12 +273,6 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ---
 
-**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
-
-⬆️ 41 • 💬 17 • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -279,7 +283,7 @@ Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 
 
 📺 Journey With The Hintons
 
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 11:46 • 18h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 11:46 • 19h ago
 
 ---
 
@@ -297,7 +301,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 814 • 💬 56 • ⏱️ 7:01 • 23h ago
+👁️ 15K • 👍 814 • 💬 56 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -307,7 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 92K • 👍 4K • 💬 569 • ⏱️ 19:38 • 1d ago
+👁️ 92K • 👍 4K • 💬 569 • ⏱️ 19:38 • 2d ago
 
 ---
 
@@ -327,7 +331,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.5M • 👍 59K • 💬 6K • ⏱️ 15:50 • 19h ago
+👁️ 1.5M • 👍 59K • 💬 6K • ⏱️ 15:50 • 20h ago
 
 ---
 
@@ -337,7 +341,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 179 • 💬 11 • ⏱️ 9:45 • 22h ago
+👁️ 6K • 👍 179 • 💬 11 • ⏱️ 9:45 • 23h ago
 
 ---
 
@@ -367,7 +371,7 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 109K • 👍 7K • 💬 934 • ⏱️ 9:27 • 23h ago
+👁️ 109K • 👍 7K • 💬 934 • ⏱️ 9:27 • 1d ago
 
 ---
 
