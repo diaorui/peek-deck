@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T21:20:58.667634+00:00'
+updated: '2026-01-19T21:42:53.533556+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 21:20 UTC  
+**Last Updated:** January 19, 2026 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,193.15
+### $93,076.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -2.3%  
-**30d:** +5.1%  
-**90d:** -13.4%  
-**1y:** -9.0%  
+**24h:** -2.6%  
+**7d:** -2.5%  
+**30d:** +5.0%  
+**90d:** -13.5%  
+**1y:** -9.1%  
 
 ---
 
@@ -83,6 +83,14 @@ Rank #1
 
 ---
 
+**[Anyone?](https://www.reddit.com/r/Bitcoin/comments/1qh8zwo/anyone/)**
+
+Hard to buy the dip when you're already all in!
+
+5h ago
+
+---
+
 **[The BTC market doesn’t close](https://www.reddit.com/r/Bitcoin/comments/1qh4mn6/the_btc_market_doesnt_close/)**
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
@@ -93,15 +101,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-6h ago
-
----
-
-**[Anyone?](https://www.reddit.com/r/Bitcoin/comments/1qh8zwo/anyone/)**
-
-Hard to buy the dip when you're already all in!
-
-4h ago
+7h ago
 
 ---
 
@@ -113,15 +113,15 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 ---
 
-**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
+**[This sub asked so I rebuilt it. Bitcoin company trackers, all free data, and now with a chat. This is how we Bitcoiners orange pill Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1qhdjaa/this_sub_asked_so_i_rebuilt_it_bitcoin_company/)**
 
 2h ago
 
 ---
 
-**[This sub asked so I rebuilt it. Bitcoin company trackers, all free data, and now with a chat. This is how we Bitcoiners orange pill Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1qhdjaa/this_sub_asked_so_i_rebuilt_it_bitcoin_company/)**
+**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcZ_F0wiHB6APjGp5jOn6CYFfAgmxlI6Nw9fO5Of-TBg4yjK1lCxMzv&gaa_ts=696e96d2&gaa_sig=J_Nxa1TzePyVkjECUKt263eOqeSiSHoJuFobDWzyBmssiZ9dfrwyRh9boA86n-BRD3jLpQuFIwZPI7nEes7YzQ%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcYyTG519IQPny5bxFIriaend9S4X_TNle8lVdT4BH3lUeM3UE4avS2&gaa_ts=696ea8c5&gaa_sig=OUkxEyP4VJmXwO2JVmrc5bV6Ks08Z6fbxdCm36aNTts5tl-Hkd7HbJmphDkyZdPizBI0gAUmwPgjPauUoTL1_A%3D%3D)**
 
 MarketWatch • 6h ago
 
@@ -169,9 +169,19 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
 
-Bloomberg.com • 10h ago
+Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+
+A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -183,19 +193,19 @@ CNBC • 2d ago
 
 ---
 
-**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
-
-traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
-
-Forbes • 7h ago
-
----
-
 **[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
 Gizmodo • 1d ago
+
+---
+
+**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+
+traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
+
+Forbes • 8h ago
 
 ---
 
@@ -205,19 +215,11 @@ The New York Times • 3d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-xrp-instead-3)**
+**[Steak ‘n Shake Adds $10 Million in Bitcoin Exposure Alongside BTC 'Strategic Reserve'](https://decrypt.co/355051/steak-shake-10-million-bitcoin-exposure-alongside-btc-strategic-reserve)**
 
-Key PointsSince 2018, Bitcoin is up more than 600%, while XRP has lost 44% of its value.
+Restaurant chain Steak ‘n Shake is doubling down on Bitcoin after crediting the crypto asset with driving rising sales last year.
 
-Nasdaq • 7h ago
-
----
-
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
-
-XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
-
-Yahoo Finance • 1d ago
+Decrypt • 1h ago
 
 ---
 
@@ -229,7 +231,7 @@ Yahoo Finance • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 7h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 8h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -254,14 +256,6 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
 ⬆️ 2 • 💬 1 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
-
----
-
-**[Show HN: BitStory – a Bitcoin-native protocol for on-chain time capsules](https://news.ycombinator.com/item?id=46593968)**
-
-Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
-
-⬆️ 2 • 💬 1 • 7d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -298,6 +292,14 @@ An apartment building can be turned into a huge cryptocurrency exchange
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
 ⬆️ 4 • 💬 5 • 3d ago
+
+---
+
+**[Finding Prime Clusters](https://news.ycombinator.com/item?id=46672379)**
+
+Finding prime clusters is computationally challenging, but solutions are easy to verify. It is used as the proof-of-work task in the Riecoin cryptocurrency.
+
+⬆️ 2 • 💬 0 • 1d ago • [John D. Cook | Applied Mathematics Consulting](https://www.johndcook.com/blog/2026/01/18/prime-clusters-riecoin/)
 
 ---
 
@@ -341,7 +343,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 444 • ⏱️ 6:08 • 17h ago
+👁️ 35K • 👍 2K • 💬 444 • ⏱️ 6:08 • 18h ago
 
 ---
 
@@ -381,7 +383,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 366 • 💬 247 • ⏱️ 16:30 • 15h ago
+👁️ 7K • 👍 366 • 💬 247 • ⏱️ 16:30 • 16h ago
 
 ---
 

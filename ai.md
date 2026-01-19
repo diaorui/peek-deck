@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T21:20:58.659086+00:00'
+updated: '2026-01-19T21:42:53.524929+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 21:20 UTC  
+**Last Updated:** January 19, 2026 at 21:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 6h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 9h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 10h ago
 
 ---
 
@@ -109,11 +109,11 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 ---
 
-**[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
+**[Elon Musk’s xAI launches world’s first Gigawatt AI supercluster to rival OpenAI and Anthropic](https://www.reddit.com/r/artificial/comments/1qgjzg6/elon_musks_xai_launches_worlds_first_gigawatt_ai/)**
 
-After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
+Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-1d ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 1d ago
 
 ---
 
@@ -121,23 +121,9 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 ## Google News: "ai"
 
-**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
-
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
-
-The Guardian • 1d ago
-
----
-
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
 The New York Times • 11h ago
-
----
-
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdRggjuPBfkG4FKQGWlvn3dhtfevMiBsBZoPRiSZfV9Dgf0J5WF8jcl&gaa_ts=696e96d0&gaa_sig=oPs0IdcUTsFKxb1JUOu_tRrHkcwoMwFWb40GqnPHujxL1DZK3bboAl9ixN2uJXFMqMtNp9xPGJF7F-nXCkZX_A%3D%3D)**
-
-The Wall Street Journal • 2d ago
 
 ---
 
@@ -149,9 +135,37 @@ CNN • 1d ago
 
 ---
 
-**[Jeremy Grantham Says AI Is Indeed a Classic Market Bubble (Podcast)](https://www.bloomberg.com/news/articles/2026-01-19/jeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast)**
+**[Korea Kicks Off AI Squid Game in Bid to Compete with US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 42m ago
+
+---
+
+**[3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency](https://www.fool.com/investing/2026/01/19/3-artificial-intelligence-ai-stocks-with-more-pote/)**
+
+SoundHound AI, Lemonade, and CoreWeave will all profit from that secular trend.
+
+The Motley Fool • 41m ago
+
+---
+
+**[What to watch at Davos 2026 tariffs, AI, and wars crowd the agenda](https://qz.com/davos-2026-preview-trump-ai-geopolitics-tariffs-war)**
+
+qz.com • 25m ago
+
+---
+
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdiZpSJjvbjQkIuTutX9DFaSBP8yu-4eBEIP6JABoBWFwTvfld4kCB-&gaa_ts=696ea8c4&gaa_sig=IHgRX2VF8ISXpFyGisxrqSFSTGqlBadbPhTOeWA44VNle92p-fmFDD4AkDLxsp37vpICPB5EKYOUF65AaFLLfA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
+
+AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+
+The Guardian • 1d ago
 
 ---
 
@@ -171,21 +185,7 @@ OpenAI • 1d ago
 
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 8h ago
-
----
-
-**[What the Numbers Show About AI’s Harms](https://time.com/7346091/ai-harm-risk/)**
-
-Incidents arising from use of the technology, such as deepfake-enabled scams and chatbot-induced delusions have been rising steadily.
-
-Time Magazine • 7h ago
-
----
-
-**[AI is becoming your new work colleague. But let's not forget the human ones](https://www.weforum.org/stories/2026/01/ai-agentic-workplace-human-resources/)**
-
-The World Economic Forum • 11h ago
+Axios • 9h ago
 
 ---
 
@@ -197,19 +197,19 @@ The World Economic Forum • 11h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 290 • 💬 400 • 20h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 292 • 💬 407 • 20h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 206 • 💬 82 • 11h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 208 • 💬 82 • 11h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 139 • 💬 147 • 8h ago
+⬆️ 141 • 💬 152 • 8h ago
 
 ---
 
@@ -217,7 +217,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 109 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 110 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -225,7 +225,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 103 • 💬 106 • 6h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 104 • 💬 111 • 6h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -233,7 +233,15 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 97 • 💬 85 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 98 • 💬 85 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+
+---
+
+**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
+
+ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
+
+⬆️ 93 • 💬 73 • 3h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -257,15 +265,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 84 • 💬 52 • 1d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
-
----
-
-**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
-
-ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
-
-⬆️ 82 • 💬 60 • 2h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 84 • 💬 54 • 1d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -367,7 +367,7 @@ Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 e
 
 📺 Dumanity
 
-👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 12h ago
+👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 13h ago
 
 ---
 
@@ -632,7 +632,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 12h ago
+⭐ 9.1k • 🔱 1.2k • 13h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 819 • 11h ago
+⭐ 5.0k • 🔱 819 • 12h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 288 • 14h ago
+⭐ 2.0k • 🔱 288 • 15h ago
 
 ---
 

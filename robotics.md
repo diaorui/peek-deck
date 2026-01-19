@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T21:20:58.677096+00:00'
+updated: '2026-01-19T21:42:53.542986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 21:20 UTC  
+**Last Updated:** January 19, 2026 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,14 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 ---
 
+**[Demo robot mirokai](https://www.reddit.com/r/robotics/comments/1qhcnql/demo_robot_mirokai/)**
+
+afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
+
+3h ago
+
+---
+
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
 1d ago
@@ -58,15 +66,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-3h ago
-
----
-
-**[Demo robot mirokai](https://www.reddit.com/r/robotics/comments/1qhcnql/demo_robot_mirokai/)**
-
-afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
-
-2h ago
+4h ago
 
 ---
 
@@ -114,14 +114,6 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 ## Google News: "robotics"
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 6h ago
-
----
-
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
@@ -130,17 +122,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
-
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
-
-WRGB • 1d ago
-
----
-
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -152,11 +136,35 @@ Interesting Engineering • 14h ago
 
 ---
 
-**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
+**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
 
-Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
+The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
 
-Forbes • 1h ago
+South China Morning Post • 9h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 6h ago
+
+---
+
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 1d ago
+
+---
+
+**[Top LEGO robotics teams compete at Oregon championship in Hillsboro](https://www.kptv.com/2026/01/18/top-lego-robotics-teams-compete-oregon-championship-hillsboro/)**
+
+Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
+
+KPTV • 1d ago
 
 ---
 
@@ -172,22 +180,13 @@ The Motley Fool • 3d ago
 
 Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-The Robot Report • 7h ago
+The Robot Report • 8h ago
 
 ---
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
 SciTechDaily • 1d ago
-
----
-
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
-
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
-
-Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -219,7 +218,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 22K • 💬 7 • ⏱️ 0:07 • 11h ago
+👁️ 22K • 💬 7 • ⏱️ 0:07 • 12h ago
 
 ---
 
@@ -269,7 +268,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 294K • 👍 13K • 💬 216 • ⏱️ 0:49 • 4d ago
+👁️ 294K • 👍 13K • 💬 216 • ⏱️ 0:49 • 5d ago
 
 ---
 
