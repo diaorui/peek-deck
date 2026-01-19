@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T22:47:09.288652+00:00'
+updated: '2026-01-19T23:21:54.382323+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 22:47 UTC  
+**Last Updated:** January 19, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 8h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 9h ago
 
 ---
 
@@ -97,7 +97,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-17h ago
+18h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNN • 1d ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
 **[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ Bloomberg.com • 37m ago
 
 Which of these AI underdogs has a better shot at a turnaround?
 
-The Motley Fool • 44m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Why companies need to build products with global AI compliance in mind](https://www.fastcompany.com/91473586/why-companies-need-to-build-products-with-global-ai-compliance-in-mind)**
 
-Fast Company • 44m ago
+Fast Company • 1h ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -197,19 +197,19 @@ Axios • 9h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 294 • 💬 410 • 21h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 294 • 💬 410 • 22h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 213 • 💬 83 • 12h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 213 • 💬 83 • 13h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 143 • 💬 156 • 9h ago
+⬆️ 143 • 💬 156 • 10h ago
 
 ---
 
@@ -225,7 +225,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 104 • 💬 111 • 7h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 104 • 💬 111 • 8h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -279,7 +279,25 @@ STOP Paying!! 3 UNCENSORED AI Video Generators That Are Actually FREE Start Prin
 
 📺 Brain Project
 
-👁️ 1K • 👍 115 • 💬 45 • ⏱️ 10:51 • 8h ago
+👁️ 3K • 👍 158 • 💬 69 • ⏱️ 10:51 • 9h ago
+
+---
+
+**[Use Google’s New AI Release to Build a $10K/Month Empire (Before It’s Too Late)](https://www.youtube.com/watch?v=_-O4b2SDQKo)**
+
+Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 29th-Feb 17th): 48mo - new price at 2.99 ...
+
+📺 Journey With The Hintons
+
+👁️ 34K • 👍 3K • 💬 200 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+
+📺 Bob Reese
+
+👁️ 542K • 👍 27K • 💬 329 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -289,15 +307,17 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 121K • 👍 7K • 💬 1K • ⏱️ 9:27 • 1d ago
+👁️ 124K • 👍 8K • 💬 1K • ⏱️ 9:27 • 1d ago
 
 ---
 
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
 
-📺 Bob Reese
+The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
 
-👁️ 533K • 👍 26K • 💬 324 • ⏱️ 1:05 • 2d ago
+📺 KolaDepth
+
+👁️ 8K • 👍 209 • 💬 62 • ⏱️ 24:36 • 22h ago
 
 ---
 
@@ -307,7 +327,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 17K • 👍 859 • 💬 61 • ⏱️ 7:01 • 1d ago
+👁️ 17K • 👍 875 • 💬 61 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -317,17 +337,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 94K • 👍 4K • 💬 577 • ⏱️ 19:38 • 2d ago
-
----
-
-**[AI Exhaustion is real...](https://www.youtube.com/watch?v=YovD5Yvvawg)**
-
-AI ------------------------------------------------------------------------------------------- Amazon Shop - https://www.amazon.com/shop/raidowl ...
-
-📺 Raid Owl
-
-👁️ 4K • 👍 295 • 💬 87 • ⏱️ 22:52 • 9h ago
+👁️ 95K • 👍 4K • 💬 582 • ⏱️ 19:38 • 2d ago
 
 ---
 
@@ -337,7 +347,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.8M • 👍 67K • 💬 7K • ⏱️ 15:50 • 1d ago
+👁️ 1.8M • 👍 69K • 💬 7K • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -347,27 +357,17 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 24K • 👍 1K • 💬 59 • ⏱️ 12:49 • 1d ago
+👁️ 25K • 👍 1K • 💬 59 • ⏱️ 12:49 • 1d ago
 
 ---
 
-**[NEW Antigravity 2.0 + FREE AI Agents Update is INSANE!](https://www.youtube.com/watch?v=-_yvPQn43Yk)**
+**[AI Exhaustion is real...](https://www.youtube.com/watch?v=YovD5Yvvawg)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+AI ------------------------------------------------------------------------------------------- Amazon Shop - https://www.amazon.com/shop/raidowl ...
 
-📺 Julian Goldie SEO
+📺 Raid Owl
 
-👁️ 9K • 👍 201 • 💬 10 • ⏱️ 9:20 • 18h ago
-
----
-
-**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
-
-Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
-
-📺 Dumanity
-
-👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 14h ago
+👁️ 5K • 👍 348 • 💬 95 • ⏱️ 22:52 • 10h ago
 
 ---
 
@@ -383,7 +383,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 7,589 • ❤️ 861 • 4d ago
+⬇️ 7,589 • ❤️ 862 • 4d ago
 
 ---
 
@@ -395,7 +395,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,830 • ❤️ 360 • 1d ago
+⬇️ 1,830 • ❤️ 362 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,178 • 10h ago
+⬇️ 1,540,901 • ❤️ 1,180 • 10h ago
 
 ---
 
@@ -423,13 +423,25 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 ---
 
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 0 • ❤️ 323 • 7h ago
+
+---
+
 **[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
 
 *Kyutai*
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 306 • 8h ago
+⬇️ 26,093 • ❤️ 307 • 9h ago
 
 ---
 
@@ -441,19 +453,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 770 • 12d ago
-
----
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 0 • ❤️ 279 • 6h ago
+⬇️ 55,233 • ❤️ 773 • 12d ago
 
 ---
 
@@ -465,7 +465,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 26,367 • ❤️ 278 • 5d ago
+⬇️ 26,367 • ❤️ 283 • 5d ago
 
 ---
 
@@ -477,7 +477,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 217 • 4d ago
+⬇️ 18,931 • ❤️ 219 • 4d ago
 
 ---
 
@@ -489,7 +489,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 14,296 • ❤️ 206 • 4d ago
+⬇️ 14,296 • ❤️ 207 • 4d ago
 
 ---
 
@@ -505,7 +505,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 6 • 💬 2 • ⭐ 175 • 3d ago
+▲ 7 • 💬 2 • ⭐ 175 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -517,7 +517,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 26 • 💬 1 • ⭐ 2,938 • 7d ago
+▲ 27 • 💬 1 • ⭐ 2,938 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 413 • 6h ago
+⭐ 8.2k • 🔱 421 • 7h ago
 
 ---
 
@@ -652,7 +652,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 339 • 2d ago
+⭐ 7.2k • 🔱 340 • 2d ago
 
 ---
 
@@ -662,7 +662,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 679 • 12d ago
+⭐ 5.1k • 🔱 685 • 12d ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 819 • 13h ago
+⭐ 5.0k • 🔱 821 • 13h ago
 
 ---
 
@@ -682,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 8h ago
+⭐ 3.7k • 🔱 3.6k • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 288 • 16h ago
+⭐ 2.0k • 🔱 289 • 16h ago
 
 ---
 
