@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T14:29:17.996848+00:00'
+updated: '2026-01-19T14:55:54.604622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 14:29 UTC  
+**Last Updated:** January 19, 2026 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Which you picking?](https://www.reddit.com/r/Bitcoin/comments/1qh33sd/which_you_picking/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-39m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 I can do this all day
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ I can do this all day
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ I can do this all day
 
 If it goes down to 88 will buy some more
 
-12h ago
+13h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 1h ago
 
 Starknet-based DEX Paradex reversed its blockchain to an earlier block after a database migration error briefly crashed bitcoin’s price to zero.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1h ago
 
 Bitcoin mining difficulty set for a 4% decline, the seventh negative adjustment in the past eight.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 1h ago
 
 A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 2K • 💬 20 • ⏱️ 12:15 • 3h ago
+👁️ 6K • 👍 2K • 💬 20 • ⏱️ 12:15 • 4h ago
 
 ---
 

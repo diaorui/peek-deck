@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T14:29:17.988370+00:00'
+updated: '2026-01-19T14:55:54.596948+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 14:29 UTC  
+**Last Updated:** January 19, 2026 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 8m ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 35m ago
 
 ---
 
@@ -65,7 +65,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
-22h ago
+23h ago
 
 ---
 
@@ -81,7 +81,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey guys, I need to start writing business plans including Research & Developmen
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 17h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 18h ago
 
 ---
 
@@ -105,7 +105,7 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
 
-20h ago
+21h ago
 
 ---
 
@@ -141,13 +141,13 @@ CNN • 1d ago
 
 Incidents arising from use of the technology, such as deepfake-enabled scams and chatbot-induced delusions have been rising steadily.
 
-Time Magazine • 23m ago
+Time Magazine • 49m ago
 
 ---
 
 **[Can AI really replace your SEO team?](https://www.fastcompany.com/91476717/can-ai-really-replace-your-seo-team)**
 
-Fast Company • 23m ago
+Fast Company • 49m ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 4h ago
 
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Wall Street Journal • 1d ago
 
 Fund’s chief economist says there are reasons to be concerned about a potential AI correction
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
 **[IMF Warns AI, Trade Pose Risks to Solid Global Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-19/imf-warns-ai-trade-pose-risks-to-solid-global-growth-outlook)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 4h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 210 • 💬 275 • 13h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 210 • 💬 275 • 14h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -219,7 +219,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 96 • 💬 82 • 23h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 96 • 💬 82 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -337,7 +337,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 179 • 💬 11 • ⏱️ 9:45 • 21h ago
+👁️ 6K • 👍 179 • 💬 11 • ⏱️ 9:45 • 22h ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,168 • 1h ago
+⬇️ 1,540,901 • ❤️ 1,168 • 2h ago
 
 ---
 
@@ -429,7 +429,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 299 • 4h ago
+⬇️ 26,093 • ❤️ 299 • 5h ago
 
 ---
 
@@ -632,7 +632,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 5h ago
+⭐ 9.1k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 396 • 20h ago
+⭐ 7.9k • 🔱 396 • 21h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 807 • 4h ago
+⭐ 5.0k • 🔱 807 • 5h ago
 
 ---
 
@@ -682,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.6k • 🔱 3.5k • 45m ago
+⭐ 3.6k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 283 • 7h ago
+⭐ 1.9k • 🔱 283 • 8h ago
 
 ---
 
@@ -712,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 1h ago
+⭐ 1.8k • 🔱 146 • 2h ago
 
 ---
 

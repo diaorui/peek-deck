@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T14:29:18.002906+00:00'
+updated: '2026-01-19T14:55:54.609925+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 14:29 UTC  
+**Last Updated:** January 19, 2026 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 He called for a new wave of DAOs that focus on critical functions, like data maintenance and dispute resolution, with more sophisticated governance.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 2d ago
 
 If these two things happen, Ethereum could skyrocket in value in 2026.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 2K • 💬 21 • ⏱️ 12:15 • 3h ago
+👁️ 6K • 👍 2K • 💬 21 • ⏱️ 12:15 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 9 • 💬 5 • ⏱️ 4:52 • 3h ago
+👁️ 184 • 👍 9 • 💬 5 • ⏱️ 4:52 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 3K • 👍 539 • 1h ago
+👁️ 3K • 👍 539 • 2h ago
 
 ---
 

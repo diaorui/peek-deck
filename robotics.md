@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T14:29:18.006211+00:00'
+updated: '2026-01-19T14:55:54.612751+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 14:29 UTC  
+**Last Updated:** January 19, 2026 at 14:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 17h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 18h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 2d ago
 
 Robotics continues to be a growing extracurricular in Central Iowa Schools with programs doubling in participation in many of those schools. With the growth, schools are upgrading robotics to the classroom. In Newton, the high school will soon have a robotics classroom thanks to growing interest, funding and awards. Newton High School and Team Newbotics […]
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Pittsburgh Post-Gazette • 2d ago
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 22h ago
+SciTechDaily • 23h ago
 
 ---
 
@@ -247,7 +247,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 43 • 💬 2 • ⏱️ 2:17 • 13h ago
+👁️ 1K • 👍 43 • 💬 2 • ⏱️ 2:17 • 14h ago
 
 ---
 
@@ -287,7 +287,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 1.2M • 👍 17K • 💬 1K • ⏱️ 33:05 • 20h ago
+👁️ 1.2M • 👍 17K • 💬 1K • ⏱️ 33:05 • 21h ago
 
 ---
 
