@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T07:29:50.436588+00:00'
+updated: '2026-01-19T07:51:56.489568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 07:29 UTC  
+**Last Updated:** January 19, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,690.73
+### $92,490.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -2.9%  
-**30d:** +4.5%  
-**90d:** -13.9%  
-**1y:** -9.5%  
+**24h:** -2.6%  
+**7d:** -2.8%  
+**30d:** +4.6%  
+**90d:** -13.8%  
+**1y:** -9.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I can do this all day
 
-6h ago
+7h ago
 
 ---
 
@@ -111,19 +111,13 @@ If it goes down to 88 will buy some more
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-20h ago
+21h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-18h ago
-
----
-
-**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
-
-8h ago
+19h ago
 
 ---
 
@@ -133,11 +127,9 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 ---
 
-**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
-
-19h ago
+8h ago
 
 ---
 
@@ -149,15 +141,21 @@ Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve s
 
 ---
 
+**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+
+Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
+
+20h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-Gizmodo • 13h ago
+The New York Times • 2d ago
 
 ---
 
@@ -169,41 +167,27 @@ CNBC • 1d ago
 
 ---
 
-**["Bigger Orange": Strategy likely to announce larger bitcoin buys days after $1.25 billion purchase](https://www.coindesk.com/markets/2026/01/19/strategy-s-saylor-signals-more-bitcoin-purchases-after-usd1-25b-splurge)**
+**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
 
-Strategy has bought nearly 15,000 BTC so far this year, pushing its stash to about 687,000 BTC as Saylor signals more purchases may be coming.
+Can the reuse of crypto's waste heat redeem its bad climate rep?
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
-
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
-
-Yahoo Finance • 11h ago
+Mother Jones • 2d ago
 
 ---
 
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
 
-The New York Times • 2d ago
+Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
 
----
-
-**[MicroStrategy’s Saylor Hints at Bitcoin Acquisition Surpassing $1.25 Billion](https://finance.yahoo.com/news/microstrategy-saylor-hints-bitcoin-acquisition-190105018.html)**
-
-Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
-
-Yahoo Finance • 12h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Saylor’s 'Bigger Orange' Hint Has Strategy Closing in on 700,000 BTC](https://news.bitcoin.com/saylors-bigger-orange-hint-has-strategy-closing-in-on-700000-btc/)**
+**[Bitcoin Network Hashrate Drops to Lowest Level Since September Amid AI Shift](https://finance.yahoo.com/news/bitcoin-network-hashrate-drops-lowest-062724807.html)**
 
-At present, the bitcoin treasury company Strategy holds around 687,410 BTC, valued at a touch north of $65 billion.
+Bitcoin’s network hashrate has slipped below 1,000 exahash per second (EH/s) for the first time since mid-September, as miners increasingly redirect capacity toward artificial intelligence infrastructure. Key Takeaways: Bitcoin’s hashrate has slipped below 1,000 EH/s, down nearly 15% from its October peak. Miners are shifting power toward AI workloads that ...
 
-Bitcoin.com News • 9h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -215,9 +199,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
-Bloomberg.com • 2d ago
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+Gizmodo • 13h ago
 
 ---
 
@@ -226,6 +212,20 @@ Bloomberg.com • 2d ago
 The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
 Tom's Hardware • 19h ago
+
+---
+
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+
+Bloomberg • 2d ago
+
+---
+
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
+
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -277,7 +277,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 63 • 💬 13 • 6d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 63 • 💬 13 • 7d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -351,7 +351,7 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 8K • 👍 513 • 💬 91 • ⏱️ 11:05 • 5h ago
+👁️ 8K • 👍 513 • 💬 91 • ⏱️ 11:05 • 6h ago
 
 ---
 

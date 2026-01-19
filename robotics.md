@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T07:29:50.445809+00:00'
+updated: '2026-01-19T07:51:56.497897+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 07:29 UTC  
+**Last Updated:** January 19, 2026 at 07:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,11 +38,19 @@ Robotics research and industry news
 
 ---
 
+**[Resources in getting started](https://www.reddit.com/r/robotics/comments/1qgxnal/resources_in_getting_started/)**
+
+I have 3 months off of school and really want to get into robotics quickly. I want to do an 8 hour schedule in the week (as if i was in school) but am having trouble finding some good resources for certain topics. The topics I can't seem to find much resources for are Computer Vision, Machine Learning, & Math/Control Systems. If anyone has recommendations for these topics specific to robotics please let me know!! Just for reference I plan to set aside time for coding, learning arduino, and actual project building within my day. Also if you have a recommended level progression with topics that would be a big help!
+
+27m ago
+
+---
+
 **[showing my tribotv1](https://www.reddit.com/r/robotics/comments/1qgjrli/showing_my_tribotv1/)**
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 11h ago
 
 ---
 
@@ -50,7 +58,7 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -64,7 +72,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +88,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-17h ago
+18h ago
 
 ---
 
@@ -98,14 +106,6 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 ---
 
-**[Recording robot movement on RViz or similar](https://www.reddit.com/r/robotics/comments/1qg3hu5/recording_robot_movement_on_rviz_or_similar/)**
-
-Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -115,6 +115,20 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
 TechCrunch • 15h ago
+
+---
+
+**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
+
+Bloomberg • 3h ago
+
+---
+
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 59m ago
 
 ---
 
@@ -150,12 +164,6 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[IFR names top 5 global robotics trends of 2026](https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/)**
 
 The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity.
@@ -164,18 +172,9 @@ The Robot Report • 2d ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
-
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 15h ago
+SciTechDaily • 16h ago
 
 ---
 
@@ -225,7 +224,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 969 • 👍 32 • 💬 2 • ⏱️ 2:17 • 6h ago
+👁️ 969 • 👍 32 • 💬 2 • ⏱️ 2:17 • 7h ago
 
 ---
 
@@ -245,7 +244,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 897K • 👍 14K • 💬 1K • ⏱️ 33:05 • 13h ago
+👁️ 897K • 👍 14K • 💬 1K • ⏱️ 33:05 • 14h ago
 
 ---
 
