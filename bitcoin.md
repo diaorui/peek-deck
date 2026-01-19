@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T12:53:00.476485+00:00'
+updated: '2026-01-19T13:47:09.790286+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 12:53 UTC  
+**Last Updated:** January 19, 2026 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1861.66B
+**Market Cap:** $1858.75B
 Rank #1
 
-**Circulating Supply:** 19,977,803 BTC
+**Circulating Supply:** 19,977,915 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.1%
+-26.2%
 
 **All-Time Low:** $67.81
-+137300.1%
++137106.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 I can do this all day
 
-12h ago
+13h ago
 
 ---
 
@@ -103,13 +103,13 @@ I can do this all day
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-54m ago
+1h ago
 
 ---
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ I had been off and on of investing into Bitcoin the last couple years. At one po
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 18h ago
+Gizmodo • 19h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 1d ago
 
 For Bitcoin investors, 2028 is lining up to be an important year.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -189,13 +189,13 @@ Barron's • 2h ago
 
 Crypto prices fell alongside global equities after reports the EU is preparing retaliatory tariffs against the U.S.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin falls. Cryptos face deep selloff if price plunges below this key level.](https://www.msn.com/en-us/money/markets/bitcoin-falls-cryptos-face-deep-selloff-if-price-plunges-below-this-key-level/ar-AA1UuNWX?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ MSN • 1h ago
 
 For Bitcoin investors, 2028 is lining up to be an important year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 3d ago
 
 After managing to avoid making lower lows in December, Bitcoin began to perk up after New Yearâs Day. Itâs looking like it wants to make an assault on the $100000 level again. Read more here
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -251,7 +251,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -317,7 +317,17 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 273 • ⏱️ 6:08 • 9h ago
+👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 10h ago
+
+---
+
+**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
+
+Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
+
+📺 Thomas Kralow
+
+👁️ 6K • 👍 2K • 💬 20 • ⏱️ 12:15 • 3h ago
 
 ---
 
@@ -327,27 +337,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 3K • 💬 384 • ⏱️ 14:15 • 15h ago
-
----
-
-**[BITCOIN DUMPS ON EU US TARIFF WAR BUT WHALES KEEP BUYING!](https://www.youtube.com/watch?v=eJ9uQXA7hO4)**
-
-Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitcoin holders buy the most coins since the FTX ...
-
-📺 Thinking Crypto
-
-👁️ 5K • 👍 460 • 💬 65 • ⏱️ 14:41 • 8h ago
-
----
-
-**[Crypto Arbitrage Strategy: Cold Market Setups That Still Pay / Bitcoin Prediction /Altcoin Arbitrage](https://www.youtube.com/watch?v=e-juNplx_xw)**
-
-Sell On: https://aimcryptospace.com Buy in : Bybit - https://www.bybit.com/ Binance - https://binance.com/ Kraken ...
-
-📺 Crafts for ME
-
-👁️ 6K • 👍 707 • 💬 83 • ⏱️ 3:59 • 22h ago
+👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 16h ago
 
 ---
 
@@ -357,7 +347,37 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 387 • 💬 55 • ⏱️ 5:22 • 6h ago
+👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 7h ago
+
+---
+
+**[Bitcoin Trap Is Almost Fully Set! [Positioning Matters NOW]](https://www.youtube.com/watch?v=NjgwY0eyz_8)**
+
+In today's video, Kyledoops shows you why a large cohort of people are positioned incorrectly & in less than 48-hours they will ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 5h ago
+
+---
+
+**[The REAL REASON Why CRYPTO IS CRASHING!! How LOW Will It GO!?](https://www.youtube.com/watch?v=hUb2ekPFASg)**
+
+The crypto market has experienced a sharp drop over the last day, and everyone assumes that it's because of tensions between ...
+
+📺 Coin Bureau Trading
+
+👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 3h ago
+
+---
+
+**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+
+📺 Jayson Casper
+
+👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 13h ago
 
 ---
 
@@ -367,47 +387,27 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 NieDoZajechania
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 6K • 👍 3K • 2h ago
 
 ---
 
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=9s2OO9U6oBY)**
+**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
 
-It is once again time for an update to the Bitcoin bull market support band. For inquiries: https://www.benjamincowen.com/ Into The ...
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 72 • ⏱️ 6:54 • 8h ago
-
----
-
-**[Satoshi Sold His Bitcoin?!😨🚨](https://www.youtube.com/watch?v=k21KexeFkOY)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 53K • 👍 939 • 💬 84 • ⏱️ 0:29 • 1d ago
+👁️ 32K • 👍 2K • 💬 203 • ⏱️ 17:39 • 1d ago
 
 ---
 
-**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
 
-Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 Keith D
+📺 Altcoin Daily
 
-👁️ 69K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
-
----
-
-**[This Is Why Bitcoin Is Dumping](https://www.youtube.com/watch?v=L6DpYwlQSGI)**
-
-This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: ...
-
-📺 Mister Crypto
-
-👁️ 2K • 👍 94 • 💬 31 • ⏱️ 8:41 • 7h ago
+👁️ 53K • 👍 3K • 💬 239 • ⏱️ 12:19 • 1d ago
 
 ---
 
