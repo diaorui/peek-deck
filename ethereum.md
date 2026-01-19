@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T19:40:33.347443+00:00'
+updated: '2026-01-19T20:26:10.125797+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 19:40 UTC  
+**Last Updated:** January 19, 2026 at 20:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,225.60
+### $3,217.16
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -3.6%  
-**7d:** -3.0%  
+**7d:** -3.1%  
 **30d:** +7.3%  
 **90d:** -15.4%  
 **1y:** -1.7%  
@@ -72,7 +72,7 @@ No max supply
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,15 +88,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The original drive to build Ethereum was heavily inspired by decentralized autonomous organizations: systems of code and rules that lived on decentralized networks that could manage resources and direct activity, more efficiently and more robustly than traditional governments and corporations could. Since then, the concept of DAOs has migrated to essentially referring to a treasury controlled by token holder voting - a design which "works", hence why it got copied so much, but a design which is inefficient, vulnerable to capture, and fails utterly at the goal of mitigating the weaknesses of human politics. As a result, many have become cynical about DAOs. But we need DAOs. We need DAOs to create better oracles. Today, decentralized stablecoins, prediction markets, and other basic building blocks of defi are built on oracle designs that we are not satisfied with. If the oracle is token based, whales can manipulate the answer on a subjective issue and it becomes difficult to counteract them. Fundamentally, a token-based oracle cannot have a cost of attack higher than its market cap, which in turn means it cannot secure assets without extracting rent higher than the discount rate. And if the oracle uses human curation, then it's not very decentralized. The problem here is not greed. The problem is that we have bad oracle designs, we need better ones, and bootstrapping them is not just a technical problem but also a social problem. We need DAOs for onchain dispute resolution, a necessary component of many types of more advanced smart contract use cases (eg. insurance). This is the same type of problem as price oracles, but even more subjective, and so even harder to get right. We need DAOs to maintain lists. This includes: lists of applications known to be secure or not scams, lists of canonical interfaces, lists of token contract addresses, and much more. We need DAOs to get projects off the ground quickly. If you have a group of people, who all want something done and are willing to contribute some funds (perhaps in exchange for benefits), then how do you manage this, especially if the task is too short-duration for legal entities to be worth it? We need DAOs to do long-term project maintenance. If the original team of a project disappears, how can a community keep going, and how can new people coming in get the funding they need? One framework that I use to analyze this is "convex vs concave" from https://vitalik.eth.limo/general/2020/11/08/concave.html . If the DAO is solving a concave problem, then it is in an environment where, if faced with two possible courses of action, a compromise is better than a coin flip. Hence, you want systems that maximize robustness by averaging (or rather, medianing) in input from many sources, and protect against capture and financial attacks. If the DAO is solving a convex problem, then you want the ability to make decisive choices and follow through on them. In this case, leaders can be good, and the job of the decentralized process should be to keep the leaders in check. For all of this to work, we need to solve two problems: privacy, and decision fatigue. Without privacy, governance becomes a social game (see https://vitalik.eth.limo/general/2025/04/14/privacy.html ). And if people have to make decisions every week, for the first month you see excited participation, but over time willingness to participate, and even to stay informed, declines. I see modern technology as opening the door to a renaissance here. Specifically: ZK (and in some cases MPC/FHE, though these should be used only when ZK along cannot solve the problem) for privacy AI to solve decision fatigue Consensus-finding communication tools (like pol.is, but going further) AI must be used carefully: we must not put full-size deepseek (or worse, GPT 5.2) in charge of a DAO and call it a day. Rather, AI must be put in thoughtfully, as something that scales and enhances human intention and judgement, rather than replacing it. This could be done at DAO level (eg. see how https://www.deepfunding.org/ works), or at individual level (user-controlled local LLMs that vote on their behalf). It is important to think about the "DAO stack" as also including the communication layer, hence the need for forums and platforms specially designed for the purpose. A multisig plus well-designed consensus-finding tools can easily beat idealized collusion-resistant quadratic funding plus crypto twitter. But in all cases, we need new designs. Projects that need new oracles and want to build their own should see that as 50% of their job, not 10%. Projects working on new governance designs should build with ZK and AI in mind, and they should treat the communication layer as 50% of their job, not 10%. This is how we can ensure the decentralization and robustness of the Ethereum base layer also applies to the world that gets built on top.
 
-12h ago
+13h ago
 
 ---
 
-**[Built a tool to catch ETH chart patterns before breakouts - feedback welcome](https://www.reddit.com/r/ethereum/comments/1qh6swl/built_a_tool_to_catch_eth_chart_patterns_before/)**
+**[NYSE Announces New Tokenization Platform with 24/7 Trading](https://www.reddit.com/r/ethereum/comments/1qhew5g/nyse_announces_new_tokenization_platform_with_247/)**
 
-Hey r/ethereum fam, I've been trading ETH for 5+ years and kept missing breakouts because I couldn't monitor charts 24/7. With the current setup at $3,300 (200-day EMA test, symmetrical triangle forming), I realized I needed automation. The Problem: ETH moves fast, especially with recent $480M ETF inflows Manual chart scanning across multiple timeframes is exhausting TradingView alerts are generic and miss nuanced patterns What I Built: ChartScout - detects 20+ chart patterns (head & shoulders, triangles, flags, wedges) in real-time for ETH and other cryptos. Currently detecting on ETH: Symmetrical triangle on daily (could break 15-25% either way) Bull flags on 4H timeframe Support at 200-day EMA ($3,300 zone) Looking for feedback from ETH traders: What patterns do you trade most? What features would make this actually useful? Any suggestions for improvement? I'm actively building based on trader input. Been working on this for 2 years as a solo founder. Demo: ChartScout Happy to answer questions about the tech stack or pattern detection algorithms!
+Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-4h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 26m ago
+
+---
+
+**[More Information on Transaction Methods](https://www.reddit.com/r/ethereum/comments/1qheszs/more_information_on_transaction_methods/)**
+
+I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
+
+30m ago
 
 ---
 
@@ -104,7 +112,7 @@ Hey r/ethereum fam, I've been trading ETH for 5+ years and kept missing breakout
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-2h ago
+3h ago
 
 ---
 
@@ -140,43 +148,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[2026: the year that we take back lost ground](https://www.reddit.com/r/ethereum/comments/1qer9cy/2026_the_year_that_we_take_back_lost_ground/)**
-
-2026 is the year that we take back lost ground in terms of self-sovereignty and trustlessness. Some of what this practically means: Full nodes: thanks to ZK-EVM and BAL, it will once again become easier to locally run a node and verify the Ethereum chain on your own computer. Helios: actually verify the data you're receiving from RPCs instead of blindly trusting it. ORAM, PIR: ask for data from RPCs without revealing which data you're asking, so you can access dapps without your access patterns being sold off to dozens of third parties all around the world. Social recovery wallets and timelocks: wallets that don't make you lose all your money if you misplace your seedphrase, or if an online or offline attacker extracts your seedphrase, and also don't make all your money backdoored by Google. Privacy UX: make private payments from your wallet, with the same user experience as making public payments. Privacy censorship resistance: private payments with the ERC-4337 mempool, and soon native AA + FOCIL, without relying on the public broadcaster ecosystem. Application UIs: use more dapps from an onchain UI with IPFS, without relying on trusted servers that would lock you our of practical recovery of your assets if they went offline, and would give you a hijacked UI that steals your funds if they get hacked for even a millisecond. In many of these areas, over the last ten years we have seen serious backsliding in Ethereum. Nodes went from easy to run to hard to run. Dapps went from static pages to complicated behemoths that leak all your data to a dozen servers. Wallets went from routing everything through the RPC, which could be any node of your choice including on your own computer, to leaking your data to a dozen servers of their choice. Block building became more centralized, putting Ethereum transaction inclusion guarantees under the whims of a very small number of builders. In 2026, no longer. Every compromise of values that Ethereum has made up to this point - every moment where you might have been thinking, is it really worth diluting ourselves so much in the name of mainstream adoption - we are making that compromise no longer. It will be a long road. We will not get everything we want in the next Kohaku release, or the next hard fork, or the hard fork after that. But it will make Ethereum into an ecosystem that deserves not only its current place in the universe, but a much greater one. In the world computer, there is no centralized overlord. There is no single point of failure. There is only love. Milady.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
-
-The Block • 2d ago
-
----
 
 **[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 5h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-calls-142300878.html)**
-
-Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
-
-Yahoo Finance • 5h ago
+Decrypt • 6h ago
 
 ---
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -184,15 +170,7 @@ The Block • 21h ago
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-CoinDesk • 13h ago
-
----
-
-**[2 Big Reasons to Buy Ethereum Before the Second Quarter of 2026](https://www.fool.com/investing/2026/01/19/2-big-reasons-to-buy-ethereum-before-the-second-qu/)**
-
-If these two things happen, Ethereum could skyrocket in value in 2026.
-
-The Motley Fool • 8h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -200,15 +178,23 @@ The Motley Fool • 8h ago
 
 The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum Surge Propels Crypto Fund Investments to $2.17 Billion—Best in Three Months](https://finance.yahoo.com/news/digital-asset-funds-drew-2-132545258.html)**
+**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
 
-Bitcoin ETFs led with $1.42 billion worth of investments as digital asset funds saw their highest inflows since October last week.
+The smaller chain could lose ground in an important arena during a critical period.
 
-Yahoo Finance • 4h ago
+The Motley Fool • 3d ago
+
+---
+
+**[A Look At Bitmine Immersion Technologies (BMNR) Valuation After Its US$200 Million MrBeast Investment And Ethereum Staking Push](https://finance.yahoo.com/news/look-bitmine-immersion-technologies-bmnr-231308738.html)**
+
+Bitmine Immersion Technologies (BMNR) is in focus after committing US$200 million to Beast Industries, the company tied to YouTube creator MrBeast, while at the same time increasing its large scale Ethereum staking activity. See our latest analysis for Bitmine Immersion Technologies. These Beast Industries headlines and the ramp up in Ethereum staking come after a tough period, with a 90 day share price return of a 42.08% decline, but a very large 1 year total shareholder return and a 3 year...
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -216,13 +202,29 @@ Yahoo Finance • 4h ago
 
 Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
 **[Ethereum Hits Transaction Record as Fees Crash to Pennies](https://99bitcoins.com/news/altcoins/ethereum-transactions-record-low-fees/)**
 
-99Bitcoins • 7h ago
+99Bitcoins • 8h ago
+
+---
+
+**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
+
+ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
+
+AMBCrypto • 1d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
+
+Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
+
+Coinpedia • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 8h ago
+👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 9h ago
 
 ---
 
@@ -256,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 665 • 👍 86 • 💬 2 • ⏱️ 7:47 • 2h ago
+👁️ 665 • 👍 86 • 💬 2 • ⏱️ 7:47 • 3h ago
 
 ---
 
@@ -296,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 161 • 👍 9 • ⏱️ 1:28 • 1h ago
+👁️ 161 • 👍 9 • ⏱️ 1:28 • 2h ago
 
 ---
 

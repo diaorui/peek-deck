@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T19:40:33.341389+00:00'
+updated: '2026-01-19T20:26:10.119677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 19:40 UTC  
+**Last Updated:** January 19, 2026 at 20:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,310.26
+### $93,193.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -2.4%  
-**30d:** +5.0%  
+**24h:** -2.4%  
+**7d:** -2.3%  
+**30d:** +5.1%  
 **90d:** -13.4%  
 **1y:** -9.0%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,19 +109,7 @@ Hard to buy the dip when you're already all in!
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-7h ago
-
----
-
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-15h ago
-
----
-
-**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
-
-5h ago
+8h ago
 
 ---
 
@@ -131,19 +119,29 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 ---
 
+**[This sub asked so I rebuilt it. Bitcoin company trackers, all free data, and now with a chat. This is how we Bitcoiners orange pill Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1qhdjaa/this_sub_asked_so_i_rebuilt_it_bitcoin_company/)**
+
+1h ago
+
+---
+
+**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+
+6h ago
+
+---
+
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+16h ago
+
+---
+
 **[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-15h ago
-
----
-
-**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
-
-I can do this all day
-
-18h ago
+16h ago
 
 ---
 
@@ -151,17 +149,15 @@ I can do this all day
 
 ## Google News: "bitcoin"
 
-**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
-
-Forbes • 6h ago
+Bloomberg.com • 3d ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqefG8pdsQD8rAfVK371e2-QVQCGtE5idvkxqf4DD7EBf2TdR9CT9IBb&gaa_ts=696e8755&gaa_sig=oh4XSybhOwd7gs91L1cz0l6NJXbqDwpK0vZphxp0lplCIdmdO0YwSnaUJofPagPycT86h4XjnYj8QCFys8r63w%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcZ_F0wiHB6APjGp5jOn6CYFfAgmxlI6Nw9fO5Of-TBg4yjK1lCxMzv&gaa_ts=696e96d2&gaa_sig=J_Nxa1TzePyVkjECUKt263eOqeSiSHoJuFobDWzyBmssiZ9dfrwyRh9boA86n-BRD3jLpQuFIwZPI7nEes7YzQ%3D%3D)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -173,15 +169,9 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg • 3d ago
-
----
-
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -190,6 +180,14 @@ Bloomberg • 8h ago
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
 CNBC • 2d ago
+
+---
+
+**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+
+traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
+
+Forbes • 6h ago
 
 ---
 
@@ -215,11 +213,11 @@ Nasdaq • 6h ago
 
 ---
 
-**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://finance.yahoo.com/news/forget-bitcoin-buy-xrp-instead-143500952.html)**
 
-Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
+XRP is one of the most popular altcoins, and it has some notable advantages over Bitcoin.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -231,7 +229,7 @@ The Motley Fool • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 6h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 7h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -255,7 +253,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 9h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 10h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -279,7 +277,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -313,7 +311,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 8h ago
+👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 9h ago
 
 ---
 
@@ -323,7 +321,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 4h ago
+👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 5h ago
 
 ---
 
@@ -333,7 +331,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 452 • ⏱️ 6:08 • 16h ago
+👁️ 34K • 👍 2K • 💬 452 • ⏱️ 6:08 • 17h ago
 
 ---
 
@@ -343,7 +341,7 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 7h ago
+👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 8h ago
 
 ---
 
@@ -373,7 +371,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 22h ago
+👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 23h ago
 
 ---
 
@@ -383,7 +381,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 3h ago
+👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 4h ago
 
 ---
 
@@ -393,7 +391,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 10h ago
+👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 11h ago
 
 ---
 
@@ -403,7 +401,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 10h ago
+👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 11h ago
 
 ---
 
