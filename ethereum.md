@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T11:22:44.014829+00:00'
+updated: '2026-01-19T11:44:32.643932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 11:22 UTC  
+**Last Updated:** January 19, 2026 at 11:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $387.21B
+**Market Cap:** $389.45B
 Rank #2
 
 **Circulating Supply:** 120,694,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.1%
+-34.8%
 
 **All-Time Low:** $0.43
-+740924.4%
++744589.7%
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 3d ago
 
 If these two things happen, Ethereum could skyrocket in value in 2026.
 
-The Motley Fool • 37m ago
+The Motley Fool • 59m ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 10 • ⏱️ 8:02 • 10h ago
+👁️ 3K • 👍 160 • 💬 10 • ⏱️ 8:02 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 271 • 💬 70 • ⏱️ 9:21 • 1d ago
+👁️ 7K • 👍 273 • 💬 68 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -258,17 +258,27 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 69K • 👍 3K • 💬 175 • ⏱️ 10:28 • 1d ago
+👁️ 70K • 👍 3K • 💬 175 • ⏱️ 10:28 • 1d ago
 
 ---
 
-**[Ethereum Price Prediction - Is This The Reversal?](https://www.youtube.com/watch?v=WJ9OILlwJGE)**
+**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kRm0wzbdjjM)**
 
-This video conducts a detailed ethereum analysis, examining its recent performance in the crypto market. We'll explore potential ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 David Blewett
+📺 Cilinix Crypto
 
-👁️ 181 • 👍 17 • 💬 25 • ⏱️ 13:24 • 12h ago
+👁️ 97 • 👍 7 • 💬 1 • ⏱️ 4:52 • 1h ago
+
+---
+
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
+
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
+
+📺 CoinDesk
+
+👁️ 9K • 👍 243 • 💬 72 • ⏱️ 24:55 • 2d ago
 
 ---
 
@@ -278,7 +288,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 239 • ⏱️ 12:19 • 1d ago
+👁️ 53K • 👍 3K • 💬 239 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -292,26 +302,6 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 ---
 
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 9K • 👍 243 • 💬 76 • ⏱️ 24:55 • 2d ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee’s BitMine Invests in MrBeast Industries!](https://www.youtube.com/watch?v=4izW0C-TJEc)**
-
-ethereum #bmnr #mrbeast Ethereum is entering a phase that Bitcoin already lived through — but with far stronger tailwinds.
-
-📺 alliseeisW 
-
-👁️ 1K • 👍 89 • 💬 22 • ⏱️ 14:11 • 16h ago
-
----
-
 **[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
 
 1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
@@ -322,13 +312,23 @@ ethereum #bmnr #mrbeast Ethereum is entering a phase that Bitcoin already lived 
 
 ---
 
+**[Ethereum Price Prediction - Is This The Reversal?](https://www.youtube.com/watch?v=WJ9OILlwJGE)**
+
+This video conducts a detailed ethereum analysis, examining its recent performance in the crypto market. We'll explore potential ...
+
+📺 David Blewett
+
+👁️ 199 • 👍 18 • 💬 25 • ⏱️ 13:24 • 12h ago
+
+---
+
 **[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 894 • 💬 28 • ⏱️ 16:47 • 2d ago
+👁️ 27K • 👍 896 • 💬 28 • ⏱️ 16:47 • 2d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T11:22:44.008594+00:00'
+updated: '2026-01-19T11:44:32.637793+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 11:22 UTC  
+**Last Updated:** January 19, 2026 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1858.01B
+**Market Cap:** $1861.66B
 Rank #1
 
 **Circulating Supply:** 19,977,803 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.2%
+-26.1%
 
 **All-Time Low:** $67.81
-+137053.8%
++137300.1%
 
 ---
 
@@ -95,7 +95,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 I can do this all day
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/Mn7n5r8eGAg) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/Mn7n5r8eGAg) • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Barron's • 3d ago
 
 Bitcoin and the broader market fell on Trump’s tariff threats over Greenland. Gold rose another 1.7% as investors fled to safety. Bloomberg analyst reiterates his $10,000 Bitcoin call, citing ‘unlimited’ competition.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -313,7 +313,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 255 • ⏱️ 6:08 • 7h ago
+👁️ 26K • 👍 1K • 💬 273 • ⏱️ 6:08 • 8h ago
 
 ---
 
@@ -323,27 +323,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 14h ago
-
----
-
-**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 5h ago
-
----
-
-**[TRUMP JUST DID THE UNTHINKABLE.....](https://www.youtube.com/watch?v=g3QYTrEEAZs)**
-
-Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free Strategy Program ...
-
-📺 Conor Kenny
-
-👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 9h ago
+👁️ 69K • 👍 3K • 💬 384 • ⏱️ 14:15 • 14h ago
 
 ---
 
@@ -353,27 +333,67 @@ Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitco
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 7h ago
+👁️ 5K • 👍 460 • 💬 65 • ⏱️ 14:41 • 7h ago
 
 ---
 
-**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
+**[Crypto Arbitrage Strategy: Cold Market Setups That Still Pay / Bitcoin Prediction /Altcoin Arbitrage](https://www.youtube.com/watch?v=e-juNplx_xw)**
 
-COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
+Sell On: https://aimcryptospace.com Buy in : Bybit - https://www.bybit.com/ Binance - https://binance.com/ Kraken ...
 
-📺 AMCrypto
+📺 Crafts for ME
 
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 8h ago
+👁️ 6K • 👍 707 • 💬 83 • ⏱️ 3:59 • 21h ago
 
 ---
 
-**[THIS IS WHY BITCOIN DUMPED...](https://www.youtube.com/watch?v=3XwsTVfulqQ)**
+**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
 
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
 
-📺 Crypto Rover
+📺 Crypto Kid
 
-👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 5h ago
+👁️ 5K • 👍 387 • 💬 55 • ⏱️ 5:22 • 5h ago
+
+---
+
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=KCP0lx9r1ZQ)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 NieDoZajechania
+
+👁️ 2K • 👍 1K • 29m ago
+
+---
+
+**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=9s2OO9U6oBY)**
+
+It is once again time for an update to the Bitcoin bull market support band. For inquiries: https://www.benjamincowen.com/ Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 26K • 👍 2K • 💬 72 • ⏱️ 6:54 • 7h ago
+
+---
+
+**[Satoshi Sold His Bitcoin?!😨🚨](https://www.youtube.com/watch?v=k21KexeFkOY)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 53K • 👍 939 • 💬 84 • ⏱️ 0:29 • 1d ago
+
+---
+
+**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
+
+Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+
+📺 Keith D
+
+👁️ 69K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 
@@ -383,27 +403,7 @@ This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://
 
 📺 Mister Crypto
 
-👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 6h ago
-
----
-
-**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
-
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
-
-📺 Jayson Casper
-
-👁️ 6K • 👍 377 • 💬 126 • ⏱️ 9:23 • 10h ago
-
----
-
-**[🚨Iran Chaos WARNING: Bitcoin Black Monday Event!?](https://www.youtube.com/watch?v=2bDsM2A9xU4)**
-
-Geo-political turmoil with Iran unrest and potential conflict is rattling crypto markets—Bitcoin, altcoin prices, and risk sentiment are ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 18h ago
+👁️ 2K • 👍 94 • 💬 31 • ⏱️ 8:41 • 6h ago
 
 ---
 

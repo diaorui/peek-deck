@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T11:22:44.018319+00:00'
+updated: '2026-01-19T11:44:32.647287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 11:22 UTC  
+**Last Updated:** January 19, 2026 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byoro
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-19m ago
+40m ago
 
 ---
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 14h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 15h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-21h ago
+22h ago
 
 ---
 
@@ -162,13 +162,13 @@ The Robot Report • 2d ago
 
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 19h ago
+SciTechDaily • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ SciTechDaily • 19h ago
 
 AiMOGA Robotics, a subsidiary of Chinese automaker Chery, unveiled a family of embodied intelligence robots useful for multiple purposes.
 
-Interesting Engineering • 20m ago
+Interesting Engineering • 42m ago
 
 ---
 
@@ -197,7 +197,7 @@ Pittsburgh Post-Gazette • 2d ago
 
 📺 Wowearth
 
-👁️ 177K • 👍 2K • 💬 74 • ⏱️ 1:16 • 6d ago
+👁️ 179K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
 
 ---
 
@@ -207,7 +207,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 474K • 👍 14K • 💬 824 • ⏱️ 17:09 • 6d ago
+👁️ 474K • 👍 14K • 💬 827 • ⏱️ 17:09 • 6d ago
 
 ---
 
@@ -217,7 +217,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 309K • 👍 14K • 💬 4K • ⏱️ 19:17 • 3d ago
+👁️ 314K • 👍 14K • 💬 4K • ⏱️ 19:17 • 3d ago
 
 ---
 
@@ -247,17 +247,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 37 • 💬 2 • ⏱️ 2:17 • 10h ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 971K • 👍 15K • 💬 1K • ⏱️ 33:05 • 17h ago
+👁️ 1K • 👍 40 • 💬 2 • ⏱️ 2:17 • 10h ago
 
 ---
 
@@ -277,7 +267,17 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 8K • 👍 75 • 💬 19 • ⏱️ 3:19 • 2d ago
+👁️ 9K • 👍 75 • 💬 19 • ⏱️ 3:19 • 2d ago
+
+---
+
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+
+📺 Gohar Khan
+
+👁️ 281K • 👍 13K • 💬 211 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -287,7 +287,7 @@ Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by wat
 
 📺 Fox Business
 
-👁️ 12K • 👍 208 • 💬 87 • ⏱️ 5:12 • 20h ago
+👁️ 12K • 👍 210 • 💬 85 • ⏱️ 5:12 • 20h ago
 
 ---
 
