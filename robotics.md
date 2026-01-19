@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T07:51:56.497897+00:00'
+updated: '2026-01-19T08:35:02.499326+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 07:51 UTC  
+**Last Updated:** January 19, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I have 3 months off of school and really want to get into robotics quickly. I want to do an 8 hour schedule in the week (as if i was in school) but am having trouble finding some good resources for certain topics. The topics I can't seem to find much resources for are Computer Vision, Machine Learning, & Math/Control Systems. If anyone has recommendations for these topics specific to robotics please let me know!! Just for reference I plan to set aside time for coding, learning arduino, and actual project building within my day. Also if you have a recommended level progression with topics that would be a big help!
 
-27m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-18h ago
+19h ago
 
 ---
 
@@ -114,13 +114,13 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg • 3h ago
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-Interesting Engineering • 59m ago
+Interesting Engineering • 1h ago
 
 ---
 

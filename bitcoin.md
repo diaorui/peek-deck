@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T07:51:56.489568+00:00'
+updated: '2026-01-19T08:35:02.489865+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 07:51 UTC  
+**Last Updated:** January 19, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ I can do this all day
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ I can do this all day
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 If it goes down to 88 will buy some more
 
-5h ago
+6h ago
 
 ---
 
@@ -123,13 +123,13 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2d ago
 
 Bitcoin’s network hashrate has slipped below 1,000 exahash per second (EH/s) for the first time since mid-September, as miners increasingly redirect capacity toward artificial intelligence infrastructure. Key Takeaways: Bitcoin’s hashrate has slipped below 1,000 EH/s, down nearly 15% from its October peak. Miners are shifting power toward AI workloads that ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 13h ago
+Gizmodo • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ Gizmodo • 13h ago
 
 The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
-Tom's Hardware • 19h ago
+Tom's Hardware • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 208 • ⏱️ 6:08 • 4h ago
+👁️ 17K • 👍 1K • 💬 208 • ⏱️ 6:08 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 333 • ⏱️ 14:15 • 10h ago
+👁️ 59K • 👍 3K • 💬 333 • ⏱️ 14:15 • 11h ago
 
 ---
 
@@ -341,7 +341,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 217 • 💬 10 • ⏱️ 9:03 • 1h ago
+👁️ 2K • 👍 217 • 💬 10 • ⏱️ 9:03 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://
 
 📺 Mister Crypto
 
-👁️ 667 • 👍 54 • 💬 4 • ⏱️ 8:41 • 2h ago
+👁️ 667 • 👍 54 • 💬 4 • ⏱️ 8:41 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation ev
 
 📺 AMCrypto
 
-👁️ 1K • 👍 90 • 💬 2 • ⏱️ 10:18 • 4h ago
+👁️ 1K • 👍 90 • 💬 2 • ⏱️ 10:18 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 5K • 👍 357 • 💬 59 • ⏱️ 9:23 • 7h ago
+👁️ 5K • 👍 357 • 💬 59 • ⏱️ 9:23 • 8h ago
 
 ---
 
@@ -391,7 +391,7 @@ Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitco
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 297 • 💬 22 • ⏱️ 14:41 • 3h ago
+👁️ 2K • 👍 297 • 💬 22 • ⏱️ 14:41 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 10K • 👍 678 • 💬 252 • ⏱️ 25:20 • 6h ago
+👁️ 10K • 👍 678 • 💬 252 • ⏱️ 25:20 • 7h ago
 
 ---
 
@@ -411,7 +411,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 298 • 💬 176 • ⏱️ 8:40 • 14h ago
+👁️ 9K • 👍 298 • 💬 176 • ⏱️ 8:40 • 15h ago
 
 ---
 

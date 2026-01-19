@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T07:51:56.481728+00:00'
+updated: '2026-01-19T08:35:02.481120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 07:51 UTC  
+**Last Updated:** January 19, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 17h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 10h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 The greatest conspiracy theories in the World are the ones that can take a fantastical story and add so much circumstantial evidence and other data points to it that it begins to make you wonder, "Is this true?" That's why more people are fascinated by the JFK assassination than they are of lizard people. Both sound unbelievable, but one contains real evidence and grounded logic that makes sense when you dig into it. The other? Not so much. That's why, as a fiction writer, I'm fascinated by conspiracy theories, particularly when it comes to politics because, well...There's a lot of them and when you're able to induce cognitive dissonance in others and make them question reality like how many probably felt after watching the Matrix, that's worth a ton in "audience gold" given how powerful that feeling can be. However, my problem has always been the convoluted nature of these kinds of stories. With a great conspiracy theory, you need to add a lot of moving parts that are interconnected (the evidence), and you have to possess a ton of knowledge in areas you may not be familiar with. Otherwise you'll struggle to turn a fantastical big picture into something that's grounded in reality. That's how you would make something like the "Hollow Moon" theory stick. I can write the plotlines, develop the characters, and add the drama. No problem. But when it comes to unpacking it with all those "facts" and realism so that I'm moving beyond the unbelievable and getting readers to truly question their reality, I'm virtually hopeless in that regard....That is, until I discovered mind-mapping with AI. Check this out. Doesn't look like much but this is Whitney Webb's 2 vol. series, "One Nation Under Blackmail" mapped out as a knowledge graph. It took over 60 hours to build since the information was dense, but I finally completed it! To say my hands are tired is an understatement, but this was totally worth it because now I can use her corpus of information that she's gathered about clandestine operations throughout the 20th Century and infuse that into this Sci-fi political thriller that I'm working on. I've had this idea for quite a while, but I never quite knew how to make it feel real, so I never bothered to develop it. But once I realized I can use mind mapping to convert books into LLM systems that can directly connect to my story, I decided to give it a shot. Before I get into this little sample of the story, it needs to be noted that this is not a simple document uploader connected to an AI like you might find on Gemini or ChatGPT. This is a way for anyone to build the "neurological" structure of a chatbot assistant based on any work you're doing. It means the books that I map out can act as information guides, but also act as systems to provide specific things that I need. In this case, I needed to add realism to my conspiracy by using Whitney Webb's academic research. This was the result: The Story: For generations, a secret society known as the Foundry has operated as the unseen hand guiding human history. Born from a secret pact with a silent, extraterrestrial "Benefactor," their sacred mission is to prepare humanity for First Contact. The terms were clear: by a pre-calculated moment in time—Timeline X—mankind must achieve global technological unity, masterful control over fundamental forces, and a single, functioning world government. To the Foundry's ruthless leadership, the path was obvious. Believing humanity's chaos, sentimentality, and free will—the "Original Flaw"—were liabilities, they embraced a doctrine of "Necessary Cruelty." Through engineered wars that accelerated technology, black-budget breeding programs that purged genetic "impurities," and systematic psychological abuse, they forged generations of perfect operatives. To ascend within their ranks is to prove one's utter devotion to the cause by performing the ultimate act of control: a ritual infant sacrifice, severing the final tie to the flawed human animal. Every atrocity, every life erased, was a calculated step toward creating a compliant, perfected species worthy of partnership with the stars. It's a non-linear story that follows six characters who unravel aspects of this entire grand conspiracy through inductive sequencing. It's taking pretty much every conspiracy theory we've heard and combining it into one grand narrative to connect them altogether. The idea sounds a bit hoaky, right? But once I started ironing out the finer details and how the Foundry operates by using my Whitney Webb chatbot, that's when this story went from, "Cool" to "Holy shit!". Here's an example of what I mean. Yes, it's a little long, but if you read it, you'll see how the Whitney Webb chatbot was able to derive knowledge from the two books, which added teeth to this idea of secret breeding programs to foster elite operators for carrying out the conspiracy. That sounds batshit insane and it is, but when you infuse this idea with real facts on how clandestine operators behave, suddenly the fantastical begins to feel more real than you ever thought it could. That's why I'm personally so excited about using AI in my writing because it's the one tool that can easily help me overcome this burden of adding the necessary dense information that's needed to tell a big story like this. Prior to AI, I was limited to only working on things that I was familiar with, but now it's like I can tackle anything without spending decades on research. Anywho, just wanted to share this. Hope it spurs some ideas on your end!
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 20h ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -147,19 +147,19 @@ The Guardian • 17h ago
 
 The incident has led some to call for more government regulation of artificial intelligence.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://www.bloomberg.com/news/articles/2026-01-18/-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool)**
 
-Bloomberg • 17h ago
+Bloomberg • 18h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ Axios • 14h ago
 
 **[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
 
-OpenAI • 11h ago
+OpenAI • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ OpenAI • 11h ago
 
 The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
-The Boston Globe • 20h ago
+The Boston Globe • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Boston Globe • 20h ago
 
 Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -245,7 +245,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 76 • 💬 47 • 12h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 76 • 💬 47 • 13h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -291,7 +291,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.2M • 👍 52K • 💬 5K • ⏱️ 15:50 • 12h ago
+👁️ 1.2M • 👍 52K • 💬 5K • ⏱️ 15:50 • 13h ago
 
 ---
 
@@ -301,7 +301,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 748 • 💬 52 • ⏱️ 7:01 • 16h ago
+👁️ 13K • 👍 748 • 💬 52 • ⏱️ 7:01 • 17h ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,160 • 16h ago
+⬇️ 1,540,901 • ❤️ 1,160 • 17h ago
 
 ---
 
@@ -423,7 +423,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 349 • 19h ago
+⬇️ 1,548 • ❤️ 349 • 20h ago
 
 ---
 
@@ -469,7 +469,7 @@ Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model su
 
 `text-to-speech`
 
-⬇️ 12,781 • ❤️ 292 • 12d ago
+⬇️ 12,781 • ❤️ 292 • 13d ago
 
 ---
 
@@ -676,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 4.5k • 🔱 739 • 12h ago
+⭐ 4.5k • 🔱 739 • 13h ago
 
 ---
 
@@ -686,7 +686,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.4k • 🔱 3.3k • 16h ago
+⭐ 3.4k • 🔱 3.3k • 17h ago
 
 ---
 
@@ -706,7 +706,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 275 • 1h ago
+⭐ 1.9k • 🔱 275 • 2h ago
 
 ---
 
@@ -716,7 +716,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 144 • 1h ago
+⭐ 1.8k • 🔱 144 • 2h ago
 
 ---
 
