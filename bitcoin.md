@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T03:52:20.103847+00:00'
+updated: '2026-01-19T04:53:45.654067+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 03:52 UTC  
+**Last Updated:** January 19, 2026 at 04:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,425.63
+### $92,690.73
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.6%  
-**7d:** -2.9%  
-**30d:** +4.5%  
-**90d:** -13.9%  
-**1y:** -9.5%  
+**7d:** -2.8%  
+**30d:** +4.6%  
+**90d:** -13.8%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1843.16B
+**Market Cap:** $1850.58B
 Rank #1
 
-**Circulating Supply:** 19,977,693 BTC
+**Circulating Supply:** 19,977,734 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.8%
+-26.5%
 
 **All-Time Low:** $67.81
-+136005.3%
++136517.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I can do this all day
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,19 @@ I can do this all day
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-17h ago
+18h ago
+
+---
+
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+53m ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -103,21 +109,21 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 If it goes down to 88 will buy some more
 
-1h ago
+3h ago
+
+---
+
+**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
+
+Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
+
+59m ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-4h ago
-
----
-
-**[Can someone explain?](https://www.reddit.com/r/Bitcoin/comments/1qgrbc6/can_someone_explain/)**
-
-So yesterday I went to check on some BTC cash I had stored for approx the last 8 years. 0$ balance. Fuck. Someone took it, and along with 5 other wallets, loaded another worth roughly 60k. I just want to understand how! I made paper wallets 8 years ago on bitaddress.org , and the send key had never been entered… ever. They got my 15k I mined a long time ago as an experiment with some friends. I get its gone, I just want to understand how. SNT
-
-1h ago
+5h ago
 
 ---
 
@@ -125,7 +131,7 @@ So yesterday I went to check on some BTC cash I had stored for approx the last 8
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-16h ago
+17h ago
 
 ---
 
@@ -133,21 +139,15 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
 
-6h ago
+7h ago
 
 ---
 
-**[What misconception about Bitcoin do you still see repeated today?p](https://www.reddit.com/r/Bitcoin/comments/1qgk9fu/what_misconception_about_bitcoin_do_you_still_see/)**
+**[Beginner Looking for a Neutral Perspective on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qgsphb/beginner_looking_for_a_neutral_perspective_on/)**
 
-I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
+Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
 
-6h ago
-
----
-
-**[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
-
-18h ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ I still notice the same ideas being repeated when people talk about Bitcoin, esp
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 9h ago
+Gizmodo • 10h ago
 
 ---
 
@@ -171,11 +171,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin price outlook: Why this expert predicts at least $130K](https://finance.yahoo.com/video/bitcoin-price-outlook-why-expert-130018124.html)**
+**[Bitcoin Slips On Trade War Fears, Sparks $865M in Liquidations](https://finance.yahoo.com/news/bitcoin-slips-trade-war-fears-033341559.html)**
 
-Bitcoin is holding onto gains as the CLARITY Act continues to face delays. Delta Blockchain Fund founder and general partner Kavita Gupta joins Market Domination Overtime host Josh Lipton to share her outlook for crypto this year, especially bitcoin (BTC-USD) and ethereum (ETH-USD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+Analysts say the resurgence in U.S.-EU trade war tensions has driven Bitcoin’s drop as U.S. markets remain closed for a public holiday.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,31 +185,33 @@ The New York Times • 2d ago
 
 ---
 
+**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
+
+Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Saylor’s 'Bigger Orange' Hint Has Strategy Closing in on 700,000 BTC](https://news.bitcoin.com/saylors-bigger-orange-hint-has-strategy-closing-in-on-700000-btc/)**
+
+At present, the bitcoin treasury company Strategy holds around 687,410 BTC, valued at a touch north of $65 billion.
+
+Bitcoin.com News • 11h ago
+
+---
+
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+
+CoinDesk • 2d ago
+
+---
+
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 15h ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 2d ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -221,11 +223,9 @@ Mother Jones • 2d ago
 
 ---
 
-**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
-
-CoinDesk • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -315,13 +315,23 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ## YouTube Videos: "bitcoin"
 
+**[Another Big Drop for Bitcoin and Crypto](https://www.youtube.com/watch?v=41jot1RdQio)**
+
+What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
+
+📺 CryptosRUs
+
+👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 1h ago
+
+---
+
 **[Satoshi Bitcoin Wallet Dumps EVERYTHING! Why Crypto ISN’T DEAD (Send This To 1 Friend)](https://www.youtube.com/watch?v=NX-AQYwhptg)**
 
 Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 253 • ⏱️ 14:15 • 6h ago
+👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 7h ago
 
 ---
 
@@ -331,17 +341,27 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 2K • 👍 239 • 💬 54 • ⏱️ 9:23 • 3h ago
+👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 4h ago
 
 ---
 
-**[XRP CRYPTO CRASHING LIVE!! What&#39;s Happening Now???](https://www.youtube.com/watch?v=ySncTFGV2Ec)**
+**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
 
-WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Oscar&#signUp join me on BTCC and ...
+COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
 
-📺 Oscar Ramos
+📺 AMCrypto
 
-👁️ 9K • 👍 505 • 💬 35 • ⏱️ 1:28:26 • 2h ago
+👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 1h ago
+
+---
+
+**[Is BITCOIN Is About to REPEAT 2022 CRASH? – The Next 10 DAYS will Decide Everything. BTC/ETH/ALTS](https://www.youtube.com/watch?v=fqltZp2JI0Q)**
+
+Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
+
+📺 FREEDOM TRADING ACADEMY
+
+👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 40m ago
 
 ---
 
@@ -351,17 +371,27 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 2K • 👍 164 • 💬 50 • ⏱️ 25:20 • 2h ago
+👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 3h ago
 
 ---
 
-**[BITCOIN: VOLATILITY INCOMING!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Y9u_bqvgeVU)**
+**[TRUMP JUST DID THE UNTHINKABLE.....](https://www.youtube.com/watch?v=g3QYTrEEAZs)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free Strategy Program ...
 
-📺 Road To $1 Million USD
+📺 Conor Kenny
 
-👁️ 2K • 👍 139 • 💬 81 • ⏱️ 5:48 • 5h ago
+👁️ 5K • 👍 374 • 💬 67 • ⏱️ 11:05 • 3h ago
+
+---
+
+**[URGENT: CRYPTO CRASH — XRP vs BTC LIVE CHART + Q&amp;A](https://www.youtube.com/watch?v=RgU-N_syabc)**
+
+XRP #Ripple #SEC #CryptoNews #XRPLawsuit #JudgeTorres #BreakingNews #CryptoRegulation #XRPCommunity #trading ...
+
+📺 EDO FARINA XRP (Alpha Lions Academy )
+
+👁️ 5K • 👍 511 • 💬 79 • ⏱️ 57:43 • 3h ago
 
 ---
 
@@ -371,47 +401,17 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 256 • 💬 188 • ⏱️ 8:40 • 10h ago
+👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 11h ago
 
 ---
 
-**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
+**[XRP CRYPTO CRASHING LIVE!! What&#39;s Happening Now???](https://www.youtube.com/watch?v=ySncTFGV2Ec)**
 
-Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
+WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Oscar&#signUp join me on BTCC and ...
 
-📺 The Wolf Of All Streets
+📺 Oscar Ramos
 
-👁️ 26K • 👍 1K • 💬 367 • ⏱️ 53:40 • 13h ago
-
----
-
-**[¡Rechazo clave! ¿Bitcoin a $100K o caída?](https://www.youtube.com/watch?v=KYjmZ79y_Lo)**
-
-Bitcoin #AnalisisTenico #bitcoinhoy OKX 10% de descuento en comisiones ▻ https://bit.ly/3Wv6uKj BINGX Ahorra 10% en ...
-
-📺 Billions Crypto
-
-👁️ 2K • 👍 262 • 💬 3 • ⏱️ 1:18:23 • 2h ago
-
----
-
-**[Crypto Arbitrage Strategy: Cold Market Setups That Still Pay / Bitcoin Prediction /Altcoin Arbitrage](https://www.youtube.com/watch?v=e-juNplx_xw)**
-
-Sell On: https://aimcryptospace.com Buy in : Bybit - https://www.bybit.com/ Binance - https://binance.com/ Kraken ...
-
-📺 Crafts for ME
-
-👁️ 6K • 👍 694 • 💬 99 • ⏱️ 3:59 • 13h ago
-
----
-
-**[This Could Be The End of Bitcoin…](https://www.youtube.com/watch?v=Kx_z1kTyYG0)**
-
-Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
-
-📺 Keith D
-
-👁️ 66K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
+👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 3h ago
 
 ---
 
