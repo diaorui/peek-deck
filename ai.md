@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T06:40:41.868407+00:00'
+updated: '2026-01-19T07:29:50.428108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 06:40 UTC  
+**Last Updated:** January 19, 2026 at 07:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 16h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Forget the blockchain bros and their laser eyes. The real currency of tomorrow i
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 9h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 **TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 The greatest conspiracy theories in the World are the ones that can take a fantastical story and add so much circumstantial evidence and other data points to it that it begins to make you wonder, "Is this true?" That's why more people are fascinated by the JFK assassination than they are of lizard people. Both sound unbelievable, but one contains real evidence and grounded logic that makes sense when you dig into it. The other? Not so much. That's why, as a fiction writer, I'm fascinated by conspiracy theories, particularly when it comes to politics because, well...There's a lot of them and when you're able to induce cognitive dissonance in others and make them question reality like how many probably felt after watching the Matrix, that's worth a ton in "audience gold" given how powerful that feeling can be. However, my problem has always been the convoluted nature of these kinds of stories. With a great conspiracy theory, you need to add a lot of moving parts that are interconnected (the evidence), and you have to possess a ton of knowledge in areas you may not be familiar with. Otherwise you'll struggle to turn a fantastical big picture into something that's grounded in reality. That's how you would make something like the "Hollow Moon" theory stick. I can write the plotlines, develop the characters, and add the drama. No problem. But when it comes to unpacking it with all those "facts" and realism so that I'm moving beyond the unbelievable and getting readers to truly question their reality, I'm virtually hopeless in that regard....That is, until I discovered mind-mapping with AI. Check this out. Doesn't look like much but this is Whitney Webb's 2 vol. series, "One Nation Under Blackmail" mapped out as a knowledge graph. It took over 60 hours to build since the information was dense, but I finally completed it! To say my hands are tired is an understatement, but this was totally worth it because now I can use her corpus of information that she's gathered about clandestine operations throughout the 20th Century and infuse that into this Sci-fi political thriller that I'm working on. I've had this idea for quite a while, but I never quite knew how to make it feel real, so I never bothered to develop it. But once I realized I can use mind mapping to convert books into LLM systems that can directly connect to my story, I decided to give it a shot. Before I get into this little sample of the story, it needs to be noted that this is not a simple document uploader connected to an AI like you might find on Gemini or ChatGPT. This is a way for anyone to build the "neurological" structure of a chatbot assistant based on any work you're doing. It means the books that I map out can act as information guides, but also act as systems to provide specific things that I need. In this case, I needed to add realism to my conspiracy by using Whitney Webb's academic research. This was the result: The Story: For generations, a secret society known as the Foundry has operated as the unseen hand guiding human history. Born from a secret pact with a silent, extraterrestrial "Benefactor," their sacred mission is to prepare humanity for First Contact. The terms were clear: by a pre-calculated moment in time—Timeline X—mankind must achieve global technological unity, masterful control over fundamental forces, and a single, functioning world government. To the Foundry's ruthless leadership, the path was obvious. Believing humanity's chaos, sentimentality, and free will—the "Original Flaw"—were liabilities, they embraced a doctrine of "Necessary Cruelty." Through engineered wars that accelerated technology, black-budget breeding programs that purged genetic "impurities," and systematic psychological abuse, they forged generations of perfect operatives. To ascend within their ranks is to prove one's utter devotion to the cause by performing the ultimate act of control: a ritual infant sacrifice, severing the final tie to the flawed human animal. Every atrocity, every life erased, was a calculated step toward creating a compliant, perfected species worthy of partnership with the stars. It's a non-linear story that follows six characters who unravel aspects of this entire grand conspiracy through inductive sequencing. It's taking pretty much every conspiracy theory we've heard and combining it into one grand narrative to connect them altogether. The idea sounds a bit hoaky, right? But once I started ironing out the finer details and how the Foundry operates by using my Whitney Webb chatbot, that's when this story went from, "Cool" to "Holy shit!". Here's an example of what I mean. Yes, it's a little long, but if you read it, you'll see how the Whitney Webb chatbot was able to derive knowledge from the two books, which added teeth to this idea of secret breeding programs to foster elite operators for carrying out the conspiracy. That sounds batshit insane and it is, but when you infuse this idea with real facts on how clandestine operators behave, suddenly the fantastical begins to feel more real than you ever thought it could. That's why I'm personally so excited about using AI in my writing because it's the one tool that can easily help me overcome this burden of adding the necessary dense information that's needed to tell a big story like this. Prior to AI, I was limited to only working on things that I was familiar with, but now it's like I can tackle anything without spending decades on research. Anywho, just wanted to share this. Hope it spurs some ideas on your end!
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNN • 19h ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
 **[Jeremy Grantham Says AI Is Indeed a Classic Market Bubble (Podcast)](https://www.bloomberg.com/news/articles/2026-01-19/jeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 1h ago
 
 As Super Bowl ad prices climb, Avocados From Mexico is leaning further into AI, designed to drive engagement and utility in real time.
 
-Digiday • 1h ago
+Digiday • 2h ago
 
 ---
 
@@ -161,19 +161,19 @@ Digiday • 1h ago
 
 The incident has led some to call for more government regulation of artificial intelligence.
 
-BBC • 22m ago
+BBC • 1h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
 **[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ Axios • 14h ago
 
 Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 18h ago
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -217,7 +217,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 89 • 💬 81 • 15h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 89 • 💬 81 • 16h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -239,7 +239,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 76 • 💬 45 • 11h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 76 • 💬 45 • 12h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -255,7 +255,7 @@ Introducing Confer, an end-to-end AI assistant that just works.
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 56 • 💬 41 • 5h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 56 • 💬 41 • 6h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -279,21 +279,11 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ## YouTube Videos: "ai"
 
-**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
-
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
-
-📺 Julia McCoy
-
-👁️ 12K • 👍 708 • 💬 52 • ⏱️ 7:01 • 15h ago
-
----
-
 **[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
 
 📺 Bob Reese
 
-👁️ 476K • 👍 24K • 💬 303 • ⏱️ 1:05 • 1d ago
+👁️ 486K • 👍 25K • 💬 305 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -303,7 +293,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 47K • 💬 5K • ⏱️ 15:50 • 11h ago
+👁️ 1.2M • 👍 52K • 💬 5K • ⏱️ 15:50 • 12h ago
+
+---
+
+**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
+
+📺 Julia McCoy
+
+👁️ 13K • 👍 748 • 💬 52 • ⏱️ 7:01 • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 16K • 👍 837 • 💬 36 • ⏱️ 12:49 • 18h ago
+👁️ 18K • 👍 890 • 💬 39 • ⏱️ 12:49 • 19h ago
 
 ---
 
@@ -323,7 +323,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 88K • 👍 4K • 💬 554 • ⏱️ 19:38 • 1d ago
+👁️ 89K • 👍 4K • 💬 557 • ⏱️ 19:38 • 1d ago
 
 ---
 
@@ -333,27 +333,17 @@ Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZ
 
 📺 JRE Clips
 
-👁️ 304K • 👍 6K • 💬 1K • ⏱️ 10:04 • 2d ago
+👁️ 311K • 👍 6K • 💬 1K • ⏱️ 10:04 • 2d ago
 
 ---
 
-**[Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI](https://www.youtube.com/watch?v=Nt7vzMiE0mY)**
+**[Groundbreaking AI tool can convert script to movies](https://www.youtube.com/watch?v=7OkS978snsg)**
 
-What's really happening with AI image generation in the enterprise? The common story is that tools like Nano Banana Pro are for ...
+Luma AI co-founder and CEO Amit Jain reveals how AI is being designed for 'creative work' on 'The Claman Countdown.
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Fox Business
 
-👁️ 8K • 👍 388 • 💬 45 • ⏱️ 29:19 • 11h ago
-
----
-
-**[AI News: Claude Can Now Control Your Computer!](https://www.youtube.com/watch?v=a_T5fjA2ulY)**
-
-Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was supposed to be a light news week. It absolutely ...
-
-📺 Matt Wolfe
-
-👁️ 52K • 👍 2K • 💬 128 • ⏱️ 31:10 • 1d ago
+👁️ 122K • 👍 3K • 💬 881 • ⏱️ 7:05 • 2d ago
 
 ---
 
@@ -363,17 +353,27 @@ You wanted a drunken Act Man rant, you've got one.. I'm sick of this AI SLOPPP! 
 
 📺 Act Man TV
 
-👁️ 184K • 👍 14K • 💬 2K • ⏱️ 22:14 • 1d ago
+👁️ 188K • 👍 15K • 💬 2K • ⏱️ 22:14 • 1d ago
 
 ---
 
-**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
+**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
 
-An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
+Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
 
-📺 The Infographics Show
+📺 BitBiasedAI
 
-👁️ 170K • 👍 5K • 💬 789 • ⏱️ 13:14 • 1d ago
+👁️ 10K • 👍 288 • 💬 21 • ⏱️ 23:04 • 1d ago
+
+---
+
+**[AI News: Claude Can Now Control Your Computer!](https://www.youtube.com/watch?v=a_T5fjA2ulY)**
+
+Try Perplexity Comet browser today - https://www.perplexity.ai/comet This was supposed to be a light news week. It absolutely ...
+
+📺 Matt Wolfe
+
+👁️ 53K • 👍 2K • 💬 131 • ⏱️ 31:10 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 6,635 • ❤️ 838 • 3d ago
+⬇️ 6,635 • ❤️ 843 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,152 • 15h ago
+⬇️ 1,540,901 • ❤️ 1,160 • 16h ago
 
 ---
 
@@ -413,7 +413,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 53,066 • ❤️ 753 • 11d ago
+⬇️ 53,066 • ❤️ 756 • 11d ago
 
 ---
 
@@ -425,7 +425,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,548 • ❤️ 346 • 18h ago
+⬇️ 1,548 • ❤️ 349 • 18h ago
 
 ---
 
@@ -437,7 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 12,782 • ❤️ 315 • 3d ago
+⬇️ 12,782 • ❤️ 320 • 3d ago
 
 ---
 
@@ -447,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 21,697 • ❤️ 290 • 4d ago
+⬇️ 21,697 • ❤️ 293 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 21,481 • ❤️ 269 • 4d ago
+⬇️ 21,481 • ❤️ 272 • 4d ago
 
 ---
 
@@ -483,7 +483,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 9,345 • ❤️ 195 • 3d ago
+⬇️ 9,345 • ❤️ 198 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 14,899 • ❤️ 189 • 3d ago
+⬇️ 14,899 • ❤️ 196 • 3d ago
 
 ---
 
@@ -521,7 +521,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,676 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,781 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
@@ -533,7 +533,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,304 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,338 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -548,6 +548,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 20 • 💬 4 • ⭐ 15,579 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 17 • 💬 2 • ⭐ 426 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -578,15 +590,15 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 ---
 
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
 
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
 
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 17 • 💬 2 • ⭐ 358 • 3d ago
+▲ 29 • 💬 3 • ⭐ 1,347 • 13d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
@@ -616,18 +628,6 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 ---
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
-
-To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
-
-▲ 29 • 💬 3 • ⭐ 1,288 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -638,7 +638,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 1h ago
+⭐ 9.0k • 🔱 1.2k • 48m ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 368 • 12h ago
+⭐ 7.7k • 🔱 380 • 13h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 6.7k • 🔱 327 • 2d ago
+⭐ 6.8k • 🔱 332 • 2d ago
 
 ---
 
@@ -668,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 655 • 11d ago
+⭐ 5.0k • 🔱 660 • 11d ago
 
 ---
 
@@ -678,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 4.1k • 🔱 699 • 11h ago
+⭐ 4.5k • 🔱 739 • 12h ago
 
 ---
 
@@ -688,7 +688,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.3k • 🔱 3.1k • 15h ago
+⭐ 3.4k • 🔱 3.3k • 16h ago
 
 ---
 
@@ -708,7 +708,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 272 • 1h ago
+⭐ 1.9k • 🔱 275 • 59m ago
 
 ---
 
@@ -718,7 +718,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 144 • 2h ago
+⭐ 1.8k • 🔱 144 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.4k • 🔱 101 • 20d ago
+⭐ 1.4k • 🔱 102 • 20d ago
 
 ---
 

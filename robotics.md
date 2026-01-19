@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T06:40:41.886402+00:00'
+updated: '2026-01-19T07:29:50.445809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 06:40 UTC  
+**Last Updated:** January 19, 2026 at 07:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 9h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 10h ago
 
 ---
 
@@ -50,13 +50,13 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-10h ago
+11h ago
 
 ---
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 14h ago
+SciTechDaily • 15h ago
 
 ---
 
@@ -191,21 +191,21 @@ Interesting Engineering • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+
+📺 Wowearth
+
+👁️ 175K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
+
+---
+
 **[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 291K • 👍 14K • 💬 3K • ⏱️ 19:17 • 3d ago
-
----
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 170K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
+👁️ 303K • 👍 14K • 💬 3K • ⏱️ 19:17 • 3d ago
 
 ---
 
@@ -215,7 +215,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 473K • 👍 14K • 💬 823 • ⏱️ 17:09 • 6d ago
+👁️ 473K • 👍 14K • 💬 824 • ⏱️ 17:09 • 6d ago
 
 ---
 
@@ -225,7 +225,27 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 564 • 👍 22 • 💬 1 • ⏱️ 2:17 • 5h ago
+👁️ 969 • 👍 32 • 💬 2 • ⏱️ 2:17 • 6h ago
+
+---
+
+**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+
+HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+
+📺 Deepen
+
+👁️ 20K • 👍 247 • 💬 4 • ⏱️ 0:23 • 2d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 897K • 👍 14K • 💬 1K • ⏱️ 33:05 • 13h ago
 
 ---
 
@@ -236,16 +256,6 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 📺 KhanFlicks
 
 👁️ 26K • 💬 26 • ⏱️ 6:37 • 3d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 812K • 👍 13K • 💬 978 • ⏱️ 33:05 • 12h ago
 
 ---
 
@@ -265,7 +275,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 131K • 👍 5K • 💬 350 • ⏱️ 17:36 • 4d ago
+👁️ 132K • 👍 5K • 💬 350 • ⏱️ 17:36 • 4d ago
 
 ---
 
@@ -275,17 +285,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 275K • 👍 12K • 💬 210 • ⏱️ 0:49 • 4d ago
-
----
-
-**[CES 2026&#39;s Wildest Tech: AI &amp; Robotics You Have to See](https://www.youtube.com/watch?v=8yLsLMNB5uc)**
-
-This year's CES offered a revealing look at where AI and robotics stand in 2026, with companies like Realbotix and Boston ...
-
-📺 Cheddar
-
-👁️ 43K • 👍 170 • 💬 15 • ⏱️ 9:43 • 4d ago
+👁️ 277K • 👍 12K • 💬 211 • ⏱️ 0:49 • 4d ago
 
 ---
 

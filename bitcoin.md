@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T06:40:41.876969+00:00'
+updated: '2026-01-19T07:29:50.436588+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 06:40 UTC  
+**Last Updated:** January 19, 2026 at 07:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1850.58B
+**Market Cap:** $1849.73B
 Rank #1
 
 **Circulating Supply:** 19,977,734 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.6%
 
 **All-Time Low:** $67.81
-+136517.0%
++136419.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I can do this all day
 
-5h ago
+6h ago
 
 ---
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ I can do this all day
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 If it goes down to 88 will buy some more
 
-4h ago
+5h ago
 
 ---
 
@@ -111,25 +111,25 @@ If it goes down to 88 will buy some more
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-19h ago
+20h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve s
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 12h ago
+Gizmodo • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 1d ago
 
 Strategy has bought nearly 15,000 BTC so far this year, pushing its stash to about 687,000 BTC as Saylor signals more purchases may be coming.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 2d ago
 
 Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 11h ago
 
 At present, the bitcoin treasury company Strategy holds around 687,410 BTC, valued at a touch north of $65 billion.
 
-Bitcoin.com News • 8h ago
+Bitcoin.com News • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bloomberg.com • 2d ago
 
 The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
-Tom's Hardware • 18h ago
+Tom's Hardware • 19h ago
 
 ---
 
@@ -321,7 +321,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 3h ago
+👁️ 17K • 👍 1K • 💬 208 • ⏱️ 6:08 • 4h ago
 
 ---
 
@@ -331,47 +331,17 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 9h ago
+👁️ 59K • 👍 3K • 💬 333 • ⏱️ 14:15 • 10h ago
 
 ---
 
-**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
+**[THIS IS WHY BITCOIN DUMPED...](https://www.youtube.com/watch?v=3XwsTVfulqQ)**
 
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 Jayson Casper
+📺 Crypto Rover
 
-👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 6h ago
-
----
-
-**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
-
-COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
-
-📺 AMCrypto
-
-👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 3h ago
-
----
-
-**[Is BITCOIN Is About to REPEAT 2022 CRASH? – The Next 10 DAYS will Decide Everything. BTC/ETH/ALTS](https://www.youtube.com/watch?v=fqltZp2JI0Q)**
-
-Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community Trade with Me on BLOFIN – Claim up to ...
-
-📺 FREEDOM TRADING ACADEMY
-
-👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 2h ago
-
----
-
-**[It’s Diverging At The Fastest Rate In History (Bitcoin, Silver, SP500)](https://www.youtube.com/watch?v=DwchDrlmWXI)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 5h ago
+👁️ 2K • 👍 217 • 💬 10 • ⏱️ 9:03 • 1h ago
 
 ---
 
@@ -381,17 +351,57 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 374 • 💬 67 • ⏱️ 11:05 • 5h ago
+👁️ 8K • 👍 513 • 💬 91 • ⏱️ 11:05 • 5h ago
 
 ---
 
-**[URGENT: CRYPTO CRASH — XRP vs BTC LIVE CHART + Q&amp;A](https://www.youtube.com/watch?v=RgU-N_syabc)**
+**[This Is Why Bitcoin Is Dumping](https://www.youtube.com/watch?v=L6DpYwlQSGI)**
 
-XRP #Ripple #SEC #CryptoNews #XRPLawsuit #JudgeTorres #BreakingNews #CryptoRegulation #XRPCommunity #trading ...
+This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: ...
 
-📺 EDO FARINA XRP (Alpha Lions Academy )
+📺 Mister Crypto
 
-👁️ 5K • 👍 511 • 💬 79 • ⏱️ 57:43 • 4h ago
+👁️ 667 • 👍 54 • 💬 4 • ⏱️ 8:41 • 2h ago
+
+---
+
+**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
+
+COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
+
+📺 AMCrypto
+
+👁️ 1K • 👍 90 • 💬 2 • ⏱️ 10:18 • 4h ago
+
+---
+
+**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+
+📺 Jayson Casper
+
+👁️ 5K • 👍 357 • 💬 59 • ⏱️ 9:23 • 7h ago
+
+---
+
+**[BITCOIN DUMPS ON EU US TARIFF WAR BUT WHALES KEEP BUYING!](https://www.youtube.com/watch?v=eJ9uQXA7hO4)**
+
+Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitcoin holders buy the most coins since the FTX ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 297 • 💬 22 • ⏱️ 14:41 • 3h ago
+
+---
+
+**[It’s Diverging At The Fastest Rate In History (Bitcoin, Silver, SP500)](https://www.youtube.com/watch?v=DwchDrlmWXI)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 10K • 👍 678 • 💬 252 • ⏱️ 25:20 • 6h ago
 
 ---
 
@@ -401,17 +411,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 13h ago
-
----
-
-**[XRP CRYPTO CRASHING LIVE!! What&#39;s Happening Now???](https://www.youtube.com/watch?v=ySncTFGV2Ec)**
-
-WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Oscar&#signUp join me on BTCC and ...
-
-📺 Oscar Ramos
-
-👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 5h ago
+👁️ 9K • 👍 298 • 💬 176 • ⏱️ 8:40 • 14h ago
 
 ---
 

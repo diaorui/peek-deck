@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T06:40:41.883127+00:00'
+updated: '2026-01-19T07:29:50.442557+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 06:40 UTC  
+**Last Updated:** January 19, 2026 at 07:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $387.79B
+**Market Cap:** $386.30B
 Rank #2
 
 **Circulating Supply:** 120,694,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.0%
+-35.3%
 
 **All-Time Low:** $0.43
-+742132.3%
++739067.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-39m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I'm thinking about quitting ethereum all together.](https://www.reddit.com/r/ethereum/comments/1qgwlnn/im_thinking_about_quitting_ethereum_all_together/)**
 
-15m ago
+1h ago
 
 ---
 
@@ -152,7 +152,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 2d ago
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 46m ago
 
 Ethereum is seeing record transaction activity and lower fees as staking remains steady, showing the network’s durability and stability.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Block • 2d ago
 
 Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
 
-Coinpedia • 18h ago
+Coinpedia • 19h ago
 
 ---
 
@@ -214,7 +214,7 @@ Coinpedia • 18h ago
 
 ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 10 • ⏱️ 8:02 • 5h ago
+👁️ 2K • 👍 133 • 💬 11 • ⏱️ 8:02 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 266 • 💬 74 • ⏱️ 9:21 • 19h ago
+👁️ 6K • 👍 270 • 💬 71 • ⏱️ 9:21 • 20h ago
 
 ---
 
@@ -256,7 +256,27 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 67K • 👍 3K • 💬 174 • ⏱️ 10:28 • 1d ago
+👁️ 69K • 👍 3K • 💬 175 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 3K • 💬 245 • ⏱️ 12:19 • 1d ago
+
+---
+
+**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 5K • 👍 239 • 💬 37 • ⏱️ 13:56 • 1d ago
 
 ---
 
@@ -266,7 +286,17 @@ This video conducts a detailed ethereum analysis, examining its recent performan
 
 📺 David Blewett
 
-👁️ 116 • 👍 15 • 💬 29 • ⏱️ 13:24 • 7h ago
+👁️ 157 • 👍 16 • 💬 25 • ⏱️ 13:24 • 8h ago
+
+---
+
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
+
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
+
+📺 CoinDesk
+
+👁️ 9K • 👍 243 • 💬 74 • ⏱️ 24:55 • 2d ago
 
 ---
 
@@ -280,53 +310,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 9K • 👍 241 • 💬 79 • ⏱️ 24:55 • 2d ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 3K • 💬 247 • ⏱️ 12:19 • 1d ago
-
----
-
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 5K • 👍 238 • 💬 37 • ⏱️ 13:56 • 1d ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 372 • 💬 263 • ⏱️ 19:48 • 19h ago
-
----
-
 **[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 889 • 💬 28 • ⏱️ 16:47 • 2d ago
+👁️ 26K • 👍 891 • 💬 28 • ⏱️ 16:47 • 2d ago
+
+---
+
+**[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 735 • 💬 56 • ⏱️ 15:35 • 1d ago
 
 ---
 
