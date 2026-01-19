@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T04:53:45.663280+00:00'
+updated: '2026-01-19T05:32:29.453735+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 04:53 UTC  
+**Last Updated:** January 19, 2026 at 05:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Futurism • 1d ago
 
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 22m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Motley Fool • 2d ago
 
 Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
 
-KPTV • 22h ago
+KPTV • 23h ago
 
 ---
 

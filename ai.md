@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T04:53:45.645533+00:00'
+updated: '2026-01-19T05:32:29.435973+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 04:53 UTC  
+**Last Updated:** January 19, 2026 at 05:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Already 25 data center cancellations and postponements this month, expecting to 
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 14h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-5m ago
+44m ago
 
 ---
 
@@ -81,7 +81,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 Forget the blockchain bros and their laser eyes. The real currency of tomorrow is compute, and you're going to earn it by feeding the beast.
 
-🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 14m ago
+🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 53m ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -139,19 +139,19 @@ The Guardian • 14h ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
 **[Micron Says ‘Unprecedented’ Memory Shortage to Last Beyond 2026](https://www.bloomberg.com/news/articles/2026-01-19/micron-says-unprecedented-memory-shortage-to-last-beyond-2026)**
 
-Bloomberg.com • 38m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 13h ago
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 14h ago
 
 Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -181,13 +181,13 @@ Financial Times • 16h ago
 
 The artificial receptionists, being used to take orders and field calls, have been met with resistance from some customers who said they can’t get the service they are used to.
 
-The Boston Globe • 17h ago
+The Boston Globe • 18h ago
 
 ---
 
 **[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
 
-OpenAI • 8h ago
+OpenAI • 9h ago
 
 ---
 
@@ -199,7 +199,7 @@ OpenAI • 8h ago
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 101 • 💬 36 • 22h ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 101 • 💬 36 • 23h ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -237,7 +237,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 76 • 💬 44 • 9h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 76 • 💬 44 • 10h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -283,7 +283,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 708 • 💬 52 • ⏱️ 7:01 • 13h ago
+👁️ 12K • 👍 708 • 💬 52 • ⏱️ 7:01 • 14h ago
 
 ---
 
@@ -301,7 +301,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 47K • 💬 5K • ⏱️ 15:50 • 9h ago
+👁️ 1.1M • 👍 47K • 💬 5K • ⏱️ 15:50 • 10h ago
 
 ---
 
@@ -341,7 +341,7 @@ What's really happening with AI image generation in the enterprise? The common s
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 8K • 👍 388 • 💬 45 • ⏱️ 29:19 • 9h ago
+👁️ 8K • 👍 388 • 💬 45 • ⏱️ 29:19 • 10h ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,152 • 13h ago
+⬇️ 1,540,901 • ❤️ 1,152 • 14h ago
 
 ---
 
@@ -507,7 +507,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 24 • 💬 1 • ⭐ 2,815 • 6d ago
+▲ 24 • 💬 1 • ⭐ 2,815 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -636,7 +636,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 36s ago
+⭐ 9.0k • 🔱 1.2k • 39m ago
 
 ---
 
@@ -676,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 4.1k • 🔱 699 • 9h ago
+⭐ 4.1k • 🔱 699 • 10h ago
 
 ---
 
@@ -686,7 +686,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.3k • 🔱 3.1k • 13h ago
+⭐ 3.3k • 🔱 3.1k • 14h ago
 
 ---
 
@@ -706,7 +706,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 272 • 1m ago
+⭐ 1.8k • 🔱 272 • 40m ago
 
 ---
 
@@ -716,7 +716,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 144 • 31m ago
+⭐ 1.8k • 🔱 144 • 1h ago
 
 ---
 

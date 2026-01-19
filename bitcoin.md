@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T04:53:45.654067+00:00'
+updated: '2026-01-19T05:32:29.444458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 04:53 UTC  
+**Last Updated:** January 19, 2026 at 05:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -117,13 +117,13 @@ If it goes down to 88 will buy some more
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-59m ago
+1h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ I see people writing: “So late in, it’s not really that lucrative anymore �
 
 Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve s
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 10h ago
+Gizmodo • 11h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 At present, the bitcoin treasury company Strategy holds around 687,410 BTC, valued at a touch north of $65 billion.
 
-Bitcoin.com News • 11h ago
+Bitcoin.com News • 12h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -321,7 +321,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 1h ago
+👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 7h ago
+👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 4h ago
+👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 5h ago
 
 ---
 
@@ -351,7 +351,7 @@ COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation ev
 
 📺 AMCrypto
 
-👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 1h ago
+👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community T
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 40m ago
+👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 1h ago
 
 ---
 
@@ -371,7 +371,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 3h ago
+👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 11h ago
+👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 12h ago
 
 ---
 
@@ -411,7 +411,7 @@ WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Os
 
 📺 Oscar Ramos
 
-👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 3h ago
+👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 4h ago
 
 ---
 
