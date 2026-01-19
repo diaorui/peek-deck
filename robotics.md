@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T16:31:52.726022+00:00'
+updated: '2026-01-19T17:24:27.621494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 16:31 UTC  
+**Last Updated:** January 19, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 19h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
 
-7h ago
+8h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Robot Report • 3h ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ WRGB • 1d ago
 
 Robotics continues to be a growing extracurricular in Central Iowa Schools with programs doubling in participation in many of those schools. With the growth, schools are upgrading robotics to the classroom. In Newton, the high school will soon have a robotics classroom thanks to growing interest, funding and awards. Newton High School and Team Newbotics […]
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -239,7 +239,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 46 • 💬 2 • ⏱️ 2:17 • 15h ago
+👁️ 1K • 👍 46 • 💬 2 • ⏱️ 2:17 • 16h ago
 
 ---
 
@@ -249,7 +249,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 4K • 💬 7 • ⏱️ 0:07 • 6h ago
+👁️ 4K • 💬 7 • ⏱️ 0:07 • 7h ago
 
 ---
 
@@ -269,7 +269,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 9K • 👍 76 • 💬 19 • ⏱️ 3:19 • 2d ago
+👁️ 9K • 👍 76 • 💬 19 • ⏱️ 3:19 • 3d ago
 
 ---
 
@@ -279,7 +279,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 22h ago
+👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 23h ago
 
 ---
 
