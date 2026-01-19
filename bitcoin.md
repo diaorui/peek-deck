@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T21:42:53.533556+00:00'
+updated: '2026-01-19T22:22:51.221996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 21:42 UTC  
+**Last Updated:** January 19, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hard to buy the dip when you're already all in!
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,13 +109,13 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-9h ago
+10h ago
 
 ---
 
 **[This sub asked so I rebuilt it. Bitcoin company trackers, all free data, and now with a chat. This is how we Bitcoiners orange pill Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1qhdjaa/this_sub_asked_so_i_rebuilt_it_bitcoin_company/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -127,13 +127,13 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-7h ago
+8h ago
 
 ---
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-17h ago
+18h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 3d ago
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcYyTG519IQPny5bxFIriaend9S4X_TNle8lVdT4BH3lUeM3UE4avS2&gaa_ts=696ea8c5&gaa_sig=OUkxEyP4VJmXwO2JVmrc5bV6Ks08Z6fbxdCm36aNTts5tl-Hkd7HbJmphDkyZdPizBI0gAUmwPgjPauUoTL1_A%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ Tom's Hardware • 1d ago
 
 Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -219,7 +219,7 @@ The New York Times • 3d ago
 
 Restaurant chain Steak ‘n Shake is doubling down on Bitcoin after crediting the crypto asset with driving rising sales last year.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -231,7 +231,7 @@ Decrypt • 1h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 8h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 9h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -255,7 +255,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 12h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -271,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -313,7 +313,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 801 • 💬 258 • ⏱️ 8:03 • 3h ago
+👁️ 10K • 👍 801 • 💬 258 • ⏱️ 8:03 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 10h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 2K • 💬 50 • ⏱️ 20:35 • 6h ago
+👁️ 18K • 👍 2K • 💬 50 • ⏱️ 20:35 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 15K • 👍 742 • 💬 111 • ⏱️ 15:35 • 9h ago
+👁️ 15K • 👍 742 • 💬 111 • ⏱️ 15:35 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Erik Anderson
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 4K • 👍 3K • 2h ago
 
 ---
 
@@ -373,7 +373,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 4K • 👍 703 • 💬 182 • ⏱️ 12:22 • 6h ago
+👁️ 4K • 👍 703 • 💬 182 • ⏱️ 12:22 • 7h ago
 
 ---
 
@@ -393,7 +393,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 591 • 👍 46 • 💬 60 • ⏱️ 9:14 • 5h ago
+👁️ 591 • 👍 46 • 💬 60 • ⏱️ 9:14 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T21:42:53.539710+00:00'
+updated: '2026-01-19T22:22:51.227993+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 21:42 UTC  
+**Last Updated:** January 19, 2026 at 22:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 1h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 The original drive to build Ethereum was heavily inspired by decentralized autonomous organizations: systems of code and rules that lived on decentralized networks that could manage resources and direct activity, more efficiently and more robustly than traditional governments and corporations could. Since then, the concept of DAOs has migrated to essentially referring to a treasury controlled by token holder voting - a design which "works", hence why it got copied so much, but a design which is inefficient, vulnerable to capture, and fails utterly at the goal of mitigating the weaknesses of human politics. As a result, many have become cynical about DAOs. But we need DAOs. We need DAOs to create better oracles. Today, decentralized stablecoins, prediction markets, and other basic building blocks of defi are built on oracle designs that we are not satisfied with. If the oracle is token based, whales can manipulate the answer on a subjective issue and it becomes difficult to counteract them. Fundamentally, a token-based oracle cannot have a cost of attack higher than its market cap, which in turn means it cannot secure assets without extracting rent higher than the discount rate. And if the oracle uses human curation, then it's not very decentralized. The problem here is not greed. The problem is that we have bad oracle designs, we need better ones, and bootstrapping them is not just a technical problem but also a social problem. We need DAOs for onchain dispute resolution, a necessary component of many types of more advanced smart contract use cases (eg. insurance). This is the same type of problem as price oracles, but even more subjective, and so even harder to get right. We need DAOs to maintain lists. This includes: lists of applications known to be secure or not scams, lists of canonical interfaces, lists of token contract addresses, and much more. We need DAOs to get projects off the ground quickly. If you have a group of people, who all want something done and are willing to contribute some funds (perhaps in exchange for benefits), then how do you manage this, especially if the task is too short-duration for legal entities to be worth it? We need DAOs to do long-term project maintenance. If the original team of a project disappears, how can a community keep going, and how can new people coming in get the funding they need? One framework that I use to analyze this is "convex vs concave" from https://vitalik.eth.limo/general/2020/11/08/concave.html . If the DAO is solving a concave problem, then it is in an environment where, if faced with two possible courses of action, a compromise is better than a coin flip. Hence, you want systems that maximize robustness by averaging (or rather, medianing) in input from many sources, and protect against capture and financial attacks. If the DAO is solving a convex problem, then you want the ability to make decisive choices and follow through on them. In this case, leaders can be good, and the job of the decentralized process should be to keep the leaders in check. For all of this to work, we need to solve two problems: privacy, and decision fatigue. Without privacy, governance becomes a social game (see https://vitalik.eth.limo/general/2025/04/14/privacy.html ). And if people have to make decisions every week, for the first month you see excited participation, but over time willingness to participate, and even to stay informed, declines. I see modern technology as opening the door to a renaissance here. Specifically: ZK (and in some cases MPC/FHE, though these should be used only when ZK along cannot solve the problem) for privacy AI to solve decision fatigue Consensus-finding communication tools (like pol.is, but going further) AI must be used carefully: we must not put full-size deepseek (or worse, GPT 5.2) in charge of a DAO and call it a day. Rather, AI must be put in thoughtfully, as something that scales and enhances human intention and judgement, rather than replacing it. This could be done at DAO level (eg. see how https://www.deepfunding.org/ works), or at individual level (user-controlled local LLMs that vote on their behalf). It is important to think about the "DAO stack" as also including the communication layer, hence the need for forums and platforms specially designed for the purpose. A multisig plus well-designed consensus-finding tools can easily beat idealized collusion-resistant quadratic funding plus crypto twitter. But in all cases, we need new designs. Projects that need new oracles and want to build their own should see that as 50% of their job, not 10%. Projects working on new governance designs should build with ZK and AI in mind, and they should treat the communication layer as 50% of their job, not 10%. This is how we can ensure the decentralization and robustness of the Ethereum base layer also applies to the world that gets built on top.
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-4h ago
+5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 7h ago
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 23h ago
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 3d ago
 
 The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 5h ago
 
 Bitmine Immersion Technologies (BMNR) is in focus after committing US$200 million to Beast Industries, the company tied to YouTube creator MrBeast, while at the same time increasing its large scale Ethereum staking activity. See our latest analysis for Bitmine Immersion Technologies. These Beast Industries headlines and the ramp up in Ethereum staking come after a tough period, with a 90 day share price return of a 42.08% decline, but a very large 1 year total shareholder return and a 3 year...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -222,7 +222,7 @@ CryptoSlate • 1d ago
 
 **[Ethereum Hits Transaction Record as Fees Crash to Pennies](https://99bitcoins.com/news/altcoins/ethereum-transactions-record-low-fees/)**
 
-99Bitcoins • 9h ago
+99Bitcoins • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 10h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 126 • 💬 3 • ⏱️ 7:47 • 4h ago
+👁️ 1K • 👍 126 • 💬 3 • ⏱️ 7:47 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 148 • 👍 17 • 💬 45 • ⏱️ 8:16 • 3h ago
+👁️ 148 • 👍 17 • 💬 45 • ⏱️ 8:16 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T21:42:53.524929+00:00'
+updated: '2026-01-19T22:22:51.213570+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 21:42 UTC  
+**Last Updated:** January 19, 2026 at 22:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 7h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNN • 1d ago
 
 **[Korea Kicks Off AI Squid Game in Bid to Compete with US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models)**
 
-Bloomberg.com • 42m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 42m ago
 
 SoundHound AI, Lemonade, and CoreWeave will all profit from that secular trend.
 
-The Motley Fool • 41m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[What to watch at Davos 2026 tariffs, AI, and wars crowd the agenda](https://qz.com/davos-2026-preview-trump-ai-geopolitics-tariffs-war)**
 
-qz.com • 25m ago
+qz.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 1d ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -197,19 +197,19 @@ Axios • 9h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 292 • 💬 407 • 20h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 292 • 💬 407 • 21h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 208 • 💬 82 • 11h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 208 • 💬 82 • 12h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 141 • 💬 152 • 8h ago
+⬆️ 141 • 💬 152 • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 104 • 💬 111 • 6h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 104 • 💬 111 • 7h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -279,7 +279,7 @@ STOP Paying!! 3 UNCENSORED AI Video Generators That Are Actually FREE Start Prin
 
 📺 Brain Project
 
-👁️ 1K • 👍 115 • 💬 45 • ⏱️ 10:51 • 7h ago
+👁️ 1K • 👍 115 • 💬 45 • ⏱️ 10:51 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ AI -----------------------------------------------------------------------------
 
 📺 Raid Owl
 
-👁️ 4K • 👍 295 • 💬 87 • ⏱️ 22:52 • 8h ago
+👁️ 4K • 👍 295 • 💬 87 • ⏱️ 22:52 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 9K • 👍 201 • 💬 10 • ⏱️ 9:20 • 17h ago
+👁️ 9K • 👍 201 • 💬 10 • ⏱️ 9:20 • 18h ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,178 • 8h ago
+⬇️ 1,540,901 • ❤️ 1,178 • 9h ago
 
 ---
 
@@ -429,7 +429,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 306 • 7h ago
+⬇️ 26,093 • ❤️ 306 • 8h ago
 
 ---
 
@@ -453,7 +453,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 0 • ❤️ 279 • 5h ago
+⬇️ 0 • ❤️ 279 • 6h ago
 
 ---
 
@@ -465,7 +465,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 26,367 • ❤️ 278 • 4d ago
+⬇️ 26,367 • ❤️ 278 • 5d ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 413 • 5h ago
+⭐ 8.1k • 🔱 413 • 6h ago
 
 ---
 
@@ -682,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 7h ago
+⭐ 3.7k • 🔱 3.6k • 8h ago
 
 ---
 
@@ -712,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 5h ago
+⭐ 1.8k • 🔱 146 • 6h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.5k • 🔱 103 • 20d ago
+⭐ 1.5k • 🔱 103 • 21d ago
 
 ---
 
