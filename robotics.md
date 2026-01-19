@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T22:22:51.231235+00:00'
+updated: '2026-01-19T22:47:09.306498+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 22:22 UTC  
+**Last Updated:** January 19, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,15 +66,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-4h ago
-
----
-
-**[Asking Help for Static Analysis of Robotic Arm for Topology Optimisation](https://www.reddit.com/r/robotics/comments/1qhbqc2/asking_help_for_static_analysis_of_robotic_arm/)**
-
-Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
-
-4h ago
+5h ago
 
 ---
 
@@ -83,6 +75,14 @@ Hello everyone, I am currently working on a project involving topology optimisat
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
 12h ago
+
+---
+
+**[Asking Help for Static Analysis of Robotic Arm for Topology Optimisation](https://www.reddit.com/r/robotics/comments/1qhbqc2/asking_help_for_static_analysis_of_robotic_arm/)**
+
+Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
+
+4h ago
 
 ---
 
@@ -114,6 +114,14 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 ## Google News: "robotics"
 
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 7h ago
+
+---
+
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
@@ -122,9 +130,17 @@ TechCrunch • 1d ago
 
 ---
 
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 1d ago
+
+---
+
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -141,22 +157,6 @@ Interesting Engineering • 15h ago
 The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
 
 South China Morning Post • 10h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 7h ago
-
----
-
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
-
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
-
-WRGB • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 3d ago
 
 Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-The Robot Report • 8h ago
+The Robot Report • 9h ago
 
 ---
 
@@ -218,7 +218,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 22K • 💬 7 • ⏱️ 0:07 • 12h ago
+👁️ 22K • 💬 7 • ⏱️ 0:07 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 135K • 👍 5K • 💬 365 • ⏱️ 17:36 • 4d ago
+👁️ 135K • 👍 5K • 💬 365 • ⏱️ 17:36 • 5d ago
 
 ---
 

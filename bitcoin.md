@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T22:22:51.221996+00:00'
+updated: '2026-01-19T22:47:09.297173+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 22:22 UTC  
+**Last Updated:** January 19, 2026 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,076.75
+### $92,903.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -2.5%  
-**30d:** +5.0%  
-**90d:** -13.5%  
-**1y:** -9.1%  
+**24h:** -1.0%  
+**7d:** -2.7%  
+**30d:** +4.7%  
+**90d:** -13.7%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -137,11 +137,11 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 ---
 
-**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
+**[Does financing a Bitcoin make ... sense?](https://www.reddit.com/r/Bitcoin/comments/1qhd0w8/does_financing_a_bitcoin_make_sense/)**
 
-Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
+I saw a video on X about a company letting people finance Bitcoin like a home or car (long-term, fixed payments). I’m not a Bitcoiner, but I immediately saw the potential if returns outperform the financing cost. Has anyone here financed BTC before — or would you? If yes, how much BTC would you be comfortable financing?
 
-18h ago
+3h ago
 
 ---
 
@@ -149,39 +149,31 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 ## Google News: "bitcoin"
 
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg.com • 3d ago
-
----
-
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcYyTG519IQPny5bxFIriaend9S4X_TNle8lVdT4BH3lUeM3UE4avS2&gaa_ts=696ea8c5&gaa_sig=OUkxEyP4VJmXwO2JVmrc5bV6Ks08Z6fbxdCm36aNTts5tl-Hkd7HbJmphDkyZdPizBI0gAUmwPgjPauUoTL1_A%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqeU8i4EFekNxwZC12Fjf0kcmYA1EMNDc4c8ge_cqQ2_ncMw3yvh8kvH&gaa_ts=696eb7d3&gaa_sig=6nBy0SKI5W9ZAWu0KpLUj8Ws7vTdYwGLtW-YR8aNBWPj09jTpgYeiZptsH5Vpyfyd9xArKJMPFJ9kEa1Jrm_fg%3D%3D)**
 
 MarketWatch • 7h ago
 
 ---
 
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
 
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Tom's Hardware • 1d ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
-
-Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
-
-Yahoo Finance • 11h ago
+Forbes • 9h ago
 
 ---
 
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+Bloomberg.com • 11h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Billionaire warns Greenland episode shatters Bitcoin myth](https://finance.yahoo.com/news/billionaire-warns-greenland-episode-shatters-210013607.html)**
+
+While Bitcoin (BTC) maximalists may think of the leading cryptocurrency as the "digital gold," billionaire Frank Giustra thinks the Greenland episode has shattered any such myth. Gold is a safe haven and Bitcoin is a risk-on asset, he asserted. Giustra is a Canadian billionaire ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,11 +193,11 @@ Gizmodo • 1d ago
 
 ---
 
-**[‘Get Ready’—U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/19/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
 
-traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
+Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
 
-Forbes • 8h ago
+Business Insider • 2d ago
 
 ---
 
@@ -220,6 +212,14 @@ The New York Times • 3d ago
 Restaurant chain Steak ‘n Shake is doubling down on Bitcoin after crediting the crypto asset with driving rising sales last year.
 
 Decrypt • 2h ago
+
+---
+
+**[American Burger Chain Makes $10 Million Bitcoin Purchase](https://finance.yahoo.com/news/american-burger-chain-makes-10-204503804.html)**
+
+Steak ’n Shake has invested $10 million in Bitcoin, embedding BTC accumulation directly into its daily operations.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -263,7 +263,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 1d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 2d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -323,7 +323,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 11h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 444 • ⏱️ 6:08 • 18h ago
+👁️ 35K • 👍 2K • 💬 444 • ⏱️ 6:08 • 19h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 15K • 👍 742 • 💬 111 • ⏱️ 15:35 • 10h ago
+👁️ 15K • 👍 742 • 💬 111 • ⏱️ 15:35 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 366 • 💬 247 • ⏱️ 16:30 • 16h ago
+👁️ 7K • 👍 366 • 💬 247 • ⏱️ 16:30 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 591 • 👍 46 • 💬 60 • ⏱️ 9:14 • 6h ago
+👁️ 591 • 👍 46 • 💬 60 • ⏱️ 9:14 • 7h ago
 
 ---
 

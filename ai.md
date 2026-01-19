@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T22:22:51.213570+00:00'
+updated: '2026-01-19T22:47:09.288652+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 22:22 UTC  
+**Last Updated:** January 19, 2026 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 7h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 2h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 10h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-4h ago
+5h ago
 
 ---
 
@@ -109,23 +109,17 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 ---
 
-**[Elon Musk’s xAI launches world’s first Gigawatt AI supercluster to rival OpenAI and Anthropic](https://www.reddit.com/r/artificial/comments/1qgjzg6/elon_musks_xai_launches_worlds_first_gigawatt_ai/)**
+**[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
 
-Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
+After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 1d ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
-
-The New York Times • 12h ago
-
----
 
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
@@ -135,27 +129,41 @@ CNN • 1d ago
 
 ---
 
-**[Korea Kicks Off AI Squid Game in Bid to Compete with US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-Bloomberg.com • 1h ago
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
----
-
-**[3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency](https://www.fool.com/investing/2026/01/19/3-artificial-intelligence-ai-stocks-with-more-pote/)**
-
-SoundHound AI, Lemonade, and CoreWeave will all profit from that secular trend.
-
-The Motley Fool • 1h ago
+Fortune • 7h ago
 
 ---
 
-**[What to watch at Davos 2026 tariffs, AI, and wars crowd the agenda](https://qz.com/davos-2026-preview-trump-ai-geopolitics-tariffs-war)**
+**[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
 
-qz.com • 1h ago
+Bloomberg.com • 37m ago
 
 ---
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdiZpSJjvbjQkIuTutX9DFaSBP8yu-4eBEIP6JABoBWFwTvfld4kCB-&gaa_ts=696ea8c4&gaa_sig=IHgRX2VF8ISXpFyGisxrqSFSTGqlBadbPhTOeWA44VNle92p-fmFDD4AkDLxsp37vpICPB5EKYOUF65AaFLLfA%3D%3D)**
+**[Better Artificial Intelligence Stock: BigBear.ai vs. C3.ai](https://www.fool.com/investing/2026/01/19/better-artificial-intelligence-stock-bigbearai-vs/)**
+
+Which of these AI underdogs has a better shot at a turnaround?
+
+The Motley Fool • 44m ago
+
+---
+
+**[Why companies need to build products with global AI compliance in mind](https://www.fastcompany.com/91473586/why-companies-need-to-build-products-with-global-ai-compliance-in-mind)**
+
+Fast Company • 44m ago
+
+---
+
+**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqeVDae09AvaYmmfB3aZZi2lIaZOwQumMzOk9QNGt2t7fXfOase3amAz&gaa_ts=696eb7d1&gaa_sig=nGA7REr-WQ6GkvPEjDXkHedmt40YMGk518FrlGubmv5UaxaDkz-Qk1sjF9ZuAizs-sH4Gu0aX8BXLX0ChnXhjw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -166,14 +174,6 @@ The Wall Street Journal • 2d ago
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
 The Guardian • 1d ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 7h ago
 
 ---
 
@@ -197,19 +197,19 @@ Axios • 9h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 292 • 💬 407 • 21h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 294 • 💬 410 • 21h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 208 • 💬 82 • 12h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 213 • 💬 83 • 12h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 141 • 💬 152 • 9h ago
+⬆️ 143 • 💬 156 • 9h ago
 
 ---
 
@@ -229,19 +229,19 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 ---
 
+**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
+
+ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
+
+⬆️ 100 • 💬 83 • 4h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+
+---
+
 **[AI companies will fail. We can salvage something from the wreckage](https://news.ycombinator.com/item?id=46668170)**
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
 ⬆️ 98 • 💬 85 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
-
----
-
-**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
-
-ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
-
-⬆️ 93 • 💬 73 • 3h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -367,7 +367,7 @@ Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 e
 
 📺 Dumanity
 
-👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 13h ago
+👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 14h ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,178 • 9h ago
+⬇️ 1,540,901 • ❤️ 1,178 • 10h ago
 
 ---
 
@@ -632,7 +632,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 13h ago
+⭐ 9.1k • 🔱 1.2k • 14h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 819 • 12h ago
+⭐ 5.0k • 🔱 819 • 13h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 288 • 15h ago
+⭐ 2.0k • 🔱 288 • 16h ago
 
 ---
 
@@ -712,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 6h ago
+⭐ 1.8k • 🔱 146 • 7h ago
 
 ---
 

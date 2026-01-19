@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T22:22:51.227993+00:00'
+updated: '2026-01-19T22:47:09.303230+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 22:22 UTC  
+**Last Updated:** January 19, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -3.2%  
-**30d:** +7.1%  
-**90d:** -15.5%  
-**1y:** -1.9%  
+**24h:** -2.6%  
+**7d:** -3.7%  
+**30d:** +6.6%  
+**90d:** -16.0%  
+**1y:** -2.4%  
 
 ---
 
@@ -112,7 +112,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-5h ago
+6h ago
 
 ---
 
@@ -152,17 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
-
-The Block • 2d ago
-
----
-
 **[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -170,7 +164,15 @@ Decrypt • 7h ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
+
+Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
+
+Coinpedia • 1d ago
 
 ---
 
@@ -188,19 +190,17 @@ CoinDesk • 16h ago
 
 ---
 
-**[Is Solana's Pain a Game Changer for Ethereum?](https://www.fool.com/investing/2026/01/16/is-solanas-pain-a-game-changer-for-ethereum/)**
+**[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
 
-The smaller chain could lose ground in an important arena during a critical period.
-
-The Motley Fool • 3d ago
+TipRanks • 1h ago
 
 ---
 
-**[Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target](https://www.tradingview.com/news/newsbtc:6324476c6094b:0-ethereum-s-4-hour-chart-says-a-big-dump-is-coming-here-s-the-target/)**
+**[Ethereum Network Activity Explodes, Market Structure Points To Upside Continuation](https://www.tradingview.com/news/newsbtc:e4b181914094b:0-ethereum-network-activity-explodes-market-structure-points-to-upside-continuation/)**
 
-The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
+Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -212,17 +212,17 @@ Yahoo Finance • 23h ago
 
 ---
 
+**[Ethereum Hits Transaction Record as Fees Crash to Pennies](https://99bitcoins.com/news/altcoins/ethereum-transactions-record-low-fees/)**
+
+99Bitcoins • 10h ago
+
+---
+
 **[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
 
 Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
 
 CryptoSlate • 1d ago
-
----
-
-**[Ethereum Hits Transaction Record as Fees Crash to Pennies](https://99bitcoins.com/news/altcoins/ethereum-transactions-record-low-fees/)**
-
-99Bitcoins • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 11h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 148 • 👍 17 • 💬 45 • ⏱️ 8:16 • 4h ago
+👁️ 148 • 👍 17 • 💬 45 • ⏱️ 8:16 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 186 • 💬 157 • ⏱️ 21:07 • 3h ago
+👁️ 2K • 👍 186 • 💬 157 • ⏱️ 21:07 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 448 • 👍 14 • 💬 12 • ⏱️ 4:52 • 11h ago
+👁️ 448 • 👍 14 • 💬 12 • ⏱️ 4:52 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium 
 
 📺 Bankless
 
-👁️ 3K • 👍 105 • 💬 27 • ⏱️ 1:02:56 • 10h ago
+👁️ 3K • 👍 105 • 💬 27 • ⏱️ 1:02:56 • 11h ago
 
 ---
 
