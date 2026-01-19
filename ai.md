@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T13:47:09.781339+00:00'
+updated: '2026-01-19T14:29:17.988370+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 13:47 UTC  
+**Last Updated:** January 19, 2026 at 14:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 2h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 3h ago
 
 ---
 
@@ -49,7 +49,15 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 23h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 1d ago
+
+---
+
+**[Computational Functionalism, Philosophy, and the Future of AI Consciousness](https://www.reddit.com/r/artificial/comments/1qh5dw5/computational_functionalism_philosophy_and_the/)**
+
+In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
+
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 8m ago
 
 ---
 
@@ -73,7 +81,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +89,7 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +97,7 @@ Hey guys, I need to start writing business plans including Research & Developmen
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 16h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 17h ago
 
 ---
 
@@ -97,21 +105,13 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-10h ago
+11h ago
 
 ---
 
 **[Explainability and Interpretability of Multilingual Large Language Models: A Survey](https://www.reddit.com/r/artificial/comments/1qgf995/explainability_and_interpretability_of/)**
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
-
-19h ago
-
----
-
-**[Manage large product catalog’s at scale](https://www.reddit.com/r/artificial/comments/1qgdmfs/manage_large_product_catalogs_at_scale/)**
-
-**TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
 20h ago
 
@@ -121,9 +121,11 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdynzuaimltzweRpCjKQ_qK7jmOEfnbfhUBxFL0mSxAovs-Wyg2yUFW&gaa_ts=696e2c93&gaa_sig=3lGapGXFLMgs6hKs_XFT_mm4iX9yo2A0eIzqvQBlaE4ySDX3UQKWR3Av7kgCYLyKDRoylriK0QUKzHQc_rRGtQ%3D%3D)**
+**[Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’](https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings)**
 
-The Wall Street Journal • 1d ago
+His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
+
+The Guardian • 3h ago
 
 ---
 
@@ -135,59 +137,55 @@ CNN • 1d ago
 
 ---
 
-**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
+**[What the Numbers Show About AI’s Harms](https://time.com/7346091/ai-harm-risk/)**
 
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+Incidents arising from use of the technology, such as deepfake-enabled scams and chatbot-induced delusions have been rising steadily.
 
-The Guardian • 23h ago
+Time Magazine • 23m ago
 
 ---
 
-**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble)**
+**[Can AI really replace your SEO team?](https://www.fastcompany.com/91476717/can-ai-really-replace-your-seo-team)**
 
-Bloomberg.com • 1h ago
+Fast Company • 23m ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
-**[Could This Be the Most Misunderstood Artificial Intelligence (AI) Stock on the Market?](https://finance.yahoo.com/news/could-most-misunderstood-artificial-intelligence-113000008.html)**
+**[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-This tech player has been increasing its spending on AI.
-
-Yahoo Finance • 2h ago
+Axios • 1h ago
 
 ---
 
-**[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
+**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://www.bloomberg.com/news/features/2026-01-19/andreessen-horowitz-makes-a-3-billion-bet-against-the-ai-bubble)**
 
-Axios • 21h ago
-
----
-
-**[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**
-
-Energy abundance, open-source models and manufacturing strengths will push Beijing into first place
-
-Financial Times • 1d ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdiYp6blD9T2nrwhyGfhEERY4sRZjI777WUMa_gkUYeTe2ekrEJYXQT&gaa_ts=696e431d&gaa_sig=1GWQNTOz2j7jQg04bSy2p9kadMJWzHu0Lrjut1NIsrFAtpUnr8QWOKd13PbE36GNVL7CUzmofOqrZ2Oh-Y7E6Q%3D%3D)**
 
-OpenAI • 17h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[She runs her company with 17 AI 'employees.' She says there's no going back.](https://www.businessinsider.com/built-steve-jobs-custom-gpt-to-make-my-business-decisions-2026-1)**
+**[IMF warns global economic resilience at risk if AI falters](https://www.ft.com/content/2af4d92a-452c-4d35-ab55-3afce930f98a)**
 
-Solopreneur Yesim Saydan shares how she trained over 17 custom GPT workers and a Steve Jobs—inspired custom GPT to work for her consultancy agency.
+Fund’s chief economist says there are reasons to be concerned about a potential AI correction
 
-Business Insider • 2d ago
+Financial Times • 4h ago
+
+---
+
+**[IMF Warns AI, Trade Pose Risks to Solid Global Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-19/imf-warns-ai-trade-pose-risks-to-solid-global-growth-outlook)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -199,13 +197,13 @@ Business Insider • 2d ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 171 • 💬 225 • 12h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 210 • 💬 275 • 13h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 111 • 💬 39 • 3h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 143 • 💬 55 • 4h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
@@ -213,7 +211,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 106 • 💬 36 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 106 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -221,7 +219,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 96 • 💬 81 • 23h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 96 • 💬 82 • 23h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -245,7 +243,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 79 • 💬 49 • 18h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 81 • 💬 49 • 19h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -265,11 +263,9 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ---
 
-**[Show HN: I built a tool to assist AI agents to know when a PR is good to go](https://news.ycombinator.com/item?id=46656759)**
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-Deterministic PR readiness detection for AI coding agents
-
-⬆️ 39 • 💬 32 • 2d ago • [Good To Go](https://dsifry.github.io/goodtogo/)
+⬆️ 41 • 💬 17 • 1h ago
 
 ---
 
@@ -283,7 +279,7 @@ Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 
 
 📺 Journey With The Hintons
 
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 11:46 • 17h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 11:46 • 18h ago
 
 ---
 
@@ -301,7 +297,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 814 • 💬 56 • ⏱️ 7:01 • 22h ago
+👁️ 15K • 👍 814 • 💬 56 • ⏱️ 7:01 • 23h ago
 
 ---
 
@@ -331,7 +327,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.5M • 👍 59K • 💬 6K • ⏱️ 15:50 • 18h ago
+👁️ 1.5M • 👍 59K • 💬 6K • ⏱️ 15:50 • 19h ago
 
 ---
 
@@ -371,7 +367,7 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 109K • 👍 7K • 💬 934 • ⏱️ 9:27 • 22h ago
+👁️ 109K • 👍 7K • 💬 934 • ⏱️ 9:27 • 23h ago
 
 ---
 
@@ -423,7 +419,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 333 • 3d ago
+⬇️ 17,594 • ❤️ 333 • 4d ago
 
 ---
 
@@ -469,7 +465,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 14,296 • ❤️ 204 • 3d ago
+⬇️ 14,296 • ❤️ 204 • 4d ago
 
 ---
 
@@ -686,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.6k • 🔱 3.5k • 3m ago
+⭐ 3.6k • 🔱 3.5k • 45m ago
 
 ---
 
@@ -716,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 53m ago
+⭐ 1.8k • 🔱 146 • 1h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T13:47:09.790286+00:00'
+updated: '2026-01-19T14:29:17.996848+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 13:47 UTC  
+**Last Updated:** January 19, 2026 at 14:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,100.00
+### $92,967.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -2.3%  
-**30d:** +5.1%  
-**90d:** -13.5%  
-**1y:** -9.1%  
+**24h:** -2.3%  
+**7d:** -2.6%  
+**30d:** +4.8%  
+**90d:** -13.7%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-9h ago
+10h ago
+
+---
+
+**[Which you picking?](https://www.reddit.com/r/Bitcoin/comments/1qh33sd/which_you_picking/)**
+
+1h ago
 
 ---
 
@@ -87,7 +93,23 @@ Rank #1
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-9h ago
+10h ago
+
+---
+
+**[The BTC market doesn’t close](https://www.reddit.com/r/Bitcoin/comments/1qh4mn6/the_btc_market_doesnt_close/)**
+
+Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
+
+39m ago
+
+---
+
+**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
+
+I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
+
+2h ago
 
 ---
 
@@ -99,17 +121,15 @@ I can do this all day
 
 ---
 
-**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
+**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
-
-1h ago
+9h ago
 
 ---
 
-**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
+**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-8h ago
+37m ago
 
 ---
 
@@ -117,15 +137,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 If it goes down to 88 will buy some more
 
-11h ago
-
----
-
-**[From Bitcoin skeptic to owning 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1qg5jc1/from_bitcoin_skeptic_to_owning_01_btc/)**
-
-Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
-
-1d ago
+12h ago
 
 ---
 
@@ -133,21 +145,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-6h ago
-
----
-
-**[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
-
-1d ago
-
----
-
-**[Finally .2 BTC at 25 y/o](https://www.reddit.com/r/Bitcoin/comments/1qgpmcu/finally_2_btc_at_25_yo/)**
-
-I had been off and on of investing into Bitcoin the last couple years. At one point I had a decent position around 60k but ended up selling... I've done enough research to decide I'm in for the long run and invested all throughout 2025. I do have a emergency fund outside of this (about 5k) to prevent me from wanting/needing to sell but just excited to share that I've got a fifth in my cold wallet. Blessings!
-
-12h ago
+7h ago
 
 ---
 
@@ -159,7 +157,7 @@ I had been off and on of investing into Bitcoin the last couple years. At one po
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 19h ago
+Gizmodo • 20h ago
 
 ---
 
@@ -171,45 +169,41 @@ CNBC • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/19/where-will-bitcoin-be-in-3-years/)**
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/19/should-you-forget-bitcoin-and-buy-xrp-instead/)**
 
-For Bitcoin investors, 2028 is lining up to be an important year.
+Don't ignore Bitcoin's historical track record of success.
 
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqdXW1SZx_R7GxoR_2NUUd0-gyWAiP-RgDAwsqP0dLxbw_QrRo3E-lCn&gaa_ts=696e2c95&gaa_sig=umlTa_Ih8VeaCiUVEVVf2oWx0ZdkdCKgQ4dhsEWcPyDg9Wk7jkV2s4wVwPUOKGsDhHTfR3BDllxOT7Kkcb7_jg%3D%3D)**
-
-Barron's • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin drops below key support, triggering $815 million in liquidations: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/19/bitcoin-slips-below-key-support-as-tariff-talk-rattles-crypto-crypto-markets-today)**
+**[Crypto exchange rolls back its blockchain after glitch prices bitcoin at $0](https://www.coindesk.com/business/2026/01/19/paradex-rolls-back-blockchain-after-data-glitch-valuing-bitcoin-at-usd0-triggers-mass-liquidations)**
 
-Crypto prices fell alongside global equities after reports the EU is preparing retaliatory tariffs against the U.S.
+Starknet-based DEX Paradex reversed its blockchain to an earlier block after a database migration error briefly crashed bitcoin’s price to zero.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin falls. Cryptos face deep selloff if price plunges below this key level.](https://www.msn.com/en-us/money/markets/bitcoin-falls-cryptos-face-deep-selloff-if-price-plunges-below-this-key-level/ar-AA1UuNWX?ocid=finance-verthp-feeds)**
+**[Bitcoin hashrate drops 15% from October high as miner capitulation drags into almost 60 days](https://www.coindesk.com/markets/2026/01/19/btc-hashrate-drops-15-from-october-high-as-miner-capitulation-drags-into-almost-60-days)**
 
-MSN • 2h ago
+Bitcoin mining difficulty set for a 4% decline, the seventh negative adjustment in the past eight.
+
+CoinDesk • 1h ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://finance.yahoo.com/news/where-bitcoin-3-years-113500005.html)**
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
 
-For Bitcoin investors, 2028 is lining up to be an important year.
+A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -219,11 +213,19 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[Chart Of The Day: Is Bitcoin (BTC-USD)... Back?](https://seekingalpha.com/article/4860879-chart-of-day-is-bitcoin-back)**
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
 
-After managing to avoid making lower lows in December, Bitcoin began to perk up after New Yearâs Day. Itâs looking like it wants to make an assault on the $100000 level again. Read more here
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
-Seeking Alpha • 2h ago
+Tom's Hardware • 1d ago
+
+---
+
+**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
+
+Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -247,11 +249,19 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 ---
 
+**[Disclosure of Aliens Could Cause Bitcoin Rush – Former Bank of England Analyst](https://news.ycombinator.com/item?id=46678682)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+⬆️ 2 • 💬 1 • 1h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+
+---
+
 **[Led by Texas, New Hampshire, U.S. states put Bitcoin on public balance sheet](https://news.ycombinator.com/item?id=46677022)**
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 4h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -285,14 +295,6 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 ---
 
-**[I built an interactive SHA-256 visualizer](https://news.ycombinator.com/item?id=46588789)**
-
-Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
-
-⬆️ 1 • 💬 1 • 6d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
-
----
-
 **[Earn Money and Take a Shower](https://news.ycombinator.com/item?id=46599328)**
 
 An apartment building can be turned into a huge cryptocurrency exchange
@@ -317,7 +319,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 10h ago
+👁️ 28K • 👍 1K • 💬 385 • ⏱️ 6:08 • 11h ago
 
 ---
 
@@ -337,7 +339,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 16h ago
+👁️ 72K • 👍 3K • 💬 406 • ⏱️ 14:15 • 17h ago
 
 ---
 
@@ -347,7 +349,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 7h ago
+👁️ 6K • 👍 472 • 💬 82 • ⏱️ 5:22 • 8h ago
 
 ---
 
@@ -357,7 +359,7 @@ In today's video, Kyledoops shows you why a large cohort of people are positione
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 5h ago
+👁️ 13K • 👍 1K • 💬 18 • ⏱️ 26:58 • 6h ago
 
 ---
 
@@ -367,7 +369,7 @@ The crypto market has experienced a sharp drop over the last day, and everyone a
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 3h ago
+👁️ 3K • 👍 340 • 💬 27 • ⏱️ 9:46 • 4h ago
 
 ---
 
@@ -377,7 +379,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 13h ago
+👁️ 6K • 👍 403 • 💬 128 • ⏱️ 9:23 • 14h ago
 
 ---
 
@@ -387,7 +389,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 NieDoZajechania
 
-👁️ 6K • 👍 3K • 2h ago
+👁️ 6K • 👍 3K • 3h ago
 
 ---
 
