@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T17:48:36.500268+00:00'
+updated: '2026-01-19T18:34:15.550340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 17:48 UTC  
+**Last Updated:** January 19, 2026 at 18:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1856.98B
+**Market Cap:** $1856.59B
 Rank #1
 
-**Circulating Supply:** 19,977,962 BTC
+**Circulating Supply:** 19,978,025 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -26.3%
 
 **All-Time Low:** $67.81
-+136946.2%
++136919.6%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-3h ago
+4h ago
 
 ---
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,13 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-5h ago
+6h ago
 
 ---
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -115,7 +115,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-13h ago
+14h ago
 
 ---
 
@@ -123,13 +123,13 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 Hard to buy the dip when you're already all in!
 
-1h ago
+2h ago
 
 ---
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hard to buy the dip when you're already all in!
 
 Coinbase says the U.S. cryptocurrency market structure bill could be passed within about a month if Congress can find a final compromise.
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ I can do this all day
 
 traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 3d ago
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdsz9ZjRrxfsuDS8NUTt45FB91XwurVSuXytOGyDVDm_MTp-M_gFCj8&gaa_ts=696e71dc&gaa_sig=QMELSTuTy7Y0tHVrZ_w7JX9VxrFslVku5nxrKqzkkQe_5vq5EofqiCVn7EZYkG4GQQMIDdfrHLuVn_xWj-mMhA%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Tom's Hardware • 1d ago
 
 A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 2d ago
 
 Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 6h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 23h ago
+Gizmodo • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ The New York Times • 3d ago
 
 Bitcoin ETFs led with a $1.42 billion netflow as digital asset funds saw their highest inflows since October last week.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -235,7 +235,7 @@ Decrypt • 2h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 3 • 💬 1 • 4h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 3 • 💬 1 • 5h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 7h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 8h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -311,13 +311,33 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
+**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
+
+Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 7h ago
+
+---
+
+**[I’m Buying This Greenland Tariff Bitcoin Dump! ](https://www.youtube.com/watch?v=4FOJcbR_278)**
+
+Bitcoin and the broader crypto market turned lower after reports that Trump is threatening tariffs on EU countries, reigniting macro ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 3h ago
+
+---
+
 **[Another Big Drop for Bitcoin and Crypto](https://www.youtube.com/watch?v=41jot1RdQio)**
 
 What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 417 • ⏱️ 6:08 • 14h ago
+👁️ 34K • 👍 2K • 💬 452 • ⏱️ 6:08 • 15h ago
 
 ---
 
@@ -327,17 +347,17 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 8K • 👍 572 • 💬 68 • ⏱️ 15:35 • 6h ago
+👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 6h ago
 
 ---
 
-**[Satoshi Bitcoin Wallet Dumps EVERYTHING! Why Crypto ISN’T DEAD (Send This To 1 Friend)](https://www.youtube.com/watch?v=NX-AQYwhptg)**
+**[The REAL REASON Why CRYPTO IS CRASHING!! How LOW Will It GO!?](https://www.youtube.com/watch?v=hUb2ekPFASg)**
 
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+The crypto market has experienced a sharp drop over the last day, and everyone assumes that it's because of tensions between ...
 
-📺 Altcoin Daily
+📺 Coin Bureau Trading
 
-👁️ 75K • 👍 3K • 💬 430 • ⏱️ 14:15 • 20h ago
+👁️ 6K • 👍 494 • 💬 41 • ⏱️ 9:46 • 8h ago
 
 ---
 
@@ -347,37 +367,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 316 • 💬 235 • ⏱️ 16:30 • 12h ago
+👁️ 7K • 👍 352 • 💬 266 • ⏱️ 16:30 • 13h ago
 
 ---
 
-**[Bitcoin Trap Is Almost Fully Set! [Positioning Matters NOW]](https://www.youtube.com/watch?v=NjgwY0eyz_8)**
+**[Satoshi Bitcoin Wallet Dumps EVERYTHING! Why Crypto ISN’T DEAD (Send This To 1 Friend)](https://www.youtube.com/watch?v=NX-AQYwhptg)**
 
-In today's video, Kyledoops shows you why a large cohort of people are positioned incorrectly & in less than 48-hours they will ...
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 25 • ⏱️ 26:58 • 9h ago
-
----
-
-**[How To Damage Bitcoin Forever](https://www.youtube.com/watch?v=4oYQ1tu7GPg)**
-
-Please help to support this channel's work: https://www.youtube.com/@Bitcoin_University/join In this video, I discuss how the ...
-
-📺 Bitcoin University
-
-👁️ 718 • 👍 190 • 💬 95 • ⏱️ 12:22 • 2h ago
+👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 21h ago
 
 ---
 
-**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
+**[🚨URGENT: Bitcoin Is About to CRASH! | Most People Will Miss This⚠️](https://www.youtube.com/watch?v=ojKZo5LuH08)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
 
-📺 Crypto Kid
+📺 DataDash
 
-👁️ 7K • 👍 533 • 💬 93 • ⏱️ 5:22 • 11h ago
+👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 2h ago
 
 ---
 
@@ -387,17 +397,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 7K • 👍 943 • 💬 177 • ⏱️ 8:03 • 8h ago
-
----
-
-**[Bitcoin Bull Market Support Band](https://www.youtube.com/watch?v=9s2OO9U6oBY)**
-
-It is once again time for an update to the Bitcoin bull market support band. For inquiries: https://www.benjamincowen.com/ Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 38K • 👍 3K • 💬 100 • ⏱️ 6:54 • 13h ago
+👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 9h ago
 
 ---
 
@@ -407,7 +407,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 9K • 👍 500 • 💬 53 • ⏱️ 9:59 • 8h ago
+👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 9h ago
 
 ---
 

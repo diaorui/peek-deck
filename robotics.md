@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T17:48:36.508353+00:00'
+updated: '2026-01-19T18:34:15.559616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 17:48 UTC  
+**Last Updated:** January 19, 2026 at 18:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-11m ago
+57m ago
 
 ---
 
@@ -74,7 +74,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 2d ago
 
 Our guest this week is Spencer Krause, CEO and co-founder of SKA Robotics and co-founder of Tension Robotics.
 
-The Robot Report • 6m ago
+The Robot Report • 51m ago
 
 ---
 
@@ -140,7 +140,7 @@ The Robot Report • 6m ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ WRGB • 1d ago
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ Tom's Hardware • 6h ago
 
 📺 Wowearth
 
-👁️ 182K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
+👁️ 184K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
 
 ---
 
@@ -212,6 +212,16 @@ Both Chinese and US humanoid robots successfully land a backflip A moment that s
 
 ---
 
+**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
+
+What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
+
+📺 Future Lens Pi
+
+👁️ 7K • 💬 7 • ⏱️ 0:07 • 9h ago
+
+---
+
 **[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
 At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
@@ -219,6 +229,16 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 📺 KhanFlicks
 
 👁️ 26K • 💬 26 • ⏱️ 6:37 • 4d ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 9K • 👍 77 • 💬 19 • ⏱️ 3:19 • 3d ago
 
 ---
 
@@ -238,17 +258,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 46 • 💬 2 • ⏱️ 2:17 • 16h ago
-
----
-
-**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
-
-What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
-
-📺 Future Lens Pi
-
-👁️ 4K • 💬 7 • ⏱️ 0:07 • 8h ago
+👁️ 2K • 👍 53 • 💬 2 • ⏱️ 2:17 • 17h ago
 
 ---
 
@@ -258,27 +268,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 287K • 👍 13K • 💬 214 • ⏱️ 0:49 • 4d ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 9K • 👍 76 • 💬 19 • ⏱️ 3:19 • 3d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 1.3M • 👍 18K • 💬 1K • ⏱️ 33:05 • 1d ago
+👁️ 292K • 👍 13K • 💬 214 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -288,7 +278,17 @@ Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by wat
 
 📺 Fox Business
 
-👁️ 12K • 👍 212 • 💬 81 • ⏱️ 5:12 • 1d ago
+👁️ 12K • 👍 215 • 💬 79 • ⏱️ 5:12 • 1d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 1.5M • 👍 20K • 💬 1K • ⏱️ 33:05 • 1d ago
 
 ---
 

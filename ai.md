@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T17:48:36.492663+00:00'
+updated: '2026-01-19T18:34:15.541741+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 17:48 UTC  
+**Last Updated:** January 19, 2026 at 18:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 6h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-4m ago
+50m ago
 
 ---
 
@@ -81,7 +81,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 3h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 20h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 21h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNN • 1d ago
 
 His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 6h ago
 
 Elon Musk suggested you don't need to bother saving for a 401 (k) because of AI. Business Insider's readers weren't on board.
 
-Business Insider • 16m ago
+Business Insider • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 16m ago
 
 C3.ai has recently faced a mix of positive contract wins, including U.S. Army logistics projects, and negative signals such as insider share sales and revenue declines, while continuing to post losses and margin pressure. An important takeaway is that Anthropic's launch of its Claude Cowork autonomous enterprise AI agent is challenging C3.ai’s traditional top-down platform model, sharpening investor focus on whether the company can adapt and convert pilots into durable, recurring revenue...
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Yahoo Finance • 40m ago
 
 In 2024, Andreessen Horowitz set up a $1.25 billion fund for AI infrastructure projects. Now, the venture capital firm is committing an additional $1.7
 
-PYMNTS.com • 19m ago
+PYMNTS.com • 1h ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Wall Street Journal • 2d ago
 
 **[Jeremy Grantham Says AI Is Indeed a Classic Market Bubble (Podcast)](https://www.bloomberg.com/news/articles/2026-01-19/jeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -201,19 +201,19 @@ The Motley Fool • 4h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 285 • 💬 378 • 16h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 285 • 💬 378 • 17h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 193 • 💬 73 • 7h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 193 • 💬 73 • 8h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 114 • 💬 121 • 4h ago
+⬆️ 114 • 💬 121 • 5h ago
 
 ---
 
@@ -229,7 +229,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 98 • 💬 79 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 98 • 💬 79 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -261,7 +261,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 84 • 💬 50 • 22h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 84 • 💬 50 • 23h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -281,37 +281,7 @@ Big Tech doesn't care if you want AI or not. They should.
 
 📺 Bob Reese
 
-👁️ 507K • 👍 26K • 💬 317 • ⏱️ 1:05 • 2d ago
-
----
-
-**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
-
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
-
-📺 Julia McCoy
-
-👁️ 15K • 👍 836 • 💬 58 • ⏱️ 7:01 • 1d ago
-
----
-
-**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
-
-📺 Julia McCoy
-
-👁️ 92K • 👍 4K • 💬 574 • ⏱️ 19:38 • 2d ago
-
----
-
-**[Ben Affleck &amp; Matt Damon on The Limits of AI in Movie Making](https://www.youtube.com/watch?v=O-2OsvVJC0s)**
-
-Taken from JRE #2440 w/Ben Affleck and Matt Damon YouTube: https://youtu.be/AVEZBy1uAk8 JRE on Spotify: ...
-
-📺 JRE Clips
-
-👁️ 330K • 👍 6K • 💬 2K • ⏱️ 10:04 • 2d ago
+👁️ 522K • 👍 26K • 💬 320 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -321,7 +291,17 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 113K • 👍 7K • 💬 965 • ⏱️ 9:27 • 1d ago
+👁️ 118K • 👍 7K • 💬 994 • ⏱️ 9:27 • 1d ago
+
+---
+
+**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
+
+📺 Julia McCoy
+
+👁️ 16K • 👍 850 • 💬 61 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -331,17 +311,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 22K • 👍 1K • 💬 49 • ⏱️ 12:49 • 1d ago
-
----
-
-**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 7K • 👍 189 • 💬 11 • ⏱️ 9:45 • 1d ago
+👁️ 23K • 👍 1K • 💬 52 • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -351,7 +321,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.6M • 👍 62K • 💬 6K • ⏱️ 15:50 • 22h ago
+👁️ 1.7M • 👍 65K • 💬 6K • ⏱️ 15:50 • 23h ago
+
+---
+
+**[NEW Antigravity 2.0 + FREE AI Agents Update is INSANE!](https://www.youtube.com/watch?v=-_yvPQn43Yk)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 8K • 👍 196 • 💬 10 • ⏱️ 9:20 • 14h ago
+
+---
+
+**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
+
+The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
+
+📺 KolaDepth
+
+👁️ 7K • 👍 188 • 💬 57 • ⏱️ 24:36 • 18h ago
 
 ---
 
@@ -361,15 +351,27 @@ Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most importa
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 311 • 💬 24 • ⏱️ 23:04 • 1d ago
+👁️ 11K • 👍 317 • 💬 24 • ⏱️ 23:04 • 1d ago
 
 ---
 
-**[AI wants to be your boss](https://www.youtube.com/watch?v=udBnZeNqLkw)**
+**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
 
-📺 Alberta Tech
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
-👁️ 254K • 👍 14K • 💬 381 • ⏱️ 0:37 • 22h ago
+📺 Julian Goldie SEO
+
+👁️ 8K • 👍 203 • 💬 11 • ⏱️ 9:45 • 1d ago
+
+---
+
+**[ONLY 1% Can Spot The AI (Impossible Level) #asmr](https://www.youtube.com/watch?v=QKIfVlJ5oAQ)**
+
+BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
+
+📺 Dong ASMR
+
+👁️ 183K • 👍 8K • 💬 404 • ⏱️ 0:53 • 21h ago
 
 ---
 
@@ -385,7 +387,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 7,589 • ❤️ 856 • 4d ago
+⬇️ 7,589 • ❤️ 861 • 4d ago
 
 ---
 
@@ -409,7 +411,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,172 • 5h ago
+⬇️ 1,540,901 • ❤️ 1,175 • 5h ago
 
 ---
 
@@ -421,7 +423,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 338 • 4d ago
+⬇️ 17,594 • ❤️ 346 • 4d ago
 
 ---
 
@@ -431,7 +433,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 305 • 3h ago
+⬇️ 26,093 • ❤️ 306 • 4h ago
 
 ---
 
@@ -443,7 +445,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 766 • 12d ago
+⬇️ 55,233 • ❤️ 769 • 12d ago
 
 ---
 
@@ -459,6 +461,18 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 ---
 
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 0 • ❤️ 229 • 2h ago
+
+---
+
 **[FLUX.2-klein-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B)**
 
 *Black Forest Labs*
@@ -467,7 +481,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 211 • 3d ago
+⬇️ 18,931 • ❤️ 214 • 4d ago
 
 ---
 
@@ -479,19 +493,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 14,296 • ❤️ 205 • 4d ago
-
----
-
-**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
-
-*Black Forest Labs*
-
-FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
-
-`image-to-image`
-
-⬇️ 15,024 • ❤️ 194 • 3d ago
+⬇️ 14,296 • ❤️ 206 • 4d ago
 
 ---
 
@@ -505,7 +507,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 24 • 💬 1 • ⭐ 2,890 • 7d ago
+▲ 26 • 💬 1 • ⭐ 2,890 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -535,6 +537,30 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 19 • 💬 3 • ⭐ 533 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
+
+---
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
+
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
+
+▲ 31 • 💬 3 • ⭐ 1,446 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -544,18 +570,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 20 • 💬 4 • ⭐ 15,602 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 17 • 💬 3 • ⭐ 426 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -574,18 +588,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 122 • 💬 3 • ⭐ 2,748 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
 **[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
 *Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
@@ -598,15 +600,15 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 ---
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
 
-*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
 
-To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 30 • 💬 3 • ⭐ 1,347 • 14d ago
+▲ 123 • 💬 3 • ⭐ 2,774 • 13d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
 ---
 
@@ -618,7 +620,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
 
-▲ 68 • 💬 6 • ⭐ 1,383 • 19d ago
+▲ 68 • 💬 7 • ⭐ 1,425 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
 
@@ -644,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 404 • 1d ago
+⭐ 8.1k • 🔱 409 • 2h ago
 
 ---
 
@@ -654,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 337 • 2d ago
+⭐ 7.2k • 🔱 340 • 2d ago
 
 ---
 
@@ -664,7 +666,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 673 • 11d ago
+⭐ 5.1k • 🔱 676 • 11d ago
 
 ---
 
@@ -674,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 814 • 8h ago
+⭐ 5.0k • 🔱 817 • 9h ago
 
 ---
 
@@ -684,7 +686,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 3h ago
+⭐ 3.7k • 🔱 3.6k • 4h ago
 
 ---
 
@@ -694,7 +696,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 169 • 2d ago
+⭐ 2.9k • 🔱 168 • 2d ago
 
 ---
 
@@ -704,7 +706,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 286 • 11h ago
+⭐ 2.0k • 🔱 287 • 12h ago
 
 ---
 
