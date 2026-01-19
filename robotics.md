@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T08:35:02.499326+00:00'
+updated: '2026-01-19T09:36:14.622412+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 08:35 UTC  
+**Last Updated:** January 19, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,15 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Resources in getting started](https://www.reddit.com/r/robotics/comments/1qgxnal/resources_in_getting_started/)**
+**[Guys my new project. Queries and suggestions.](https://www.reddit.com/r/robotics/comments/1qgzeze/guys_my_new_project_queries_and_suggestions/)**
 
-I have 3 months off of school and really want to get into robotics quickly. I want to do an 8 hour schedule in the week (as if i was in school) but am having trouble finding some good resources for certain topics. The topics I can't seem to find much resources for are Computer Vision, Machine Learning, & Math/Control Systems. If anyone has recommendations for these topics specific to robotics please let me know!! Just for reference I plan to set aside time for coding, learning arduino, and actual project building within my day. Also if you have a recommended level progression with topics that would be a big help!
+https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
 
-1h ago
+24m ago
 
 ---
 
@@ -50,7 +50,7 @@ I have 3 months off of school and really want to get into robotics quickly. I wa
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 11h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 12h ago
 
 ---
 
@@ -58,13 +58,13 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-12h ago
+13h ago
 
 ---
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-19h ago
+20h ago
 
 ---
 
@@ -98,9 +98,9 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 ---
 
-**[Hybrid trajectory optimization for robodog](https://www.reddit.com/r/robotics/comments/1qg1yyr/hybrid_trajectory_optimization_for_robodog/)**
+**[Recording robot movement on RViz or similar](https://www.reddit.com/r/robotics/comments/1qg3hu5/recording_robot_movement_on_rviz_or_similar/)**
 
-Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
+Hi, I am trying to find some way to record the robot's movement on rviz or any such similar tool (but would still prefer rviz). Don't want to go the complete screen recording route as other things would also be running on the screen and just need rviz data.
 
 1d ago
 
@@ -114,21 +114,7 @@ Hello everyone i am trying to do hybrid trajectory optimization for robodog. But
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 16h ago
-
----
-
-**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
-
-Bloomberg • 4h ago
-
----
-
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 1h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -172,9 +158,15 @@ The Robot Report • 2d ago
 
 ---
 
+**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
+
+Bloomberg • 5h ago
+
+---
+
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 16h ago
+SciTechDaily • 17h ago
 
 ---
 
@@ -186,6 +178,12 @@ Interesting Engineering • 3d ago
 
 ---
 
+**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,17 +192,7 @@ Interesting Engineering • 3d ago
 
 📺 Wowearth
 
-👁️ 175K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
-
----
-
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 303K • 👍 14K • 💬 3K • ⏱️ 19:17 • 3d ago
+👁️ 177K • 👍 2K • 💬 74 • ⏱️ 1:16 • 5d ago
 
 ---
 
@@ -214,37 +202,17 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 473K • 👍 14K • 💬 824 • ⏱️ 17:09 • 6d ago
+👁️ 474K • 👍 14K • 💬 824 • ⏱️ 17:09 • 6d ago
 
 ---
 
-**[2026 Humanoid Robots! #robotics #humanoidrobots #robots #ai #futuretech #innovation](https://www.youtube.com/watch?v=7FJlDx00W2g)**
+**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
-It's crazy how many humanoid robots have already popped up in 2026. In China, the Shanghai startup Agibot rang in the New ...
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
-📺 Kalil 4.0
+📺 Digital Engine
 
-👁️ 969 • 👍 32 • 💬 2 • ⏱️ 2:17 • 7h ago
-
----
-
-**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
-
-HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
-
-📺 Deepen
-
-👁️ 20K • 👍 247 • 💬 4 • ⏱️ 0:23 • 2d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 897K • 👍 14K • 💬 1K • ⏱️ 33:05 • 14h ago
+👁️ 309K • 👍 14K • 💬 4K • ⏱️ 19:17 • 3d ago
 
 ---
 
@@ -264,7 +232,27 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 253K • 👍 15K • 💬 3K • ⏱️ 5:12 • 5d ago
+👁️ 254K • 👍 15K • 💬 3K • ⏱️ 5:12 • 5d ago
+
+---
+
+**[2026 Humanoid Robots! #robotics #humanoidrobots #robots #ai #futuretech #innovation](https://www.youtube.com/watch?v=7FJlDx00W2g)**
+
+It's crazy how many humanoid robots have already popped up in 2026. In China, the Shanghai startup Agibot rang in the New ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 37 • 💬 2 • ⏱️ 2:17 • 8h ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 971K • 👍 15K • 💬 1K • ⏱️ 33:05 • 15h ago
 
 ---
 
@@ -274,17 +262,27 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 132K • 👍 5K • 💬 350 • ⏱️ 17:36 • 4d ago
+👁️ 133K • 👍 5K • 💬 351 • ⏱️ 17:36 • 4d ago
 
 ---
 
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 Gohar Khan
+📺 DPCcars
 
-👁️ 277K • 👍 12K • 💬 211 • ⏱️ 0:49 • 4d ago
+👁️ 8K • 👍 75 • 💬 19 • ⏱️ 3:19 • 2d ago
+
+---
+
+**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+
+Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+
+📺 Fox Business
+
+👁️ 12K • 👍 208 • 💬 87 • ⏱️ 5:12 • 18h ago
 
 ---
 

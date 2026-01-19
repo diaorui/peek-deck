@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T08:35:02.489865+00:00'
+updated: '2026-01-19T09:36:14.613144+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 08:35 UTC  
+**Last Updated:** January 19, 2026 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,490.75
+### $93,181.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -2.8%  
-**30d:** +4.6%  
-**90d:** -13.8%  
-**1y:** -9.4%  
+**24h:** -2.3%  
+**7d:** -2.5%  
+**30d:** +4.9%  
+**90d:** -13.6%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1849.73B
+**Market Cap:** $1858.01B
 Rank #1
 
-**Circulating Supply:** 19,977,734 BTC
+**Circulating Supply:** 19,977,803 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.2%
 
 **All-Time Low:** $67.81
-+136419.7%
++137053.8%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
-
-I can do this all day
-
-7h ago
-
----
-
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +87,15 @@ I can do this all day
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-4h ago
+5h ago
+
+---
+
+**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
+
+I can do this all day
+
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 If it goes down to 88 will buy some more
 
-6h ago
+7h ago
 
 ---
 
@@ -111,33 +111,33 @@ If it goes down to 88 will buy some more
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-21h ago
-
----
-
-**[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
-
-19h ago
+22h ago
 
 ---
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-3h ago
+4h ago
+
+---
+
+**[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
+
+20h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-9h ago
+10h ago
 
 ---
 
-**[Beginner Looking for a Neutral Perspective on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qgsphb/beginner_looking_for_a_neutral_perspective_on/)**
+**[Mentor Monday, January 19, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1qgxhl3/mentor_monday_january_19_2026_ask_all_your/)**
 
-Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-5h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve s
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-20h ago
+21h ago
 
 ---
 
@@ -167,65 +167,65 @@ CNBC • 1d ago
 
 ---
 
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
+**[Bitcoin fällt nach Trumps Zollplänen unter 92.000 Dollar](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-fallt-nach-trumps-zollplanen-unter-92-000-dollar)**
 
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 2d ago
+Bloomberg • 1h ago
 
 ---
 
-**[Two solo bitcoin miners hit rare $300,000 jackpots in the same week](https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week)**
+**[Asia Market Open: Bitcoin Dips 3% As Trump Tariff Threat Rattles Global Markets](https://finance.yahoo.com/news/asia-market-open-bitcoin-dips-025923477.html)**
 
-Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools.
+Bitcoin slid about 3% to around $92,000 in early Asian trading on Monday as traders cut risk after President Donald Trump threatened fresh tariffs on eight European countries, linking the levies to his push for US ownership of Greenland.Trump said the US would impose additional 10% import tariffs from Feb. ...
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Big blow to cryptocurrencies! Bitcoin slips to $92,000 after Trump tariff threat; Ether & Solana also sli](https://timesofindia.indiatimes.com/business/international-business/big-blow-to-cryptocurrencies-bitcoin-slips-to-92000-after-trump-tariff-threat-ether-solana-also-slide/articleshow/126667823.cms)**
+
+International Business News: Cryptocurrencies fell sharply on Monday as US President Donald Trumpâs threat to impose new tariffs on eight European countries rattled risk assets an.
+
+Times of India • 2h ago
+
+---
+
+**[Bitcoin and ether ETFs log their best week since October, with nearly $2 billion in inflows](https://www.coindesk.com/markets/2026/01/19/bitcoin-and-ether-etfs-post-best-week-since-october-with-nearly-usd2-billion-in-inflows)**
+
+U.S.-listed spot bitcoin and ether ETFs logged their strongest week in three months.
+
+CoinDesk • 26m ago
+
+---
+
+**[What’s Driving The $1.42 Billion Comeback In Spot Bitcoin ETFs?](https://www.tradingview.com/news/newsbtc:8d4751abe094b:0-what-s-driving-the-1-42-billion-comeback-in-spot-bitcoin-etfs/)**
+
+Fresh money poured back into US spot Bitcoin ETFs this week, giving the market a clear jolt after a quiet month. The inflows totaled about $1.42 billion, the biggest weekly pickup since early October. That rush pushed prices higher for a time and pulled a lot of attention back to these regulated fu…
+
+TradingView — Track All Markets • 20h ago
+
+---
+
+**[Peter Schiff Warns Traders Taking Profits In Gold, Silver And Buying Bitcoin ETFs And MSTR Stock: 'That's A Big Mistake'](https://finance.yahoo.com/news/peter-schiff-warns-traders-taking-120106265.html)**
+
+Economist Peter Schiff questioned the sustainability of Bitcoin’s ongoing rally on Wednesday, arguing that investors are mistakenly rotating profits from commodities into cryptocurrency-linked assets. Schiff Downplays Bitcoin Rally Schiff suggested in an X post that traders are taking profits in...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+
+A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
 CoinDesk • 2d ago
-
----
-
-**[Bitcoin Network Hashrate Drops to Lowest Level Since September Amid AI Shift](https://finance.yahoo.com/news/bitcoin-network-hashrate-drops-lowest-062724807.html)**
-
-Bitcoin’s network hashrate has slipped below 1,000 exahash per second (EH/s) for the first time since mid-September, as miners increasingly redirect capacity toward artificial intelligence infrastructure. Key Takeaways: Bitcoin’s hashrate has slipped below 1,000 EH/s, down nearly 15% from its October peak. Miners are shifting power toward AI workloads that ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
-
-Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
-
-The Motley Fool • 1d ago
-
----
-
-**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
-
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
-
-Gizmodo • 14h ago
-
----
-
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 20h ago
-
----
-
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg • 2d ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -273,14 +273,6 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 ---
 
-**[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
-
-Rolling coverage of the latest economic and financial news
-
-⬆️ 63 • 💬 13 • 7d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
-
----
-
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
 ⬆️ 4 • 💬 0 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
@@ -311,6 +303,12 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ---
 
+**[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
+
+⬆️ 13 • 💬 6 • 5d ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +319,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 208 • ⏱️ 6:08 • 5h ago
+👁️ 23K • 👍 1K • 💬 255 • ⏱️ 6:08 • 6h ago
 
 ---
 
@@ -331,17 +329,17 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 333 • ⏱️ 14:15 • 11h ago
+👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 12h ago
 
 ---
 
-**[THIS IS WHY BITCOIN DUMPED...](https://www.youtube.com/watch?v=3XwsTVfulqQ)**
+**[BITCOIN IS CRASHING, AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=Iux0tztkjqc)**
 
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
 
-📺 Crypto Rover
+📺 Crypto Kid
 
-👁️ 2K • 👍 217 • 💬 10 • ⏱️ 9:03 • 2h ago
+👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 3h ago
 
 ---
 
@@ -351,37 +349,7 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 8K • 👍 513 • 💬 91 • ⏱️ 11:05 • 6h ago
-
----
-
-**[This Is Why Bitcoin Is Dumping](https://www.youtube.com/watch?v=L6DpYwlQSGI)**
-
-This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: ...
-
-📺 Mister Crypto
-
-👁️ 667 • 👍 54 • 💬 4 • ⏱️ 8:41 • 3h ago
-
----
-
-**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
-
-COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
-
-📺 AMCrypto
-
-👁️ 1K • 👍 90 • 💬 2 • ⏱️ 10:18 • 5h ago
-
----
-
-**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
-
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
-
-📺 Jayson Casper
-
-👁️ 5K • 👍 357 • 💬 59 • ⏱️ 9:23 • 8h ago
+👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 7h ago
 
 ---
 
@@ -391,17 +359,47 @@ Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitco
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 297 • 💬 22 • ⏱️ 14:41 • 4h ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 5h ago
 
 ---
 
-**[It’s Diverging At The Fastest Rate In History (Bitcoin, Silver, SP500)](https://www.youtube.com/watch?v=DwchDrlmWXI)**
+**[WHAT THE HELL....! I Know Why Bitcoin Dropped! [You Won&#39;t Like It!]](https://www.youtube.com/watch?v=xnz57r_VO54)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation event and traders are confused about ...
 
-📺 Jason Pizzino
+📺 AMCrypto
 
-👁️ 10K • 👍 678 • 💬 252 • ⏱️ 25:20 • 7h ago
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 6h ago
+
+---
+
+**[THIS IS WHY BITCOIN DUMPED...](https://www.youtube.com/watch?v=3XwsTVfulqQ)**
+
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 3h ago
+
+---
+
+**[This Is Why Bitcoin Is Dumping](https://www.youtube.com/watch?v=L6DpYwlQSGI)**
+
+This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: ...
+
+📺 Mister Crypto
+
+👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 4h ago
+
+---
+
+**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+
+📺 Jayson Casper
+
+👁️ 6K • 👍 377 • 💬 126 • ⏱️ 9:23 • 9h ago
 
 ---
 
@@ -411,7 +409,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 298 • 💬 176 • ⏱️ 8:40 • 15h ago
+👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 16h ago
 
 ---
 
