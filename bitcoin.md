@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T10:30:49.839460+00:00'
+updated: '2026-01-19T11:22:44.008594+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 10:30 UTC  
+**Last Updated:** January 19, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,181.19
+### $93,100.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
+**24h:** -2.2%  
 **7d:** -2.5%  
 **30d:** +4.9%  
-**90d:** -13.6%  
+**90d:** -13.5%  
 **1y:** -9.1%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,13 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 I can do this all day
 
-9h ago
+10h ago
+
+---
+
+**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
+
+6h ago
 
 ---
 
@@ -103,7 +109,7 @@ I can do this all day
 
 If it goes down to 88 will buy some more
 
-8h ago
+9h ago
 
 ---
 
@@ -111,25 +117,21 @@ If it goes down to 88 will buy some more
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-23h ago
-
----
-
-**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
-
-5h ago
+1d ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
+**[Wtf? 🤣](https://www.reddit.com/r/Bitcoin/comments/1qgzu55/wtf/)**
 
-11h ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/Mn7n5r8eGAg) • 1h ago
 
 ---
 
@@ -137,27 +139,19 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-3h ago
+4h ago
 
 ---
 
-**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
-
-22h ago
+12h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
-
-The New York Times • 2d ago
-
----
 
 **[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
@@ -167,25 +161,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin fällt nach Trumps Zollplänen unter 92.000 Dollar](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-fallt-nach-trumps-zollplanen-unter-92-000-dollar)**
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
-Bloomberg • 2h ago
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
----
-
-**[Asia Market Open: Bitcoin Dips 3% As Trump Tariff Threat Rattles Global Markets](https://finance.yahoo.com/news/asia-market-open-bitcoin-dips-025923477.html)**
-
-Bitcoin slid about 3% to around $92,000 in early Asian trading on Monday as traders cut risk after President Donald Trump threatened fresh tariffs on eight European countries, linking the levies to his push for US ownership of Greenland.Trump said the US would impose additional 10% import tariffs from Feb. ...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Big blow to cryptocurrencies! Bitcoin slips to $92,000 after Trump tariff threat; Ether & Solana also sli](https://timesofindia.indiatimes.com/business/international-business/big-blow-to-cryptocurrencies-bitcoin-slips-to-92000-after-trump-tariff-threat-ether-solana-also-slide/articleshow/126667823.cms)**
-
-International Business News: Cryptocurrencies fell sharply on Monday as US President Donald Trumpâs threat to impose new tariffs on eight European countries rattled risk assets an.
-
-Times of India • 3h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -193,7 +173,7 @@ Times of India • 3h ago
 
 U.S.-listed spot bitcoin and ether ETFs logged their strongest week in three months.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -201,7 +181,7 @@ CoinDesk • 1h ago
 
 Fresh money poured back into US spot Bitcoin ETFs this week, giving the market a clear jolt after a quiet month. The inflows totaled about $1.42 billion, the biggest weekly pickup since early October. That rush pushed prices higher for a time and pulled a lot of attention back to these regulated fu…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -213,11 +193,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+**[Bitcoin, XRP Prices Fall After Crypto Bill Delay. Here’s What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-prices-crypto-bill-senate-34d67237?gaa_at=eafs&gaa_n=AWEtsqeyLUKLbJPnFWvgkX99DlstnbkOMaA4vReLV39y-NTZE__Hokdk73Ux&gaa_ts=696e176b&gaa_sig=0YfUtAuxY5qDeyLsuJOGLRRmGMQCoYwdAXsE4Jq_PdGKoR2Ss9lq9GeT8ewa0ZGiVz3yF4AOihiTdh-q9-AUug%3D%3D)**
 
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+Barron's • 3d ago
 
-Yahoo Finance • 14h ago
+---
+
+**[Bitcoin price slides on Trump’s Greenland threat. Why $10,000 is back in play, says Bloomberg analyst](https://finance.yahoo.com/news/bitcoin-price-slides-trump-greenland-093912549.html)**
+
+Bitcoin and the broader market fell on Trump’s tariff threats over Greenland. Gold rose another 1.7% as investors fled to safety. Bloomberg analyst reiterates his $10,000 Bitcoin call, citing ‘unlimited’ competition.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -226,6 +212,20 @@ Yahoo Finance • 14h ago
 A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
 
 CoinDesk • 2d ago
+
+---
+
+**[K33 Launches Crypto-Backed Loans, Allowing Users to Borrow Against Bitcoin](https://finance.yahoo.com/news/k33-launches-crypto-backed-loans-095449447.html)**
+
+K33 has rolled out a new crypto-backed lending product, allowing eligible clients to borrow USDC against Bitcoin and other digital assets without selling their holdings. Key Takeaways: K33 now offers USDC loans backed by Bitcoin, unlocking liquidity without asset sales. The product leverages K33’s Bitcoin treasury to generate yield and ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -246,6 +246,14 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
 ⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+
+---
+
+**[Led by Texas, New Hampshire, U.S. states put Bitcoin on public balance sheet](https://news.ycombinator.com/item?id=46677022)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+⬆️ 2 • 💬 1 • 1h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -291,21 +299,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 5d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
-
----
-
-**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46662106)**
-
-Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
-
-⬆️ 1 • 💬 0 • 1d ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
-
----
-
-**[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
-
-⬆️ 13 • 💬 6 • 5d ago
+⬆️ 1 • 💬 0 • 6d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -329,7 +323,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 13h ago
+👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 14h ago
 
 ---
 
@@ -339,7 +333,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 4h ago
+👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 5h ago
 
 ---
 
@@ -349,7 +343,7 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 8h ago
+👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 9h ago
 
 ---
 
@@ -359,7 +353,7 @@ Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitco
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 6h ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 7h ago
 
 ---
 
@@ -369,7 +363,7 @@ COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation ev
 
 📺 AMCrypto
 
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 7h ago
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 8h ago
 
 ---
 
@@ -379,7 +373,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 4h ago
+👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 5h ago
 
 ---
 
@@ -389,7 +383,7 @@ This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://
 
 📺 Mister Crypto
 
-👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 5h ago
+👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 6h ago
 
 ---
 
@@ -409,7 +403,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 17h ago
+👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 18h ago
 
 ---
 

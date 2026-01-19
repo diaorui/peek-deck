@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T10:30:49.831113+00:00'
+updated: '2026-01-19T11:22:43.999708+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 10:30 UTC  
+**Last Updated:** January 19, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 ---
 
+**[Help choosing final project](https://www.reddit.com/r/artificial/comments/1qh19z2/help_choosing_final_project/)**
+
+I have proposed an ai model that uses a camera to detect if the workers are sitting in their offices and working or just wasting time goung around . So they accepted this proposal but i still have one week to confirm it , though i still don t know if it s feasable or not and the fact that i need to finish it in two months or so . So can you please help me to decide if i should go for it or not ? What technologies should i use ? Only yolov8 ? Should i buy a cctv camera ? Else , give me other ideas that u see that they are more appropiate and feasable
+
+19m ago
+
+---
+
 **[ChatGPT can now remember conversations from a year ago](https://www.reddit.com/r/artificial/comments/1qg7ls5/chatgpt_can_now_remember_conversations_from_a/)**
 
 After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-21h ago
+22h ago
 
 ---
 
@@ -57,7 +65,7 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
-18h ago
+19h ago
 
 ---
 
@@ -65,7 +73,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-5h ago
+6h ago
 
 ---
 
@@ -73,15 +81,7 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
 
-2h ago
-
----
-
-**[The Future of Money Isn't Bitcoin. It's You and Compute - eeko systems](https://www.reddit.com/r/artificial/comments/1qguk6y/the_future_of_money_isnt_bitcoin_its_you_and/)**
-
-Forget the blockchain bros and their laser eyes. The real currency of tomorrow is compute, and you're going to earn it by feeding the beast.
-
-🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 5h ago
+3h ago
 
 ---
 
@@ -89,7 +89,15 @@ Forget the blockchain bros and their laser eyes. The real currency of tomorrow i
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 13h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 14h ago
+
+---
+
+**[The Future of Money Isn't Bitcoin. It's You and Compute - eeko systems](https://www.reddit.com/r/artificial/comments/1qguk6y/the_future_of_money_isnt_bitcoin_its_you_and/)**
+
+Forget the blockchain bros and their laser eyes. The real currency of tomorrow is compute, and you're going to earn it by feeding the beast.
+
+🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 6h ago
 
 ---
 
@@ -97,21 +105,13 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-7h ago
+8h ago
 
 ---
 
 **[Explainability and Interpretability of Multilingual Large Language Models: A Survey](https://www.reddit.com/r/artificial/comments/1qgf995/explainability_and_interpretability_of/)**
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
-
-16h ago
-
----
-
-**[Manage large product catalog’s at scale](https://www.reddit.com/r/artificial/comments/1qgdmfs/manage_large_product_catalogs_at_scale/)**
-
-**TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
 17h ago
 
@@ -121,7 +121,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 ## Google News: "ai"
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqferbIO17mhNBjERJ0r9wELpwaAsXUctD755OskdwvcJo3QQIVs3T3M&gaa_ts=696dfe76&gaa_sig=NAri6CN3GG3AmAdcfxaAkjuZcVMAkf4fMdAIKbZ78TW-Kn53vEFw3y9v2O2sFNYvxCmF6Vwctuf8si9k2SwzOw%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqdi1gxqqhAbsDN1qW2EOaQxZywwIdg4iS1bpslwG70k4qs0Q1BZQ8Vg&gaa_ts=696e176a&gaa_sig=ygG0QGWD-pxO3cvCsMn0Vha9pjptDyr_7p8lorOedxAbsbNyQzAGkpzCVzkCaz6lo7DQD92FNQqWPJyDeF7Y8A%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -139,13 +139,13 @@ CNN • 23h ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
 **[Stop calling it 'The AI bubble': It's actually multiple bubbles, each with a different expiration date](https://venturebeat.com/infrastructure/stop-calling-it-the-ai-bubble-its-actually-multiple-bubbles-each-with-a)**
 
-VentureBeat • 14h ago
+VentureBeat • 15h ago
 
 ---
 
@@ -155,23 +155,29 @@ The New York Times • 6d ago
 
 ---
 
-**[ASM Orders Beat Estimates After China Rebound, AI Spending Boom](https://www.bloomberg.com/news/articles/2026-01-19/asm-orders-beat-estimates-after-china-rebound-ai-spending-boom)**
+**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-Bloomberg • 1h ago
-
----
-
-**[Is this Chinese influencer AI?](https://www.cnn.com/2026/01/19/world/video/chinese-ai-video-imitating-influencer-mu-tianran-kristie-lu-stout-digvid)**
-
-Influencers like Mu Tianran have mastered imitating AI-generated videos, including their flaws.
-
-CNN • 2h ago
+The New York Times • 1h ago
 
 ---
 
-**[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
+**[HSBC's Roberts Says AI Won't Lead to 'Massive Layoffs'](https://www.bloomberg.com/news/videos/2026-01-19/hsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video)**
 
-The New York Times • 23h ago
+Bloomberg.com • 50m ago
+
+---
+
+**[NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet](https://gizmodo.com/nfl-related-accounts-on-facebook-are-posting-some-of-the-most-shameless-ai-slop-yet-2000711584)**
+
+One falsely claimed that some random guyânot even a playerâhad died.
+
+Gizmodo • 52m ago
+
+---
+
+**[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
+
+Axios • 19h ago
 
 ---
 
@@ -179,13 +185,7 @@ The New York Times • 23h ago
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
 
-Yahoo Finance • 20h ago
-
----
-
-**[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
-
-Axios • 18h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Axios • 18h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 115 • 💬 95 • 9h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 146 • 💬 159 • 10h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -205,7 +205,15 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 102 • 💬 36 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 104 • 💬 36 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+
+---
+
+**[AI companies will fail. We can salvage something from the wreckage](https://news.ycombinator.com/item?id=46668170)**
+
+AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+
+⬆️ 94 • 💬 81 • 20h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -217,25 +225,11 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 ---
 
-**[AI companies will fail. We can salvage something from the wreckage](https://news.ycombinator.com/item?id=46668170)**
-
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
-
-⬆️ 91 • 💬 81 • 19h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
-
----
-
 **[Crypto grifters are recruiting open-source AI developers](https://news.ycombinator.com/item?id=46654878)**
 
 --
 
-⬆️ 89 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
-
----
-
-**[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
-
-⬆️ 88 • 💬 155 • 3d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 90 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -243,7 +237,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 78 • 💬 49 • 15h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 79 • 💬 49 • 16h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -271,6 +265,14 @@ Big Tech doesn't care if you want AI or not. They should.
 
 ---
 
+**[Song banned from Swedish charts for being AI creation](https://news.ycombinator.com/item?id=46645886)**
+
+The creators behind the chart-topping song believe their creative process has been misunderstood.
+
+⬆️ 42 • 💬 96 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cp829jey9z7o)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +283,7 @@ Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 
 
 📺 Journey With The Hintons
 
-👁️ 21K • 👍 2K • 💬 84 • ⏱️ 11:46 • 14h ago
+👁️ 21K • 👍 2K • 💬 84 • ⏱️ 11:46 • 15h ago
 
 ---
 
@@ -291,7 +293,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.3M • 👍 54K • 💬 5K • ⏱️ 15:50 • 15h ago
+👁️ 1.3M • 👍 54K • 💬 5K • ⏱️ 15:50 • 16h ago
 
 ---
 
@@ -309,7 +311,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 770 • 💬 55 • ⏱️ 7:01 • 19h ago
+👁️ 14K • 👍 770 • 💬 55 • ⏱️ 7:01 • 20h ago
 
 ---
 
@@ -319,7 +321,7 @@ IMPORTANT: READ THIS TO GET FREE ACCESS If you're serious about growing on YouTu
 
 📺 Geekbot AI
 
-👁️ 2K • 👍 405 • 💬 18 • ⏱️ 15:17 • 17h ago
+👁️ 2K • 👍 405 • 💬 18 • ⏱️ 15:17 • 18h ago
 
 ---
 
@@ -339,7 +341,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 19K • 👍 928 • 💬 41 • ⏱️ 12:49 • 22h ago
+👁️ 19K • 👍 928 • 💬 41 • ⏱️ 12:49 • 23h ago
 
 ---
 
@@ -421,7 +423,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,830 • ❤️ 352 • 21h ago
+⬇️ 1,830 • ❤️ 352 • 22h ago
 
 ---
 
@@ -553,7 +555,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 17 • 💬 2 • ⭐ 426 • 3d ago
+▲ 17 • 💬 2 • ⭐ 426 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -634,7 +636,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.0k • 🔱 1.2k • 1h ago
+⭐ 9.0k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -644,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 384 • 16h ago
+⭐ 7.7k • 🔱 384 • 17h ago
 
 ---
 
@@ -674,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 4.8k • 🔱 779 • 57m ago
+⭐ 4.8k • 🔱 779 • 1h ago
 
 ---
 
@@ -684,7 +686,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.5k • 🔱 3.4k • 19h ago
+⭐ 3.5k • 🔱 3.4k • 20h ago
 
 ---
 
@@ -714,7 +716,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 145 • 4h ago
+⭐ 1.8k • 🔱 145 • 5h ago
 
 ---
 

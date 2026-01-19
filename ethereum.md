@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T10:30:49.845429+00:00'
+updated: '2026-01-19T11:22:44.014829+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 10:30 UTC  
+**Last Updated:** January 19, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,213.20
+### $3,209.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -3.4%  
-**30d:** +6.9%  
-**90d:** -15.7%  
-**1y:** -2.0%  
+**24h:** -3.0%  
+**7d:** -3.0%  
+**30d:** +7.4%  
+**90d:** -15.3%  
+**1y:** -1.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The original drive to build Ethereum was heavily inspired by decentralized autonomous organizations: systems of code and rules that lived on decentralized networks that could manage resources and direct activity, more efficiently and more robustly than traditional governments and corporations could. Since then, the concept of DAOs has migrated to essentially referring to a treasury controlled by token holder voting - a design which "works", hence why it got copied so much, but a design which is inefficient, vulnerable to capture, and fails utterly at the goal of mitigating the weaknesses of human politics. As a result, many have become cynical about DAOs. But we need DAOs. We need DAOs to create better oracles. Today, decentralized stablecoins, prediction markets, and other basic building blocks of defi are built on oracle designs that we are not satisfied with. If the oracle is token based, whales can manipulate the answer on a subjective issue and it becomes difficult to counteract them. Fundamentally, a token-based oracle cannot have a cost of attack higher than its market cap, which in turn means it cannot secure assets without extracting rent higher than the discount rate. And if the oracle uses human curation, then it's not very decentralized. The problem here is not greed. The problem is that we have bad oracle designs, we need better ones, and bootstrapping them is not just a technical problem but also a social problem. We need DAOs for onchain dispute resolution, a necessary component of many types of more advanced smart contract use cases (eg. insurance). This is the same type of problem as price oracles, but even more subjective, and so even harder to get right. We need DAOs to maintain lists. This includes: lists of applications known to be secure or not scams, lists of canonical interfaces, lists of token contract addresses, and much more. We need DAOs to get projects off the ground quickly. If you have a group of people, who all want something done and are willing to contribute some funds (perhaps in exchange for benefits), then how do you manage this, especially if the task is too short-duration for legal entities to be worth it? We need DAOs to do long-term project maintenance. If the original team of a project disappears, how can a community keep going, and how can new people coming in get the funding they need? One framework that I use to analyze this is "convex vs concave" from https://vitalik.eth.limo/general/2020/11/08/concave.html . If the DAO is solving a concave problem, then it is in an environment where, if faced with two possible courses of action, a compromise is better than a coin flip. Hence, you want systems that maximize robustness by averaging (or rather, medianing) in input from many sources, and protect against capture and financial attacks. If the DAO is solving a convex problem, then you want the ability to make decisive choices and follow through on them. In this case, leaders can be good, and the job of the decentralized process should be to keep the leaders in check. For all of this to work, we need to solve two problems: privacy, and decision fatigue. Without privacy, governance becomes a social game (see https://vitalik.eth.limo/general/2025/04/14/privacy.html ). And if people have to make decisions every week, for the first month you see excited participation, but over time willingness to participate, and even to stay informed, declines. I see modern technology as opening the door to a renaissance here. Specifically: ZK (and in some cases MPC/FHE, though these should be used only when ZK along cannot solve the problem) for privacy AI to solve decision fatigue Consensus-finding communication tools (like pol.is, but going further) AI must be used carefully: we must not put full-size deepseek (or worse, GPT 5.2) in charge of a DAO and call it a day. Rather, AI must be put in thoughtfully, as something that scales and enhances human intention and judgement, rather than replacing it. This could be done at DAO level (eg. see how https://www.deepfunding.org/ works), or at individual level (user-controlled local LLMs that vote on their behalf). It is important to think about the "DAO stack" as also including the communication layer, hence the need for forums and platforms specially designed for the purpose. A multisig plus well-designed consensus-finding tools can easily beat idealized collusion-resistant quadratic funding plus crypto twitter. But in all cases, we need new designs. Projects that need new oracles and want to build their own should see that as 50% of their job, not 10%. Projects working on new governance designs should build with ZK and AI in mind, and they should treat the communication layer as 50% of their job, not 10%. This is how we can ensure the decentralization and robustness of the Ethereum base layer also applies to the world that gets built on top.
 
-3h ago
+4h ago
 
 ---
 
@@ -154,7 +154,7 @@ I have heard ETH being compared to oil. If oil goes up too high, those, who can,
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -162,7 +162,15 @@ The Block • 12h ago
 
 The smaller chain could lose ground in an important arena during a critical period.
 
-The Motley Fool • 2d ago
+The Motley Fool • 3d ago
+
+---
+
+**[2 Big Reasons to Buy Ethereum Before the Second Quarter of 2026](https://www.fool.com/investing/2026/01/19/2-big-reasons-to-buy-ethereum-before-the-second-qu/)**
+
+If these two things happen, Ethereum could skyrocket in value in 2026.
+
+The Motley Fool • 37m ago
 
 ---
 
@@ -192,7 +200,7 @@ Yahoo Finance • 1d ago
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -200,7 +208,7 @@ CoinDesk • 4h ago
 
 Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -208,15 +216,7 @@ TradingView — Track All Markets • 17h ago
 
 ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
 
-AMBCrypto • 19h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
-
-Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
-
-Coinpedia • 22h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 10 • ⏱️ 8:02 • 9h ago
+👁️ 2K • 👍 150 • 💬 10 • ⏱️ 8:02 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 271 • 💬 70 • ⏱️ 9:21 • 23h ago
+👁️ 7K • 👍 271 • 💬 70 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ This video conducts a detailed ethereum analysis, examining its recent performan
 
 📺 David Blewett
 
-👁️ 181 • 👍 17 • 💬 25 • ⏱️ 13:24 • 11h ago
+👁️ 181 • 👍 17 • 💬 25 • ⏱️ 13:24 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ ethereum #bmnr #mrbeast Ethereum is entering a phase that Bitcoin already lived 
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 89 • 💬 22 • ⏱️ 14:11 • 15h ago
+👁️ 1K • 👍 89 • 💬 22 • ⏱️ 14:11 • 16h ago
 
 ---
 
