@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T18:34:15.559616+00:00'
+updated: '2026-01-19T19:20:09.898597+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 18:34 UTC  
+**Last Updated:** January 19, 2026 at 19:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,15 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-3h ago
+4h ago
+
+---
+
+**[Your robot has an accent — why some sim-trained policies transfer and others faceplant](https://www.reddit.com/r/robotics/comments/1qhatfl/your_robot_has_an_accent_why_some_simtrained/)**
+
+Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
+
+1h ago
 
 ---
 
@@ -54,19 +62,27 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 ---
 
+**[Demo robot mirokai](https://www.reddit.com/r/robotics/comments/1qhcnql/demo_robot_mirokai/)**
+
+afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
+
+39m ago
+
+---
+
+**[Asking Help for Static Analysis of Robotic Arm for Topology Optimisation](https://www.reddit.com/r/robotics/comments/1qhbqc2/asking_help_for_static_analysis_of_robotic_arm/)**
+
+Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
+
+1h ago
+
+---
+
 **[We taught a Unitree Go1 to dance YMCA in 24 hours at a hackathon (none of us had used one before)](https://www.reddit.com/r/robotics/comments/1qh02f9/we_taught_a_unitree_go1_to_dance_ymca_in_24_hours/)**
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-8h ago
-
----
-
-**[Your robot has an accent — why some sim-trained policies transfer and others faceplant](https://www.reddit.com/r/robotics/comments/1qhatfl/your_robot_has_an_accent_why_some_simtrained/)**
-
-Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
-
-57m ago
+9h ago
 
 ---
 
@@ -74,7 +90,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +98,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -90,21 +106,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 21h ago
-
----
-
-**[Stuttering motors: Raspberry Pi + Cytron MDDS30 (RC Mode) - Signal issues?](https://www.reddit.com/r/robotics/comments/1qg4ime/stuttering_motors_raspberry_pi_cytron_mdds30_rc/)**
-
-Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
-
-1d ago
-
----
-
-**[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
-
-22h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 22h ago
 
 ---
 
@@ -120,19 +122,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
+**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
-
-Futurism • 2d ago
+Bloomberg • 14h ago
 
 ---
 
-**[Spencer Krause: Why Hardware is the New Engineering Frontier](https://www.therobotreport.com/spencer-krause-why-hardware-is-the-new-engineering-frontier/)**
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
-Our guest this week is Spencer Krause, CEO and co-founder of SKA Robotics and co-founder of Tension Robotics.
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-The Robot Report • 51m ago
+Interesting Engineering • 12h ago
+
+---
+
+**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
+
+The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
+
+South China Morning Post • 7h ago
 
 ---
 
@@ -140,7 +148,7 @@ The Robot Report • 51m ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -168,14 +176,6 @@ WRGB • 1d ago
 
 ---
 
-**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 11h ago
-
----
-
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
 SciTechDaily • 1d ago
@@ -186,7 +186,7 @@ SciTechDaily • 1d ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 6h ago
+Tom's Hardware • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 53 • 💬 2 • ⏱️ 2:17 • 17h ago
+👁️ 2K • 👍 53 • 💬 2 • ⏱️ 2:17 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T18:34:15.550340+00:00'
+updated: '2026-01-19T19:20:09.889182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 18:34 UTC  
+**Last Updated:** January 19, 2026 at 19:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -2.3%  
-**30d:** +5.1%  
+**24h:** -2.3%  
+**7d:** -2.4%  
+**30d:** +5.0%  
 **90d:** -13.4%  
-**1y:** -8.9%  
+**1y:** -9.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,35 +87,13 @@ Rank #1
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-4h ago
+5h ago
 
 ---
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
 4h ago
-
----
-
-**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
-
-I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
-
-6h ago
-
----
-
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-14h ago
-
----
-
-**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
-
-Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
-
-14h ago
 
 ---
 
@@ -127,17 +105,37 @@ Hard to buy the dip when you're already all in!
 
 ---
 
-**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
 
-4h ago
+I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
+
+7h ago
 
 ---
 
-**[US crypto regulation coming soon: Coinbase expects approval within 30 days](https://www.reddit.com/r/Bitcoin/comments/1qh5p5t/us_crypto_regulation_coming_soon_coinbase_expects/)**
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-Coinbase says the U.S. cryptocurrency market structure bill could be passed within about a month if Congress can find a final compromise.
+15h ago
 
-4h ago
+---
+
+**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+
+5h ago
+
+---
+
+**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
+
+43m ago
+
+---
+
+**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
+
+Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
+
+15h ago
 
 ---
 
@@ -145,7 +143,7 @@ Coinbase says the U.S. cryptocurrency market structure bill could be passed with
 
 I can do this all day
 
-17h ago
+18h ago
 
 ---
 
@@ -161,15 +159,9 @@ Forbes • 5h ago
 
 ---
 
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqefG8pdsQD8rAfVK371e2-QVQCGtE5idvkxqf4DD7EBf2TdR9CT9IBb&gaa_ts=696e8755&gaa_sig=oh4XSybhOwd7gs91L1cz0l6NJXbqDwpK0vZphxp0lplCIdmdO0YwSnaUJofPagPycT86h4XjnYj8QCFys8r63w%3D%3D)**
 
-Bloomberg.com • 3d ago
-
----
-
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdsz9ZjRrxfsuDS8NUTt45FB91XwurVSuXytOGyDVDm_MTp-M_gFCj8&gaa_ts=696e71dc&gaa_sig=QMELSTuTy7Y0tHVrZ_w7JX9VxrFslVku5nxrKqzkkQe_5vq5EofqiCVn7EZYkG4GQQMIDdfrHLuVn_xWj-mMhA%3D%3D)**
-
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -181,11 +173,15 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+Bloomberg • 3d ago
 
-Yahoo Finance • 23h ago
+---
+
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
+
+Bloomberg • 8h ago
 
 ---
 
@@ -194,14 +190,6 @@ Yahoo Finance • 23h ago
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
 CNBC • 2d ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://finance.yahoo.com/news/bitcoin-falls-below-92-000-005956606.html)**
-
-Bitcoin slid as much as 3.6% to below $92,000 during Asia trading hours on Monday, while other tokens posted steeper losses.  Ether, the second-largest digital asset, shed 4.9% of its value, while Solana fell 8.6%.  Bitcoin pared some of those losses to trade around 2.5% down as of 6 a.m. in New York.
-
-Yahoo Finance • 7h ago
 
 ---
 
@@ -219,11 +207,19 @@ The New York Times • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum Surge Propels Crypto Fund Investments to $2.17 Billion—Best in Three Months](https://decrypt.co/354996/digital-asset-funds-drew-in-2-17b-last-week-highest-level-in-three-months)**
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-xrp-instead-3)**
 
-Bitcoin ETFs led with a $1.42 billion netflow as digital asset funds saw their highest inflows since October last week.
+Key PointsSince 2018, Bitcoin is up more than 600%, while XRP has lost 44% of its value.
 
-Decrypt • 3h ago
+Nasdaq • 5h ago
+
+---
+
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
+
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -235,7 +231,7 @@ Decrypt • 3h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 3 • 💬 1 • 5h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 5h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -259,7 +255,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 8h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 9h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -271,19 +267,19 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 ---
 
-**[Show HN: I built a watch-only Bitcoin address tracker for iOS](https://news.ycombinator.com/item?id=46592796)**
-
-Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
-
-⬆️ 2 • 💬 0 • 6d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
-
----
-
 **[New fintech company claims Bitcoin will reach 100M by 2050](https://news.ycombinator.com/item?id=46662735)**
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
 ⬆️ 1 • 💬 2 • 1d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+
+---
+
+**[Led by Texas, New Hampshire, states race to prove can –"Bitcoin on bal sheet"](https://news.ycombinator.com/item?id=46682493)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+⬆️ 1 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -317,7 +313,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 7h ago
+👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 8h ago
 
 ---
 
@@ -327,7 +323,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 3h ago
+👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 4h ago
 
 ---
 
@@ -347,7 +343,7 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 6h ago
+👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 7h ago
 
 ---
 
@@ -377,7 +373,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 21h ago
+👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 22h ago
 
 ---
 
@@ -387,7 +383,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 2h ago
+👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 3h ago
 
 ---
 
@@ -397,7 +393,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 9h ago
+👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 10h ago
 
 ---
 
@@ -407,7 +403,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 9h ago
+👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 10h ago
 
 ---
 

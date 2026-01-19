@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T18:34:15.541741+00:00'
+updated: '2026-01-19T19:20:09.880519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 18:34 UTC  
+**Last Updated:** January 19, 2026 at 19:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 3h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 4h ago
 
 ---
 
@@ -49,7 +49,15 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
 
-2h ago
+3h ago
+
+---
+
+**[Feasibility of a computer-vision system for office occupancy & activity monitoring (YOLOv8, 2-month timeline)](https://www.reddit.com/r/artificial/comments/1qhb1cj/feasibility_of_a_computervision_system_for_office/)**
+
+Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
+
+1h ago
 
 ---
 
@@ -58,14 +66,6 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
 🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 7h ago
-
----
-
-**[Feasibility of a computer-vision system for office occupancy & activity monitoring (YOLOv8, 2-month timeline)](https://www.reddit.com/r/artificial/comments/1qhb1cj/feasibility_of_a_computervision_system_for_office/)**
-
-Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
-
-50m ago
 
 ---
 
@@ -89,7 +89,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-13h ago
+14h ago
 
 ---
 
@@ -113,13 +113,21 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 21h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 22h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’](https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings)**
+
+His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
+
+The Guardian • 8h ago
+
+---
 
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
@@ -129,45 +137,13 @@ CNN • 1d ago
 
 ---
 
-**[Ed Zitron on big tech, backlash, boom and bust: ‘AI has taught us that people are excited to replace human beings’](https://www.theguardian.com/technology/2026/jan/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-has-taught-us-that-people-are-excited-to-replace-human-beings)**
-
-His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
-
-The Guardian • 7h ago
-
----
-
-**[Trust AI Enough to Bet Your Retirement? You Said, 'No Thanks'](https://www.businessinsider.com/trust-ai-with-retirement-401k-survey-results-elon-musk-2026-1)**
-
-Elon Musk suggested you don't need to bother saving for a 401 (k) because of AI. Business Insider's readers weren't on board.
-
-Business Insider • 1h ago
-
----
-
-**[Is Anthropic’s Claude Cowork Forcing C3.ai (AI) To Rethink Its Core Platform Strategy?](https://finance.yahoo.com/news/anthropic-claude-cowork-forcing-c3-170836872.html)**
-
-C3.ai has recently faced a mix of positive contract wins, including U.S. Army logistics projects, and negative signals such as insider share sales and revenue declines, while continuing to post losses and margin pressure. An important takeaway is that Anthropic's launch of its Claude Cowork autonomous enterprise AI agent is challenging C3.ai’s traditional top-down platform model, sharpening investor focus on whether the company can adapt and convert pilots into durable, recurring revenue...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Andreessen Horowitz Investing Billions in AI Infrastructure Projects](https://www.pymnts.com/artificial-intelligence-2/2026/andreessen-horowitz-investing-billions-in-ai-infrastructure-projects/)**
-
-In 2024, Andreessen Horowitz set up a $1.25 billion fund for AI infrastructure projects. Now, the venture capital firm is committing an additional $1.7
-
-PYMNTS.com • 1h ago
-
----
-
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfHaIv7VFQNj5TjAQNEdsoK-ulY1XyN--HthMpZ1qtdQQJKtzzz49Bt&gaa_ts=696e71dd&gaa_sig=o-e1TcuN0J5YrYRuePKy-TALLK6pL8MdG6tRDeVo22beTQf_qoviap_F3XL9np3Xhfz7x2NXgVUedthbgKzE4w%3D%3D)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqeXNS5LM0QDvADKn5FaFA1z9chToUlx0Yi5uuDWj8H-3TPuw75_5z7A&gaa_ts=696e8754&gaa_sig=eUFjHYz0vgiUFBT9aBDi2N4XRHZYVO4dDIxAamhvAIeib86kDXG16y2qqdb9jM8c11-O0LB8UQ56w24yl2aoFw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -175,7 +151,15 @@ The Wall Street Journal • 2d ago
 
 **[Jeremy Grantham Says AI Is Indeed a Classic Market Bubble (Podcast)](https://www.bloomberg.com/news/articles/2026-01-19/jeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast)**
 
-Bloomberg.com • 13h ago
+Bloomberg • 14h ago
+
+---
+
+**[What the Numbers Show About AI’s Harms](https://time.com/7346091/ai-harm-risk/)**
+
+Incidents arising from use of the technology, such as deepfake-enabled scams and chatbot-induced delusions have been rising steadily.
+
+Time Magazine • 5h ago
 
 ---
 
@@ -185,11 +169,25 @@ Axios • 5h ago
 
 ---
 
-**[3 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://www.fool.com/investing/2026/01/19/3-no-brainer-ai-stocks-to-buy-hand-over-fist-2026/)**
+**[Micron Says AI-Driven Memory Crunch Is ‘Unprecedented’](https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html)**
 
-Buy stakes in companies combining scale, profitability, and durable demand across the AI technology stack.
+“The shortage we are seeing is really unprecedented,” Micron Executive Vice President of Operations Manish Bhatia said in an interview shortly after the chipmaker held a groundbreaking ceremony for a $100 billion production site outside Syracuse, New York, on Friday, amplifying a similar forecast the company provided in December.  High-bandwidth memory required to make artificial intelligence accelerators is “consuming so much of the available capacity across the industry that it’s leaving a tremendous shortage for the conventional side of the industry, for phones or PCs,” Bhatia said.
 
-The Motley Fool • 4h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[AI is becoming your new work colleague. But let's not forget the human ones](https://www.weforum.org/stories/2026/01/ai-agentic-workplace-human-resources/)**
+
+The World Economic Forum • 9h ago
+
+---
+
+**[Here are the 55 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)**
+
+U.S.-based AI startups continue to rake in venture funding with multiple companies already raising impressive rounds in 2025.
+
+TechCrunch • 1h ago
 
 ---
 
@@ -201,19 +199,19 @@ The Motley Fool • 4h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 285 • 💬 378 • 17h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 290 • 💬 397 • 18h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 193 • 💬 73 • 8h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 201 • 💬 81 • 9h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 114 • 💬 121 • 5h ago
+⬆️ 135 • 💬 141 • 6h ago
 
 ---
 
@@ -229,7 +227,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 98 • 💬 79 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 101 • 💬 104 • 4h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -245,7 +243,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 --
 
-⬆️ 92 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
+⬆️ 93 • 💬 28 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/gas-and-ralph/)
 
 ---
 
@@ -261,7 +259,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 84 • 💬 50 • 23h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 84 • 💬 52 • 1d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -321,7 +319,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.7M • 👍 65K • 💬 6K • ⏱️ 15:50 • 23h ago
+👁️ 1.7M • 👍 65K • 💬 6K • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -331,7 +329,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 196 • 💬 10 • ⏱️ 9:20 • 14h ago
+👁️ 8K • 👍 196 • 💬 10 • ⏱️ 9:20 • 15h ago
 
 ---
 
@@ -351,7 +349,7 @@ Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most importa
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 317 • 💬 24 • ⏱️ 23:04 • 1d ago
+👁️ 11K • 👍 317 • 💬 24 • ⏱️ 23:04 • 2d ago
 
 ---
 
@@ -371,7 +369,7 @@ BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify play
 
 📺 Dong ASMR
 
-👁️ 183K • 👍 8K • 💬 404 • ⏱️ 0:53 • 21h ago
+👁️ 183K • 👍 8K • 💬 404 • ⏱️ 0:53 • 22h ago
 
 ---
 
@@ -411,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,175 • 5h ago
+⬇️ 1,540,901 • ❤️ 1,175 • 6h ago
 
 ---
 
@@ -433,7 +431,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 306 • 4h ago
+⬇️ 26,093 • ❤️ 306 • 5h ago
 
 ---
 
@@ -469,7 +467,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 0 • ❤️ 229 • 2h ago
+⬇️ 0 • ❤️ 229 • 3h ago
 
 ---
 
@@ -636,7 +634,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 9h ago
+⭐ 9.1k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -646,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 409 • 2h ago
+⭐ 8.1k • 🔱 409 • 3h ago
 
 ---
 
@@ -686,7 +684,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 4h ago
+⭐ 3.7k • 🔱 3.6k • 5h ago
 
 ---
 
@@ -716,7 +714,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 2h ago
+⭐ 1.8k • 🔱 146 • 3h ago
 
 ---
 
