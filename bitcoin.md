@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T09:36:14.613144+00:00'
+updated: '2026-01-19T10:30:49.839460+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 09:36 UTC  
+**Last Updated:** January 19, 2026 at 10:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 I can do this all day
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I can do this all day
 
 If it goes down to 88 will buy some more
 
-7h ago
+8h ago
 
 ---
 
@@ -111,25 +111,25 @@ If it goes down to 88 will buy some more
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-22h ago
+23h ago
 
 ---
 
 **[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
 
-4h ago
+5h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Ever since bitcoin was created I was very skeptical of it until recently when I 
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-21h ago
+22h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1d ago
 
 **[Bitcoin fällt nach Trumps Zollplänen unter 92.000 Dollar](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-fallt-nach-trumps-zollplanen-unter-92-000-dollar)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg • 1h ago
 
 Bitcoin slid about 3% to around $92,000 in early Asian trading on Monday as traders cut risk after President Donald Trump threatened fresh tariffs on eight European countries, linking the levies to his push for US ownership of Greenland.Trump said the US would impose additional 10% import tariffs from Feb. ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 4h ago
 
 International Business News: Cryptocurrencies fell sharply on Monday as US President Donald Trumpâs threat to impose new tariffs on eight European countries rattled risk assets an.
 
-Times of India • 2h ago
+Times of India • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Times of India • 2h ago
 
 U.S.-listed spot bitcoin and ether ETFs logged their strongest week in three months.
 
-CoinDesk • 26m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 26m ago
 
 Fresh money poured back into US spot Bitcoin ETFs this week, giving the market a clear jolt after a quiet month. The inflows totaled about $1.42 billion, the biggest weekly pickup since early October. That rush pushed prices higher for a time and pulled a lot of attention back to these regulated fu…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 255 • ⏱️ 6:08 • 6h ago
+👁️ 23K • 👍 1K • 💬 255 • ⏱️ 6:08 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 12h ago
+👁️ 65K • 👍 3K • 💬 378 • ⏱️ 14:15 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 3h ago
+👁️ 3K • 👍 292 • 💬 44 • ⏱️ 5:22 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 7h ago
+👁️ 11K • 👍 605 • 💬 131 • ⏱️ 11:05 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ Crypto News: Bitcoin pulls back as US-EU tariff war fears intensify. Large bitco
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 5h ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 14:41 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation ev
 
 📺 AMCrypto
 
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 6h ago
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 10:18 • 7h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 3h ago
+👁️ 5K • 👍 363 • 💬 45 • ⏱️ 9:03 • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ This Is Why Bitcoin Is Dumping My Free Telegram Groups: Platinum Group: https://
 
 📺 Mister Crypto
 
-👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 4h ago
+👁️ 1K • 👍 81 • 💬 34 • ⏱️ 8:41 • 5h ago
 
 ---
 
@@ -399,7 +399,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 6K • 👍 377 • 💬 126 • ⏱️ 9:23 • 9h ago
+👁️ 6K • 👍 377 • 💬 126 • ⏱️ 9:23 • 10h ago
 
 ---
 
@@ -409,7 +409,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 16h ago
+👁️ 9K • 👍 305 • 💬 171 • ⏱️ 8:40 • 17h ago
 
 ---
 

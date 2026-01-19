@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T09:36:14.622412+00:00'
+updated: '2026-01-19T10:30:49.848673+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 09:36 UTC  
+**Last Updated:** January 19, 2026 at 10:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
 
-24m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byoro
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 12h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 13h ago
 
 ---
 
@@ -58,13 +58,13 @@ I wanna show my progress on my robot .It is called tribotv1 for now.It need some
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-13h ago
+14h ago
 
 ---
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi, I am trying to find some way to record the robot's movement on rviz or any s
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -166,7 +166,7 @@ Bloomberg • 5h ago
 
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 17h ago
+SciTechDaily • 18h ago
 
 ---
 
@@ -192,7 +192,7 @@ Tech Xplore • 1d ago
 
 📺 Wowearth
 
-👁️ 177K • 👍 2K • 💬 74 • ⏱️ 1:16 • 5d ago
+👁️ 177K • 👍 2K • 💬 74 • ⏱️ 1:16 • 6d ago
 
 ---
 
@@ -242,7 +242,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 37 • 💬 2 • ⏱️ 2:17 • 8h ago
+👁️ 1K • 👍 37 • 💬 2 • ⏱️ 2:17 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 971K • 👍 15K • 💬 1K • ⏱️ 33:05 • 15h ago
+👁️ 971K • 👍 15K • 💬 1K • ⏱️ 33:05 • 16h ago
 
 ---
 
@@ -282,7 +282,7 @@ Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by wat
 
 📺 Fox Business
 
-👁️ 12K • 👍 208 • 💬 87 • ⏱️ 5:12 • 18h ago
+👁️ 12K • 👍 208 • 💬 87 • ⏱️ 5:12 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T09:36:14.604750+00:00'
+updated: '2026-01-19T10:30:49.831113+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 09:36 UTC  
+**Last Updated:** January 19, 2026 at 10:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 19h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 After today’s big memory upgrade, ChatGPT can now remember conversations from a year ago, and link you directly to them. https://www.techradar.com/ai-platforms-assistants/chatgpt/after-todays-big-memory-upgrade-chatgpt-can-now-remember-conversations-from-a-year-ago-and-link-you-directly-to-them I would argue that ChatGPT can now recall your conversations from a year ago, as it must already remember them. This should be a proof that all your prompts are persisted and can be used as OpenAI deems fit for their profits.
 
-20h ago
+21h ago
 
 ---
 
@@ -65,7 +65,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 Hey guys, I need to start writing business plans including Research & Development, Demonstrations and the building of the business plan for investors itself; which AI program is the best for doing all these tasks at once? I want to sign up to a pro account asap and get going, many thanks :) 🙏
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey guys, I need to start writing business plans including Research & Developmen
 
 Forget the blockchain bros and their laser eyes. The real currency of tomorrow is compute, and you're going to earn it by feeding the beast.
 
-🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 4h ago
+🔗 [eeko systems - AI for Business](https://eeko.systems/the-future-of-money-isnt-bitcoin-its-you-and-compute/) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Forget the blockchain bros and their laser eyes. The real currency of tomorrow i
 
 Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
 
-🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 12h ago
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthro
 
 Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model and see if there are any existing frameworks that could be used with it. The general idea is to view agent action and perception as part of the same discrete data stream, and model intelligence as compression of sub-segments of this stream into independent "mechanisms" (patterns of action-perception) which can be used for prediction/action and potentially recombined into more general frameworks as the agent learns. More precisely, I'm looking for: 1. The method of pattern representation 2. An algorithm for inferring initially orthogonal/unrelated patterns from the same data stream 3. Some manner of meta-learning for recombining mechanisms Clearly this is a tall order, but please humor me and provide some feedback. (For a conceptually similar model look at Friston's "Active Inference".)
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hello - I'm just here to drop a somewhat vague/incipient idea for an AI model an
 
 https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://aclanthology.org/2025.emnlp-main.1033.pdf Abstract: "Multilingual large 
 
 **TL;DR:** Managing images for 100+ SKUs sucks because styles drift over time. I built a bulk-processing module in Atori that scrapes product URLs, locks in prompt style, and re-does the whole store catalog at once to ensure every image looks like it belongs to the same brand. When you’ve got a catalog that starts hitting 30, 50, or 100+ SKUs, one thing becomes painfully obvious really fast: keeping your product images consistent is a nightmare. I spent months running into the exact same wall that I see a lot of other founders hitting: The Drift:Older products never look like the new ones. The Neglect: Best sellers get polished, while the "long tail" products look forgotten. The Cost:Fixing it meant either hiring an expensive agency or spending dozens of hours manually prompting AI. and Even AI doesn’t solve it by itself.. one prompt per product, slightly different results each time, going back and forth in ai chats... consistency gone in a week. So, I built a dedicated "Large SKU" module to fix it in Atori The idea was to stop treating images as individual projects and start treating the catalog as a with proper creative direction. . Here is how I set it up: Import:I just drop in my product URLs, and it fetches the base images automatically. Style Lock:I asked chat gpt for 3 simple prompts for jewelry product pictures and locked them in. Bulk Gen: Turning my prompts into a system. all prompts run at once for constant output. Because it processes them in a batch using the same seed/style parameters, you don't get that "drift" where one product looks moody and the next looks bright. It forces visual consistency across the board without manual tweaking. **Limits:** 5 variations per product, unlimited products. This is one of 25+ modules inside Atori btw
 
-16h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -139,25 +139,25 @@ CNN • 22h ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
 **[Stop calling it 'The AI bubble': It's actually multiple bubbles, each with a different expiration date](https://venturebeat.com/infrastructure/stop-calling-it-the-ai-bubble-its-actually-multiple-bubbles-each-with-a)**
 
-VentureBeat • 13h ago
+VentureBeat • 14h ago
 
 ---
 
 **[Opinion | This Is What Convinced Me OpenAI Will Run Out of Money](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 5d ago
+The New York Times • 6d ago
 
 ---
 
 **[ASM Orders Beat Estimates After China Rebound, AI Spending Boom](https://www.bloomberg.com/news/articles/2026-01-19/asm-orders-beat-estimates-after-china-rebound-ai-spending-boom)**
 
-Bloomberg • 28m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ Bloomberg • 28m ago
 
 Influencers like Mu Tianran have mastered imitating AI-generated videos, including their flaws.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
 **[The Sunday Daily: Hollywood’s A.I. Moment](https://www.nytimes.com/2026/01/18/podcasts/the-daily/the-sunday-daily-hollywoods-ai-moment.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -179,13 +179,13 @@ The New York Times • 22h ago
 
 The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[IBM report: "AI won't just support businesses, it will define them"](https://www.axios.com/2026/01/18/sneak-peek-ibms-4-year-ai-forecast)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -197,7 +197,7 @@ Axios • 17h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 115 • 💬 95 • 8h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 115 • 💬 95 • 9h ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -221,7 +221,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 91 • 💬 81 • 18h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 91 • 💬 81 • 19h ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -235,7 +235,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 **[AI Destroys Institutions](https://news.ycombinator.com/item?id=46644779)**
 
-⬆️ 88 • 💬 155 • 2d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+⬆️ 88 • 💬 155 • 3d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 
 ---
 
@@ -243,7 +243,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 78 • 💬 49 • 14h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 78 • 💬 49 • 15h ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -281,7 +281,7 @@ Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 
 
 📺 Journey With The Hintons
 
-👁️ 21K • 👍 2K • 💬 84 • ⏱️ 11:46 • 13h ago
+👁️ 21K • 👍 2K • 💬 84 • ⏱️ 11:46 • 14h ago
 
 ---
 
@@ -291,7 +291,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.3M • 👍 54K • 💬 5K • ⏱️ 15:50 • 14h ago
+👁️ 1.3M • 👍 54K • 💬 5K • ⏱️ 15:50 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 770 • 💬 55 • ⏱️ 7:01 • 18h ago
+👁️ 14K • 👍 770 • 💬 55 • ⏱️ 7:01 • 19h ago
 
 ---
 
@@ -319,7 +319,7 @@ IMPORTANT: READ THIS TO GET FREE ACCESS If you're serious about growing on YouTu
 
 📺 Geekbot AI
 
-👁️ 2K • 👍 405 • 💬 18 • ⏱️ 15:17 • 16h ago
+👁️ 2K • 👍 405 • 💬 18 • ⏱️ 15:17 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 19K • 👍 928 • 💬 41 • ⏱️ 12:49 • 21h ago
+👁️ 19K • 👍 928 • 💬 41 • ⏱️ 12:49 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 156 • 💬 9 • ⏱️ 9:45 • 17h ago
+👁️ 5K • 👍 156 • 💬 9 • ⏱️ 9:45 • 18h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 7,589 • ❤️ 844 • 3d ago
+⬇️ 7,589 • ❤️ 844 • 4d ago
 
 ---
 
@@ -397,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,164 • 18h ago
+⬇️ 1,540,901 • ❤️ 1,164 • 19h ago
 
 ---
 
@@ -644,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 384 • 15h ago
+⭐ 7.7k • 🔱 384 • 16h ago
 
 ---
 
@@ -674,7 +674,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 4.8k • 🔱 779 • 2m ago
+⭐ 4.8k • 🔱 779 • 57m ago
 
 ---
 
@@ -684,7 +684,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.5k • 🔱 3.4k • 18h ago
+⭐ 3.5k • 🔱 3.4k • 19h ago
 
 ---
 
@@ -704,7 +704,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 277 • 3h ago
+⭐ 1.9k • 🔱 277 • 4h ago
 
 ---
 
@@ -714,7 +714,7 @@ Vibe coding from 0 to 1 ｜零基础也能学会的 AI 编程实战｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 145 • 3h ago
+⭐ 1.8k • 🔱 145 • 4h ago
 
 ---
 
