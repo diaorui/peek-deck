@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-18T23:41:27.233013+00:00'
+updated: '2026-01-19T01:55:34.319193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 23:41 UTC  
+**Last Updated:** January 19, 2026 at 01:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,461.63
+### $92,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +4.6%  
-**30d:** +8.0%  
-**90d:** -12.1%  
-**1y:** -5.5%  
+**24h:** -2.8%  
+**7d:** -3.2%  
+**30d:** +4.2%  
+**90d:** -14.1%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1898.53B
+**Market Cap:** $1843.16B
 Rank #1
 
-**Circulating Supply:** 19,977,656 BTC
+**Circulating Supply:** 19,977,693 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.6%
+-26.8%
 
 **All-Time Low:** $67.81
-+140124.2%
++136005.3%
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+**[*yawn*](https://www.reddit.com/r/Bitcoin/comments/1qgph1z/yawn/)**
 
-Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
+I can do this all day
 
-12h ago
+1h ago
 
 ---
 
@@ -89,35 +89,33 @@ Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) f
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-12h ago
+15h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-10h ago
+13h ago
+
+---
+
+**[Steak ’n Shake adds Bitcoin to its balance sheet](https://www.reddit.com/r/Bitcoin/comments/1qg6gk2/steak_n_shake_adds_bitcoin_to_its_balance_sheet/)**
+
+Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
+
+14h ago
+
+---
+
+**[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
+
+2h ago
 
 ---
 
 **[Crypto Twitter in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1qg48ti/crypto_twitter_in_a_nutshell/)**
 
-14h ago
-
----
-
-**[Reminder: There’s a person behind that post](https://www.reddit.com/r/Bitcoin/comments/1qg4bhu/reminder_theres_a_person_behind_that_post/)**
-
-Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
-
-14h ago
-
----
-
-**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
-
-Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
-
-18h ago
+16h ago
 
 ---
 
@@ -125,15 +123,7 @@ Anyone else feel like a fool? I would be rich now that is not my old sale that I
 
 I still notice the same ideas being repeated when people talk about Bitcoin, especially by newcomers or outsiders. I’m interested in hearing from this community: What misconception about Bitcoin do you still see repeated today?
 
-2h ago
-
----
-
-**[Am I doing this right? (Monthly Budget)](https://www.reddit.com/r/Bitcoin/comments/1qfwnfa/am_i_doing_this_right_monthly_budget/)**
-
-Updated our monthly budget due to... "Recent events" And yes, investing in your physical security is just as important as your financial security, especially in times like these. I don't want to learn that the hard way.
-
-20h ago
+4h ago
 
 ---
 
@@ -141,13 +131,23 @@ Updated our monthly budget due to... "Recent events" And yes, investing in your 
 
 I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
 
-1h ago
+4h ago
 
 ---
 
-**[Anyone checked on this guy?](https://www.reddit.com/r/Bitcoin/comments/1qf9f8s/anyone_checked_on_this_guy/)**
+**[Reminder: There’s a person behind that post](https://www.reddit.com/r/Bitcoin/comments/1qg4bhu/reminder_theres_a_person_behind_that_post/)**
 
-1d ago
+Someone admits they sold early and the replies are basically “skill issue” dressed up as wisdom. The “wrong mindset” or “you sold too early” narrative is way too black & white (hold forever, don’t time the market, BTC is the escape hatch). If the car dies, your house floods, you lose your job, health goes south, or a pet needs treatment, BTC becomes a lifeline. Using it when life hits isn’t failure! To those who sold: you had your reasons. Don’t beat yourself up for surviving your own reality. And to those who can hold forever: that’s great, genuinely. Just remember that your position is a privilege, not a baseline. Let’s stop kicking people who already had to make hard choices and start showing a bit more respect for different life situations.
+
+16h ago
+
+---
+
+**[Who else sold too early?](https://www.reddit.com/r/Bitcoin/comments/1qg05rb/who_else_sold_too_early/)**
+
+Anyone else feel like a fool? I would be rich now that is not my old sale that I regret.
+
+20h ago
 
 ---
 
@@ -155,11 +155,53 @@ I see people writing: “So late in, it’s not really that lucrative anymore �
 
 ## Google News: "bitcoin"
 
-**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
-Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-The Motley Fool • 1d ago
+Gizmodo • 7h ago
+
+---
+
+**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+
+A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
+
+Bloomberg.com • 56m ago
+
+---
+
+**[Why crypto down today: Bitcoin slides below $93,000 as $680 million longs are liquidated](https://www.coindesk.com/markets/2026/01/19/bitcoin-slides-below-usd93-000-as-usd680-million-longs-are-liquidated-asia-morning-briefing)**
+
+Glassnode says the push toward $96,000 was driven by leverage, while CryptoQuant warns demand remains too weak to confirm a trend reversal.
+
+CoinDesk • 40m ago
+
+---
+
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Peter Schiff Warns Traders Taking Profits In Gold, Silver And Buying Bitcoin ETFs And MSTR Stock: 'That's A Big Mistake'](https://finance.yahoo.com/news/peter-schiff-warns-traders-taking-120106265.html)**
+
+Economist Peter Schiff questioned the sustainability of Bitcoin’s ongoing rally on Wednesday, arguing that investors are mistakenly rotating profits from commodities into cryptocurrency-linked assets. Schiff Downplays Bitcoin Rally Schiff suggested in an X post that traders are taking profits in...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Key facts: US Bitcoin ETFs gain $1.42B; MicroStrategy buys 13,627 BTC; Steak 'n Shake invests $10M](https://www.tradingview.com/news/tradingview:28f268fe1d7f2:0-key-facts-us-bitcoin-etfs-gain-1-42b-microstrategy-buys-13-627-btc-steak-n-shake-invests-10m/)**
+
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -171,61 +213,17 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
-
-The Block • 2d ago
-
----
-
 **[DOJ confirms U.S. government has not sold forfeited Bitcoin](https://finance.yahoo.com/news/doj-confirms-u-government-not-000526073.html)**
 
 The Department of Justice has finally responded to the whereabouts of $6.37 million worth of Bitcoin. The Bitcoin was forefeited from Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, who had pleaded guilty to conspiring to operate an unlicensed money ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Michael Saylor’s Creative Bitcoin Strategy Isn’t Working](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
+**[Bitcoin forfeited as part of Samourai case was not sold and will stay in the strategic reserve, says top White House crypto advisor](https://www.theblock.co/post/386022/bitcoin-forfeited-as-part-of-samourai-case-was-not-sold-and-will-stay-in-the-strategic-reserve-says-top-white-house-crypto-advisor)**
 
-The New York Times • 2d ago
-
----
-
-**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
-
-Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
-
-Yahoo Finance • 1d ago
-
----
-
-**[Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest](https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457)**
-
-Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.
-
-Gizmodo • 1d ago
-
----
-
-**[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold](https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing)**
-
-Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed & Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Bitcoin’s "quantum" death sentence is causing a Wall Street rift, but the fix is already hidden in the code](https://cryptoslate.com/bitcoins-quantum-death-sentence-is-causing-a-wall-street-rift-but-the-fix-is-already-hidden-in-the-code/)**
-
-Jefferies sees quantum computing as a threat to Bitcoin, sparking debate on its role as a portfolio diversifier.
-
-CryptoSlate • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -315,43 +313,53 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
-
-Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
-
-📺 The Wolf Of All Streets
-
-👁️ 22K • 👍 996 • 💬 329 • ⏱️ 53:40 • 9h ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 3K • 💬 251 • ⏱️ 12:19 • 1d ago
-
----
-
-**[If THIS Didn’t Wake You Up, You’re Going to MISS Bitcoin’s Next Move!](https://www.youtube.com/watch?v=awGHowmZlHk)**
-
-While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 221 • ⏱️ 17:39 • 1d ago
-
----
-
 **[Satoshi Bitcoin Wallet Dumps EVERYTHING! Why Crypto ISN’T DEAD (Send This To 1 Friend)](https://www.youtube.com/watch?v=NX-AQYwhptg)**
 
 Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 221 • ⏱️ 14:15 • 2h ago
+👁️ 30K • 👍 2K • 💬 253 • ⏱️ 14:15 • 4h ago
+
+---
+
+**[EMERGENCY BITCOIN UPDATE!!!! (MUST WATCH ASAP!!!)](https://www.youtube.com/watch?v=GgyYrz0zjKE)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+
+📺 Jayson Casper
+
+👁️ 2K • 👍 239 • 💬 54 • ⏱️ 9:23 • 1h ago
+
+---
+
+**[XRP CRYPTO CRASHING LIVE!! What&#39;s Happening Now???](https://www.youtube.com/watch?v=ySncTFGV2Ec)**
+
+WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Oscar&#signUp join me on BTCC and ...
+
+📺 Oscar Ramos
+
+👁️ 9K • 👍 505 • 💬 35 • ⏱️ 1:28:26 • 28m ago
+
+---
+
+**[It’s Diverging At The Fastest Rate In History (Bitcoin, Silver, SP500)](https://www.youtube.com/watch?v=DwchDrlmWXI)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 2K • 👍 164 • 💬 50 • ⏱️ 25:20 • 47m ago
+
+---
+
+**[BITCOIN: VOLATILITY INCOMING!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Y9u_bqvgeVU)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 2K • 👍 139 • 💬 81 • ⏱️ 5:48 • 3h ago
 
 ---
 
@@ -361,17 +369,37 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 217 • 💬 172 • ⏱️ 8:40 • 6h ago
+👁️ 6K • 👍 256 • 💬 188 • ⏱️ 8:40 • 8h ago
 
 ---
 
-**[Bitcoin Holders → &quot;It&#39;s Gonna Get Worse!&quot;](https://www.youtube.com/watch?v=ydX1aJ3JLBA)**
+**[&quot;Bitcoin Is In A Bear Market &amp; This Is Why It Feels Different&quot; | Ben Cowen](https://www.youtube.com/watch?v=wiaXtsrNzRY)**
 
-Bitcoin Holders → It Looks Like It Actually Will Get Worse! If Bitcoin Crashes In Next 7 Days → It Will Look Like This! ⭐ Follow ...
+Bitcoin #Crypto #Finance Ben Cowen breaks down why the current Bitcoin market feels fundamentally different from previous ...
 
-📺 Altcoin Daily
+📺 The Wolf Of All Streets
 
-👁️ 42K • 👍 2K • 💬 160 • ⏱️ 8:18 • 2d ago
+👁️ 26K • 👍 1K • 💬 367 • ⏱️ 53:40 • 11h ago
+
+---
+
+**[¡Rechazo clave! ¿Bitcoin a $100K o caída?](https://www.youtube.com/watch?v=KYjmZ79y_Lo)**
+
+Bitcoin #AnalisisTenico #bitcoinhoy OKX 10% de descuento en comisiones ▻ https://bit.ly/3Wv6uKj BINGX Ahorra 10% en ...
+
+📺 Billions Crypto
+
+👁️ 2K • 👍 262 • 💬 3 • ⏱️ 1:18:23 • 40m ago
+
+---
+
+**[Crypto Arbitrage Strategy: Cold Market Setups That Still Pay / Bitcoin Prediction /Altcoin Arbitrage](https://www.youtube.com/watch?v=e-juNplx_xw)**
+
+Sell On: https://aimcryptospace.com Buy in : Bybit - https://www.bybit.com/ Binance - https://binance.com/ Kraken ...
+
+📺 Crafts for ME
+
+👁️ 6K • 👍 694 • 💬 99 • ⏱️ 3:59 • 11h ago
 
 ---
 
@@ -381,37 +409,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 65K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
-
----
-
-**[The Bitcoin Cheat Code | Mark Moss](https://www.youtube.com/watch?v=eQRUoMFFjsU)**
-
-Mark Moss joins the show to talk about why Bitcoin is not just an asset, but a financial cheat code that exposes how broken the ...
-
-📺 What Bitcoin Did
-
-👁️ 29K • 👍 1K • 💬 305 • ⏱️ 1:13:07 • 2d ago
-
----
-
-**[Michael Saylor Just Changed Bitcoin Forever!! (ACT NOW)](https://www.youtube.com/watch?v=hdFfFOJ54XA)**
-
-Michael Saylor Just Changed Bitcoin Forever!! Subscribe to Crypto Kid: https://www.youtube.com/@Crypto-Kid/videos Follow ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 3K • 💬 225 • ⏱️ 16:02 • 2d ago
-
----
-
-**[Silver Market Just Sent An Emergency Signal To Bitcoin](https://www.youtube.com/watch?v=jaV6oWQRPwM)**
-
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
-
-📺 Tim Talks Finance
-
-👁️ 19K • 👍 419 • 💬 85 • ⏱️ 9:47 • 1d ago
+👁️ 66K • 👍 5K • 💬 1K • ⏱️ 16:04 • 1d ago
 
 ---
 

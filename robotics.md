@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-18T23:41:27.241627+00:00'
+updated: '2026-01-19T01:55:34.328511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 18, 2026 at 23:41 UTC  
+**Last Updated:** January 19, 2026 at 01:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,22 +34,6 @@ Robotics research and industry news
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-11h ago
-
----
-
-**[First Robot Dog Advice](https://www.reddit.com/r/robotics/comments/1qgi9yz/first_robot_dog_advice/)**
-
-Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
-
-3h ago
-
----
-
-**[Stuttering motors: Raspberry Pi + Cytron MDDS30 (RC Mode) - Signal issues?](https://www.reddit.com/r/robotics/comments/1qg4ime/stuttering_motors_raspberry_pi_cytron_mdds30_rc/)**
-
-Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
-
 13h ago
 
 ---
@@ -58,13 +42,29 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 5h ago
+
+---
+
+**[First Robot Dog Advice](https://www.reddit.com/r/robotics/comments/1qgi9yz/first_robot_dog_advice/)**
+
+Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
+
+6h ago
+
+---
+
+**[Stuttering motors: Raspberry Pi + Cytron MDDS30 (RC Mode) - Signal issues?](https://www.reddit.com/r/robotics/comments/1qg4ime/stuttering_motors_raspberry_pi_cytron_mdds30_rc/)**
+
+Hi everyone, I'm struggling with a motor control project and could really use some expert eyes on this. The Setup: Controller: Raspberry Pi 4 (using pigpio library) Motor Driver: Cytron SmartDriveDuo MDDS30 Mode: RC (PWM) Mode. Switches: 1 (RC Mode) and 6 (MCU/High Sensitivity) are ON. Wiring: GPIO 18/19 to RC1/RC2. Common GND is connected. The Problem: From the very beginning, the motors are stuttering/jittering. On the Cytron board, the status LEDs are blinking or flickering instead of staying solid. This happens even at a "neutral" (1500us) pulse. It seems like the driver is constantly losing the signal or can't "read" it properly. I've already tried different PWM frequencies (50Hz to 100Hz), but the stuttering persists. My Theory: I suspect the Pi’s 3.3V logic level is right on the edge of what the Cytron driver can reliably detect, especially with the interference from the motor power wires nearby. I've ordered a PCA9685 to try and "boost" the signal to a solid 5V. Here is my test code: Python import pigpio import time pi = pigpio.pi() MOTORS = [18, 19] def motor_test(): if not pi.connected: return try: # Initialize with 50Hz and Neutral (Stop) signal for m in MOTORS: pi.set_PWM_frequency(m, 50) pi.set_servo_pulsewidth(m, 1500) time.sleep(1) # Sending a constant forward signal while True: for m in MOTORS: pi.set_servo_pulsewidth(m, 1800) time.sleep(0.02) except KeyboardInterrupt: for m in MOTORS: pi.set_servo_pulsewidth(m, 1500) pi.stop() motor_test()
+
+16h ago
 
 ---
 
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-10h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Hello everyone i am trying to do hybrid trajectory optimization for robodog. But I am having a bit of trouble i defining force constraints and trajectory. As the force at the end of start of each phase will eventually be zero only so how does that work out?? Please help
 
-16h ago
+18h ago
 
 ---
 
@@ -114,15 +114,23 @@ I’ve been exploring local AI for robotics and I’m genuinely curious about th
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 7h ago
+TechCrunch • 9h ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
 
-Fortune • 3d ago
+Futurism • 1d ago
+
+---
+
+**[Assessing Qualcomm (QCOM) Valuation After New Robotics And AI Announcements](https://sg.finance.yahoo.com/news/assessing-qualcomm-qcom-valuation-robotics-011023701.html)**
+
+Why Qualcomm (QCOM) is Back in Focus After Its Latest AI and Robotics Moves Qualcomm (QCOM) is drawing fresh attention after its CES announcements around the Dragonwing IQ10 robotics processor and broader AI robotics stack, coupled with growing real world use cases like Motive's AI Dashcam Plus. See our latest analysis for QUALCOMM. Despite the buzz around its robotics and AI announcements, QUALCOMM's recent share price performance has been weak, with a 7 day share price return of 10.33% and...
+
+Yahoo Finance Singapore • 45m ago
 
 ---
 
@@ -130,7 +138,15 @@ Fortune • 3d ago
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
-WRGB • 23h ago
+WRGB • 1d ago
+
+---
+
+**[Top LEGO robotics teams compete at Oregon championship in Hillsboro](https://www.kptv.com/2026/01/18/top-lego-robotics-teams-compete-oregon-championship-hillsboro/)**
+
+Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
+
+KPTV • 19h ago
 
 ---
 
@@ -148,31 +164,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Industrial humanoid robots and AI help China’s construction giant boost production](https://interestingengineering.com/ai-robotics/humanoid-robots-help-china-construction)**
-
-Zoomlion integrates AI and humanoid robots across smart factories, driving automation, efficiency, and digital transformation.
-
-Interesting Engineering • 3d ago
-
----
-
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-SciTechDaily • 8h ago
-
----
-
-**[Soft robotic hand 'sees' around corners to achieve human-like touch](https://techxplore.com/news/2026-01-soft-robotic-corners-human.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
-
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
-
-Futurism • 1d ago
+SciTechDaily • 10h ago
 
 ---
 
@@ -182,6 +176,14 @@ You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
 Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[Future of parking? Robots quietly reshape how cars are parked](https://interestingengineering.com/ai-robotics/automated-parking-robots-cisco-urwb-hl-robotics)**
+
+Automated parking robots in Korea show how ultra-reliable wireless networks are critical for real-world autonomy.
+
+Interesting Engineering • 3d ago
 
 ---
 
@@ -195,7 +197,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 264K • 👍 13K • 💬 3K • ⏱️ 19:17 • 3d ago
+👁️ 278K • 👍 13K • 💬 3K • ⏱️ 19:17 • 3d ago
 
 ---
 
@@ -205,7 +207,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 129K • 👍 5K • 💬 348 • ⏱️ 17:36 • 4d ago
+👁️ 130K • 👍 5K • 💬 348 • ⏱️ 17:36 • 4d ago
 
 ---
 
@@ -213,17 +215,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Wowearth
 
-👁️ 161K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 490K • 👍 10K • 💬 828 • ⏱️ 33:05 • 5h ago
+👁️ 167K • 👍 2K • 💬 71 • ⏱️ 1:16 • 5d ago
 
 ---
 
@@ -233,17 +225,37 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 471K • 👍 14K • 💬 820 • ⏱️ 17:09 • 6d ago
+👁️ 472K • 👍 14K • 💬 823 • ⏱️ 17:09 • 6d ago
 
 ---
 
-**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+**[2026 Humanoid Robots! #robotics #humanoidrobots #robots #ai #futuretech #innovation](https://www.youtube.com/watch?v=7FJlDx00W2g)**
 
-HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+It's crazy how many humanoid robots have already popped up in 2026. In China, the Shanghai startup Agibot rang in the New ...
 
-📺 Deepen
+📺 Kalil 4.0
 
-👁️ 19K • 👍 240 • 💬 4 • ⏱️ 0:23 • 2d ago
+👁️ 164 • 👍 12 • 💬 1 • ⏱️ 2:17 • 1h ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 253K • 👍 15K • 💬 3K • ⏱️ 5:12 • 5d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 665K • 👍 12K • 💬 919 • ⏱️ 33:05 • 8h ago
 
 ---
 
@@ -263,7 +275,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 269K • 👍 12K • 💬 209 • ⏱️ 0:49 • 4d ago
+👁️ 272K • 👍 12K • 💬 209 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -274,16 +286,6 @@ This year's CES offered a revealing look at where AI and robotics stand in 2026,
 📺 Cheddar
 
 👁️ 43K • 👍 170 • 💬 15 • ⏱️ 9:43 • 4d ago
-
----
-
-**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
-
-Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
-
-📺 Pit Novations
-
-👁️ 44K • 👍 125 • 💬 14 • ⏱️ 0:05 • 4d ago
 
 ---
 

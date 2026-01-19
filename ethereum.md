@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-18T23:41:27.238658+00:00'
+updated: '2026-01-19T01:55:34.325240+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 18, 2026 at 23:41 UTC  
+**Last Updated:** January 19, 2026 at 01:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,339.50
+### $3,203.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +8.0%  
-**30d:** +12.3%  
-**90d:** -13.3%  
-**1y:** +3.9%  
+**24h:** -3.1%  
+**7d:** -3.7%  
+**30d:** +6.6%  
+**90d:** -16.0%  
+**1y:** -2.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.78B
+**Market Cap:** $385.60B
 Rank #2
 
-**Circulating Supply:** 120,694,592 ETH
+**Circulating Supply:** 120,694,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.7%
+-35.3%
 
 **All-Time Low:** $0.43
-+769029.7%
++738813.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An important, and perenially underrated, aspect of "trustlessness", "passing the walkaway test" and "self-sovereignty" is protocol simplicity. Even if a protocol is super decentralized with hundreds of thousands of nodes, and it has 49% byzantine fault tolerance, and nodes fully verify everything with quantum-safe peerdas and starks, if the protocol is an unwieldy mess of hundreds of thousands of lines of code and five forms of PhD-level cryptography, ultimately that protocol fails all three tests: It's not trustless because you have to trust a small class of high priests who tell you what properties the protocol has It doesn't pass the walkaway test because if existing client teams go away, it's extremely hard for new teams to get up to the same level of quality It's not self-sovereign because if even the most technical people can't inspect and understand the thing, it's not fully yours It's also less secure, because each part of the protocol, especially if it can interact with other parts in complicated ways, carries a risk of the protocol breaking. One of my fears with Ethereum protocol development is that we can be too eager to add new features to meet highly specific needs, even if those features bloat the protocol or add entire new types of interacting components or complicated cryptography as critical dependencies. This can be nice for short-term functionality gains, but it is highly destructive to preserving long-term self-sovereignty, and creating a hundred-year decentralized hyperstructure that transcends the rise and fall of empires and ideologies. The core problem is that if protocol changes are judged from the perspective of "how big are they as changes to the existing protocol", then the desire to preserve backwards compatibility means that additions happen much more often than subtractions, and the protocol inevitably bloats over time. To counteract this, the Ethereum development process needs an explicit "simplification" / "garbage collection" function. "Simplification" has three metrics: Minimizing total lines of code in the protocol. An ideal protocol fits onto a single page - or at least a few pages Avoiding unnecessary dependencies on fundamentally complex technical components. For example, a protocol whose security solely depends on hashes (even better: on exactly one hash function) is better than one that depends on hashes and lattices. Throwing in isogenies is worst of all, because (sorry to the truly brilliant hardworking nerds who figured that stuff out) nobody understands isogenies. Adding more invariants: core properties that the protocol can rely on, for example EIP-6780 (selfdestruct removal) added the property that at most N storage slots can be changedakem per slot, significantly simplifying client development, and EIP-7825 (per-tx gas cap) added a maximum on the cost of processing one transaction, which greatly helps ZK-EVMs and parallel execution. Garbage collection can be piecemeal, or it can be large-scale. The piecemeal approach tries to take existing features, and streamline them so that they are simpler and make more sense. One example is the gas cost reforms in Glamsterdam, which make many gas costs that were previously arbitrary, instead depend on a small number of parameters that are clearly tied to resource consumption. One large-scale garbage collection was replacing PoW with PoS. Another is likely to happen as part of Lean consensus, opening the room to fix a large number of mistakes at the same time ( youtube.com/watch?v=10Ym34y3E… ). Another approach is "Rosetta-style backwards compatibility", where features that are complex but little-used remain usable but are "demoted" from being part of the mandatory protocol and instead become smart contract code, so new client developers do not need to bother with them. Examples: After we upgrade to full native account abstraction, all old tx types can be retired, and EOAs can be converted into smart contract wallets whose code can process all of those transaction types We can replace existing precompiles (except those that are really needed) with EVM or later RISC-V code We can eventually change the VM from EVM to RISC-V (or other simpler VM); EVM could be turned into a smart contract in the new VM. Finally, we want to move away from client developers feeling the need to handle all older versions of the Ethereum protocol. That can be left to older client versions running in docker containers. In the long term, I hope that the rate of change to Ethereum can be slower. I think for various reasons that ultimately that must happen. These first fifteen years should in part be viewed as an adolescence stage where we explored a lot of ideas and saw what works and what is useful and what is not. We should strive to avoid the parts that are not useful being a permanent drag on the Ethereum protocol. Basically, we want to improve Ethereum in a way that looks like this: https://old.reddit.com/r/SpaceXLounge/comments/1eis952/evolution_of_the_raptor_engine_by_cstanley/
 
-14h ago
+16h ago
 
 ---
 
@@ -150,41 +150,9 @@ Ethereum must pass walkaway test, Base app focuses on trading, Trail of Bits Cla
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
+**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 2d ago
-
----
-
-**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
-
-Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
-
-Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
-
-Coinpedia • 11h ago
-
----
-
-**[Vitalik calls for a ‘garbage collection’ function to stop Ethereum bloat](https://www.tradingview.com/news/cointelegraph:b1eb068e0094b:0-vitalik-calls-for-a-garbage-collection-function-to-stop-ethereum-bloat/)**
-
-Ethereum co-founder Vitalik Buterin is urging developers to confront the protocol bloat driven by an endless push to add new features while rarely removing old ones.In a Sunday post on X, Buterin argued that true trustlessness and self-sovereignty depend less on raw decentralization metrics and mor…
-
-TradingView — Track All Markets • 11h ago
-
----
-
-**[Ethereum Should Strive To Become 'Cryptographically Safe' For 100 Years, Says Vitalik Buterin: Resist The Trap Of 'Ekeing Out More Efficiencies'](https://finance.yahoo.com/news/ethereum-strive-become-cryptographically-safe-233114236.html)**
-
-Vitalik Buterin called for the swift deployment of quantum-resistant technology for Ethereum (CRYPTO: ETH) on Monday, emphasizing its importance for long-term cryptographic safety. Is Efficiency Worth Sacrificing For Security? Buterin took to X to voice his concerns about delaying quantum...
-
-Yahoo Finance • 3d ago
+The Block • 3h ago
 
 ---
 
@@ -196,23 +164,25 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
-
-The Block • 1h ago
-
----
-
 **[Ethereum news: Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog](https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog)**
 
 CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Network Activity Explodes, Market Structure Points To Upside Continuation](https://www.tradingview.com/news/newsbtc:e4b181914094b:0-ethereum-network-activity-explodes-market-structure-points-to-upside-continuation/)**
+**[Ethereum Validator Exit Queue Hits Zero as Staking Demand Surges](https://finance.yahoo.com/news/ethereum-validator-exit-queue-hits-095400552.html)**
 
-Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
+Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
 
-TradingView — Track All Markets • 6h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
+
+ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
+
+AMBCrypto • 10h ago
 
 ---
 
@@ -224,9 +194,49 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Ethereum Network Activity Explodes, Market Structure Points To Upside Continuation](https://www.tradingview.com/news/newsbtc:e4b181914094b:0-ethereum-network-activity-explodes-market-structure-points-to-upside-continuation/)**
+
+Ethereum is showing signs of strength on two critical fronts at the same time. On-chain activity has climbed to record levels, reflecting heavier real usage across the network, while long-term technical structure is leaning towards upside continuation.Together, these signals suggest that Ethereum’s…
+
+TradingView — Track All Markets • 8h ago
+
+---
+
+**[Vitalik Buterin Admits Ethereum ‘Backslided’ Over The Last 10 Years](https://finance.yahoo.com/news/vitalik-buterin-admits-ethereum-backslided-120259558.html)**
+
+Ethereum’s push for scalability left users overly dependent on centralized infrastructure and weakened original goals.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for ‘Garbage Collection’ to Save the Blockchain](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-calls-for-garbage-collection-to-save-the-blockchain/)**
+
+Ethereum’s biggest risk may no longer be competition, regulation, or scaling. According to Vitalik Buterin, the real threat is something more subtle:
+
+Coinpedia • 13h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YzOWWBPQ3s0)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 585 • 👍 62 • 💬 7 • ⏱️ 8:02 • 57m ago
+
+---
 
 **[Time Is Running Out For Ethereum! 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=aYL-Fui2wBE)**
 
@@ -234,7 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 249 • 💬 81 • ⏱️ 9:21 • 12h ago
+👁️ 6K • 👍 262 • 💬 79 • ⏱️ 9:21 • 15h ago
 
 ---
 
@@ -244,47 +254,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 65K • 👍 3K • 💬 278 • ⏱️ 10:28 • 1d ago
-
----
-
-**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
-
-In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
-
-📺 CoinDesk
-
-👁️ 8K • 👍 234 • 💬 89 • ⏱️ 24:55 • 2d ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 336 • 💬 262 • ⏱️ 19:48 • 12h ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 3K • 💬 251 • ⏱️ 12:19 • 1d ago
-
----
-
-**[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 724 • 💬 56 • ⏱️ 15:35 • 1d ago
+👁️ 66K • 👍 3K • 💬 281 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -294,7 +264,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 6 • ⏱️ 4:43 • 11h ago
+👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:43 • 13h ago
+
+---
+
+**[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 729 • 💬 56 • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -304,27 +284,47 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 5K • 👍 236 • 💬 37 • ⏱️ 13:56 • 1d ago
+👁️ 5K • 👍 239 • 💬 37 • ⏱️ 13:56 • 1d ago
 
 ---
 
-**[Tom Lee “I’ve Never Seen A Setup Like This Before” [NEW Bitcoin and Crypto Prediction 2026]](https://www.youtube.com/watch?v=s88GhpCIIBU)**
+**[$15,000 ETH By Year-End? Etherealize Founders Lay Out the Path to a New High](https://www.youtube.com/watch?v=ck6gZ8LWxlc)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join Jennifer Sanasie to discuss why Ethereum is ...
 
-📺 Crypto Nutshell
+📺 CoinDesk
 
-👁️ 26K • 👍 882 • 💬 28 • ⏱️ 16:47 • 2d ago
+👁️ 9K • 👍 238 • 💬 86 • ⏱️ 24:55 • 2d ago
 
 ---
 
-**[These 11 Altcoins Could Become VERY Popular In 2026 Bitcoin Ethereum &amp; XRP Could Have New Rivals](https://www.youtube.com/watch?v=mZv0DrW8f5w)**
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
 
-Never a dull moment in the cryptocurrency space. Things are about to heat up even more in the crypto market as more and more ...
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 The Modern Investor
+📺 Altcoin Daily
 
-👁️ 7K • 👍 727 • 💬 241 • ⏱️ 27:39 • 14h ago
+👁️ 51K • 👍 3K • 💬 248 • ⏱️ 12:19 • 1d ago
+
+---
+
+**[Ethereum Price Prediction - Is This The Reversal?](https://www.youtube.com/watch?v=WJ9OILlwJGE)**
+
+This video conducts a detailed ethereum analysis, examining its recent performance in the crypto market. We'll explore potential ...
+
+📺 David Blewett
+
+👁️ 73 • 👍 14 • 💬 26 • ⏱️ 13:24 • 2h ago
+
+---
+
+**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FG5sN7bQT3U)**
+
+BITCOIN JUST REVEALED THE NEXT PRICE TARGET!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 360 • 💬 269 • ⏱️ 19:48 • 14h ago
 
 ---
 
