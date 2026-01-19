@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T23:21:54.382323+00:00'
+updated: '2026-01-19T23:43:05.158666+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 23:21 UTC  
+**Last Updated:** January 19, 2026 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 8h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 11h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 12h ago
 
 ---
 
@@ -185,7 +185,7 @@ OpenAI • 1d ago
 
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -233,7 +233,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 100 • 💬 83 • 4h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 100 • 💬 83 • 5h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -317,7 +317,7 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 209 • 💬 62 • ⏱️ 24:36 • 22h ago
+👁️ 8K • 👍 209 • 💬 62 • ⏱️ 24:36 • 23h ago
 
 ---
 
@@ -632,7 +632,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 14h ago
+⭐ 9.1k • 🔱 1.2k • 15h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 821 • 13h ago
+⭐ 5.0k • 🔱 821 • 14h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 289 • 16h ago
+⭐ 2.0k • 🔱 289 • 17h ago
 
 ---
 

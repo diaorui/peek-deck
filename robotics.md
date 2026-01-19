@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T23:21:54.400046+00:00'
+updated: '2026-01-19T23:43:05.177111+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 23:21 UTC  
+**Last Updated:** January 19, 2026 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-5h ago
+6h ago
 
 ---
 
@@ -140,7 +140,7 @@ WRGB • 1d ago
 
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 3d ago
 
 Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-The Robot Report • 9h ago
+The Robot Report • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 23K • 💬 7 • ⏱️ 0:07 • 13h ago
+👁️ 23K • 💬 7 • ⏱️ 0:07 • 14h ago
 
 ---
 

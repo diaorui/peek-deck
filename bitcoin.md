@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T23:21:54.390772+00:00'
+updated: '2026-01-19T23:43:05.167419+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 23:21 UTC  
+**Last Updated:** January 19, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ MarketWatch • 8h ago
 
 traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 856 • 👍 99 • 💬 8 • ⏱️ 5:28 • 1h ago
+👁️ 856 • 👍 99 • 💬 8 • ⏱️ 5:28 • 2h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 1K • 💬 203 • ⏱️ 1:02:47 • 7h ago
+👁️ 23K • 👍 1K • 💬 203 • ⏱️ 1:02:47 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 380 • 💬 348 • ⏱️ 16:30 • 17h ago
+👁️ 8K • 👍 380 • 💬 348 • ⏱️ 16:30 • 18h ago
 
 ---
 
