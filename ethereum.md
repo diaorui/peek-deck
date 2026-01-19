@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-19T20:26:10.125797+00:00'
+updated: '2026-01-19T20:46:53.164452+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 20:26 UTC  
+**Last Updated:** January 19, 2026 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $387.29B
+**Market Cap:** $388.39B
 Rank #2
 
 **Circulating Supply:** 120,694,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.1%
+-35.0%
 
 **All-Time Low:** $0.43
-+740827.4%
++742742.0%
 
 ---
 
@@ -96,7 +96,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 26m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 47m ago
 
 ---
 
@@ -104,7 +104,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-30m ago
+50m ago
 
 ---
 
@@ -238,17 +238,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 9h ago
-
----
-
-**[BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=M6f4i09yjHA)**
-
-BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 208 • 👍 18 • 💬 16 • ⏱️ 21:07 • 1h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 10h ago
 
 ---
 
@@ -258,17 +248,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 665 • 👍 86 • 💬 2 • ⏱️ 7:47 • 3h ago
+👁️ 1K • 👍 126 • 💬 3 • ⏱️ 7:47 • 3h ago
 
 ---
 
-**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kRm0wzbdjjM)**
+**[ETH Ethereum Price Prediction: 19th of January](https://www.youtube.com/watch?v=ZBvMnT96VaU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Cilinix Crypto
+📺 C-Zar Gets Crypto 
 
-👁️ 379 • 👍 14 • 💬 9 • ⏱️ 4:52 • 9h ago
+👁️ 148 • 👍 17 • 💬 45 • ⏱️ 8:16 • 3h ago
+
+---
+
+**[BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=M6f4i09yjHA)**
+
+BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 186 • 💬 157 • ⏱️ 21:07 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 278 • 💬 62 • ⏱️ 9:21 • 1d ago
+👁️ 7K • 👍 282 • 💬 62 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -288,17 +288,17 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 73K • 👍 3K • 💬 181 • ⏱️ 10:28 • 2d ago
+👁️ 74K • 👍 3K • 💬 184 • ⏱️ 10:28 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=00jVvnOtQ9o)**
+**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kRm0wzbdjjM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 161 • 👍 9 • ⏱️ 1:28 • 2h ago
+👁️ 448 • 👍 14 • 💬 12 • ⏱️ 4:52 • 10h ago
 
 ---
 
@@ -308,17 +308,7 @@ BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium 
 
 📺 Bankless
 
-👁️ 2K • 👍 91 • 💬 25 • ⏱️ 1:02:56 • 8h ago
-
----
-
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 5K • 👍 247 • 💬 37 • ⏱️ 13:56 • 2d ago
+👁️ 3K • 👍 105 • 💬 27 • ⏱️ 1:02:56 • 9h ago
 
 ---
 
@@ -328,7 +318,17 @@ In today's Markets Outlook, Etherealize founders Vivek Raman and Danny Ryan join
 
 📺 CoinDesk
 
-👁️ 9K • 👍 247 • 💬 61 • ⏱️ 24:55 • 2d ago
+👁️ 10K • 👍 250 • 💬 58 • ⏱️ 24:55 • 2d ago
+
+---
+
+**[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 740 • 💬 56 • ⏱️ 15:35 • 2d ago
 
 ---
 

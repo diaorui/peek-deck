@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T20:26:10.111001+00:00'
+updated: '2026-01-19T20:46:53.149709+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 20:26 UTC  
+**Last Updated:** January 19, 2026 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 5h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 40m ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 8h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-2h ago
+3h ago
 
 ---
 
@@ -171,7 +171,7 @@ OpenAI • 1d ago
 
 **[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ Time Magazine • 6h ago
 
 **[AI is becoming your new work colleague. But let's not forget the human ones](https://www.weforum.org/stories/2026/01/ai-agentic-workplace-human-resources/)**
 
-The World Economic Forum • 10h ago
+The World Economic Forum • 11h ago
 
 ---
 
@@ -265,7 +265,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 82 • 💬 60 • 1h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 82 • 💬 60 • 2h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -273,11 +273,13 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 ## YouTube Videos: "ai"
 
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+**[3 UNCENSORED AI Video Generators That Are Actually FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=SlmPaLlrlPI)**
 
-📺 Bob Reese
+STOP Paying!! 3 UNCENSORED AI Video Generators That Are Actually FREE Start Printing with Fanvue today ...
 
-👁️ 522K • 👍 26K • 💬 320 • ⏱️ 1:05 • 2d ago
+📺 Brain Project
+
+👁️ 1K • 👍 115 • 💬 45 • ⏱️ 10:51 • 6h ago
 
 ---
 
@@ -287,7 +289,15 @@ This Wojak meme video is about the future of AI in 2050. This fictional concept 
 
 📺 Low Budget Stories
 
-👁️ 118K • 👍 7K • 💬 994 • ⏱️ 9:27 • 1d ago
+👁️ 121K • 👍 7K • 💬 1K • ⏱️ 9:27 • 1d ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+
+📺 Bob Reese
+
+👁️ 533K • 👍 26K • 💬 324 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -297,17 +307,27 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 850 • 💬 61 • ⏱️ 7:01 • 1d ago
+👁️ 17K • 👍 859 • 💬 61 • ⏱️ 7:01 • 1d ago
 
 ---
 
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
 
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
 
-📺 Liam Ottley
+📺 Julia McCoy
 
-👁️ 23K • 👍 1K • 💬 52 • ⏱️ 12:49 • 1d ago
+👁️ 94K • 👍 4K • 💬 577 • ⏱️ 19:38 • 2d ago
+
+---
+
+**[AI Exhaustion is real...](https://www.youtube.com/watch?v=YovD5Yvvawg)**
+
+AI ------------------------------------------------------------------------------------------- Amazon Shop - https://www.amazon.com/shop/raidowl ...
+
+📺 Raid Owl
+
+👁️ 4K • 👍 295 • 💬 87 • ⏱️ 22:52 • 7h ago
 
 ---
 
@@ -317,7 +337,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.7M • 👍 65K • 💬 6K • ⏱️ 15:50 • 1d ago
+👁️ 1.8M • 👍 67K • 💬 7K • ⏱️ 15:50 • 1d ago
+
+---
+
+**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+
+My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+
+📺 Liam Ottley
+
+👁️ 24K • 👍 1K • 💬 59 • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -327,47 +357,17 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 196 • 💬 10 • ⏱️ 9:20 • 16h ago
+👁️ 9K • 👍 201 • 💬 10 • ⏱️ 9:20 • 16h ago
 
 ---
 
-**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
+**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
 
-The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
+Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
 
-📺 KolaDepth
+📺 Dumanity
 
-👁️ 7K • 👍 188 • 💬 57 • ⏱️ 24:36 • 19h ago
-
----
-
-**[Gemini 4 Explained: Google’s Most Powerful AI Yet (Agents, Physical World AI &amp; AGI Path)](https://www.youtube.com/watch?v=9Frhqv3v5VE)**
-
-Link to our Newsletter: https://bitbiased.ai/ Gemini 4 could be the most important AI release Google has ever made. After tracking ...
-
-📺 BitBiasedAI
-
-👁️ 11K • 👍 317 • 💬 24 • ⏱️ 23:04 • 2d ago
-
----
-
-**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 8K • 👍 203 • 💬 11 • ⏱️ 9:45 • 1d ago
-
----
-
-**[ONLY 1% Can Spot The AI (Impossible Level) #asmr](https://www.youtube.com/watch?v=QKIfVlJ5oAQ)**
-
-BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
-
-📺 Dong ASMR
-
-👁️ 183K • 👍 8K • 💬 404 • ⏱️ 0:53 • 23h ago
+👁️ 39K • 👍 2K • 💬 388 • ⏱️ 12:32 • 12h ago
 
 ---
 
@@ -395,7 +395,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,830 • ❤️ 359 • 1d ago
+⬇️ 1,830 • ❤️ 360 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,175 • 7h ago
+⬇️ 1,540,901 • ❤️ 1,178 • 8h ago
 
 ---
 
@@ -419,7 +419,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 346 • 4d ago
+⬇️ 17,594 • ❤️ 347 • 4d ago
 
 ---
 
@@ -441,7 +441,19 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 769 • 12d ago
+⬇️ 55,233 • ❤️ 770 • 12d ago
+
+---
+
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 0 • ❤️ 279 • 4h ago
 
 ---
 
@@ -457,18 +469,6 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 ---
 
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 0 • ❤️ 229 • 4h ago
-
----
-
 **[FLUX.2-klein-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B)**
 
 *Black Forest Labs*
@@ -477,7 +477,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 214 • 4d ago
+⬇️ 18,931 • ❤️ 217 • 4d ago
 
 ---
 
@@ -497,13 +497,27 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ## HuggingFace Papers: 🔥 Trending
 
+**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)**
+
+*Yawar Siddiqui, Duncan Frost, Samir Aroudj et al. (12 authors)*
+
+🏢 AI at Meta
+
+ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
+
+▲ 6 • 💬 2 • ⭐ 175 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
+
+---
+
 **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://huggingface.co/papers/2601.07372)**
 
 *Xin Cheng, Wangding Zeng, Damai Dai et al. (14 authors)*
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 26 • 💬 1 • ⭐ 2,890 • 7d ago
+▲ 26 • 💬 1 • ⭐ 2,938 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -539,7 +553,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 19 • 💬 3 • ⭐ 533 • 4d ago
+▲ 20 • 💬 3 • ⭐ 533 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -557,18 +571,6 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 20 • 💬 4 • ⭐ 15,602 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -578,9 +580,21 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 135 • 💬 19 • ⭐ 50,497 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,542 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 20 • 💬 4 • ⭐ 15,634 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -590,7 +604,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 66,081 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 66,112 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
@@ -602,23 +616,9 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 123 • 💬 3 • ⭐ 2,774 • 13d ago
+▲ 124 • 💬 3 • ⭐ 2,774 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)**
-
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
-
-🏢 Massachusetts Institute of Technology
-
-We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
-
-▲ 68 • 💬 7 • ⭐ 1,425 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
 
 ---
 
@@ -632,7 +632,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 11h ago
+⭐ 9.1k • 🔱 1.2k • 12h ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 409 • 4h ago
+⭐ 8.1k • 🔱 413 • 4h ago
 
 ---
 
@@ -652,7 +652,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 340 • 2d ago
+⭐ 7.2k • 🔱 339 • 2d ago
 
 ---
 
@@ -662,7 +662,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 676 • 11d ago
+⭐ 5.1k • 🔱 679 • 11d ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 817 • 10h ago
+⭐ 5.0k • 🔱 819 • 11h ago
 
 ---
 
@@ -702,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 287 • 13h ago
+⭐ 2.0k • 🔱 288 • 14h ago
 
 ---
 
@@ -712,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 4h ago
+⭐ 1.8k • 🔱 146 • 5h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.5k • 🔱 102 • 20d ago
+⭐ 1.5k • 🔱 103 • 20d ago
 
 ---
 

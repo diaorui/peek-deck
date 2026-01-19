@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T20:26:10.119677+00:00'
+updated: '2026-01-19T20:46:53.158309+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 20:26 UTC  
+**Last Updated:** January 19, 2026 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1856.59B
+**Market Cap:** $1860.21B
 Rank #1
 
-**Circulating Supply:** 19,978,025 BTC
+**Circulating Supply:** 19,978,040 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.3%
+-26.2%
 
 **All-Time Low:** $67.81
-+136919.6%
++137179.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 Hard to buy the dip when you're already all in!
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 2d ago
 
 traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ The New York Times • 3d ago
 
 Key PointsSince 2018, Bitcoin is up more than 600%, while XRP has lost 44% of its value.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -261,7 +261,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 6d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 7d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -305,13 +305,23 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
+**[$900M of Bitcoin and Crypto Liquidated](https://www.youtube.com/watch?v=mEtJtJQw_oI)**
+
+What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 801 • 💬 258 • ⏱️ 8:03 • 2h ago
+
+---
+
 **[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
 
 Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 38 • ⏱️ 12:15 • 9h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 12:15 • 10h ago
 
 ---
 
@@ -321,7 +331,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 41 • ⏱️ 20:35 • 5h ago
+👁️ 18K • 👍 2K • 💬 50 • ⏱️ 20:35 • 5h ago
 
 ---
 
@@ -331,7 +341,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 452 • ⏱️ 6:08 • 17h ago
+👁️ 35K • 👍 2K • 💬 444 • ⏱️ 6:08 • 17h ago
 
 ---
 
@@ -341,17 +351,27 @@ Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 12K • 👍 685 • 💬 96 • ⏱️ 15:35 • 8h ago
+👁️ 15K • 👍 742 • 💬 111 • ⏱️ 15:35 • 9h ago
 
 ---
 
-**[The REAL REASON Why CRYPTO IS CRASHING!! How LOW Will It GO!?](https://www.youtube.com/watch?v=hUb2ekPFASg)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=Kue0Zz-kTbA)**
 
-The crypto market has experienced a sharp drop over the last day, and everyone assumes that it's because of tensions between ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Coin Bureau Trading
+📺 Erik Anderson
 
-👁️ 6K • 👍 494 • 💬 41 • ⏱️ 9:46 • 9h ago
+👁️ 4K • 👍 3K • 42m ago
+
+---
+
+**[How To Damage Bitcoin Forever](https://www.youtube.com/watch?v=4oYQ1tu7GPg)**
+
+Please help to support this channel's work: https://www.youtube.com/@Bitcoin_University/join In this video, I discuss how the ...
+
+📺 Bitcoin University
+
+👁️ 4K • 👍 703 • 💬 182 • ⏱️ 12:22 • 5h ago
 
 ---
 
@@ -361,7 +381,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 352 • 💬 266 • ⏱️ 16:30 • 14h ago
+👁️ 7K • 👍 366 • 💬 247 • ⏱️ 16:30 • 15h ago
+
+---
+
+**[Bitcoin BTC Price Prediction: What A Dump!](https://www.youtube.com/watch?v=K6rveM-dXb4)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 591 • 👍 46 • 💬 60 • ⏱️ 9:14 • 5h ago
 
 ---
 
@@ -371,37 +401,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 4K • 💬 449 • ⏱️ 14:15 • 23h ago
-
----
-
-**[🚨URGENT: Bitcoin Is About to CRASH! | Most People Will Miss This⚠️](https://www.youtube.com/watch?v=ojKZo5LuH08)**
-
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
-
-📺 DataDash
-
-👁️ 1K • 👍 130 • 💬 5 • ⏱️ 15:30 • 4h ago
-
----
-
-**[BITCOIN IS GOING MUCH LOWER, BUT FIRST...](https://www.youtube.com/watch?v=pg7cMqWGoMA)**
-
-Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
-
-📺 100XClub
-
-👁️ 8K • 👍 1K • 💬 167 • ⏱️ 8:03 • 11h ago
-
----
-
-**[THIS WEEK WILL BE WILD FOR BITCOIN... YOU NEED TO SEE THIS](https://www.youtube.com/watch?v=Sx93quWS8Es)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 11K • 👍 554 • 💬 54 • ⏱️ 9:59 • 11h ago
+👁️ 80K • 👍 4K • 💬 451 • ⏱️ 14:15 • 23h ago
 
 ---
 

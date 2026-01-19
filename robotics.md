@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T20:26:10.129089+00:00'
+updated: '2026-01-19T20:46:53.167736+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 20:26 UTC  
+**Last Updated:** January 19, 2026 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematic
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 23h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 1d ago
 
 ---
 
@@ -140,7 +140,7 @@ WRGB • 1d ago
 
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -199,17 +199,17 @@ Pittsburgh Post-Gazette • 2d ago
 
 📺 Wowearth
 
-👁️ 184K • 👍 2K • 💬 80 • ⏱️ 1:16 • 6d ago
+👁️ 185K • 👍 2K • 💬 81 • ⏱️ 1:16 • 6d ago
 
 ---
 
-**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
+**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
 
-Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
+HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
 
-📺 Pit Novations
+📺 Deepen
 
-👁️ 44K • 👍 127 • 💬 14 • ⏱️ 0:05 • 5d ago
+👁️ 21K • 👍 257 • 💬 4 • ⏱️ 0:23 • 3d ago
 
 ---
 
@@ -219,7 +219,17 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 7K • 💬 7 • ⏱️ 0:07 • 10h ago
+👁️ 22K • 💬 7 • ⏱️ 0:07 • 11h ago
+
+---
+
+**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
+
+Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
+
+📺 Pit Novations
+
+👁️ 45K • 👍 127 • 💬 14 • ⏱️ 0:05 • 5d ago
 
 ---
 
@@ -233,6 +243,16 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
+**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+
+Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+
+📺 Fox Business
+
+👁️ 13K • 👍 217 • 💬 78 • ⏱️ 5:12 • 1d ago
+
+---
+
 **[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
 A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
@@ -243,43 +263,23 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 ---
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
-
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 134K • 👍 5K • 💬 365 • ⏱️ 17:36 • 4d ago
-
----
-
-**[2026 Humanoid Robots! #robotics #humanoidrobots #robots #ai #futuretech #innovation](https://www.youtube.com/watch?v=7FJlDx00W2g)**
-
-It's crazy how many humanoid robots have already popped up in 2026. In China, the Shanghai startup Agibot rang in the New ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 53 • 💬 2 • ⏱️ 2:17 • 19h ago
-
----
-
 **[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
 
 ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
 
 📺 Gohar Khan
 
-👁️ 292K • 👍 13K • 💬 214 • ⏱️ 0:49 • 4d ago
+👁️ 294K • 👍 13K • 💬 216 • ⏱️ 0:49 • 4d ago
 
 ---
 
-**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-📺 Fox Business
+📺 Ticker Symbol: YOU
 
-👁️ 12K • 👍 215 • 💬 79 • ⏱️ 5:12 • 1d ago
+👁️ 135K • 👍 5K • 💬 365 • ⏱️ 17:36 • 4d ago
 
 ---
 
@@ -289,7 +289,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 1.5M • 👍 20K • 💬 1K • ⏱️ 33:05 • 1d ago
+👁️ 1.6M • 👍 21K • 💬 1K • ⏱️ 33:05 • 1d ago
 
 ---
 
