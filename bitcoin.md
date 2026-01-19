@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-19T05:32:29.444458+00:00'
+updated: '2026-01-19T06:40:41.876969+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 19, 2026 at 05:32 UTC  
+**Last Updated:** January 19, 2026 at 06:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -2.8%  
-**30d:** +4.6%  
-**90d:** -13.8%  
-**1y:** -9.4%  
+**24h:** -2.5%  
+**7d:** -2.9%  
+**30d:** +4.5%  
+**90d:** -13.9%  
+**1y:** -9.5%  
 
 ---
 
@@ -81,6 +81,28 @@ Rank #1
 
 I can do this all day
 
+5h ago
+
+---
+
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+2h ago
+
+---
+
+**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
+
+Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
+
+2h ago
+
+---
+
+**[Just bought the dip with 50 bucks](https://www.reddit.com/r/Bitcoin/comments/1qgr1e9/just_bought_the_dip_with_50_bucks/)**
+
+If it goes down to 88 will buy some more
+
 4h ago
 
 ---
@@ -89,41 +111,25 @@ I can do this all day
 
 Ever since bitcoin was created I was very skeptical of it until recently when I actually asked myself "Why am I so skeptical?" and it turned out the answer was that I just didn't understand it. The last 2 weeks I did self research and I finally understood it what it meant. A side effect was understanding also the FIAT system and how terribly broken it is. Starting next month I will DCA 1k each month I also regret not asking this question a lot earlier in my early twenties instead of in my late twenties...
 
-18h ago
-
----
-
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-1h ago
+19h ago
 
 ---
 
 **[The Catch Up](https://www.reddit.com/r/Bitcoin/comments/1qg7o74/the_catch_up/)**
 
-16h ago
-
----
-
-**[Just bought the dip with 50 bucks](https://www.reddit.com/r/Bitcoin/comments/1qgr1e9/just_bought_the_dip_with_50_bucks/)**
-
-If it goes down to 88 will buy some more
-
-3h ago
-
----
-
-**[beware💲](https://www.reddit.com/r/Bitcoin/comments/1qgtn0g/beware/)**
-
-Real talk though: if you actually find a hard drive labeled "Bitcoin" in the trash: Don't plug it directly into your main computer. Use: → An old laptop you don't care about → Boot from a live USB (Linux) → Never connect it to your network first → Scan for malware before opening anything Could be bait. Someone wants you to plug a compromised drive into your system. Ransomware, keyloggers, crypto miners. Never trust random drives. Ever. 🤷
-
-1h ago
+17h ago
 
 ---
 
 **[Keep calm & do what? Stack Sats of course!](https://www.reddit.com/r/Bitcoin/comments/1qgn85q/keep_calm_do_what_stack_sats_of_course/)**
 
-6h ago
+7h ago
+
+---
+
+**[Anyone else had a tasty bitcoin for lunch lately? I sure did!](https://www.reddit.com/r/Bitcoin/comments/1qguz6e/anyone_else_had_a_tasty_bitcoin_for_lunch_lately/)**
+
+1h ago
 
 ---
 
@@ -131,15 +137,7 @@ Real talk though: if you actually find a hard drive labeled "Bitcoin" in the tra
 
 Steak ’n Shake has confirmed a $10 million Bitcoin purchase (around 105 BTC) for its corporate reserve. This is the company’s first publicly confirmed Bitcoin acquisition. Back in May 2025, Steak ’n Shake rolled out crypto payments via the Lightning Network across all U.S. locations. According to the company, the results were immediate: — payment fees dropped by up to 50% compared to card networks — same-store sales increased by roughly 15% after crypto payments went live All Bitcoin paid by customers is not sold. It goes directly into what the company calls its Strategic Bitcoin Reserve. What makes this approach stand out is that Steak ’n Shake isn’t raising capital to buy BTC. Instead, it’s accumulating Bitcoin through everyday business operations burgers turning into sats, one transaction at a time. Real-world adoption is starting to look very practical.
 
-17h ago
-
----
-
-**[You are not late to the party](https://www.reddit.com/r/Bitcoin/comments/1qgladb/you_are_not_late_to_the_party/)**
-
-I see people writing: “So late in, it’s not really that lucrative anymore “. So I’m asking you: When Bitcoin hits 1million or more, does it really matter wether you bought at 10k or 100k
-
-7h ago
+19h ago
 
 ---
 
@@ -147,7 +145,7 @@ I see people writing: “So late in, it’s not really that lucrative anymore �
 
 Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve spent months browsing this subreddit and reading about others’ experiences and reasons for confidence in Bitcoin. At the same time, the community seems very polarizing, which makes it hard for me to form my own opinion about whether Bitcoin will keep increasing in value. Right now, I’d describe my perspective as neutral, as I see both pros and cons to its digital and decentralized nature. I'm pretty tired of seeing the diehard-type opinions and don't stand with either side: I think the “Bitcoin is a Ponzi scheme” guys are often misinformed, while the “HODL to the moon” guys in this sub can come off as arrogant. Neither side has fully convinced me yet. I’d really appreciate hearing some neutral perspectives on Bitcoin as an investment. What do you think are the realistic risks and benefits, and (assuming you're pro-bitcoin) why the benefits outweigh them? Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +157,7 @@ Hey everyone, I’ve been considering getting into Bitcoin for a while. I’ve s
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Gizmodo • 11h ago
+Gizmodo • 12h ago
 
 ---
 
@@ -171,11 +169,19 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Slips On Trade War Fears, Sparks $865M in Liquidations](https://finance.yahoo.com/news/bitcoin-slips-trade-war-fears-033341559.html)**
+**["Bigger Orange": Strategy likely to announce larger bitcoin buys days after $1.25 billion purchase](https://www.coindesk.com/markets/2026/01/19/strategy-s-saylor-signals-more-bitcoin-purchases-after-usd1-25b-splurge)**
 
-Analysts say the resurgence in U.S.-EU trade war tensions has driven Bitcoin’s drop as U.S. markets remain closed for a public holiday.
+Strategy has bought nearly 15,000 BTC so far this year, pushing its stash to about 687,000 BTC as Saylor signals more purchases may be coming.
 
-Yahoo Finance • 1h ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+
+A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -185,11 +191,11 @@ The New York Times • 2d ago
 
 ---
 
-**[As Bitcoin Retakes $95,000, Should You Buy, Sell, or Hold MicroStrategy Stock?](https://finance.yahoo.com/news/bitcoin-retakes-95-000-buy-140002693.html)**
+**[MicroStrategy’s Saylor Hints at Bitcoin Acquisition Surpassing $1.25 Billion](https://finance.yahoo.com/news/microstrategy-saylor-hints-bitcoin-acquisition-190105018.html)**
 
-Bitcoin climbed above $95,000 as investors showed risk appetite. Should you buy MicroStrategy’s stock now?
+Michael Saylor hints at new Bitcoin purchase surpassing previous massive buy.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -197,35 +203,29 @@ Yahoo Finance • 1d ago
 
 At present, the bitcoin treasury company Strategy holds around 687,410 BTC, valued at a touch north of $65 billion.
 
-Bitcoin.com News • 12h ago
+Bitcoin.com News • 8h ago
 
 ---
 
-**[Bitcoin price news: Week's gains continue to evaporate with BTC retreating to $94,000](https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble)**
+**[1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood](https://www.fool.com/investing/2026/01/17/1-spectacular-cryptocurrency-soar-1159-cathie-wood/)**
 
-A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.
+Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[These Finnish Homes Are Being Heated by a Surprising Source: Bitcoin Mining](https://www.motherjones.com/politics/2026/01/finnish-homes-mara-waste-heat-bitcoin-mining/)**
-
-Can the reuse of crypto's waste heat redeem its bad climate rep?
-
-Mother Jones • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
 **[Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing](https://www.bloomberg.com/news/articles/2026-01-16/mr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 2h ago
+👁️ 7K • 👍 744 • 💬 142 • ⏱️ 6:08 • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 8h ago
+👁️ 48K • 👍 3K • 💬 326 • ⏱️ 14:15 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 5h ago
+👁️ 4K • 👍 323 • 💬 57 • ⏱️ 9:23 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ COPY TRADE ME ON ALL EXCHANGES BELOW!. Bitcoin just saw a massive liquidation ev
 
 📺 AMCrypto
 
-👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 2h ago
+👁️ 461 • 👍 54 • 💬 1 • ⏱️ 10:18 • 3h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join My VIP Trading Group: https://www.freedomtradingacademy.com/vip-community T
 
 📺 FREEDOM TRADING ACADEMY
 
-👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 1h ago
+👁️ 72 • 👍 1 • 💬 2 • ⏱️ 18:14 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 4h ago
+👁️ 6K • 👍 467 • 💬 229 • ⏱️ 25:20 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ Fav Exchange http://ckenny.com/joinWX Free Group http://ckenny.com/joinWXTG Free
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 374 • 💬 67 • ⏱️ 11:05 • 3h ago
+👁️ 5K • 👍 374 • 💬 67 • ⏱️ 11:05 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ XRP #Ripple #SEC #CryptoNews #XRPLawsuit #JudgeTorres #BreakingNews #CryptoRegul
 
 📺 EDO FARINA XRP (Alpha Lions Academy )
 
-👁️ 5K • 👍 511 • 💬 79 • ⏱️ 57:43 • 3h ago
+👁️ 5K • 👍 511 • 💬 79 • ⏱️ 57:43 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ Geo-political turmoil with Iran unrest and potential conflict is rattling crypto
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 12h ago
+👁️ 8K • 👍 290 • 💬 183 • ⏱️ 8:40 • 13h ago
 
 ---
 
@@ -411,7 +411,7 @@ WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Os
 
 📺 Oscar Ramos
 
-👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 4h ago
+👁️ 20K • 👍 562 • 💬 61 • ⏱️ 1:28:26 • 5h ago
 
 ---
 
