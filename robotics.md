@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-19T11:44:32.647287+00:00'
+updated: '2026-01-19T12:53:00.484546+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 19, 2026 at 11:44 UTC  
+**Last Updated:** January 19, 2026 at 12:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Guys my new project. Queries and suggestions.](https://www.reddit.com/r/robotics/comments/1qgzeze/guys_my_new_project_queries_and_suggestions/)**
-
-https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
-
-2h ago
-
----
-
 **[Demo/Concept by DEEP Robotics with their quadruped robots for emergency firefighting and rescue solution](https://www.reddit.com/r/robotics/comments/1qh1akk/democoncept_by_deep_robotics_with_their_quadruped/)**
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-40m ago
+1h ago
 
 ---
 
 **[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +50,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-1h ago
+3h ago
 
 ---
 
@@ -66,7 +58,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Hello, I am in the process of creating my first robot dog. I have been referencing the MIT mini cheetah for sort of how I want it to look and operate. However, I am extremely new to this whole world of robotics. For reference I am currently studying EE, but am still pretty early in my degree. I am planning on using an NVIDIA Jetson Nano and Robstride02 actuators since I already have them. I want to sim the dog in NVIDIA Isaac Sim, but I do not know if I should do this prior to the build or once I have it built. Like I said I’m extremely new to this whole space, so any advice, even just general, would be great. Thanks!
 
-15h ago
+17h ago
 
 ---
 
@@ -74,7 +66,7 @@ Hello, I am in the process of creating my first robot dog. I have been referenci
 
 I wanna show my progress on my robot .It is called tribotv1 for now.It need some improvement but i am proud already for the current results
 
-🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 15h ago
+🔗 [youtube.com](https://youtube.com/shorts/OmKf9CDM4tU?si=E4EGfTklLaSoi-Eh) • 16h ago
 
 ---
 
@@ -86,9 +78,17 @@ Hi everyone, I'm struggling with a motor control project and could really use so
 
 ---
 
+**[Guys my new project. Queries and suggestions.](https://www.reddit.com/r/robotics/comments/1qgzeze/guys_my_new_project_queries_and_suggestions/)**
+
+https://youtube.com/shorts/H7padi1EZgU?si=ZGvD3eKKfn9L0BPt Our new project byorobo. Me and my brother decided to start making educational robotics kit. It has various features like 10DOF, multiple sensor integration, blockly, C++ and python based programming with plug and play functionality. Guys feel free for suggestions and queries. Link: YouTube page Thankyou.
+
+3h ago
+
+---
+
 **[IC DFT Engineer Looking for Opportunities in Finland/Europe](https://www.reddit.com/r/robotics/comments/1qgj6p3/ic_dft_engineer_looking_for_opportunities_in/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2012195915831169134
 
 I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. tracking motion, detecting areas that still need work). The robot is connected to a ground station via a serial link. The ground station can receive camera data and send control commands back to the robot. I’m unsure about two design choices: Processing location Should computer vision processing run on the robot, or should the robot mostly act as a data source (camera + sensors) while the ground station does the heavy processing and sends commands back? Is a “robot = sensing + actuation, station = brains” approach reasonable in practice? User interface For user control (start/stop, monitoring, basic visualization): Is it better to have a website/web UI served by the ground station (streamed to a browser), or A direct UI on the ground station itself (screen/app)? What are the main tradeoffs people have seen here in terms of reliability, latency, and debugging? Any advice from people who’ve built camera-based robots would be appreciated.
 
-22h ago
+23h ago
 
 ---
 
@@ -116,15 +116,29 @@ I’m building a wall-climbing robot that uses a camera for vision tasks (e.g. t
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
-**[Robots Have a Small Problem: They Completely Suck](https://futurism.com/future-society/robots-suck)**
+**[China’s humanoid robot Adam nails Charleston dance in motion demo](https://interestingengineering.com/ai-robotics/pndbiotics-humanoid-robot-aces-charleston-dance)**
 
-Beyond performing preprogrammed martial arts and dance moves, we can't shake the feeling that robots as they exist today just kind of suck.
+Humanoid robot Adam performs the Charleston, showcasing 41-DOF precision and human-like motion in a systems-level test.
 
-Futurism • 1d ago
+Interesting Engineering • 30m ago
+
+---
+
+**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
+
+The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
+
+South China Morning Post • 37m ago
+
+---
+
+**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
+
+Bloomberg.com • 8h ago
 
 ---
 
@@ -160,32 +174,18 @@ The Robot Report • 2d ago
 
 ---
 
-**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
-
-Bloomberg.com • 7h ago
-
----
-
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
-
-SciTechDaily • 20h ago
-
----
-
-**[Chinese automaker debuts multipurpose humanoid and service robots](https://interestingengineering.com/ai-robotics/chinese-carmaker-cherry-debuts-robot-family)**
-
-AiMOGA Robotics, a subsidiary of Chinese automaker Chery, unveiled a family of embodied intelligence robots useful for multiple purposes.
-
-Interesting Engineering • 42m ago
-
----
-
 **[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
 
 You soon might go grocery shopping alongside robots.
 Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
 
 Pittsburgh Post-Gazette • 2d ago
+
+---
+
+**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
+
+SciTechDaily • 21h ago
 
 ---
 
@@ -247,7 +247,7 @@ It's crazy how many humanoid robots have already popped up in 2026. In China, th
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 40 • 💬 2 • ⏱️ 2:17 • 10h ago
+👁️ 1K • 👍 40 • 💬 2 • ⏱️ 2:17 • 12h ago
 
 ---
 
@@ -287,7 +287,7 @@ Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by wat
 
 📺 Fox Business
 
-👁️ 12K • 👍 210 • 💬 85 • ⏱️ 5:12 • 20h ago
+👁️ 12K • 👍 210 • 💬 85 • ⏱️ 5:12 • 21h ago
 
 ---
 
