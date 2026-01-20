@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T11:48:07.128228+00:00'
+updated: '2026-01-20T12:53:28.150651+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 11:48 UTC  
+**Last Updated:** January 20, 2026 at 12:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-1h ago
+2h ago
 
 ---
 
@@ -44,13 +44,21 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
-11h ago
+12h ago
+
+---
+
+**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
+
+Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
+
+58m ago
 
 ---
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +66,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +74,15 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 7h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 8h ago
+
+---
+
+**[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
+
+ODM Humanoid demo show.
+
+1h ago
 
 ---
 
@@ -82,7 +98,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-20h ago
+21h ago
 
 ---
 
@@ -90,21 +106,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-17h ago
-
----
-
-**[Your robot has an accent — why some sim-trained policies transfer and others faceplant](https://www.reddit.com/r/robotics/comments/1qhatfl/your_robot_has_an_accent_why_some_simtrained/)**
-
-Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
-
 18h ago
-
----
-
-**[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
-
-1d ago
 
 ---
 
@@ -116,7 +118,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -128,27 +130,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 1h ago
-
----
-
 **[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 2h ago
-
----
-
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
-
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
-
-WRGB • 2d ago
+CBC • 3h ago
 
 ---
 
@@ -160,22 +146,6 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
-
-Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
-
-Forbes • 16h ago
-
----
-
-**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
-
-The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
-
-South China Morning Post • 23h ago
-
----
-
 **[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
 
 China adopts robotics faster than western counterparts
@@ -184,11 +154,43 @@ Tom's Hardware • 1d ago
 
 ---
 
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 2d ago
+
+---
+
 **[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-WJON • 16m ago
+WJON • 1h ago
+
+---
+
+**[Top LEGO robotics teams compete at Oregon championship in Hillsboro](https://www.kptv.com/2026/01/18/top-lego-robotics-teams-compete-oregon-championship-hillsboro/)**
+
+Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
+
+KPTV • 2d ago
+
+---
+
+**[Ukrainian soldiers surprised a robot maker by using a drone to drop one of its bots into battle](https://www.businessinsider.com/ukraine-robot-maker-soldier-surprise-him-drone-drop-close-russia-2026-1)**
+
+Ukraine is using ground robots and flying drones to take on Russia. One robot maker was surprised when soldiers combined them to be more effective.
+
+Business Insider • 16h ago
+
+---
+
+**[Introducing ‘Coco,’ Jersey City’s new delivery robot](https://www.nj.com/news/2026/01/introducing-coco-jersey-citys-new-delivery-robot.html)**
+
+Coco weighs 100 pounds, has zero emissions and travels on sidewalks at speeds of up to 5 mph.
+
+NJ.com • 53m ago
 
 ---
 
@@ -272,7 +274,7 @@ This little black ball is a microscopic robot. And it was designed to deliver dr
 
 📺 Kallaway
 
-👁️ 14K • 👍 707 • 💬 22 • ⏱️ 0:39 • 21h ago
+👁️ 14K • 👍 707 • 💬 22 • ⏱️ 0:39 • 22h ago
 
 ---
 
@@ -292,7 +294,7 @@ My Brother Tries War Robots. I was not expecting to do this, but my brother sugg
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 970 • 💬 213 • ⏱️ 30:19 • 22h ago
+👁️ 12K • 👍 970 • 💬 213 • ⏱️ 30:19 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T11:48:07.124924+00:00'
+updated: '2026-01-20T12:53:28.147389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 11:48 UTC  
+**Last Updated:** January 20, 2026 at 12:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -7.6%  
-**30d:** +3.2%  
+**24h:** -3.4%  
+**7d:** -7.5%  
+**30d:** +3.3%  
 **90d:** -19.5%  
 **1y:** -6.4%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 15h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-10h ago
+11h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-15h ago
+16h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-19h ago
+20h ago
 
 ---
 
@@ -152,17 +152,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
-
-CCN.com • 1h ago
-
----
-
 **[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
+
+---
+
+**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
+
+CCN.com • 2h ago
 
 ---
 
@@ -176,7 +176,15 @@ The Block • 1d ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
+
+---
+
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
+
+It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
+
+The Motley Fool • 43m ago
 
 ---
 
@@ -190,7 +198,7 @@ Yahoo Finance • 2d ago
 
 **[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
 
-CCN.com • 16m ago
+CCN.com • 1h ago
 
 ---
 
@@ -198,7 +206,7 @@ CCN.com • 16m ago
 
 As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -210,17 +218,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcoCLcAkRNSb7iO5KwG77Gh5JHtdfRqnekKH760KfAyr2IXI-Wn_YfN&gaa_ts=696f7e2f&gaa_sig=__RNhk8QqDZKfwgcwvvongdT6kxBgpoqCnoQ0sfWoE-0X0ITpH0wxb9MnwHjN-FqDWVXc9Qrmek1l3b-ISvs_A%3D%3D)**
 
-Here's Vitalik Buterin's new vision for Ethereum in 2026.
-
-AMBCrypto • 2d ago
-
----
-
-**[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
-
-TipRanks • 14h ago
+Barron's • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 24 • ⏱️ 6:26 • 9h ago
+👁️ 2K • 👍 113 • 💬 24 • ⏱️ 6:26 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 100 • 👍 8 • 💬 1 • ⏱️ 4:56 • 2h ago
+👁️ 100 • 👍 8 • 💬 1 • ⏱️ 4:56 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 27 • ⏱️ 7:47 • 18h ago
+👁️ 2K • 👍 166 • 💬 27 • ⏱️ 7:47 • 19h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this episode of The Milk Road Show, we sit down with Rune Christensen (Founde
 
 📺 Milk Road
 
-👁️ 1K • 👍 65 • 💬 61 • ⏱️ 31:03 • 16h ago
+👁️ 1K • 👍 65 • 💬 61 • ⏱️ 31:03 • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ Dive into Ethereum's future in this quick 4-minute breakdown! With Pectra and Fu
 
 📺 Altcoin Media
 
-👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 11h ago
+👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 13h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 356 • 💬 220 • ⏱️ 21:07 • 17h ago
+👁️ 9K • 👍 356 • 💬 220 • ⏱️ 21:07 • 18h ago
 
 ---
 
