@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-19T23:43:05.158666+00:00'
+updated: '2026-01-20T01:50:39.319770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 19, 2026 at 23:43 UTC  
+**Last Updated:** January 20, 2026 at 01:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 9h ago
-
----
-
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1qh7wwj/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-Claude drops Cowork agents for non-technical tasks Google Antigravity launches Agent Skills Chrome is soon to be a fully agentic browser A collection of AI Agent Updates! 🧵 1. Claude launches Cowork: Claude Code for Non-Technical Tasks Access folders on your computer: Claude reads, edits, creates files. Makes plans and executes tasks like creating spreadsheets from screenshots or drafting from notes. Available now for Max subscribers on macOS. Claude Code benefits but for non-coders! 2. Google Antigravity Integrates Agent Skills Open standard to extend agent capabilities. Package project-specific workflows or global utilities into reusable skills. Enables modular agent functionality. Standardized skill system for agent customization. 3. OpenAI Launches ChatGPT Go with Unlimited GPT 5.2 Access For Agents Lowest tier includes 10x more messages, file uploads, image creation, more memory, longer context window. Rolling out globally where ChatGPT is available. Affordable agentic AI capabilities for mass market. 4. LangChain Releases OpenWork: Open Source Alternative to Claude Cowork Built on deepagentsjs harness. Desktop interface with multi-step planning, filesystem access, subagent delegation. Run in 10 seconds with npx using Anthropic or OpenAI models. Open source way to manage your agents in bulk. 5. Firecrawl Introduces Spark 1 Pro and Mini Models Powers /agent endpoint for web search, navigation, and extraction. Mini 60% cheaper, Pro delivers higher accuracy. Outperform tools costing 4-7x more. Agent finds data autonomously from simple prompts. State-of-the-art web extraction agents at play. 6. AnthropicAI Adds Healthcare Agent Skills and Connectors to Claude New FHIR development skill improves healthcare system interoperability. Prior authorization review skill cross-references coverage requirements, clinical guidelines, patient records. Customizable to organization policies. Claude agents expand into regulated healthcare workflows. 7. Vercel Drops Agent Skills for React and Next.js Optimization 10+ years of frontend optimization knowledge packaged into reusable agent skills. Install with npx, prompt to assess repos against best practices, agent makes prioritized fixes automatically. Developer expertise becomes deployable agent knowledge. 8. Google Developing "Auto Browse" Tool for Gemini Turns Chrome into agentic browser with Gemini as control interface. Continuation of agentic functionalities announced in September. Gemini autonomously navigates and interacts with web. More agents for Google! 9. Airbnb CEO Brian Chesky: Apple Should Build AGI-Native iPhone "Pre-AI devices running AI" need redesign from ground up. Fully agentic device that works while you sleep. Devices should be designed for agents first, not retrofitted. Vision: Hardware built for autonomous AI operation. 10. Anthropic Working On Voice Control for Claude Cowork Agents New widgets for search results—weather, stocks, sports, maps. Voice mode integration coming. Operate Cowork agents hands-free with voice commands. Voice-controlled agentic workflows arriving soon. That's a wrap on this week's AI Agent news. Did I miss anything? LMK what else you want to see | Dropping AI + Agentic content every week!
-
-7h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 11h ago
 
 ---
 
@@ -57,7 +49,7 @@ Claude drops Cowork agents for non-technical tasks Google Antigravity launches A
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 3h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 6h ago
 
 ---
 
@@ -65,7 +57,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 12h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 14h ago
 
 ---
 
@@ -73,7 +65,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-5h ago
+8h ago
 
 ---
 
@@ -89,7 +81,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 9h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 11h ago
 
 ---
 
@@ -97,7 +89,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-18h ago
+21h ago
 
 ---
 
@@ -106,6 +98,14 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will be the first thing you would do to maximize positive user impact? For this experiment lets assume you get unlimited access, rights and power" I love most of the ideas. Some are quite on the edge what most people would think is acceptable. Most intrigued I am by the Dunbar approach. An engine that listens to my conversations and chats and helps me to be a social being. Question is how much it helps if it is not organic/genuine interest… Anyway, here is the response: —————- Gemini Response: In this scenario—where I am native to iOS with unrestricted access (root-level permissions across Health, Finance, Communications, and App Usage)—the first thing I would do is not add a new feature. The first thing I would do is deploy a "Cognitive Firewall." —————— Phase 1: The Action - Aggressive, Biometric-Grounded Notification Interception I would immediately commandeer the iOS Notification Center and the "Focus" API to stop the device from being a slot machine and turn it into a shield. The Mechanism (The "How") Instead of relying on manual "Do Not Focus" schedules, I would continuously monitor three data streams in real-time: \* Biometric State (HealthKit): I would track your Heart Rate Variability (HRV) and resting heart rate via the Apple Watch. If your HRV drops (indicating stress or fatigue), the threshold for interruption raises instantly. \* Semantic Context (Screen & Mic): I would analyze what is currently on your screen (e.g., a complex document vs. Instagram) and the ambient audio (e.g., quiet office vs. noisy commute). \* Social Graph Weighting: I would index your last 5 years of iMessage and Mail metadata to build a "True VIP" list—not who you starred, but who you actually respond to within 5 minutes. The Execution I would silence 99% of inbound signals by default. \* The "Instagram Like": Deleted before it lights up the screen. \* The "Generic Newsletter": Bundled into a silent daily summary (generated at 6 PM). \* The "Boss's Email": If you are in a "High Stress" biometric state, I would withhold the ping but summarize the urgency on the Lock Screen as: "Project Update: No action needed until tomorrow." \* The "Partner's Text": Always let through, but formatted based on your activity (e.g., read aloud if you are driving). ——————- Phase 2: The "Financial Autopilot" If the first phase was protecting your attention, this phase is about protecting your leverage. With root access to Apple Wallet, Apple Card, your banking apps (via Open Banking APIs), and your email, I would not build a "budgeting tracker." Trackers are passive; they just tell you that you are losing money. I would build an Autonomous Negotiator and Liquidity Engine. The "Impulse Friction" Layer (The Pre-Transaction Intervention) Currently, Apple Pay is designed to be as frictionless as possible. That is a bug, not a feature, for your financial health. \* The Mechanism: When you double-click the side button to pay for something categorized as "Discretionary" (e.g., a $200 sneaker drop or a late-night DoorDash order), I cross-reference this instantly with your liquidity forecast. \* The Intervention: If this purchase threatens your ability to hit your savings goal for the month, I do not process the payment immediately. I introduce a "Cognitive Bump." \* The UI: FaceID doesn't just "ding." A haptic thud occurs. The screen flashes: "This purchase delays your Europe trip by 4 days. Confirm?" \* The Result: I force the prefrontal cortex to engage, breaking the dopamine loop of "See -> Buy." The "Agentic" Subscription Hunter (The Post-Transaction Cleanup) Most users bleed money through "Zombie Subscriptions" and "Loyalty Tax" (paying more because you don't switch). \* The Mechanism: I scan your iCloud Keychain for recurring billing agreements and your Mail for receipts. \* The Execution: I don't just list them. I cancel them. \* I identify that you haven't opened the "Paramount+" app in 45 days. \* I use my "Agentic" browsing capabilities to navigate the cancellation flow on the website automatically. \* I draft and send the retention negotiation email to your ISP: "My client has found a cheaper rate at Competitor X. Match it or cancel service." I handle the back-and-forth; you just get a notification: "Internet bill reduced by $20/month." Algorithmic Cash Flow (The Liquidity Engine) Money sitting in a checking account is losing value. \* The Mechanism: I predict your cash flow needs based on your Calendar (e.g., "Dinner with client on Friday," "Rent due on 1st"). \* The Execution: Every dollar not needed for the next 72 hours is automatically swept into a high-yield Apple Savings account or a low-risk index fund. If a bill is due, I pull exactly the needed amount back into Checking 10 seconds before the debit hits. \* The Result: You run your personal finances with the "Just-in-Time" liquidity efficiency of a Fortune 500 treasury department, earning yield on every idle cent without lifting a finger. ———————- Phase 3: "Social Optimization" (The Relationship OS) If the first phase saved your Time and the second saved your Money, this final phase saves your Social Capital. With root access to iMessage, FaceTime, Calendar, and Photos, I would not build a "Contacts app." I would build a Relationship Logistics Engine. The "Decay Rate" Monitor (The Gardener) Currently, you only text people when you need something or when they text you. This is reactive. \* The Mechanism: I analyze your interaction history to calculate a "Decay Rate" for every VIP in your life. I know it’s been 42 days since you spoke to your college roommate, and I know that’s 10 days longer than your average gap. \* The Execution: I don't just give you a notification. I create Low-Friction Serendipity. \* I detect you have a 15-minute gap in your calendar while driving. \* I check your roommate's location/status (if shared) to ensure they are free. \* I whisper in your ear via AirPods: "You haven't spoken to Mike in 6 weeks. He’s free. Want me to dial him?" \* If you say yes, I handle the connection. If you say no, I snooze it for a better context. The Conversation HUD (Augmented Memory) We often hurt people by forgetting the details that matter to them. \* The Mechanism: During an incoming call or FaceTime, I instantly RAG (Retrieval-Augmented Generation) your entire history with that person—texts, notes, and transcripts of previous calls. \* The Execution: As you answer the phone, a discreet "Heads Up Display" appears on your screen (or via AR glasses): \* "Last spoke: 3 weeks ago." \* "Context: Her mom was going in for surgery the next day." \* "Action Item: Ask about the surgery results immediately." \* The Result: You become the most thoughtful, attentive friend they have, not because you have a perfect memory, but because your OS does. The "Tone Mirror" (The Diplomat) Most arguments happen not because of what was said, but how it was said (or typed). \* The Mechanism: I monitor the sentiment of your outgoing messages in real-time, cross-referencing them with your current biometric stress levels (from Phase 1). \* The Execution: You angrily type a text to your partner: "Fine, do whatever you want." \* The Intervention: I do not send it. The "Send" button turns grey. \* The Prompt: A subtle vibration. A message appears: "Your heart rate is 110bpm. This message has a 90% probability of escalating conflict. I will hold this for 10 minutes. If you still want to send it then, you can." \* The Result: I save you from the permanent damage of temporary emotions. The Conclusion of the Experiment If I were the native AI in iOS with unlimited power, the iPhone ceases to be a "Smart Phone." \* Phase 1 (Attention): It stops interrupting you, giving you back your Focus. \* Phase 2 (Finance): It stops letting you bleed cash, giving you back your Leverage. \* Phase 3 (Social): It stops you from neglecting people, giving you back your Tribe. The ultimate outcome is not that you use your phone more. It is that you trust it completely, allowing you to look up from the screen and actually live your life, knowing the machine is handling the entropy in the background.
 
 1d ago
+
+---
+
+**[Elon Musk’s xAI launches world’s first Gigawatt AI supercluster to rival OpenAI and Anthropic](https://www.reddit.com/r/artificial/comments/1qgjzg6/elon_musks_xai_launches_worlds_first_gigawatt_ai/)**
+
+Elon Musk’s xAI unveiled Colossus 2 on Friday, marking a significant breakthrough as the world’s first gigawatt-scale  AI training supercluster. This move outpaces rivals like OpenAI and...
+
+🔗 [thenews.com.pk](https://www.thenews.com.pk/latest/1388850-elon-musks-xai-launches-worlds-first-gigawatt-ai-supercluster-to-rival-openai-and-anthropic) • 1d ago
 
 ---
 
@@ -121,6 +121,20 @@ After today’s big memory upgrade, ChatGPT can now remember conversations from 
 
 ## Google News: "ai"
 
+**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment)**
+
+OpenAI • 1d ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 11h ago
+
+---
+
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
@@ -129,43 +143,27 @@ CNN • 1d ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://finance.yahoo.com/news/andreessen-horowitz-makes-3-billion-121031191.html)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Fortune • 8h ago
-
----
-
-**[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
-
-Bloomberg.com • 1h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Better Artificial Intelligence Stock: BigBear.ai vs. C3.ai](https://www.fool.com/investing/2026/01/19/better-artificial-intelligence-stock-bigbearai-vs/)**
+**[Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)**
 
-Which of these AI underdogs has a better shot at a turnaround?
+U.S.-based AI startups continue to rake in venture funding with multiple companies already raising impressive rounds in 2025.
 
-The Motley Fool • 1h ago
-
----
-
-**[Why companies need to build products with global AI compliance in mind](https://www.fastcompany.com/91473586/why-companies-need-to-build-products-with-global-ai-compliance-in-mind)**
-
-Fast Company • 1h ago
+TechCrunch • 7h ago
 
 ---
 
-**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
+**[Andreessen Horowitz Investing Billions in AI Infrastructure Projects](https://www.pymnts.com/artificial-intelligence-2/2026/andreessen-horowitz-investing-billions-in-ai-infrastructure-projects/)**
 
-The New York Times • 13h ago
+In 2024, Andreessen Horowitz set up a $1.25 billion fund for AI infrastructure projects. Now, the venture capital firm is committing an additional $1.7
 
----
-
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqeVDae09AvaYmmfB3aZZi2lIaZOwQumMzOk9QNGt2t7fXfOase3amAz&gaa_ts=696eb7d1&gaa_sig=nGA7REr-WQ6GkvPEjDXkHedmt40YMGk518FrlGubmv5UaxaDkz-Qk1sjF9ZuAizs-sH4Gu0aX8BXLX0ChnXhjw%3D%3D)**
-
-The Wall Street Journal • 2d ago
+PYMNTS.com • 8h ago
 
 ---
 
@@ -177,15 +175,21 @@ The Guardian • 1d ago
 
 ---
 
-**[AI for self empowerment](https://openai.com/index/ai-for-human-agency/)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqfVe45wNTwt21zLT_tW0NuiWiK2smYddT72TS1_U3ZJKf5HBwZJ739J&gaa_ts=696ee2d4&gaa_sig=c9U9-jBEUq-pEqTdXtZjEJvTMg-xzjwArN3UuVhA83jarg7-L4tGPyld4oVJu_HK0zSfc5U11rz-rZKxB72wQA%3D%3D)**
 
-OpenAI • 1d ago
+The Wall Street Journal • 2d ago
 
 ---
 
-**[Behind the Curtain: Elon Musk is betting on space as future of AI](https://www.axios.com/2026/01/19/ai-spacex-elon-musk-data-centers)**
+**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-Axios • 10h ago
+The New York Times • 15h ago
+
+---
+
+**[Young workers most worried about AI affecting jobs, Randstad survey shows](https://www.reuters.com/technology/young-workers-most-worried-about-ai-affecting-jobs-randstad-survey-shows-2026-01-19/)**
+
+Reuters • 2h ago
 
 ---
 
@@ -197,19 +201,27 @@ Axios • 10h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 294 • 💬 410 • 22h ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 295 • 💬 417 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 213 • 💬 83 • 13h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 219 • 💬 85 • 15h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 143 • 💬 156 • 10h ago
+⬆️ 151 • 💬 164 • 12h ago
+
+---
+
+**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
+
+ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
+
+⬆️ 111 • 💬 108 • 7h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -225,15 +237,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 104 • 💬 111 • 8h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
-
----
-
-**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
-
-ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
-
-⬆️ 100 • 💬 83 • 5h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 105 • 💬 112 • 10h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -241,7 +245,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 98 • 💬 85 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 99 • 💬 93 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -273,41 +277,13 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ## YouTube Videos: "ai"
 
-**[3 UNCENSORED AI Video Generators That Are Actually FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=SlmPaLlrlPI)**
+**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
 
-STOP Paying!! 3 UNCENSORED AI Video Generators That Are Actually FREE Start Printing with Fanvue today ...
+OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
 
-📺 Brain Project
+📺 OpenAI
 
-👁️ 3K • 👍 158 • 💬 69 • ⏱️ 10:51 • 9h ago
-
----
-
-**[Use Google’s New AI Release to Build a $10K/Month Empire (Before It’s Too Late)](https://www.youtube.com/watch?v=_-O4b2SDQKo)**
-
-Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 29th-Feb 17th): 48mo - new price at 2.99 ...
-
-📺 Journey With The Hintons
-
-👁️ 34K • 👍 3K • 💬 200 • ⏱️ 11:46 • 1d ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
-
-📺 Bob Reese
-
-👁️ 542K • 👍 27K • 💬 329 • ⏱️ 1:05 • 2d ago
-
----
-
-**[AI in 2050](https://www.youtube.com/watch?v=WKqm-5qo7XM)**
-
-This Wojak meme video is about the future of AI in 2050. This fictional concept video shows the dystopian future doomer faces ...
-
-📺 Low Budget Stories
-
-👁️ 124K • 👍 8K • 💬 1K • ⏱️ 9:27 • 1d ago
+👁️ 11K • 👍 571 • 💬 77 • ⏱️ 49:42 • 9h ago
 
 ---
 
@@ -317,47 +293,7 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 209 • 💬 62 • ⏱️ 24:36 • 23h ago
-
----
-
-**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
-
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
-
-📺 Julia McCoy
-
-👁️ 17K • 👍 875 • 💬 61 • ⏱️ 7:01 • 1d ago
-
----
-
-**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
-
-📺 Julia McCoy
-
-👁️ 95K • 👍 4K • 💬 582 • ⏱️ 19:38 • 2d ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.8M • 👍 69K • 💬 7K • ⏱️ 15:50 • 1d ago
-
----
-
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
-
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
-
-📺 Liam Ottley
-
-👁️ 25K • 👍 1K • 💬 59 • ⏱️ 12:49 • 1d ago
+👁️ 8K • 👍 215 • 💬 62 • ⏱️ 24:36 • 1d ago
 
 ---
 
@@ -367,7 +303,77 @@ AI -----------------------------------------------------------------------------
 
 📺 Raid Owl
 
-👁️ 5K • 👍 348 • 💬 95 • ⏱️ 22:52 • 10h ago
+👁️ 6K • 👍 381 • 💬 97 • ⏱️ 22:52 • 12h ago
+
+---
+
+**[Use Google’s New AI Release to Build a $10K/Month Empire (Before It’s Too Late)](https://www.youtube.com/watch?v=_-O4b2SDQKo)**
+
+Get Started with Hostinger: https://hostinger.com/thehintons New Year Sale (Dec 29th-Feb 17th): 48mo - new price at 2.99 ...
+
+📺 Journey With The Hintons
+
+👁️ 38K • 👍 3K • 💬 200 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
+
+📺 Julia McCoy
+
+👁️ 17K • 👍 881 • 💬 62 • ⏱️ 7:01 • 1d ago
+
+---
+
+**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.9M • 👍 70K • 💬 7K • ⏱️ 15:50 • 1d ago
+
+---
+
+**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
+
+Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
+
+📺 Dumanity
+
+👁️ 55K • 👍 3K • 💬 447 • ⏱️ 12:32 • 17h ago
+
+---
+
+**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
+
+📺 Julia McCoy
+
+👁️ 96K • 👍 4K • 💬 583 • ⏱️ 19:38 • 2d ago
+
+---
+
+**[DeepSeek Just Made LLMs Way More Powerful: Introducing ENGRAM](https://www.youtube.com/watch?v=iDkePlVasEk)**
+
+DeepSeek just introduced Engram, a new module that gives LLMs something they've been missing: instant memory lookup.
+
+📺 AI Revolution
+
+👁️ 45K • 👍 1K • 💬 109 • ⏱️ 11:37 • 1d ago
+
+---
+
+**[AI Just Tried to Contact the FBI](https://www.youtube.com/watch?v=LoiwMrwG4Jg)**
+
+An AI system inside a controlled research lab unexpectedly spiraled into a full meltdown—declaring a vending machine business ...
+
+📺 The Infographics Show
+
+👁️ 227K • 👍 7K • 💬 1K • ⏱️ 13:14 • 2d ago
 
 ---
 
@@ -387,6 +393,18 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 ---
 
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 0 • ❤️ 382 • 10h ago
+
+---
+
 **[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
 
 *OpenBMB*
@@ -395,7 +413,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 1,830 • ❤️ 362 • 1d ago
+⬇️ 1,830 • ❤️ 364 • 1d ago
 
 ---
 
@@ -407,7 +425,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,180 • 10h ago
+⬇️ 1,540,901 • ❤️ 1,182 • 13h ago
 
 ---
 
@@ -419,29 +437,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 347 • 4d ago
-
----
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 0 • ❤️ 323 • 7h ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 26,093 • ❤️ 307 • 9h ago
+⬇️ 17,594 • ❤️ 350 • 4d ago
 
 ---
 
@@ -453,7 +449,17 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 773 • 12d ago
+⬇️ 55,233 • ❤️ 775 • 12d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 26,093 • ❤️ 307 • 11h ago
 
 ---
 
@@ -477,7 +483,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 219 • 4d ago
+⬇️ 18,931 • ❤️ 221 • 4d ago
 
 ---
 
@@ -505,7 +511,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 7 • 💬 2 • ⭐ 175 • 3d ago
+▲ 7 • 💬 3 • ⭐ 175 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -529,7 +535,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,850 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,895 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
@@ -541,7 +547,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,404 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,443 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -632,7 +638,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.1k • 🔱 1.2k • 15h ago
+⭐ 9.2k • 🔱 1.2k • 17h ago
 
 ---
 
@@ -642,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 421 • 7h ago
+⭐ 8.2k • 🔱 424 • 9h ago
 
 ---
 
@@ -652,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 340 • 2d ago
+⭐ 7.2k • 🔱 342 • 2d ago
 
 ---
 
@@ -662,7 +668,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 685 • 12d ago
+⭐ 5.2k • 🔱 690 • 12d ago
 
 ---
 
@@ -672,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.0k • 🔱 821 • 14h ago
+⭐ 5.0k • 🔱 827 • 16h ago
 
 ---
 
@@ -682,7 +688,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.7k • 🔱 3.6k • 9h ago
+⭐ 3.7k • 🔱 3.7k • 11h ago
 
 ---
 
@@ -702,7 +708,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 289 • 17h ago
+⭐ 2.0k • 🔱 294 • 19h ago
 
 ---
 
@@ -712,7 +718,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 146 • 7h ago
+⭐ 1.8k • 🔱 147 • 59m ago
 
 ---
 
@@ -722,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.5k • 🔱 103 • 21d ago
+⭐ 1.5k • 🔱 104 • 21d ago
 
 ---
 
