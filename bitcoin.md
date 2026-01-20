@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T04:46:42.340967+00:00'
+updated: '2026-01-20T05:29:59.866798+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 04:46 UTC  
+**Last Updated:** January 20, 2026 at 05:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 44
+### 32
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-14h ago
+15h ago
 
 ---
 
@@ -115,7 +115,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 See you at the next funeral
 
-3h ago
+4h ago
 
 ---
 
@@ -131,13 +131,13 @@ See you at the next funeral
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-16h ago
+17h ago
 
 ---
 
 **[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 Please share why you trust their insights/analysis.
 
-6h ago
+7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Please share why you trust their insights/analysis.
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -163,13 +163,13 @@ Bloomberg.com • 17h ago
 
 While Bitcoin (BTC) maximalists may think of the leading cryptocurrency as the "digital gold," billionaire Frank Giustra thinks the Greenland episode has shattered any such myth. Gold is a safe haven and Bitcoin is a risk-on asset, he asserted. Giustra is a Canadian billionaire ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Block • 1h ago
 
 Bitcoin steadied after a sharp selloff, with analysts citing ETF inflows as support for its longer-term outlook despite macro shocks.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdlRjJ8pxKKLa5VWobWAtkrtiLAWqu1NAM0GXF0mCdjjaij3YqgrQ8J&gaa_ts=696f0c1e&gaa_sig=0cOpJfrjp68qwOCeYi7QWonCDcILzT_ez-ZXMl314Y9B5NAeeJYDuqhjGbsjhvBlYiQBRw2gXCKVco_iK5gVLw%3D%3D)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ Forbes • 15h ago
 
 Feeling the Bitcoin volatility? Price slipped past $94,000 support, but holding $91,400 keeps the bullish dream alive – here's what to watch.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bitcoin Magazine • 9h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 15h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 16h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 10h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -317,7 +317,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 174 • ⏱️ 21:56 • 4h ago
+👁️ 15K • 👍 2K • 💬 174 • ⏱️ 21:56 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 327 • ⏱️ 8:03 • 10h ago
+👁️ 22K • 👍 1K • 💬 327 • ⏱️ 8:03 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 808 • 💬 323 • ⏱️ 10:31 • 10h ago
+👁️ 10K • 👍 808 • 💬 323 • ⏱️ 10:31 • 11h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 64 • ⏱️ 20:35 • 13h ago
+👁️ 26K • 👍 2K • 💬 64 • ⏱️ 20:35 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 177 • 💬 18 • ⏱️ 5:28 • 7h ago
+👁️ 3K • 👍 177 • 💬 18 • ⏱️ 5:28 • 8h ago
 
 ---
 
@@ -407,7 +407,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 7K • 👍 956 • 💬 224 • ⏱️ 12:22 • 13h ago
+👁️ 7K • 👍 956 • 💬 224 • ⏱️ 12:22 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T04:46:42.330635+00:00'
+updated: '2026-01-20T05:29:59.858482+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 04:46 UTC  
+**Last Updated:** January 20, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 1h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 17h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 18h ago
 
 ---
 
@@ -97,7 +97,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 14h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 15h ago
 
 ---
 
@@ -105,7 +105,7 @@ In this episode, Chris outlines his research programme and argues that we should
 
 South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ My prompt: "Now that you, Gemini, will be put into iOS as native AI... what will
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -141,13 +141,13 @@ CNN • 1d ago
 
 A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 2d ago
 
 His blunt, brash scepticism has made the podcaster and writer something of a cult figure. But as concern over large language models builds, he’s no longer the outsider he once was
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -175,13 +175,13 @@ The Guardian • 17h ago
 
 U.S.-based AI startups continue to rake in venture funding with multiple companies already raising impressive rounds in 2025.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
 **[Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -205,13 +205,13 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 224 • 💬 85 • 18h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 224 • 💬 85 • 19h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 153 • 💬 167 • 15h ago
+⬆️ 153 • 💬 167 • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 105 • 💬 113 • 13h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 105 • 💬 113 • 14h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -299,7 +299,7 @@ With EV sales faltering and forecasts lowered, automakers are looking for ways t
 
 📺 CNBC
 
-👁️ 33K • 👍 592 • 💬 55 • ⏱️ 3:41 • 12h ago
+👁️ 33K • 👍 592 • 💬 55 • ⏱️ 3:41 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Alieff Irfan
 
-👁️ 694K • 👍 35K • 💬 2K • ⏱️ 1:02:04 • 16h ago
+👁️ 694K • 👍 35K • 💬 2K • ⏱️ 1:02:04 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ Messi made from palm leaves | hand crafts | village art | leaf crafting #ai #mes
 
 📺 Ai Nusrat
 
-👁️ 107K • 👍 2K • 💬 17 • ⏱️ 0:19 • 2h ago
+👁️ 107K • 👍 2K • 💬 17 • ⏱️ 0:19 • 3h ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 0 • ❤️ 498 • 1h ago
+⬇️ 0 • ❤️ 498 • 2h ago
 
 ---
 
@@ -453,7 +453,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 309 • 14h ago
+⬇️ 26,093 • ❤️ 309 • 15h ago
 
 ---
 
@@ -517,7 +517,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 27 • 💬 1 • ⭐ 2,938 • 7d ago
+▲ 27 • 💬 1 • ⭐ 2,938 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -632,7 +632,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.2k • 🔱 1.2k • 43s ago
+⭐ 9.2k • 🔱 1.2k • 44m ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 427 • 12h ago
+⭐ 8.3k • 🔱 427 • 13h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.1k • 🔱 837 • 2h ago
+⭐ 5.1k • 🔱 837 • 3h ago
 
 ---
 
@@ -682,7 +682,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.8k • 🔱 3.7k • 14h ago
+⭐ 3.8k • 🔱 3.7k • 15h ago
 
 ---
 
@@ -712,7 +712,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 147 • 2h ago
+⭐ 1.8k • 🔱 147 • 3h ago
 
 ---
 
