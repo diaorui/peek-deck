@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T21:43:22.259808+00:00'
+updated: '2026-01-20T22:24:51.414410+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 21:43 UTC  
+**Last Updated:** January 20, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 6h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 7h ago
 
 ---
 
@@ -81,7 +81,23 @@ One impression I keep having is that most AI company marketing, success stories,
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 4h ago
+
+---
+
+**[One-Minute Daily AI News 1/19/2026](https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/)**
+
+Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
+
+16h ago
+
+---
+
+**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
+
+NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
+
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 19h ago
 
 ---
 
@@ -93,27 +109,11 @@ Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up th
 
 ---
 
-**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
-
-NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
-
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 18h ago
-
----
-
 **[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 11h ago
-
----
-
-**[Ai courses that are actually helpful for a law student](https://www.reddit.com/r/artificial/comments/1qhwxqx/ai_courses_that_are_actually_helpful_for_a_law/)**
-
-Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
-
-11h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 12h ago
 
 ---
 
@@ -123,55 +123,7 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 9h ago
-
----
-
-**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
-
-"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
-
-CNBC • 8h ago
-
----
-
-**[House Republican squares off against Nvidia, Sacks over AI chip bill](https://thehill.com/policy/technology/5697225-mast-nvidia-clash-ai-chips/)**
-
-The Hill • 55m ago
-
----
-
-**[Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade](https://gizmodo.com/controversial-swiss-suicide-pod-gets-an-ai-powered-mental-fitness-upgrade-2000712092)**
-
-It's better than ChatGPT encouraging you to kill yourself, I guess.
-
-Gizmodo • 1h ago
-
----
-
-**[What We’ve Learned from the DeepSeek AI Shock, a Year Later](https://www.barrons.com/articles/deepseek-ai-market-shock-one-year-later-bc73dc20?gaa_at=eafs&gaa_n=AWEtsqfe7vhmzW9vEUit0fUP9RlpfH0nq3qxAZefQGvo4OMjWJLq0HLVCEvS&gaa_ts=696ff597&gaa_sig=B83-gOyZtMm6c3GBLbKjmSNdqXb-wXH0Au4xwyBIoGZYHbyrBU8cqYpO4fM1mBvGe_uVlXqnllMmo7mR7EX8oA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqePaKA0c7mzXRH0miBrsCiAJ-I7oeDNXfok0o_xDQVw_5UhgObBukxs&gaa_ts=696ff597&gaa_sig=KvJr1pGayS6nBC__qSXDLqnDEONrsG0Z4_y9E759c7jlwZPp-_Cxri1nCo_3W4TPGjPnf8xi0wh5KZqytqr11g%3D%3D)**
-
-The Wall Street Journal • 8h ago
-
----
-
-**[ServiceNow inks deal with OpenAI to boost its AI software stack](https://www.cnbc.com/2026/01/20/servicenow-openai-ai-software-saas.html)**
-
-ServiceNow has been on an acquisition frenzy as it looks to position itself as a key AI software player.
-
-CNBC • 5h ago
-
----
-
-**[ServiceNow powers actionable enterprise AI with OpenAI](https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai/)**
-
-OpenAI • 7h ago
+The New York Times • 10h ago
 
 ---
 
@@ -183,11 +135,61 @@ Fortune • 1d ago
 
 ---
 
+**[Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/)**
+
+Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”
+
+TechCrunch • 14m ago
+
+---
+
+**[Tesla Stock Drops With Market. Musk Focuses On AI Chips.](https://www.barrons.com/articles/tesla-stock-price-musk-ai-chips-c0da7219?gaa_at=eafs&gaa_n=AWEtsqdf9p-Wk8v53DhEulNOLt6Cd8BqGCQaEO3L1geucPMrEENsyVtGTd9M&gaa_ts=69700413&gaa_sig=EgZb36yovvpF-xa9ddSezERS4Yoz4SbTqWqAz9VGELWZQgafo62uK6RAuQ5y0YfuEOBbr-1It4IrKL86q-JqHQ%3D%3D)**
+
+Barron's • 43m ago
+
+---
+
+**[House Republican squares off against Nvidia, Sacks over AI chip bill](https://thehill.com/policy/technology/5697225-mast-nvidia-clash-ai-chips/)**
+
+The Hill • 1h ago
+
+---
+
+**[SXSW 2026 Unveils AI, Podcast, Spotify Speakers for Innovation Conference Lineup](https://www.hollywoodreporter.com/news/general-news/sxsw-2026-conference-lineup-1236479237/)**
+
+New keynotes in Austin include Rana el Kaliouby and Bob Safian on "human centric" artificial intelligence, and artist Tom Sachs on his creative process.
+
+The Hollywood Reporter • 49m ago
+
+---
+
+**[Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'](https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html)**
+
+Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
+
+CNBC • 5h ago
+
+---
+
 **[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 11h ago
+New York Magazine • 12h ago
+
+---
+
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
+
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
+
+CNN • 2d ago
+
+---
+
+**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqdfev3s7so9dSiQzasH6hl-RyLaY4wR2Zrw8rLC1FohOKvCN8fQtIqG&gaa_ts=69700413&gaa_sig=mHpM153rRHTrW2VbFIpnP2q6C5N6AR2QwvYyuTXOjmex7YiloqJXB3JHLMRdkMALTxuZWaACLzpwvgF9jAkIlQ%3D%3D)**
+
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -211,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 161 • 💬 178 • 1d ago
+⬆️ 162 • 💬 179 • 1d ago
 
 ---
 
@@ -219,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 153 • 💬 172 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 153 • 💬 173 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -227,7 +229,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 116 • 💬 144 • 13h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 116 • 💬 144 • 14h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -259,7 +261,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 84 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 85 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -267,7 +269,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 : PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 56 • 💬 25 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 72 • 💬 36 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -281,7 +283,7 @@ This groundbreaking video analyzes Jeff Bezos's bold predictions for the future 
 
 📺 Olivio Sarikas
 
-👁️ 2K • 👍 95 • 💬 88 • ⏱️ 7:18 • 9h ago
+👁️ 2K • 👍 95 • 💬 88 • ⏱️ 7:18 • 10h ago
 
 ---
 
@@ -341,7 +343,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Newsnight
 
-👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 5h ago
+👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 6h ago
 
 ---
 
@@ -457,7 +459,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 37,294 • ❤️ 293 • 5d ago
+⬇️ 37,294 • ❤️ 293 • 6d ago
 
 ---
 
@@ -652,7 +654,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.4k • 🔱 1.2k • 16h ago
+⭐ 9.4k • 🔱 1.2k • 17h ago
 
 ---
 
@@ -662,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 454 • 5h ago
+⭐ 8.7k • 🔱 454 • 6h ago
 
 ---
 
@@ -682,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 731 • 3h ago
+⭐ 5.7k • 🔱 731 • 4h ago
 
 ---
 
@@ -702,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.1k • 8h ago
+⭐ 4.0k • 🔱 4.1k • 9h ago
 
 ---
 
@@ -732,7 +734,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 4h ago
+⭐ 1.9k • 🔱 152 • 5h ago
 
 ---
 

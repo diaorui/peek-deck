@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T21:43:22.268223+00:00'
+updated: '2026-01-20T22:24:51.422878+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 21:43 UTC  
+**Last Updated:** January 20, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
+**24h:** -3.3%  
 **7d:** -7.6%  
-**30d:** +1.6%  
-**90d:** -18.5%  
-**1y:** -15.2%  
+**30d:** +1.5%  
+**90d:** -18.6%  
+**1y:** -15.3%  
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-5h ago
+6h ago
 
 ---
 
-**[We’ve been here before, we’ll recover very soon!](https://www.reddit.com/r/Bitcoin/comments/1qi82gr/weve_been_here_before_well_recover_very_soon/)**
+**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-Hopefully it holds til I get my paycheck this Friday
-
-3h ago
-
----
-
-**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
-
-20h ago
+9h ago
 
 ---
 
@@ -101,7 +93,27 @@ Hopefully it holds til I get my paycheck this Friday
 
 Took me some time. I feel so proud.
 
-56m ago
+1h ago
+
+---
+
+**[We’ve been here before, we’ll recover very soon!](https://www.reddit.com/r/Bitcoin/comments/1qi82gr/weve_been_here_before_well_recover_very_soon/)**
+
+Hopefully it holds til I get my paycheck this Friday
+
+4h ago
+
+---
+
+**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
+
+21h ago
+
+---
+
+**[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
+
+7h ago
 
 ---
 
@@ -109,19 +121,7 @@ Took me some time. I feel so proud.
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-12h ago
-
----
-
-**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
-
-8h ago
-
----
-
-**[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
-
-6h ago
+13h ago
 
 ---
 
@@ -129,15 +129,7 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 I live in a country where owning or using Bitcoin is technically illegal, which means I can’t easily access hardware wallets or official cold storage options. I bought some BTC on Binance, but now I’m worried about how to store it safely. I know the saying “not your keys, not your coins,” so keeping it on an exchange long-term doesn’t feel right. Given my situation: 1.What are my safest storage options? 2.Are software wallets a good idea? 3.Is it better to split funds across multiple wallets? Any advice is appreciated. Thanks!
 
-2h ago
-
----
-
-**[don’t worry, the Aliens got us 😎.](https://www.reddit.com/r/Bitcoin/comments/1qi3qnv/dont_worry_the_aliens_got_us/)**
-
-now till the next halving is going to be crazy! 🤪👽🖖🛸🌕
-
-6h ago
+3h ago
 
 ---
 
@@ -145,7 +137,15 @@ now till the next halving is going to be crazy! 🤪👽🖖🛸🌕
 
 Hello Bitcoiners! I am currently learning a lot about Bitcoin and it's effect to our lifes and the world in general. I reached a point where i look for Bitcoins biggest weaknesses and risks before would call myself a bitcoin maxi. So my questions are: Has Bitcoin already "won"? What has to happen, that Bitcoin goes to 0 Can any world power stop bitcoin from advancing? Maybe we can spark a debate about this topic.
 
-2h ago
+3h ago
+
+---
+
+**[don’t worry, the Aliens got us 😎.](https://www.reddit.com/r/Bitcoin/comments/1qi3qnv/dont_worry_the_aliens_got_us/)**
+
+now till the next halving is going to be crazy! 🤪👽🖖🛸🌕
+
+7h ago
 
 ---
 
@@ -157,19 +157,13 @@ Hello Bitcoiners! I am currently learning a lot about Bitcoin and it's effect to
 
 Billionaire Michael Saylor's bitcoin-focused firm Strategy said on Tuesday it ​bought about $2.13 billion worth of bitcoin ‌over the past eight days, stepping up purchases even ‌as its stock has been pressured by cryptocurrency volatility.  The company acquired roughly 22,305 bitcoin between the period of January 12 and January ⁠19, according to ‌a regulatory filing.  Saylor said in an X post on Tuesday that ‍Strategy holds 709,715 bitcoin as of January 19.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqfU54fRNIiTR4gZNSGMvKOvLH29FRWs1A2uIkv38BoGjYVb91z4xtDr&gaa_ts=696ff599&gaa_sig=SjKDwpHuPJav0cDaW-664_iNokRfwdhTsCGSLnmpYpIIULuH9-utUqCpfdNqbuiDDRjgbHXk3iSKdTxOS2qRpA%3D%3D)**
+**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqe6X10FoPBPBUecl72eECkcENeiGBoSZKemIB9_OtqL7W9WvS73NoG9&gaa_ts=69700414&gaa_sig=yyw2z1-RzSTgcCPNWLKabog8me8_gVoeQFE5PEVGWY3TIJxltIPm5R4hbizPUcrZ_kxayij51PNfidVc6v2RLQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
-
-The Block • 18h ago
 
 ---
 
@@ -177,7 +171,13 @@ The Block • 18h ago
 
 Ray Dalio weighs Bitcoinâs role as money, noting its small scale vs gold and reserve assets, as central banks shift to gold.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
+
+---
+
+**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
+
+The Block • 19h ago
 
 ---
 
@@ -189,6 +189,14 @@ CNBC • 3d ago
 
 ---
 
+**[Satoshi-Era Whale Moves $85M in Bitcoin After 13 Years](https://bitbo.io/news/satoshi-era-whale-moves/)**
+
+A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
+
+Bitbo • 15h ago
+
+---
+
 **[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
@@ -197,33 +205,25 @@ Gizmodo • 2d ago
 
 ---
 
-**[Satoshi-Era Whale Moves $85M in Bitcoin After 13 Years](https://bitbo.io/news/satoshi-era-whale-moves/)**
+**[Bitcoin Dominance Steady, XRP On-Chain Surges, Solana Outperforms—Is Altcoin Season Starting?](https://247wallst.com/investing/2026/01/20/bitcoin-dominance-steady-xrp-on-chain-surges-solana-outperforms-is-altcoin-season-starting/)**
 
-A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
+Is altcoin season 2026 confirmed? XRP records on-chain activity high, Solana gains, and Bitcoin dominance held steady. Is it altcoin season?
 
-Bitbo • 14h ago
-
----
-
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
-
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
-
-Business Insider • 3d ago
+24/7 Wall St. • 6h ago
 
 ---
 
 **[Peter Schiff Warns Bitcoin Will Mirror Silver’s Explosive Rise—Then Crash: Here’s Why](https://www.ccn.com/news/crypto/bitcoin-mirror-silvers-mammoth-rise-in-reverse-warns-peter-schiff-why/)**
 
-CCN.com • 12h ago
+CCN.com • 13h ago
 
 ---
 
-**[Bitcoin Dominance Steady, XRP On-Chain Surges, Solana Outperforms—Is Altcoin Season Starting?](https://247wallst.com/investing/2026/01/20/bitcoin-dominance-steady-xrp-on-chain-surges-solana-outperforms-is-altcoin-season-starting/)**
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
 
-Is altcoin season 2026 confirmed? XRP records on-chain activity high, Solana gains, and Bitcoin dominance held steady. Is it altcoin season?
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
-24/7 Wall St. • 5h ago
+Tom's Hardware • 2d ago
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 4h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 5h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -291,7 +291,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 9 • 💬 1 • 1h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 11 • 💬 1 • 2h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -303,7 +303,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 0 • 6h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 0 • 7h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -317,7 +317,7 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 17K • 👍 928 • 💬 196 • ⏱️ 14:45 • 11h ago
+👁️ 17K • 👍 928 • 💬 196 • ⏱️ 14:45 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 22K • 👍 2K • 💬 59 • ⏱️ 21:45 • 11h ago
+👁️ 22K • 👍 2K • 💬 59 • ⏱️ 21:45 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 12K • 👍 630 • 💬 56 • ⏱️ 10:25 • 13h ago
+👁️ 12K • 👍 630 • 💬 56 • ⏱️ 10:25 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 370 • ⏱️ 21:56 • 21h ago
+👁️ 37K • 👍 3K • 💬 370 • ⏱️ 21:56 • 22h ago
 
 ---
 
@@ -387,7 +387,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 811 • 💬 295 • ⏱️ 28:52 • 12h ago
+👁️ 13K • 👍 811 • 💬 295 • ⏱️ 28:52 • 13h ago
 
 ---
 

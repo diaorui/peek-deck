@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T21:43:22.274246+00:00'
+updated: '2026-01-20T22:24:51.428987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 21:43 UTC  
+**Last Updated:** January 20, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,997.35
+### $2,997.58
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.0%  
-**7d:** -10.8%  
-**30d:** -0.4%  
+**24h:** -6.1%  
+**7d:** -10.9%  
+**30d:** -0.5%  
 **90d:** -22.4%  
-**1y:** -9.7%  
+**1y:** -9.8%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[I've been in crypto since 2017. Here's why I stopped believing.](https://www.reddit.com/r/ethereum/comments/1qidtxf/ive_been_in_crypto_since_2017_heres_why_i_stopped/)**
-
-I am done with crypto. Not because I lost money... But because crypto has lost its way... And I am tired of it. This is what 9 years in crypto taught me. 1. The Beginning (2017-2019) I first heard about Bitcoin in 2017. I was 21, had been working for a couple of years, and had some spare cash I could afford to lose. The perfect recipe for risk-taking. What caught my attention wasn't the price - it was the idea. New money. Money that no government could print into oblivion, no bank could freeze, no border could stop. The blockchain itself fascinated me - a distributed ledger that solved trust without needing trusted parties. As a young engineer, this was elegant. Then I discovered Ethereum and smart contracts. If Bitcoin was digital gold, Ethereum was a programmable financial system. I remember thinking: this is how we rebuild finance. No middlemen, no gatekeepers, just code executing agreements. Over the next two years, I DCA'd around $3,000 - not life-changing money, but enough to make me pay attention. I bought 1 ETH for $55. I still hold it today. Back then, the community felt different. People talked about banking the unbanked, about censorship resistance, about building a more open financial system. Sure, some were just in it for the money. But there was a genuine belief that we were building something that mattered. I tried to go deeper. In 2018, during that bull run, I bought a Sia miner - decentralized storage felt like a real use case. It didn't pan out. The economics never made sense for small players. In 2019, I joined some Romanian crypto groups and heard about trading bots that "made money while you sleep." I lost 0.05 BTC learning that lesson. Then I tried copy-trading groups promising high returns. But the market shifted and the strategies didn't, so I was left holding the losses. Looking back, I should have just kept DCA-ing. But I was young, and the promise of shortcuts was seductive. 2. The Rise (2021) I discovered DeFi that year. PancakeSwap on Binance Smart Chain opened my eyes to what was possible - liquidity pools, yield farming, swapping tokens without an exchange. This felt like the future we'd been promised. Finance without banks, running on code. My $3,000 became $30,000. Bitcoin and Ethereum climbed, but the real gains came from altcoins - EGLD pumped hard, BNB kept climbing, and I had scattered bags across a dozen tokens I can barely remember now. At one point I was making $250 each day just from passive income and thousands of percentage yield on a single BSC farm. I also got into some shady projects on BSC like Drip Network and later Animal Farm, among the dozen or so various animal and food themed projects that kept popping up each day. Did I sell at $30k? Of course not. I watched the numbers on screen and thought: "if this does another 10x, I'll be set." The logic of bull markets is intoxicating. Every dip is a buying opportunity. Every peak is just the beginning. I had no exit strategy because I never imagined needing one. That same year, I started building. I was already a developer, and I knew about smart contracts - it made sense to put two and two together. I picked up Rust and started working on the MultiversX blockchain (then called Elrond). The tech genuinely excited me. I also got excited about NFTs - not the profile pictures everyone was flipping, but the real use cases. Tickets on the blockchain. Property rights. Contracts that couldn't be forged. I saw smaller projects attempting this, trying partnerships with bigger brands. But when it came to real-world usage, there was too much friction. Phones couldn't scan QRs properly. UX was a nightmare. The vision was there, but the execution never arrived. Still, at this point, I had no doubts. I was up 10x, building in the space, and believed we were still early. 3. The Fall Begins (2022-2023) The bear market hit in 2022. I watched my $30,000 bleed down to under $10,000. I didn't sell. Diamond hands, as we called it. I told myself I was in it for the long term, that this was just a cycle, that the people selling now would regret it later. I sold what I no longer believed in and kept DCA-ing - mostly into altcoins, chasing the next EGLD. I skipped Solana (a decision that aged poorly). The NFT dream died somewhere in this period. What was supposed to revolutionize ownership became a graveyard of worthless profile pictures. The projects trying to do something real - tickets, property rights, contracts - faded into obscurity. What remained was speculation and wash trading. Another vision reduced to gambling. By 2023, I had started working full-time on blockchain projects - Rust-based smart contracts, some EVM work, learning new skills. I wanted to make it as a blockchain developer. I still believed in the tech, saw its potential, and thought it was underutilized. I wanted to make a difference. I kept building. I kept adding money. I kept DCA-ing. By 2024, my portfolio sat at around $40,000 - partly from the market recovering, partly from the new money I had put in. I thought I had weathered the storm. 4. The Hack (2024) In October 2024, Radiant Capital got hacked. I had been using Radiant to lend my BTC on Arbitrum. It was a legitimate lending protocol, not some sketchy yield farm. The yields were good, and I thought I was being smart - using my BTC as collateral to borrow USDC, then bridging it to another protocol on another blockchain for additional yield. Complicated, maybe, but this was DeFi. This was what we built it for. I heard about the hack and checked if I was affected. The initial reports said it only impacted users who had set unlimited ERC20 token approvals. As a developer I knew better and hadn't done that. I thought I was safe. I wasn't. The hackers had compromised Radiant's multisig - the security mechanism that was supposed to require multiple people to approve any changes. It wasn't secure enough. They upgraded the contracts and drained everything. Every user. Every asset. I lost 0.14 BTC. Around $15,000 at the time. And some ETH on top of it. I remember not thinking about it in dollar terms. What hit me was the time. The years of DCA-ing. The paychecks I had put in. The discipline it took to accumulate that Bitcoin, gone in an instant because some protocol's security wasn't good enough. There was nothing I could do. No recourse. No refund. No insurance. Just gone. That was the moment something shifted. I no longer wanted to try new protocols. I no longer wanted to chase yields. I no longer wanted to take risks in this space. 5. What Crypto Became Let me tell you what crypto looks like now. Memecoins everywhere. Pump.Fun made it trivially easy to launch a token - so now there are millions of them. Every day, new coins named after dogs, politicians, internet jokes, whatever might catch attention for five minutes. Sure, blockchain is open and permissionless. That's the point. But this wasn't the vision. Prediction markets are the hot new thing. And yes, they work - blockchain is actually good at this. But when I look at what we've built after all these years, it's mostly new ways to gamble. Memecoins are gambling. Prediction markets are gambling. NFTs became gambling. Even DeFi, with its leveraged positions and liquidation cascades, often feels like gambling. As a dev I am guilty of enabling this myself, after all I worked as a part-time dev on a gambling platform. Where are the real use cases? Where is banking the unbanked? Where are the event tickets on chain, the contracts that can't be forged, the censorship-resistant finance for people who actually need it? Instead, we got infrastructure. Endless infrastructure. Blockchains building tools for other projects that are building tools for users who never arrive. Axelar built an interoperability layer - then the dev team abandoned the project. Uniswap and Aave went cross-chain, now sunsetting integrations nobody uses. Everyone is building for the retail wave that never comes. I've seen projects die from the inside. The pattern is always the same: launch with hype, get some VC money, build infrastructure for imaginary users, watch the token slowly bleed, and eventually fade away. Sometimes the team knows what's coming and sells before the news breaks. The insiders win. Retail holds the bag. And now, after the ETFs, even the wild west feeling is gone. Crypto used to feel like a frontier - risky, chaotic, but full of possibility. Now it's just another asset class for institutions to manipulate. The big players moved in. The regulations followed. What's left? DeFi still works. Stablecoins have real utility. But I've started to value my privacy, and everything on blockchain is open. Looking back at 2025, I kept buying BTC thinking it was still early. Turns out gold and stocks were the better play. At least with those, I know what I'm getting. 6. Moving On I'm not broke. Let me be clear about that. Since 2017, I'm still in profit. Not by much - I still need to withdraw a few thousand dollars to fully break even on what I put in. But I made it through the bear markets, the hacks, the bad trades, the bots that didn't work, and I'm still standing. I still hold some crypto. A bit of BTC. Some SUI I bought. A small bag of EGLD I can't bring myself to sell. And that 1 ETH I bought for $55 - still there, like a souvenir from a different era. I'm still DCA-ing into Bitcoin. Old habits die hard. But I no longer believe it will change the world. I no longer believe we're early. I no longer believe the retail wave is coming. I've started putting money into VWCE and the S&P 500 instead. Done chasing risky plays. Maybe it's because I'm almost 30 now and no longer a 21-year-old with spare cash to burn. Or maybe I've just seen enough. I spent nine years in this space. First as an investor, then as a developer. I learned Rust because of blockchain. I understood finance better because of DeFi. I learned hard lessons about risk, about security, about not putting all your eggs in one basket. Those lessons cost me money, but they were worth something. Crypto taught me a lot. It just didn't become what I hoped it would. So I'm done chasing. Done trying new protocols. Done believing the next cycle will be different. I'll keep my BTC, check the charts occasionally, and move on with my life. Maybe I'm wrong. Maybe crypto will find its way again. Maybe the real use cases will finally arrive and I'll regret stepping back. But I've been waiting since 2017. I'm tired. And after nine years, I've finally learned when to take profits and walk away. TL;DR: In crypto since 2017. DCA'd $3k, hit $30k in 2021, didn't sell. Got into DeFi, became a blockchain dev. Got hacked for $15k (0.14 BTC) through Radiant Capital in 2024. Still technically in profit, but tired of the space becoming all memecoins and gambling with no real utility. Now just DCA-ing BTC and index funds. Done chasing.
-
-26m ago
+16h ago
 
 ---
 
@@ -148,21 +140,37 @@ An important, and perenially underrated, aspect of "trustlessness", "passing the
 
 ---
 
+**[Daily General Discussion January 18, 2026](https://www.reddit.com/r/ethereum/comments/1qg0myc/daily_general_discussion_january_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
+**[How a crypto scam pushed Ethereum transactions to an all-time high](https://finance.yahoo.com/news/crypto-scam-pushed-ethereum-transactions-163253595.html)**
 
-Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
+Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
 
-Decrypt • 1d ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
+
+Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
+
+CoinDesk • 20h ago
 
 ---
 
 **[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -170,13 +178,13 @@ The Block • 1d ago
 
 Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfvtTExLqR0fRIVve2e817ZiWMOYVZd2V2KK3tNPwx_RkAgGper4BN2&gaa_ts=696ff59a&gaa_sig=naGg8Jj9qAftIjTuzjCTewkynoZNZNe1rFK974JI2L-fOt8T1j_T2hIT2BrhmslUQbbtCrGz2LK4R0-EuX53qw%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqco5W0ayVRY8ovJp7IActPivohffLJ4t72k7esAqcXgiXJqnmNFi-7b&gaa_ts=69700416&gaa_sig=qJxElhWd5_yz1-_WxiR6Pcwx1XZKYvm44tJoRmYvTYaYZGaLSvpiogR9ooJNXJApsbk1ASfc01FDFRGy5xQ8kQ%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -185,6 +193,14 @@ MarketWatch • 6h ago
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
+
+Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
+
+Decrypt • 1d ago
 
 ---
 
@@ -198,31 +214,15 @@ The Motley Fool • 4h ago
 
 **[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
-**[Ethereum Network Activity Surge Linked to Address Poisoning Attacks: Researcher](https://www.tradingview.com/news/cryptonews:07f7c88f9094b:0-ethereum-network-activity-surge-linked-to-address-poisoning-attacks-researcher/)**
+**[Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target](https://www.tradingview.com/news/newsbtc:6324476c6094b:0-ethereum-s-4-hour-chart-says-a-big-dump-is-coming-here-s-the-target/)**
 
-A recent spike in activity on the Ethereum network may be partly driven by address poisoning attacks that have become cheaper to execute amid falling transaction fees, according to .Key Takeaways:The warning follows reports that Ethereum’s network activity retention nearly doubled to 8 million addr…
+The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
 
-TradingView — Track All Markets • 15h ago
-
----
-
-**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://finance.yahoo.com/news/scam-concerns-drive-8-plunge-175144296.html)**
-
-While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
-
-Yahoo Finance • 3h ago
-
----
-
-**[3 Cryptocurrencies Poised for a Comeback in 2026](https://www.fool.com/investing/2026/01/17/x-cryptocurrencies-poised-for-a-comeback-in-2026/)**
-
-This year's top breakout candidates all posted all-time highs in 2025 before ending the year in the red.
-
-The Motley Fool • 2d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 6 • ⏱️ 5:30 • 7h ago
+👁️ 2K • 👍 118 • 💬 6 • ⏱️ 5:30 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 416 • 👍 63 • 💬 1 • ⏱️ 36:50 • 7h ago
+👁️ 416 • 👍 63 • 💬 1 • ⏱️ 36:50 • 8h ago
 
 ---
 
