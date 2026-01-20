@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T05:55:20.787961+00:00'
+updated: '2026-01-20T06:38:24.721825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 05:55 UTC  
+**Last Updated:** January 20, 2026 at 06:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-4h ago
+5h ago
 
 ---
 
@@ -117,13 +117,13 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-11h ago
+12h ago
 
 ---
 
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
 
-17h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 Please share why you trust their insights/analysis.
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Please share why you trust their insights/analysis.
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -163,13 +163,13 @@ Bloomberg.com • 18h ago
 
 Bitcoin held near $92,000 on Tuesday after Monday’s sell-off, as traders stayed cautious amid renewed trade-war anxiety sparked by President Donald Trump’s threat to slap tariffs on eight European nations unless the US is allowed to buy Greenland.Markets felt the shock first through futures and currencies as Wall Street cash ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[The Daily: Bitcoin slips as US-EU tariff war fears mount, NYSE develops 24/7 tokenized securities trading platform, and more](https://www.theblock.co/post/386142/the-daily-bitcoin-slips-as-us-eu-tariff-war-fears-mount-nyse-develops-24-7-tokenized-securities-trading-platform-and-more)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 13h ago
 
 While Bitcoin (BTC) maximalists may think of the leading cryptocurrency as the "digital gold," billionaire Frank Giustra thinks the Greenland episode has shattered any such myth. Gold is a safe haven and Bitcoin is a risk-on asset, he asserted. Giustra is a Canadian billionaire ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 1h ago
 
 Peter Brandt warns Bitcoin may fall over 30% based on technical patterns while dormant whales move millions after years of inactivity.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo Finance • 52m ago
 
 A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqcC-_7ppm7--UTgsGbhxSGdVEM-jNX5RPs-HnSiAt4KH49Kwiuy2R-4&gaa_ts=696f1c32&gaa_sig=8mqZgh3vH8h5RmOyTA0lGiBcElkA4z6PLlp1CZBcWxf32CnNfONjSFIyi-LUjLSJkT4waEX1sKbx8Wsi5D7UUA%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -235,7 +235,7 @@ Business Insider • 2d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 16h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 17h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 20h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 12h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -295,7 +295,7 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
-⬆️ 4 • 💬 5 • 3d ago
+⬆️ 4 • 💬 5 • 4d ago
 
 ---
 
@@ -337,7 +337,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 808 • 💬 323 • ⏱️ 10:31 • 11h ago
+👁️ 10K • 👍 808 • 💬 323 • ⏱️ 10:31 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ In this video, we explore one of the most aesthetically pleasing and insightful 
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 2K • 💬 96 • ⏱️ 8:01 • 8h ago
+👁️ 25K • 👍 2K • 💬 96 • ⏱️ 8:01 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 64 • ⏱️ 20:35 • 14h ago
+👁️ 26K • 👍 2K • 💬 64 • ⏱️ 20:35 • 15h ago
 
 ---
 
@@ -377,7 +377,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 177 • 💬 18 • ⏱️ 5:28 • 8h ago
+👁️ 3K • 👍 177 • 💬 18 • ⏱️ 5:28 • 9h ago
 
 ---
 
@@ -407,7 +407,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 7K • 👍 956 • 💬 224 • ⏱️ 12:22 • 14h ago
+👁️ 7K • 👍 956 • 💬 224 • ⏱️ 12:22 • 15h ago
 
 ---
 

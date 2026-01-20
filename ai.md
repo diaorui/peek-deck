@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T05:55:20.779572+00:00'
+updated: '2026-01-20T06:38:24.713356+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 05:55 UTC  
+**Last Updated:** January 20, 2026 at 06:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=W1dIC287Zz0) • 33m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=W1dIC287Zz0) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 18h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 19h ago
 
 ---
 
@@ -105,7 +105,7 @@ The tweak addresses the fact that generative AI tools have been stuffed into jus
 
 In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
 
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 15h ago
+🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 1d ago
 
 **[China Electric Stocks Jump on Booming AI Demand, Investment Push](https://www.bloomberg.com/news/articles/2026-01-20/china-electric-stocks-jump-on-booming-ai-demand-investment-push)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 1h ago
 
 Deep discounts, vast data and bespoke AI agents fuel new challenge in China’s multibillion-dollar enterprise market
 
-Financial Times • 54m ago
+Financial Times • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Financial Times • 54m ago
 
 As a crop of designers settle into new roles, how they interact with tech teams, and their stance on AI’s role in creativity, will be closely watched.
 
-Vogue • 25m ago
+Vogue • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ The Guardian • 1d ago
 
 A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -207,13 +207,13 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 224 • 💬 85 • 19h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 224 • 💬 85 • 20h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 153 • 💬 168 • 16h ago
+⬆️ 153 • 💬 168 • 17h ago
 
 ---
 
@@ -229,7 +229,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 111 • 💬 37 • 1d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 111 • 💬 37 • 2d ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -301,7 +301,7 @@ With EV sales faltering and forecasts lowered, automakers are looking for ways t
 
 📺 CNBC
 
-👁️ 33K • 👍 592 • 💬 55 • ⏱️ 3:41 • 13h ago
+👁️ 33K • 👍 592 • 💬 55 • ⏱️ 3:41 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Alieff Irfan
 
-👁️ 694K • 👍 35K • 💬 2K • ⏱️ 1:02:04 • 17h ago
+👁️ 694K • 👍 35K • 💬 2K • ⏱️ 1:02:04 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ Messi made from palm leaves | hand crafts | village art | leaf crafting #ai #mes
 
 📺 Ai Nusrat
 
-👁️ 107K • 👍 2K • 💬 17 • ⏱️ 0:19 • 3h ago
+👁️ 107K • 👍 2K • 💬 17 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 0 • ❤️ 498 • 2h ago
+⬇️ 0 • ❤️ 498 • 3h ago
 
 ---
 
@@ -455,7 +455,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 26,093 • ❤️ 309 • 15h ago
+⬇️ 26,093 • ❤️ 309 • 16h ago
 
 ---
 
@@ -644,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 427 • 13h ago
+⭐ 8.3k • 🔱 427 • 14h ago
 
 ---
 
@@ -674,7 +674,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.1k • 🔱 837 • 3h ago
+⭐ 5.1k • 🔱 837 • 4h ago
 
 ---
 
@@ -684,7 +684,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.8k • 🔱 3.7k • 15h ago
+⭐ 3.8k • 🔱 3.7k • 16h ago
 
 ---
 
@@ -704,7 +704,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 296 • 23h ago
+⭐ 2.0k • 🔱 296 • 1d ago
 
 ---
 
@@ -714,7 +714,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 147 • 3h ago
+⭐ 1.8k • 🔱 147 • 4h ago
 
 ---
 
