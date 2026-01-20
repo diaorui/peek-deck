@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T20:54:27.783956+00:00'
+updated: '2026-01-20T21:23:04.479020+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 20:54 UTC  
+**Last Updated:** January 20, 2026 at 21:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-10h ago
+11h ago
 
 ---
 
@@ -48,11 +48,17 @@ ODM Humanoid demo show.
 
 ---
 
+**[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
+
+26m ago
+
+---
+
 **["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +72,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 **[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
 
-Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
+Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically.
 
 20h ago
 
@@ -76,7 +82,15 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 8h ago
+
+---
+
+**[Most PPO tutorials show you what to run. This one shows you how PPO actually works – and how to make it stable, reliable, and predictable.](https://www.reddit.com/r/robotics/comments/1qi4hx9/most_ppo_tutorials_show_you_what_to_run_this_one/)**
+
+In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
+
+5h ago
 
 ---
 
@@ -92,22 +106,6 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 ---
 
-**[Most PPO tutorials show you what to run. This one shows you how PPO actually works – and how to make it stable, reliable, and predictable.](https://www.reddit.com/r/robotics/comments/1qi4hx9/most_ppo_tutorials_show_you_what_to_run_this_one/)**
-
-In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
-
-5h ago
-
----
-
-**[I see your stewart platform. Here's mine.](https://www.reddit.com/r/robotics/comments/1qhr6d9/i_see_your_stewart_platform_heres_mine/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,25 +118,19 @@ Financial Times • 10h ago
 
 ---
 
-**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
-
-The New York Times • 4h ago
-
----
-
 **[Meet MassRobotics’ 5th Healthcare Robotics Startup Catalyst cohort](https://www.therobotreport.com/meet-massrobotics-5th-healthcare-robotics-startup-catalyst-cohort/)**
 
 The MassRobotics Healthcare Robotics Startup Catalyst Program supports startups regardless of their location.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
-**[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
+**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
 
-Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
+Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-TechCrunch • 2d ago
+wjon.com • 9h ago
 
 ---
 
@@ -150,9 +142,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-Bloomberg • 4h ago
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
+
+---
+
+**[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
+
+Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -164,11 +166,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-WJON • 9h ago
+CBC • 12h ago
+
+---
+
+**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -177,14 +185,6 @@ WJON • 9h ago
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
 WRGB • 2d ago
-
----
-
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 285 • 💬 80 • ⏱️ 16:49 • 2h ago
+👁️ 3K • 👍 285 • 💬 80 • ⏱️ 16:49 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Could humanoid robots actually work 24/7 without stopping? Robots like Walker S2
 
 📺 Insider Entirety
 
-👁️ 31K • 👍 309 • 💬 9 • ⏱️ 0:11 • 17h ago
+👁️ 31K • 👍 309 • 💬 9 • ⏱️ 0:11 • 18h ago
 
 ---
 

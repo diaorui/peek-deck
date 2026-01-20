@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T20:54:27.765728+00:00'
+updated: '2026-01-20T21:23:04.461244+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 20:54 UTC  
+**Last Updated:** January 20, 2026 at 21:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I built an AI Investigator using Two Knowledge Graphs Connected to a Chatbot That Combed Through the Epstein Files. This is What it Found Within a Few Minutes](https://www.reddit.com/r/artificial/comments/1qi3u9p/i_built_an_ai_investigator_using_two_knowledge/)**
+
+When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
+
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 6h ago
+
+---
+
 **[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
@@ -53,14 +61,6 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 ---
 
-**[What Amodei and Hassabis said about AGI timelines, jobs, and China at Davos](https://www.reddit.com/r/artificial/comments/1qib8fm/what_amodei_and_hassabis_said_about_agi_timelines/)**
-
-Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
-
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 1h ago
-
----
-
 **[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
@@ -69,19 +69,27 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 ---
 
-**[LLVM adopts "human in the loop" policy for AI/tool-assisted contributions](https://www.reddit.com/r/artificial/comments/1qi8u3d/llvm_adopts_human_in_the_loop_policy_for/)**
-
-Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
-
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 2h ago
-
----
-
 **[hy does the AI industry seem almost entirely web/JS-focused?](https://www.reddit.com/r/artificial/comments/1qhwo79/hy_does_the_ai_industry_seem_almost_entirely/)**
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
 11h ago
+
+---
+
+**[LLVM adopts "human in the loop" policy for AI/tool-assisted contributions](https://www.reddit.com/r/artificial/comments/1qi8u3d/llvm_adopts_human_in_the_loop_policy_for/)**
+
+Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
+
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 3h ago
+
+---
+
+**[What Amodei and Hassabis said about AGI timelines, jobs, and China at Davos](https://www.reddit.com/r/artificial/comments/1qib8fm/what_amodei_and_hassabis_said_about_agi_timelines/)**
+
+Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
+
+🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 1h ago
 
 ---
 
@@ -109,21 +117,13 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 ---
 
-**[One-Minute Daily AI News 1/19/2026](https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/)**
-
-Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
-
-14h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,61 +131,63 @@ The New York Times • 8h ago
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle](https://www.nytimes.com/2026/01/20/business/davos-trump.html)**
+**[House Republican squares off against Nvidia, Sacks over AI chip bill](https://thehill.com/policy/technology/5697225-mast-nvidia-clash-ai-chips/)**
 
-The New York Times • 5h ago
-
----
-
-**[Tech Execs at Davos Highlight AI’s Power as a Geopolitical Tool](https://www.bloomberg.com/news/articles/2026-01-20/tech-execs-at-davos-highlight-ai-s-power-as-a-geopolitical-tool)**
-
-Bloomberg • 2h ago
+The Hill • 35m ago
 
 ---
 
-**[Ericsson: AI demands a new kind of wireless network](https://www.fiercewireless.com/cloud/ericsson-ai-demands-new-kind-wireless-network)**
+**[Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade](https://gizmodo.com/controversial-swiss-suicide-pod-gets-an-ai-powered-mental-fitness-upgrade-2000712092)**
 
-The Agentic AI Foundation was formed in December to provide an open source home for MCP and two other agentic AI projectsEricsson is the only wireless RAN ven | The Swedish vendor has signed up for the newly formed Agentic AI Foundation to sort out exactly what capabilities next-generation networks will need.
+It's better than ChatGPT encouraging you to kill yourself, I guess.
 
-Fierce Network • 1h ago
-
----
-
-**[Axios House: AI's evolution beyond the cloud is a boon, experts say](https://www.axios.com/2026/01/20/axios-house-ais-evolution-beyond-the-cloud-is-a-boon-experts-say)**
-
-Axios • 1h ago
+Gizmodo • 1h ago
 
 ---
 
-**[Ben Affleck downplays AI threat to Hollywood in new interview](https://www.foxnews.com/video/6387998136112)**
+**[What We’ve Learned from the DeepSeek AI Shock, a Year Later](https://www.barrons.com/articles/deepseek-ai-market-shock-one-year-later-bc73dc20?gaa_at=eafs&gaa_n=AWEtsqfe7vhmzW9vEUit0fUP9RlpfH0nq3qxAZefQGvo4OMjWJLq0HLVCEvS&gaa_ts=696ff597&gaa_sig=B83-gOyZtMm6c3GBLbKjmSNdqXb-wXH0Au4xwyBIoGZYHbyrBU8cqYpO4fM1mBvGe_uVlXqnllMmo7mR7EX8oA%3D%3D)**
 
-Kurt ‘CyberGuy’ Knutsson discusses how AI may impact Hollywood productions on ‘Fox & Friends.’
-
-Fox News • 1h ago
+Barron's • 57m ago
 
 ---
 
-**[Nvidia Stock Falls. ‘The Honeymoon Is Over for AI.’](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-346dc649?gaa_at=eafs&gaa_n=AWEtsqc7OuixIQMhkTaWtRRum0vtxzJsThAimq6YA-P0BY_4VXXYMoiJ_sX_&gaa_ts=696fe548&gaa_sig=UeXIakKS6j5ptbbXI76EqkLc12a1f-sIQYLiguU8gMv26QuaRhqeGTq3jdSePyRYYHIqEIGA1q-NQnAFo7Sbzw%3D%3D)**
+**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqePaKA0c7mzXRH0miBrsCiAJ-I7oeDNXfok0o_xDQVw_5UhgObBukxs&gaa_ts=696ff597&gaa_sig=KvJr1pGayS6nBC__qSXDLqnDEONrsG0Z4_y9E759c7jlwZPp-_Cxri1nCo_3W4TPGjPnf8xi0wh5KZqytqr11g%3D%3D)**
 
-Barron's • 5h ago
-
----
-
-**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqd3lNb14Mqa0pUa07lXQ-mYw_-YCWby0m7syxYdLo_aaRmpWpAa1ZJq&gaa_ts=696fe548&gaa_sig=ADbbB5CKlRfsrRoGkj_XUdBLihpmJ-LMxFOOiecm41bQrxvFLjQiuAquDzAki6wYT3bhr4nJMRyBjg5T0_UISg%3D%3D)**
-
-The Wall Street Journal • 2h ago
+The Wall Street Journal • 8h ago
 
 ---
 
-**[The Overlooked AI Chip Stock That Could Outperform Nvidia in 2026](https://www.fool.com/investing/2026/01/20/overlooked-ai-chip-stock-outperform-nvidia/)**
+**[ServiceNow inks deal with OpenAI to boost its AI software stack](https://www.cnbc.com/2026/01/20/servicenow-openai-ai-software-saas.html)**
 
-Micron looks poised to outperform in 2026.
+ServiceNow has been on an acquisition frenzy as it looks to position itself as a key AI software player.
 
-The Motley Fool • 5h ago
+CNBC • 4h ago
+
+---
+
+**[ServiceNow powers actionable enterprise AI with OpenAI](https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai/)**
+
+OpenAI • 7h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
+
+---
+
+**[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
+
+Young graduates can’t find jobs. Schools know they have to make big changes. But what?
+
+New York Magazine • 11h ago
 
 ---
 
@@ -197,7 +199,7 @@ The Motley Fool • 5h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 306 • 💬 425 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 306 • 💬 427 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -217,7 +219,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 152 • 💬 172 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 153 • 💬 172 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -225,7 +227,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 115 • 💬 140 • 12h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 116 • 💬 144 • 13h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -233,7 +235,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. - dannote/figma-use
 
-⬆️ 112 • 💬 37 • 2d ago • [GitHub](https://github.com/dannote/figma-use)
+⬆️ 113 • 💬 37 • 2d ago • [GitHub](https://github.com/dannote/figma-use)
 
 ---
 
@@ -241,7 +243,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 107 • 💬 125 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 107 • 💬 128 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -261,11 +263,11 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ---
 
-**[Things I learned from burning myself out with AI coding agents](https://news.ycombinator.com/item?id=46678224)**
+**[Majority of CEOs report zero payoff from AI splurge](https://news.ycombinator.com/item?id=46696636)**
 
-Opinion: As software power tools, AI agents may make people busier than ever before.
+: PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 32 • 💬 21 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
+⬆️ 56 • 💬 25 • 1h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -339,7 +341,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Newsnight
 
-👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 4h ago
+👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 5h ago
 
 ---
 
@@ -660,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 454 • 4h ago
+⭐ 8.7k • 🔱 454 • 5h ago
 
 ---
 
@@ -680,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 731 • 2h ago
+⭐ 5.7k • 🔱 731 • 3h ago
 
 ---
 
@@ -700,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.1k • 7h ago
+⭐ 4.0k • 🔱 4.1k • 8h ago
 
 ---
 
