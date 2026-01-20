@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T16:38:04.041393+00:00'
+updated: '2026-01-20T17:30:44.481868+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 16:38 UTC  
+**Last Updated:** January 20, 2026 at 17:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-13h ago
+14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ One impression I keep having is that most AI company marketing, success stories,
 
 https://apify.com/mick-johnson/topic-radar/ Track any topic across the internet and get aggregated, ranked results from multiple sources in one place. Perfect for market research, competitive intelligence, trend monitoring, content creation, and staying updated on any subject.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://apify.com/mick-johnson/topic-radar/ Track any topic across the internet 
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 6h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ When you talk to a large language model, you can think of yourself as talking to
 
 Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 13h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 14h ago
 
 ---
 
@@ -113,7 +113,7 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-10h ago
+11h ago
 
 ---
 
@@ -123,13 +123,13 @@ Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Kore
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqfR4Kc8He0jYgJ7QPkZGjXKnl5Yuxuh8B8UbWM09-ettHFAbQA-PgDp&gaa_ts=696fb2cb&gaa_sig=IySNiUrQiK9Q_GD1UhRSte2MaWOOzKN16rmF431viEqoX3qquDKOH2I-8smiNj1s_xWtPaGzqQskP7PWFtQGnA%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 3h ago
 
 ServiceNow Chairman and CEO Bill McDermott joins ‘Mornings with Maria’ to discuss the company’s new OpenAI partnership, the accelerating AI revolution and why businesses must move fast to stay competitive.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -145,13 +145,13 @@ Fox Business • 2h ago
 
 SANTA CLARA, Calif., January 20, 2026--ServiceNow and OpenAI announced an enhanced strategic collaboration to power agentic AI experiences and accelerate enterprise AI outcomes.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Nvidia, AMD: UAE to Get Advanced AI Chips in Couple of Months, G42 Chief Says](https://www.bloomberg.com/news/articles/2026-01-20/nvidia-amd-uae-to-get-advanced-ai-chips-in-couple-of-months-g42-chief-says)**
 
-Bloomberg.com • 51m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 51m ago
 
 Veteran investor Jeremy Grantham compared the AI boom to the railroad and internet bubbles, and said the chances it won't burst are "slim to none."
 
-Business Insider • 45m ago
+Business Insider • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Business Insider • 45m ago
 
 BeatStars acquires Lemonaide AI to integrate ethical music generation into its rights-first platform that has paid creators over $450 million
 
-Forbes • 22m ago
+Forbes • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 22m ago
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 3h ago
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 6h ago
+New York Magazine • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 145 • 💬 166 • 21h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 145 • 💬 166 • 22h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -239,7 +239,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 110 • 💬 131 • 8h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 110 • 💬 131 • 9h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -285,7 +285,7 @@ Access Every Major AI Video Model in OpenArt https://youricreates.com/ai-video-g
 
 📺 Youri van Hofwegen
 
-👁️ 3K • 💬 8 • ⏱️ 15:36 • 38m ago
+👁️ 3K • 💬 8 • ⏱️ 15:36 • 1h ago
 
 ---
 
@@ -295,7 +295,7 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 57K • 👍 2K • 💬 510 • ⏱️ 18:33 • 17h ago
+👁️ 57K • 👍 2K • 💬 510 • ⏱️ 18:33 • 18h ago
 
 ---
 
@@ -305,7 +305,7 @@ Want to generate AI videos for free, directly on your own PC? In this video, I'l
 
 📺 Kevin Stratvert
 
-👁️ 11K • 👍 976 • 💬 70 • ⏱️ 11:51 • 8h ago
+👁️ 11K • 👍 976 • 💬 70 • ⏱️ 11:51 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 47K • 👍 2K • 💬 343 • ⏱️ 10:58 • 21h ago
+👁️ 47K • 👍 2K • 💬 343 • ⏱️ 10:58 • 22h ago
 
 ---
 
@@ -473,7 +473,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 58,165 • ❤️ 788 • 12d ago
+⬇️ 58,165 • ❤️ 788 • 13d ago
 
 ---
 
@@ -654,7 +654,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 11h ago
+⭐ 9.3k • 🔱 1.2k • 12h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 451 • 25m ago
+⭐ 8.7k • 🔱 451 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 865 • 5h ago
+⭐ 5.2k • 🔱 865 • 6h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.1k • 3h ago
+⭐ 4.0k • 🔱 4.1k • 4h ago
 
 ---
 
@@ -734,7 +734,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 150 • 36m ago
+⭐ 1.9k • 🔱 150 • 1h ago
 
 ---
 

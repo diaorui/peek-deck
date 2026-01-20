@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T16:38:04.054431+00:00'
+updated: '2026-01-20T17:30:44.496109+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 16:38 UTC  
+**Last Updated:** January 20, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 20h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 21h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-20h ago
+21h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-23h ago
+1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ CCN.com • 5h ago
 
 As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -214,7 +214,7 @@ CryptoSlate • 1d ago
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqeqxRxs6UdC_uuu1Ta_uRwXOPo0kzyMHaj0kFPg_LSHlHxGpYvPBTC4&gaa_ts=696fb2cf&gaa_sig=CWAUK9xmYXp78kQLuQGN-CmY1ZJFuKzJVYsUYTnMEEnH5Vd9Qtm6cOhJqQIykWj6C6L93o3Ii6eY7H0bnEphzg%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 810 • 👍 84 • 💬 6 • ⏱️ 5:30 • 2h ago
+👁️ 810 • 👍 84 • 💬 6 • ⏱️ 5:30 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 346 • 👍 13 • 💬 1 • ⏱️ 4:56 • 7h ago
+👁️ 346 • 👍 13 • 💬 1 • ⏱️ 4:56 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 6:26 • 14h ago
+👁️ 2K • 👍 123 • 💬 6 • ⏱️ 6:26 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 📺 Paul Barron Network
 
-👁️ 77K • 👍 3K • 💬 187 • ⏱️ 10:28 • 2d ago
+👁️ 77K • 👍 3K • 💬 187 • ⏱️ 10:28 • 3d ago
 
 ---
 
@@ -306,7 +306,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 199 • 👍 36 • ⏱️ 36:50 • 2h ago
+👁️ 199 • 👍 36 • ⏱️ 36:50 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this episode of The Milk Road Show, we sit down with Rune Christensen (Founde
 
 📺 Milk Road
 
-👁️ 1K • 👍 70 • 💬 44 • ⏱️ 31:03 • 20h ago
+👁️ 1K • 👍 70 • 💬 44 • ⏱️ 31:03 • 21h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 482 • 👍 25 • 💬 51 • ⏱️ 8:16 • 22h ago
+👁️ 482 • 👍 25 • 💬 51 • ⏱️ 8:16 • 23h ago
 
 ---
 

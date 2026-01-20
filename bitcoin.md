@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T16:38:04.049064+00:00'
+updated: '2026-01-20T17:30:44.490138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 16:38 UTC  
+**Last Updated:** January 20, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[What happened?](https://www.reddit.com/r/Bitcoin/comments/1qi2gw3/what_happened/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,25 +87,25 @@ Rank #1
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-7h ago
+8h ago
 
 ---
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-33m ago
+1h ago
 
 ---
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hard to buy the dip when you're already all in!
 
 **[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 12h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 3h ago
+KITCO • 4h ago
 
 ---
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -215,7 +215,7 @@ Gizmodo • 1d ago
 
 A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -267,25 +267,25 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 0 • 1h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 0 • 2h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
 **[Treating anxiety as a bug in legacy code (engineering approach)](https://news.ycombinator.com/item?id=46693792)**
 
-⬆️ 1 • 💬 0 • 8m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -293,7 +293,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler
 
-⬆️ 7 • 💬 1 • 5h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
+⬆️ 7 • 💬 1 • 6h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
 
 ---
 
@@ -307,7 +307,7 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 10K • 👍 741 • 💬 139 • ⏱️ 14:45 • 6h ago
+👁️ 10K • 👍 741 • 💬 139 • ⏱️ 14:45 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 343 • ⏱️ 21:56 • 16h ago
+👁️ 34K • 👍 3K • 💬 343 • ⏱️ 21:56 • 17h ago
 
 ---
 
@@ -327,7 +327,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 14K • 👍 1K • 💬 51 • ⏱️ 21:45 • 6h ago
+👁️ 14K • 👍 1K • 💬 51 • ⏱️ 21:45 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 388 • ⏱️ 8:03 • 22h ago
+👁️ 28K • 👍 1K • 💬 388 • ⏱️ 8:03 • 23h ago
 
 ---
 
@@ -347,7 +347,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 588 • 💬 51 • ⏱️ 10:25 • 8h ago
+👁️ 10K • 👍 588 • 💬 51 • ⏱️ 10:25 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 432 • 💬 45 • ⏱️ 9:16 • 11h ago
+👁️ 7K • 👍 432 • 💬 45 • ⏱️ 9:16 • 12h ago
 
 ---
 
@@ -397,7 +397,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 10K • 👍 683 • 💬 273 • ⏱️ 28:52 • 7h ago
+👁️ 10K • 👍 683 • 💬 273 • ⏱️ 28:52 • 8h ago
 
 ---
 

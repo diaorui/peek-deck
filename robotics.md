@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T16:38:04.057389+00:00'
+updated: '2026-01-20T17:30:44.499368+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 16:38 UTC  
+**Last Updated:** January 20, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ODM Humanoid demo show.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ ODM Humanoid demo show.
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Walking around CES, I had one of those "everything is AI now" moments. Even robo
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 12h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 13h ago
 
 ---
 
@@ -98,7 +98,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi everyone! I would like to make a robotics club at my school. I'm in the 11th grade but I feel as if though it should be opened in my 12th so we can prepare. However, I don't know if we should make it a learning based club or compete in a competition. I was going to pos t something like March-ish saying if anyone wants to join, they can prepare by learning Arduino, and coding languages like C++ or Python. Is my goal of a competition in FIRST robotics by January unrealistic? Especially with a lack of funding and resources, do you think I should focus on teaching and organizing stuff within the club? Thank you!
 
-40m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone! I would like to make a robotics club at my school. I'm in the 11th 
 
 In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
 
-54m ago
+1h ago
 
 ---
 
@@ -134,7 +134,7 @@ Fortune • 1d ago
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 7h ago
+CBC • 8h ago
 
 ---
 
@@ -142,7 +142,7 @@ CBC • 7h ago
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 Coco weighs 100 pounds, has zero emissions and travels on sidewalks at speeds of up to 5 mph.
 
-NJ.com • 4h ago
+NJ.com • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 43K • 👍 2K • 💬 164 • ⏱️ 2:21 • 5h ago
+👁️ 43K • 👍 2K • 💬 164 • ⏱️ 2:21 • 6h ago
 
 ---
 
@@ -264,7 +264,7 @@ The UK's top humanoid robot recently proved it could work as reliably as a human
 
 📺 Kalil 4.0
 
-👁️ 85 • 👍 6 • ⏱️ 0:52 • 55m ago
+👁️ 85 • 👍 6 • ⏱️ 0:52 • 1h ago
 
 ---
 
