@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T22:24:51.428987+00:00'
+updated: '2026-01-20T22:44:48.990382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 22:24 UTC  
+**Last Updated:** January 20, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-20h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 2d ago
 
 Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ Decrypt • 1d ago
 
 While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 1h ago
+👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Stock Moe
 
-👁️ 13K • 👍 1K • 💬 133 • ⏱️ 18:29 • 8h ago
+👁️ 13K • 👍 1K • 💬 133 • ⏱️ 18:29 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 18 • ⏱️ 21:23 • 2h ago
+👁️ 2K • 👍 141 • 💬 18 • ⏱️ 21:23 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wel
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 4K • 👍 813 • 💬 35 • ⏱️ 30:52 • 4h ago
+👁️ 4K • 👍 813 • 💬 35 • ⏱️ 30:52 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethere
 
 📺 Fundatech Insights
 
-👁️ 12 • 👍 2 • ⏱️ 7:10 • 2h ago
+👁️ 12 • 👍 2 • ⏱️ 7:10 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 529 • 👍 13 • 💬 1 • ⏱️ 4:56 • 12h ago
+👁️ 529 • 👍 13 • 💬 1 • ⏱️ 4:56 • 13h ago
 
 ---
 

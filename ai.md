@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T22:24:51.414410+00:00'
+updated: '2026-01-20T22:44:48.974903+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - news
 - videos
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 22:24 UTC  
+**Last Updated:** January 20, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by con
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-15h ago
+16h ago
 
 ---
 
@@ -57,7 +57,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-19h ago
+20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
 
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 2h ago
+🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 3h ago
 
 ---
 
@@ -139,13 +139,13 @@ Fortune • 1d ago
 
 Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”
 
-TechCrunch • 14m ago
+TechCrunch • 34m ago
 
 ---
 
 **[Tesla Stock Drops With Market. Musk Focuses On AI Chips.](https://www.barrons.com/articles/tesla-stock-price-musk-ai-chips-c0da7219?gaa_at=eafs&gaa_n=AWEtsqdf9p-Wk8v53DhEulNOLt6Cd8BqGCQaEO3L1geucPMrEENsyVtGTd9M&gaa_ts=69700413&gaa_sig=EgZb36yovvpF-xa9ddSezERS4Yoz4SbTqWqAz9VGELWZQgafo62uK6RAuQ5y0YfuEOBbr-1It4IrKL86q-JqHQ%3D%3D)**
 
-Barron's • 43m ago
+Barron's • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Hill • 1h ago
 
 New keynotes in Austin include Rana el Kaliouby and Bob Safian on "human centric" artificial intelligence, and artist Tom Sachs on his creative process.
 
-The Hollywood Reporter • 49m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -269,7 +269,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 : PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 72 • 💬 36 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 72 • 💬 36 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -293,7 +293,7 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 63K • 👍 2K • 💬 556 • ⏱️ 18:33 • 23h ago
+👁️ 63K • 👍 2K • 💬 556 • ⏱️ 18:33 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 13K • 👍 1K • 💬 230 • ⏱️ 1:39:31 • 4h ago
+👁️ 13K • 👍 1K • 💬 230 • ⏱️ 1:39:31 • 5h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 719 • 8h ago
+⬇️ 15,168 • ❤️ 719 • 9h ago
 
 ---
 
@@ -694,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 867 • 10h ago
+⭐ 5.2k • 🔱 867 • 11h ago
 
 ---
 

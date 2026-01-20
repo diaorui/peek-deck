@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T22:24:51.422878+00:00'
+updated: '2026-01-20T22:44:48.984123+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 22:24 UTC  
+**Last Updated:** January 20, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -121,7 +121,7 @@ Hopefully it holds til I get my paycheck this Friday
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-13h ago
+14h ago
 
 ---
 
@@ -267,7 +267,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 2d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 3d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 205 • ⏱️ 44:58 • 6h ago
+👁️ 21K • 👍 1K • 💬 205 • ⏱️ 44:58 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 593 • 💬 117 • ⏱️ 55:43 • 6h ago
+👁️ 11K • 👍 593 • 💬 117 • ⏱️ 55:43 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 1h ago
+👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 2h ago
 
 ---
 

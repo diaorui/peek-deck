@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T22:24:51.432254+00:00'
+updated: '2026-01-20T22:44:48.993729+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 22:24 UTC  
+**Last Updated:** January 20, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically.
 
-21h ago
+22h ago
 
 ---
 
@@ -82,7 +82,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -122,7 +122,7 @@ Fortune • 1d ago
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -130,7 +130,7 @@ Financial Times • 11h ago
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-TechCrunch • 54m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 3h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 37m ago
+The Robot Report • 57m ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 **[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -184,7 +184,7 @@ Bloomberg.com • 5h ago
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-WJON • 10h ago
+WJON • 11h ago
 
 ---
 
