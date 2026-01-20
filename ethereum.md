@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T17:30:44.496109+00:00'
+updated: '2026-01-20T18:39:59.691641+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 17:30 UTC  
+**Last Updated:** January 20, 2026 at 18:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,032.24
+### $2,997.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.1%  
-**7d:** -10.1%  
-**30d:** +0.4%  
-**90d:** -21.7%  
-**1y:** -9.0%  
+**24h:** -6.9%  
+**7d:** -10.8%  
+**30d:** -0.4%  
+**90d:** -22.4%  
+**1y:** -9.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.44B
+**Market Cap:** $361.12B
 Rank #2
 
 **Circulating Supply:** 120,694,565 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.0%
+-39.5%
 
 **All-Time Low:** $0.43
-+696836.8%
++690621.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 21h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-15h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-21h ago
+22h ago
 
 ---
 
@@ -160,25 +160,35 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
+**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://www.fool.com/investing/2026/01/20/scam-concerns-drive-an-8-plunge-in-ethereum-this-w/)**
 
-The Block • 1d ago
+While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
----
-
-**[Ethereum DeFi Platform Makina Hit by Flash Loan Exploit, Loses $4M in ETH](https://finance.yahoo.com/news/ethereum-defi-platform-makina-hit-153120371.html)**
-
-The hacker used a flash loan to inflate prices on Makina’s USD-USDC liquidity pool, and then traded to make over $4 million.
-
-Yahoo Finance • 1h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
+**[How a crypto scam pushed Ethereum transactions to an all-time high](https://finance.yahoo.com/news/crypto-scam-pushed-ethereum-transactions-163253595.html)**
 
-It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
+Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
 
-The Motley Fool • 5h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
+
+Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
+
+CoinDesk • 16h ago
+
+---
+
+**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://finance.yahoo.com/news/scam-concerns-drive-8-plunge-175144296.html)**
+
+While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
+
+Yahoo Finance • 48m ago
 
 ---
 
@@ -190,17 +200,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqezQA4KzjLgvq_EHiiGaH-Z7tt8yDnfB2wFJL5sBWYT3w55UQBnjkGX&gaa_ts=696fcf5e&gaa_sig=MkrZNycHuJ_Vd995diWhHqTXBniUVQ-ptTe-cPxikO7vEEDeBt6z3diX8nRSm8VVMbVoBi32TA1TiD3sJL601w%3D%3D)**
 
-CCN.com • 5h ago
+MarketWatch • 3h ago
 
 ---
 
-**[Ethereum Poised For $4,000 Breakout? Expert Pinpoints On-Chain Triggers For Potential Rally](https://www.tradingview.com/news/newsbtc:ee31cdd67094b:0-ethereum-poised-for-4-000-breakout-expert-pinpoints-on-chain-triggers-for-potential-rally/)**
+**[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
 
-As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
+CCN.com • 4h ago
 
-TradingView — Track All Markets • 11h ago
+---
+
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
+
+Key PointsCryptocurrencies are not stocks.
+
+Nasdaq • 6h ago
 
 ---
 
@@ -212,23 +228,29 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqeqxRxs6UdC_uuu1Ta_uRwXOPo0kzyMHaj0kFPg_LSHlHxGpYvPBTC4&gaa_ts=696fb2cf&gaa_sig=CWAUK9xmYXp78kQLuQGN-CmY1ZJFuKzJVYsUYTnMEEnH5Vd9Qtm6cOhJqQIykWj6C6L93o3Ii6eY7H0bnEphzg%3D%3D)**
-
-MarketWatch • 2h ago
-
----
-
-**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
-
-Here's Vitalik Buterin's new vision for Ethereum in 2026.
-
-AMBCrypto • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 107 • 💬 6 • ⏱️ 5:30 • 4h ago
+
+---
+
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 1K • 💬 123 • ⏱️ 18:29 • 5h ago
+
+---
 
 **[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
 
@@ -240,43 +262,13 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 More Crypto Online
+📺 AllinCrypto
 
-👁️ 810 • 👍 84 • 💬 6 • ⏱️ 5:30 • 3h ago
-
----
-
-**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 346 • 👍 13 • 💬 1 • ⏱️ 4:56 • 8h ago
-
----
-
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 6K • 👍 850 • 💬 76 • ⏱️ 18:29 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=BK7LXrKQ-RQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 6:26 • 15h ago
+👁️ 12K • 👍 1K • 💬 226 • ⏱️ 16:10 • 5h ago
 
 ---
 
@@ -286,17 +278,47 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 295 • 💬 29 • ⏱️ 9:21 • 2d ago
+👁️ 8K • 👍 295 • 💬 28 • ⏱️ 9:21 • 2d ago
 
 ---
 
-**[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=neFpNOPWwVM)**
 
-Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Paul Barron Network
+📺 More Crypto Online
 
-👁️ 77K • 👍 3K • 💬 187 • ⏱️ 10:28 • 3d ago
+👁️ 178 • 👍 13 • ⏱️ 1:10 • 29m ago
+
+---
+
+**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 470 • 👍 13 • 💬 1 • ⏱️ 4:56 • 9h ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 3K • 💬 230 • ⏱️ 12:19 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 1d ago
 
 ---
 
@@ -306,27 +328,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 199 • 👍 36 • ⏱️ 36:50 • 3h ago
-
----
-
-**[The Biggest Crypto Opportunity Isn’t Bitcoin or Ethereum Anymore w/ Rune Christensen](https://www.youtube.com/watch?v=n5lOWLgKy6Y)**
-
-In this episode of The Milk Road Show, we sit down with Rune Christensen (Founder of Sky / MakerDAO) to break down the actual ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 70 • 💬 44 • ⏱️ 31:03 • 21h ago
-
----
-
-**[ETH Ethereum Price Prediction: 19th of January](https://www.youtube.com/watch?v=ZBvMnT96VaU)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 482 • 👍 25 • 💬 51 • ⏱️ 8:16 • 23h ago
+👁️ 300 • 👍 50 • 💬 1 • ⏱️ 36:50 • 4h ago
 
 ---
 
