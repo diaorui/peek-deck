@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T12:53:28.133089+00:00'
+updated: '2026-01-20T13:48:56.205129+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 12:53 UTC  
+**Last Updated:** January 20, 2026 at 13:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-6h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 22h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 23h ago
 
 ---
 
@@ -63,7 +63,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ One impression I keep having is that most AI company marketing, success stories,
 
 I can design or trace entire cultures by talking to AI for example I discussed the modern features of China and how it may respond to AI, 3D printing, and additive manufacturing. Here is an example: If you like, I can contrast U.S. and China urban and infrastructure strategies, showing how overbuilding vs. underbuilding shapes social stability, economic growth, and human well-being—so you can see the full picture of global momentum and risk. Also, China seems better poised to benefit from AI even if the U.S. stays ahead in Absolutely—that’s a subtle but very important distinction. The U.S. may lead in AI technology, but China is better positioned to capture systemic benefits because of how its society and governance are structured. Let me unpack this.
 
-39m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ I can design or trace entire cultures by talking to AI for example I discussed t
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Kore
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 9h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 10h ago
 
 ---
 
@@ -139,19 +139,19 @@ CNN • 2d ago
 
 The Big Tech boss also said Europe needs to have more of a global outlook to be successful.
 
-CNBC • 57m ago
+CNBC • 1h ago
 
 ---
 
 **[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Guardian • 1d ago
 
 **[Exclusive: AI bubble will be great for consumers, Meta CTO says](https://www.axios.com/2026/01/20/meta-ai-bubble-data-centers-spending)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 159 • 💬 176 • 23h ago
+⬆️ 159 • 💬 176 • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 136 • 💬 156 • 18h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 136 • 💬 156 • 19h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -233,7 +233,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 106 • 💬 119 • 21h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 106 • 💬 119 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -249,7 +249,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 99 • 💬 123 • 4h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 99 • 💬 123 • 5h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -257,7 +257,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-⬆️ 91 • 💬 95 • 2d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
+⬆️ 91 • 💬 95 • 3d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
 
 ---
 
@@ -273,23 +273,13 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ## YouTube Videos: "ai"
 
-**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
-
-OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
-
-📺 Matthew Berman
-
-👁️ 47K • 👍 2K • 💬 472 • ⏱️ 18:33 • 14h ago
-
----
-
 **[Free AI Video Generator on Your PC (No Subscriptions, No Limits)](https://www.youtube.com/watch?v=G2Ec3h5CfA8)**
 
 Want to generate AI videos for free, directly on your own PC? In this video, I'll show you how to run powerful open-source AI video ...
 
 📺 Kevin Stratvert
 
-👁️ 3K • 👍 360 • 💬 24 • ⏱️ 11:51 • 4h ago
+👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 5h ago
 
 ---
 
@@ -299,7 +289,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 15K • 👍 729 • 💬 185 • ⏱️ 9:12 • 1d ago
+👁️ 16K • 👍 763 • 💬 193 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -309,7 +299,7 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 228 • 💬 65 • ⏱️ 24:36 • 1d ago
+👁️ 8K • 👍 230 • 💬 65 • ⏱️ 24:36 • 1d ago
 
 ---
 
@@ -319,7 +309,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 44K • 👍 1K • 💬 311 • ⏱️ 10:58 • 17h ago
+👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 18h ago
 
 ---
 
@@ -333,43 +323,53 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
-
-OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
-
-📺 OpenAI
-
-👁️ 20K • 👍 776 • 💬 98 • ⏱️ 49:42 • 20h ago
-
----
-
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
-
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
-
-📺 Liam Ottley
-
-👁️ 29K • 👍 1K • 💬 86 • ⏱️ 12:49 • 2d ago
-
----
-
 **[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
 
 Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 896 • 💬 65 • ⏱️ 7:01 • 1d ago
+👁️ 18K • 👍 900 • 💬 65 • ⏱️ 7:01 • 1d ago
 
 ---
 
-**[Meta Just Changed Everything - The End of Language-Based AI?](https://www.youtube.com/watch?v=n2DspZG31B0)**
+**[AI vs Human: Can it actually color my animation?](https://www.youtube.com/watch?v=WK-HNE7TBFI)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Yann ...
+AI vs Human: Is the "Hand-Drawn" era over? ✍️ vs I put AI to the ultimate test: taking my rough animation sketches and doing ...
 
-📺 Julia McCoy
+📺 Hayk_Animation
 
-👁️ 98K • 👍 4K • 💬 588 • ⏱️ 19:38 • 2d ago
+👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 12h ago
+
+---
+
+**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 11K • 👍 283 • 💬 11 • ⏱️ 9:45 • 1d ago
+
+---
+
+**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
+
+Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
+
+📺 Dumanity
+
+👁️ 67K • 👍 3K • 💬 544 • ⏱️ 12:32 • 1d ago
+
+---
+
+**[ONLY 1% Can Spot The AI (Impossible Level) #asmr](https://www.youtube.com/watch?v=QKIfVlJ5oAQ)**
+
+BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
+
+📺 Dong ASMR
+
+👁️ 310K • 👍 12K • 💬 572 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 8,705 • ❤️ 877 • 5d ago
+⬇️ 8,705 • ❤️ 880 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 649 • 9h ago
+⬇️ 15,168 • ❤️ 667 • 11m ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 370 • 4d ago
+⬇️ 35,593 • ❤️ 371 • 4d ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,735,752 • ❤️ 1,199 • 1d ago
+⬇️ 1,735,752 • ❤️ 1,201 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 314 • 22h ago
+⬇️ 31,778 • ❤️ 316 • 23h ago
 
 ---
 
@@ -443,7 +443,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 2,201 • ❤️ 368 • 2d ago
+⬇️ 2,201 • ❤️ 369 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 58,165 • ❤️ 785 • 12d ago
+⬇️ 58,165 • ❤️ 787 • 12d ago
 
 ---
 
@@ -479,7 +479,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 26,285 • ❤️ 231 • 4d ago
+⬇️ 26,285 • ❤️ 234 • 4d ago
 
 ---
 
@@ -510,6 +510,18 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 ▲ 9 • 💬 3 • ⭐ 279 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
+
+---
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 23 • 💬 4 • ⭐ 863 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -546,18 +558,6 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 ▲ 0 • 💬 1 • ⭐ 6,936 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
-
----
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 23 • 💬 4 • ⭐ 616 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -605,7 +605,7 @@ https://continuous-audio-language-models.github.io
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 31 • 💬 3 • ⭐ 1,513 • 14d ago
+▲ 31 • 💬 3 • ⭐ 1,570 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -648,7 +648,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 8h ago
+⭐ 9.3k • 🔱 1.2k • 9h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 440 • 20h ago
+⭐ 8.6k • 🔱 445 • 21h ago
 
 ---
 
@@ -668,7 +668,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 354 • 3d ago
+⭐ 7.5k • 🔱 353 • 3d ago
 
 ---
 
@@ -678,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.3k • 🔱 706 • 12d ago
+⭐ 5.4k • 🔱 712 • 12d ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 858 • 1h ago
+⭐ 5.2k • 🔱 862 • 2h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 3.9k • 22h ago
+⭐ 4.0k • 🔱 4.0k • 46m ago
 
 ---
 
@@ -708,7 +708,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 171 • 2d ago
+⭐ 2.9k • 🔱 172 • 2d ago
 
 ---
 
@@ -728,17 +728,15 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 148 • 2h ago
+⭐ 1.9k • 🔱 150 • 3h ago
 
 ---
 
-**[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**
+**[blader/humanizer](https://github.com/blader/humanizer)**
 
-A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+Claude Code skill that removes signs of AI-generated writing from text
 
-`agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
-
-⭐ 1.5k • 🔱 105 • 21d ago
+⭐ 1.5k • 🔱 105 • 1d ago
 
 ---
 

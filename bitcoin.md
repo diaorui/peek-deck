@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T12:53:28.141404+00:00'
+updated: '2026-01-20T13:48:56.213533+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 12:53 UTC  
+**Last Updated:** January 20, 2026 at 13:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.36B
+**Market Cap:** $1816.99B
 Rank #1
 
-**Circulating Supply:** 19,978,334 BTC
+**Circulating Supply:** 19,978,371 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.9%
 
 **All-Time Low:** $67.81
-+134436.2%
++133954.0%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Hard to buy the dip when you're already all in!
 
-20h ago
+21h ago
 
 ---
 
@@ -103,13 +103,13 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-10h ago
+11h ago
 
 ---
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Tell me your 52 weeks low this year
 
-6h ago
+7h ago
 
 ---
 
@@ -141,13 +141,13 @@ Tell me your 52 weeks low this year
 
 Besides Coinbase, which other platforms would one have bought and kept Bitcoin before 2015? Trying to see I had some BTC I forgot about.
 
-3h ago
+4h ago
 
 ---
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -159,13 +159,13 @@ Besides Coinbase, which other platforms would one have bought and kept Bitcoin b
 
 A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdXrE9WIGDxHfGQsMDK6_20BnKzm4Q9EjOOKtGR5O8kPSkvUTSMjYuQ&gaa_ts=696f7e2d&gaa_sig=WbmMOtP97sH48Po_m7rzSr4WkjYlklaVCEGV1vqYBVTxrUa6CrcO7IKhxMAaMxbK4lIrX-lwbA07sYj12aI9zw%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 21h ago
 
 Don't get trapped by shoddy comparisons.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Analysts warn macro risks, not charts, could drive Bitcoin to $58K as liquidity stays tight and rate cuts stall.
 
-CoinDesk • 48m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance • 1d ago
 
 Bitcoin erased last week’s rally as Asia-led selling hit crypto alongside falling U.S. equity futures.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 9h ago
 
 Bitcoin steadied after a sharp selloff, with analysts citing ETF inflows as support for its longer-term outlook despite macro shocks.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -237,7 +237,7 @@ Nasdaq • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 23h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 1d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -277,7 +277,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -291,7 +291,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler
 
-⬆️ 4 • 💬 0 • 1h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
+⬆️ 4 • 💬 0 • 2h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
 
 ---
 
@@ -313,33 +313,13 @@ Finding prime clusters is computationally challenging, but solutions are easy to
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Historic Data Shows The Bear Will End Here](https://www.youtube.com/watch?v=gE1lC3bZlzo)**
+**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
 
-📺 Jason Pizzino
+📺 Crypto Insider
 
-👁️ 4K • 👍 355 • 💬 187 • ⏱️ 28:52 • 3h ago
-
----
-
-**[Could This Single Announcement Send Bitcoin to $10 Million?](https://www.youtube.com/watch?v=hKlFmLnXyBs)**
-
-The financial system is more fragile than ever and central banks know it. From alien disclosure triggering panic to inflation making ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 340 • ⏱️ 21:56 • 13h ago
-
----
-
-**[WARNING FOR ALL BITCOIN HOLDERS...](https://www.youtube.com/watch?v=F9oZlU7nsFU)**
-
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 5K • 👍 367 • 💬 101 • ⏱️ 9:16 • 7h ago
+👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 3h ago
 
 ---
 
@@ -349,7 +329,37 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 2K • 👍 498 • 💬 128 • ⏱️ 8:31 • 2h ago
+👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 3h ago
+
+---
+
+**[Bitcoin: Historic Data Shows The Bear Will End Here](https://www.youtube.com/watch?v=gE1lC3bZlzo)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 4h ago
+
+---
+
+**[TRUMP IS ABOUT TO DUMP BITCOIN !!!!](https://www.youtube.com/watch?v=pbaO6R-q-YU)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 298 • 💬 67 • ⏱️ 7:24 • 3h ago
+
+---
+
+**[Could This Single Announcement Send Bitcoin to $10 Million?](https://www.youtube.com/watch?v=hKlFmLnXyBs)**
+
+The financial system is more fragile than ever and central banks know it. From alien disclosure triggering panic to inflation making ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 13h ago
 
 ---
 
@@ -359,17 +369,27 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 4K • 👍 383 • 💬 33 • ⏱️ 10:25 • 4h ago
+👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 5h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
+**[WARNING FOR ALL BITCOIN HOLDERS...](https://www.youtube.com/watch?v=F9oZlU7nsFU)**
 
-Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 Thomas Kralow
+📺 Crypto Rover
 
-👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 1d ago
+👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 8h ago
+
+---
+
+**[Cardano CEO Crashes Out As CLARITY Act Get&#39;s &#39;Sabotaged&#39;](https://www.youtube.com/watch?v=FGxYARR1eug)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 324 • ⏱️ 8:54 • 14h ago
 
 ---
 
@@ -379,7 +399,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 362 • ⏱️ 8:03 • 19h ago
+👁️ 27K • 👍 1K • 💬 355 • ⏱️ 8:03 • 20h ago
 
 ---
 
@@ -389,27 +409,7 @@ In this video, we explore one of the most aesthetically pleasing and insightful 
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 139 • ⏱️ 8:01 • 15h ago
-
----
-
-**[Gold Just Exposed The TRUTH About This CRYPTO CRASH (Don&#39;t Panic)](https://www.youtube.com/watch?v=ikm3IxAfJL4)**
-
-Gold is up around 70% in last year and crypto has done nothing. Actually it seems crypto keeps crashing. And somehow this is the ...
-
-📺 Dan Gambardello
-
-👁️ 12K • 👍 886 • 💬 425 • ⏱️ 10:31 • 18h ago
-
----
-
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=f7DY9c_--_A)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Vaykayy
-
-👁️ 7K • 👍 3K • 11h ago
+👁️ 47K • 👍 3K • 💬 145 • ⏱️ 8:01 • 16h ago
 
 ---
 
