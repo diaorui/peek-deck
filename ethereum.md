@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T13:48:56.219521+00:00'
+updated: '2026-01-20T14:32:34.173862+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 13:48 UTC  
+**Last Updated:** January 20, 2026 at 14:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,106.21
+### $3,081.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -7.5%  
-**30d:** +3.3%  
-**90d:** -19.5%  
-**1y:** -6.4%  
+**24h:** -4.7%  
+**7d:** -8.7%  
+**30d:** +1.9%  
+**90d:** -20.6%  
+**1y:** -7.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 17h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 18h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-17h ago
+18h ago
 
 ---
 
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
 **[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 1d ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 23h ago
 
 It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 2d ago
 
 **[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -206,7 +206,7 @@ CCN.com • 2h ago
 
 As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -218,9 +218,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcoCLcAkRNSb7iO5KwG77Gh5JHtdfRqnekKH760KfAyr2IXI-Wn_YfN&gaa_ts=696f7e2f&gaa_sig=__RNhk8QqDZKfwgcwvvongdT6kxBgpoqCnoQ0sfWoE-0X0ITpH0wxb9MnwHjN-FqDWVXc9Qrmek1l3b-ISvs_A%3D%3D)**
+**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
 
-Barron's • 4h ago
+Here's Vitalik Buterin's new vision for Ethereum in 2026.
+
+AMBCrypto • 2d ago
 
 ---
 
@@ -244,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 199 • 👍 12 • 💬 1 • ⏱️ 4:56 • 4h ago
+👁️ 199 • 👍 12 • 💬 1 • ⏱️ 4:56 • 5h ago
 
 ---
 
@@ -254,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 12 • ⏱️ 6:26 • 11h ago
+👁️ 2K • 👍 118 • 💬 12 • ⏱️ 6:26 • 12h ago
 
 ---
 
@@ -294,7 +296,7 @@ Dive into Ethereum's future in this quick 4-minute breakdown! With Pectra and Fu
 
 📺 Altcoin Media
 
-👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 13h ago
+👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 14h ago
 
 ---
 
@@ -304,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 20h ago
+👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 21h ago
 
 ---
 
@@ -324,7 +326,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 1K • 👍 303 • 18m ago
+👁️ 1K • 👍 303 • 1h ago
 
 ---
 

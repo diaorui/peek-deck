@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T13:48:56.222732+00:00'
+updated: '2026-01-20T14:32:34.177083+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 13:48 UTC  
+**Last Updated:** January 20, 2026 at 14:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,27 +36,21 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-3h ago
+4h ago
+
+---
+
+**[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
+
+ODM Humanoid demo show.
+
+2h ago
 
 ---
 
 **[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
-
-13h ago
-
----
-
-**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
-
-Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
-
-1h ago
-
----
-
-**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
 14h ago
 
@@ -70,19 +64,25 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 ---
 
+**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
+
+Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
+
+2h ago
+
+---
+
+**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
+
+15h ago
+
+---
+
 **[I see your stewart platform. Here's mine.](https://www.reddit.com/r/robotics/comments/1qhr6d9/i_see_your_stewart_platform_heres_mine/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 9h ago
-
----
-
-**[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
-
-ODM Humanoid demo show.
-
-1h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 10h ago
 
 ---
 
@@ -94,33 +94,25 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 ---
 
+**[China likely to deliver your first humanoid robot colleague.](https://www.reddit.com/r/robotics/comments/1qi0g5b/china_likely_to_deliver_your_first_humanoid_robot/)**
+
+Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
+
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 1h ago
+
+---
+
 **[How automation is helping communities recover faster after natural disasters](https://www.reddit.com/r/robotics/comments/1qh6msr/how_automation_is_helping_communities_recover/)**
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-22h ago
-
----
-
-**[Demo robot mirokai](https://www.reddit.com/r/robotics/comments/1qhcnql/demo_robot_mirokai/)**
-
-afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
-
-19h ago
+23h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 22h ago
-
----
 
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
@@ -130,15 +122,15 @@ TechCrunch • 1d ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-CBC • 4h ago
+Fortune • 23h ago
 
 ---
 
-**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
@@ -154,6 +146,14 @@ Tom's Hardware • 1d ago
 
 ---
 
+**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
+
+Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
+
+Forbes • 19h ago
+
+---
+
 **[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
 
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
@@ -162,11 +162,11 @@ WRGB • 2d ago
 
 ---
 
-**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-WJON • 2h ago
+CBC • 5h ago
 
 ---
 
@@ -178,11 +178,11 @@ KPTV • 2d ago
 
 ---
 
-**[Ukrainian soldiers surprised a robot maker by using a drone to drop one of its bots into battle](https://www.businessinsider.com/ukraine-robot-maker-soldier-surprise-him-drone-drop-close-russia-2026-1)**
+**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
 
-Ukraine is using ground robots and flying drones to take on Russia. One robot maker was surprised when soldiers combined them to be more effective.
+Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-Business Insider • 17h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ Business Insider • 17h ago
 
 Coco weighs 100 pounds, has zero emissions and travels on sidewalks at speeds of up to 5 mph.
 
-NJ.com • 1h ago
+NJ.com • 2h ago
 
 ---
 
@@ -224,7 +224,7 @@ Both Chinese and US humanoid robots successfully land a backflip A moment that s
 
 📺 Pit Novations
 
-👁️ 46K • 👍 129 • 💬 14 • ⏱️ 0:05 • 5d ago
+👁️ 46K • 👍 129 • 💬 14 • ⏱️ 0:05 • 6d ago
 
 ---
 

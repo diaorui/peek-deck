@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T13:48:56.213533+00:00'
+updated: '2026-01-20T14:32:34.167775+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 13:48 UTC  
+**Last Updated:** January 20, 2026 at 14:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,096.16
+### $90,927.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -6.0%  
-**30d:** +3.3%  
-**90d:** -17.1%  
-**1y:** -13.8%  
+**24h:** -2.4%  
+**7d:** -6.4%  
+**30d:** +2.8%  
+**90d:** -17.5%  
+**1y:** -14.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -88,6 +88,12 @@ Rank #1
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
 5h ago
+
+---
+
+**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
+
+1h ago
 
 ---
 
@@ -109,7 +115,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +123,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +131,15 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 9h ago
+
+---
+
+**[When do you think BTC will catch up to gold’s market cap?](https://www.reddit.com/r/Bitcoin/comments/1qhzic4/when_do_you_think_btc_will_catch_up_to_golds/)**
+
+At the moment, BTC market cap is about $1.8 – $1.9 trillion USD. Gold market cap is about $30 trillion – $32 trillion USD.
+
+2h ago
 
 ---
 
@@ -133,21 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Tell me your 52 weeks low this year
 
-7h ago
-
----
-
-**[Bitcoin pre-2015](https://www.reddit.com/r/Bitcoin/comments/1qhwns1/bitcoin_pre2015/)**
-
-Besides Coinbase, which other platforms would one have bought and kept Bitcoin before 2015? Trying to see I had some BTC I forgot about.
-
-4h ago
-
----
-
-**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
-
-19h ago
+8h ago
 
 ---
 
@@ -159,21 +159,21 @@ Besides Coinbase, which other platforms would one have bought and kept Bitcoin b
 
 A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdXrE9WIGDxHfGQsMDK6_20BnKzm4Q9EjOOKtGR5O8kPSkvUTSMjYuQ&gaa_ts=696f7e2d&gaa_sig=WbmMOtP97sH48Po_m7rzSr4WkjYlklaVCEGV1vqYBVTxrUa6CrcO7IKhxMAaMxbK4lIrX-lwbA07sYj12aI9zw%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdRDfaDqbs4RIBIAUaDHvkrxin-H2mD4q1yNM4oQ2lBxOiWvtGrdC2G&gaa_ts=696f956b&gaa_sig=UDndcOVhBHacryIVHiWHJXH8toKWrLdpiDJ62GSHSLuuKfs_q9rLIGBoae1Rg9kv1OieS0jxpt26UKhMUmB41A%3D%3D)**
 
-MarketWatch • 22h ago
+MarketWatch • 23h ago
 
 ---
 
-**[Will Buying Zcash at $400 Be Like Buying Bitcoin at $400?](https://finance.yahoo.com/news/buying-zcash-400-buying-bitcoin-113000765.html)**
+**[Is GameStop Dumping Its Bitcoin Treasury? Here’s How Much BTC They Have Moved to Coinbase Prime](https://finance.yahoo.com/news/gamestop-dumping-bitcoin-treasury-much-131156647.html)**
 
-Don't get trapped by shoddy comparisons.
+GameStop transferred 2,396 BTC total to Coinbase Prime in January 2026. The moves include 100 BTC on Jan 17 and 2,296 BTC on Jan 20. ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,27 +181,35 @@ Yahoo Finance • 2h ago
 
 Analysts warn macro risks, not charts, could drive Bitcoin to $58K as liquidity stays tight and rate cuts stall.
 
+CoinDesk • 2h ago
+
+---
+
+**[Strategy (MSTR) adds 22,305 BTC, bringing holdings to 709,715 coins](https://www.coindesk.com/markets/2026/01/20/michael-saylor-s-strategy-purchases-another-usd2-13-billion-in-bitcoin)**
+
+The company now holds 709,715 bitcoin, acquired for nearly $54 billion.
+
 CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Gold Hits Record High as Bitcoin Falls on Escalating US–EU Tariff Tensions](https://finance.yahoo.com/news/gold-hits-record-high-bitcoin-045337211.html)**
+**[Bitcoin BTC USD Price Slides Below $92K as Tariff Fears Spook Global Markets](https://finance.yahoo.com/news/bitcoin-btc-usd-price-slides-064549770.html)**
 
-Bitcoin and gold diverge as US–EU tariffs escalate, boosting gold while BTC slides amid risk-off sentiment.
+Under Donald Trump, you can’t mention the president without tariffs. Tariffs have become a defining aspect of President Trump, and the global economy often reacts with caution. Not only do asset prices fall, but risky ones are often the most affected. In 2025, Bitcoin and some of the best cryptos ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin retraces to $91K as tariff concerns spark risk-off move: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/20/bitcoin-slides-to-usd91-000-as-u-s-trade-tensions-spur-selloff-crypto-markets-today)**
+**[As BTC price slides on tariffs threat, market makers may amplify volatility: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2026/01/20/as-tariff-threat-hits-bitcoin-invisible-hands-may-amplify-swings-crypto-daybook-americas)**
 
-Bitcoin erased last week’s rally as Asia-led selling hit crypto alongside falling U.S. equity futures.
+The day ahead in crypto: Jan. 20, 2026
 
 CoinDesk • 2h ago
 
@@ -209,7 +217,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -217,15 +225,7 @@ The Block • 10h ago
 
 Bitcoin steadied after a sharp selloff, with analysts citing ETF inflows as support for its longer-term outlook despite macro shocks.
 
-Decrypt • 9h ago
-
----
-
-**[Where Will Bitcoin Be in 3 Years?](https://www.nasdaq.com/articles/where-will-bitcoin-be-3-years-0)**
-
-Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
-
-Nasdaq • 1d ago
+Decrypt • 10h ago
 
 ---
 
@@ -277,7 +277,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 20h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -291,7 +291,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler
 
-⬆️ 4 • 💬 0 • 2h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
+⬆️ 6 • 💬 1 • 3h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
 
 ---
 
@@ -305,7 +305,7 @@ Transatlantic relations aren't broken, though they are damaged. And if Europeans
 
 Finding prime clusters is computationally challenging, but solutions are easy to verify. It is used as the proof-of-work task in the Riecoin cryptocurrency.
 
-⬆️ 2 • 💬 0 • 1d ago • [John D. Cook | Applied Mathematics Consulting](https://www.johndcook.com/blog/2026/01/18/prime-clusters-riecoin/)
+⬆️ 3 • 💬 0 • 1d ago • [John D. Cook | Applied Mathematics Consulting](https://www.johndcook.com/blog/2026/01/18/prime-clusters-riecoin/)
 
 ---
 
@@ -319,7 +319,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 3h ago
+👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 4h ago
 
 ---
 
@@ -329,7 +329,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 3h ago
+👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 4h ago
 
 ---
 
@@ -339,7 +339,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 4h ago
+👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 5h ago
 
 ---
 
@@ -359,7 +359,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 13h ago
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 14h ago
 
 ---
 
@@ -369,7 +369,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 5h ago
+👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 6h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 8h ago
+👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 9h ago
 
 ---
 

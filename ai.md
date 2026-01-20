@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T13:48:56.205129+00:00'
+updated: '2026-01-20T14:32:34.159364+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 13:48 UTC  
+**Last Updated:** January 20, 2026 at 14:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-7h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 3h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 4h ago
 
 ---
 
@@ -79,7 +79,15 @@ When you talk to a large language model, you can think of yourself as talking to
 
 Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
 
-3h ago
+4h ago
+
+---
+
+**[OpenAI to test ads in ChatGPT as it burns through billions](https://www.reddit.com/r/artificial/comments/1qi0zg9/openai_to_test_ads_in_chatgpt_as_it_burns_through/)**
+
+Ads coming to free tier and new $8/month ChatGPT Go plan in US.
+
+🔗 [Ars Technica](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) • 1h ago
 
 ---
 
@@ -91,11 +99,11 @@ One impression I keep having is that most AI company marketing, success stories,
 
 ---
 
-**[Why I like AI](https://www.reddit.com/r/artificial/comments/1qhzien/why_i_like_ai/)**
+**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
 
-I can design or trace entire cultures by talking to AI for example I discussed the modern features of China and how it may respond to AI, 3D printing, and additive manufacturing. Here is an example: If you like, I can contrast U.S. and China urban and infrastructure strategies, showing how overbuilding vs. underbuilding shapes social stability, economic growth, and human well-being—so you can see the full picture of global momentum and risk. Also, China seems better poised to benefit from AI even if the U.S. stays ahead in Absolutely—that’s a subtle but very important distinction. The U.S. may lead in AI technology, but China is better positioned to capture systemic benefits because of how its society and governance are structured. Let me unpack this.
+NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-1h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 11h ago
 
 ---
 
@@ -103,15 +111,7 @@ I can design or trace entire cultures by talking to AI for example I discussed t
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-7h ago
-
----
-
-**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
-
-NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
-
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 10h ago
+8h ago
 
 ---
 
@@ -119,11 +119,9 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 ## Google News: "ai"
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 22h ago
+The New York Times • 2h ago
 
 ---
 
@@ -135,23 +133,45 @@ CNN • 2d ago
 
 ---
 
-**[Energy costs will decide which countries win the AI race, Microsoft’s Nadella says](https://www.cnbc.com/2026/01/20/microsoft-nadella-ai-race-energy-tokens.html)**
+**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
 
-The Big Tech boss also said Europe needs to have more of a global outlook to be successful.
+"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
 CNBC • 1h ago
 
 ---
 
-**[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
+**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqe3FgB9a1-8Xwr2-0BUTitpLFyg1BukfyMKtcdcmUWW35qfQIi82iON&gaa_ts=696f956a&gaa_sig=ES1L1_XrZxCdjL2R5XyoANcK6m7k5hlIgNn5zOkk9hpC9k9M7-yFL6Emxy_rVbKu98wBvhEpYbfGIuHeP-hK-g%3D%3D)**
 
-Axios • 3h ago
+The Wall Street Journal • 1h ago
 
 ---
 
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
+**[Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea](https://www.bloomberg.com/news/articles/2026-01-20/anthropic-ceo-says-selling-advanced-ai-chips-to-china-is-crazy)**
 
-The New York Times • 1h ago
+Bloomberg • 2h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 23h ago
+
+---
+
+**[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
+
+Bloomberg • 16h ago
+
+---
+
+**[Tesla to revive Dojo AI supercomputer as Musk says AI5 design is ready](https://interestingengineering.com/ai-robotics/musk-to-restart-dojo3-supercomputer)**
+
+The AI5 chip will "make the cars almost perfect and greatly enhance Optimus," Tesla CEO Elon Musk added in a post on X.
+
+Interesting Engineering • 46m ago
 
 ---
 
@@ -159,33 +179,13 @@ The New York Times • 1h ago
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
-**[Exclusive: AI bubble will be great for consumers, Meta CTO says](https://www.axios.com/2026/01/20/meta-ai-bubble-data-centers-spending)**
+**[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
 
-Axios • 2h ago
-
----
-
-**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://finance.yahoo.com/news/andreessen-horowitz-makes-3-billion-121031191.html)**
-
-A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
-
-Yahoo Finance • 1d ago
-
----
-
-**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment/)**
-
-OpenAI • 1d ago
-
----
-
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqcaVrz3fRRIRaLb6P4xu_qvYyifilRdnIn9GKiQfWTi3vosLcNU7mJ-&gaa_ts=696f7e2b&gaa_sig=W97lBnWfoOr0M_K_Q5eB9XOeQMkRsaIhbPrYtaNC0hxYq13tBOt1oUxqRbaxHNKyFxj61SBaJjhwdVxrSPMqyg%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Axios • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 159 • 💬 176 • 1d ago
+⬆️ 159 • 💬 177 • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 136 • 💬 156 • 19h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 140 • 💬 162 • 19h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -233,7 +233,15 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 106 • 💬 119 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 106 • 💬 122 • 23h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+
+---
+
+**[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
+
+Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
+
+⬆️ 103 • 💬 126 • 6h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -245,27 +253,19 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
-**[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
-
-Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
-
-⬆️ 99 • 💬 123 • 5h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
-
----
-
-**[The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.ycombinator.com/item?id=46657719)**
-
-A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
-
-⬆️ 91 • 💬 95 • 3d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
-
----
-
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
 ⬆️ 84 • 💬 54 • 1d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+
+---
+
+**[Things I learned from burning myself out with AI coding agents](https://news.ycombinator.com/item?id=46678224)**
+
+Opinion: As software power tools, AI agents may make people busier than ever before.
+
+⬆️ 29 • 💬 20 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
 
 ---
 
@@ -279,7 +279,7 @@ Want to generate AI videos for free, directly on your own PC? In this video, I'l
 
 📺 Kevin Stratvert
 
-👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 5h ago
+👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 6h ago
 
 ---
 
@@ -309,7 +309,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 18h ago
+👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 19h ago
 
 ---
 
@@ -339,7 +339,7 @@ AI vs Human: Is the "Hand-Drawn" era over? ✍️ vs I put AI to the ultimate te
 
 📺 Hayk_Animation
 
-👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 12h ago
+👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 13h ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 667 • 11m ago
+⬇️ 15,168 • ❤️ 667 • 55m ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 371 • 4d ago
+⬇️ 35,593 • ❤️ 371 • 5d ago
 
 ---
 
@@ -431,7 +431,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 316 • 23h ago
+⬇️ 31,778 • ❤️ 316 • 1d ago
 
 ---
 
@@ -491,7 +491,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 17,086 • ❤️ 211 • 4d ago
+⬇️ 17,086 • ❤️ 211 • 5d ago
 
 ---
 
@@ -507,7 +507,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 9 • 💬 3 • ⭐ 279 • 3d ago
+▲ 9 • 💬 3 • ⭐ 279 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 445 • 21h ago
+⭐ 8.6k • 🔱 445 • 22h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 862 • 2h ago
+⭐ 5.2k • 🔱 862 • 3h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.0k • 46m ago
+⭐ 4.0k • 🔱 4.0k • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 150 • 3h ago
+⭐ 1.9k • 🔱 150 • 4h ago
 
 ---
 
