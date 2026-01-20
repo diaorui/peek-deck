@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T07:50:56.306253+00:00'
+updated: '2026-01-20T08:35:00.673866+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 07:50 UTC  
+**Last Updated:** January 20, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Higgsfield AI founded by ex-Snap exec, lands $1.3B valuation & becomes fastest scaling GenAI company ever](https://www.reddit.com/r/artificial/comments/1qhtstp/higgsfield_ai_founded_by_exsnap_exec_lands_13b/)**
-
-Higgsfield says it reached a $200M annual run rate in under nine months, doubling revenue from $100M in about two months. Since April 2025, more than 15M users have joined and the platform now generates around 4.5M videos every day, mostly for ads and marketing. In their LinkedIn post,they mentioned that Higgsfield is officially the fastest-scaling GenAl company in history. Source: TechCrunch/Higgsfield
-
-🔗 [TechCrunch](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) • 1h ago
-
----
-
 **[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
 🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 17h ago
+
+---
+
+**[Higgsfield AI founded by ex-Snap exec, lands $1.3B valuation & becomes fastest scaling GenAI company ever](https://www.reddit.com/r/artificial/comments/1qhtstp/higgsfield_ai_founded_by_exsnap_exec_lands_13b/)**
+
+Higgsfield says it reached a $200M annual run rate in under nine months, doubling revenue from $100M in about two months. Since April 2025, more than 15M users have joined and the platform now generates around 4.5M videos every day, mostly for ads and marketing. In their LinkedIn post,they mentioned that Higgsfield is officially the fastest-scaling GenAl company in history. Source: TechCrunch/Higgsfield
+
+🔗 [TechCrunch](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) • 1h ago
 
 ---
 
@@ -61,19 +61,25 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 ---
 
-**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
-
-NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
-
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 4h ago
-
----
-
 **[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
+2h ago
+
+---
+
+**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
+
 1h ago
+
+---
+
+**[NVIDIA Contacted Anna’s Archive to Secure Access to Millions of Pirated Books](https://www.reddit.com/r/artificial/comments/1qhp7iv/nvidia_contacted_annas_archive_to_secure_access/)**
+
+NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
+
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 5h ago
 
 ---
 
@@ -81,7 +87,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-1h ago
+2h ago
 
 ---
 
@@ -93,17 +99,11 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 ---
 
-**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
-
-27m ago
-
----
-
 **[Ant-backed Chinese AI agent developer DeepWisdom aims to help solo entrepreneurs](https://www.reddit.com/r/artificial/comments/1qh1pmw/antbacked_chinese_ai_agent_developer_deepwisdom/)**
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 20h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 21h ago
 
 ---
 
@@ -127,25 +127,11 @@ Fortune • 17h ago
 
 ---
 
-**[UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn](https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca)**
+**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
 
-Government, Bank of England and FCA criticised for taking ‘wait-and-see’ approach to AI use in financial sector
+AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-The Guardian • 7h ago
-
----
-
-**[Britain needs 'AI stress tests' for financial services, lawmakers say](https://www.reuters.com/sustainability/boards-policy-regulation/britain-needs-ai-stress-tests-financial-services-lawmakers-say-2026-01-20/)**
-
-Reuters • 7h ago
-
----
-
-**[UK Lawmakers Call for AI Stress Tests on Banks as Risks Mount](https://www.bloomberg.com/news/articles/2026-01-20/uk-lawmakers-call-for-ai-stress-tests-on-banks-as-risks-mount)**
-
-Britain’s financial regulators should start stress-testing the risks posed by artificial intelligence because their current wait-and-see approach leaves the public and economy in danger of “serious harm,” a group of lawmakers warned.
-
-Bloomberg • 7h ago
+The Guardian • 1d ago
 
 ---
 
@@ -153,21 +139,21 @@ Bloomberg • 7h ago
 
 Memory capacity has quickly emerged as a bottleneck in the AI build-out.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Baidu’s AI Assistant Reaches Milestone of 200 Million Monthly Active Users](https://www.wsj.com/tech/ai/baidus-ai-assistant-reaches-milestone-of-200-million-monthly-active-users-2ad30bfb?gaa_at=eafs&gaa_n=AWEtsqcdBO_8FWF9FA210e-VbRHcBgWc0SUb0VrPpCGYCpEQtlUcAiIt9O5v&gaa_ts=696f3230&gaa_sig=2qnvE3ui3Xdb55lf93h0rp2AXNVL1GeLKRJULGSh-wNjj_SOWPVrV3C4KYhaUQ1A2_GVx0qpr4efnIV4G5Ciqg%3D%3D)**
+**[Execs at Davos say AI's biggest problem isn't hype — it's security](https://www.businessinsider.com/ai-security-risks-worry-ey-kpmg-execs-cybersecurity-davos-2026-1)**
 
-The Wall Street Journal • 1h ago
+EY and KPMG executives at Davos said that AI security is a big risk, especially AI agents and, looking ahead, quantum computing.
+
+Business Insider • 42m ago
 
 ---
 
-**[Global Business Leans on AI and M&A for Growth in Pre-Davos Poll](https://www.bloomberg.com/news/articles/2026-01-20/global-business-leans-on-ai-and-m-a-for-growth-in-pre-davos-poll)**
+**[Baidu’s AI Assistant Reaches Milestone of 200 Million Monthly Active Users](https://www.wsj.com/tech/ai/baidus-ai-assistant-reaches-milestone-of-200-million-monthly-active-users-2ad30bfb?gaa_at=eafs&gaa_n=AWEtsqcBCb3i0rUGllXHUE371VEngrYI6PQC5Ybko42MXjA-sZPbzResddW1&gaa_ts=696f41a1&gaa_sig=oSTa-uCjLy8OdHUuLHtlhtPM2nSIACmbC88YUDyF2WewL9VCzBEvWKszFylrH15i7aPAhOO1m2C5TtS7Ux0wag%3D%3D)**
 
-Global business leaders are relying on new technologies and acquisitions to drive growth against a tense economic backdrop, according to an EY-Parthenon survey.
-
-Bloomberg • 36m ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -181,7 +167,7 @@ CNN • 1d ago
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -189,7 +175,21 @@ The New York Times • 21h ago
 
 A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment)**
+
+OpenAI • 1d ago
+
+---
+
+**[Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)**
+
+U.S.-based AI startups continue to rake in venture funding with multiple companies already raising impressive rounds in 2025.
+
+TechCrunch • 14h ago
 
 ---
 
@@ -207,13 +207,13 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 225 • 💬 85 • 21h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 227 • 💬 85 • 22h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 156 • 💬 173 • 18h ago
+⬆️ 158 • 💬 174 • 19h ago
 
 ---
 
@@ -221,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 130 • 💬 152 • 13h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 133 • 💬 154 • 13h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -237,7 +237,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 105 • 💬 113 • 16h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 105 • 💬 114 • 17h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -283,7 +283,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 39K • 👍 1K • 💬 292 • ⏱️ 10:58 • 12h ago
+👁️ 39K • 👍 1K • 💬 292 • ⏱️ 10:58 • 13h ago
 
 ---
 
@@ -303,7 +303,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 13K • 👍 657 • 💬 169 • ⏱️ 9:12 • 19h ago
+👁️ 13K • 👍 657 • 💬 169 • ⏱️ 9:12 • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greate
 
 📺 OpenAI
 
-👁️ 17K • 👍 698 • 💬 89 • ⏱️ 49:42 • 15h ago
+👁️ 17K • 👍 698 • 💬 89 • ⏱️ 49:42 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ AI -----------------------------------------------------------------------------
 
 📺 Raid Owl
 
-👁️ 7K • 👍 428 • 💬 108 • ⏱️ 22:52 • 18h ago
+👁️ 7K • 👍 428 • 💬 108 • ⏱️ 22:52 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 553 • 4h ago
+⬇️ 15,168 • ❤️ 553 • 5h ago
 
 ---
 
@@ -447,7 +447,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 313 • 17h ago
+⬇️ 31,778 • ❤️ 313 • 18h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 431 • 15h ago
+⭐ 8.4k • 🔱 431 • 16h ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.1k • 🔱 840 • 5h ago
+⭐ 5.1k • 🔱 840 • 6h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.9k • 🔱 3.8k • 17h ago
+⭐ 3.9k • 🔱 3.8k • 18h ago
 
 ---
 
@@ -732,7 +732,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 148 • 5h ago
+⭐ 1.8k • 🔱 148 • 6h ago
 
 ---
 

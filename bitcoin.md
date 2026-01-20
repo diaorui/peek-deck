@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T07:50:56.314741+00:00'
+updated: '2026-01-20T08:35:00.682515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 07:50 UTC  
+**Last Updated:** January 20, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,017.24
+### $91,015.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -6.2%  
+**24h:** -2.1%  
+**7d:** -6.1%  
 **30d:** +3.1%  
 **90d:** -17.3%  
 **1y:** -13.9%  
@@ -87,7 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,27 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-6h ago
+7h ago
+
+---
+
+**[This is my favorite thing to listen every Monday.](https://www.reddit.com/r/Bitcoin/comments/1qhsa2i/this_is_my_favorite_thing_to_listen_every_monday/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 3h ago
+
+---
+
+**[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
+
+3h ago
+
+---
+
+**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
+
+13h ago
 
 ---
 
@@ -115,29 +135,9 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 ---
 
-**[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
-
-13h ago
-
----
-
-**[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
-
-2h ago
-
----
-
 **[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
-17h ago
-
----
-
-**[This is my favorite thing to listen every Monday.](https://www.reddit.com/r/Bitcoin/comments/1qhsa2i/this_is_my_favorite_thing_to_listen_every_monday/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 2h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -153,15 +153,17 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
+**[Bitcoin whale wakes up after 12 years to move $84 million fortune](https://www.coindesk.com/markets/2026/01/20/bitcoin-whale-wakes-up-after-12-years-to-move-usd84-million-fortune)**
 
-The Block • 4h ago
+A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
+
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -185,7 +187,7 @@ CoinDesk • 9h ago
 
 Traders on Derive are pricing a 30% chance of BTC falling below $80,000 by the end of June.
 
-CoinDesk • 51m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -197,17 +199,21 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-193117616.html)**
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-114607600.html)**
 
-A Bitcoin (CRYPTO: BTC) whale, inactive for more than a decade, has returned to the scene, offloading half of its Bitcoin stash and securing a profit of 31,250%. The Bitcoin wallet, dubbed “5K BTC OG,” started selling its Bitcoin assets, originally purchased in 2012 for a mere $332 per Bitcoin. The wallet, which initially held 5,000 BTC, has sold 2,500 BTC, raking in approximately $265 million at an average exit price of $106,164. As per the report by Lookonchain, an additional 500 BTC was moved
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfGQaAKsurtLnGdUITHdQojsEFJSiE81pNgBwpNMgN_3sFZyVyTdZJw&gaa_ts=696f3232&gaa_sig=xnk_uKfrkYp8B0uKIdwx3Q8xL9zSJPGu9mFibjcaDFxr8VxTz7wLbMBR1q8eWwV0xxOOVwsobDG1dKWK9GHqaw%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfy3hvXWlMnpUwwCF5K1mk98pQZUVjAsClbtfYfO1F23p66POaJOBEs&gaa_ts=696f41a3&gaa_sig=KuukxmaPuJFFy-MK7MYlCFt3i4El1EkDXf-HJIhBKM9hWgbhrojhkWJsub1X9UegMWBhwGrEeOFEokpWz6jRtw%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
+
+---
+
+**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
+
+The Block • 5h ago
 
 ---
 
@@ -219,14 +225,6 @@ Gizmodo • 1d ago
 
 ---
 
-**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-CNBC • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +233,7 @@ CNBC • 2d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 18h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 19h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -259,7 +257,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 21h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 22h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -275,7 +273,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 13h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 14h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -317,7 +315,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 271 • ⏱️ 21:56 • 7h ago
+👁️ 23K • 👍 2K • 💬 271 • ⏱️ 21:56 • 8h ago
 
 ---
 
@@ -327,7 +325,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 194 • 💬 62 • ⏱️ 9:16 • 2h ago
+👁️ 2K • 👍 194 • 💬 62 • ⏱️ 9:16 • 3h ago
 
 ---
 
@@ -347,7 +345,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 846 • 💬 315 • ⏱️ 10:31 • 13h ago
+👁️ 11K • 👍 846 • 💬 315 • ⏱️ 10:31 • 14h ago
 
 ---
 
@@ -377,7 +375,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 186 • 💬 15 • ⏱️ 5:28 • 10h ago
+👁️ 3K • 👍 186 • 💬 15 • ⏱️ 5:28 • 11h ago
 
 ---
 
@@ -407,7 +405,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 10K • 👍 1K • 💬 177 • ⏱️ 8:03 • 22h ago
+👁️ 10K • 👍 1K • 💬 177 • ⏱️ 8:03 • 23h ago
 
 ---
 
