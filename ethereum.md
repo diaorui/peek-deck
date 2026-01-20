@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T14:32:34.173862+00:00'
+updated: '2026-01-20T15:32:45.991757+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 14:32 UTC  
+**Last Updated:** January 20, 2026 at 15:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,081.35
+### $3,032.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -8.7%  
-**30d:** +1.9%  
-**90d:** -20.6%  
-**1y:** -7.6%  
+**24h:** -5.9%  
+**7d:** -9.7%  
+**30d:** +0.8%  
+**90d:** -21.4%  
+**1y:** -8.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 18h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-12h ago
+13h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-18h ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-21h ago
+22h ago
 
 ---
 
@@ -152,17 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
+
+Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
+
+Decrypt • 1d ago
+
+---
+
 **[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 12h ago
-
----
-
-**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
-
-CCN.com • 4h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -172,11 +174,9 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
+**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
 
-Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
-
-Decrypt • 1d ago
+CCN.com • 5h ago
 
 ---
 
@@ -184,7 +184,27 @@ Decrypt • 1d ago
 
 It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdBMUonr0r1BHh7kuGabWx-mkM4Yq-CFpa1mjeYLG4Q9YiDE6-4BGlz&gaa_ts=696fa38e&gaa_sig=LEXpevYFaurGPBibMADva88mPeQ_L7VVv9lgQ6LmXKsuiWgdJO6HXSToTFxPHK2yqYlBulxTGlq_jjvlX9brEA%3D%3D)**
+
+MarketWatch • 32m ago
+
+---
+
+**[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
+
+CCN.com • 4h ago
 
 ---
 
@@ -196,33 +216,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
-
-CCN.com • 3h ago
-
----
-
 **[Ethereum Poised For $4,000 Breakout? Expert Pinpoints On-Chain Triggers For Potential Rally](https://www.tradingview.com/news/newsbtc:ee31cdd67094b:0-ethereum-poised-for-4-000-breakout-expert-pinpoints-on-chain-triggers-for-potential-rally/)**
 
 As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
 
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
-
-Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
-
-CryptoSlate • 1d ago
-
----
-
-**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
-
-Here's Vitalik Buterin's new vision for Ethereum in 2026.
-
-AMBCrypto • 2d ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -246,7 +244,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 199 • 👍 12 • 💬 1 • ⏱️ 4:56 • 5h ago
+👁️ 199 • 👍 12 • 💬 1 • ⏱️ 4:56 • 6h ago
 
 ---
 
@@ -256,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 12 • ⏱️ 6:26 • 12h ago
+👁️ 2K • 👍 118 • 💬 12 • ⏱️ 6:26 • 13h ago
 
 ---
 
@@ -286,7 +284,7 @@ In this episode of The Milk Road Show, we sit down with Rune Christensen (Founde
 
 📺 Milk Road
 
-👁️ 1K • 👍 69 • 💬 55 • ⏱️ 31:03 • 18h ago
+👁️ 1K • 👍 69 • 💬 55 • ⏱️ 31:03 • 19h ago
 
 ---
 
@@ -296,7 +294,7 @@ Dive into Ethereum's future in this quick 4-minute breakdown! With Pectra and Fu
 
 📺 Altcoin Media
 
-👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 14h ago
+👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 15h ago
 
 ---
 
@@ -306,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 21h ago
+👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 22h ago
 
 ---
 
@@ -326,7 +324,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 1K • 👍 303 • 1h ago
+👁️ 1K • 👍 303 • 2h ago
 
 ---
 

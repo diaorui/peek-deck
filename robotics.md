@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T14:32:34.177083+00:00'
+updated: '2026-01-20T15:32:45.995053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 14:32 UTC  
+**Last Updated:** January 20, 2026 at 15:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-4h ago
+5h ago
 
 ---
 
@@ -44,15 +44,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ODM Humanoid demo show.
 
-2h ago
-
----
-
-**[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
-
-Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
-
-14h ago
+3h ago
 
 ---
 
@@ -60,7 +52,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-4h ago
+5h ago
 
 ---
 
@@ -68,13 +60,21 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-2h ago
+3h ago
+
+---
+
+**[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
+
+Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
+
+15h ago
 
 ---
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -82,7 +82,7 @@ Walking around CES, I had one of those "everything is AI now" moments. Even robo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 10h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 11h ago
 
 ---
 
@@ -98,7 +98,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 2h ago
 
 ---
 
@@ -106,13 +106,21 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-23h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
+
+---
 
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
@@ -122,11 +130,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[Introducing ‘Coco,’ Jersey City’s new delivery robot](https://www.nj.com/news/2026/01/introducing-coco-jersey-citys-new-delivery-robot.html)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+Coco weighs 100 pounds, has zero emissions and travels on sidewalks at speeds of up to 5 mph.
 
-Fortune • 23h ago
+NJ.com • 3h ago
 
 ---
 
@@ -150,7 +158,7 @@ Tom's Hardware • 1d ago
 
 Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -166,7 +174,15 @@ WRGB • 2d ago
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 5h ago
+CBC • 6h ago
+
+---
+
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 4h ago
 
 ---
 
@@ -175,22 +191,6 @@ CBC • 5h ago
 Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
 
 KPTV • 2d ago
-
----
-
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
-
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
-
-The Robot Report • 1d ago
-
----
-
-**[Introducing ‘Coco,’ Jersey City’s new delivery robot](https://www.nj.com/news/2026/01/introducing-coco-jersey-citys-new-delivery-robot.html)**
-
-Coco weighs 100 pounds, has zero emissions and travels on sidewalks at speeds of up to 5 mph.
-
-NJ.com • 2h ago
 
 ---
 

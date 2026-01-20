@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T14:32:34.167775+00:00'
+updated: '2026-01-20T15:32:45.985584+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 14:32 UTC  
+**Last Updated:** January 20, 2026 at 15:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,927.55
+### $90,130.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -6.4%  
-**30d:** +2.8%  
-**90d:** -17.5%  
-**1y:** -14.2%  
+**24h:** -2.9%  
+**7d:** -6.5%  
+**30d:** +2.7%  
+**90d:** -17.6%  
+**1y:** -14.3%  
 
 ---
 
@@ -77,23 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
-
-13h ago
-
----
-
 **[Traveled to Mexico with only Bitcoin - withdrew pesos in 2 minutes](https://www.reddit.com/r/Bitcoin/comments/1qhvv89/traveled_to_mexico_with_only_bitcoin_withdrew/)**
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-5h ago
+6h ago
+
+---
+
+**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
+
+14h ago
+
+---
+
+**[What happened?](https://www.reddit.com/r/Bitcoin/comments/1qi2gw3/what_happened/)**
+
+1h ago
 
 ---
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +107,7 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Hard to buy the dip when you're already all in!
 
-21h ago
+22h ago
 
 ---
 
@@ -109,13 +115,13 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-11h ago
+12h ago
 
 ---
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +129,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-13h ago
+14h ago
 
 ---
 
@@ -131,23 +137,15 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 10h ago
 
 ---
 
-**[When do you think BTC will catch up to gold’s market cap?](https://www.reddit.com/r/Bitcoin/comments/1qhzic4/when_do_you_think_btc_will_catch_up_to_golds/)**
+**[The Dollar is a Ponzi](https://www.reddit.com/r/Bitcoin/comments/1qhzm3u/the_dollar_is_a_ponzi/)**
 
-At the moment, BTC market cap is about $1.8 – $1.9 trillion USD. Gold market cap is about $30 trillion – $32 trillion USD.
+Hey everyone - I made this video explaining why Fiat is a ponzi and why we need to return to hard money. Check it out and lmk if you pick something up from it.
 
-2h ago
-
----
-
-**[Bear market](https://www.reddit.com/r/Bitcoin/comments/1qhtn1m/bear_market/)**
-
-Tell me your 52 weeks low this year
-
-8h ago
+🔗 [youtu.be](https://youtu.be/BYK6m299bMw?si=OH5QLn4tyVu_H01i) • 3h ago
 
 ---
 
@@ -159,13 +157,13 @@ Tell me your 52 weeks low this year
 
 A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdRDfaDqbs4RIBIAUaDHvkrxin-H2mD4q1yNM4oQ2lBxOiWvtGrdC2G&gaa_ts=696f956b&gaa_sig=UDndcOVhBHacryIVHiWHJXH8toKWrLdpiDJ62GSHSLuuKfs_q9rLIGBoae1Rg9kv1OieS0jxpt26UKhMUmB41A%3D%3D)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -173,7 +171,7 @@ MarketWatch • 23h ago
 
 GameStop transferred 2,396 BTC total to Coinbase Prime in January 2026. The moves include 100 BTC on Jan 17 and 2,296 BTC on Jan 20. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +179,7 @@ Yahoo Finance • 1h ago
 
 Analysts warn macro risks, not charts, could drive Bitcoin to $58K as liquidity stays tight and rate cuts stall.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -189,7 +187,7 @@ CoinDesk • 2h ago
 
 The company now holds 709,715 bitcoin, acquired for nearly $54 billion.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -211,13 +209,13 @@ Yahoo Finance • 1d ago
 
 The day ahead in crypto: Jan. 20, 2026
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -225,7 +223,7 @@ The Block • 11h ago
 
 Bitcoin steadied after a sharp selloff, with analysts citing ETF inflows as support for its longer-term outlook despite macro shocks.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -277,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 20h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -287,25 +285,23 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 ---
 
+**[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
+
+⬆️ 1 • 💬 0 • 45m ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+
+---
+
 **[Confronted over Greenland Europe is ditching its softly-softly approach to Trump](https://news.ycombinator.com/item?id=46690498)**
 
 Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler
 
-⬆️ 6 • 💬 1 • 3h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
+⬆️ 7 • 💬 1 • 4h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
 
 ---
 
 **[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
 
 ⬆️ 4 • 💬 5 • 4d ago
-
----
-
-**[Finding Prime Clusters](https://news.ycombinator.com/item?id=46672379)**
-
-Finding prime clusters is computationally challenging, but solutions are easy to verify. It is used as the proof-of-work task in the Riecoin cryptocurrency.
-
-⬆️ 3 • 💬 0 • 1d ago • [John D. Cook | Applied Mathematics Consulting](https://www.johndcook.com/blog/2026/01/18/prime-clusters-riecoin/)
 
 ---
 
@@ -319,7 +315,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 4h ago
+👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 5h ago
 
 ---
 
@@ -329,7 +325,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 4h ago
+👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 5h ago
 
 ---
 
@@ -339,7 +335,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 5h ago
+👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 6h ago
 
 ---
 
@@ -349,7 +345,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 298 • 💬 67 • ⏱️ 7:24 • 3h ago
+👁️ 2K • 👍 298 • 💬 67 • ⏱️ 7:24 • 4h ago
 
 ---
 
@@ -359,7 +355,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 14h ago
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 15h ago
 
 ---
 
@@ -369,7 +365,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 6h ago
+👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 7h ago
 
 ---
 
@@ -379,7 +375,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 9h ago
+👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 10h ago
 
 ---
 
@@ -389,7 +385,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 324 • ⏱️ 8:54 • 14h ago
+👁️ 38K • 👍 2K • 💬 324 • ⏱️ 8:54 • 15h ago
 
 ---
 
@@ -399,7 +395,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 355 • ⏱️ 8:03 • 20h ago
+👁️ 27K • 👍 1K • 💬 355 • ⏱️ 8:03 • 21h ago
 
 ---
 
@@ -409,7 +405,7 @@ In this video, we explore one of the most aesthetically pleasing and insightful 
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 145 • ⏱️ 8:01 • 16h ago
+👁️ 47K • 👍 3K • 💬 145 • ⏱️ 8:01 • 17h ago
 
 ---
 

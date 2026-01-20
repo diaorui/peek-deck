@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T14:32:34.159364+00:00'
+updated: '2026-01-20T15:32:45.976882+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 14:32 UTC  
+**Last Updated:** January 20, 2026 at 15:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
-
-7h ago
-
----
-
 **[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-8h ago
-
----
-
-**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
-
-Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 23h ago
+9h ago
 
 ---
 
@@ -63,31 +49,15 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-11h ago
+12h ago
 
 ---
 
-**[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
+**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
 
-When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
+Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 4h ago
-
----
-
-**[Ai courses that are actually helpful for a law student](https://www.reddit.com/r/artificial/comments/1qhwxqx/ai_courses_that_are_actually_helpful_for_a_law/)**
-
-Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
-
-4h ago
-
----
-
-**[OpenAI to test ads in ChatGPT as it burns through billions](https://www.reddit.com/r/artificial/comments/1qi0zg9/openai_to_test_ads_in_chatgpt_as_it_burns_through/)**
-
-Ads coming to free tier and new $8/month ChatGPT Go plan in US.
-
-🔗 [Ars Technica](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 1d ago
 
 ---
 
@@ -95,7 +65,39 @@ Ads coming to free tier and new $8/month ChatGPT Go plan in US.
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-4h ago
+5h ago
+
+---
+
+**[I built an AI Investigator using Two Knowledge Graphs Connected to a Chatbot That Combed Through the Epstein Files. This is What it Found Within a Few Minutes](https://www.reddit.com/r/artificial/comments/1qi3u9p/i_built_an_ai_investigator_using_two_knowledge/)**
+
+When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
+
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 13m ago
+
+---
+
+**[Track any topic across the internet and get aggregated, ranked results from multiple sources in one place.](https://www.reddit.com/r/artificial/comments/1qi3kye/track_any_topic_across_the_internet_and_get/)**
+
+https://apify.com/mick-johnson/topic-radar/ Track any topic across the internet and get aggregated, ranked results from multiple sources in one place. Perfect for market research, competitive intelligence, trend monitoring, content creation, and staying updated on any subject.
+
+23m ago
+
+---
+
+**[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
+
+When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
+
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 5h ago
+
+---
+
+**[Ai courses that are actually helpful for a law student](https://www.reddit.com/r/artificial/comments/1qhwxqx/ai_courses_that_are_actually_helpful_for_a_law/)**
+
+Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
+
+5h ago
 
 ---
 
@@ -103,15 +105,15 @@ One impression I keep having is that most AI company marketing, success stories,
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 11h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 12h ago
 
 ---
 
-**[One-Minute Daily AI News 1/19/2026](https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/)**
+**[OpenAI to test ads in ChatGPT as it burns through billions](https://www.reddit.com/r/artificial/comments/1qi0zg9/openai_to_test_ads_in_chatgpt_as_it_burns_through/)**
 
-Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
+Ads coming to free tier and new $8/month ChatGPT Go plan in US.
 
-8h ago
+🔗 [Ars Technica](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) • 2h ago
 
 ---
 
@@ -121,7 +123,7 @@ Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Kore
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -137,19 +139,19 @@ CNN • 2d ago
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqe3FgB9a1-8Xwr2-0BUTitpLFyg1BukfyMKtcdcmUWW35qfQIi82iON&gaa_ts=696f956a&gaa_sig=ES1L1_XrZxCdjL2R5XyoANcK6m7k5hlIgNn5zOkk9hpC9k9M7-yFL6Emxy_rVbKu98wBvhEpYbfGIuHeP-hK-g%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
 **[Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea](https://www.bloomberg.com/news/articles/2026-01-20/anthropic-ceo-says-selling-advanced-ai-chips-to-china-is-crazy)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -157,13 +159,13 @@ Bloomberg • 2h ago
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
 **[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
 
-Bloomberg • 16h ago
+Bloomberg • 17h ago
 
 ---
 
@@ -171,7 +173,7 @@ Bloomberg • 16h ago
 
 The AI5 chip will "make the cars almost perfect and greatly enhance Optimus," Tesla CEO Elon Musk added in a post on X.
 
-Interesting Engineering • 46m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -185,7 +187,7 @@ The Guardian • 2d ago
 
 **[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -197,19 +199,19 @@ Axios • 4h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 303 • 💬 422 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 303 • 💬 425 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 228 • 💬 85 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 229 • 💬 85 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 159 • 💬 177 • 1d ago
+⬆️ 159 • 💬 178 • 1d ago
 
 ---
 
@@ -217,7 +219,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 140 • 💬 162 • 19h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 142 • 💬 162 • 20h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -229,19 +231,19 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 ---
 
-**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
-
-: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
-
-⬆️ 106 • 💬 122 • 23h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
-
----
-
 **[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 103 • 💬 126 • 6h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 107 • 💬 129 • 7h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+
+---
+
+**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
+
+: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
+
+⬆️ 106 • 💬 123 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -249,7 +251,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 102 • 💬 94 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 102 • 💬 94 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 
 ---
 
@@ -265,7 +267,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 Opinion: As software power tools, AI agents may make people busier than ever before.
 
-⬆️ 29 • 💬 20 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
+⬆️ 29 • 💬 21 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
 
 ---
 
@@ -279,7 +281,7 @@ Want to generate AI videos for free, directly on your own PC? In this video, I'l
 
 📺 Kevin Stratvert
 
-👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 6h ago
+👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 7h ago
 
 ---
 
@@ -309,7 +311,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 19h ago
+👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 20h ago
 
 ---
 
@@ -329,7 +331,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 900 • 💬 65 • ⏱️ 7:01 • 1d ago
+👁️ 18K • 👍 900 • 💬 65 • ⏱️ 7:01 • 2d ago
 
 ---
 
@@ -339,7 +341,7 @@ AI vs Human: Is the "Hand-Drawn" era over? ✍️ vs I put AI to the ultimate te
 
 📺 Hayk_Animation
 
-👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 13h ago
+👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 14h ago
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 667 • 55m ago
+⬇️ 15,168 • ❤️ 667 • 1h ago
 
 ---
 
@@ -648,7 +650,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 9h ago
+⭐ 9.3k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -658,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 445 • 22h ago
+⭐ 8.6k • 🔱 445 • 23h ago
 
 ---
 
@@ -688,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 862 • 3h ago
+⭐ 5.2k • 🔱 862 • 4h ago
 
 ---
 
@@ -698,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.0k • 1h ago
+⭐ 4.0k • 🔱 4.0k • 2h ago
 
 ---
 
@@ -728,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 150 • 4h ago
+⭐ 1.9k • 🔱 150 • 5h ago
 
 ---
 
