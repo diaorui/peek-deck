@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T09:34:51.616726+00:00'
+updated: '2026-01-20T10:29:50.157279+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 09:34 UTC  
+**Last Updated:** January 20, 2026 at 10:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,112.64
+### $3,106.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -7.8%  
+**24h:** -3.9%  
+**7d:** -7.7%  
 **30d:** +3.0%  
 **90d:** -19.7%  
 **1y:** -6.6%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 13h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-7h ago
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-13h ago
+14h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-16h ago
+17h ago
 
 ---
 
@@ -152,19 +152,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum posts record onchain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
+**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Ethereum Network Activity Surge Linked to Address Poisoning Attacks: Researcher](https://finance.yahoo.com/news/ethereum-network-activity-surge-linked-062621315.html)**
+**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
 
-A recent spike in activity on the Ethereum network may be partly driven by address poisoning attacks that have become cheaper to execute amid falling transaction fees, according to security researcher Andrey Sergeenkov. Key Takeaways: Part of Ethereum’s recent activity surge may be driven by address poisoning spam rather than ...
-
-Yahoo Finance • 3h ago
+CCN.com • 29m ago
 
 ---
 
@@ -178,13 +176,15 @@ The Block • 1d ago
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
-**[Vitalik Buterin declares 2026 the year Ethereum reverses 'backsliding' of self-sovereignty and trustlessness](https://www.theblock.co/post/386043/vitalik-buterin-declares-2026-the-year-ethereum-reverses-backsliding-of-self-sovereignty-and-trustlessness)**
+**[Ethereum Validator Exit Queue Hits Zero as Staking Demand Surges](https://finance.yahoo.com/news/ethereum-validator-exit-queue-hits-095400552.html)**
 
-The Block • 3d ago
+Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 3d ago
 
 As Ethereum (ETH) kicks off the year with a recovery past the critical $3,000 threshold amid a broader cryptocurrency market rally in early 2026, it continues to struggle against a key resistance level at $3,400. Currently, the second-largest cryptocurrency is entering a consolidation phase below t…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -204,23 +204,25 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Validator Exit Queue Hits Zero as Staking Demand Surges](https://finance.yahoo.com/news/ethereum-validator-exit-queue-hits-095400552.html)**
+**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
 
-Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
+Here's Vitalik Buterin's new vision for Ethereum in 2026.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ETFs Face Sharp Profit-Taking as Ethereum Products Maintain Resilience](https://financefeeds.com/bitcoin-etfs-face-sharp-profit-taking-as-ethereum-products-maintain-resilience/)**
-
-FinanceFeeds • 1d ago
+AMBCrypto • 2d ago
 
 ---
 
 **[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
 
-TipRanks • 12h ago
+TipRanks • 13h ago
+
+---
+
+**[3 Cryptocurrencies Poised for a Comeback in 2026](https://www.fool.com/investing/2026/01/17/x-cryptocurrencies-poised-for-a-comeback-in-2026/)**
+
+This year's top breakout candidates all posted all-time highs in 2025 before ending the year in the red.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 22h ago
+👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 23h ago
 
 ---
 
@@ -244,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 27 • ⏱️ 6:26 • 7h ago
+👁️ 1K • 👍 97 • 💬 27 • ⏱️ 6:26 • 8h ago
 
 ---
 
@@ -264,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 37 • ⏱️ 7:47 • 16h ago
+👁️ 2K • 👍 166 • 💬 37 • ⏱️ 7:47 • 17h ago
 
 ---
 
@@ -284,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 612 • 👍 16 • 💬 7 • ⏱️ 4:52 • 23h ago
+👁️ 612 • 👍 16 • 💬 7 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -294,7 +296,7 @@ Dive into Ethereum's future in this quick 4-minute breakdown! With Pectra and Fu
 
 📺 Altcoin Media
 
-👁️ 16 • 👍 2 • 💬 3 • ⏱️ 3:20 • 9h ago
+👁️ 16 • 👍 2 • 💬 3 • ⏱️ 3:20 • 10h ago
 
 ---
 
@@ -304,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 401 • 👍 24 • 💬 22 • ⏱️ 8:16 • 15h ago
+👁️ 401 • 👍 24 • 💬 22 • ⏱️ 8:16 • 16h ago
 
 ---
 

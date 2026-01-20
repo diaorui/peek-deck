@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T09:34:51.610084+00:00'
+updated: '2026-01-20T10:29:50.148839+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 09:34 UTC  
+**Last Updated:** January 20, 2026 at 10:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,015.83
+### $91,098.74
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.1%  
-**7d:** -6.1%  
-**30d:** +3.1%  
-**90d:** -17.3%  
-**1y:** -13.9%  
+**7d:** -5.9%  
+**30d:** +3.4%  
+**90d:** -17.1%  
+**1y:** -13.7%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-8h ago
+9h ago
+
+---
+
+**[Traveled to Mexico with only Bitcoin - withdrew pesos in 2 minutes](https://www.reddit.com/r/Bitcoin/comments/1qhvv89/traveled_to_mexico_with_only_bitcoin_withdrew/)**
+
+Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
+
+1h ago
 
 ---
 
@@ -95,7 +103,13 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-6h ago
+7h ago
+
+---
+
+**[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
+
+5h ago
 
 ---
 
@@ -103,7 +117,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-8h ago
+9h ago
 
 ---
 
@@ -111,19 +125,13 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 4h ago
-
----
-
-**[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
-
-4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 5h ago
 
 ---
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -131,19 +139,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-19h ago
+20h ago
 
 ---
 
-**[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
+**[Bear market](https://www.reddit.com/r/Bitcoin/comments/1qhtn1m/bear_market/)**
 
-19h ago
-
----
-
-**[Daily Discussion, January 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1qht67p/daily_discussion_january_20_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Tell me your 52 weeks low this year
 
 3h ago
 
@@ -153,25 +155,51 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin whale wakes up after 12 years to move $84 million fortune](https://www.coindesk.com/markets/2026/01/20/bitcoin-whale-wakes-up-after-12-years-to-move-usd84-million-fortune)**
+**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
+The Block • 7h ago
 
-CoinDesk • 4h ago
+---
+
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqeUCvM6ehWJtv3IynPH98mpNbgebAS4zLbZ9NDCHPKrCed3fg_6R9b3&gaa_ts=696f5c85&gaa_sig=k_ovs3U8MWp7E_5RqKZXy1RNs7a4vP5awwSCehIdvexlks20yHsCW5MCuXwa8EwESRP8VA8IXepi_TpGNDLqLg%3D%3D)**
+
+MarketWatch • 19h ago
+
+---
+
+**[3 Reasons Why Bitcoin’s January Is a Critical Consolidation Phase](https://finance.yahoo.com/news/3-reasons-why-bitcoin-january-091510774.html)**
+
+Data suggests Bitcoin may continue falling below $86,000, but it has entered a consolidation phase, preparing for recovery.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Trouble mounts for bitcoin and stocks as global benchmark for borrowing costs surges](https://www.coindesk.com/markets/2026/01/20/trouble-for-bitcoin-and-stocks-as-global-benchmark-for-cost-of-borrowing-hits-4-month-high)**
+
+The 10-year U.S. Treasury yield has climbed to 4.27 percent, a four-month high that raises borrowing costs across the global economy.
+
+CoinDesk • 32m ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfQTbBO5XTAjT643_CUncJc7Tp6cCxFaR7A1mk6tot9jW1rV0ceofqP&gaa_ts=696f5c85&gaa_sig=QReh3FfGW780Im-fiEtg30cr5nZNWmUVE_YO1tXwAItLDDIIUksHoHMfYpc_uca0vD5lUFXdi2v26AQXxLWGzA%3D%3D)**
+
+Barron's • 58m ago
 
 ---
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Gold Hits Record High as Bitcoin Falls on Escalating US–EU Tariff Tensions](https://finance.yahoo.com/news/gold-hits-record-high-bitcoin-045337211.html)**
+**[Bitcoin price slides on Trump’s Greenland threat. Why $10,000 is back in play, says Bloomberg analyst](https://www.dlnews.com/articles/markets/bitcoin-price-slides-on-trump-greenland-threat/)**
 
-Bitcoin and gold diverge as US–EU tariffs escalate, boosting gold while BTC slides amid risk-off sentiment.
+Bitcoin and the broader market fell on Trump’s tariff threats over Greenland. Gold rose another 1.7% as investors fled to safety.  Bloomberg analyst reiterates his $10,000 Bitcoin call, citing ‘unlimited’ competition.
 
-Yahoo Finance • 1d ago
+dlnews.com • 1d ago
 
 ---
 
@@ -179,41 +207,15 @@ Yahoo Finance • 1d ago
 
 Expect crypto volatility over the next few days on tariff headlines, one Kraken executive warned.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin has a 30% chance of falling below $80,000 by late June, options data suggests](https://www.coindesk.com/markets/2026/01/20/bitcoin-has-a-30-chance-of-falling-below-usd80-000-by-late-june-options-data-suggests)**
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
 
-Traders on Derive are pricing a 30% chance of BTC falling below $80,000 by the end of June.
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin steady above $91,500 as solana, xrp and cardano nurse weekly losses](https://www.coindesk.com/markets/2026/01/20/bitcoin-steady-above-usd91-500-as-solana-xrp-and-cardano-nurse-weekly-losses)**
-
-Tuesday’s crypto tape was steadier after Monday’s tariff-driven wobble, but sentiment remains cautious with altcoins still weaker than bitcoin.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-114607600.html)**
-
-Yahoo Finance • 21h ago
-
----
-
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfy3hvXWlMnpUwwCF5K1mk98pQZUVjAsClbtfYfO1F23p66POaJOBEs&gaa_ts=696f41a3&gaa_sig=KuukxmaPuJFFy-MK7MYlCFt3i4El1EkDXf-HJIhBKM9hWgbhrojhkWJsub1X9UegMWBhwGrEeOFEokpWz6jRtw%3D%3D)**
-
-MarketWatch • 18h ago
-
----
-
-**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
-
-The Block • 6h ago
+CNBC • 2d ago
 
 ---
 
@@ -233,7 +235,7 @@ Gizmodo • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 20h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 21h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -257,7 +259,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 23h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 1d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -273,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 15h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -315,7 +317,7 @@ BTC is at risk of breaking down. In today's video, Kyledoops shows you the downs
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 608 • 💬 8 • ⏱️ 30:58 • 1h ago
+👁️ 5K • 👍 608 • 💬 8 • ⏱️ 30:58 • 2h ago
 
 ---
 
@@ -325,7 +327,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 294 • ⏱️ 21:56 • 9h ago
+👁️ 26K • 👍 2K • 💬 294 • ⏱️ 21:56 • 10h ago
 
 ---
 
@@ -335,7 +337,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 290 • 💬 51 • ⏱️ 9:16 • 4h ago
+👁️ 3K • 👍 290 • 💬 51 • ⏱️ 9:16 • 5h ago
 
 ---
 
@@ -345,7 +347,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 169 • 💬 19 • ⏱️ 10:25 • 1h ago
+👁️ 2K • 👍 169 • 💬 19 • ⏱️ 10:25 • 2h ago
 
 ---
 
@@ -355,7 +357,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 369 • ⏱️ 8:03 • 15h ago
+👁️ 26K • 👍 1K • 💬 369 • ⏱️ 8:03 • 16h ago
 
 ---
 
@@ -365,7 +367,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 22h ago
+👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 23h ago
 
 ---
 
@@ -375,7 +377,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 871 • 💬 407 • ⏱️ 10:31 • 15h ago
+👁️ 12K • 👍 871 • 💬 407 • ⏱️ 10:31 • 16h ago
 
 ---
 
@@ -385,7 +387,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Vaykayy
 
-👁️ 7K • 👍 3K • 8h ago
+👁️ 7K • 👍 3K • 9h ago
 
 ---
 
@@ -395,7 +397,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 190 • 💬 38 • ⏱️ 5:28 • 12h ago
+👁️ 3K • 👍 190 • 💬 38 • ⏱️ 5:28 • 13h ago
 
 ---
 

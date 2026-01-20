@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T09:34:51.619987+00:00'
+updated: '2026-01-20T10:29:50.163122+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 09:34 UTC  
+**Last Updated:** January 20, 2026 at 10:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,11 +46,19 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 ---
 
+**[You can now tell a robot “Make me a chair”: Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models (Paper)](https://www.reddit.com/r/robotics/comments/1qhwp0b/you_can_now_tell_a_robot_make_me_a_chair_text_to/)**
+
+Paper: Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models arXiv:2511.02162 [cs.RO]: https://arxiv.org/abs/2511.02162 Full video on Youtube: https://www.youtube.com/watch?v=ZJrsWG7Mw5M
+
+54m ago
+
+---
+
 **[I see your stewart platform. Here's mine.](https://www.reddit.com/r/robotics/comments/1qhr6d9/i_see_your_stewart_platform_heres_mine/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 5h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 6h ago
 
 ---
 
@@ -58,7 +66,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-22h ago
+23h ago
+
+---
+
+**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
+
+I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
+
+42m ago
+
+---
+
+**[Day 120 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qhxh81/day_120_of_building_asimov_an_opensource_humanoid/)**
+
+We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
+
+8m ago
 
 ---
 
@@ -66,7 +90,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-18h ago
+19h ago
 
 ---
 
@@ -74,13 +98,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-14h ago
-
----
-
-**[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
-
-1d ago
+15h ago
 
 ---
 
@@ -88,23 +106,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-15h ago
-
----
-
-**[We taught a Unitree Go1 to dance YMCA in 24 hours at a hackathon (none of us had used one before)](https://www.reddit.com/r/robotics/comments/1qh02f9/we_taught_a_unitree_go1_to_dance_ymca_in_24_hours/)**
-
-This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
-
-23h ago
-
----
-
-**[Asking Help for Static Analysis of Robotic Arm for Topology Optimisation](https://www.reddit.com/r/robotics/comments/1qhbqc2/asking_help_for_static_analysis_of_robotic_arm/)**
-
-Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
-
-15h ago
+16h ago
 
 ---
 
@@ -112,27 +114,11 @@ Hello everyone, I am currently working on a project involving topology optimisat
 
 ## Google News: "robotics"
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 18h ago
-
----
-
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
 Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
 TechCrunch • 1d ago
-
----
-
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
-
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
-
-WRGB • 2d ago
 
 ---
 
@@ -148,21 +134,31 @@ Interesting Engineering • 1d ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 21h ago
+Tom's Hardware • 22h ago
 
 ---
 
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
+**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
 
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
+Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
 
-The Robot Report • 20h ago
+Forbes • 15h ago
 
 ---
 
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-SciTechDaily • 1d ago
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 19h ago
+
+---
+
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 2d ago
 
 ---
 
@@ -174,20 +170,23 @@ KPTV • 2d ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
 
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-Pittsburgh Post-Gazette • 3d ago
+The Robot Report • 21h ago
 
 ---
 
-**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
+**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
-Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
+SciTechDaily • 1d ago
 
-Forbes • 14h ago
+---
+
+**[CMES Robotics Expands AI-Driven Warehouse Automation Footprint with New Logistics Projects](https://www.morningstar.com/news/pr-newswire/20260120cn65892/cmes-robotics-expands-ai-driven-warehouse-automation-footprint-with-new-logistics-projects)**
+
+morningstar.com • 5h ago
 
 ---
 
@@ -199,7 +198,7 @@ Forbes • 14h ago
 
 📺 Wowearth
 
-👁️ 189K • 👍 2K • 💬 81 • ⏱️ 1:16 • 6d ago
+👁️ 189K • 👍 2K • 💬 81 • ⏱️ 1:16 • 7d ago
 
 ---
 
@@ -239,7 +238,7 @@ This little black ball is a microscopic robot. And it was designed to deliver dr
 
 📺 Kallaway
 
-👁️ 14K • 👍 692 • 💬 22 • ⏱️ 0:39 • 19h ago
+👁️ 14K • 👍 692 • 💬 22 • ⏱️ 0:39 • 20h ago
 
 ---
 
@@ -279,7 +278,7 @@ My Brother Tries War Robots. I was not expecting to do this, but my brother sugg
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 946 • 💬 213 • ⏱️ 30:19 • 20h ago
+👁️ 11K • 👍 946 • 💬 213 • ⏱️ 30:19 • 21h ago
 
 ---
 
