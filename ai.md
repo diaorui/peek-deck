@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T20:13:28.527169+00:00'
+updated: '2026-01-20T20:54:27.765728+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 20:13 UTC  
+**Last Updated:** January 20, 2026 at 20:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-13h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
 
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 30m ago
+🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Following recent discussions over AI contributions to the LLVM open-source compi
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ One impression I keep having is that most AI company marketing, success stories,
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 17h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 18h ago
 
 ---
 
@@ -97,7 +97,7 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 10h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ When you talk to a large language model, you can think of yourself as talking to
 
 Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
 
-10h ago
+11h ago
 
 ---
 
@@ -131,19 +131,19 @@ The New York Times • 8h ago
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle](https://www.nytimes.com/2026/01/20/business/davos-trump.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Tech Execs at Davos Highlight AI’s Power as a Geopolitical Tool](https://www.bloomberg.com/news/articles/2026-01-20/tech-execs-at-davos-highlight-ai-s-power-as-a-geopolitical-tool)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fierce Network • 1h ago
 
 **[Axios House: AI's evolution beyond the cloud is a boon, experts say](https://www.axios.com/2026/01/20/axios-house-ais-evolution-beyond-the-cloud-is-a-boon-experts-say)**
 
-Axios • 28m ago
+Axios • 1h ago
 
 ---
 
@@ -165,19 +165,19 @@ Axios • 28m ago
 
 Kurt ‘CyberGuy’ Knutsson discusses how AI may impact Hollywood productions on ‘Fox & Friends.’
 
-Fox News • 56m ago
+Fox News • 1h ago
 
 ---
 
 **[Nvidia Stock Falls. ‘The Honeymoon Is Over for AI.’](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-346dc649?gaa_at=eafs&gaa_n=AWEtsqc7OuixIQMhkTaWtRRum0vtxzJsThAimq6YA-P0BY_4VXXYMoiJ_sX_&gaa_ts=696fe548&gaa_sig=UeXIakKS6j5ptbbXI76EqkLc12a1f-sIQYLiguU8gMv26QuaRhqeGTq3jdSePyRYYHIqEIGA1q-NQnAFo7Sbzw%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
 **[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqd3lNb14Mqa0pUa07lXQ-mYw_-YCWby0m7syxYdLo_aaRmpWpAa1ZJq&gaa_ts=696fe548&gaa_sig=ADbbB5CKlRfsrRoGkj_XUdBLihpmJ-LMxFOOiecm41bQrxvFLjQiuAquDzAki6wYT3bhr4nJMRyBjg5T0_UISg%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 115 • 💬 140 • 11h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 115 • 💬 140 • 12h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -273,13 +273,33 @@ Opinion: As software power tools, AI agents may make people busier than ever bef
 
 ## YouTube Videos: "ai"
 
+**[AI NEWS: Jeff Bezos Just Predicted The END of Your Local Computer!](https://www.youtube.com/watch?v=uXOEI9-p11Y)**
+
+This groundbreaking video analyzes Jeff Bezos's bold predictions for the future of AI and local Computing. Bezos forecasts a huge ...
+
+📺 Olivio Sarikas
+
+👁️ 2K • 👍 95 • 💬 88 • ⏱️ 7:18 • 9h ago
+
+---
+
 **[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
 
 OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
 
 📺 Matthew Berman
 
-👁️ 60K • 👍 2K • 💬 529 • ⏱️ 18:33 • 21h ago
+👁️ 63K • 👍 2K • 💬 556 • ⏱️ 18:33 • 22h ago
+
+---
+
+**[The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x | Ray Kurzweil](https://www.youtube.com/watch?v=8iWSNwIRazc)**
+
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Ray Kurzweil is an American ...
+
+📺 Peter H. Diamandis
+
+👁️ 13K • 👍 1K • 💬 230 • ⏱️ 1:39:31 • 3h ago
 
 ---
 
@@ -289,37 +309,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 19K • 👍 834 • 💬 204 • ⏱️ 9:12 • 1d ago
-
----
-
-**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
-
-The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
-
-📺 KolaDepth
-
-👁️ 9K • 👍 234 • 💬 65 • ⏱️ 24:36 • 1d ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 2.1M • 👍 77K • 💬 7K • ⏱️ 15:50 • 2d ago
-
----
-
-**[I actually tried AI coding and it&#39;s worse than I thought...](https://www.youtube.com/watch?v=DLwyGjFsPPM)**
-
-An honest review of the Codex CLI coding agent. Topics: - Working with coding agents; - Codex and Chat GPT review; ...
-
-📺 Awesome
-
-👁️ 61K • 👍 4K • 💬 779 • ⏱️ 9:28 • 1d ago
+👁️ 20K • 👍 856 • 💬 209 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -329,7 +319,47 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 49K • 👍 2K • 💬 351 • ⏱️ 10:58 • 1d ago
+👁️ 50K • 👍 2K • 💬 356 • ⏱️ 10:58 • 1d ago
+
+---
+
+**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
+
+The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
+
+📺 KolaDepth
+
+👁️ 9K • 👍 241 • 💬 66 • ⏱️ 24:36 • 1d ago
+
+---
+
+**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+
+Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+
+📺 BBC Newsnight
+
+👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 4h ago
+
+---
+
+**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
+
+OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
+
+📺 OpenAI
+
+👁️ 25K • 👍 870 • 💬 141 • ⏱️ 49:42 • 1d ago
+
+---
+
+**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 2.1M • 👍 78K • 💬 7K • ⏱️ 15:50 • 2d ago
 
 ---
 
@@ -339,37 +369,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 906 • 💬 65 • ⏱️ 7:01 • 2d ago
-
----
-
-**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
-
-Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
-
-📺 Dumanity
-
-👁️ 73K • 👍 4K • 💬 603 • ⏱️ 12:32 • 1d ago
-
----
-
-**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 13K • 👍 309 • 💬 13 • ⏱️ 9:45 • 2d ago
-
----
-
-**[Ben Affleck Calls Out AI Investments...](https://www.youtube.com/watch?v=cDknKjTtY9c)**
-
-His recent comments on AI, made during an appearance on The Joe Rogan Experience, have sparked praise for being measured ...
-
-📺 Ricky Gutierrez
-
-👁️ 13K • 👍 471 • 💬 186 • ⏱️ 13:24 • 1d ago
+👁️ 18K • 👍 907 • 💬 65 • ⏱️ 7:01 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 8,705 • ❤️ 887 • 5d ago
+⬇️ 8,705 • ❤️ 888 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 711 • 6h ago
+⬇️ 15,168 • ❤️ 719 • 7h ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 376 • 5d ago
+⬇️ 35,593 • ❤️ 378 • 5d ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,735,752 • ❤️ 1,209 • 1d ago
+⬇️ 1,735,752 • ❤️ 1,212 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 325 • 1d ago
+⬇️ 31,778 • ❤️ 326 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 37,294 • ❤️ 291 • 5d ago
+⬇️ 37,294 • ❤️ 293 • 5d ago
 
 ---
 
@@ -467,7 +467,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 58,165 • ❤️ 789 • 13d ago
+⬇️ 58,165 • ❤️ 790 • 13d ago
 
 ---
 
@@ -491,7 +491,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 17,086 • ❤️ 214 • 5d ago
+⬇️ 17,086 • ❤️ 216 • 5d ago
 
 ---
 
@@ -553,23 +553,13 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 *Yumeng Li, Guang Yang, Hao Liu et al. (5 authors)*
 
+🏢 rednote-hilab
+
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
 ▲ 0 • 💬 1 • ⭐ 6,936 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
-
----
-
-**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
-
-*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
-
-We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
-
-▲ 183 • 💬 5 • ⭐ 5,488 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
 ---
 
@@ -623,6 +613,18 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
+**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
+
+*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
+
+We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
+
+▲ 183 • 💬 5 • ⭐ 5,509 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -648,7 +650,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 15h ago
+⭐ 9.4k • 🔱 1.2k • 16h ago
 
 ---
 
@@ -658,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 452 • 4h ago
+⭐ 8.7k • 🔱 454 • 4h ago
 
 ---
 
@@ -668,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 356 • 3d ago
+⭐ 7.5k • 🔱 357 • 3d ago
 
 ---
 
@@ -678,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 727 • 2h ago
+⭐ 5.7k • 🔱 731 • 2h ago
 
 ---
 
@@ -688,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 866 • 8h ago
+⭐ 5.2k • 🔱 867 • 9h ago
 
 ---
 
@@ -708,7 +710,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 172 • 3d ago
+⭐ 2.9k • 🔱 173 • 3d ago
 
 ---
 
@@ -718,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 298 • 1d ago
+⭐ 2.1k • 🔱 299 • 1d ago
 
 ---
 
@@ -728,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 151 • 3h ago
+⭐ 1.9k • 🔱 152 • 4h ago
 
 ---
 
@@ -736,7 +738,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.6k • 🔱 116 • 1d ago
+⭐ 1.6k • 🔱 122 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T20:13:28.541657+00:00'
+updated: '2026-01-20T20:54:27.780561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 20:13 UTC  
+**Last Updated:** January 20, 2026 at 20:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.12B
+**Market Cap:** $361.72B
 Rank #2
 
 **Circulating Supply:** 120,694,565 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.4%
 
 **All-Time Low:** $0.43
-+690621.7%
++691769.6%
 
 ---
 
@@ -104,7 +104,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-18h ago
+19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 1d ago
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 40m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ dlnews.com • 40m ago
 
 Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 4h ago
 
 While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ MarketWatch • 5h ago
 
 **[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -236,17 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 6 • ⏱️ 5:30 • 5h ago
-
----
-
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 1K • 💬 123 • ⏱️ 18:29 • 6h ago
+👁️ 2K • 👍 118 • 💬 6 • ⏱️ 5:30 • 6h ago
 
 ---
 
@@ -256,17 +246,37 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 28K • 👍 3K • 💬 28 • ⏱️ 12:15 • 1d ago
+👁️ 29K • 👍 3K • 💬 28 • ⏱️ 12:15 • 1d ago
 
 ---
 
-**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
+**[Bitcoin Looks Terrible.. What Comes Next? 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 AllinCrypto
+📺 Altcoin Daily
 
-👁️ 12K • 👍 1K • 💬 226 • ⏱️ 16:10 • 7h ago
+👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 22m ago
+
+---
+
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 13K • 👍 1K • 💬 133 • ⏱️ 18:29 • 7h ago
+
+---
+
+**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
+
+BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 141 • 💬 18 • ⏱️ 21:23 • 1h ago
 
 ---
 
@@ -280,13 +290,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=neFpNOPWwVM)**
+**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
 
-📺 More Crypto Online
+📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 178 • 👍 13 • ⏱️ 1:10 • 2h ago
+👁️ 4K • 👍 813 • 💬 35 • ⏱️ 30:52 • 3h ago
+
+---
+
+**[BMNR Stock &amp; Ethereum Staking Backlog — Billion-Dollar ETH Lockup, Supply Shock &amp; Investor Risk](https://www.youtube.com/watch?v=vRCQNIY0y-w)**
+
+BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethereum's staking economy — and the market may ...
+
+📺 Fundatech Insights
+
+👁️ 12 • 👍 2 • ⏱️ 7:10 • 1h ago
 
 ---
 
@@ -296,27 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 470 • 👍 13 • 💬 1 • ⏱️ 4:56 • 10h ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 3K • 💬 230 • ⏱️ 12:19 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 166 • 💬 6 • ⏱️ 7:47 • 1d ago
+👁️ 529 • 👍 13 • 💬 1 • ⏱️ 4:56 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 300 • 👍 50 • 💬 1 • ⏱️ 36:50 • 6h ago
+👁️ 416 • 👍 63 • 💬 1 • ⏱️ 36:50 • 6h ago
 
 ---
 

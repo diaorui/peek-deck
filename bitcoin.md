@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T20:13:28.535628+00:00'
+updated: '2026-01-20T20:54:27.774427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 20:13 UTC  
+**Last Updated:** January 20, 2026 at 20:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.36B
+**Market Cap:** $1790.57B
 Rank #1
 
-**Circulating Supply:** 19,978,459 BTC
+**Circulating Supply:** 19,978,481 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131870.2%
++132079.6%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-11h ago
+12h ago
 
 ---
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -101,13 +101,13 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Hopefully it holds til I get my paycheck this Friday
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -129,13 +129,13 @@ I live in a country where owning or using Bitcoin is technically illegal, which 
 
 now till the next halving is going to be crazy! 🤪👽🖖🛸🌕
 
-4h ago
+5h ago
 
 ---
 
 **[Unexpected Extraterrestrial Bullish News for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qi1lts/unexpected_extraterrestrial_bullish_news_for/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ now till the next halving is going to be crazy! 🤪👽🖖🛸🌕
 
 At the moment, BTC market cap is about $1.8 – $1.9 trillion USD. Gold market cap is about $30 trillion – $32 trillion USD.
 
-7h ago
+8h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 17h ago
 
 Ray Dalio weighs Bitcoinâs role as money, noting its small scale vs gold and reserve assets, as central banks shift to gold.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ Is altcoin season 2026 confirmed? XRP records on-chain activity high, Solana gai
 
 Cryptocurrencies are coming off a rough year in 2025, but there could be significant upside ahead over the long term.
 
-The Motley Fool • 2d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -297,13 +297,13 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 0 • 5h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 0 • 6h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
 **[Treating anxiety as a bug in legacy code (engineering approach)](https://news.ycombinator.com/item?id=46693792)**
 
-⬆️ 3 • 💬 4 • 3h ago
+⬆️ 3 • 💬 4 • 4h ago
 
 ---
 
@@ -317,7 +317,7 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 14K • 👍 843 • 💬 164 • ⏱️ 14:45 • 9h ago
+👁️ 17K • 👍 928 • 💬 196 • ⏱️ 14:45 • 10h ago
 
 ---
 
@@ -327,7 +327,17 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 18K • 👍 1K • 💬 57 • ⏱️ 21:45 • 9h ago
+👁️ 22K • 👍 2K • 💬 59 • ⏱️ 21:45 • 10h ago
+
+---
+
+**[Bitcoin Investors...Get Ready for US Takeover of Greenland](https://www.youtube.com/watch?v=WXBk81kWors)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 205 • ⏱️ 44:58 • 5h ago
 
 ---
 
@@ -337,7 +347,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 535 • 💬 81 • ⏱️ 55:43 • 4h ago
+👁️ 11K • 👍 593 • 💬 117 • ⏱️ 55:43 • 5h ago
 
 ---
 
@@ -347,7 +357,17 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 11K • 👍 618 • 💬 54 • ⏱️ 10:25 • 11h ago
+👁️ 12K • 👍 630 • 💬 56 • ⏱️ 10:25 • 12h ago
+
+---
+
+**[Bitcoin Looks Terrible.. What Comes Next? 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 22m ago
 
 ---
 
@@ -357,17 +377,17 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 370 • ⏱️ 21:56 • 20h ago
+👁️ 37K • 👍 3K • 💬 370 • ⏱️ 21:56 • 21h ago
 
 ---
 
-**[TRUMP IS ABOUT TO DUMP BITCOIN !!!!](https://www.youtube.com/watch?v=pbaO6R-q-YU)**
+**[Bitcoin Crashing: This is How The Cycle Usually Ends](https://www.youtube.com/watch?v=gE1lC3bZlzo)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
 
-📺 Crypto Kid
+📺 Jason Pizzino
 
-👁️ 5K • 👍 455 • 💬 110 • ⏱️ 7:24 • 9h ago
+👁️ 13K • 👍 811 • 💬 295 • ⏱️ 28:52 • 11h ago
 
 ---
 
@@ -377,7 +397,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 375 • ⏱️ 8:03 • 1d ago
+👁️ 29K • 👍 1K • 💬 370 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -387,27 +407,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 4K • 💬 345 • ⏱️ 14:15 • 1d ago
-
----
-
-**[Bitcoin Inflows SURGE Despite Market Sell Off! Shake Out Or New Lows Incoming?](https://www.youtube.com/watch?v=YoU4zlMZwXU)**
-
-Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
-
-📺 The Wolf Of All Streets
-
-👁️ 31K • 👍 1K • 💬 260 • ⏱️ 1:02:47 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
-
-Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
-
-📺 Thomas Kralow
-
-👁️ 28K • 👍 3K • 💬 28 • ⏱️ 12:15 • 1d ago
+👁️ 89K • 👍 4K • 💬 347 • ⏱️ 14:15 • 1d ago
 
 ---
 
