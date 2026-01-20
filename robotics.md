@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T21:23:04.479020+00:00'
+updated: '2026-01-20T21:43:22.277519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 21:23 UTC  
+**Last Updated:** January 20, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ ODM Humanoid demo show.
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-26m ago
+47m ago
 
 ---
 
@@ -74,7 +74,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically.
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ In a few clear sections, you will walk through the full PPO workflow in Stable-B
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ In a few clear sections, you will walk through the full PPO workflow in Stable-B
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Robot Report • 2h ago
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-wjon.com • 9h ago
+wjon.com • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ CBC • 12h ago
 
 **[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 257K • 👍 16K • 💬 3K • ⏱️ 5:12 • 6d ago
+👁️ 257K • 👍 16K • 💬 3K • ⏱️ 5:12 • 7d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T21:23:04.469673+00:00'
+updated: '2026-01-20T21:43:22.268223+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 21:23 UTC  
+**Last Updated:** January 20, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Hopefully it holds til I get my paycheck this Friday
 
 Took me some time. I feel so proud.
 
-36m ago
+56m ago
 
 ---
 
@@ -291,7 +291,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 9 • 💬 1 • 59m ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 9 • 💬 1 • 1h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 205 • ⏱️ 44:58 • 5h ago
+👁️ 21K • 👍 1K • 💬 205 • ⏱️ 44:58 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 593 • 💬 117 • ⏱️ 55:43 • 5h ago
+👁️ 11K • 👍 593 • 💬 117 • ⏱️ 55:43 • 6h ago
 
 ---
 
@@ -367,7 +367,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 51m ago
+👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 1h ago
 
 ---
 
