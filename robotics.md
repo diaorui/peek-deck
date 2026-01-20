@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T23:23:59.745508+00:00'
+updated: '2026-01-20T23:45:31.034657+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 23:23 UTC  
+**Last Updated:** January 20, 2026 at 23:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,31 +70,17 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 ---
 
+**[Serve Robotics to acquire healthcare robot startup Diligent, bringing sidewalk autonomy into hospitals](https://www.reddit.com/r/robotics/comments/1qig61x/serve_robotics_to_acquire_healthcare_robot/)**
+
+Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
+
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 1h ago
+
+---
+
 **[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically.
-
-22h ago
-
----
-
-**[Most PPO tutorials show you what to run. This one shows you how PPO actually works – and how to make it stable, reliable, and predictable.](https://www.reddit.com/r/robotics/comments/1qi4hx9/most_ppo_tutorials_show_you_what_to_run_this_one/)**
-
-In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
-
-7h ago
-
----
-
-**[China likely to deliver your first humanoid robot colleague.](https://www.reddit.com/r/robotics/comments/1qi0g5b/china_likely_to_deliver_your_first_humanoid_robot/)**
-
-Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
-
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 10h ago
-
----
-
-**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
 23h ago
 
@@ -106,23 +92,39 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 ---
 
+**[Most PPO tutorials show you what to run. This one shows you how PPO actually works – and how to make it stable, reliable, and predictable.](https://www.reddit.com/r/robotics/comments/1qi4hx9/most_ppo_tutorials_show_you_what_to_run_this_one/)**
+
+In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
+
+8h ago
+
+---
+
+**[China likely to deliver your first humanoid robot colleague.](https://www.reddit.com/r/robotics/comments/1qi0g5b/china_likely_to_deliver_your_first_humanoid_robot/)**
+
+Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
+
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 10h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1d ago
-
----
 
 **[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 12h ago
+Financial Times • 13h ago
+
+---
+
+**[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
+
+Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -130,15 +132,21 @@ Financial Times • 12h ago
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
-**[Meet MassRobotics’ 5th Healthcare Robotics Startup Catalyst cohort](https://www.therobotreport.com/meet-massrobotics-5th-healthcare-robotics-startup-catalyst-cohort/)**
+**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
-The MassRobotics Healthcare Robotics Startup Catalyst Program supports startups regardless of their location.
+The Business Journals • 19m ago
 
-The Robot Report • 4h ago
+---
+
+**[Austin-based robotics company to be acquired in $29M deal](https://www.statesman.com/business/technology/article/austin-serve-robotics-acquires-diligent-21304455.php)**
+
+Diligent Robotics designs and deploys robots to work alongside nurses and pharmacy technicians inside hospitals. The company, founded in 2017, has more than 200 employees in Austin.
+
+statesman.com • 2h ago
 
 ---
 
@@ -147,6 +155,14 @@ The Robot Report • 4h ago
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
 The Robot Report • 1h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
 
 ---
 
@@ -166,25 +182,11 @@ CBC • 14h ago
 
 ---
 
-**[Assessing Qualcomm (QCOM) Valuation After New Robotics And AI Announcements](https://finance.yahoo.com/news/assessing-qualcomm-qcom-valuation-robotics-011023701.html)**
-
-Why Qualcomm (QCOM) is Back in Focus After Its Latest AI and Robotics Moves Qualcomm (QCOM) is drawing fresh attention after its CES announcements around the Dragonwing IQ10 robotics processor and broader AI robotics stack, coupled with growing real world use cases like Motive's AI Dashcam Plus. See our latest analysis for QUALCOMM. Despite the buzz around its robotics and AI announcements, QUALCOMM's recent share price performance has been weak, with a 7 day share price return of 10.33% and...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-WJON • 11h ago
+wjon.com • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T23:23:59.727700+00:00'
+updated: '2026-01-20T23:45:31.017252+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 23:23 UTC  
+**Last Updated:** January 20, 2026 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
+
+I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
+
+17h ago
+
+---
+
+**[LLVM adopts "human in the loop" policy for AI/tool-assisted contributions](https://www.reddit.com/r/artificial/comments/1qi8u3d/llvm_adopts_human_in_the_loop_policy_for/)**
+
+Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
+
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 5h ago
+
+---
+
 **[I built an AI Investigator using Two Knowledge Graphs Connected to a Chatbot That Combed Through the Epstein Files. This is What it Found Within a Few Minutes](https://www.reddit.com/r/artificial/comments/1qi3u9p/i_built_an_ai_investigator_using_two_knowledge/)**
 
 When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
@@ -45,19 +61,11 @@ When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by con
 
 ---
 
-**[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
-
-I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
-
-16h ago
-
----
-
 **[China Used AI to Win Olympic Boxing Medals](https://www.reddit.com/r/artificial/comments/1qhoz04/china_used_ai_to_win_olympic_boxing_medals/)**
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-20h ago
+21h ago
 
 ---
 
@@ -73,15 +81,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-13h ago
-
----
-
-**[LLVM adopts "human in the loop" policy for AI/tool-assisted contributions](https://www.reddit.com/r/artificial/comments/1qi8u3d/llvm_adopts_human_in_the_loop_policy_for/)**
-
-Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
-
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 5h ago
+14h ago
 
 ---
 
@@ -101,19 +101,19 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 ---
 
-**[What Amodei and Hassabis said about AGI timelines, jobs, and China at Davos](https://www.reddit.com/r/artificial/comments/1qib8fm/what_amodei_and_hassabis_said_about_agi_timelines/)**
-
-Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
-
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 3h ago
-
----
-
 **[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
 🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 13h ago
+
+---
+
+**[Ai courses that are actually helpful for a law student](https://www.reddit.com/r/artificial/comments/1qhwxqx/ai_courses_that_are_actually_helpful_for_a_law/)**
+
+Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
+
+13h ago
 
 ---
 
@@ -127,47 +127,47 @@ The New York Times • 11h ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-Fortune • 1d ago
-
----
-
-**[Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/)**
-
-Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”
-
-TechCrunch • 1h ago
+CNBC • 10h ago
 
 ---
 
-**[Tesla Stock Drops With Market. Musk Focuses On AI Chips.](https://www.barrons.com/articles/tesla-stock-price-musk-ai-chips-c0da7219?gaa_at=eafs&gaa_n=AWEtsqdf9p-Wk8v53DhEulNOLt6Cd8BqGCQaEO3L1geucPMrEENsyVtGTd9M&gaa_ts=69700413&gaa_sig=EgZb36yovvpF-xa9ddSezERS4Yoz4SbTqWqAz9VGELWZQgafo62uK6RAuQ5y0YfuEOBbr-1It4IrKL86q-JqHQ%3D%3D)**
+**[A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle](https://www.nytimes.com/2026/01/20/business/davos-trump.html)**
 
-Barron's • 1h ago
-
----
-
-**[House Republican squares off against Nvidia, Sacks over AI chip bill](https://thehill.com/policy/technology/5697225-mast-nvidia-clash-ai-chips/)**
-
-The Hill • 2h ago
+The New York Times • 8h ago
 
 ---
 
-**[SXSW 2026 Unveils AI, Podcast, Spotify Speakers for Innovation Conference Lineup](https://www.hollywoodreporter.com/news/general-news/sxsw-2026-conference-lineup-1236479237/)**
+**[Business Leaders Discuss the Potential and Perils of AI at TIME100 Impact Dinner](https://time.com/7346588/davos-ai-potential-perils/)**
 
-New keynotes in Austin include Rana el Kaliouby and Bob Safian on "human centric" artificial intelligence, and artist Tom Sachs on his creative process.
+During the World Economic Forum in Davos, executives considered some of the biggest challenges AI could present.
 
-The Hollywood Reporter • 1h ago
+Time Magazine • 46m ago
 
 ---
 
-**[Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'](https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html)**
+**[Palantir CEO Says AI to Make Large-Scale Immigration Obsolete](https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete)**
 
-Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
+Bloomberg • 8h ago
 
-CNBC • 6h ago
+---
+
+**[Palantir CEO Says AI Will Somehow Be So Great That People Will Stop Immigrating](https://gizmodo.com/palantir-ceo-says-ai-will-somehow-be-so-great-that-people-will-stop-immigrating-2000712148)**
+
+Don't bother trying to figure out how that makes any sense.
+
+Gizmodo • 1h ago
+
+---
+
+**[Palantir's billionaire CEO studied philosophy — now he says AI will destroy humanities jobs](https://www.businessinsider.com/palantir-ceo-alex-karp-ai-humanities-jobs-doomed-2026-1)**
+
+Alex Karp, CEO of Palantir, said vocational skills will dominate in the AI future.
+
+Business Insider • 6h ago
 
 ---
 
@@ -187,9 +187,9 @@ CNN • 2d ago
 
 ---
 
-**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqdfev3s7so9dSiQzasH6hl-RyLaY4wR2Zrw8rLC1FohOKvCN8fQtIqG&gaa_ts=69700413&gaa_sig=mHpM153rRHTrW2VbFIpnP2q6C5N6AR2QwvYyuTXOjmex7YiloqJXB3JHLMRdkMALTxuZWaACLzpwvgF9jAkIlQ%3D%3D)**
+**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqfDK_gcxviGvzT9JVvkIcRya-Ffc8cCvYUGy4jtfW8spFFg7RZtmV6X&gaa_ts=69701700&gaa_sig=wEVea4t2EQXJy8jg6gmgN3PCfzOl2U9wBDGeSFxA-GIxVaewzSJXxTaP95EDNfVgbqoUd7wItq0RQ4NU0boWUA%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -207,13 +207,13 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 230 • 💬 91 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 231 • 💬 91 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 162 • 💬 179 • 1d ago
+⬆️ 162 • 💬 180 • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 153 • 💬 173 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 153 • 💬 174 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -229,7 +229,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 116 • 💬 144 • 15h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 117 • 💬 145 • 15h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -261,7 +261,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-⬆️ 85 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 86 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
 
 ---
 
@@ -269,7 +269,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 : PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 72 • 💬 36 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 75 • 💬 42 • 4h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -283,7 +283,7 @@ FREE PDF (prompts + direct links) → https://discord.gg/6aV3ps7tB2 ✓ Sponsore
 
 📺 Malva AI
 
-👁️ 7K • 👍 472 • 💬 123 • ⏱️ 11:13 • 10h ago
+👁️ 7K • 👍 472 • 💬 123 • ⏱️ 11:13 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 29K • 👍 2K • 💬 374 • ⏱️ 1:39:31 • 5h ago
+👁️ 29K • 👍 2K • 💬 374 • ⏱️ 1:39:31 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 734 • 9h ago
+⬇️ 15,168 • ❤️ 734 • 10h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 359 • 55m ago
+⭐ 7.6k • 🔱 359 • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 866 • 11h ago
+⭐ 5.2k • 🔱 866 • 12h ago
 
 ---
 
@@ -733,7 +733,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 6h ago
+⭐ 1.9k • 🔱 152 • 7h ago
 
 ---
 

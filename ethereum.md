@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T23:23:59.742234+00:00'
+updated: '2026-01-20T23:45:31.031454+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 23:23 UTC  
+**Last Updated:** January 20, 2026 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,997.58
+### $2,940.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.1%  
-**7d:** -10.9%  
-**30d:** -0.5%  
-**90d:** -22.4%  
-**1y:** -9.8%  
+**24h:** -7.6%  
+**7d:** -12.4%  
+**30d:** -2.2%  
+**90d:** -23.8%  
+**1y:** -11.4%  
 
 ---
 
@@ -76,6 +76,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[📅 Ethereal news calendar. Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines. Add to Google, Apple or download ICS.](https://www.reddit.com/r/ethereum/comments/1qigtqr/ethereal_news_calendar_calendar_of_ethereum/)**
+
+Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
+
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 35m ago
+
+---
+
 **[Ethereum’s transaction activity has reached a new all-time high!](https://www.reddit.com/r/ethereum/comments/1qh6f52/ethereums_transaction_activity_has_reached_a_new/)**
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
@@ -96,7 +104,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-21h ago
+22h ago
 
 ---
 
@@ -140,25 +148,9 @@ An important, and perenially underrated, aspect of "trustlessness", "passing the
 
 ---
 
-**[Daily General Discussion January 18, 2026](https://www.reddit.com/r/ethereum/comments/1qg0myc/daily_general_discussion_january_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[How a crypto scam pushed Ethereum transactions to an all-time high](https://finance.yahoo.com/news/crypto-scam-pushed-ethereum-transactions-163253595.html)**
-
-Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
-
-Yahoo Finance • 6h ago
-
----
 
 **[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
@@ -178,21 +170,21 @@ The Block • 2d ago
 
 Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqco5W0ayVRY8ovJp7IActPivohffLJ4t72k7esAqcXgiXJqnmNFi-7b&gaa_ts=69700416&gaa_sig=qJxElhWd5_yz1-_WxiR6Pcwx1XZKYvm44tJoRmYvTYaYZGaLSvpiogR9ooJNXJApsbk1ASfc01FDFRGy5xQ8kQ%3D%3D)**
+**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
+
+The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
+
+dlnews.com • 4h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdxt0xxbWK9dFvq44jhQoQsmn9e0vFxtegjuosNNEqp_cqS0qQYVevV&gaa_ts=697016c9&gaa_sig=RJ86sFPwVO-GiDZp0ZEE6n1RVuzh87bJEWlFD6lAE8slP0wqVR_KCntr8meWO3C-s5ms2aARb1xDoMse34VXEQ%3D%3D)**
 
 MarketWatch • 8h ago
-
----
-
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
-
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -208,13 +200,7 @@ Decrypt • 1d ago
 
 While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
-The Motley Fool • 5h ago
-
----
-
-**[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
-
-CCN.com • 9h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -223,6 +209,22 @@ CCN.com • 9h ago
 The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
 
 TradingView — Track All Markets • 1d ago
+
+---
+
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
+
+Key PointsCryptocurrencies are not stocks.
+
+Nasdaq • 11h ago
+
+---
+
+**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
+
+Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -256,7 +258,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 3h ago
+👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 4h ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Stock Moe
 
-👁️ 14K • 👍 1K • 💬 132 • ⏱️ 18:29 • 9h ago
+👁️ 14K • 👍 1K • 💬 132 • ⏱️ 18:29 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 617 • 👍 13 • 💬 28 • ⏱️ 4:56 • 13h ago
+👁️ 617 • 👍 13 • 💬 28 • ⏱️ 4:56 • 14h ago
 
 ---
 
@@ -286,7 +288,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 156 • 👍 28 • 💬 6 • ⏱️ 13:29 • 17m ago
+👁️ 156 • 👍 28 • 💬 6 • ⏱️ 13:29 • 38m ago
 
 ---
 
@@ -316,7 +318,7 @@ In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wel
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 8K • 👍 1K • 💬 35 • ⏱️ 30:52 • 5h ago
+👁️ 8K • 👍 1K • 💬 35 • ⏱️ 30:52 • 6h ago
 
 ---
 
@@ -326,7 +328,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 2h ago
+👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 3h ago
 
 ---
 

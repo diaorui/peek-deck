@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T23:23:59.736150+00:00'
+updated: '2026-01-20T23:45:31.025504+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 23:23 UTC  
+**Last Updated:** January 20, 2026 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,827.29
+### $88,027.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -7.6%  
-**30d:** +1.5%  
-**90d:** -18.6%  
-**1y:** -15.3%  
+**24h:** -4.5%  
+**7d:** -8.8%  
+**30d:** +0.2%  
+**90d:** -19.6%  
+**1y:** -16.4%  
 
 ---
 
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[0.1 club](https://www.reddit.com/r/Bitcoin/comments/1qiczam/01_club/)**
+
+Took me some time. I feel so proud.
+
+2h ago
+
+---
+
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
 7h ago
@@ -86,14 +94,6 @@ Rank #1
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
 10h ago
-
----
-
-**[0.1 club](https://www.reddit.com/r/Bitcoin/comments/1qiczam/01_club/)**
-
-Took me some time. I feel so proud.
-
-2h ago
 
 ---
 
@@ -111,6 +111,12 @@ Hopefully it holds til I get my paycheck this Friday
 
 ---
 
+**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
+
+46m ago
+
+---
+
 **[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
 
 8h ago
@@ -121,21 +127,13 @@ Hopefully it holds til I get my paycheck this Friday
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-14h ago
+15h ago
 
 ---
 
 **[No Access to Cold Wallets Due to Laws — How Should I Store My BTC?](https://www.reddit.com/r/Bitcoin/comments/1qia18b/no_access_to_cold_wallets_due_to_laws_how_should/)**
 
 I live in a country where owning or using Bitcoin is technically illegal, which means I can’t easily access hardware wallets or official cold storage options. I bought some BTC on Binance, but now I’m worried about how to store it safely. I know the saying “not your keys, not your coins,” so keeping it on an exchange long-term doesn’t feel right. Given my situation: 1.What are my safest storage options? 2.Are software wallets a good idea? 3.Is it better to split funds across multiple wallets? Any advice is appreciated. Thanks!
-
-4h ago
-
----
-
-**[Can Bitcoin fail?](https://www.reddit.com/r/Bitcoin/comments/1qia0tk/can_bitcoin_fail/)**
-
-Hello Bitcoiners! I am currently learning a lot about Bitcoin and it's effect to our lifes and the world in general. I reached a point where i look for Bitcoins biggest weaknesses and risks before would call myself a bitcoin maxi. So my questions are: Has Bitcoin already "won"? What has to happen, that Bitcoin goes to 0 Can any world power stop bitcoin from advancing? Maybe we can spark a debate about this topic.
 
 4h ago
 
@@ -161,9 +159,31 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqe6X10FoPBPBUecl72eECkcENeiGBoSZKemIB9_OtqL7W9WvS73NoG9&gaa_ts=69700414&gaa_sig=yyw2z1-RzSTgcCPNWLKabog8me8_gVoeQFE5PEVGWY3TIJxltIPm5R4hbizPUcrZ_kxayij51PNfidVc6v2RLQ%3D%3D)**
+**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqcLizjTYJabrv_lHYjEb7g0h6iRnyvaCYvVHOVp7NAdKx2_Fs8gGMiq&gaa_ts=697016c8&gaa_sig=Tg-V5rdJeDN1HgWOuOXTm3cCiRcxYPdLF4cXlkCmA7P0IoipJezhMdLvzPsmVNyVPFlcFKyOecgO7stSCBiO4Q%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Delaware Life, BlackRock Offer Bitcoin Exposure Through Fixed Indexed Annuity](https://finance.yahoo.com/news/delaware-life-blackrock-offer-bitcoin-221753976.html)**
+
+Delaware Life breaks new ground with the insurance industry's first Bitcoin-linked annuity, offering crypto exposure with principal protection.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://sg.finance.yahoo.com/news/skybridge-bets-rising-volatility-cautiously-223048633.html)**
+
+Alternative asset manager SkyBridge Capital is tilting further towards macro strategies as policy uncertainty under ​U.S. President Donald Trump's administration fuels market swings, founder Anthony Scaramucci said in ‌Davos, Switzerland.  "Because of the volatility, the macro traders have done better," Scaramucci told the Reuters Global Markets Forum ‌on the sidelines of the World Economic Forum's annual meeting.  Scaramucci, a staunch crypto advocate whose firm has invested heavily in digital assets, believes bitcoin's  long-term story is intact despite a sharp pullback from last year's record highs.
+
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqeTgfWO5aR0VBNSR9qvFEkxpwi7nfWuOQuwebi8g3fpXk81yaCs0JQb&gaa_ts=697016c8&gaa_sig=HnKl5kCnJDNAWHLpyGphJBPpsh3yTVlC6xAJYKNnkA5BhpE5hoDNDw5FVCFC51fMUyDl0CyUGPr5P4dO6aU5GA%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -189,14 +209,6 @@ CNBC • 3d ago
 
 ---
 
-**[Satoshi-Era Whale Moves $85M in Bitcoin After 13 Years](https://bitbo.io/news/satoshi-era-whale-moves/)**
-
-A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
-
-Bitbo • 16h ago
-
----
-
 **[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
@@ -205,25 +217,11 @@ Gizmodo • 2d ago
 
 ---
 
-**[Bitcoin Dominance Steady, XRP On-Chain Surges, Solana Outperforms—Is Altcoin Season Starting?](https://247wallst.com/investing/2026/01/20/bitcoin-dominance-steady-xrp-on-chain-surges-solana-outperforms-is-altcoin-season-starting/)**
+**[NIP claims to have mined over $14 million in Bitcoin in three months after launching Bitcoin Mining division](https://www.dust2.us/news/69785/nip-claims-to-have-mined-over-14-million-in-bitcoin-in-three-months-after-launching-bitcoin-mining-division)**
 
-Is altcoin season 2026 confirmed? XRP records on-chain activity high, Solana gains, and Bitcoin dominance held steady. Is it altcoin season?
+NIP has made over $14 million in two months.
 
-24/7 Wall St. • 7h ago
-
----
-
-**[Peter Schiff Warns Bitcoin Will Mirror Silver’s Explosive Rise—Then Crash: Here’s Why](https://www.ccn.com/news/crypto/bitcoin-mirror-silvers-mammoth-rise-in-reverse-warns-peter-schiff-why/)**
-
-CCN.com • 14h ago
-
----
-
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 2d ago
+Dust2.us • 1d ago
 
 ---
 
@@ -291,7 +289,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 11 • 💬 1 • 3h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 17 • 💬 3 • 3h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -303,7 +301,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 0 • 8h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 8h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -327,7 +325,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 2h ago
+👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 3h ago
 
 ---
 
@@ -337,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 237 • ⏱️ 44:58 • 7h ago
+👁️ 25K • 👍 1K • 💬 237 • ⏱️ 44:58 • 8h ago
 
 ---
 
@@ -347,7 +345,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 6K • 👍 564 • 💬 116 • ⏱️ 8:21 • 3h ago
+👁️ 6K • 👍 564 • 💬 116 • ⏱️ 8:21 • 4h ago
 
 ---
 
@@ -367,7 +365,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 3h ago
+👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 4h ago
 
 ---
 
@@ -387,7 +385,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 654 • 💬 128 • ⏱️ 55:43 • 7h ago
+👁️ 14K • 👍 654 • 💬 128 • ⏱️ 55:43 • 8h ago
 
 ---
 
@@ -407,7 +405,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 517 • 💬 130 • ⏱️ 7:24 • 12h ago
+👁️ 7K • 👍 517 • 💬 130 • ⏱️ 7:24 • 13h ago
 
 ---
 
