@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T15:32:45.985584+00:00'
+updated: '2026-01-20T16:38:04.049064+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 15:32 UTC  
+**Last Updated:** January 20, 2026 at 16:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,130.93
+### $90,860.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -6.5%  
-**30d:** +2.7%  
-**90d:** -17.6%  
-**1y:** -14.3%  
+**24h:** -3.0%  
+**7d:** -6.8%  
+**30d:** +2.4%  
+**90d:** -17.8%  
+**1y:** -14.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1816.99B
+**Market Cap:** $1807.85B
 Rank #1
 
-**Circulating Supply:** 19,978,371 BTC
+**Circulating Supply:** 19,978,421 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.9%
+-28.3%
 
 **All-Time Low:** $67.81
-+133954.0%
++133148.8%
 
 ---
 
@@ -77,29 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[What happened?](https://www.reddit.com/r/Bitcoin/comments/1qi2gw3/what_happened/)**
+
+2h ago
+
+---
+
 **[Traveled to Mexico with only Bitcoin - withdrew pesos in 2 minutes](https://www.reddit.com/r/Bitcoin/comments/1qhvv89/traveled_to_mexico_with_only_bitcoin_withdrew/)**
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-6h ago
+7h ago
 
 ---
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-14h ago
+15h ago
 
 ---
 
-**[What happened?](https://www.reddit.com/r/Bitcoin/comments/1qi2gw3/what_happened/)**
+**[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-1h ago
+33m ago
 
 ---
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +113,13 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Hard to buy the dip when you're already all in!
 
-22h ago
+1d ago
+
+---
+
+**[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
+
+1h ago
 
 ---
 
@@ -115,21 +127,13 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-12h ago
+14h ago
 
 ---
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-10h ago
-
----
-
-**[92k boys. It was a fun. bitcoin is dead again](https://www.reddit.com/r/Bitcoin/comments/1qhn4n2/92k_boys_it_was_a_fun_bitcoin_is_dead_again/)**
-
-See you at the next funeral
-
-14h ago
+11h ago
 
 ---
 
@@ -137,15 +141,7 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 10h ago
-
----
-
-**[The Dollar is a Ponzi](https://www.reddit.com/r/Bitcoin/comments/1qhzm3u/the_dollar_is_a_ponzi/)**
-
-Hey everyone - I made this video explaining why Fiat is a ponzi and why we need to return to hard money. Check it out and lmk if you pick something up from it.
-
-🔗 [youtu.be](https://youtu.be/BYK6m299bMw?si=OH5QLn4tyVu_H01i) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 11h ago
 
 ---
 
@@ -153,77 +149,73 @@ Hey everyone - I made this video explaining why Fiat is a ponzi and why we need 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin whale wakes up after 12 years to move $84 million fortune](https://www.coindesk.com/markets/2026/01/20/bitcoin-whale-wakes-up-after-12-years-to-move-usd84-million-fortune)**
+**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
-
-CoinDesk • 10h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdRDfaDqbs4RIBIAUaDHvkrxin-H2mD4q1yNM4oQ2lBxOiWvtGrdC2G&gaa_ts=696f956b&gaa_sig=UDndcOVhBHacryIVHiWHJXH8toKWrLdpiDJ62GSHSLuuKfs_q9rLIGBoae1Rg9kv1OieS0jxpt26UKhMUmB41A%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqfY9bVKBN-clOb4ArF5qmyPzvjAZpD3W7AKHURBMrolOyDmOUVs5_iw&gaa_ts=696fb2cd&gaa_sig=sD9PEWmGeKnc4WQzpOEyD_iYBAyrk_VuKwxrYGPEYoplsCCjSYjqbZjYjfw_mhp6mAC_HSUtUAun2D_ZGyn2PA%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Is GameStop Dumping Its Bitcoin Treasury? Here’s How Much BTC They Have Moved to Coinbase Prime](https://finance.yahoo.com/news/gamestop-dumping-bitcoin-treasury-much-131156647.html)**
+**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-GameStop transferred 2,396 BTC total to Coinbase Prime in January 2026. The moves include 100 BTC on Jan 17 and 2,296 BTC on Jan 20. ...
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin is at risk of slide to $58,000 as 'restrictive' Fed policy and trade tensions weigh on crypto](https://www.coindesk.com/markets/2026/01/20/bitcoin-is-at-risk-of-a-major-slide-to-usd58-000-as-restrictive-fed-policy-and-global-trade-tensions-weigh-on-crypto)**
-
-Analysts warn macro risks, not charts, could drive Bitcoin to $58K as liquidity stays tight and rate cuts stall.
-
-CoinDesk • 3h ago
-
----
-
-**[Strategy (MSTR) adds 22,305 BTC, bringing holdings to 709,715 coins](https://www.coindesk.com/markets/2026/01/20/michael-saylor-s-strategy-purchases-another-usd2-13-billion-in-bitcoin)**
-
-The company now holds 709,715 bitcoin, acquired for nearly $54 billion.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
-
-Bloomberg • 1d ago
-
----
-
-**[Bitcoin BTC USD Price Slides Below $92K as Tariff Fears Spook Global Markets](https://finance.yahoo.com/news/bitcoin-btc-usd-price-slides-064549770.html)**
-
-Under Donald Trump, you can’t mention the president without tariffs. Tariffs have become a defining aspect of President Trump, and the global economy often reacts with caution. Not only do asset prices fall, but risky ones are often the most affected. In 2025, Bitcoin and some of the best cryptos ...
+**[Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit](https://finance.yahoo.com/news/bitcoin-og-sells-12-years-114607600.html)**
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[As BTC price slides on tariffs threat, market makers may amplify volatility: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2026/01/20/as-tariff-threat-hits-bitcoin-invisible-hands-may-amplify-swings-crypto-daybook-americas)**
+**[Bitcoin January 20 daily chart alert - Bulls are fading](https://www.kitco.com/news/article/2026-01-20/bitcoin-january-20-daily-chart-alert-bulls-are-fading)**
 
-The day ahead in crypto: Jan. 20, 2026
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-CoinDesk • 3h ago
+KITCO • 3h ago
 
 ---
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
-**[Bitcoin Price Outlook Still 'Constructive' Despite Geopolitical 'Noise'](https://decrypt.co/355087/bitcoin-price-outlook-constructive-geopolitical-macro-noise)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.nasdaq.com/articles/where-will-bitcoin-be-3-years-0)**
 
-Bitcoin steadied after a sharp selloff, with analysts citing ETF inflows as support for its longer-term outlook despite macro shocks.
+Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
 
-Decrypt • 11h ago
+Nasdaq • 1d ago
+
+---
+
+**[Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)**
+
+Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
+
+CNBC • 3d ago
+
+---
+
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
+
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+
+Gizmodo • 1d ago
+
+---
+
+**[Satoshi-Era Whale Moves $85M in Bitcoin After 13 Years](https://bitbo.io/news/satoshi-era-whale-moves/)**
+
+A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
+
+Bitbo • 9h ago
 
 ---
 
@@ -243,7 +235,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 3d ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 4d ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -251,7 +243,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -275,7 +267,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -287,7 +279,13 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 0 • 45m ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 0 • 1h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+
+---
+
+**[Treating anxiety as a bug in legacy code (engineering approach)](https://news.ycombinator.com/item?id=46693792)**
+
+⬆️ 1 • 💬 0 • 8m ago
 
 ---
 
@@ -295,13 +293,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler
 
-⬆️ 7 • 💬 1 • 4h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
-
----
-
-**[Ask HN: Fundraising compensation](https://news.ycombinator.com/item?id=46643463)**
-
-⬆️ 4 • 💬 5 • 4d ago
+⬆️ 7 • 💬 1 • 5h ago • [BBC News](https://www.bbc.co.uk/news/articles/c0lx7j1lrwro)
 
 ---
 
@@ -309,43 +301,13 @@ Transatlantic relations aren't broken, though they are damaged. And if Europeans
 
 ## YouTube Videos: "bitcoin"
 
-**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
+**[Trump Just Unleashed Chaos in Crypto Markets](https://www.youtube.com/watch?v=UQyqD52P4yM)**
 
-In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
+Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Insider
+📺 Lark Davis
 
-👁️ 7K • 👍 786 • 💬 34 • ⏱️ 21:45 • 5h ago
-
----
-
-**[IF BITCOIN BREAKS THIS LEVEL, IT’S GAME OVER…](https://www.youtube.com/watch?v=Oq6csH_JXLg)**
-
-Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
-
-📺 100XClub
-
-👁️ 5K • 👍 686 • 💬 189 • ⏱️ 8:31 • 5h ago
-
----
-
-**[Bitcoin: Historic Data Shows The Bear Will End Here](https://www.youtube.com/watch?v=gE1lC3bZlzo)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 7K • 👍 533 • 💬 263 • ⏱️ 28:52 • 6h ago
-
----
-
-**[TRUMP IS ABOUT TO DUMP BITCOIN !!!!](https://www.youtube.com/watch?v=pbaO6R-q-YU)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 298 • 💬 67 • ⏱️ 7:24 • 4h ago
+👁️ 10K • 👍 741 • 💬 139 • ⏱️ 14:45 • 6h ago
 
 ---
 
@@ -355,37 +317,17 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 340 • ⏱️ 21:56 • 15h ago
+👁️ 34K • 👍 3K • 💬 343 • ⏱️ 21:56 • 16h ago
 
 ---
 
-**[BITCOIN HOLDERS... EVERYTHING IS ABOUT TO CHANGE](https://www.youtube.com/watch?v=1gnkT0znnpA)**
+**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
 
-📺 Satoshi Stacker
+📺 Crypto Insider
 
-👁️ 7K • 👍 525 • 💬 49 • ⏱️ 10:25 • 7h ago
-
----
-
-**[WARNING FOR ALL BITCOIN HOLDERS...](https://www.youtube.com/watch?v=F9oZlU7nsFU)**
-
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 6K • 👍 407 • 💬 39 • ⏱️ 9:16 • 10h ago
-
----
-
-**[Cardano CEO Crashes Out As CLARITY Act Get&#39;s &#39;Sabotaged&#39;](https://www.youtube.com/watch?v=FGxYARR1eug)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 324 • ⏱️ 8:54 • 15h ago
+👁️ 14K • 👍 1K • 💬 51 • ⏱️ 21:45 • 6h ago
 
 ---
 
@@ -395,17 +337,67 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 355 • ⏱️ 8:03 • 21h ago
+👁️ 28K • 👍 1K • 💬 388 • ⏱️ 8:03 • 22h ago
 
 ---
 
-**[Bitcoin: Timing Cycle Bottoms](https://www.youtube.com/watch?v=joW6YbFRDI0)**
+**[BITCOIN HOLDERS... EVERYTHING IS ABOUT TO CHANGE](https://www.youtube.com/watch?v=1gnkT0znnpA)**
 
-In this video, we explore one of the most aesthetically pleasing and insightful charts in all of Bitcoin analytics: the Percentage of ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Benjamin Cowen
+📺 Satoshi Stacker
 
-👁️ 47K • 👍 3K • 💬 145 • ⏱️ 8:01 • 17h ago
+👁️ 10K • 👍 588 • 💬 51 • ⏱️ 10:25 • 8h ago
+
+---
+
+**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
+
+Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
+
+📺 Thomas Kralow
+
+👁️ 28K • 👍 3K • 💬 28 • ⏱️ 12:15 • 1d ago
+
+---
+
+**[WARNING FOR ALL BITCOIN HOLDERS...](https://www.youtube.com/watch?v=F9oZlU7nsFU)**
+
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 7K • 👍 432 • 💬 45 • ⏱️ 9:16 • 11h ago
+
+---
+
+**[Bitcoin Inflows SURGE Despite Market Sell Off! Shake Out Or New Lows Incoming?](https://www.youtube.com/watch?v=YoU4zlMZwXU)**
+
+Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
+
+📺 The Wolf Of All Streets
+
+👁️ 31K • 👍 1K • 💬 266 • ⏱️ 1:02:47 • 1d ago
+
+---
+
+**[Crypto Just Dumped Hard… Here’s Why](https://www.youtube.com/watch?v=1pnEWHxAsd4)**
+
+Bitcoin, XRP, SOL, altcoins, and space stocks! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 865 • 💬 115 • ⏱️ 15:35 • 1d ago
+
+---
+
+**[Bitcoin: Historic Data Shows The Bear Will End Here](https://www.youtube.com/watch?v=gE1lC3bZlzo)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 10K • 👍 683 • 💬 273 • ⏱️ 28:52 • 7h ago
 
 ---
 

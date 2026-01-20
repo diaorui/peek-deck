@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T15:32:45.976882+00:00'
+updated: '2026-01-20T16:38:04.041393+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 15:32 UTC  
+**Last Updated:** January 20, 2026 at 16:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-12h ago
+13h ago
 
 ---
 
@@ -61,19 +61,19 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 ---
 
-**[hy does the AI industry seem almost entirely web/JS-focused?](https://www.reddit.com/r/artificial/comments/1qhwo79/hy_does_the_ai_industry_seem_almost_entirely/)**
-
-One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
-
-5h ago
-
----
-
 **[I built an AI Investigator using Two Knowledge Graphs Connected to a Chatbot That Combed Through the Epstein Files. This is What it Found Within a Few Minutes](https://www.reddit.com/r/artificial/comments/1qi3u9p/i_built_an_ai_investigator_using_two_knowledge/)**
 
 When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 13m ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 1h ago
+
+---
+
+**[hy does the AI industry seem almost entirely web/JS-focused?](https://www.reddit.com/r/artificial/comments/1qhwo79/hy_does_the_ai_industry_seem_almost_entirely/)**
+
+One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
+
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by con
 
 https://apify.com/mick-johnson/topic-radar/ Track any topic across the internet and get aggregated, ranked results from multiple sources in one place. Perfect for market research, competitive intelligence, trend monitoring, content creation, and staying updated on any subject.
 
-23m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://apify.com/mick-johnson/topic-radar/ Track any topic across the internet 
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 5h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ When you talk to a large language model, you can think of yourself as talking to
 
 Hey folks, I’m a law student with some tech background (I’ve done CS50 for Lawyers), and now I want to learn AI in a way that’s actually useful in real life and for my career. I don’t care about certificates for the sake of certificates, I want skills I can actually implement. I’m happy to learn Python basics if needed. I want courses that give real understanding of how AI/ML works and how to build or use models, not just surface-level overviews. Looking for: Beginner to intermediate AI/ML courses that lead to real skills Practical, project-oriented learning Good path suggestions (what to take first, then next) Free or paid options, as long as they’re high
 
-5h ago
+6h ago
 
 ---
 
@@ -105,15 +105,15 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 12h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 13h ago
 
 ---
 
-**[OpenAI to test ads in ChatGPT as it burns through billions](https://www.reddit.com/r/artificial/comments/1qi0zg9/openai_to_test_ads_in_chatgpt_as_it_burns_through/)**
+**[One-Minute Daily AI News 1/19/2026](https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/)**
 
-Ads coming to free tier and new $8/month ChatGPT Go plan in US.
+Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-🔗 [Ars Technica](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) • 2h ago
+10h ago
 
 ---
 
@@ -123,7 +123,67 @@ Ads coming to free tier and new $8/month ChatGPT Go plan in US.
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqfR4Kc8He0jYgJ7QPkZGjXKnl5Yuxuh8B8UbWM09-ettHFAbQA-PgDp&gaa_ts=696fb2cb&gaa_sig=IySNiUrQiK9Q_GD1UhRSte2MaWOOzKN16rmF431viEqoX3qquDKOH2I-8smiNj1s_xWtPaGzqQskP7PWFtQGnA%3D%3D)**
+
+The Wall Street Journal • 3h ago
+
+---
+
+**[AI partnership with OpenAI is ‘reinventing companies as we speak’, says ServiceNow CEO](https://www.foxbusiness.com/video/6387988829112)**
+
+ServiceNow Chairman and CEO Bill McDermott joins ‘Mornings with Maria’ to discuss the company’s new OpenAI partnership, the accelerating AI revolution and why businesses must move fast to stay competitive.
+
+Fox Business • 2h ago
+
+---
+
+**[ServiceNow and OpenAI collaborate to deepen and accelerate enterprise AI outcomes](https://finance.yahoo.com/news/servicenow-openai-collaborate-deepen-accelerate-134500771.html)**
+
+SANTA CLARA, Calif., January 20, 2026--ServiceNow and OpenAI announced an enhanced strategic collaboration to power agentic AI experiences and accelerate enterprise AI outcomes.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Nvidia, AMD: UAE to Get Advanced AI Chips in Couple of Months, G42 Chief Says](https://www.bloomberg.com/news/articles/2026-01-20/nvidia-amd-uae-to-get-advanced-ai-chips-in-couple-of-months-g42-chief-says)**
+
+Bloomberg.com • 51m ago
+
+---
+
+**[Veteran investor Jeremy Grantham says AI is 'obviously a bubble' — and it could tank the stock market when it bursts](https://www.businessinsider.com/jeremy-grantham-ai-bubble-nvidia-tech-stocks-stock-market-crash-2026-1)**
+
+Veteran investor Jeremy Grantham compared the AI boom to the railroad and internet bubbles, and said the chances it won't burst are "slim to none."
+
+Business Insider • 45m ago
+
+---
+
+**[BeatStars Acquires Lemonaide AI, Integrating Generative Music Into Rights-First Creator Platform](https://www.forbes.com/sites/virginieberger/2026/01/20/beatstars-acquires-lemonaide-ai-integrating-generative-music-into-rights-first-creator-platform/)**
+
+BeatStars acquires Lemonaide AI to integrate ethical music generation into its rights-first platform that has paid creators over $450 million
+
+Forbes • 22m ago
+
+---
+
+**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
+
+"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
+
+CNBC • 3h ago
+
+---
+
+**[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
+
+Young graduates can’t find jobs. Schools know they have to make big changes. But what?
+
+New York Magazine • 6h ago
 
 ---
 
@@ -135,62 +195,6 @@ CNN • 2d ago
 
 ---
 
-**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
-
-"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
-
-CNBC • 2h ago
-
----
-
-**[Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software](https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?gaa_at=eafs&gaa_n=AWEtsqe3FgB9a1-8Xwr2-0BUTitpLFyg1BukfyMKtcdcmUWW35qfQIi82iON&gaa_ts=696f956a&gaa_sig=ES1L1_XrZxCdjL2R5XyoANcK6m7k5hlIgNn5zOkk9hpC9k9M7-yFL6Emxy_rVbKu98wBvhEpYbfGIuHeP-hK-g%3D%3D)**
-
-The Wall Street Journal • 2h ago
-
----
-
-**[Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea](https://www.bloomberg.com/news/articles/2026-01-20/anthropic-ceo-says-selling-advanced-ai-chips-to-china-is-crazy)**
-
-Bloomberg • 3h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1d ago
-
----
-
-**[Grok’s Sexualized Images Test the Limits of AI Oversight](https://www.bloomberg.com/news/features/2026-01-19/grok-ai-sexualized-images-expose-gaps-in-oversight-enforcement)**
-
-Bloomberg • 17h ago
-
----
-
-**[Tesla to revive Dojo AI supercomputer as Musk says AI5 design is ready](https://interestingengineering.com/ai-robotics/musk-to-restart-dojo3-supercomputer)**
-
-The AI5 chip will "make the cars almost perfect and greatly enhance Optimus," Tesla CEO Elon Musk added in a post on X.
-
-Interesting Engineering • 1h ago
-
----
-
-**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
-
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
-
-The Guardian • 2d ago
-
----
-
-**[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
-
-Axios • 5h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,19 +203,19 @@ Axios • 5h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 303 • 💬 425 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 305 • 💬 425 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 229 • 💬 85 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 230 • 💬 86 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 159 • 💬 178 • 1d ago
+⬆️ 161 • 💬 178 • 1d ago
 
 ---
 
@@ -219,7 +223,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 142 • 💬 162 • 20h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 145 • 💬 166 • 21h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -235,7 +239,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 107 • 💬 129 • 7h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 110 • 💬 131 • 8h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -243,7 +247,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 106 • 💬 123 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 107 • 💬 123 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -267,7 +271,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 Opinion: As software power tools, AI agents may make people busier than ever before.
 
-⬆️ 29 • 💬 21 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
+⬆️ 31 • 💬 21 • 1d ago • [Ars Technica](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/)
 
 ---
 
@@ -275,13 +279,33 @@ Opinion: As software power tools, AI agents may make people busier than ever bef
 
 ## YouTube Videos: "ai"
 
+**[Best AI Video Generators in 2026 (Most Realistic)](https://www.youtube.com/watch?v=-vwHldNaGPI)**
+
+Access Every Major AI Video Model in OpenArt https://youricreates.com/ai-video-generator In this video, I rank the best AI video ...
+
+📺 Youri van Hofwegen
+
+👁️ 3K • 💬 8 • ⏱️ 15:36 • 38m ago
+
+---
+
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
+
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
+
+📺 Matthew Berman
+
+👁️ 57K • 👍 2K • 💬 510 • ⏱️ 18:33 • 17h ago
+
+---
+
 **[Free AI Video Generator on Your PC (No Subscriptions, No Limits)](https://www.youtube.com/watch?v=G2Ec3h5CfA8)**
 
 Want to generate AI videos for free, directly on your own PC? In this video, I'll show you how to run powerful open-source AI video ...
 
 📺 Kevin Stratvert
 
-👁️ 6K • 👍 641 • 💬 48 • ⏱️ 11:51 • 7h ago
+👁️ 11K • 👍 976 • 💬 70 • ⏱️ 11:51 • 8h ago
 
 ---
 
@@ -291,7 +315,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 16K • 👍 763 • 💬 193 • ⏱️ 9:12 • 1d ago
+👁️ 18K • 👍 805 • 💬 198 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -301,7 +325,17 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 230 • 💬 65 • ⏱️ 24:36 • 1d ago
+👁️ 8K • 👍 231 • 💬 65 • ⏱️ 24:36 • 1d ago
+
+---
+
+**[I actually tried AI coding and it&#39;s worse than I thought...](https://www.youtube.com/watch?v=DLwyGjFsPPM)**
+
+An honest review of the Codex CLI coding agent. Topics: - Working with coding agents; - Codex and Chat GPT review; ...
+
+📺 Awesome
+
+👁️ 59K • 👍 4K • 💬 753 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -311,17 +345,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 45K • 👍 1K • 💬 330 • ⏱️ 10:58 • 20h ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 2.0M • 👍 74K • 💬 7K • ⏱️ 15:50 • 1d ago
+👁️ 47K • 👍 2K • 💬 343 • ⏱️ 10:58 • 21h ago
 
 ---
 
@@ -331,47 +355,27 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 900 • 💬 65 • ⏱️ 7:01 • 2d ago
+👁️ 18K • 👍 904 • 💬 65 • ⏱️ 7:01 • 2d ago
 
 ---
 
-**[AI vs Human: Can it actually color my animation?](https://www.youtube.com/watch?v=WK-HNE7TBFI)**
+**[How I create Motion Graphics videos in MINUTES with AI](https://www.youtube.com/watch?v=4XY8Jc7CI7g)**
 
-AI vs Human: Is the "Hand-Drawn" era over? ✍️ vs I put AI to the ultimate test: taking my rough animation sketches and doing ...
+Learn how to create Viral Motion graphics in Minutes using AI and a smart content creation system, this works for Personal Brands ...
 
-📺 Hayk_Animation
+📺 Grow with Alex
 
-👁️ 25K • 👍 2K • 💬 33 • ⏱️ 0:14 • 14h ago
-
----
-
-**[EVERY Google AI Tool Explained (in 9 Minutes!)](https://www.youtube.com/watch?v=J-KCTMXMYpo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 11K • 👍 283 • 💬 11 • ⏱️ 9:45 • 1d ago
+👁️ 5K • 👍 332 • 💬 9 • ⏱️ 23:50 • 1d ago
 
 ---
 
-**[How AI Is Destroying Education](https://www.youtube.com/watch?v=EL3fgOSqfIE)**
+**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
 
-Go to https://surfshark.com/dumanity or use code DUMANITY at checkout to get 4 extra months of Surfshark VPN! 0:00 Intro 1:49 ...
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-📺 Dumanity
+📺 penguinz0
 
-👁️ 67K • 👍 3K • 💬 544 • ⏱️ 12:32 • 1d ago
-
----
-
-**[ONLY 1% Can Spot The AI (Impossible Level) #asmr](https://www.youtube.com/watch?v=QKIfVlJ5oAQ)**
-
-BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
-
-📺 Dong ASMR
-
-👁️ 310K • 👍 12K • 💬 572 • ⏱️ 0:53 • 1d ago
+👁️ 2.1M • 👍 76K • 💬 7K • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 8,705 • ❤️ 880 • 5d ago
+⬇️ 8,705 • ❤️ 885 • 5d ago
 
 ---
 
@@ -399,7 +403,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 667 • 1h ago
+⬇️ 15,168 • ❤️ 703 • 3h ago
 
 ---
 
@@ -411,7 +415,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 371 • 5d ago
+⬇️ 35,593 • ❤️ 374 • 5d ago
 
 ---
 
@@ -423,7 +427,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,735,752 • ❤️ 1,201 • 1d ago
+⬇️ 1,735,752 • ❤️ 1,208 • 1d ago
 
 ---
 
@@ -433,7 +437,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 316 • 1d ago
+⬇️ 31,778 • ❤️ 323 • 1d ago
 
 ---
 
@@ -445,7 +449,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 2,201 • ❤️ 369 • 2d ago
+⬇️ 2,201 • ❤️ 371 • 2d ago
 
 ---
 
@@ -469,7 +473,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 58,165 • ❤️ 787 • 12d ago
+⬇️ 58,165 • ❤️ 788 • 12d ago
 
 ---
 
@@ -481,7 +485,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 26,285 • ❤️ 234 • 4d ago
+⬇️ 26,285 • ❤️ 235 • 4d ago
 
 ---
 
@@ -493,7 +497,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 17,086 • ❤️ 211 • 5d ago
+⬇️ 17,086 • ❤️ 214 • 5d ago
 
 ---
 
@@ -509,7 +513,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 9 • 💬 3 • ⭐ 279 • 4d ago
+▲ 9 • 💬 3 • ⭐ 360 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -533,7 +537,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 28 • 💬 1 • ⭐ 2,991 • 8d ago
+▲ 29 • 💬 1 • ⭐ 3,034 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -545,7 +549,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 0 • 💬 0 • ⭐ 1,840 • 15d ago
+▲ 0 • 💬 0 • ⭐ 1,860 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -595,9 +599,21 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 1,920 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 1,977 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
+
+---
+
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 157 • 💬 3 • ⭐ 4,064 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
 ---
 
@@ -607,7 +623,7 @@ https://continuous-audio-language-models.github.io
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 31 • 💬 3 • ⭐ 1,570 • 14d ago
+▲ 31 • 💬 3 • ⭐ 1,570 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -622,21 +638,9 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 135 • 💬 19 • ⭐ 50,582 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,625 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 20 • 💬 4 • ⭐ 15,661 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -650,7 +654,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 10h ago
+⭐ 9.3k • 🔱 1.2k • 11h ago
 
 ---
 
@@ -660,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 445 • 23h ago
+⭐ 8.7k • 🔱 451 • 25m ago
 
 ---
 
@@ -680,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.4k • 🔱 712 • 12d ago
+⭐ 5.5k • 🔱 722 • 12d ago
 
 ---
 
@@ -690,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 862 • 4h ago
+⭐ 5.2k • 🔱 865 • 5h ago
 
 ---
 
@@ -700,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.0k • 2h ago
+⭐ 4.0k • 🔱 4.1k • 3h ago
 
 ---
 
@@ -730,7 +734,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 150 • 5h ago
+⭐ 1.9k • 🔱 150 • 36m ago
 
 ---
 
@@ -738,7 +742,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.5k • 🔱 105 • 1d ago
+⭐ 1.6k • 🔱 111 • 1d ago
 
 ---
 
