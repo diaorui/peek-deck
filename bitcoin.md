@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T10:56:39.307062+00:00'
+updated: '2026-01-20T11:28:04.769630+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 10:56 UTC  
+**Last Updated:** January 20, 2026 at 11:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 **[Tick-Tock... US Debt Clock](https://www.reddit.com/r/Bitcoin/comments/1qhs85d/ticktock_us_debt_clock/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ I dont know how it is for everybody else. Can anybody tell me the trick. I manag
 
 See you at the next funeral
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ See you at the next funeral
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9u7dc0EiYzg&list=WL&index=5) • 6h ago
 
 ---
 
@@ -157,13 +157,13 @@ Tell me your 52 weeks low this year
 
 **[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
 **[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqeUCvM6ehWJtv3IynPH98mpNbgebAS4zLbZ9NDCHPKrCed3fg_6R9b3&gaa_ts=696f5c85&gaa_sig=k_ovs3U8MWp7E_5RqKZXy1RNs7a4vP5awwSCehIdvexlks20yHsCW5MCuXwa8EwESRP8VA8IXepi_TpGNDLqLg%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ MarketWatch • 19h ago
 
 Data suggests Bitcoin may continue falling below $86,000, but it has entered a consolidation phase, preparing for recovery.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1h ago
 
 The 10-year U.S. Treasury yield has climbed to 4.27 percent, a four-month high that raises borrowing costs across the global economy.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Barron's • 1h ago
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Gizmodo • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 21h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 22h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -317,7 +317,7 @@ BTC is at risk of breaking down. In today's video, Kyledoops shows you the downs
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 608 • 💬 8 • ⏱️ 30:58 • 2h ago
+👁️ 5K • 👍 608 • 💬 8 • ⏱️ 30:58 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 169 • 💬 19 • ⏱️ 10:25 • 2h ago
+👁️ 2K • 👍 169 • 💬 19 • ⏱️ 10:25 • 3h ago
 
 ---
 
@@ -377,7 +377,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 871 • 💬 407 • ⏱️ 10:31 • 16h ago
+👁️ 12K • 👍 871 • 💬 407 • ⏱️ 10:31 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Vaykayy
 
-👁️ 7K • 👍 3K • 9h ago
+👁️ 7K • 👍 3K • 10h ago
 
 ---
 
@@ -397,7 +397,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 190 • 💬 38 • ⏱️ 5:28 • 13h ago
+👁️ 3K • 👍 190 • 💬 38 • ⏱️ 5:28 • 14h ago
 
 ---
 

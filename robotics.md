@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T10:56:39.315149+00:00'
+updated: '2026-01-20T11:28:04.778911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 10:56 UTC  
+**Last Updated:** January 20, 2026 at 11:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Paper: Text to Robotic Assembly of Multi Component Objects using 3D Generative A
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 6h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-23h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-35m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-19h ago
+20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Tom's Hardware • 23h ago
 
 Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ KPTV • 2d ago
 
 Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ SciTechDaily • 1d ago
 
 **[CMES Robotics Expands AI-Driven Warehouse Automation Footprint with New Logistics Projects](https://www.morningstar.com/news/pr-newswire/20260120cn65892/cmes-robotics-expands-ai-driven-warehouse-automation-footprint-with-new-logistics-projects)**
 
-morningstar.com • 5h ago
+morningstar.com • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ This little black ball is a microscopic robot. And it was designed to deliver dr
 
 📺 Kallaway
 
-👁️ 14K • 👍 692 • 💬 22 • ⏱️ 0:39 • 20h ago
+👁️ 14K • 👍 692 • 💬 22 • ⏱️ 0:39 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ My Brother Tries War Robots. I was not expecting to do this, but my brother sugg
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 946 • 💬 213 • ⏱️ 30:19 • 21h ago
+👁️ 11K • 👍 946 • 💬 213 • ⏱️ 30:19 • 22h ago
 
 ---
 

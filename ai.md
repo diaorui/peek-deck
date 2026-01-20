@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T10:56:39.299556+00:00'
+updated: '2026-01-20T11:28:04.761196+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 10:56 UTC  
+**Last Updated:** January 20, 2026 at 11:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 **[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-CNN • 1d ago
+CNN • 2d ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1d ago
 
 **[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
 
-Axios • 55m ago
+Axios • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 3h ago
 
 AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
 
-BBC • 56m ago
+BBC • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1d ago
 
 Memory capacity has quickly emerged as a bottleneck in the AI build-out.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ OpenAI • 1d ago
 
 A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 158 • 💬 175 • 21h ago
+⬆️ 158 • 💬 175 • 22h ago
 
 ---
 
@@ -261,7 +261,7 @@ A new report warns that AI poses a serious threat to children's cognitive develo
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 90 • 💬 108 • 2h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 90 • 💬 108 • 3h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -303,7 +303,7 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 42K • 👍 1K • 💬 303 • ⏱️ 10:58 • 15h ago
+👁️ 42K • 👍 1K • 💬 303 • ⏱️ 10:58 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greate
 
 📺 OpenAI
 
-👁️ 18K • 👍 744 • 💬 93 • ⏱️ 49:42 • 18h ago
+👁️ 18K • 👍 744 • 💬 93 • ⏱️ 49:42 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 605 • 7h ago
+⬇️ 15,168 • ❤️ 605 • 8h ago
 
 ---
 
@@ -559,7 +559,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 22 • 💬 3 • ⭐ 616 • 4d ago
+▲ 22 • 💬 3 • ⭐ 616 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 437 • 18h ago
+⭐ 8.5k • 🔱 437 • 19h ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 852 • 8h ago
+⭐ 5.2k • 🔱 852 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.9k • 🔱 3.9k • 20h ago
+⭐ 3.9k • 🔱 3.9k • 21h ago
 
 ---
 
