@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T06:38:24.727974+00:00'
+updated: '2026-01-20T07:29:14.533571+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 06:38 UTC  
+**Last Updated:** January 20, 2026 at 07:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,167.18
+### $3,120.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -5.6%  
-**30d:** +5.4%  
-**90d:** -17.8%  
-**1y:** -4.4%  
+**24h:** -2.9%  
+**7d:** -7.0%  
+**30d:** +3.8%  
+**90d:** -19.1%  
+**1y:** -5.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $383.92B
+**Market Cap:** $376.39B
 Rank #2
 
 **Circulating Supply:** 120,694,565 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.7%
+-36.9%
 
 **All-Time Low:** $0.43
-+734526.9%
++720163.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 20, 2026](https://www.reddit.com/r/ethereum/comments/1qht34y/daily_general_discussion_january_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Ethereum’s transaction activity has reached a new all-time high!](https://www.reddit.com/r/ethereum/comments/1qh6f52/ethereums_transaction_activity_has_reached_a_new/)**
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 10h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 11h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The original drive to build Ethereum was heavily inspired by decentralized autonomous organizations: systems of code and rules that lived on decentralized networks that could manage resources and direct activity, more efficiently and more robustly than traditional governments and corporations could. Since then, the concept of DAOs has migrated to essentially referring to a treasury controlled by token holder voting - a design which "works", hence why it got copied so much, but a design which is inefficient, vulnerable to capture, and fails utterly at the goal of mitigating the weaknesses of human politics. As a result, many have become cynical about DAOs. But we need DAOs. We need DAOs to create better oracles. Today, decentralized stablecoins, prediction markets, and other basic building blocks of defi are built on oracle designs that we are not satisfied with. If the oracle is token based, whales can manipulate the answer on a subjective issue and it becomes difficult to counteract them. Fundamentally, a token-based oracle cannot have a cost of attack higher than its market cap, which in turn means it cannot secure assets without extracting rent higher than the discount rate. And if the oracle uses human curation, then it's not very decentralized. The problem here is not greed. The problem is that we have bad oracle designs, we need better ones, and bootstrapping them is not just a technical problem but also a social problem. We need DAOs for onchain dispute resolution, a necessary component of many types of more advanced smart contract use cases (eg. insurance). This is the same type of problem as price oracles, but even more subjective, and so even harder to get right. We need DAOs to maintain lists. This includes: lists of applications known to be secure or not scams, lists of canonical interfaces, lists of token contract addresses, and much more. We need DAOs to get projects off the ground quickly. If you have a group of people, who all want something done and are willing to contribute some funds (perhaps in exchange for benefits), then how do you manage this, especially if the task is too short-duration for legal entities to be worth it? We need DAOs to do long-term project maintenance. If the original team of a project disappears, how can a community keep going, and how can new people coming in get the funding they need? One framework that I use to analyze this is "convex vs concave" from https://vitalik.eth.limo/general/2020/11/08/concave.html . If the DAO is solving a concave problem, then it is in an environment where, if faced with two possible courses of action, a compromise is better than a coin flip. Hence, you want systems that maximize robustness by averaging (or rather, medianing) in input from many sources, and protect against capture and financial attacks. If the DAO is solving a convex problem, then you want the ability to make decisive choices and follow through on them. In this case, leaders can be good, and the job of the decentralized process should be to keep the leaders in check. For all of this to work, we need to solve two problems: privacy, and decision fatigue. Without privacy, governance becomes a social game (see https://vitalik.eth.limo/general/2025/04/14/privacy.html ). And if people have to make decisions every week, for the first month you see excited participation, but over time willingness to participate, and even to stay informed, declines. I see modern technology as opening the door to a renaissance here. Specifically: ZK (and in some cases MPC/FHE, though these should be used only when ZK along cannot solve the problem) for privacy AI to solve decision fatigue Consensus-finding communication tools (like pol.is, but going further) AI must be used carefully: we must not put full-size deepseek (or worse, GPT 5.2) in charge of a DAO and call it a day. Rather, AI must be put in thoughtfully, as something that scales and enhances human intention and judgement, rather than replacing it. This could be done at DAO level (eg. see how https://www.deepfunding.org/ works), or at individual level (user-controlled local LLMs that vote on their behalf). It is important to think about the "DAO stack" as also including the communication layer, hence the need for forums and platforms specially designed for the purpose. A multisig plus well-designed consensus-finding tools can easily beat idealized collusion-resistant quadratic funding plus crypto twitter. But in all cases, we need new designs. Projects that need new oracles and want to build their own should see that as 50% of their job, not 10%. Projects working on new governance designs should build with ZK and AI in mind, and they should treat the communication layer as 50% of their job, not 10%. This is how we can ensure the decentralization and robustness of the Ethereum base layer also applies to the world that gets built on top.
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +120,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-10h ago
+11h ago
 
 ---
 
@@ -120,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-13h ago
+14h ago
 
 ---
 
@@ -140,14 +148,6 @@ An important, and perenially underrated, aspect of "trustlessness", "passing the
 
 ---
 
-**[Daily General Discussion January 17, 2026](https://www.reddit.com/r/ethereum/comments/1qf5ctg/daily_general_discussion_january_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -166,35 +166,27 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum Network Activity Surge Linked to Address Poisoning Attacks: Researcher](https://finance.yahoo.com/news/ethereum-network-activity-surge-linked-062621315.html)**
+
+A recent spike in activity on the Ethereum network may be partly driven by address poisoning attacks that have become cheaper to execute amid falling transaction fees, according to security researcher Andrey Sergeenkov. Key Takeaways: Part of Ethereum’s recent activity surge may be driven by address poisoning spam rather than ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum posts record onchain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Ethereum Co-Founder Vitalik Buterin Says The Blockchain Must Achieve Full Quantum Resistance 'As Soon As Possible'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-020110620.html)**
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
 
-Ethereum should not wait until the last moment before working towards quantum resistance, co-founder Vitalik Buterin says. "We should resist the trap of saying ‘let’s delay quantum-resistance until the last possible moment in the name of ekeing [sic] out more...
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target](https://www.tradingview.com/news/newsbtc:6324476c6094b:0-ethereum-s-4-hour-chart-says-a-big-dump-is-coming-here-s-the-target/)**
-
-The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
-
-TradingView — Track All Markets • 14h ago
-
----
-
-**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
-
-ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
-
-AMBCrypto • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -206,21 +198,31 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Hits Transaction Record as Fees Crash to Pennies](https://99bitcoins.com/news/altcoins/ethereum-transactions-record-low-fees/)**
+**[Why Vitalik Buterin believes Ethereum will regain ‘lost ground’ in 2026](https://ambcrypto.com/why-vitalik-buterin-believes-ethereum-will-regain-lost-ground-in-2026/)**
 
-99Bitcoins • 18h ago
+Here's Vitalik Buterin's new vision for Ethereum in 2026.
 
----
-
-**[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
-
-TipRanks • 9h ago
+AMBCrypto • 2d ago
 
 ---
 
 **[Bitcoin ETFs Face Sharp Profit-Taking as Ethereum Products Maintain Resilience](https://financefeeds.com/bitcoin-etfs-face-sharp-profit-taking-as-ethereum-products-maintain-resilience/)**
 
 FinanceFeeds • 1d ago
+
+---
+
+**[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
+
+TipRanks • 10h ago
+
+---
+
+**[3 Cryptocurrencies Poised for a Comeback in 2026](https://www.fool.com/investing/2026/01/17/x-cryptocurrencies-poised-for-a-comeback-in-2026/)**
+
+This year's top breakout candidates all posted all-time highs in 2025 before ending the year in the red.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 128 • ⏱️ 12:15 • 19h ago
+👁️ 27K • 👍 3K • 💬 90 • ⏱️ 12:15 • 20h ago
 
 ---
 
@@ -244,27 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 410 • 👍 42 • 💬 5 • ⏱️ 6:26 • 4h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 163 • 💬 6 • ⏱️ 7:47 • 13h ago
-
----
-
-**[ETH Ethereum Price Prediction: 19th of January](https://www.youtube.com/watch?v=ZBvMnT96VaU)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 344 • 👍 23 • 💬 22 • ⏱️ 8:16 • 12h ago
+👁️ 888 • 👍 80 • 💬 5 • ⏱️ 6:26 • 5h ago
 
 ---
 
@@ -274,7 +256,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 289 • 💬 30 • ⏱️ 9:21 • 1d ago
+👁️ 8K • 👍 291 • 💬 30 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 19th of January](https://www.youtube.com/watch?v=ZBvMnT96VaU)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 396 • 👍 24 • 💬 22 • ⏱️ 8:16 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 164 • 💬 6 • ⏱️ 7:47 • 14h ago
 
 ---
 
@@ -288,43 +290,43 @@ Bitmine Immersion Technologies said Thursday it's investing $200 million in Beas
 
 ---
 
-**[The Duopolies of 2026: Ethereum &amp; Solana, Coinbase &amp; Robinhood, Polymarket &amp; Kalshi](https://www.youtube.com/watch?v=bsQndyqlj0Q)**
-
-BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium ------ Crypto in 2026 is consolidating ...
-
-📺 Bankless
-
-👁️ 4K • 👍 132 • 💬 23 • ⏱️ 1:02:56 • 19h ago
-
----
-
 **[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kRm0wzbdjjM)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 553 • 👍 15 • 💬 7 • ⏱️ 4:52 • 20h ago
+👁️ 585 • 👍 16 • 💬 7 • ⏱️ 4:52 • 20h ago
 
 ---
 
-**[BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=M6f4i09yjHA)**
+**[The Duopolies of 2026: Ethereum &amp; Solana, Coinbase &amp; Robinhood, Polymarket &amp; Kalshi](https://www.youtube.com/watch?v=bsQndyqlj0Q)**
 
-BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium ------ Crypto in 2026 is consolidating ...
 
-📺 Crypto World
+📺 Bankless
 
-👁️ 7K • 👍 328 • 💬 158 • ⏱️ 21:07 • 12h ago
+👁️ 4K • 👍 145 • 💬 24 • ⏱️ 1:02:56 • 19h ago
 
 ---
 
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YzOWWBPQ3s0)**
 
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Short The Vix
+📺 More Crypto Online
 
-👁️ 5K • 👍 250 • 💬 37 • ⏱️ 13:56 • 2d ago
+👁️ 3K • 👍 173 • 💬 10 • ⏱️ 8:02 • 1d ago
+
+---
+
+**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 3K • 💬 230 • ⏱️ 12:19 • 2d ago
 
 ---
 

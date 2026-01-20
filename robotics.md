@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T06:38:24.731257+00:00'
+updated: '2026-01-20T07:29:14.536823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 06:38 UTC  
+**Last Updated:** January 20, 2026 at 07:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 2h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
 
-12h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello everyone, I am currently working on a project involving topology optimisat
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -128,25 +128,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-Interesting Engineering • 23h ago
-
----
-
-**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
-
-The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
-
-South China Morning Post • 18h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -162,7 +148,15 @@ WRGB • 2d ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 18h ago
+Tom's Hardware • 19h ago
+
+---
+
+**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
+
+Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
+
+The Robot Report • 18h ago
 
 ---
 
@@ -174,17 +168,26 @@ KPTV • 2d ago
 
 ---
 
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
-
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
-
-The Robot Report • 17h ago
-
----
-
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
 SciTechDaily • 1d ago
+
+---
+
+**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+
+You soon might go grocery shopping alongside robots.
+Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+
+Pittsburgh Post-Gazette • 2d ago
+
+---
+
+**[Unbox Robotics Raises USD 28 Mn Funding Led by ICICI Venture and Redstart Labs](https://www.entrepreneur.com/en-in/news-and-trends/unbox-robotics-raises-usd-28-mn-funding-led-by-icici/502033)**
+
+The fresh capital will be used to strengthen its engineering team, speed up product development, and expand its presence in India as well as international markets.
+
+entrepreneur.com • 18m ago
 
 ---
 
@@ -196,25 +199,17 @@ SciTechDaily • 1d ago
 
 📺 Wowearth
 
-👁️ 188K • 👍 2K • 💬 81 • ⏱️ 1:16 • 6d ago
+👁️ 189K • 👍 2K • 💬 81 • ⏱️ 1:16 • 6d ago
 
 ---
 
-**[Best Robotics of CES 2026 - Hyundai!](https://www.youtube.com/watch?v=X76PXyO03Yw)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-📺 Rachel Pizzolato
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-👁️ 17K • 👍 916 • 💬 37 • ⏱️ 1:22 • 1d ago
+📺 joeybtoonz
 
----
-
-**[ChatGPT in a robot does what Godfather of AI warned.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 366K • 👍 16K • 💬 4K • ⏱️ 19:17 • 4d ago
+👁️ 256K • 👍 15K • 💬 3K • ⏱️ 5:12 • 6d ago
 
 ---
 
@@ -228,43 +223,43 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
-**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
-
-📺 CBC News: The National
-
-👁️ 4K • 👍 70 • ⏱️ 7:30 • 7h ago
-
----
-
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
-
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
 📺 KhanFlicks
 
-👁️ 66K • 💬 36 • ⏱️ 12:09 • 2d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 4d ago
 
 ---
 
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+**[Chinese vs. American Robots Backflip](https://www.youtube.com/watch?v=NyaWnnwMm9o)**
 
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+Both Chinese and US humanoid robots successfully land a backflip A moment that shows just how fast humanoid robotics and AI ...
 
-📺 Gohar Khan
+📺 Pit Novations
 
-👁️ 303K • 👍 13K • 💬 219 • ⏱️ 0:49 • 5d ago
+👁️ 45K • 👍 129 • 💬 14 • ⏱️ 0:05 • 5d ago
 
 ---
 
-**[2026 Humanoid Robots! #robotics #humanoidrobots #robots #ai #futuretech #innovation](https://www.youtube.com/watch?v=7FJlDx00W2g)**
+**[My Brother Plays War Robots For The First Time... (DISASTER)](https://www.youtube.com/watch?v=KVzPKQk0qHw)**
 
-It's crazy how many humanoid robots have already popped up in 2026. In China, the Shanghai startup Agibot rang in the New ...
+My Brother Tries War Robots. I was not expecting to do this, but my brother suggested this and wanted to try it. He knew about War ...
 
-📺 Kalil 4.0
+📺 PREDATOR WR
 
-👁️ 2K • 👍 63 • 💬 5 • ⏱️ 2:17 • 1d ago
+👁️ 11K • 👍 926 • 💬 204 • ⏱️ 30:19 • 18h ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 1.8M • 👍 23K • 💬 1K • ⏱️ 33:05 • 1d ago
 
 ---
 
@@ -274,17 +269,27 @@ Scientists have developed autonomous microrobots smaller than a grain of salt th
 
 📺 Dr Ben Miles
 
-👁️ 152K • 👍 12K • 💬 391 • ⏱️ 1:35 • 1d ago
+👁️ 154K • 👍 12K • 💬 392 • ⏱️ 1:35 • 1d ago
 
 ---
 
-**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+**[E.L.B.E.R.R: a Self-Aware Robot](https://www.youtube.com/watch?v=0n9dKF9GjNc)**
 
-Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+Don't build E.L.B.E.R.R Credits to @LIGHTSAREOFF for Elberr's design. Credits to @NathanielWolkstein for doing the music ...
 
-📺 Fox Business
+📺 Horror Skunx
 
-👁️ 13K • 👍 221 • 💬 51 • ⏱️ 5:12 • 1d ago
+👁️ 176K • 👍 1K • 💬 163 • ⏱️ 1:45 • 3d ago
+
+---
+
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 137K • 👍 5K • 💬 366 • ⏱️ 17:36 • 5d ago
 
 ---
 

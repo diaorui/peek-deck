@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T06:38:24.713356+00:00'
+updated: '2026-01-20T07:29:14.519059+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 06:38 UTC  
+**Last Updated:** January 20, 2026 at 07:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Higgsfield AI founded by ex-Snap exec, lands $1.3B valuation & becomes fastest scaling GenAI company ever](https://www.reddit.com/r/artificial/comments/1qhtstp/higgsfield_ai_founded_by_exsnap_exec_lands_13b/)**
+
+Higgsfield says it reached a $200M annual run rate in under nine months, doubling revenue from $100M in about two months. Since April 2025, more than 15M users have joined and the platform now generates around 4.5M videos every day, mostly for ads and marketing. In their LinkedIn post,they mentioned that Higgsfield is officially the fastest-scaling GenAl company in history. Source: TechCrunch/Higgsfield
+
+🔗 [TechCrunch](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) • 48m ago
+
+---
+
 **[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 15h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 16h ago
 
 ---
 
@@ -49,7 +57,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +65,23 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 3h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 4h ago
+
+---
+
+**[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
+
+I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
+
+1h ago
+
+---
+
+**[One-Minute Daily AI News 1/19/2026](https://www.reddit.com/r/artificial/comments/1qht084/oneminute_daily_ai_news_1192026/)**
+
+Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
+
+1h ago
 
 ---
 
@@ -65,15 +89,13 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 10h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 11h ago
 
 ---
 
-**[The Real Reason Billionaires Are Obsessed With AI](https://www.reddit.com/r/artificial/comments/1qhscil/the_real_reason_billionaires_are_obsessed_with_ai/)**
+**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=W1dIC287Zz0) • 1h ago
+6m ago
 
 ---
 
@@ -81,7 +103,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The system, powered largely by open-source AI models, seeks to deliver a finished product without the user writing a single line of code.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 19h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3340316/ant-backed-chinese-ai-agent-developer-deepwisdom-aims-help-solo-entrepreneurs) • 20h ago
 
 ---
 
@@ -89,31 +111,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-12h ago
-
----
-
-**[Steam updates AI disclosure form to specify that it's focused on AI-generated content that is 'consumed by players,' not efficiency tools used behind the scenes](https://www.reddit.com/r/artificial/comments/1qg9zcm/steam_updates_ai_disclosure_form_to_specify_that/)**
-
-The tweak addresses the fact that generative AI tools have been stuffed into just about every piece of software professionals use.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/) • 1d ago
-
----
-
-**[Computational Functionalism, Philosophy, and the Future of AI Consciousness](https://www.reddit.com/r/artificial/comments/1qh5dw5/computational_functionalism_philosophy_and_the/)**
-
-In this episode, Chris outlines his research programme and argues that we should take the possibility of artificial consciousness seriously whilst remaining humble about our current understanding. His research is based on three convictions: that opinions on consciousness matter and they are not fixed that existing theories of consciousness must be held to higher standards that progress in human neuroscience is ultimately necessary for consensus. Chris argues that philosophical uncertainty need not paralyse practical decision-making, and that a well-informed community can still reach meaningful collective judgements about AI consciousness even without scientific consensus.
-
-🔗 [The Partnership for Research Into Sentient Machines](https://www.prism-global.com/podcast/chris-percy-computational-functionalism) • 16h ago
-
----
-
-**[One-Minute Daily AI News 1/18/2026](https://www.reddit.com/r/artificial/comments/1qguqc9/oneminute_daily_ai_news_1182026/)**
-
-South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[1] Song banned from Swedish charts for being AI creation.[2] Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune.[3] Oshen built the first ocean robot to collect data in a Category 5 hurricane.[4] Sources: [1] https://www.reuters.com/business/aerospace-defense/south-koreas-lee-italys-meloni-agree-strengthen-cooperation-ai-chips-2026-01-19/ [2] https://www.bbc.com/news/articles/cp829jey9z7o [3] https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/ [4] https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/
-
-1d ago
+13h ago
 
 ---
 
@@ -125,7 +123,51 @@ South Korea's Lee, Italy's Meloni agree to strengthen cooperation in AI, chips.[
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 15h ago
+Fortune • 16h ago
+
+---
+
+**[UK exposed to ‘serious harm’ by failure to tackle AI risks, MPs warn](https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca)**
+
+Government, Bank of England and FCA criticised for taking ‘wait-and-see’ approach to AI use in financial sector
+
+The Guardian • 7h ago
+
+---
+
+**[Britain needs 'AI stress tests' for financial services, lawmakers say](https://www.reuters.com/sustainability/boards-policy-regulation/britain-needs-ai-stress-tests-financial-services-lawmakers-say-2026-01-20/)**
+
+Reuters • 7h ago
+
+---
+
+**[UK Lawmakers Call for AI Stress Tests on Banks as Risks Mount](https://www.bloomberg.com/news/articles/2026-01-20/uk-lawmakers-call-for-ai-stress-tests-on-banks-as-risks-mount)**
+
+Britain’s financial regulators should start stress-testing the risks posed by artificial intelligence because their current wait-and-see approach leaves the public and economy in danger of “serious harm,” a group of lawmakers warned.
+
+Bloomberg • 7h ago
+
+---
+
+**[Morgan Stanley loves these stocks as the AI memory bottleneck bites](https://www.cnbc.com/2026/01/20/morgan-stanley-ai-memory-stock-picks.html)**
+
+Memory capacity has quickly emerged as a bottleneck in the AI build-out.
+
+CNBC • 1h ago
+
+---
+
+**[Baidu’s AI Assistant Reaches Milestone of 200 Million Monthly Active Users](https://www.wsj.com/tech/ai/baidus-ai-assistant-reaches-milestone-of-200-million-monthly-active-users-2ad30bfb?gaa_at=eafs&gaa_n=AWEtsqcdBO_8FWF9FA210e-VbRHcBgWc0SUb0VrPpCGYCpEQtlUcAiIt9O5v&gaa_ts=696f3230&gaa_sig=2qnvE3ui3Xdb55lf93h0rp2AXNVL1GeLKRJULGSh-wNjj_SOWPVrV3C4KYhaUQ1A2_GVx0qpr4efnIV4G5Ciqg%3D%3D)**
+
+The Wall Street Journal • 55m ago
+
+---
+
+**[Global Business Leans on AI and M&A for Growth in Pre-Davos Poll](https://www.bloomberg.com/news/articles/2026-01-20/global-business-leans-on-ai-and-m-a-for-growth-in-pre-davos-poll)**
+
+Global business leaders are relying on new technologies and acquisitions to drive growth against a tense economic backdrop, according to an EY-Parthenon survey.
+
+Bloomberg • 14m ago
 
 ---
 
@@ -137,33 +179,9 @@ CNN • 1d ago
 
 ---
 
-**[China Electric Stocks Jump on Booming AI Demand, Investment Push](https://www.bloomberg.com/news/articles/2026-01-20/china-electric-stocks-jump-on-booming-ai-demand-investment-push)**
+**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[TikTok owner ByteDance targets Alibaba with AI-led cloud drive](https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff)**
-
-Deep discounts, vast data and bespoke AI agents fuel new challenge in China’s multibillion-dollar enterprise market
-
-Financial Times • 1h ago
-
----
-
-**[Who Are the Creative Directors Most Likely to Embrace AI?](https://www.vogue.com/article/who-are-the-creative-directors-most-likely-to-embrace-ai)**
-
-As a crop of designers settle into new roles, how they interact with tech teams, and their stance on AI’s role in creativity, will be closely watched.
-
-Vogue • 1h ago
-
----
-
-**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
-
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
-
-The Guardian • 1d ago
+The New York Times • 21h ago
 
 ---
 
@@ -171,25 +189,7 @@ The Guardian • 1d ago
 
 A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
-
-The New York Times • 20h ago
-
----
-
-**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqe9NAAqx8lFGM89_HHKLvlZJcUNGAlLc9li24p_0s76lECdp6YWekZM&gaa_ts=696f1c30&gaa_sig=uFNHitgw0WzYi2wUZ10PNVlamaEE_6cRpvFgCyi3qtBzE8qUNQQcMebnnzWgel1FPcxUjBAuYSlT5oZRBszhUA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment)**
-
-OpenAI • 1d ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -201,19 +201,19 @@ OpenAI • 1d ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 299 • 💬 419 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 300 • 💬 420 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 224 • 💬 85 • 20h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 225 • 💬 85 • 21h ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 153 • 💬 168 • 17h ago
+⬆️ 156 • 💬 173 • 18h ago
 
 ---
 
@@ -221,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 126 • 💬 141 • 11h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 130 • 💬 152 • 12h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -237,7 +237,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 105 • 💬 113 • 15h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 105 • 💬 113 • 16h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -269,7 +269,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 Deterministic PR readiness detection for AI coding agents
 
-⬆️ 39 • 💬 32 • 2d ago • [Good To Go](https://dsifry.github.io/goodtogo/)
+⬆️ 39 • 💬 33 • 2d ago • [Good To Go](https://dsifry.github.io/goodtogo/)
 
 ---
 
@@ -277,11 +277,43 @@ Deterministic PR readiness detection for AI coding agents
 
 ## YouTube Videos: "ai"
 
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=EcGrUx_TQ1Q)**
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
 
-📺 Bob Reese
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
 
-👁️ 555K • 👍 27K • 💬 334 • ⏱️ 1:05 • 2d ago
+📺 The Infographics Show
+
+👁️ 39K • 👍 1K • 💬 292 • ⏱️ 10:58 • 12h ago
+
+---
+
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
+
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
+
+📺 Matthew Berman
+
+👁️ 34K • 👍 2K • 💬 365 • ⏱️ 18:33 • 8h ago
+
+---
+
+**[STOP Paying: NEW FREE &amp; UNLIMITED AI Video Generator (With SOUND)](https://www.youtube.com/watch?v=WUtRdgR4muU)**
+
+Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/MALVAAIJAN4 100% ...
+
+📺 Malva AI
+
+👁️ 13K • 👍 657 • 💬 169 • ⏱️ 9:12 • 18h ago
+
+---
+
+**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
+
+OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
+
+📺 OpenAI
+
+👁️ 17K • 👍 698 • 💬 89 • ⏱️ 49:42 • 15h ago
 
 ---
 
@@ -291,17 +323,7 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 220 • 💬 63 • ⏱️ 24:36 • 1d ago
-
----
-
-**[Why Automakers Want To Power AI Data Centers](https://www.youtube.com/watch?v=YdySswIbgyE)**
-
-With EV sales faltering and forecasts lowered, automakers are looking for ways to sell the batteries they are making. CNBC's ...
-
-📺 CNBC
-
-👁️ 33K • 👍 592 • 💬 55 • ⏱️ 3:41 • 14h ago
+👁️ 8K • 👍 224 • 💬 63 • ⏱️ 24:36 • 1d ago
 
 ---
 
@@ -311,7 +333,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.9M • 👍 71K • 💬 7K • ⏱️ 15:50 • 1d ago
+👁️ 2.0M • 👍 72K • 💬 7K • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -321,35 +343,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 96K • 👍 4K • 💬 583 • ⏱️ 19:38 • 2d ago
-
----
-
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
-
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
-
-📺 Liam Ottley
-
-👁️ 27K • 👍 1K • 💬 60 • ⏱️ 12:49 • 1d ago
-
----
-
-**[BATTLE 20 BAKAT TERPENDAM AI TEAM KERUSI PANAS 2026 !!! EP6](https://www.youtube.com/watch?v=t-1YobWP828)**
-
-📺 Alieff Irfan
-
-👁️ 694K • 👍 35K • 💬 2K • ⏱️ 1:02:04 • 18h ago
-
----
-
-**[Messi made from palm leaves | hand crafts | village art | leaf crafting #ai #messi](https://www.youtube.com/watch?v=BmRVQbaBL4o)**
-
-Messi made from palm leaves | hand crafts | village art | leaf crafting #ai #messi.
-
-📺 Ai Nusrat
-
-👁️ 107K • 👍 2K • 💬 17 • ⏱️ 0:19 • 4h ago
+👁️ 97K • 👍 4K • 💬 583 • ⏱️ 19:38 • 2d ago
 
 ---
 
@@ -359,17 +353,27 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 884 • 💬 62 • ⏱️ 7:01 • 1d ago
+👁️ 18K • 👍 887 • 💬 64 • ⏱️ 7:01 • 1d ago
 
 ---
 
-**[AI in 2050](https://www.youtube.com/watch?v=WKqm-5qo7XM)**
+**[AI Exhaustion is real...](https://www.youtube.com/watch?v=YovD5Yvvawg)**
 
-This Wojak meme video is about the future of AI in 2050. This fictional concept video shows the dystopian future doomer faces ...
+AI ------------------------------------------------------------------------------------------- Amazon Shop - https://www.amazon.com/shop/raidowl ...
 
-📺 Low Budget Stories
+📺 Raid Owl
 
-👁️ 131K • 👍 8K • 💬 1K • ⏱️ 9:27 • 1d ago
+👁️ 7K • 👍 428 • 💬 108 • ⏱️ 22:52 • 18h ago
+
+---
+
+**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+
+My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+
+📺 Liam Ottley
+
+👁️ 28K • 👍 1K • 💬 73 • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 7,589 • ❤️ 866 • 4d ago
+⬇️ 8,705 • ❤️ 870 • 4d ago
 
 ---
 
@@ -397,19 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 0 • ❤️ 498 • 3h ago
-
----
-
-**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
-
-*OpenBMB*
-
-AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
-
-`text-generation` `4.0B`
-
-⬇️ 1,830 • ❤️ 364 • 1d ago
+⬇️ 15,168 • ❤️ 553 • 4h ago
 
 ---
 
@@ -421,7 +413,19 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,540,901 • ❤️ 1,183 • 17h ago
+⬇️ 1,735,752 • ❤️ 1,191 • 18h ago
+
+---
+
+**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
+
+*OpenBMB*
+
+AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
+
+`text-generation` `4.0B`
+
+⬇️ 2,201 • ❤️ 367 • 1d ago
 
 ---
 
@@ -433,7 +437,17 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 17,594 • ❤️ 354 • 4d ago
+⬇️ 35,593 • ❤️ 364 • 4d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 31,778 • ❤️ 313 • 17h ago
 
 ---
 
@@ -445,17 +459,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 55,233 • ❤️ 777 • 12d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 26,093 • ❤️ 309 • 16h ago
+⬇️ 58,165 • ❤️ 780 • 12d ago
 
 ---
 
@@ -467,7 +471,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 26,367 • ❤️ 286 • 5d ago
+⬇️ 37,294 • ❤️ 289 • 5d ago
 
 ---
 
@@ -479,7 +483,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 18,931 • ❤️ 226 • 4d ago
+⬇️ 26,285 • ❤️ 228 • 4d ago
 
 ---
 
@@ -491,7 +495,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 14,296 • ❤️ 208 • 4d ago
+⬇️ 17,086 • ❤️ 210 • 4d ago
 
 ---
 
@@ -507,7 +511,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 9 • 💬 3 • ⭐ 175 • 3d ago
+▲ 9 • 💬 3 • ⭐ 279 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -519,9 +523,21 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 27 • 💬 1 • ⭐ 2,938 • 8d ago
+▲ 28 • 💬 1 • ⭐ 2,991 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
+
+---
+
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 0 • 💬 0 • ⭐ 1,840 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -543,7 +559,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 20 • 💬 3 • ⭐ 616 • 4d ago
+▲ 21 • 💬 3 • ⭐ 616 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -558,6 +574,32 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 ▲ 183 • 💬 5 • ⭐ 5,443 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
+
+---
+
+**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
+
+*Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
+
+Audio Language Models (ALM) have emerged as the dominant paradigm for speech
+and music generation by representing audio as sequences of discrete tokens.
+Yet, unlike text tokens, which are invertible, audio tokens are extracted from
+lossy codecs with a limited bitrate. As a consequence, increasing audio quality
+requires generating more tokens, which imposes a trade-off between fidelity and
+computational cost. We address this issue by studying Continuous Audio Language
+Models (CALM). These models instantiate a large Transformer backbone that
+produces a contextual embedding at every timestep. This sequential information
+then conditions an MLP that generates the next continuous frame of an audio VAE
+through consistency modeling. By avoiding lossy compression, CALM achieves
+higher quality at lower computational cost than their discrete counterpart.
+Experiments on speech and music demonstrate improved efficiency and fidelity
+over state-of-the-art discrete audio language models, facilitating lightweight,
+high-quality audio generation. Samples are available at
+https://continuous-audio-language-models.github.io
+
+▲ 2 • 💬 0 • ⭐ 1,920 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
@@ -582,7 +624,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 135 • 💬 19 • ⭐ 50,542 • 10mo ago
+▲ 135 • 💬 19 • ⭐ 50,582 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -594,33 +636,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 20 • 💬 4 • ⭐ 15,634 • 2mo ago
+▲ 20 • 💬 4 • ⭐ 15,661 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
-
-*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
-
-LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
-
-▲ 176 • 💬 6 • ⭐ 66,112 • 22mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
-
----
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 124 • 💬 3 • ⭐ 2,802 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
 ---
 
@@ -634,7 +652,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.2k • 🔱 1.2k • 1h ago
+⭐ 9.2k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -644,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 427 • 14h ago
+⭐ 8.4k • 🔱 431 • 15h ago
 
 ---
 
@@ -654,7 +672,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 345 • 3d ago
+⭐ 7.4k • 🔱 349 • 3d ago
 
 ---
 
@@ -664,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.2k • 🔱 694 • 12d ago
+⭐ 5.2k • 🔱 699 • 12d ago
 
 ---
 
@@ -674,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.1k • 🔱 837 • 4h ago
+⭐ 5.1k • 🔱 840 • 5h ago
 
 ---
 
@@ -684,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.8k • 🔱 3.7k • 16h ago
+⭐ 3.9k • 🔱 3.8k • 17h ago
 
 ---
 
@@ -694,7 +712,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 169 • 2d ago
+⭐ 2.9k • 🔱 170 • 2d ago
 
 ---
 
@@ -704,7 +722,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 296 • 1d ago
+⭐ 2.0k • 🔱 297 • 1d ago
 
 ---
 
@@ -714,7 +732,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 147 • 4h ago
+⭐ 1.8k • 🔱 148 • 5h ago
 
 ---
 
