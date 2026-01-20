@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T07:29:14.527443+00:00'
+updated: '2026-01-20T07:50:56.314741+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 07:29 UTC  
+**Last Updated:** January 20, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,13 +111,13 @@ See you at the next funeral
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-17h ago
+18h ago
 
 ---
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 Expect crypto volatility over the next few days on tariff headlines, one Kraken executive warned.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 8h ago
 
 Traders on Derive are pricing a 30% chance of BTC falling below $80,000 by the end of June.
 
-CoinDesk • 29m ago
+CoinDesk • 51m ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 29m ago
 
 Tuesday’s crypto tape was steadier after Monday’s tariff-driven wobble, but sentiment remains cautious with altcoins still weaker than bitcoin.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -337,7 +337,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 343 • ⏱️ 8:03 • 13h ago
+👁️ 25K • 👍 1K • 💬 343 • ⏱️ 8:03 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 89 • ⏱️ 12:15 • 20h ago
+👁️ 27K • 👍 3K • 💬 89 • ⏱️ 12:15 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ In this video, we explore one of the most aesthetically pleasing and insightful 
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 3K • 💬 107 • ⏱️ 8:01 • 9h ago
+👁️ 32K • 👍 3K • 💬 107 • ⏱️ 8:01 • 10h ago
 
 ---
 
@@ -397,7 +397,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 821 • 👍 55 • 💬 26 • ⏱️ 9:14 • 15h ago
+👁️ 821 • 👍 55 • 💬 26 • ⏱️ 9:14 • 16h ago
 
 ---
 

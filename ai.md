@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T07:29:14.519059+00:00'
+updated: '2026-01-20T07:50:56.306253+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 07:29 UTC  
+**Last Updated:** January 20, 2026 at 07:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Higgsfield says it reached a $200M annual run rate in under nine months, doubling revenue from $100M in about two months. Since April 2025, more than 15M users have joined and the platform now generates around 4.5M videos every day, mostly for ads and marketing. In their LinkedIn post,they mentioned that Higgsfield is officially the fastest-scaling GenAl company in history. Source: TechCrunch/Higgsfield
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) • 48m ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Higgsfield says it reached a $200M annual run rate in under nine months, doublin
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 16h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Kore
 
 New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 11h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 12h ago
 
 ---
 
 **[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
 
-6m ago
+27m ago
 
 ---
 
@@ -111,7 +111,7 @@ The system, powered largely by open-source AI models, seeks to deliver a finishe
 
 Hi everyone, I’m a software engineering student working on a short-term AI/computer vision project (≈2 months), and I’d really appreciate feedback from people with experience in OpenCV or real-world deployments. The original proposal was to use a camera feed to detect whether office workers are “working” or “wasting time” (e.g., sitting at desks vs walking around). After doing some research, I realized that the problem statement itself is false • “Working” vs “wasting time” is subjective and hard to define So I’m reframing the problem to Build a privacy-aware office occupancy & activity analytics system, NOT a productivity evaluator. The system would: • Detect people in an office environment • Track basic activity states (e.g., sitting, standing, moving) • Produce aggregate statistics (occupancy over time, sitting vs standing ratios, movement peaks) • Leave interpretation to management instead of the model making judgments No identity recognition, no face recognition YOLOv8-Pose for posture (sitting vs standing) • OpenCV for video processing • Basic tracking (e.g., ByteTrack / DeepSORT) • Backend with Flask/FastAPI • Simple dashboard for visualization (counts, charts) Video input could be: • Webcam feed Questions 1. Is this reframed problem realistic to implement well in 2 months? 2. Would YOLOv8 (+ pose) be sufficient, or would you recommend a different approach? 3.where can i find data of photage of people working in office Thanks in advance!
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi everyone, I’m a software engineering student working on a short-term AI/com
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 1h ago
 
 **[Baidu’s AI Assistant Reaches Milestone of 200 Million Monthly Active Users](https://www.wsj.com/tech/ai/baidus-ai-assistant-reaches-milestone-of-200-million-monthly-active-users-2ad30bfb?gaa_at=eafs&gaa_n=AWEtsqcdBO_8FWF9FA210e-VbRHcBgWc0SUb0VrPpCGYCpEQtlUcAiIt9O5v&gaa_ts=696f3230&gaa_sig=2qnvE3ui3Xdb55lf93h0rp2AXNVL1GeLKRJULGSh-wNjj_SOWPVrV3C4KYhaUQ1A2_GVx0qpr4efnIV4G5Ciqg%3D%3D)**
 
-The Wall Street Journal • 55m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 55m ago
 
 Global business leaders are relying on new technologies and acquisitions to drive growth against a tense economic backdrop, according to an EY-Parthenon survey.
 
-Bloomberg • 14m ago
+Bloomberg • 36m ago
 
 ---
 
@@ -221,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 130 • 💬 152 • 12h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 130 • 💬 152 • 13h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -293,7 +293,7 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 34K • 👍 2K • 💬 365 • ⏱️ 18:33 • 8h ago
+👁️ 34K • 👍 2K • 💬 365 • ⏱️ 18:33 • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 13K • 👍 657 • 💬 169 • ⏱️ 9:12 • 18h ago
+👁️ 13K • 👍 657 • 💬 169 • ⏱️ 9:12 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,735,752 • ❤️ 1,191 • 18h ago
+⬇️ 1,735,752 • ❤️ 1,191 • 19h ago
 
 ---
 
@@ -652,7 +652,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.2k • 🔱 1.2k • 2h ago
+⭐ 9.2k • 🔱 1.2k • 3h ago
 
 ---
 

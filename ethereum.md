@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T07:29:14.533571+00:00'
+updated: '2026-01-20T07:50:56.320767+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 07:29 UTC  
+**Last Updated:** January 20, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-5h ago
+6h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-14h ago
+15h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 90 • ⏱️ 12:15 • 20h ago
+👁️ 27K • 👍 3K • 💬 90 • ⏱️ 12:15 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 396 • 👍 24 • 💬 22 • ⏱️ 8:16 • 13h ago
+👁️ 396 • 👍 24 • 💬 22 • ⏱️ 8:16 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 585 • 👍 16 • 💬 7 • ⏱️ 4:52 • 20h ago
+👁️ 585 • 👍 16 • 💬 7 • ⏱️ 4:52 • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium 
 
 📺 Bankless
 
-👁️ 4K • 👍 145 • 💬 24 • ⏱️ 1:02:56 • 19h ago
+👁️ 4K • 👍 145 • 💬 24 • ⏱️ 1:02:56 • 20h ago
 
 ---
 

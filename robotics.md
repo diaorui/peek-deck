@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T07:29:14.536823+00:00'
+updated: '2026-01-20T07:50:56.324073+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 07:29 UTC  
+**Last Updated:** January 20, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
-6h ago
+7h ago
 
 ---
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-13h ago
+14h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello everyone, I am currently working on a project involving topology optimisat
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -148,7 +148,7 @@ WRGB • 2d ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 19h ago
+Tom's Hardware • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Pittsburgh Post-Gazette • 2d ago
 
 The fresh capital will be used to strengthen its engineering team, speed up product development, and expand its presence in India as well as international markets.
 
-entrepreneur.com • 18m ago
+entrepreneur.com • 39m ago
 
 ---
 
@@ -219,7 +219,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 23K • 💬 8 • ⏱️ 0:07 • 21h ago
+👁️ 23K • 💬 8 • ⏱️ 0:07 • 22h ago
 
 ---
 
