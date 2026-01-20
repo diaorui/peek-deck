@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T05:29:59.875937+00:00'
+updated: '2026-01-20T05:55:20.797178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 05:29 UTC  
+**Last Updated:** January 20, 2026 at 05:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
-4h ago
+5h ago
 
 ---
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-19h ago
+20h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello everyone, I am currently working on a project involving topology optimisat
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -128,25 +128,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 22h ago
-
----
-
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 17h ago
-
----
-
 **[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 23h ago
+
+---
+
+**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
+
+The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
+
+South China Morning Post • 17h ago
 
 ---
 
@@ -155,6 +155,14 @@ Bloomberg.com • 1d ago
 ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
 
 WRGB • 2d ago
+
+---
+
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+
+China adopts robotics faster than western counterparts
+
+Tom's Hardware • 18h ago
 
 ---
 
@@ -177,14 +185,6 @@ The Robot Report • 16h ago
 **[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
 
 SciTechDaily • 1d ago
-
----
-
-**[BionIT Labs Launches Adam’s Hand for Humanoids and Service Robots](https://markets.businessinsider.com/news/stocks/bionit-labs-launches-adam-s-hand-for-humanoids-and-service-robots-1035725335)**
-
-Image by BionIT LabsSOLETO, Italy, Jan.  19, 2026  (GLOBE NEWSWIRE) -- BionIT Labs, a pioneer in human-machine interfaces, today announced that Ad...
-
-markets.businessinsider.com • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 23K • 💬 8 • ⏱️ 0:07 • 19h ago
+👁️ 23K • 💬 8 • ⏱️ 0:07 • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 4K • 👍 70 • ⏱️ 7:30 • 6h ago
+👁️ 4K • 👍 70 • ⏱️ 7:30 • 7h ago
 
 ---
 

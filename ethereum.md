@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T05:29:59.872737+00:00'
+updated: '2026-01-20T05:55:20.793978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 05:29 UTC  
+**Last Updated:** January 20, 2026 at 05:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,187.16
+### $3,167.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -5.2%  
-**30d:** +5.9%  
-**90d:** -17.5%  
-**1y:** -4.0%  
+**24h:** -0.7%  
+**7d:** -5.6%  
+**30d:** +5.4%  
+**90d:** -17.8%  
+**1y:** -4.4%  
 
 ---
 
@@ -80,7 +80,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -120,7 +120,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-12h ago
+13h ago
 
 ---
 
@@ -166,19 +166,19 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum posts record onchain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
+
+Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
+
+CoinDesk • 3h ago
+
+---
+
 **[Ethereum Co-Founder Vitalik Buterin Says The Blockchain Must Achieve Full Quantum Resistance 'As Soon As Possible'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-020110620.html)**
 
 Ethereum should not wait until the last moment before working towards quantum resistance, co-founder Vitalik Buterin says. "We should resist the trap of saying ‘let’s delay quantum-resistance until the last possible moment in the name of ekeing [sic] out more...
 
 Yahoo Finance • 3h ago
-
----
-
-**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
-
-Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
-
-CoinDesk • 3h ago
 
 ---
 
@@ -212,17 +212,15 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
-
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
-
-CoinDesk • 23h ago
-
----
-
 **[‘Get Ready for the Next Upswing,’ Says Analyst About Ethereum (ETH)](https://www.tipranks.com/news/get-ready-for-the-next-upswing-says-analyst-about-ethereum-eth)**
 
 TipRanks • 8h ago
+
+---
+
+**[Bitcoin ETFs Face Sharp Profit-Taking as Ethereum Products Maintain Resilience](https://financefeeds.com/bitcoin-etfs-face-sharp-profit-taking-as-ethereum-products-maintain-resilience/)**
+
+FinanceFeeds • 23h ago
 
 ---
 
@@ -236,7 +234,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 128 • ⏱️ 12:15 • 18h ago
+👁️ 26K • 👍 3K • 💬 128 • ⏱️ 12:15 • 19h ago
 
 ---
 
@@ -266,7 +264,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 344 • 👍 23 • 💬 22 • ⏱️ 8:16 • 11h ago
+👁️ 344 • 👍 23 • 💬 22 • ⏱️ 8:16 • 12h ago
 
 ---
 
@@ -296,7 +294,7 @@ BANKLESS PREMIUM | AD-FREE & BONUS EPISODES https://bankless.cc/spotify-premium 
 
 📺 Bankless
 
-👁️ 4K • 👍 132 • 💬 23 • ⏱️ 1:02:56 • 17h ago
+👁️ 4K • 👍 132 • 💬 23 • ⏱️ 1:02:56 • 18h ago
 
 ---
 
