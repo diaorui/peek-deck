@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T01:50:39.328110+00:00'
+updated: '2026-01-20T03:45:21.455694+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 01:50 UTC  
+**Last Updated:** January 20, 2026 at 03:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,545.27
+### $92,666.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -4.4%  
-**30d:** +5.0%  
-**90d:** -15.7%  
-**1y:** -12.3%  
+**24h:** -0.3%  
+**7d:** -4.8%  
+**30d:** +4.6%  
+**90d:** -16.1%  
+**1y:** -12.7%  
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Lol](https://www.reddit.com/r/Bitcoin/comments/1qh5yro/lol/)**
+**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-11h ago
+2h ago
 
 ---
 
@@ -87,19 +87,7 @@ Rank #1
 
 Hard to buy the dip when you're already all in!
 
-9h ago
-
----
-
-**[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
-
 11h ago
-
----
-
-**[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
-
-1h ago
 
 ---
 
@@ -107,33 +95,27 @@ Hard to buy the dip when you're already all in!
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-12h ago
+13h ago
 
 ---
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-7h ago
+9h ago
 
 ---
 
-**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
-
-I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
+**[when she is tries to know my obsession](https://www.reddit.com/r/Bitcoin/comments/1qh5lqp/when_she_is_tries_to_know_my_obsession/)**
 
 13h ago
 
 ---
 
-**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+**[Why everytime I buy, I manage to buy the peak and not the lows.](https://www.reddit.com/r/Bitcoin/comments/1qhoupc/why_everytime_i_buy_i_manage_to_buy_the_peak_and/)**
 
-11h ago
+I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
----
-
-**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
-
-21h ago
+1h ago
 
 ---
 
@@ -141,7 +123,27 @@ I stamped the words in the stainless steel Rings now im wondering is it a good i
 
 See you at the next funeral
 
-29m ago
+2h ago
+
+---
+
+**[I made my own 12 Seed Backup](https://www.reddit.com/r/Bitcoin/comments/1qh29k2/i_made_my_own_12_seed_backup/)**
+
+I stamped the words in the stainless steel Rings now im wondering is it a good idea to bury one of them? And if so, does anyone have an idea how to package it so that it doesn’t rust?
+
+15h ago
+
+---
+
+**[Putting One Egg in all Baskets](https://www.reddit.com/r/Bitcoin/comments/1qh4nvp/putting_one_egg_in_all_baskets/)**
+
+13h ago
+
+---
+
+**[People who get up to pee in the middle of the night but first check their phone](https://www.reddit.com/r/Bitcoin/comments/1qgtrjh/people_who_get_up_to_pee_in_the_middle_of_the/)**
+
+23h ago
 
 ---
 
@@ -153,7 +155,7 @@ See you at the next funeral
 
 While Bitcoin (BTC) maximalists may think of the leading cryptocurrency as the "digital gold," billionaire Frank Giustra thinks the Greenland episode has shattered any such myth. Gold is a safe haven and Bitcoin is a risk-on asset, he asserted. Giustra is a Canadian billionaire ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -161,43 +163,41 @@ Yahoo Finance • 4h ago
 
 traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 12h ago
+Forbes • 14h ago
 
 ---
 
-**[Bitcoin Price Prediction: BTC Rejected at $95,000 as Liquidation Heatmap Points to $80,000](https://finance.yahoo.com/news/bitcoin-price-prediction-btc-rejected-001925751.html)**
+**[Bitcoin whale moves $85 million in BTC after 13-year dormancy](https://www.theblock.co/post/386173/bitcoin-whale-13-year-dormancy?utm_source=markets.xml&utm_medium=rss)**
 
-Despite a sharp weekend dip following Donald Trump’s latest tariff threats against eight European countries, Bitcoin has managed to find support at $93,000. BTC is still down 2.66% on the day, while the broader crypto market cap is approximately $3.14 trillion, marking a 2.61% daily decline. According to the Bitcoin ...
-
-Yahoo Finance • 56m ago
+The Block • 32m ago
 
 ---
 
 **[Bitcoin Falls Below $92,000 as Tariff Fears Weigh on Risk Assets](https://www.bloomberg.com/news/articles/2026-01-19/bitcoin-btc-falls-below-92-000-as-tariff-fears-weigh-on-risk-assets)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[Gold Hits Record High as Bitcoin Falls on Escalating US–EU Tariff Tensions](https://finance.yahoo.com/news/gold-hits-record-high-bitcoin-045337211.html)**
+**[Bitcoin steadies at $93,000 as market braces for a bumpy week in trade war rhetoric from Davos](https://www.coindesk.com/markets/2026/01/19/bitcoin-steadies-at-usd93-000-as-market-braces-for-a-bumpy-week-in-trade-war-rhetoric-from-davos)**
 
-Bitcoin and gold diverge as US–EU tariffs escalate, boosting gold while BTC slides amid risk-off sentiment.
+Expect crypto volatility over the next few days on tariff headlines, one Kraken executive warned.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Why is crypto down today: Bitcoin slides below $93,000 as $680 million longs are liquidated](https://www.coindesk.com/markets/2026/01/19/bitcoin-slides-below-usd93-000-as-usd680-million-longs-are-liquidated-asia-morning-briefing)**
-
-Glassnode says the push toward $96,000 was driven by leverage, while CryptoQuant warns demand remains too weak to confirm a trend reversal.
-
-CoinDesk • 1d ago
+CoinDesk • 5h ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqd-gSLMz-sLhvIUhB0ntLYM-XzoP4EgSHQsxxhGrdvLR-fofc_Ma70l&gaa_ts=696ee2d5&gaa_sig=n-pUtLB8v1mx4hEIN_x4_fudnIsAvEcQoDDYbPVR_0cSPlc38kOZshdemUzn6hqpZHkUrcjw5Y76OG03gErKFg%3D%3D)**
+**[Bitcoin Slips On Trade War Fears, Sparks $865M in Liquidations](https://finance.yahoo.com/news/bitcoin-slips-trade-war-fears-033341559.html)**
 
-MarketWatch • 10h ago
+Analysts say the resurgence in U.S.-EU trade war tensions has driven Bitcoin’s drop as U.S. markets remain closed for a public holiday.
+
+Yahoo Finance • 23h ago
+
+---
+
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqd5ntKbx7f7lm06Rc_S27InPQ6y_8MbXsM9kG-PRkWKii_cA5qBSjOi&gaa_ts=696efdba&gaa_sig=mGDo8Gy1ziFPPC59M0SGb8CiK15fZDUci9ZVhr_17y3ewzbZJiaz9A4eepaalfFE5tVWAQ-gXuEmkPd50AeYvw%3D%3D)**
+
+MarketWatch • 12h ago
 
 ---
 
@@ -209,19 +209,19 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Bulls Clinging To Hope – Will $91,400 Hold Or Trigger A Deeper Drop?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-eye-98000-breakout-after-holding-90000-zone)**
+**[Here are the 3 things to watch that will move bitcoin and crypto prices in 2026](https://www.coindesk.com/markets/2026/01/19/here-are-the-3-big-things-that-will-move-bitcoin-and-crypto-prices-in-2026)**
 
-Feeling the Bitcoin volatility? Price slipped past $94,000 support, but holding $91,400 keeps the bullish dream alive – here's what to watch.
+The four-year crypto market cycle, driven by bitcoin halving events, may be over, with institutional products like ETFs changing market dynamics.
 
-Bitcoin Magazine • 6h ago
+CoinDesk • 6h ago
 
 ---
 
-**[A Wall Street analyst warns that quantum computing could eventually crack the cryptography of bitcoin](https://www.businessinsider.com/bitcoin-price-prediction-quantum-computing-risk-cryptography-jefferies-2026-1)**
+**[The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)**
 
-Bitcoin likely already reached its post-halving peak at $126,000 last year, Jefferies' global head of equity strategy wrote in a note.
+She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-Business Insider • 2d ago
+Gizmodo • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ Business Insider • 2d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 12h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 14h ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -257,7 +257,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 15h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 17h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -273,7 +273,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 9h ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -315,7 +315,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 261 • ⏱️ 8:03 • 8h ago
+👁️ 19K • 👍 1K • 💬 261 • ⏱️ 8:03 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ MEXC: Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=m
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 153 • 💬 12 • ⏱️ 5:28 • 4h ago
+👁️ 2K • 👍 153 • 💬 12 • ⏱️ 5:28 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 1K • 👍 97 • 💬 38 • ⏱️ 20:51 • 2h ago
+👁️ 1K • 👍 97 • 💬 38 • ⏱️ 20:51 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin and the broader crypto market turned lower after reports that Trump is t
 
 📺 Crypto Banter
 
-👁️ 25K • 👍 2K • 💬 62 • ⏱️ 20:35 • 10h ago
+👁️ 25K • 👍 2K • 💬 62 • ⏱️ 20:35 • 12h ago
 
 ---
 
@@ -355,7 +355,7 @@ Gold is up around 70% in last year and crypto has done nothing. Actually it seem
 
 📺 Dan Gambardello
 
-👁️ 9K • 👍 754 • 💬 275 • ⏱️ 10:31 • 7h ago
+👁️ 9K • 👍 754 • 💬 275 • ⏱️ 10:31 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 557 • 👍 96 • 💬 12 • ⏱️ 21:01 • 50m ago
+👁️ 557 • 👍 96 • 💬 12 • ⏱️ 21:01 • 2h ago
 
 ---
 
@@ -375,7 +375,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 386 • 💬 315 • ⏱️ 16:30 • 20h ago
+👁️ 8K • 👍 386 • 💬 315 • ⏱️ 16:30 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 25K • 👍 3K • 💬 76 • ⏱️ 12:15 • 15h ago
+👁️ 25K • 👍 3K • 💬 76 • ⏱️ 12:15 • 17h ago
 
 ---
 
@@ -405,7 +405,7 @@ Please help to support this channel's work: https://www.youtube.com/@Bitcoin_Uni
 
 📺 Bitcoin University
 
-👁️ 6K • 👍 899 • 💬 211 • ⏱️ 12:22 • 10h ago
+👁️ 6K • 👍 899 • 💬 211 • ⏱️ 12:22 • 12h ago
 
 ---
 

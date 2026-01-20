@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T01:50:39.337328+00:00'
+updated: '2026-01-20T03:45:21.465075+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 01:50 UTC  
+**Last Updated:** January 20, 2026 at 03:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
-
-2h ago
-
----
-
 **[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
-1h ago
+3h ago
+
+---
+
+**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
+
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2012329839101968726
 
-14h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
 
-10h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-7h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-8h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Been working on predicting sim-to-real transfer success BEFORE deploying to real
 
 This weekend 4 strangers teamed up at The Robot Rave hackathon in London with one goal: make a robot dog dance. None of us had ever worked with a Go1 before, so we had to figure it out from scratch. What we built: - Timeline choreography editor (drag & drop moves synced to music waveform) - Real-time control dashboard with all the Go1 modes + custom dance sequences - Beat detection using Librosa to auto-suggest move timings - MuJoCo simulation for testing before running on real hardware Stack: Python, MuJoCo, go1pylib, Librosa The whole thing is open source if anyone wants to make their robot dance: https://github.com/dawodx/YMCA Happy to answer questions about the Go1, the choreography system, or anything else!
 
-15h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ This weekend 4 strangers teamed up at The Robot Rave hackathon in London with on
 
 Hello everyone, I am currently working on a project involving topology optimisation of an industrial robot arm. I have selected a specific robot model and collected the relevant data, such as geometry, materials, joint configuration, and basic specifications. At this stage, I am facing difficulties with the static structural analysis, specifically with determining the forces and loads acting on the robot arm. While I understand the general goal of static analysis, I am unsure how to correctly calculate or apply: • Joint forces and torques • External loads (e.g., payload, gravity, reaction forces) • Boundary conditions for a realistic static case These force calculations are essential for setting up the finite element model and proceeding with topology optimisation, but I am missing the conceptual understanding of how to derive them properly for an industrial robot. If anyone could help explain the basic approach to force calculation in static analysis of robot arms, recommend references, or provide a simple example, I would really appreciate it.
 
-7h ago
+9h ago
 
 ---
 
@@ -104,21 +104,13 @@ Hello everyone, I am currently working on a project involving topology optimisat
 
 Helloo, I'm looking for anyone is willing to tutor regarding ABB Robot Kinematics, Coordinate Systems and Rapid Programming. Please DM me if you are able to, : )
 
-12h ago
+14h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 11h ago
-
----
 
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
@@ -132,13 +124,7 @@ TechCrunch • 1d ago
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-Interesting Engineering • 18h ago
-
----
-
-**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
-
-Bloomberg.com • 21h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -146,7 +132,21 @@ Bloomberg.com • 21h ago
 
 China adopts robotics faster than western counterparts
 
-Tom's Hardware • 14h ago
+Tom's Hardware • 15h ago
+
+---
+
+**[Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging](https://www.bloomberg.com/news/articles/2026-01-19/airbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 12h ago
 
 ---
 
@@ -158,26 +158,11 @@ WRGB • 2d ago
 
 ---
 
-**[Trusting Tally: Robots are roaming the aisles of Giant Eagle, whistling while they work](https://www.post-gazette.com/business/tech-news/2026/01/17/giant-eagle-tally-robot-simbe-robotics-ai/stories/202512240063)**
+**[Hyundai Motor tops 100 trillion won as robotics, autonomous push lift shares - CHOSUNBIZ](https://biz.chosun.com/en/en-industry/2026/01/20/AKYQY343HZAXVCNYRCKI2WBROU/)**
 
-You soon might go grocery shopping alongside robots.
-Tally, a robot made by San-Francisco-based Simbe Robotics, roams between rows of product, using its...
+Hyundai Motor tops 100 trillion won as robotics, autonomous push lift shares Shares surge on AI-powered robotics and autonomy bets but future hinges on execution speed
 
-Pittsburgh Post-Gazette • 2d ago
-
----
-
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
-
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
-
-The Robot Report • 12h ago
-
----
-
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
-
-SciTechDaily • 1d ago
+Chosunbiz • 1h ago
 
 ---
 
@@ -186,6 +171,20 @@ SciTechDaily • 1d ago
 Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
 
 KPTV • 1d ago
+
+---
+
+**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
+
+Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
+
+The Robot Report • 14h ago
+
+---
+
+**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
+
+SciTechDaily • 1d ago
 
 ---
 
@@ -227,7 +226,7 @@ My Brother Tries War Robots. I was not expecting to do this, but my brother sugg
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 837 • 💬 195 • ⏱️ 30:19 • 12h ago
+👁️ 9K • 👍 837 • 💬 195 • ⏱️ 30:19 • 14h ago
 
 ---
 
@@ -277,7 +276,7 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 📺 Future Lens Pi
 
-👁️ 23K • 💬 8 • ⏱️ 0:07 • 16h ago
+👁️ 23K • 💬 8 • ⏱️ 0:07 • 18h ago
 
 ---
 
