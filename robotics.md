@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T11:28:04.778911+00:00'
+updated: '2026-01-20T11:48:07.128228+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 11:28 UTC  
+**Last Updated:** January 20, 2026 at 11:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
+**[Day 120 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qhxh81/day_120_of_building_asimov_an_opensource_humanoid/)**
 
-Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
+We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-10h ago
+1h ago
 
 ---
 
-**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
+**[Simulation of a Stewart Platform](https://www.reddit.com/r/robotics/comments/1qhlzli/simulation_of_a_stewart_platform/)**
+
+Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
 11h ago
 
 ---
 
-**[You can now tell a robot “Make me a chair”: Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models (Paper)](https://www.reddit.com/r/robotics/comments/1qhwp0b/you_can_now_tell_a_robot_make_me_a_chair_text_to/)**
+**[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-Paper: Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models arXiv:2511.02162 [cs.RO]: https://arxiv.org/abs/2511.02162 Full video on Youtube: https://www.youtube.com/watch?v=ZJrsWG7Mw5M
+12h ago
 
-1h ago
+---
+
+**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
+
+I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
+
+2h ago
 
 ---
 
@@ -70,22 +78,6 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201232983910196
 
 ---
 
-**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
-
-I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
-
-1h ago
-
----
-
-**[Day 120 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qhxh81/day_120_of_building_asimov_an_opensource_humanoid/)**
-
-We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
-
-1h ago
-
----
-
 **[How automation is helping communities recover faster after natural disasters](https://www.reddit.com/r/robotics/comments/1qh6msr/how_automation_is_helping_communities_recover/)**
 
 In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread devastation. In the immediate aftermath, a local pharmacist named Yukiko worked around the clock to help her community access urgently needed medical supplies. More than a decade later, disaster recovery looks very different. Autonomous systems are now being used to support healthcare and logistics in post-disaster environments, helping move supplies, reduce response time, and ease the burden on frontline workers when resources are stretched thin. This short film looks at how automation is being applied in disaster recovery and public health settings, not as a replacement for human care, but as a way to extend it when communities need help most.
@@ -98,7 +90,7 @@ In 2011, a 9.0 earthquake struck Japan’s east coast, triggering widespread dev
 
 afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted tools show this robot once per month.
 
-16h ago
+17h ago
 
 ---
 
@@ -106,13 +98,27 @@ afterwork in Paris with mirokai robot, nice experience. the enterprise enchanted
 
 Been working on predicting sim-to-real transfer success BEFORE deploying to real hardware. The insight: successful transfers have a distinct "kinematic fingerprint" — smooth, coordinated movements with margin for error. Failed transfers look jerky and brittle. We train a classifier on these signatures. Early results show 85-90% accuracy predicting which policies will work on real hardware, and 7x speedup when deploying to new platforms. The uncomfortable implication: sim-to-real isn't primarily about simulator accuracy. It's about behavior robustness. Better behaviors > better simulators. Full writeup: https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85 Curious what others think — anyone else noticed the "movement quality" difference between policies that transfer vs. ones that don't?
 
-17h ago
+18h ago
+
+---
+
+**[Could self-swappable batteries be the new standard for humanoid robots? (Boston Dynamics - UBTECH Robotics)](https://www.reddit.com/r/robotics/comments/1qg7die/could_selfswappable_batteries_be_the_new_standard/)**
+
+1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 20h ago
+
+---
 
 **[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
@@ -122,35 +128,19 @@ TechCrunch • 1d ago
 
 ---
 
-**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Interesting Engineering • 1d ago
-
----
-
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 23h ago
+Financial Times • 1h ago
 
 ---
 
-**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-Forbes • 16h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 20h ago
+CBC • 2h ago
 
 ---
 
@@ -162,55 +152,49 @@ WRGB • 2d ago
 
 ---
 
-**[Top LEGO robotics teams compete at Oregon championship in Hillsboro](https://www.kptv.com/2026/01/18/top-lego-robotics-teams-compete-oregon-championship-hillsboro/)**
+**[Airbus to test China’s battery-swapping humanoid robots in aircraft assembly](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
-Top teams competed at the Oregon Robotics Tournament Championship on Saturday at Liberty High School in Hillsboro.
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
-KPTV • 2d ago
-
----
-
-**[Chinese robotics outlook for 2026 includes cobot growth, competitive pressure](https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/)**
-
-Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion.
-
-The Robot Report • 22h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Robots That “Think Before They Pick” Could Transform Tomato Farming](https://scitechdaily.com/?p=507165)**
+**[Humanoid Robots Building Airplanes: Airbus Buys 6-Figure Robots From UBTech](https://www.forbes.com/sites/johnkoetsier/2026/01/19/humanoid-robots-building-airplanes-airbus-buys-robots-from-ubtech/)**
 
-SciTechDaily • 1d ago
+Robots will be building airplanes soon, if a new deal between Airbus and UBTech Robotics is any indicator ...
+
+Forbes • 16h ago
 
 ---
 
-**[CMES Robotics Expands AI-Driven Warehouse Automation Footprint with New Logistics Projects](https://www.morningstar.com/news/pr-newswire/20260120cn65892/cmes-robotics-expands-ai-driven-warehouse-automation-footprint-with-new-logistics-projects)**
+**[China’s Unitree ships over 5,500 humanoid robots in 2025, surpassing US peers](https://www.scmp.com/tech/tech-trends/article/3340446/chinas-unitree-ships-more-5500-humanoid-robots-2025-surpassing-us-peers)**
 
-morningstar.com • 6h ago
+The Hangzhou-based firm’s output far outstripped the roughly 150 units each shipped by Tesla, Figure AI and Agility Robotics last year.
+
+South China Morning Post • 23h ago
+
+---
+
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+
+China adopts robotics faster than western counterparts
+
+Tom's Hardware • 1d ago
+
+---
+
+**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
+
+Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
+
+WJON • 16m ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
-
-📺 Wowearth
-
-👁️ 189K • 👍 2K • 💬 81 • ⏱️ 1:16 • 7d ago
-
----
-
-**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
-
-HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
-
-📺 Deepen
-
-👁️ 22K • 👍 266 • 💬 4 • ⏱️ 0:23 • 3d ago
-
----
 
 **[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
@@ -219,26 +203,6 @@ Today we explore a civilization that develops and allows it's own replacement. -
 📺 joeybtoonz
 
 👁️ 256K • 👍 15K • 💬 3K • ⏱️ 5:12 • 6d ago
-
----
-
-**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
-
-What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
-
-📺 Future Lens Pi
-
-👁️ 23K • 💬 8 • ⏱️ 0:07 • 1d ago
-
----
-
-**[This microscopic robot is the future of medicine #shorts](https://www.youtube.com/watch?v=HTytWO33nhw)**
-
-This little black ball is a microscopic robot. And it was designed to deliver drugs anywhere you need inside the body. Now this is a ...
-
-📺 Kallaway
-
-👁️ 14K • 👍 692 • 💬 22 • ⏱️ 0:39 • 21h ago
 
 ---
 
@@ -262,6 +226,16 @@ Both Chinese and US humanoid robots successfully land a backflip A moment that s
 
 ---
 
+**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
+
+What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
+
+📺 Future Lens Pi
+
+👁️ 23K • 💬 8 • ⏱️ 0:07 • 1d ago
+
+---
+
 **[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
 
 Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
@@ -272,13 +246,13 @@ Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by wat
 
 ---
 
-**[My Brother Plays War Robots For The First Time... (DISASTER)](https://www.youtube.com/watch?v=KVzPKQk0qHw)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-My Brother Tries War Robots. I was not expecting to do this, but my brother suggested this and wanted to try it. He knew about War ...
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-📺 PREDATOR WR
+📺 Ticker Symbol: YOU
 
-👁️ 11K • 👍 946 • 💬 213 • ⏱️ 30:19 • 22h ago
+👁️ 137K • 👍 5K • 💬 378 • ⏱️ 17:36 • 5d ago
 
 ---
 
@@ -288,7 +262,37 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 1.8M • 👍 23K • 💬 1K • ⏱️ 33:05 • 1d ago
+👁️ 1.9M • 👍 23K • 💬 1K • ⏱️ 33:05 • 1d ago
+
+---
+
+**[This microscopic robot is the future of medicine #shorts](https://www.youtube.com/watch?v=HTytWO33nhw)**
+
+This little black ball is a microscopic robot. And it was designed to deliver drugs anywhere you need inside the body. Now this is a ...
+
+📺 Kallaway
+
+👁️ 14K • 👍 707 • 💬 22 • ⏱️ 0:39 • 21h ago
+
+---
+
+**[E.L.B.E.R.R: a Self-Aware Robot](https://www.youtube.com/watch?v=0n9dKF9GjNc)**
+
+Don't build E.L.B.E.R.R Credits to @LIGHTSAREOFF for Elberr's design. Credits to @NathanielWolkstein for doing the music ...
+
+📺 Horror Skunx
+
+👁️ 180K • 👍 1K • 💬 164 • ⏱️ 1:45 • 3d ago
+
+---
+
+**[My Brother Plays War Robots For The First Time... (DISASTER)](https://www.youtube.com/watch?v=KVzPKQk0qHw)**
+
+My Brother Tries War Robots. I was not expecting to do this, but my brother suggested this and wanted to try it. He knew about War ...
+
+📺 PREDATOR WR
+
+👁️ 12K • 👍 970 • 💬 213 • ⏱️ 30:19 • 22h ago
 
 ---
 

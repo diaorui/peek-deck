@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T11:28:04.761196+00:00'
+updated: '2026-01-20T11:48:07.110068+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 11:28 UTC  
+**Last Updated:** January 20, 2026 at 11:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 20h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 21h ago
 
 ---
 
@@ -57,7 +57,21 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
 
-8h ago
+9h ago
+
+---
+
+**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
+
+4h ago
+
+---
+
+**[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
+
+When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
+
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 1h ago
 
 ---
 
@@ -77,11 +91,11 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 ---
 
-**[The assistant axis: situating and stabilizing the character of LLMs](https://www.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/)**
+**[What The Science Says About ChatGPT and Your Brain | Wellness Explained](https://www.reddit.com/r/artificial/comments/1qhy3ia/what_the_science_says_about_chatgpt_and_your/)**
 
-When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YDYxKPhVx8U) • 51m ago
 
 ---
 
@@ -97,21 +111,7 @@ Hey folks, I’m a law student with some tech background (I’ve done CS50 for L
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-1h ago
-
----
-
-**[Trump's voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission](https://www.reddit.com/r/artificial/comments/1qheizp/trumps_voice_in_a_new_fannie_mae_ad_is_generated/)**
-
-New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Map Reveals Local Companies Helping ICE. T. rex took 40 years to reach full size, rewriting dino history. Falling wine sales reveal a "lonelier" world of social isolation. Viral "Chinese Time" trend sweep
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/stephen-miller-hates-woke-star-trek#ai) • 15h ago
-
----
-
-**[Anatomy of a GenAI prompt](https://www.reddit.com/r/artificial/comments/1qhujdz/anatomy_of_a_genai_prompt/)**
-
-4h ago
+2h ago
 
 ---
 
@@ -119,11 +119,41 @@ New WSJ poll shows 54% of voters oppose Trump’s ICE tactics. New Searchable Ma
 
 ## Google News: "ai"
 
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 20h ago
+
+---
+
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
 CNN • 2d ago
+
+---
+
+**[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
+
+Axios • 1h ago
+
+---
+
+**[China’s AI Boyfriend Business Is Taking On a Life of Its Own](https://www.wired.com/story/china-ai-boyfriends/)**
+
+Gen Z women in China are all in on digital companionship—even setting up dates with real-world versions of their AI boyfriends.
+
+WIRED • 48m ago
+
+---
+
+**[Aramco Sees Greater AI-Linked Financial Gains in 2025, CEO Says](https://www.bloomberg.com/news/articles/2026-01-20/aramco-sees-greater-ai-linked-financial-gains-in-2025-ceo-says)**
+
+Aramco sees greater than expected financial gains from the use of artificial intelligence and advanced technology in 2025 as the Saudi oil producer benefits from savings like lower drilling and maintenance costs and greater productivity at its wells.
+
+Bloomberg • 1h ago
 
 ---
 
@@ -135,39 +165,15 @@ The Guardian • 1d ago
 
 ---
 
-**[Exclusive: Mastercard moves to set the rules for AI commerce](https://www.axios.com/2026/01/20/mastercard-ai-checkout-agentic-commerce)**
-
-Axios • 1h ago
-
----
-
-**[Execs at Davos say AI's biggest problem isn't hype — it's security](https://www.businessinsider.com/ai-security-risks-worry-ey-kpmg-execs-cybersecurity-davos-2026-1)**
-
-EY and KPMG executives at Davos said that AI security is a big risk, especially AI agents and, looking ahead, quantum computing.
-
-Business Insider • 3h ago
-
----
-
-**[They hear, but do they care? What AI can teach us about listening better](https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen)**
-
-AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
-
-BBC • 1h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 20h ago
-
----
-
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment/)**
+
+OpenAI • 1d ago
 
 ---
 
@@ -179,17 +185,9 @@ CNBC • 5h ago
 
 ---
 
-**[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment/)**
+**[Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?gaa_at=eafs&gaa_n=AWEtsqc6RbpQy-SEoBIU4AmMN_aRwfyL3MmowOvkZ6l0U3HKVTj_SkcnYcjY&gaa_ts=696f6ee0&gaa_sig=sDnOs_DopeS4FuOh77EfCuXOg2yeoyv2RyXhAtCYDW2ivI4p7JOJSatWjeL43Cdhb4QMySjC3jIzsYUi9w62Yw%3D%3D)**
 
-OpenAI • 1d ago
-
----
-
-**[Andreessen Horowitz Makes a $3 Billion Bet Against the AI Bubble](https://finance.yahoo.com/news/andreessen-horowitz-makes-3-billion-121031191.html)**
-
-A two-month-old AI computer company raised a massive $475 million seed round, with plans to secure even more financing soon.  The exuberance for all things AI has rapidly spilled over into the normally staid field of developer tools, benchmarking services and back-end systems — areas that most regular consumers will never encounter directly — becoming a focal point for a new wave of tech investment.  To a16z, the word infrastructure encompasses any AI software marketed to technical buyers, rather than consumers.
-
-Yahoo Finance • 23h ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -201,19 +199,19 @@ Yahoo Finance • 23h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 301 • 💬 422 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 303 • 💬 422 • 1d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 227 • 💬 85 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 228 • 💬 85 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 158 • 💬 175 • 22h ago
+⬆️ 159 • 💬 175 • 22h ago
 
 ---
 
@@ -221,7 +219,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 136 • 💬 158 • 16h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 136 • 💬 158 • 17h ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -237,7 +235,7 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 105 • 💬 118 • 20h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 105 • 💬 119 • 20h ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -245,7 +243,15 @@ Control Figma from the command line. Full read/write access for AI agents — cr
 
 AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
 
-⬆️ 101 • 💬 94 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 102 • 💬 94 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+
+---
+
+**[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
+
+Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
+
+⬆️ 96 • 💬 122 • 3h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -254,14 +260,6 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
 ⬆️ 91 • 💬 95 • 2d ago • [NPR](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
-
----
-
-**[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
-
-Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
-
-⬆️ 90 • 💬 108 • 3h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -283,7 +281,17 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 41K • 👍 2K • 💬 446 • ⏱️ 18:33 • 12h ago
+👁️ 47K • 👍 2K • 💬 472 • ⏱️ 18:33 • 13h ago
+
+---
+
+**[Free AI Video Generator on Your PC (No Subscriptions, No Limits)](https://www.youtube.com/watch?v=G2Ec3h5CfA8)**
+
+Want to generate AI videos for free, directly on your own PC? In this video, I'll show you how to run powerful open-source AI video ...
+
+📺 Kevin Stratvert
+
+👁️ 3K • 👍 360 • 💬 24 • ⏱️ 11:51 • 3h ago
 
 ---
 
@@ -293,17 +301,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 14K • 👍 695 • 💬 181 • ⏱️ 9:12 • 22h ago
-
----
-
-**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
-
-In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
-
-📺 The Infographics Show
-
-👁️ 42K • 👍 1K • 💬 303 • ⏱️ 10:58 • 16h ago
+👁️ 15K • 👍 729 • 💬 185 • ⏱️ 9:12 • 23h ago
 
 ---
 
@@ -313,17 +311,17 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 8K • 👍 226 • 💬 63 • ⏱️ 24:36 • 1d ago
+👁️ 8K • 👍 228 • 💬 65 • ⏱️ 24:36 • 1d ago
 
 ---
 
-**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
 
-OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
 
-📺 OpenAI
+📺 The Infographics Show
 
-👁️ 18K • 👍 744 • 💬 93 • ⏱️ 49:42 • 19h ago
+👁️ 44K • 👍 1K • 💬 311 • ⏱️ 10:58 • 16h ago
 
 ---
 
@@ -333,17 +331,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 2.0M • 👍 73K • 💬 7K • ⏱️ 15:50 • 1d ago
+👁️ 2.0M • 👍 74K • 💬 7K • ⏱️ 15:50 • 1d ago
 
 ---
 
-**[Open-source SUNO is here! Free offline AI music generator](https://www.youtube.com/watch?v=54YB-hjZDR4)**
+**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
 
-HeartMula review & installation tutorial. Free AI music generator #ai #aitools #aimusic #suno #udio Thanks to our sponsor ...
+OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
 
-📺 AI Search
+📺 OpenAI
 
-👁️ 13K • 👍 1K • 💬 323 • ⏱️ 33:49 • 7h ago
+👁️ 20K • 👍 776 • 💬 98 • ⏱️ 49:42 • 19h ago
 
 ---
 
@@ -353,7 +351,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Liam Ottley
 
-👁️ 29K • 👍 1K • 💬 78 • ⏱️ 12:49 • 1d ago
+👁️ 29K • 👍 1K • 💬 86 • ⏱️ 12:49 • 2d ago
 
 ---
 
@@ -363,7 +361,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 892 • 💬 65 • ⏱️ 7:01 • 1d ago
+👁️ 18K • 👍 896 • 💬 65 • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -373,7 +371,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 97K • 👍 4K • 💬 587 • ⏱️ 19:38 • 2d ago
+👁️ 98K • 👍 4K • 💬 588 • ⏱️ 19:38 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 8,705 • ❤️ 874 • 5d ago
+⬇️ 8,705 • ❤️ 877 • 5d ago
 
 ---
 
@@ -401,31 +399,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 605 • 8h ago
-
----
-
-**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
-
-*Lightricks*
-
-LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
-
-`image-to-video`
-
-⬇️ 1,735,752 • ❤️ 1,195 • 22h ago
-
----
-
-**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
-
-*OpenBMB*
-
-AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
-
-`text-generation` `4.0B`
-
-⬇️ 2,201 • ❤️ 367 • 1d ago
+⬇️ 15,168 • ❤️ 649 • 8h ago
 
 ---
 
@@ -437,19 +411,19 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 365 • 4d ago
+⬇️ 35,593 • ❤️ 370 • 4d ago
 
 ---
 
-**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
 
-*fal*
+*Lightricks*
 
-This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
 
-`image-to-image`
+`image-to-video`
 
-⬇️ 58,165 • ❤️ 783 • 12d ago
+⬇️ 1,735,752 • ❤️ 1,199 • 23h ago
 
 ---
 
@@ -463,6 +437,18 @@ Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters
 
 ---
 
+**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
+
+*OpenBMB*
+
+AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
+
+`text-generation` `4.0B`
+
+⬇️ 2,201 • ❤️ 368 • 1d ago
+
+---
+
 **[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
 
 *Google*
@@ -471,7 +457,19 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 37,294 • ❤️ 289 • 5d ago
+⬇️ 37,294 • ❤️ 291 • 5d ago
+
+---
+
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+
+*fal*
+
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+
+`image-to-image`
+
+⬇️ 58,165 • ❤️ 785 • 12d ago
 
 ---
 
@@ -483,7 +481,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 26,285 • ❤️ 230 • 4d ago
+⬇️ 26,285 • ❤️ 231 • 4d ago
 
 ---
 
@@ -495,7 +493,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 17,086 • ❤️ 210 • 4d ago
+⬇️ 17,086 • ❤️ 211 • 4d ago
 
 ---
 
@@ -547,7 +545,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,895 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,936 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
@@ -559,7 +557,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 22 • 💬 3 • ⭐ 616 • 5d ago
+▲ 23 • 💬 4 • ⭐ 616 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -571,7 +569,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 183 • 💬 5 • ⭐ 5,443 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 5,488 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -652,7 +650,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.3k • 🔱 1.2k • 6h ago
+⭐ 9.3k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 437 • 19h ago
+⭐ 8.5k • 🔱 440 • 19h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 353 • 3d ago
+⭐ 7.5k • 🔱 354 • 3d ago
 
 ---
 
@@ -682,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.3k • 🔱 704 • 12d ago
+⭐ 5.3k • 🔱 706 • 12d ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 852 • 9h ago
+⭐ 5.2k • 🔱 858 • 22m ago
 
 ---
 
@@ -702,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 3.9k • 🔱 3.9k • 21h ago
+⭐ 4.0k • 🔱 3.9k • 21h ago
 
 ---
 
@@ -712,7 +710,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.9k • 🔱 170 • 2d ago
+⭐ 2.9k • 🔱 171 • 2d ago
 
 ---
 
@@ -722,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 298 • 1d ago
+⭐ 2.1k • 🔱 297 • 1d ago
 
 ---
 
@@ -732,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.8k • 🔱 148 • 8h ago
+⭐ 1.9k • 🔱 148 • 1h ago
 
 ---
 

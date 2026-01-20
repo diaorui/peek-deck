@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T11:28:04.775655+00:00'
+updated: '2026-01-20T11:48:07.124924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 11:28 UTC  
+**Last Updated:** January 20, 2026 at 11:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** -7.7%  
-**30d:** +3.0%  
-**90d:** -19.7%  
-**1y:** -6.6%  
+**24h:** -3.6%  
+**7d:** -7.6%  
+**30d:** +3.2%  
+**90d:** -19.5%  
+**1y:** -6.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.37B
+**Market Cap:** $374.61B
 Rank #2
 
 **Circulating Supply:** 120,694,565 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.2%
 
 **All-Time Low:** $0.43
-+713486.6%
++716860.9%
 
 ---
 
@@ -96,7 +96,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-9h ago
+10h ago
 
 ---
 
@@ -128,7 +128,7 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
 
-18h ago
+19h ago
 
 ---
 
@@ -152,17 +152,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
+
+CCN.com • 1h ago
+
+---
+
 **[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
 CoinDesk • 9h ago
-
----
-
-**[Ethereum Active Addresses Skyrocket to Record High, Yet ETH Price Battles to Break $3,500 Resistance](https://www.ccn.com/analysis/crypto/ethereum-active-addresses-record-high-eth-price-battles-to-break-resistance/)**
-
-CCN.com • 1h ago
 
 ---
 
@@ -185,6 +185,12 @@ Decrypt • 21h ago
 Ethereum’s staking landscape has flipped decisively bullish, with the validator exit queue dropping to zero for the first time since mid-2025, a shift that signals fading sell-side pressure and growing confidence in Ether as a yield-bearing asset. Key Takeaways: Ethereum’s validator exit queue has dropped to zero as staking inflows ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum to $4,000? Traders Turn Bullish as Tom Lee Backs ‘Great’ Viral List Showing Institutional Surge](https://www.ccn.com/news/crypto/ethereum-price-to-4000-traders-turn-bullish-tom-lee/)**
+
+CCN.com • 16m ago
 
 ---
 
@@ -218,14 +224,6 @@ TipRanks • 14h ago
 
 ---
 
-**[3 Cryptocurrencies Poised for a Comeback in 2026](https://www.fool.com/investing/2026/01/17/x-cryptocurrencies-poised-for-a-comeback-in-2026/)**
-
-This year's top breakout candidates all posted all-time highs in 2025 before ending the year in the red.
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +244,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 27 • ⏱️ 6:26 • 9h ago
+👁️ 2K • 👍 113 • 💬 24 • ⏱️ 6:26 • 9h ago
+
+---
+
+**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 100 • 👍 8 • 💬 1 • ⏱️ 4:56 • 2h ago
 
 ---
 
@@ -260,33 +268,33 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 166 • 💬 37 • ⏱️ 7:47 • 18h ago
-
----
-
 **[Ethereum Takes Over Youtube!🚀Tom Lee Buys Mr. Beast🚨](https://www.youtube.com/watch?v=3svKfjrgjtc)**
 
 Bitmine Immersion Technologies said Thursday it's investing $200 million in Beast Industries, the company founded by YouTube ...
 
 📺 Paul Barron Network
 
-👁️ 76K • 👍 3K • 💬 185 • ⏱️ 10:28 • 2d ago
+👁️ 76K • 👍 3K • 💬 186 • ⏱️ 10:28 • 2d ago
 
 ---
 
-**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kRm0wzbdjjM)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=TFLOC_DM0IU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 612 • 👍 16 • 💬 7 • ⏱️ 4:52 • 1d ago
+👁️ 2K • 👍 166 • 💬 27 • ⏱️ 7:47 • 18h ago
+
+---
+
+**[The Biggest Crypto Opportunity Isn’t Bitcoin or Ethereum Anymore w/ Rune Christensen](https://www.youtube.com/watch?v=n5lOWLgKy6Y)**
+
+In this episode of The Milk Road Show, we sit down with Rune Christensen (Founder of Sky / MakerDAO) to break down the actual ...
+
+📺 Milk Road
+
+👁️ 1K • 👍 65 • 💬 61 • ⏱️ 31:03 • 16h ago
 
 ---
 
@@ -296,37 +304,27 @@ Dive into Ethereum's future in this quick 4-minute breakdown! With Pectra and Fu
 
 📺 Altcoin Media
 
-👁️ 16 • 👍 2 • 💬 3 • ⏱️ 3:20 • 11h ago
+👁️ 24 • 👍 2 • 💬 3 • ⏱️ 3:20 • 11h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 19th of January](https://www.youtube.com/watch?v=ZBvMnT96VaU)**
+**[Ethereum ‼️ IT’S HAPPENING! My New Price Prediction](https://www.youtube.com/watch?v=O8fq92lR3F0)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 C-Zar Gets Crypto 
+📺 Stock Moe
 
-👁️ 401 • 👍 24 • 💬 22 • ⏱️ 8:16 • 17h ago
-
----
-
-**[BlackRock CEO Larry Fink SECRETLY Manipulating Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=XWwotSf0sbE)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 3K • 💬 230 • ⏱️ 12:19 • 2d ago
+👁️ 11K • 👍 745 • 💬 56 • ⏱️ 15:35 • 2d ago
 
 ---
 
-**[[HOLY SH*T] ⚠️TOM LEE &quot;ETH WILL GO TO $250K BECAUSE OF THIS! [WATCH ASAP] IF YOU OWN BMNR STOCK⚠️](https://www.youtube.com/watch?v=TWu3r-ciLBM)**
+**[BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=M6f4i09yjHA)**
 
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+BITCOIN DUMP EXPLAINED: This Could Get UGLY!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Short The Vix
+📺 Crypto World
 
-👁️ 5K • 👍 250 • 💬 37 • ⏱️ 13:56 • 2d ago
+👁️ 9K • 👍 356 • 💬 220 • ⏱️ 21:07 • 17h ago
 
 ---
 
