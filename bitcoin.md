@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-20T10:29:50.148839+00:00'
+updated: '2026-01-20T10:56:39.307062+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 10:29 UTC  
+**Last Updated:** January 20, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Depends on the setup](https://www.reddit.com/r/Bitcoin/comments/1qhme0k/depends_on_the_setup/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Hard to buy the dip when you're already all in!
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hard to buy the dip when you're already all in!
 
 I dont know how it is for everybody else. Can anybody tell me the trick. I manage to buy the daily/weekly peak and not the lows. Always when I decide to buy it is almost never the best price for the day or for that week. Just Venting... New To BTC...I am buying little by little. I hope there is no crash in October 2026 or I am going to be pissed. I know its a risk. I dont have a crystal ball.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Had to be fast about it](https://www.reddit.com/r/Bitcoin/comments/1qhcjzj/had_to_be_fast_about_it/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street is closed today for the Martin Luther King Jr. holiday. Between tariffs and this weekend closure, tomorrow will be an interesting day for BTC.
 
-20h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Saylor reminds us with this tweet, clearly alluding to the fact that Wall Street
 
 Tell me your 52 weeks low this year
 
-3h ago
+4h ago
 
 ---
 
@@ -179,13 +179,13 @@ Yahoo Finance • 1h ago
 
 The 10-year U.S. Treasury yield has climbed to 4.27 percent, a four-month high that raises borrowing costs across the global economy.
 
-CoinDesk • 32m ago
+CoinDesk • 58m ago
 
 ---
 
 **[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfQTbBO5XTAjT643_CUncJc7Tp6cCxFaR7A1mk6tot9jW1rV0ceofqP&gaa_ts=696f5c85&gaa_sig=QReh3FfGW780Im-fiEtg30cr5nZNWmUVE_YO1tXwAItLDDIIUksHoHMfYpc_uca0vD5lUFXdi2v26AQXxLWGzA%3D%3D)**
 
-Barron's • 58m ago
+Barron's • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ dlnews.com • 1d ago
 
 Expect crypto volatility over the next few days on tariff headlines, one Kraken executive warned.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -289,7 +289,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 6d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+⬆️ 1 • 💬 0 • 7d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -327,7 +327,7 @@ The financial system is more fragile than ever and central banks know it. From a
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 294 • ⏱️ 21:56 • 10h ago
+👁️ 26K • 👍 2K • 💬 294 • ⏱️ 21:56 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 290 • 💬 51 • ⏱️ 9:16 • 5h ago
+👁️ 3K • 👍 290 • 💬 51 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ What happened with Bitcoin and Crypto? **Exchange Partners** Bitunix Exchange �
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 369 • ⏱️ 8:03 • 16h ago
+👁️ 26K • 👍 1K • 💬 369 • ⏱️ 8:03 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 23h ago
+👁️ 27K • 👍 3K • 💬 27 • ⏱️ 12:15 • 1d ago
 
 ---
 
