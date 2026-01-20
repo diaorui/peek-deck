@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T18:39:59.694898+00:00'
+updated: '2026-01-20T20:13:28.544972+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 18:39 UTC  
+**Last Updated:** January 20, 2026 at 20:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ODM Humanoid demo show.
 
-6h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ ODM Humanoid demo show.
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-6h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Walking around CES, I had one of those "everything is AI now" moments. Even robo
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-8h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically, using ProtoTwin's integrated robot controller.
 
-18h ago
+19h ago
 
 ---
 
@@ -76,13 +76,19 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 7h ago
 
 ---
 
 **[This humanoid can fully run a small convenience store](https://www.reddit.com/r/robotics/comments/1qhkk63/this_humanoid_can_fully_run_a_small_convenience/)**
 
-19h ago
+20h ago
+
+---
+
+**[Something new on the market! CraneBOT!](https://www.reddit.com/r/robotics/comments/1qibk4i/something_new_on_the_market_cranebot/)**
+
+19m ago
 
 ---
 
@@ -90,7 +96,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
 
-2h ago
+4h ago
 
 ---
 
@@ -98,15 +104,7 @@ In a few clear sections, you will walk through the full PPO workflow in Stable-B
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 14h ago
-
----
-
-**[Robotics Club Help](https://www.reddit.com/r/robotics/comments/1qi4w99/robotics_club_help/)**
-
-Hi everyone! I would like to make a robotics club at my school. I'm in the 11th grade but I feel as if though it should be opened in my 12th so we can prepare. However, I don't know if we should make it a learning based club or compete in a competition. I was going to pos t something like March-ish saying if anyone wants to join, they can prepare by learning Arduino, and coding languages like C++ or Python. Is my goal of a competition in FIRST robotics by January unrealistic? Especially with a lack of funding and resources, do you think I should focus on teaching and organizing stuff within the club? Thank you!
-
-2h ago
+🔗 [youtu.be](https://youtu.be/ysVzRRzQXTc) • 15h ago
 
 ---
 
@@ -118,7 +116,21 @@ Hi everyone! I would like to make a robotics club at my school. I'm in the 11th 
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 7h ago
+Financial Times • 9h ago
+
+---
+
+**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[Meet MassRobotics’ 5th Healthcare Robotics Startup Catalyst cohort](https://www.therobotreport.com/meet-massrobotics-5th-healthcare-robotics-startup-catalyst-cohort/)**
+
+The MassRobotics Healthcare Robotics Startup Catalyst Program supports startups regardless of their location.
+
+The Robot Report • 1h ago
 
 ---
 
@@ -130,28 +142,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
-
-Bloomberg • 2h ago
-
----
-
-**[Scientists unveil crawling robot hand that can grasp multiple objects](https://www.ft.com/content/39d6fd07-4202-4404-8f78-38a77caf79a0)**
-
-Invention’s advantages in dexterity over human counterpart raise prospect of industrial uses
-
-Financial Times • 2h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1d ago
-
----
-
 **[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
@@ -160,11 +150,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
 
-ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
-
-WRGB • 2d ago
+Bloomberg • 3h ago
 
 ---
 
@@ -180,7 +168,15 @@ Yahoo Finance • 1d ago
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-WJON • 7h ago
+WJON • 8h ago
+
+---
+
+**[Robots and girl power: Albany hosts thrilling robotics showdown](https://cbs6albany.com/news/local/robots-and-girl-power-albany-hosts-thrilling-robotics-showdown)**
+
+ALBANY, N.Y. (WRGB) -- Robotics teams from across the state gathered at the Albany Academy for the FIRST Robotics Competition, aiming to qualify for regional an
+
+WRGB • 2d ago
 
 ---
 
@@ -202,7 +198,7 @@ The UK's top humanoid robot recently proved it could work as reliably as a human
 
 📺 Kalil 4.0
 
-👁️ 782 • 👍 34 • 💬 1 • ⏱️ 0:52 • 2h ago
+👁️ 782 • 👍 34 • 💬 1 • ⏱️ 0:52 • 4h ago
 
 ---
 
@@ -242,7 +238,7 @@ China, fully automated robots are now refueling cars with zero human help. In th
 
 📺 VIDEOS YOUR CHOICE
 
-👁️ 444 • 👍 5 • ⏱️ 0:32 • 47m ago
+👁️ 444 • 👍 5 • ⏱️ 0:32 • 2h ago
 
 ---
 
@@ -292,7 +288,7 @@ Could humanoid robots actually work 24/7 without stopping? Robots like Walker S2
 
 📺 Insider Entirety
 
-👁️ 29K • 👍 302 • 💬 9 • ⏱️ 0:11 • 15h ago
+👁️ 29K • 👍 302 • 💬 9 • ⏱️ 0:11 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T18:39:59.691641+00:00'
+updated: '2026-01-20T20:13:28.541657+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 18:39 UTC  
+**Last Updated:** January 20, 2026 at 20:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.9%  
-**7d:** -10.8%  
-**30d:** -0.4%  
-**90d:** -22.4%  
-**1y:** -9.7%  
+**24h:** -7.0%  
+**7d:** -11.1%  
+**30d:** -0.7%  
+**90d:** -22.6%  
+**1y:** -10.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
+
+---
+
+**[Where to swap ETH to XMR without KYC?](https://www.reddit.com/r/ethereum/comments/1qiabi4/where_to_swap_eth_to_xmr_without_kyc/)**
+
+Hey folks, Quick question. I’m trying to swap some ETH to XMR and keep things fairly private. Not looking for anything sketchy, just want to avoid full KYC if possible. I’ve checked a few exchanges already but most of them either don’t support Monero or want full identity verification before you can do anything. I’m mainly looking for something simple, low effort, and preferably non custodial. If you’ve done this before and know a service that works well, I’d appreciate any tips. Thanks!
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 22h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-17h ago
+18h ago
 
 ---
 
@@ -120,7 +128,7 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
 
-22h ago
+1d ago
 
 ---
 
@@ -140,14 +148,6 @@ An important, and perenially underrated, aspect of "trustlessness", "passing the
 
 ---
 
-**[Daily General Discussion January 18, 2026](https://www.reddit.com/r/ethereum/comments/1qg0myc/daily_general_discussion_january_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,19 +160,11 @@ Decrypt • 1d ago
 
 ---
 
-**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://www.fool.com/investing/2026/01/20/scam-concerns-drive-an-8-plunge-in-ethereum-this-w/)**
-
-While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
-
-The Motley Fool • 1h ago
-
----
-
 **[How a crypto scam pushed Ethereum transactions to an all-time high](https://finance.yahoo.com/news/crypto-scam-pushed-ethereum-transactions-163253595.html)**
 
 Ethereum transactions hit an all-time high. A kind of crypto scam is driving the activity. Address poisoning attacks are getting worse.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,15 +172,37 @@ Yahoo Finance • 2h ago
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
-**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://finance.yahoo.com/news/scam-concerns-drive-8-plunge-175144296.html)**
+**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
+
+The Block • 1d ago
+
+---
+
+**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
+
+The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
+
+dlnews.com • 40m ago
+
+---
+
+**[Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil](https://finance.yahoo.com/news/tom-lees-bitmine-adds-108-154349017.html)**
+
+Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
+
+Yahoo Finance • 4h ago
+
+---
+
+**['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://www.fool.com/investing/2026/01/20/scam-concerns-drive-an-8-plunge-in-ethereum-this-w/)**
 
 While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
-Yahoo Finance • 48m ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -200,31 +214,15 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqezQA4KzjLgvq_EHiiGaH-Z7tt8yDnfB2wFJL5sBWYT3w55UQBnjkGX&gaa_ts=696fcf5e&gaa_sig=MkrZNycHuJ_Vd995diWhHqTXBniUVQ-ptTe-cPxikO7vEEDeBt6z3diX8nRSm8VVMbVoBi32TA1TiD3sJL601w%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqccnZXBnL7p7ijfK-eDqmiIu9FyTIOCqUu9IWmSPyyw9NTIq6lteACD&gaa_ts=696fe54b&gaa_sig=qZ2W-72iqHWhCo5KFFOXAiCed1kHGcas51TMisWJMXPaFDHGQ5lA-uWXpw2vD3jRemL0AYk1ssjDCpGWtCLSuQ%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 5h ago
 
 ---
 
 **[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
 
-CCN.com • 4h ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
-
-Key PointsCryptocurrencies are not stocks.
-
-Nasdaq • 6h ago
-
----
-
-**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
-
-Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
-
-CryptoSlate • 1d ago
+CCN.com • 5h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 6 • ⏱️ 5:30 • 4h ago
+👁️ 1K • 👍 107 • 💬 6 • ⏱️ 5:30 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 10K • 👍 1K • 💬 123 • ⏱️ 18:29 • 5h ago
+👁️ 10K • 👍 1K • 💬 123 • ⏱️ 18:29 • 6h ago
 
 ---
 
@@ -268,7 +266,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 12K • 👍 1K • 💬 226 • ⏱️ 16:10 • 5h ago
+👁️ 12K • 👍 1K • 💬 226 • ⏱️ 16:10 • 7h ago
 
 ---
 
@@ -288,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 178 • 👍 13 • ⏱️ 1:10 • 29m ago
+👁️ 178 • 👍 13 • ⏱️ 1:10 • 2h ago
 
 ---
 
@@ -298,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 470 • 👍 13 • 💬 1 • ⏱️ 4:56 • 9h ago
+👁️ 470 • 👍 13 • 💬 1 • ⏱️ 4:56 • 10h ago
 
 ---
 
@@ -328,7 +326,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 300 • 👍 50 • 💬 1 • ⏱️ 36:50 • 4h ago
+👁️ 300 • 👍 50 • 💬 1 • ⏱️ 36:50 • 6h ago
 
 ---
 
