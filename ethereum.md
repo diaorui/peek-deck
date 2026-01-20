@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T22:44:48.990382+00:00'
+updated: '2026-01-20T23:23:59.742234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 22:44 UTC  
+**Last Updated:** January 20, 2026 at 23:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.72B
+**Market Cap:** $353.83B
 Rank #2
 
 **Circulating Supply:** 120,694,565 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-40.6%
 
 **All-Time Low:** $0.43
-+691769.6%
++678230.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 6h ago
 
 Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 7h ago
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqco5W0ayVRY8ovJp7IActPivohffLJ4t72k7esAqcXgiXJqnmNFi-7b&gaa_ts=69700416&gaa_sig=qJxElhWd5_yz1-_WxiR6Pcwx1XZKYvm44tJoRmYvTYaYZGaLSvpiogR9ooJNXJApsbk1ASfc01FDFRGy5xQ8kQ%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 5h ago
 
 **[2026 Could Be Ethereum’s Most Bullish Year Yet — Here’s Why](https://www.ccn.com/education/crypto/6-signals-2026-ethereum-eth-most-bullish-year/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 6 • ⏱️ 5:30 • 8h ago
+👁️ 2K • 👍 130 • 💬 3 • ⏱️ 5:30 • 9h ago
 
 ---
 
@@ -246,27 +246,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 29K • 👍 3K • 💬 28 • ⏱️ 12:15 • 1d ago
-
----
-
-**[Bitcoin Looks Terrible.. What Comes Next? 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 1K • 👍 64 • 💬 6 • ⏱️ 1:16 • 2h ago
-
----
-
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 13K • 👍 1K • 💬 133 • ⏱️ 18:29 • 9h ago
+👁️ 29K • 👍 3K • 💬 29 • ⏱️ 12:15 • 1d ago
 
 ---
 
@@ -276,7 +256,37 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 18 • ⏱️ 21:23 • 3h ago
+👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 3h ago
+
+---
+
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 14K • 👍 1K • 💬 132 • ⏱️ 18:29 • 9h ago
+
+---
+
+**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 617 • 👍 13 • 💬 28 • ⏱️ 4:56 • 13h ago
+
+---
+
+**[⚰️ BREAKING 🪦 Crypto COLLAPSE ☠️ Bitcoin &amp; Ethereum Destroyed. Game Over?](https://www.youtube.com/watch?v=JngZcXnayas)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 156 • 👍 28 • 💬 6 • ⏱️ 13:29 • 17m ago
 
 ---
 
@@ -290,43 +300,33 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 18K • 👍 1K • 💬 267 • ⏱️ 16:10 • 10h ago
+
+---
+
 **[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
 
 In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 4K • 👍 813 • 💬 35 • ⏱️ 30:52 • 5h ago
+👁️ 8K • 👍 1K • 💬 35 • ⏱️ 30:52 • 5h ago
 
 ---
 
-**[BMNR Stock &amp; Ethereum Staking Backlog — Billion-Dollar ETH Lockup, Supply Shock &amp; Investor Risk](https://www.youtube.com/watch?v=vRCQNIY0y-w)**
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
 
-BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethereum's staking economy — and the market may ...
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Fundatech Insights
+📺 Altcoin Daily
 
-👁️ 12 • 👍 2 • ⏱️ 7:10 • 3h ago
-
----
-
-**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 529 • 👍 13 • 💬 1 • ⏱️ 4:56 • 13h ago
-
----
-
-**[&quot;YEAR OF ETHEREUM&quot; (2026 GOING TO BE BIG!)](https://www.youtube.com/watch?v=d1tzaIN3hXE)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 416 • 👍 63 • 💬 1 • ⏱️ 36:50 • 8h ago
+👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 2h ago
 
 ---
 

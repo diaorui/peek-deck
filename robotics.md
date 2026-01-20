@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T22:44:48.993729+00:00'
+updated: '2026-01-20T23:23:59.745508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 22:44 UTC  
+**Last Updated:** January 20, 2026 at 23:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ODM Humanoid demo show.
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ ODM Humanoid demo show.
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Walking around CES, I had one of those "everything is AI now" moments. Even robo
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-12h ago
+13h ago
 
 ---
 
@@ -90,7 +90,7 @@ In a few clear sections, you will walk through the full PPO workflow in Stable-B
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 10h ago
 
 ---
 
@@ -102,7 +102,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 **[Something new on the market! CraneBOT!](https://www.reddit.com/r/robotics/comments/1qibk4i/something_new_on_the_market_cranebot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 1h ago
 
 The MassRobotics Healthcare Robotics Startup Catalyst Program supports startups regardless of their location.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 3h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 57m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ Interesting Engineering • 1d ago
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 13h ago
+CBC • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 22K • 👍 276 • 💬 4 • ⏱️ 0:23 • 4d ago
+👁️ 23K • 👍 277 • 💬 4 • ⏱️ 0:23 • 4d ago
 
 ---
 
@@ -208,47 +208,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 285 • 💬 80 • ⏱️ 16:49 • 4h ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 257K • 👍 16K • 💬 3K • ⏱️ 5:12 • 7d ago
-
----
-
-**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
-
-What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
-
-📺 Future Lens Pi
-
-👁️ 23K • 💬 8 • ⏱️ 0:07 • 1d ago
-
----
-
-**[This microscopic robot is the future of medicine #shorts](https://www.youtube.com/watch?v=HTytWO33nhw)**
-
-This little black ball is a microscopic robot. And it was designed to deliver drugs anywhere you need inside the body. Now this is a ...
-
-📺 Kallaway
-
-👁️ 15K • 👍 727 • 💬 23 • ⏱️ 0:39 • 1d ago
-
----
-
-**[E.L.B.E.R.R: a Self-Aware Robot](https://www.youtube.com/watch?v=0n9dKF9GjNc)**
-
-Don't build E.L.B.E.R.R Credits to @LIGHTSAREOFF for Elberr's design. Credits to @NathanielWolkstein for doing the music ...
-
-📺 Horror Skunx
-
-👁️ 196K • 👍 2K • 💬 165 • ⏱️ 1:45 • 3d ago
+👁️ 7K • 👍 382 • 💬 102 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -258,7 +218,37 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 82K • 👍 2K • 💬 199 • ⏱️ 2:21 • 11h ago
+👁️ 95K • 👍 2K • 💬 209 • ⏱️ 2:21 • 12h ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 10K • 👍 79 • 💬 19 • ⏱️ 3:19 • 4d ago
+
+---
+
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+
+📺 KhanFlicks
+
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 5d ago
+
+---
+
+**[This microscopic robot is the future of medicine #shorts](https://www.youtube.com/watch?v=HTytWO33nhw)**
+
+This little black ball is a microscopic robot. And it was designed to deliver drugs anywhere you need inside the body. Now this is a ...
+
+📺 Kallaway
+
+👁️ 15K • 👍 730 • 💬 23 • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -268,7 +258,27 @@ Could humanoid robots actually work 24/7 without stopping? Robots like Walker S2
 
 📺 Insider Entirety
 
-👁️ 31K • 👍 309 • 💬 9 • ⏱️ 0:11 • 19h ago
+👁️ 31K • 👍 311 • 💬 9 • ⏱️ 0:11 • 20h ago
+
+---
+
+**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+
+Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+
+📺 Fox Business
+
+👁️ 13K • 👍 228 • 💬 48 • ⏱️ 5:12 • 2d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 2.2M • 👍 27K • 💬 2K • ⏱️ 33:05 • 2d ago
 
 ---
 
@@ -279,16 +289,6 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 📺 KhanFlicks
 
 👁️ 66K • 💬 36 • ⏱️ 12:09 • 3d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 2.2M • 👍 26K • 💬 2K • ⏱️ 33:05 • 2d ago
 
 ---
 

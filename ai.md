@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-20T22:44:48.974903+00:00'
+updated: '2026-01-20T23:23:59.727700+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 20, 2026 at 22:44 UTC  
+**Last Updated:** January 20, 2026 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 When Congress dumped 300+ gigabytes of Epstein files, we used Story Prism by converting two books into knowledge graphs: The Investigative Reporter's Handbook and Intelligence Analysis Fundamentals. This created a kind of "super bot" possessing deep knowledge in these areas. With this we were able to pull out several disturbing patterns from the files within minutes. Check it out, but be warned, it’s not for the faint of heart.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 7h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/connecting-the-dots?utm_campaign=post-expanded-share&utm_medium=web) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ One impression I keep having is that most AI company marketing, success stories,
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Following recent discussions over AI contributions to the LLVM open-source compi
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Kore
 
 NVIDIA executives allegedly authorized the use of millions of pirated books from Anna's Archive to fuel its AI training.
 
-🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 19h ago
+🔗 [torrentfreak.com](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up th
 
 When you talk to a large language model, you can think of yourself as talking to a character. In the first stage of model training, pre-training, LLMs are asked to read vast amounts of text. Through this, they learn to simulate heroes, villains, philosophers, programmers, and just about every other character archetype under the sun. In the next stage, post-training, we select one particular character from this enormous cast and place it center stage: the Assistant. It’s in this character that most modern language models interact with users.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 12h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/assistant-axis) • 13h ago
 
 ---
 
@@ -123,7 +123,7 @@ When you talk to a large language model, you can think of yourself as talking to
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 1d ago
 
 Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”
 
-TechCrunch • 34m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Barron's • 1h ago
 
 **[House Republican squares off against Nvidia, Sacks over AI chip bill](https://thehill.com/policy/technology/5697225-mast-nvidia-clash-ai-chips/)**
 
-The Hill • 1h ago
+The Hill • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Hollywood Reporter • 1h ago
 
 Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 5h ago
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 12h ago
+New York Magazine • 13h ago
 
 ---
 
@@ -229,7 +229,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 116 • 💬 144 • 14h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 116 • 💬 144 • 15h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -277,13 +277,13 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ## YouTube Videos: "ai"
 
-**[AI NEWS: Jeff Bezos Just Predicted The END of Your Local Computer!](https://www.youtube.com/watch?v=uXOEI9-p11Y)**
+**[STOP Paying: Make LONG AI Videos (FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=TAUivqDPV0k)**
 
-This groundbreaking video analyzes Jeff Bezos's bold predictions for the future of AI and local Computing. Bezos forecasts a huge ...
+FREE PDF (prompts + direct links) → https://discord.gg/6aV3ps7tB2 ✓ Sponsored by OiiOii.ai → https://www.oiioii.ai/ It's no secret ...
 
-📺 Olivio Sarikas
+📺 Malva AI
 
-👁️ 2K • 👍 95 • 💬 88 • ⏱️ 7:18 • 10h ago
+👁️ 7K • 👍 472 • 💬 123 • ⏱️ 11:13 • 10h ago
 
 ---
 
@@ -293,7 +293,27 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 63K • 👍 2K • 💬 556 • ⏱️ 18:33 • 1d ago
+👁️ 66K • 👍 2K • 💬 557 • ⏱️ 18:33 • 1d ago
+
+---
+
+**[AI NEWS: Jeff Bezos Just Predicted The END of Your Local Computer!](https://www.youtube.com/watch?v=uXOEI9-p11Y)**
+
+This groundbreaking video analyzes Jeff Bezos's bold predictions for the future of AI and local Computing. Bezos forecasts a huge ...
+
+📺 Olivio Sarikas
+
+👁️ 2K • 👍 105 • 💬 93 • ⏱️ 7:18 • 11h ago
+
+---
+
+**[3 UNCENSORED AI Video Generators That Are Actually FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=SlmPaLlrlPI)**
+
+STOP Paying!! 3 UNCENSORED AI Video Generators That Are Actually FREE Start Printing with Fanvue today ...
+
+📺 Brain Project
+
+👁️ 10K • 👍 333 • 💬 166 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -303,7 +323,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 13K • 👍 1K • 💬 230 • ⏱️ 1:39:31 • 5h ago
+👁️ 29K • 👍 2K • 💬 374 • ⏱️ 1:39:31 • 5h ago
 
 ---
 
@@ -313,7 +333,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 20K • 👍 856 • 💬 209 • ⏱️ 9:12 • 1d ago
+👁️ 21K • 👍 879 • 💬 217 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -323,7 +343,17 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 📺 The Infographics Show
 
-👁️ 50K • 👍 2K • 💬 356 • ⏱️ 10:58 • 1d ago
+👁️ 51K • 👍 2K • 💬 364 • ⏱️ 10:58 • 1d ago
+
+---
+
+**[Best AI Video Generators in 2026 (Most Realistic)](https://www.youtube.com/watch?v=-vwHldNaGPI)**
+
+Access Every Major AI Video Model in OpenArt https://youricreates.com/ai-video-generator In this video, I rank the best AI video ...
+
+📺 Youri van Hofwegen
+
+👁️ 10K • 💬 12 • ⏱️ 15:36 • 7h ago
 
 ---
 
@@ -333,47 +363,17 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 9K • 👍 241 • 💬 66 • ⏱️ 24:36 • 1d ago
+👁️ 9K • 👍 245 • 💬 67 • ⏱️ 24:36 • 1d ago
 
 ---
 
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+**[AI in 2050](https://www.youtube.com/watch?v=WKqm-5qo7XM)**
 
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+This Wojak meme video is about the future of AI in 2050. This fictional concept video shows the dystopian future doomer faces ...
 
-📺 BBC Newsnight
+📺 Low Budget Stories
 
-👁️ 1K • 👍 98 • 💬 35 • ⏱️ 12:14 • 6h ago
-
----
-
-**[State of the AI Industry — the OpenAI Podcast Ep. 12](https://www.youtube.com/watch?v=Z3D2UmAesN4)**
-
-OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...
-
-📺 OpenAI
-
-👁️ 25K • 👍 870 • 💬 141 • ⏱️ 49:42 • 1d ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 2.1M • 👍 78K • 💬 7K • ⏱️ 15:50 • 2d ago
-
----
-
-**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
-
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
-
-📺 Julia McCoy
-
-👁️ 18K • 👍 907 • 💬 65 • ⏱️ 7:01 • 2d ago
+👁️ 151K • 👍 9K • 💬 1K • ⏱️ 9:27 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 8,705 • ❤️ 888 • 5d ago
+⬇️ 8,705 • ❤️ 891 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 719 • 9h ago
+⬇️ 15,168 • ❤️ 734 • 9h ago
 
 ---
 
@@ -413,7 +413,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 35,593 • ❤️ 378 • 5d ago
+⬇️ 35,593 • ❤️ 381 • 5d ago
 
 ---
 
@@ -425,7 +425,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,735,752 • ❤️ 1,212 • 1d ago
+⬇️ 1,735,752 • ❤️ 1,215 • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 31,778 • ❤️ 326 • 1d ago
+⬇️ 31,778 • ❤️ 330 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 2,201 • ❤️ 371 • 2d ago
+⬇️ 2,201 • ❤️ 372 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 58,165 • ❤️ 790 • 13d ago
+⬇️ 58,165 • ❤️ 792 • 13d ago
 
 ---
 
@@ -483,7 +483,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 26,285 • ❤️ 235 • 5d ago
+⬇️ 26,285 • ❤️ 239 • 5d ago
 
 ---
 
@@ -495,13 +495,37 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 17,086 • ❤️ 216 • 5d ago
+⬇️ 17,086 • ❤️ 217 • 5d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[PaddleOCR 3.0 Technical Report](https://huggingface.co/papers/2507.05595)**
+
+*Cheng Cui, Ting Sun, Manhui Lin et al. (19 authors)*
+
+PaddleOCR 3.0 offers efficient OCR and document parsing solutions with models having fewer than 100 million parameters, achieving accuracy and efficiency comparable to larger vision-language models.
+
+▲ 19 • 💬 1 • ⭐ 57,705 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.05595)
+
+---
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 23 • 💬 4 • ⭐ 1,040 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
+
+---
 
 **[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)**
 
@@ -517,21 +541,11 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 ---
 
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 23 • 💬 4 • ⭐ 863 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
-
----
-
 **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://huggingface.co/papers/2601.07372)**
 
 *Xin Cheng, Wangding Zeng, Damai Dai et al. (14 authors)*
+
+🏢 DeepSeek
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
@@ -561,9 +575,21 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
 
-▲ 0 • 💬 1 • ⭐ 6,936 • 1mo ago
+▲ 0 • 💬 1 • ⭐ 6,980 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
+
+---
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
+
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
+
+▲ 31 • 💬 3 • ⭐ 1,642 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
@@ -605,18 +631,6 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ---
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
-
-To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
-
-▲ 31 • 💬 3 • ⭐ 1,570 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
-
----
-
 **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
 
 *MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
@@ -626,21 +640,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 ▲ 183 • 💬 5 • ⭐ 5,509 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 135 • 💬 19 • ⭐ 50,625 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -654,7 +653,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.4k • 🔱 1.2k • 17h ago
+⭐ 9.4k • 🔱 1.2k • 18h ago
 
 ---
 
@@ -664,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 454 • 6h ago
+⭐ 8.8k • 🔱 457 • 7h ago
 
 ---
 
@@ -674,7 +673,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 357 • 3d ago
+⭐ 7.6k • 🔱 359 • 55m ago
 
 ---
 
@@ -684,7 +683,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.7k • 🔱 731 • 4h ago
+⭐ 5.7k • 🔱 735 • 5h ago
 
 ---
 
@@ -694,7 +693,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.2k • 🔱 867 • 11h ago
+⭐ 5.2k • 🔱 866 • 11h ago
 
 ---
 
@@ -704,7 +703,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.0k • 🔱 4.1k • 9h ago
+⭐ 4.1k • 🔱 4.1k • 10h ago
 
 ---
 
@@ -724,7 +723,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 299 • 1d ago
+⭐ 2.1k • 🔱 300 • 1d ago
 
 ---
 
@@ -734,7 +733,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 5h ago
+⭐ 1.9k • 🔱 152 • 6h ago
 
 ---
 
@@ -742,7 +741,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.6k • 🔱 122 • 1d ago
+⭐ 1.7k • 🔱 123 • 1d ago
 
 ---
 
