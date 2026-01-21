@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T19:52:41.057316+00:00'
+updated: '2026-01-21T20:33:14.867595+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 19:52 UTC  
+**Last Updated:** January 21, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 6h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 7h ago
 
 ---
 
-**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
+**[What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?](https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/)**
 
-Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
+As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-16h ago
+11m ago
 
 ---
 
@@ -61,19 +61,19 @@ ElevenLabs, an AI voice-cloning company, is trying to court artists by offering 
 
 ---
 
-**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
+**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
 
-i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
+Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-2h ago
+17h ago
 
 ---
 
-**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
+**[Wikipedia formalizes paid agreements with AI companies for the use of its data](https://www.reddit.com/r/artificial/comments/1qj7v38/wikipedia_formalizes_paid_agreements_with_ai/)**
 
-https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
+The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-3h ago
+55m ago
 
 ---
 
@@ -81,7 +81,31 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 28m ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 1h ago
+
+---
+
+**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
+
+i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
+
+3h ago
+
+---
+
+**[I just googled the same thing, with very slight spelling, and got two completely different AI answers..one very obviously wrong](https://www.reddit.com/r/artificial/comments/1qj8zb2/i_just_googled_the_same_thing_with_very_slight/)**
+
+I googled "what states don't have an I in the name" and the result essentially said "there are no states that dont have an "i". Here are some examples of states that HAVE "i". And listed a handful of states..and in the list literally i clouded "New Jersey" and "Arkansas" So then I googled "what states dont have an I in the name" (originally what I had googled, but I just quickly clicked the blue text that fixed my typo [dont > don't] for me. So all I did was click the back button because I swore I had caught a glimpse of the original answer is gave) low and behold.. the result was... "there are 25 states that do not contain the letter "i" in their names." ....WHAT?!
+
+14m ago
+
+---
+
+**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
+
+https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
+
+4h ago
 
 ---
 
@@ -89,31 +113,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
 
-35m ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 12h ago
-
----
-
-**[my artificial intelligence were too normal](https://www.reddit.com/r/artificial/comments/1qj0vze/my_artificial_intelligence_were_too_normal/)**
-
-too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
-
-4h ago
-
----
-
-**[CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI](https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/)**
-
-genuinely insane, and the fact that they did it for live sports is seriously impressive.
-
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 13h ago
+1h ago
 
 ---
 
@@ -121,71 +121,17 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 ## Google News: "ai"
 
-**["Largest Infrastructure Buildout in Human History": Jensen Huang on AI’s “Five-Layer Cake” at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/)**
+**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
-
-NVIDIA Blog • 6h ago
+The Information • 35m ago
 
 ---
 
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+**[Apple is turning Siri into an AI bot that’s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)**
 
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+SiriGPT?
 
-CNBC • 6h ago
-
----
-
-**[Rollout of AI may need to be slowed to ‘save society’, says boss of JP Morgan](https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang)**
-
-Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
-
-The Guardian • 1h ago
-
----
-
-**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
-
-Reuters • 7h ago
-
----
-
-**['Artificial Intelligence Bill of Rights' moves forward in Florida Senate](http://www.wesh.com/article/artificial-intelligence-bill-rights-florida/70079208)**
-
-The measure also says people have a right to know whether political advertisements were created in whole or in part with the use of artificial intelligence.
-
-wesh.com • 34m ago
-
----
-
-**[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
-
-The New York Times • 28m ago
-
----
-
-**[Deutsche Bank declares 'the honeymoon is over for AI' —‎ here's why](https://www.cnbc.com/2026/01/21/-duetsche-bank-honeymoon-is-over-for-ai-explain-why.html)**
-
-2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
-
-CNBC • 13h ago
-
----
-
-**[Survey: Faculty Say AI Is Impactful—but Not In a Good Way](https://www.insidehighered.com/news/faculty-issues/teaching/2026/01/21/survey-faculty-say-ai-impactful-not-good-way)**
-
-Faculty members think generative AI in the classroom will increase cheating and shorten student attention spans. A minority of professors think the tools are a net positive.
-
-Inside Higher Ed • 11h ago
-
----
-
-**[Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant)**
-
-This AI-powered health assistant provides 24/7 health guidance and takes action to connect you to your provider, book appointments, read labs, and manage meds.
-
-aboutamazon.com • 4h ago
+The Verge • 6m ago
 
 ---
 
@@ -197,6 +143,56 @@ BBC • 1d ago
 
 ---
 
+**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
+
+Reuters • 7h ago
+
+---
+
+**[AI romance is not a bug](https://www.fastcompany.com/91477856/ai-romance-is-not-a-bug)**
+
+Fast Company • 18m ago
+
+---
+
+**[Dungeons & Dragons puts top AI models to the test](https://www.yahoo.com/news/articles/dungeons-dragons-puts-top-ai-201229809.html)**
+
+Scientists developed a detailed grading system by having the most popular AI chatbots play Dungeons & Dragons in real life.
+
+Yahoo • 20m ago
+
+---
+
+**["Largest Infrastructure Buildout in Human History": Jensen Huang on AI’s “Five-Layer Cake” at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/)**
+
+AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
+
+NVIDIA Blog • 7h ago
+
+---
+
+**[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Deutsche Bank declares 'the honeymoon is over for AI' —‎ here's why](https://www.cnbc.com/2026/01/21/-duetsche-bank-honeymoon-is-over-for-ai-explain-why.html)**
+
+2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
+
+CNBC • 14h ago
+
+---
+
+**[Anthropic rewrites Claude’s guiding principles—and reckons with the possibility of AI consciousness](https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/)**
+
+The AI company is publishing a new "constitution" that teaches its chatbot how to think, not just what to do.
+
+Fortune • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +201,7 @@ BBC • 1d ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 307 • 💬 430 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 308 • 💬 430 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -213,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 281 • 💬 223 • 6h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 284 • 💬 226 • 6h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -227,7 +223,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 194 • 💬 127 • 13h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 195 • 💬 130 • 13h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -235,7 +231,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 182 • 💬 76 • 21h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 183 • 💬 76 • 22h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -257,7 +253,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 118 • 💬 154 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 119 • 💬 154 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -265,7 +261,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 109 • 💬 118 • 5h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 110 • 💬 127 • 6h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -355,7 +351,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 10K • 💬 13 • ⏱️ 10:12 • 6h ago
+👁️ 10K • 💬 13 • ⏱️ 10:12 • 7h ago
 
 ---
 
@@ -483,7 +479,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 2,428 • ❤️ 232 • 19h ago
+⬇️ 2,428 • ❤️ 232 • 20h ago
 
 ---
 
@@ -673,7 +669,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 391 • 1h ago
+⭐ 8.0k • 🔱 391 • 2h ago
 
 ---
 

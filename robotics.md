@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T19:52:41.075136+00:00'
+updated: '2026-01-21T20:33:14.883055+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 19:52 UTC  
+**Last Updated:** January 21, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -48,7 +48,15 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-22h ago
+23h ago
+
+---
+
+**[Mujin Tech assessment](https://www.reddit.com/r/robotics/comments/1qj8lwi/mujin_tech_assessment/)**
+
+I am invited to be interviewed with mujin and they sent out a coderpad tech assessment. What should I expect, I have 7 days to give the test and I would want to skim topics. I have done a lot of leetcode, but never coderpad question Applied for senior robotics software role.
+
+28m ago
 
 ---
 
@@ -56,7 +64,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +72,7 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-4h ago
+5h ago
 
 ---
 
@@ -72,31 +80,15 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-8h ago
+9h ago
 
 ---
 
-**[Day 120 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qhxh81/day_120_of_building_asimov_an_opensource_humanoid/)**
+**[Software Projects](https://www.reddit.com/r/robotics/comments/1qj8pn4/software_projects/)**
 
-We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
+Im a freshman at umich majoring in Computer Science and Robotics and I need some project ideas that involve coding in C++ for my resume. Any suggestions will be deeply appreciated
 
-1d ago
-
----
-
-**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
-
-Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
-
-5h ago
-
----
-
-**[Getting started with ROS-I](https://www.reddit.com/r/robotics/comments/1qj3p02/getting_started_with_rosi/)**
-
-Hey folks, I am looking to dip my toes into the ROS ecosystem for some more complex problems that need solving. Generally, we would be pulling in 2d/3d sensor data, running vision, and controlling an industrial robot or three. The pitch behind ROS-I seems pretty compelling in the sense that the framework is designed for these types of tasks (rather than say, a wheeled rover) and has support from some OEMs and other commercial entities in the space. I am very new to ROS and Linux in general, having just recently installed ubuntu on WSL for ROS2 and getting nvidia CUDA running. Can anyone point me in the direction of a good tutorial that would cover getting ROS-I installed? I have found a few good ones for doing a first project, but they are generally assuming everything is ready to go and/or the user has some good familiarity with ROS already. Any tips or advice is appreciated. Thanks!
-
-2h ago
+24m ago
 
 ---
 
@@ -105,6 +97,14 @@ Hey folks, I am looking to dip my toes into the ROS ecosystem for some more comp
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
 4h ago
+
+---
+
+**[Day 120 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qhxh81/day_120_of_building_asimov_an_opensource_humanoid/)**
+
+We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
+
+1d ago
 
 ---
 
@@ -132,7 +132,7 @@ Financial Times • 1d ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -158,20 +158,6 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
-
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
-
-CBC • 1d ago
-
----
-
-**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
 
 Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
@@ -184,7 +170,23 @@ Inc42 • 1d ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 5h ago
+Microsoft • 6h ago
+
+---
+
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+
+China adopts robotics faster than western counterparts
+
+Tom's Hardware • 2d ago
+
+---
+
+**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
+
+Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
+
+wjon.com • 1d ago
 
 ---
 
@@ -228,7 +230,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 1 • 👍 1 • ⏱️ 0:32 • 25m ago
+👁️ 1 • 👍 1 • ⏱️ 0:32 • 1h ago
 
 ---
 
@@ -258,7 +260,7 @@ Most people think robots start with code. They don't. This is the part of roboti
 
 📺 MechaMind Labs
 
-👁️ 494 • 👍 7 • 💬 2 • ⏱️ 1:08 • 13h ago
+👁️ 494 • 👍 7 • 💬 2 • ⏱️ 1:08 • 14h ago
 
 ---
 
