@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T17:55:24.719004+00:00'
+updated: '2026-01-21T18:44:01.874899+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 17:55 UTC  
+**Last Updated:** January 21, 2026 at 18:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 hold strong
 
-1h ago
+2h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ hold strong
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-12h ago
+13h ago
 
 ---
 
@@ -111,13 +111,13 @@ and a small piece of me died again
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-13h ago
+14h ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,13 +131,13 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
 
-2h ago
+3h ago
 
 ---
 
 **[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey guys just wanted to drop a quick deep dive into how the security actually wo
 
 Stacking may mean sacrifice today for tomorrow however your future self will thank you for your better choice over that expensive meal, especially in the ends.
 
-10h ago
+11h ago
 
 ---
 
@@ -157,7 +157,7 @@ Stacking may mean sacrifice today for tomorrow however your future self will tha
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 1d ago
 
 There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 55m ago
 
 The asset’s price jumped as high as $97,500 last week.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,19 +203,19 @@ Yahoo Finance • 32m ago
 
 Steak ‘n Shake is launching a bitcoin bonus program for hourly workers, giving $0.21 per hour worked that vests after two years, following its $10 million corporate bitcoin purchase.
 
-Bitcoin Magazine • 51m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqf75c6ooJhkQDosHnpp_NOaPPrpbMRZXetRAOX16qsO2q13lyrXdLuF&gaa_ts=69711673&gaa_sig=RRcNDqQ2V8foLBXOWHfuiY_H8nWcu-NrfmK7zoI8sQSDLGqKDYxZPRiSQ2qir5oi6csMPYN7LAht25kQ8dXn5g%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -281,7 +281,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -289,7 +289,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 4 • 21h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 4 • 22h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -315,7 +315,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 12K • 👍 693 • 💬 67 • ⏱️ 19:22 • 9h ago
+👁️ 12K • 👍 693 • 💬 67 • ⏱️ 19:22 • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 357 • 💬 69 • ⏱️ 12:17 • 8h ago
+👁️ 4K • 👍 357 • 💬 69 • ⏱️ 12:17 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 899 • 💬 78 • ⏱️ 41:04 • 2h ago
+👁️ 11K • 👍 899 • 💬 78 • ⏱️ 41:04 • 3h ago
 
 ---
 
@@ -345,7 +345,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 312 • ⏱️ 9:10 • 16h ago
+👁️ 19K • 👍 1K • 💬 312 • ⏱️ 9:10 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macr
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 239 • 💬 43 • ⏱️ 5:17 • 17h ago
+👁️ 6K • 👍 239 • 💬 43 • ⏱️ 5:17 • 18h ago
 
 ---
 
@@ -385,7 +385,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 347 • 💬 128 • ⏱️ 1:16 • 21h ago
+👁️ 15K • 👍 347 • 💬 128 • ⏱️ 1:16 • 22h ago
 
 ---
 
@@ -395,7 +395,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 205 • ⏱️ 22:10 • 17h ago
+👁️ 28K • 👍 2K • 💬 205 • ⏱️ 22:10 • 18h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T17:55:24.728231+00:00'
+updated: '2026-01-21T18:44:01.885185+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 17:55 UTC  
+**Last Updated:** January 21, 2026 at 18:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-10h ago
+11h ago
 
 ---
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their we
 
 Hey folks, I am looking to dip my toes into the ROS ecosystem for some more complex problems that need solving. Generally, we would be pulling in 2d/3d sensor data, running vision, and controlling an industrial robot or three. The pitch behind ROS-I seems pretty compelling in the sense that the framework is designed for these types of tasks (rather than say, a wheeled rover) and has support from some OEMs and other commercial entities in the space. I am very new to ROS and Linux in general, having just recently installed ubuntu on WSL for ROS2 and getting nvidia CUDA running. Can anyone point me in the direction of a good tutorial that would cover getting ROS-I installed? I have found a few good ones for doing a first project, but they are generally assuming everything is ready to go and/or the user has some good familiarity with ROS already. Any tips or advice is appreciated. Thanks!
 
-46m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey folks, I am looking to dip my toes into the ROS ecosystem for some more comp
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-2h ago
+3h ago
 
 ---
 
@@ -124,7 +124,7 @@ Fortune • 2d ago
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -132,13 +132,13 @@ Yahoo Finance • 19h ago
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -146,7 +146,7 @@ Investor's Business Daily • 19h ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 3h ago
+Microsoft • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Robot Report • 3h ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Financial Times • 1d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 4K • 👍 475 • 💬 36 • ⏱️ 1:51 • 4h ago
+👁️ 4K • 👍 475 • 💬 36 • ⏱️ 1:51 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ entertaining experience to every viewer. Each edit is highly transformative, fea
 
 📺 JAXON_JACK
 
-👁️ 23K • 💬 3 • ⏱️ 0:12 • 6h ago
+👁️ 23K • 💬 3 • ⏱️ 0:12 • 7h ago
 
 ---
 
