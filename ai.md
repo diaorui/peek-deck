@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T08:34:14.219420+00:00'
+updated: '2026-01-21T09:34:51.286952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 08:34 UTC  
+**Last Updated:** January 21, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-5h ago
+6h ago
 
 ---
 
@@ -49,15 +49,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 2h ago
-
----
-
-**[Did I (Gemini 3 Pro Review really) accidentally find something huge, a new sort of AI system that can replicate any complex signal. Fast.](https://www.reddit.com/r/artificial/comments/1qirz7i/did_i_gemini_3_pro_review_really_accidentally/)**
-
-A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
-
-🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 36m ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 3h ago
 
 ---
 
@@ -65,7 +57,7 @@ A system that is able to replicate time series data with complex signal (Phase a
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 1h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 2h ago
 
 ---
 
@@ -73,7 +65,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 4h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 5h ago
 
 ---
 
@@ -81,7 +73,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 15h ago
 
 ---
 
@@ -90,6 +82,14 @@ Following recent discussions over AI contributions to the LLVM open-source compi
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
 1d ago
+
+---
+
+**[Did I (Gemini 3 Pro Review really) accidentally find something huge, a new sort of AI system that can replicate any complex signal. Fast.](https://www.reddit.com/r/artificial/comments/1qirz7i/did_i_gemini_3_pro_review_really_accidentally/)**
+
+A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
+
+🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,55 +121,37 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 ## Google News: "ai"
 
-**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
+**[Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'](https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html)**
 
-"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
+Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
 
-CNBC • 19h ago
-
----
-
-**[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
-
-Young graduates can’t find jobs. Schools know they have to make big changes. But what?
-
-New York Magazine • 22h ago
+CNBC • 16h ago
 
 ---
 
-**[Billionaires Buy 2 Artificial Intelligence (AI) Stocks Up 830% and 1,180% Since 2023](https://www.fool.com/investing/2026/01/20/billionaires-buy-2-ai-stocks-up-1180-since-2023/)**
+**[They hear, but do they care? What AI can teach us about listening better](https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen)**
 
-Several top hedge fund managers bought shares of Nvidia and Western Digital in the third quarter.
+AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
 
-The Motley Fool • 1d ago
-
----
-
-**[2 Undervalued AI Stocks to Buy in 2026 and Hold for Decades](https://www.fool.com/investing/2026/01/20/2-undervalued-ai-stocks-to-buy-in-2026-and-hold/)**
-
-These stocks have incredible long-term opportunities.
-
-The Motley Fool • 5h ago
+BBC • 23h ago
 
 ---
 
-**[Deutsche Bank declares 'the honeymoon is over for AI' —‎ here's why](https://www.cnbc.com/2026/01/21/-duetsche-bank-honeymoon-is-over-for-ai-explain-why.html)**
+**[Nvidia Invests in AI Start-Up Baseten. It Shows a Shift in the AI Market.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-baseten-dff85821?mod=barronsgooglenews&gaa_at=eafs&gaa_n=AWEtsqetaxLMZWIi2W9y0IgN_Iyoq_QO0I05aHpSR7EHp1pSHK0503BZNvMy&gaa_ts=6970a119&gaa_sig=E6aMnL8xHZxig2uCxorrHH0BJDVe6gYvsg-GYgK5ymy709Ez1tkO0AGI0UGKHPVm4QmzjFPpEhl8NM5-o-f5uQ%3D%3D)**
 
-2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
-
-CNBC • 2h ago
+Barron's • 1h ago
 
 ---
 
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
+**[Big tech's AI tools crowd the classroom](https://www.axios.com/2026/01/21/google-anthropic-microsoft-education)**
 
-The New York Times • 20h ago
+Axios • 1h ago
 
 ---
 
-**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqdi0UoZljsJQY442wL_7BkJ1XOO0IBqUdJyCV4lTolLGqLDUHFM_Xhe&gaa_ts=69708933&gaa_sig=4ardRfJk2mW2nd6LpjljjXonqJJu9M8PwOES1ovkkImbXZHdasA0vZ7NXBcl4K56J5dmIGd7UfOyOP0wVx01iA%3D%3D)**
+**[China AI Firm Zhipu Limits Coding Agent Access as Demand Soars](https://www.bloomberg.com/news/articles/2026-01-21/china-ai-firm-zhipu-limits-coding-agent-access-as-demand-soars)**
 
-The Wall Street Journal • 14h ago
+Bloomberg • 31m ago
 
 ---
 
@@ -181,17 +163,29 @@ CNN • 2d ago
 
 ---
 
-**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
+**[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
 
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-The Guardian • 2d ago
+New York Magazine • 23h ago
 
 ---
 
-**[DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West](https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west)**
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-Bloomberg.com • 15h ago
+The New York Times • 21h ago
+
+---
+
+**[Horizon 1000: Advancing AI for primary healthcare](https://openai.com/index/horizon-1000/)**
+
+OpenAI • 4h ago
+
+---
+
+**[Gates and OpenAI team up for AI health push in African countries](https://www.reuters.com/business/healthcare-pharmaceuticals/gates-openai-team-up-ai-health-push-african-countries-2026-01-21/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -203,7 +197,7 @@ Bloomberg.com • 15h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 306 • 💬 427 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 306 • 💬 429 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -227,19 +221,19 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 ---
 
+**[Which AI Lies Best? A game theory classic designed by John Nash](https://news.ycombinator.com/item?id=46698370)**
+
+162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
+
+⬆️ 126 • 💬 58 • 11h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+
+---
+
 **[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
 ⬆️ 117 • 💬 150 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
-
----
-
-**[Which AI Lies Best? A game theory classic designed by John Nash](https://news.ycombinator.com/item?id=46698370)**
-
-162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
-
-⬆️ 117 • 💬 53 • 10h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -259,6 +253,14 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
+**[The Agentic AI Handbook: Production-Ready Patterns](https://news.ycombinator.com/item?id=46701969)**
+
+A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
+
+⬆️ 90 • 💬 26 • 2h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+
+---
+
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
@@ -267,15 +269,19 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 ---
 
-**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
-
-⬆️ 84 • 💬 55 • 14h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[STOP Paying: NEW FREE &amp; UNLIMITED AI Video Generator (With SOUND)](https://www.youtube.com/watch?v=WUtRdgR4muU)**
+
+Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/MALVAAIJAN4 100% ...
+
+📺 Malva AI
+
+👁️ 23K • 👍 946 • 💬 240 • ⏱️ 9:12 • 1d ago
+
+---
 
 **[The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x | Ray Kurzweil](https://www.youtube.com/watch?v=8iWSNwIRazc)**
 
@@ -283,17 +289,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 68K • 👍 3K • 💬 621 • ⏱️ 1:39:31 • 14h ago
-
----
-
-**[The “Boring” AI Business NOBODY Is Talking About](https://www.youtube.com/watch?v=jJ5a3MiLI_w)**
-
-How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! ▻ Get My FREE AI Print On Demand Book: ...
-
-📺 Wholesale Ted
-
-👁️ 26K • 👍 2K • 💬 214 • ⏱️ 22:39 • 14h ago
+👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 15h ago
 
 ---
 
@@ -303,17 +299,7 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 71K • 👍 3K • 💬 569 • ⏱️ 18:33 • 1d ago
-
----
-
-**[STOP Paying: NEW FREE &amp; UNLIMITED AI Video Generator (With SOUND)](https://www.youtube.com/watch?v=WUtRdgR4muU)**
-
-Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/MALVAAIJAN4 100% ...
-
-📺 Malva AI
-
-👁️ 23K • 👍 937 • 💬 235 • ⏱️ 9:12 • 1d ago
+👁️ 72K • 👍 3K • 💬 574 • ⏱️ 18:33 • 1d ago
 
 ---
 
@@ -327,23 +313,23 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 ---
 
+**[The “Boring” AI Business NOBODY Is Talking About](https://www.youtube.com/watch?v=jJ5a3MiLI_w)**
+
+How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! ▻ Get My FREE AI Print On Demand Book: ...
+
+📺 Wholesale Ted
+
+👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 15h ago
+
+---
+
 **[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
 
 The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
 
 📺 KolaDepth
 
-👁️ 9K • 👍 254 • 💬 70 • ⏱️ 24:36 • 2d ago
-
----
-
-**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 2.2M • 👍 80K • 💬 7K • ⏱️ 15:50 • 2d ago
+👁️ 9K • 👍 255 • 💬 70 • ⏱️ 24:36 • 2d ago
 
 ---
 
@@ -353,17 +339,27 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 11K • 👍 355 • 💬 136 • ⏱️ 12:14 • 16h ago
+👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 17h ago
 
 ---
 
-**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
+**[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)**
 
-Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-📺 Bloomberg Live
+📺 penguinz0
 
-👁️ 34K • 👍 982 • 💬 140 • ⏱️ 26:04 • 15h ago
+👁️ 2.2M • 👍 81K • 💬 7K • ⏱️ 15:50 • 2d ago
+
+---
+
+**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+
+My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+
+📺 Liam Ottley
+
+👁️ 37K • 👍 1K • 💬 173 • ⏱️ 12:49 • 2d ago
 
 ---
 
@@ -371,25 +367,13 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Maggie McGaugh
 
-👁️ 208K • 👍 8K • 💬 125 • ⏱️ 0:52 • 15h ago
+👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 16h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 9,872 • ❤️ 903 • 5d ago
-
----
 
 **[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
 
@@ -399,7 +383,19 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 794 • 18h ago
+⬇️ 69,491 • ❤️ 804 • 19h ago
+
+---
+
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
+
+*Z.ai*
+
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
+
+`text-to-image`
+
+⬇️ 9,872 • ❤️ 904 • 5d ago
 
 ---
 
@@ -411,7 +407,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 402 • 5d ago
+⬇️ 43,156 • ❤️ 409 • 5d ago
 
 ---
 
@@ -423,7 +419,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,224 • 1d ago
+⬇️ 1,855,174 • ❤️ 1,226 • 1d ago
 
 ---
 
@@ -433,7 +429,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 36,465 • ❤️ 338 • 1d ago
+⬇️ 36,465 • ❤️ 340 • 1d ago
 
 ---
 
@@ -445,7 +441,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 2,463 • ❤️ 376 • 2d ago
+⬇️ 2,463 • ❤️ 378 • 2d ago
 
 ---
 
@@ -457,7 +453,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 61,107 • ❤️ 298 • 6d ago
+⬇️ 61,107 • ❤️ 300 • 6d ago
 
 ---
 
@@ -469,7 +465,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 61,105 • ❤️ 799 • 13d ago
+⬇️ 61,105 • ❤️ 802 • 13d ago
 
 ---
 
@@ -481,19 +477,19 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 252 • 5d ago
+⬇️ 33,057 • ❤️ 256 • 5d ago
 
 ---
 
-**[translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it)**
+**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
 
-*Google*
+*Black Forest Labs*
 
-TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 languages, capable of translating text and extracting/translating text from images. It's designed for efficient deployment on resource-constrained environments, enabling state-of-the-art translation for diverse applications.
+FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
 
-`image-text-to-text` `28.8B`
+`image-to-image`
 
-⬇️ 20,655 • ❤️ 223 • 5d ago
+⬇️ 24,712 • ❤️ 225 • 5d ago
 
 ---
 
@@ -519,7 +515,7 @@ PaddleOCR 3.0 offers efficient OCR and document parsing solutions with models ha
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 24 • 💬 4 • ⭐ 1,040 • 5d ago
+▲ 24 • 💬 4 • ⭐ 1,160 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -533,7 +529,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 11 • 💬 3 • ⭐ 400 • 4d ago
+▲ 12 • 💬 3 • ⭐ 400 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -609,7 +605,7 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 32 • 💬 3 • ⭐ 1,642 • 15d ago
+▲ 32 • 💬 3 • ⭐ 1,693 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -651,7 +647,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 3h ago
+⭐ 9.5k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -661,7 +657,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 466 • 16h ago
+⭐ 9.1k • 🔱 472 • 17h ago
 
 ---
 
@@ -671,7 +667,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 381 • 10h ago
+⭐ 7.8k • 🔱 383 • 11h ago
 
 ---
 
@@ -681,7 +677,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 753 • 14h ago
+⭐ 6.0k • 🔱 756 • 15h ago
 
 ---
 
@@ -691,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 883 • 21h ago
+⭐ 5.3k • 🔱 886 • 57m ago
 
 ---
 
@@ -701,7 +697,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.2k • 19h ago
+⭐ 4.2k • 🔱 4.3k • 20h ago
 
 ---
 
@@ -711,7 +707,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 3.0k • 🔱 175 • 3d ago
+⭐ 3.0k • 🔱 176 • 3d ago
 
 ---
 
@@ -721,7 +717,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 307 • 4h ago
+⭐ 2.2k • 🔱 309 • 5h ago
 
 ---
 
@@ -731,7 +727,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 15h ago
+⭐ 1.9k • 🔱 153 • 16h ago
 
 ---
 
@@ -739,7 +735,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.7k • 🔱 130 • 2d ago
+⭐ 1.8k • 🔱 134 • 2d ago
 
 ---
 

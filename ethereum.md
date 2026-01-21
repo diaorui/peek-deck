@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T08:34:14.234706+00:00'
+updated: '2026-01-21T09:34:51.301322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 08:34 UTC  
+**Last Updated:** January 21, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -10.4%  
+**24h:** -4.1%  
+**7d:** -10.3%  
 **30d:** +0.3%  
 **90d:** -24.5%  
-**1y:** -8.3%  
+**1y:** -8.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.97B
+**Market Cap:** $358.28B
 Rank #2
 
 **Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-40.0%
 
 **All-Time Low:** $0.43
-+687259.0%
++685462.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
+
+---
+
+**[Back to decentralized social in 2026](https://www.reddit.com/r/ethereum/comments/1qis2l9/back_to_decentralized_social_in_2026/)**
+
+In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
+
+1h ago
 
 ---
 
@@ -80,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 9h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 10h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 8h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 9h ago
 
 ---
 
@@ -138,14 +146,6 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 ---
 
-**[More Information on Transaction Methods](https://www.reddit.com/r/ethereum/comments/1qheszs/more_information_on_transaction_methods/)**
-
-I'm looking at various transactions via Etherscan and I'm wondering if there's a guide that can tell me more about the meaning of methods of transactions. For example, I'm trying to figure out what "Call Diamond With Permit2" and "Execute302" means.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,21 +154,21 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 13h ago
+dlnews.com • 14h ago
 
 ---
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Tom Lee’s BitMine Causes $8Bn Ethereum Staking Traffic Jam](https://finance.yahoo.com/news/tom-lee-bitmine-causes-8bn-214728294.html)**
+**[Solana ETFs Outperform Bitcoin and Ethereum Amid Market Crash](https://finance.yahoo.com/news/solana-etfs-outperform-bitcoin-ethereum-080000468.html)**
 
-Ethereum staking system just hit a huge traffic jam thanks to the Tom Lee-backed Ethereum treasury firm, BitMine. The company has staked so much ETH .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { color: #008868 !important; background-color: transparent ...
+Solana outperforms major tokens as ETFs see inflows, network growth holds steady, and the price defends key support amid market crash.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,9 +180,15 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqc6h9vUW9KDoNRXSLuQ0_o0_I8Coopvi9KlTmllzrzakCAB5FqBJN0F&gaa_ts=69708936&gaa_sig=bJAOGQJZBEM7VM5WrWvPC5LSGmns1dK0D-mRPRi-PHbUXHPCtl4tvDzCMOIpkBG6YyyQkFRE2x7wz9-rn4oiRg%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdnZQ13q1AOo2EW_AJQTL7zLPxGBwQ122GS_NC4Nna2gBsiJaiqFFOW&gaa_ts=6970a11d&gaa_sig=T-NCUtAUK3CEL8XnYsMPrA5ggZI7QT-74E-dM7oXZH0aZvW3zR8RzehnJuaFwHQLYh_0D16NbG4MzOsviM4tCQ%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqc08c7krWKWLbsQ3zR_AJvxotjPKCHScdlmpRzkgNx0g9UVlRFLVACe&gaa_ts=6970a11d&gaa_sig=kLs5Eo0Ol2Y1V-5jJilXk2uffsS6x7PmB1EjRn5o-W8rltF-x0C5VhVGAbDg8JSG0IWO6mcobGtdY45rYupjow%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -190,13 +196,7 @@ MarketWatch • 17h ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 16h ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfSCX0Dq6Bi1Siv06cXlB7GFJMLaY65k_jjNCqDu7j-zF0qoqg7yHT9&gaa_ts=69708936&gaa_sig=RJGXUaAlqZ61j14owfKagFk41uzlBA7_MPXlmVixEL7TiHirVoGxEA5zK2isXSrYpmiaxoolQBDJaRJTN3VshA%3D%3D)**
-
-Barron's • 23h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -208,14 +208,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
-
-Key PointsCryptocurrencies are not stocks.
-
-Nasdaq • 20h ago
-
----
-
 **[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
 
 Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
@@ -224,19 +216,17 @@ CryptoSlate • 2d ago
 
 ---
 
+**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
+
+ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
+
+AMBCrypto • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
-
-BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 364 • 💬 174 • ⏱️ 21:23 • 13h ago
-
----
 
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=k7Js89TPC0A)**
 
@@ -244,17 +234,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 113 • 💬 10 • ⏱️ 7:43 • 8h ago
+👁️ 2K • 👍 121 • 💬 10 • ⏱️ 7:43 • 9h ago
 
 ---
 
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Stock Moe
+📺 Crypto World
 
-👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 19h ago
+👁️ 10K • 👍 375 • 💬 179 • ⏱️ 21:23 • 14h ago
 
 ---
 
@@ -268,13 +258,23 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 20h ago
+
+---
+
 **[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
 
 Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 1K • 💬 270 • ⏱️ 16:10 • 19h ago
+👁️ 20K • 👍 1K • 💬 271 • ⏱️ 16:10 • 20h ago
 
 ---
 
@@ -284,17 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 740 • 👍 14 • 💬 9 • ⏱️ 4:56 • 23h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 18h ago
+👁️ 761 • 👍 14 • 💬 7 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -308,13 +298,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
 
-In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Charts & Cars by Philip Klinkmüller
+📺 More Crypto Online
 
-👁️ 11K • 👍 1K • 💬 35 • ⏱️ 30:52 • 15h ago
+👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 19h ago
+
+---
+
+**[ETHEREUM ESTÁ MORRENDO? AINDA VALE A PENA?](https://www.youtube.com/watch?v=z1NhD3pMPr8)**
+
+Muitos estão dizendo que o Ethereum está morrendo, mas será que essa narrativa faz sentido quando olhamos os dados reais?
+
+📺 Orlando on Crypto
+
+👁️ 4K • 👍 584 • 💬 148 • ⏱️ 18:49 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 12h ago
+👁️ 13K • 👍 309 • 💬 124 • ⏱️ 1:16 • 13h ago
 
 ---
 
