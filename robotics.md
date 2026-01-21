@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T05:54:45.464838+00:00'
+updated: '2026-01-21T06:38:56.912308+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 05:54 UTC  
+**Last Updated:** January 21, 2026 at 06:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
 
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 16h ago
+🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 17h ago
 
 ---
 
@@ -112,11 +112,11 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 ## Google News: "robotics"
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-TechCrunch • 8h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -128,11 +128,9 @@ The Robot Report • 8h ago
 
 ---
 
-**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
+**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
 
-Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
-
-Yahoo Finance • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -146,15 +144,7 @@ Financial Times • 19h ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 11h ago
-
----
-
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 1d ago
+Reuters • 12h ago
 
 ---
 
@@ -162,15 +152,7 @@ Interesting Engineering • 1d ago
 
 Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
 
-Yahoo Finance • 11h ago
-
----
-
-**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
-
-Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
-
-Inc42 • 23h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -182,11 +164,27 @@ Fortune • 1d ago
 
 ---
 
+**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
+
+Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
+
+Inc42 • 1d ago
+
+---
+
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 20h ago
+CBC • 21h ago
 
 ---
 
@@ -220,7 +218,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 548 • 💬 130 • ⏱️ 16:49 • 11h ago
+👁️ 10K • 👍 548 • 💬 130 • ⏱️ 16:49 • 12h ago
 
 ---
 
@@ -290,7 +288,7 @@ Yahoo Finance Markets and Data Editor Jared Blikre breaks down the day's market 
 
 📺 Yahoo Finance
 
-👁️ 593 • 👍 19 • 💬 2 • ⏱️ 20:46 • 6h ago
+👁️ 593 • 👍 19 • 💬 2 • ⏱️ 20:46 • 7h ago
 
 ---
 

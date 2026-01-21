@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T05:54:45.461556+00:00'
+updated: '2026-01-21T06:38:56.909043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 05:54 UTC  
+**Last Updated:** January 21, 2026 at 06:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** -10.1%  
-**30d:** +0.6%  
-**90d:** -24.3%  
-**1y:** -8.0%  
+**24h:** -4.5%  
+**7d:** -9.9%  
+**30d:** +0.8%  
+**90d:** -24.1%  
+**1y:** -7.8%  
 
 ---
 
@@ -68,17 +68,25 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 21, 2026](https://www.reddit.com/r/ethereum/comments/1qipy1b/daily_general_discussion_january_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+38m ago
+
+---
+
 **[📅 Ethereal news calendar. Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines. Add to Google, Apple or download ICS.](https://www.reddit.com/r/ethereum/comments/1qigtqr/ethereal_news_calendar_calendar_of_ethereum/)**
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 7h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 5h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 6h ago
 
 ---
 
@@ -86,7 +94,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +126,7 @@ Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,21 +146,21 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 ---
 
-**[Rabby wallet blocks transaction](https://www.reddit.com/r/ethereum/comments/1qh9dm9/rabby_wallet_blocks_transaction/)**
-
-Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and it works amazing. Recently I decided to use Lido strAtegy and Lido GGV and tried to move 0.025 eth to each of them. Rabby shows me fee 0.03$, but when I sign transaction rabby vlocks it with message "gas fee is to high" and trezor shows me Max fee 13-15$. My questions are: is it really going to take 15$ fee? Should I approve this transaction without rabby and approve it solo via trezor and fee will be 0.03$?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 8h ago
+The Block • 9h ago
+
+---
+
+**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
+
+Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -160,7 +168,7 @@ The Block • 8h ago
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 10h ago
+dlnews.com • 11h ago
 
 ---
 
@@ -172,17 +180,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdiOTgZxM-2P2WgR70Nohmf07pcxSI2SpKc0PpDEmeeBKyO5OnWxfm4&gaa_ts=697077e8&gaa_sig=0wZYEBt4cLgQ4w-JrDOKR4iUo_csFPXetHEfgCTvv16eEKGYZnLmKQcIsQK0w-eDEYN7e1LbsyCwfpo-xSq_1A%3D%3D)**
 
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqeBl0rt6cl6COQcvkjkvNXgAY8O7wp7g2TgqHLlYxyi3b6C_JH5k2vF&gaa_ts=697067d8&gaa_sig=cU4abXQSXxp_jn-JwbFpBWh9t0gjzWk4AUD_xy2J7xh_UYjSeU7YLECkpSR3UKd8NbxUbTNgFJGFDuVFgDoLfA%3D%3D)**
-
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -202,9 +202,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqey00l3LI1zLT_dx2an-Gr7H3OQa4abBSvVfAf8ge52-osWJQe9Re_W&gaa_ts=697067d8&gaa_sig=JpdYpN3qFUChX8mzBgldNGuZ_gB64DYxpTgyM8TLpkUFD8kdaNBXLtWrw9tnALE9_vszv1hPywbzW3AXZao5QA%3D%3D)**
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqc1mb9ELpcXsmOfa3a80Lx4c-dECC0NdQ6gy1IeGdPKCpVNocQGAu8b&gaa_ts=697077e8&gaa_sig=rL4hjR2zVxRd1QjSqr4gY_UxRxWeDxz1M3vtyG2EqdMV6g4Ho0xCVnWK8Yq3AymqmSUhUjm6FaUxlyNpVfb53A%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -212,15 +212,15 @@ Barron's • 20h ago
 
 Key PointsCryptocurrencies are not stocks.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
-**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
+**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
 
-Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
+ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
 
-CryptoSlate • 2d ago
+AMBCrypto • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 669 • 👍 90 • 💬 9 • ⏱️ 7:43 • 6h ago
+👁️ 669 • 👍 90 • 💬 9 • ⏱️ 7:43 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 10h ago
+👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 11h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Stock Moe
 
-👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 16h ago
+👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 19K • 👍 1K • 💬 282 • ⏱️ 16:10 • 16h ago
+👁️ 19K • 👍 1K • 💬 282 • ⏱️ 16:10 • 17h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 680 • 👍 14 • 💬 13 • ⏱️ 4:56 • 20h ago
+👁️ 680 • 👍 14 • 💬 13 • ⏱️ 4:56 • 21h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 1 • ⏱️ 5:30 • 15h ago
+👁️ 2K • 👍 133 • 💬 1 • ⏱️ 5:30 • 16h ago
 
 ---
 
@@ -304,7 +304,7 @@ BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethere
 
 📺 Fundatech Insights
 
-👁️ 103 • 👍 7 • ⏱️ 7:10 • 10h ago
+👁️ 103 • 👍 7 • ⏱️ 7:10 • 11h ago
 
 ---
 
@@ -314,7 +314,7 @@ In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wel
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 10K • 👍 1K • 💬 35 • ⏱️ 30:52 • 12h ago
+👁️ 10K • 👍 1K • 💬 35 • ⏱️ 30:52 • 13h ago
 
 ---
 
