@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T15:34:29.942362+00:00'
+updated: '2026-01-21T16:51:54.318568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 15:34 UTC  
+**Last Updated:** January 21, 2026 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Most CEOs agree AI hasn't benefitted revenue yet, survey reveals just 12% report major success so far](https://www.reddit.com/r/artificial/comments/1qiwevk/most_ceos_agree_ai_hasnt_benefitted_revenue_yet/)**
-
-A survey from professional services network PwC polling CEOs reveals the highs and lows of AI adoption in the workplace so far.
-
-🔗 [PC Guide](https://www.pcguide.com/news/most-ceos-agree-ai-hasnt-benefitted-revenue-yet-survey-reveals-just-12-report-major-success-so-far/) • 3h ago
-
----
-
 **[Nvidia CEO says AI needs more investment in defiance of bubble fears](https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/)**
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 2h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 3h ago
 
 ---
 
@@ -57,15 +49,15 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-12h ago
+13h ago
 
 ---
 
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/)**
+**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
 
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 8h ago
+29m ago
 
 ---
 
@@ -73,7 +65,15 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
 
-5m ago
+1h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ too few disturbances are also a sign of goings on sometimes, though one must alw
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 9h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 11h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 21h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 22h ago
 
 ---
 
@@ -123,29 +123,65 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 2h ago
+Reuters • 4h ago
 
 ---
 
-**[Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'](https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html)**
+**["Largest Infrastructure Buildout In Human History": Jensen Huang on AI’s “Five-Layer Cake” at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/)**
 
-Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
+AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
 
-CNBC • 22h ago
-
----
-
-**[Callaway unveils new Odyssey line of Ai-Dual Square 2 Square putters](https://www.golfwrx.com/772062/callaway-unveils-new-odyssey-line-of-ai-dual-square-2-square-putters/)**
-
-GolfWRX • 19m ago
+NVIDIA Blog • 3h ago
 
 ---
 
-**[House passes AI education bill for small businesses in landslide 395-14 vote](https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote)**
+**[Nvidia CEO Says AI Will Create Jobs For Electricians and Plumbers](https://www.bloomberg.com/news/articles/2026-01-21/nvidia-ceo-says-ai-will-create-jobs-for-electricians-and-plumbers)**
 
-House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
+Bloomberg • 3h ago
 
-Fox News • 13h ago
+---
+
+**[Nvidia CEO Says the AI Boom Will Lead to More Jobs for Plumbers](https://gizmodo.com/nvidia-ceo-says-the-ai-boom-will-lead-to-more-jobs-for-plumbers-2000712516)**
+
+Worried about your job? Well, 'largest infrastructure buildout in human history' will require more plumbers, Huang says.
+
+Gizmodo • 6m ago
+
+---
+
+**[3 coaches in leadership, business, and comms have found AI indispensable for their growth](https://www.businessinsider.com/3-coaching-solopreneurs-how-ai-help-their-businesses-grow-2026-1)**
+
+AI tools like ChatGPT, Gemini, and Claude help solopreneur coaches Kim Surko, Katharine Campbell Hirst, and Liz Morrison boost client outcomes and streamline coaching workflows.
+
+Business Insider • 22m ago
+
+---
+
+**[Co-founder of $12B AI startup fired after boss learns about office romance: report](https://nypost.com/2026/01/21/business/co-founder-of-12b-ai-startup-fired-after-boss-learns-about-office-romance-report/)**
+
+Barret Zoph, the co-founder and chief technology officer of Thinking Machines Lab, was dismissed last Wednesday.
+
+New York Post • 15m ago
+
+---
+
+**[Amazon launches AI health-care tool for One Medical members](https://www.cnbc.com/2026/01/21/amazon-ai-health-care-one-medical-members.html)**
+
+The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.
+
+CNBC • 1h ago
+
+---
+
+**[Gates and OpenAI team up for AI health push in African countries](https://www.reuters.com/business/healthcare-pharmaceuticals/gates-openai-team-up-ai-health-push-african-countries-2026-01-21/)**
+
+Reuters • 1h ago
+
+---
+
+**[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -157,40 +193,6 @@ BBC • 1d ago
 
 ---
 
-**[AI at Davos 2026: What tech leaders hope and fear this year](https://www.euronews.com/next/2026/01/20/ai-at-davos-2026-from-work-to-useful-and-safe-ai-heres-what-the-tech-leaders-have-said)**
-
-The CEO of Nvidia, Microsoft, Anthropic and Google DeepMind, as well as philosopher Yuval Harari, have set out their visions and fears for AI at Davos.
-
-Euronews.com • 1d ago
-
----
-
-**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
-
-With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
-
-CNN • 3d ago
-
----
-
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Colleges Are Letting AI Bots Help Make Decisions on Who to Admit](https://www.bloomberg.com/news/articles/2026-01-21/ai-bots-evaluate-college-applications-in-new-era-for-admissions)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqehq__NoaH-eeDYShETjaPtBxG6ZiJ_In1c9PZ7yP1K4G7oPUeur7I2&gaa_ts=6970f56a&gaa_sig=vA9IUpB9KFPcbG_hXTtTC-Y99OdsyIEk8TCUpgK1uFimQcURK8fi8Nu7qXsUN0M81uqvV2XbO6hmJ_mDs7mLfQ%3D%3D)**
-
-The Wall Street Journal • 21h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +201,7 @@ The Wall Street Journal • 21h ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 307 • 💬 429 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 307 • 💬 430 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
 
 ---
 
@@ -207,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 243 • 💬 147 • 1h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 270 • 💬 195 • 3h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -221,13 +223,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 179 • 💬 122 • 8h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
-
----
-
-**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
-
-⬆️ 166 • 💬 183 • 2d ago
+⬆️ 187 • 💬 125 • 10h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -235,7 +231,13 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 166 • 💬 72 • 17h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 178 • 💬 74 • 18h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+
+---
+
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+
+⬆️ 167 • 💬 183 • 2d ago
 
 ---
 
@@ -251,7 +253,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 118 • 💬 153 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 118 • 💬 154 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -265,7 +267,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 100 • 💬 59 • 21h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 104 • 💬 62 • 22h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -279,27 +281,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 84K • 👍 3K • 💬 724 • ⏱️ 1:39:31 • 21h ago
-
----
-
-**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
-
-OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
-
-📺 Matthew Berman
-
-👁️ 73K • 👍 3K • 💬 582 • ⏱️ 18:33 • 1d ago
-
----
-
-**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
-
-In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
-
-📺 The Infographics Show
-
-👁️ 55K • 👍 2K • 💬 372 • ⏱️ 10:58 • 1d ago
+👁️ 91K • 👍 3K • 💬 766 • ⏱️ 1:39:31 • 23h ago
 
 ---
 
@@ -309,7 +291,37 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 18K • 👍 506 • 💬 212 • ⏱️ 12:14 • 23h ago
+👁️ 21K • 👍 551 • 💬 228 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[The 7 FREE AI Courses You Need to Master AI in 2026](https://www.youtube.com/watch?v=InowktzMfK0)**
+
+1. https://youtu.be/-9bo8HlSxwQ?si=xmAhyB6jOqhnw9eU 2.
+
+📺 Ishan Sharma
+
+👁️ 3K • 👍 589 • 💬 26 • ⏱️ 9:17 • 3h ago
+
+---
+
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
+
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
+
+📺 Matthew Berman
+
+👁️ 74K • 👍 3K • 💬 587 • ⏱️ 18:33 • 1d ago
+
+---
+
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
+
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
+
+📺 The Infographics Show
+
+👁️ 56K • 👍 2K • 💬 380 • ⏱️ 10:58 • 1d ago
 
 ---
 
@@ -319,27 +331,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 25K • 👍 969 • 💬 245 • ⏱️ 9:12 • 2d ago
-
----
-
-**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
-
-The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
-
-📺 KolaDepth
-
-👁️ 10K • 👍 259 • 💬 71 • ⏱️ 24:36 • 2d ago
-
----
-
-**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
-
-Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
-
-📺 Bloomberg Live
-
-👁️ 49K • 👍 1K • 💬 182 • ⏱️ 26:04 • 22h ago
+👁️ 26K • 👍 976 • 💬 247 • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -349,27 +341,35 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 2.3M • 👍 81K • 💬 7K • ⏱️ 15:50 • 2d ago
+👁️ 2.3M • 👍 82K • 💬 7K • ⏱️ 15:50 • 2d ago
 
 ---
 
-**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
+**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
 
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
+The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
 
-📺 Julia McCoy
+📺 KolaDepth
 
-👁️ 19K • 👍 921 • 💬 65 • ⏱️ 7:01 • 3d ago
+👁️ 10K • 👍 260 • 💬 73 • ⏱️ 24:36 • 2d ago
 
 ---
 
-**[Ben Affleck EXPOSES AI Companies&#39; Financial Lies](https://www.youtube.com/watch?v=Kk_cQCYmy8k)**
+**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
 
-Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up for a PREMIUM Breaking Points subscriptions ...
+Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
 
-📺 Breaking Points
+📺 Bloomberg Live
 
-👁️ 195K • 👍 6K • 💬 1K • ⏱️ 14:38 • 20h ago
+👁️ 57K • 👍 1K • 💬 203 • ⏱️ 26:04 • 23h ago
+
+---
+
+**[I bought 2 MORE AI scam products. Here’s what they sent. 😡](https://www.youtube.com/watch?v=B2WgbBB3604)**
+
+📺 Maggie McGaugh
+
+👁️ 309K • 👍 11K • 💬 134 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 835 • 1d ago
+⬇️ 69,491 • ❤️ 867 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 910 • 6d ago
+⬇️ 9,872 • ❤️ 916 • 6d ago
 
 ---
 
@@ -409,7 +409,17 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 424 • 6d ago
+⬇️ 43,156 • ❤️ 437 • 6d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 36,465 • ❤️ 363 • 2d ago
 
 ---
 
@@ -421,17 +431,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,229 • 2d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 36,465 • ❤️ 344 • 2d ago
+⬇️ 1,855,174 • ❤️ 1,234 • 2d ago
 
 ---
 
@@ -443,19 +443,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 262 • 5d ago
-
----
-
-**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
-
-*Google*
-
-MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
-
-`image-text-to-text` `4.3B`
-
-⬇️ 61,107 • ❤️ 304 • 6d ago
+⬇️ 33,057 • ❤️ 267 • 5d ago
 
 ---
 
@@ -467,7 +455,19 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 24,712 • ❤️ 230 • 5d ago
+⬇️ 24,712 • ❤️ 235 • 5d ago
+
+---
+
+**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
+
+*Google*
+
+MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
+
+`image-text-to-text` `4.3B`
+
+⬇️ 61,107 • ❤️ 306 • 6d ago
 
 ---
 
@@ -479,7 +479,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 20,655 • ❤️ 225 • 6d ago
+⬇️ 20,655 • ❤️ 228 • 6d ago
 
 ---
 
@@ -491,7 +491,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 61,105 • ❤️ 803 • 13d ago
+⬇️ 61,105 • ❤️ 806 • 13d ago
 
 ---
 
@@ -543,7 +543,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 13 • 💬 3 • ⭐ 446 • 5d ago
+▲ 14 • 💬 3 • ⭐ 446 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -557,23 +557,9 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 33 • 💬 1 • ⭐ 3,096 • 9d ago
+▲ 34 • 💬 1 • ⭐ 3,096 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
-
----
-
-**[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://huggingface.co/papers/2512.02498)**
-
-*Yumeng Li, Guang Yang, Hao Liu et al. (5 authors)*
-
-🏢 rednote-hilab
-
-A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
-
-▲ 1 • 💬 1 • ⭐ 6,995 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
 ---
 
@@ -595,9 +581,23 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 32 • 💬 3 • ⭐ 1,693 • 15d ago
+▲ 32 • 💬 3 • ⭐ 1,693 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+
+---
+
+**[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://huggingface.co/papers/2512.02498)**
+
+*Yumeng Li, Guang Yang, Hao Liu et al. (5 authors)*
+
+🏢 rednote-hilab
+
+A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance on document layout parsing by jointly learning layout detection, text recognition, and relational understanding, validated on OmniDocBench and XDocParse benchmarks.
+
+▲ 1 • 💬 1 • ⭐ 7,005 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
 
 ---
 
@@ -633,7 +633,7 @@ https://continuous-audio-language-models.github.io
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 184 • 💬 5 • ⭐ 5,545 • 2mo ago
+▲ 185 • 💬 5 • ⭐ 5,575 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -649,7 +649,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 2h ago
+⭐ 9.5k • 🔱 1.2k • 36s ago
 
 ---
 
@@ -659,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 478 • 23h ago
+⭐ 9.2k • 🔱 484 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 386 • 17h ago
+⭐ 7.9k • 🔱 389 • 18h ago
 
 ---
 
@@ -679,7 +679,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.1k • 🔱 771 • 21h ago
+⭐ 6.2k • 🔱 777 • 22h ago
 
 ---
 
@@ -689,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 891 • 6h ago
+⭐ 5.3k • 🔱 894 • 8h ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.3k • 1d ago
+⭐ 4.3k • 🔱 4.4k • 2h ago
 
 ---
 
@@ -713,23 +713,23 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 ---
 
-**[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)**
-
-OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
-
-`TypeScript`
-
-⭐ 2.2k • 🔱 310 • 11h ago
-
----
-
 **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 `claude` `codex` `marketing`
 
-⭐ 1.9k • 🔱 225 • 4d ago
+⭐ 2.2k • 🔱 251 • 4d ago
+
+---
+
+**[DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)**
+
+OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
+
+`TypeScript`
+
+⭐ 2.2k • 🔱 311 • 13h ago
 
 ---
 
@@ -739,7 +739,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 22h ago
+⭐ 1.9k • 🔱 153 • 1d ago
 
 ---
 
