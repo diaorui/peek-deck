@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T11:25:40.492519+00:00'
+updated: '2026-01-21T11:46:10.302427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 11:25 UTC  
+**Last Updated:** January 21, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1784.76B
+**Market Cap:** $1781.55B
 Rank #1
 
 **Circulating Supply:** 19,978,737 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.3%
 
 **All-Time Low:** $67.81
-+131634.3%
++131414.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 10h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Took me some time. I feel so proud.
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-6h ago
+7h ago
 
 ---
 
@@ -157,7 +157,7 @@ For the first time I made a calculated investment late last year. Looking at the
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -193,13 +193,13 @@ The Motley Fool • 1h ago
 
 MSTY delivers high option income but tracks MSTR/Bitcoin swings. Pair with WNTR (short MSTR) to hedge downside and keep yield. Read the full analysis here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
 **[Bitcoin, ether ETFs report combined $713 million in outflows amid market turmoil](https://www.theblock.co/post/386465/bitcoin-ether-etf-713-million-outflows)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 2h ago
 
 Greenland and Venezuela concerns may sway Bitcoin’s price.  But the main driver of its surging value is dollar debasement.  Wolfgang Münchau makes that case in his latest column.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 969 • 💬 241 • ⏱️ 9:10 • 9h ago
+👁️ 16K • 👍 1K • 💬 273 • ⏱️ 9:10 • 10h ago
 
 ---
 
@@ -325,17 +325,17 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 309 • 💬 124 • ⏱️ 1:16 • 14h ago
+👁️ 13K • 👍 319 • 💬 126 • ⏱️ 1:16 • 15h ago
 
 ---
 
-**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
 
-📺 Satoshi Stacker
+📺 Altcoin Daily
 
-👁️ 2K • 👍 222 • 💬 24 • ⏱️ 19:22 • 3h ago
+👁️ 52K • 👍 3K • 💬 268 • ⏱️ 9:30 • 14h ago
 
 ---
 
@@ -345,7 +345,17 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 12K • 👍 815 • 💬 176 • ⏱️ 8:21 • 15h ago
+👁️ 12K • 👍 834 • 💬 178 • ⏱️ 8:21 • 16h ago
+
+---
+
+**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 5K • 👍 452 • 💬 42 • ⏱️ 19:22 • 3h ago
 
 ---
 
@@ -359,43 +369,33 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 ---
 
-**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
-
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 260 • ⏱️ 9:30 • 13h ago
-
----
-
 **[Is Davos 2026 the Moment Bitcoin Becomes the Global Reserve Currency?](https://www.youtube.com/watch?v=291AJulZyK8)**
 
 The elites flew private to Davos to plan your future without you. Markets are cracking, trust is collapsing, and Bitcoin is rising from ...
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 186 • ⏱️ 22:10 • 11h ago
+👁️ 24K • 👍 2K • 💬 172 • ⏱️ 22:10 • 11h ago
 
 ---
 
-**[Bitcoin In Trouble! Fed Buying Again. Will It Help Crypto?](https://www.youtube.com/watch?v=eKZd1DpNbA0)**
+**[Bitcoin Holders... Listen Up](https://www.youtube.com/watch?v=fSGj_s22Icc)**
 
-Is Bitcoin in trouble or is a massive explosion next? With Gold hitting $4700 and Japan's bond market screaming, a global shift ...
+https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
 
-📺 Kyle Chasse crypto
+📺 Aaron Bennett
 
-👁️ 5K • 👍 370 • 💬 43 • ⏱️ 12:03 • 13h ago
+👁️ 1K • 👍 146 • 💬 32 • ⏱️ 12:17 • 2h ago
 
 ---
 
-**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
+**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
 
-BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
 
-📺 Crypto World
+📺 Crypto Insider
 
-👁️ 10K • 👍 375 • 💬 179 • ⏱️ 21:23 • 15h ago
+👁️ 30K • 👍 2K • 💬 79 • ⏱️ 21:45 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Sa
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 494 • 💬 23 • ⏱️ 1:32 • 22h ago
+👁️ 14K • 👍 509 • 💬 25 • ⏱️ 1:32 • 22h ago
 
 ---
 

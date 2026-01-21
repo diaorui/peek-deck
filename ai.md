@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T11:25:40.484020+00:00'
+updated: '2026-01-21T11:46:10.293931+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 11:25 UTC  
+**Last Updated:** January 21, 2026 at 11:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-7h ago
+8h ago
 
 ---
 
@@ -159,13 +159,13 @@ Bloomberg • 1h ago
 
 **[AI works best with humans in the lead, Accenture CEO says](https://www.axios.com/2026/01/21/accenture-artificial-intelligence-davos-julie-sweet)**
 
-Axios • 34m ago
+Axios • 54m ago
 
 ---
 
 **[How This AI-Infused Warehouse Sorts Real Louis Vuitton Bags From Fakes](https://www.wsj.com/articles/how-this-ai-infused-warehouse-sorts-real-louis-vuitton-bags-from-fakes-61c92eb5?gaa_at=eafs&gaa_n=AWEtsqdrJGVy9MUAosYP6zDUBubg1F5w9eRrBLJ13jVfF9pezMcIgaZTneg1&gaa_ts=6970bb16&gaa_sig=ijfArGHp4JQVJRfmT1xT7mcrfaWHU7nymvBPEtfb9B8_uc5yWmXrJTOQcJsxrznjPmKAifDSzCuBk2aeuW6R3A%3D%3D)**
 
-The Wall Street Journal • 25m ago
+The Wall Street Journal • 46m ago
 
 ---
 
@@ -173,7 +173,7 @@ The Wall Street Journal • 25m ago
 
 House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
 
-Fox News • 9h ago
+Fox News • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 23h ago
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 58m ago
+Reuters • 1h ago
 
 ---
 
@@ -277,7 +277,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 23K • 👍 946 • 💬 240 • ⏱️ 9:12 • 1d ago
+👁️ 24K • 👍 962 • 💬 243 • ⏱️ 9:12 • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 17h ago
+👁️ 80K • 👍 3K • 💬 686 • ⏱️ 1:39:31 • 18h ago
 
 ---
 
@@ -297,7 +297,7 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 72K • 👍 3K • 💬 574 • ⏱️ 18:33 • 1d ago
+👁️ 72K • 👍 3K • 💬 577 • ⏱️ 18:33 • 1d ago
 
 ---
 
@@ -311,23 +311,13 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 ---
 
-**[The “Boring” AI Business NOBODY Is Talking About](https://www.youtube.com/watch?v=jJ5a3MiLI_w)**
-
-How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! ▻ Get My FREE AI Print On Demand Book: ...
-
-📺 Wholesale Ted
-
-👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 17h ago
-
----
-
 **[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
 
 The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
 
 📺 KolaDepth
 
-👁️ 9K • 👍 255 • 💬 70 • ⏱️ 24:36 • 2d ago
+👁️ 10K • 👍 257 • 💬 71 • ⏱️ 24:36 • 2d ago
 
 ---
 
@@ -337,7 +327,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 19h ago
+👁️ 16K • 👍 473 • 💬 184 • ⏱️ 12:14 • 19h ago
 
 ---
 
@@ -347,25 +337,37 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 2.2M • 👍 81K • 💬 7K • ⏱️ 15:50 • 2d ago
+👁️ 2.3M • 👍 81K • 💬 7K • ⏱️ 15:50 • 2d ago
 
 ---
 
-**[5 Genius Ways to Make Money From Home in 2026 (Using AI)](https://www.youtube.com/watch?v=pLs6ZKEDixQ)**
+**[Ben Affleck EXPOSES AI Companies&#39; Financial Lies](https://www.youtube.com/watch?v=Kk_cQCYmy8k)**
 
-My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community for AI entrepreneurs and connect with ...
+Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up for a PREMIUM Breaking Points subscriptions ...
 
-📺 Liam Ottley
+📺 Breaking Points
 
-👁️ 37K • 👍 1K • 💬 173 • ⏱️ 12:49 • 2d ago
+👁️ 187K • 👍 6K • 💬 1K • ⏱️ 14:38 • 16h ago
 
 ---
 
-**[I bought 2 MORE AI scam products. Here’s what they sent. 😡](https://www.youtube.com/watch?v=B2WgbBB3604)**
+**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
 
-📺 Maggie McGaugh
+Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
 
-👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 18h ago
+📺 Bloomberg Live
+
+👁️ 44K • 👍 1K • 💬 167 • ⏱️ 26:04 • 18h ago
+
+---
+
+**[AI Just Solved Software’s Biggest Bottleneck (And Nobody’s Talking About It)](https://www.youtube.com/watch?v=Gc8g3ML26Yo)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes code faster than humans. …But there's one thing ...
+
+📺 Julia McCoy
+
+👁️ 19K • 👍 920 • 💬 65 • ⏱️ 7:01 • 2d ago
 
 ---
 
@@ -381,7 +383,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 804 • 21h ago
+⬇️ 69,491 • ❤️ 818 • 22h ago
 
 ---
 
@@ -393,7 +395,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 904 • 6d ago
+⬇️ 9,872 • ❤️ 907 • 6d ago
 
 ---
 
@@ -405,7 +407,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 409 • 5d ago
+⬇️ 43,156 • ❤️ 411 • 5d ago
 
 ---
 
@@ -427,43 +429,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 36,465 • ❤️ 340 • 1d ago
-
----
-
-**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
-
-*OpenBMB*
-
-AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
-
-`text-generation` `4.0B`
-
-⬇️ 2,463 • ❤️ 378 • 2d ago
-
----
-
-**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
-
-*Google*
-
-MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
-
-`image-text-to-text` `4.3B`
-
-⬇️ 61,107 • ❤️ 300 • 6d ago
-
----
-
-**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
-
-*fal*
-
-This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
-
-`image-to-image`
-
-⬇️ 61,105 • ❤️ 802 • 13d ago
+⬇️ 36,465 • ❤️ 342 • 1d ago
 
 ---
 
@@ -475,7 +441,19 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 256 • 5d ago
+⬇️ 33,057 • ❤️ 259 • 5d ago
+
+---
+
+**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
+
+*Google*
+
+MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
+
+`image-text-to-text` `4.3B`
+
+⬇️ 61,107 • ❤️ 301 • 6d ago
 
 ---
 
@@ -487,25 +465,37 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 24,712 • ❤️ 225 • 5d ago
+⬇️ 24,712 • ❤️ 227 • 5d ago
+
+---
+
+**[translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it)**
+
+*Google*
+
+TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 languages, capable of translating text and extracting/translating text from images. It's designed for efficient deployment on resource-constrained environments, enabling state-of-the-art translation for diverse applications.
+
+`image-text-to-text` `28.8B`
+
+⬇️ 20,655 • ❤️ 223 • 5d ago
+
+---
+
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+
+*fal*
+
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+
+`image-to-image`
+
+⬇️ 61,105 • ❤️ 803 • 13d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[PaddleOCR 3.0 Technical Report](https://huggingface.co/papers/2507.05595)**
-
-*Cheng Cui, Ting Sun, Manhui Lin et al. (19 authors)*
-
-PaddleOCR 3.0 offers efficient OCR and document parsing solutions with models having fewer than 100 million parameters, achieving accuracy and efficiency comparable to larger vision-language models.
-
-▲ 22 • 💬 1 • ⭐ 57,705 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2507.05595)
-
----
 
 **[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
 
@@ -541,7 +531,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 31 • 💬 1 • ⭐ 3,053 • 9d ago
+▲ 32 • 💬 1 • ⭐ 3,053 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -556,18 +546,6 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 ▲ 157 • 💬 3 • ⭐ 4,216 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 0 • 💬 0 • ⭐ 1,870 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -594,6 +572,18 @@ A unified Vision-Language Model, dots.ocr, achieves state-of-the-art performance
 ▲ 1 • 💬 1 • ⭐ 6,995 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02498) • [💻 code](https://github.com/rednote-hilab/dots.ocr)
+
+---
+
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 0 • 💬 0 • ⭐ 1,875 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -629,9 +619,21 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,036 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,076 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
+
+---
+
+**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
+
+*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
+
+We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
+
+▲ 184 • 💬 5 • ⭐ 5,545 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
 ---
 
@@ -645,7 +647,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 6h ago
+⭐ 9.5k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -655,7 +657,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 472 • 19h ago
+⭐ 9.1k • 🔱 477 • 19h ago
 
 ---
 
@@ -665,7 +667,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 383 • 12h ago
+⭐ 7.9k • 🔱 385 • 13h ago
 
 ---
 
@@ -675,7 +677,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 756 • 17h ago
+⭐ 6.1k • 🔱 764 • 17h ago
 
 ---
 
@@ -685,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 886 • 2h ago
+⭐ 5.3k • 🔱 889 • 3h ago
 
 ---
 
@@ -725,7 +727,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 18h ago
+⭐ 1.9k • 🔱 153 • 19h ago
 
 ---
 

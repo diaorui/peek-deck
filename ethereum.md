@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T11:25:40.503258+00:00'
+updated: '2026-01-21T11:46:10.308600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 11:25 UTC  
+**Last Updated:** January 21, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.28B
+**Market Cap:** $357.52B
 Rank #2
 
 **Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.1%
 
 **All-Time Low:** $0.43
-+685462.1%
++683940.1%
 
 ---
 
@@ -102,7 +102,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-40m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 15h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1h ago
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 58m ago
+The Block • 1h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 10 • ⏱️ 7:43 • 11h ago
+👁️ 2K • 👍 124 • 💬 11 • ⏱️ 7:43 • 12h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 375 • 💬 179 • ⏱️ 21:23 • 15h ago
+👁️ 11K • 👍 384 • 💬 183 • ⏱️ 21:23 • 16h ago
 
 ---
 
@@ -258,43 +258,13 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 21h ago
-
----
-
 **[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
 
 Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 1K • 💬 271 • ⏱️ 16:10 • 22h ago
-
----
-
-**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 761 • 👍 14 • 💬 7 • ⏱️ 4:56 • 1d ago
-
----
-
-**[Time Is Running Out For Ethereum! 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=aYL-Fui2wBE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 8K • 👍 296 • 💬 25 • ⏱️ 9:21 • 3d ago
+👁️ 20K • 👍 1K • 💬 282 • ⏱️ 16:10 • 22h ago
 
 ---
 
@@ -308,13 +278,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 22h ago
+
+---
+
 **[ETHEREUM ESTÁ MORRENDO? AINDA VALE A PENA?](https://www.youtube.com/watch?v=z1NhD3pMPr8)**
 
 Muitos estão dizendo que o Ethereum está morrendo, mas será que essa narrativa faz sentido quando olhamos os dados reais?
 
 📺 Orlando on Crypto
 
-👁️ 4K • 👍 584 • 💬 148 • ⏱️ 18:49 • 12h ago
+👁️ 4K • 👍 682 • 💬 148 • ⏱️ 18:49 • 12h ago
 
 ---
 
@@ -324,7 +304,27 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 309 • 💬 124 • ⏱️ 1:16 • 14h ago
+👁️ 13K • 👍 319 • 💬 126 • ⏱️ 1:16 • 15h ago
+
+---
+
+**[⚰️ BREAKING 🪦 Crypto COLLAPSE ☠️ Bitcoin &amp; Ethereum Destroyed. Game Over?](https://www.youtube.com/watch?v=JngZcXnayas)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 255 • 💬 32 • ⏱️ 13:29 • 12h ago
+
+---
+
+**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
+
+In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
+
+📺 Charts & Cars by Philip Klinkmüller
+
+👁️ 13K • 👍 2K • 💬 65 • ⏱️ 30:52 • 18h ago
 
 ---
 

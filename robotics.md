@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T11:25:40.509011+00:00'
+updated: '2026-01-21T11:46:10.311840+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 11:25 UTC  
+**Last Updated:** January 21, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-3h ago
+4h ago
 
 ---
 
 **[RIVR and Just Eat for takeaway deliveries by robots](https://www.reddit.com/r/robotics/comments/1qiuo2c/rivr_and_just_eat_for_takeaway_deliveries_by/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ ODM Humanoid demo show.
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-25m ago
+46m ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 12h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 13h ago
 
 ---
 
@@ -116,7 +116,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -192,13 +192,13 @@ The New York Times • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[ChatGPT in a robot does what Godfather of AI warned](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+**[The $50 billion coverup of AI disaster that &quot;signals extinction&quot;](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 398K • 👍 17K • 💬 4K • ⏱️ 19:17 • 5d ago
+👁️ 399K • 👍 17K • 💬 4K • ⏱️ 19:17 • 5d ago
 
 ---
 
@@ -208,7 +208,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 23K • 👍 286 • 💬 4 • ⏱️ 0:23 • 4d ago
+👁️ 23K • 👍 288 • 💬 4 • ⏱️ 0:23 • 4d ago
 
 ---
 
@@ -218,7 +218,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 UBTECH Robotics
 
-👁️ 4K • 👍 88 • 💬 14 • ⏱️ 1:56 • 23h ago
+👁️ 5K • 👍 94 • 💬 15 • ⏱️ 1:56 • 1d ago
 
 ---
 
@@ -232,41 +232,23 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
-**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=aHnLVdWZpX4)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 StrEat
+📺 KhanFlicks
 
-👁️ 121K • 👍 257 • 1d ago
-
----
-
-**[This robot makes it feel like she’s here at home 😭💕#siblings #longdistance #ldr #robot](https://www.youtube.com/watch?v=AtITPar5seU)**
-
-📺 Romi Pal
-
-👁️ 3.8M • 👍 33K • 💬 255 • ⏱️ 0:27 • 4d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 5d ago
 
 ---
 
-**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+**[THESE ROBOTS ARE TITANS! NEW CONTENT IS HERE! LUNAR NEW YEAR 2026 REVIEW! (War Robots)](https://www.youtube.com/watch?v=49dVTA9B75E)**
 
-Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolfblood7.
 
-📺 CBC News: The National
+📺 Wolfblood7
 
-👁️ 14K • 👍 132 • ⏱️ 7:30 • 1d ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 9K • 👍 80 • 💬 19 • ⏱️ 3:19 • 4d ago
+👁️ 5K • 👍 286 • 💬 82 • ⏱️ 16:03 • 16h ago
 
 ---
 
@@ -276,17 +258,37 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 15K • 👍 630 • 💬 139 • ⏱️ 16:49 • 17h ago
+👁️ 17K • 👍 656 • 💬 144 • ⏱️ 16:49 • 17h ago
 
 ---
 
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=aHnLVdWZpX4)**
 
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
 
-📺 KhanFlicks
+📺 StrEat
 
-👁️ 66K • 💬 36 • ⏱️ 12:09 • 3d ago
+👁️ 130K • 👍 276 • 1d ago
+
+---
+
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 139K • 👍 6K • 💬 390 • ⏱️ 17:36 • 6d ago
+
+---
+
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+
+📺 CBC News: The National
+
+👁️ 14K • 👍 134 • ⏱️ 7:30 • 1d ago
 
 ---
 
