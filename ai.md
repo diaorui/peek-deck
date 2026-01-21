@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T22:26:45.167089+00:00'
+updated: '2026-01-21T22:54:51.015554+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 22:26 UTC  
+**Last Updated:** January 21, 2026 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 4h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ ElevenLabs, an AI voice-cloning company, is trying to court artists by offering 
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-18h ago
+19h ago
 
 ---
 
@@ -81,15 +81,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-2h ago
-
----
-
-**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
-
-https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
-
-6h ago
+3h ago
 
 ---
 
@@ -101,19 +93,27 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 ---
 
-**[Built Function AI Agents for Salesforce - LLM orchestrates multi-step workflows with HITL approvals, error recovery, and intelligent filtering](https://www.reddit.com/r/artificial/comments/1qj7aqd/built_function_ai_agents_for_salesforce_llm/)**
+**['I've never seen her in a movie. I don't know who this b***h is' — Jurassic World and Marvel star Chris Pratt says panic over AI 'actor' Tilly Norwood is 'bulls**t'](https://www.reddit.com/r/artificial/comments/1qjcw2t/ive_never_seen_her_in_a_movie_i_dont_know_who/)**
 
-I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
+Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisting the panic within Hollywood about the potential impact of AI “actors” is “bulls**t.”
 
-3h ago
+🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 9m ago
 
 ---
 
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/)**
+**[AMD ROCm 7.2 now released with more Radeon graphics cards supported, ROCm Optiq introduced](https://www.reddit.com/r/artificial/comments/1qjcefb/amd_rocm_72_now_released_with_more_radeon/)**
 
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+Back at CES earlier this month AMD talked up features of the ROCm 7.2 release
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2-Released) • 28m ago
+
+---
+
+**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
+
+https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
+
+6h ago
 
 ---
 
@@ -121,31 +121,9 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 ## Google News: "ai"
 
-**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
+**[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
 
-The Information • 2h ago
-
----
-
-**[Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI](https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Inside Enchanté, Apple’s AI chatbot for employee productivity](https://www.macworld.com/article/3038122/inside-enchante-apples-ai-chatbot-for-employee-productivity.html)**
-
-Exclusive: Macworld got a look at the internal AI tools Apple is using to bolster its workforce.
-
-Macworld • 4h ago
-
----
-
-**["Largest Infrastructure Buildout in Human History": Jensen Huang on AI’s “Five-Layer Cake” at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/)**
-
-AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
-
-NVIDIA Blog • 9h ago
+The New York Times • 2h ago
 
 ---
 
@@ -157,39 +135,65 @@ CNBC • 1h ago
 
 ---
 
+**[Nvidia CEO Jensen Huang: 'Trillions of dollars of AI infrastructure needs to be built'](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-trillions-of-dollars-of-ai-infrastructure-needs-to-be-built-144212721.html)**
+
+Nvidia CEO Jensen Huang told an audience at the gathering of the World Economic Forum that the world needs to build trillions of dollars of AI infrastructure to meet demand.
+
+Yahoo Finance • 8h ago
+
+---
+
 **[Rollout of AI may need to be slowed to ‘save society’, says JP Morgan boss](https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang)**
 
 Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[US House panel advances bill to give Congress authority over AI chip exports](https://www.reuters.com/legal/litigation/us-house-panel-vote-bill-give-congress-authority-over-ai-chip-exports-2026-01-21/)**
+**[Why Corporate Boards Matter in the AI Era](https://time.com/7355834/corporate-boards-matter-ai-era/)**
 
-Reuters • 2h ago
+"The decisions made in corporate boardrooms not only shape a company’s trajectory, but can also create ripple effects."
 
----
-
-**[House Seeks More Say in AI Chip Exports After Nvidia’s China Win](https://www.bloomberg.com/news/articles/2026-01-21/house-seeks-more-say-in-ai-chip-exports-after-nvidia-s-china-win)**
-
-Bloomberg.com • 1h ago
+Time Magazine • 39m ago
 
 ---
 
-**[US House panel advances bill to give Congress authority on AI chip exports](https://www.aljazeera.com/economy/2026/1/21/us-house-panel-advances-bill-to-give-congress-authority-on-ai-chip-exports)**
+**[Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/)**
 
-The bill gives Congress more licence to block AI exports to China and other US political adversaries.
+The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.
 
-Al Jazeera • 52m ago
+TechCrunch • 35m ago
 
 ---
 
-**[3 of My Top 4 AI Stock Picks for 2025 Rose At Least 38%. Are They Still Best Buys for 2026?](https://www.fool.com/investing/2026/01/21/3-of-my-top-4-ai-stocks-for-2025-rose-at-least-39/)**
+**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-AI is still the prevailing theme in the stock market.
+The Information • 2h ago
 
-The Motley Fool • 40m ago
+---
+
+**[Apple Is Reportedly Making Its Own Wearable AI Pin](https://gizmodo.com/apple-is-reportedly-making-its-own-wearable-ai-pin-2000712726)**
+
+The iPhone maker might be preparing to battle OpenAI's own family of AI gadgets.
+
+Gizmodo • 24m ago
+
+---
+
+**[Apple is reportedly developing a wearable AI pin](https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html)**
+
+The wearable is said to have two cameras, a microphone and a speaker.
+
+Engadget • 2h ago
+
+---
+
+**[Deutsche Bank says the 'honeymoon is over' for AI](https://www.cnbc.com/2026/01/20/deutsche-bank-says-the-honeymoon-is-over-for-ai.html)**
+
+Artificial intelligence will undergo periods of disillusionment, dislocation and increasing distrust in 2026, the firm said.
+
+CNBC • 1d ago
 
 ---
 
@@ -209,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 285 • 💬 230 • 8h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 285 • 💬 235 • 9h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -223,7 +227,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 198 • 💬 132 • 15h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 199 • 💬 134 • 16h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -231,7 +235,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 185 • 💬 76 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 186 • 💬 76 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -261,7 +265,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 113 • 💬 135 • 8h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 113 • 💬 137 • 8h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -291,7 +295,7 @@ If we don't have some good, positive stories here… there is going to be a repe
 
 📺 The Tech Report
 
-👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 4h ago
+👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 5h ago
 
 ---
 
@@ -351,7 +355,7 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 9h ago
+👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 10h ago
 
 ---
 
@@ -371,7 +375,7 @@ Should we just... let go of the hope that the AI bubble will eventually burst? -
 
 📺 Ishan Sharma
 
-👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 8h ago
+👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 9h ago
 
 ---
 
@@ -649,7 +653,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 5h ago
+⭐ 9.5k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -689,7 +693,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 896 • 13h ago
+⭐ 5.3k • 🔱 896 • 14h ago
 
 ---
 
@@ -699,7 +703,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 7h ago
+⭐ 4.3k • 🔱 4.4k • 8h ago
 
 ---
 
@@ -729,7 +733,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 312 • 18h ago
+⭐ 2.2k • 🔱 312 • 19h ago
 
 ---
 

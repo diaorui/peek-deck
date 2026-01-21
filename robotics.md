@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T22:26:45.184696+00:00'
+updated: '2026-01-21T22:54:51.033235+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 22:26 UTC  
+**Last Updated:** January 21, 2026 at 22:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-14h ago
+15h ago
 
 ---
 
@@ -76,11 +76,19 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 ---
 
+**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
+
+Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
+
+8h ago
+
+---
+
 **[How to best leverage an internship at FANUC for long‑term growth in robotics / automation?](https://www.reddit.com/r/robotics/comments/1qj18dp/how_to_best_leverage_an_internship_at_fanuc_for/)**
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-6h ago
+7h ago
 
 ---
 
@@ -92,19 +100,9 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
-**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
+**[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
 
-Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
-
-7h ago
-
----
-
-**[Getting started with ROS-I](https://www.reddit.com/r/robotics/comments/1qj3p02/getting_started_with_rosi/)**
-
-Hey folks, I am looking to dip my toes into the ROS ecosystem for some more complex problems that need solving. Generally, we would be pulling in 2d/3d sensor data, running vision, and controlling an industrial robot or three. The pitch behind ROS-I seems pretty compelling in the sense that the framework is designed for these types of tasks (rather than say, a wheeled rover) and has support from some OEMs and other commercial entities in the space. I am very new to ROS and Linux in general, having just recently installed ubuntu on WSL for ROS2 and getting nvidia CUDA running. Can anyone point me in the direction of a good tutorial that would cover getting ROS-I installed? I have found a few good ones for doing a first project, but they are generally assuming everything is ready to go and/or the user has some good familiarity with ROS already. Any tips or advice is appreciated. Thanks!
-
-5h ago
+11h ago
 
 ---
 
@@ -112,17 +110,23 @@ Hey folks, I am looking to dip my toes into the ROS ecosystem for some more comp
 
 ## Google News: "robotics"
 
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 1d ago
+
+---
+
 **[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
 The Business Journals • 23h ago
 
 ---
 
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+**[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
 
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 1d ago
+EE Times • 3h ago
 
 ---
 
@@ -134,12 +138,6 @@ CNBC • 9h ago
 
 ---
 
-**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
-
-Reuters • 1d ago
-
----
-
 **[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
@@ -148,11 +146,9 @@ Fortune • 2d ago
 
 ---
 
-**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
+**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
-
-Inc42 • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -161,6 +157,14 @@ Inc42 • 1d ago
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
+
+Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
+
+Inc42 • 1d ago
 
 ---
 
@@ -180,14 +184,6 @@ wjon.com • 1d ago
 
 ---
 
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +194,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 477 • 👍 13 • 💬 2 • ⏱️ 0:32 • 2h ago
+👁️ 477 • 👍 13 • 💬 2 • ⏱️ 0:32 • 3h ago
 
 ---
 
@@ -228,7 +224,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 8h ago
+👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 9h ago
 
 ---
 
@@ -238,7 +234,7 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 16K • 👍 146 • ⏱️ 7:30 • 1d ago
+👁️ 16K • 👍 146 • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -258,7 +254,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 144K • 👍 6K • 💬 391 • ⏱️ 17:36 • 6d ago
+👁️ 144K • 👍 6K • 💬 391 • ⏱️ 17:36 • 7d ago
 
 ---
 

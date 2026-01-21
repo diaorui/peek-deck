@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T22:26:45.181492+00:00'
+updated: '2026-01-21T22:54:51.030007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 22:26 UTC  
+**Last Updated:** January 21, 2026 at 22:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,019.32
+### $3,033.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** -8.4%  
-**30d:** +2.5%  
-**90d:** -22.8%  
-**1y:** -6.2%  
+**24h:** +2.6%  
+**7d:** -9.0%  
+**30d:** +1.8%  
+**90d:** -23.4%  
+**1y:** -6.9%  
 
 ---
 
@@ -88,7 +88,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-11h ago
+12h ago
 
 ---
 
@@ -160,7 +160,23 @@ dlnews.com • 1d ago
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 11h ago
+The Block • 12h ago
+
+---
+
+**[Ethereum Co-Founder Vitalik Buterin Says The Blockchain Must Achieve Full Quantum Resistance 'As Soon As Possible'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-020110620.html)**
+
+Ethereum should not wait until the last moment before working towards quantum resistance, co-founder Vitalik Buterin says. "We should resist the trap of saying ‘let’s delay quantum-resistance until the last possible moment in the name of ekeing [sic] out more...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
+
+Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
+
+Decrypt • 2d ago
 
 ---
 
@@ -172,7 +188,15 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqc9zzCr5AqyjhYCb_EfUg45ZDRxGsfGgvVxIAObsowAdv_aL58pOHvJ&gaa_ts=69714e56&gaa_sig=K2PP7ArkYmwly63stoF9H530aWmaIyR-tYD3WrWPdD0rbZwPN0EuhkFv4l0H0_QrNhGt3nwyodAp1y0hkIhvqA%3D%3D)**
+**[Ethereum Sentiment Flips Bearish as Traders Brace for Drop to $2.5K](https://finance.yahoo.com/news/ethereum-sentiment-flips-bearish-traders-215430318.html)**
+
+Bears dominate Ethereum outlook as prediction markets signal 62.5% chance of drop to $2,500, though validator sentiment remains steady long-term.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfWZ6-sZ2v6lJUplLfUlzNkqzRn_oiTwX83_bx43rECQf9eaaTVsV9S&gaa_ts=69715c99&gaa_sig=lPRartseYXDq_ac1HswM3czqMReGCoOvNt5JLkeuDIlfuFNTonlnvMCCLIMXeG3GL0ZJ-6RanvJO6EkAcdWdwA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -194,33 +218,11 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend correction as bearish pressure persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-correction-as-bearish-pressure-persists-202601210349)**
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) steadied on Wednesday, after correcting by nearly 5%, 10% and 5%, respectively, so far this week. BTC slips below $90,000, while ETH and XRP close below their key daily supports.
+Key PointsCryptocurrencies are not stocks.
 
-FXStreet • 18h ago
-
----
-
-**[What Is the NYSE Blockchain Platform? Why Execs Are ‘Bullish’—and Traders Are Speculating on Ethereum, XRP](https://finance.yahoo.com/news/nyse-blockchain-platform-why-execs-121156839.html)**
-
-NYSE is building a regulated blockchain infrastructure. Crypto executives are bullish on the move. While some traders believe tokenization could benefit established blockchains such as ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfugVy_4HzToIv6OtPWwd1bE_Iir3hq-eY0IX4Mmtgv1AT9-bFAhmZ6&gaa_ts=69714e56&gaa_sig=uzq6Bbr7-2--yGEGrgCzeeY1aUcer60wNlGt-XBoD5Jbd14L3bYywZxTAMeagXcYhiP8ld8XqcdKzzl58pPAcg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
-
-A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
-
-CryptoSlate • 12h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -264,7 +266,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 974 • 👍 70 • 💬 24 • ⏱️ 22:48 • 1h ago
+👁️ 974 • 👍 70 • 💬 24 • ⏱️ 22:48 • 2h ago
 
 ---
 
@@ -274,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 287 • 👍 19 • 💬 9 • ⏱️ 5:25 • 12h ago
+👁️ 287 • 👍 19 • 💬 9 • ⏱️ 5:25 • 13h ago
 
 ---
 
@@ -284,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 22h ago
+👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 23h ago
 
 ---
 

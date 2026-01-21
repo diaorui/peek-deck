@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T22:26:45.175515+00:00'
+updated: '2026-01-21T22:54:51.023968+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 22:26 UTC  
+**Last Updated:** January 21, 2026 at 22:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,115.26
+### $90,149.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -5.8%  
-**30d:** +3.1%  
+**24h:** +1.9%  
+**7d:** -5.7%  
+**30d:** +3.2%  
 **90d:** -18.9%  
 **1y:** -13.3%  
 
@@ -119,7 +119,7 @@ Traditional retirement accounts like 401(k)s typically expose you to full market
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 22h ago
 
 ---
 
@@ -127,7 +127,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-16h ago
+17h ago
 
 ---
 
@@ -163,17 +163,49 @@ The Motley Fool • 7h ago
 
 ---
 
-**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
+**[Bitcoin price news: BTC rises above $90,000 as Trump speaks in Davos](https://www.coindesk.com/markets/2026/01/21/bitcoin-bounces-to-usd89-500-gold-falls-as-trump-speaks-in-davos)**
 
-There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
+Trump said U.S. prepares to negotiate to acquire Greenland that will not pose threat to NATO.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
+**[Steak 'n Shake to Pay 'Bitcoin Bonus' to Hourly Employees—Here's How Much](https://finance.yahoo.com/news/steak-n-shake-pay-bitcoin-214032260.html)**
 
-The bitcoin price reclaimed $90,000 after a volatile trading day.
+Restaurant chain Steak 'n Shake is expanding its Bitcoin operations, this time with a pay bump for hourly employees paid out in BTC.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Burger Chain Steak 'n Shake Just Supersized Its Bitcoin Holdings](https://finance.yahoo.com/news/burger-chain-steak-n-shake-143109420.html)**
+
+Iconic American burger chain Steak ‘n Shake has added $10 million worth of Bitcoin (CRYPTO: BTC) to its balance sheet. This comes after the company started accepting Bitcoin payments in 2025. Steak ‘n Shake’s Bitcoin Treasury made a significant acquisition...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin news: Stake N Shake ups commitment to BTC](https://www.coindesk.com/business/2026/01/21/fast-food-chain-steak-n-shake-to-pay-hourly-workers-bitcoin-bonus)**
+
+This follows news from a few days ago that the company added $10 million worth of bitcoin to its corporate treasury.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin’s quantum threat sparks concern on Wall Street](https://www.dlnews.com/articles/markets/bitcoin-quantum-threat-sparks-concern-on-wall-street/)**
+
+UBS CEO Sergio Ermotti said at Davos this week that Bitcoin needs to overcome the quantum computing threat.  Ermotti joins a growing chorus of concerned financiers that includes Jefferies’ head of equity strategy Christopher Wood, who removed Bitcoin from a recommended pension portfolio last week. Bitcoin developers are in denial, crypto venture capitalist Nic Carter told DL News.
+
+dlnews.com • 15m ago
+
+---
+
+**[Strive ($ASST) Plans $150 Million Follow-On Offering to Buy More Bitcoin, Retire Convertible Notes](https://bitcoinmagazine.com/news/strive-plans-150m-follow-offering-bitcoin)**
+
+Strive ($ASST) plans to raise up to $150 million through a follow-on offering of its SATA preferred stock to retire convertible debt, buy more Bitcoin, and support corporate needs.
 
 Bitcoin Magazine • 1h ago
 
@@ -181,13 +213,13 @@ Bitcoin Magazine • 1h ago
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://finance.yahoo.com/news/bitcoin-hoarder-strategy-buys-2-162429905.html)**
+**[Billionaire Michael Saylor’s Strategy Buys 22,305 Bitcoin for $2 Billion – Is Something Big Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-strategy-buys-131412932.html)**
 
-Billionaire Michael Saylor's bitcoin-focused firm Strategy said on Tuesday it ​bought about $2.13 billion worth of bitcoin ‌over the past eight days, stepping up purchases even ‌as its stock has been pressured by cryptocurrency volatility.  The company acquired roughly 22,305 bitcoin between the period of January 12 and January ⁠19, according to ‌a regulatory filing.  Saylor said in an X post on Tuesday that ‍Strategy holds 709,715 bitcoin as of January 19.
+Billionaire Michael Saylor’s Strategy has added another 22,305 bitcoin to its balance sheet spending approximately $2.13 billion as the company continues its aggressive accumulation strategy. Strategy has acquired 22,305 BTC for ~$2.13 billion at ~$95,284 per bitcoin. As of 1/19/2026, we hodl 709,715 $BTC acquired for ~$53.92 billion at ~$75,979 ...
 
 Yahoo Finance • 1d ago
 
@@ -197,33 +229,7 @@ Yahoo Finance • 1d ago
 
 Strategy offers a compelling proxy for Bitcoin exposure, now trading at a 1.05x mNAV, near parity with its underlying BTC holdings. Read this MSTR stock update.
 
-Seeking Alpha • 8h ago
-
----
-
-**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqcNZa-QFfm-97OyOII5VnLIBAP1MhrN7qJ-KUavcY6Ujh9EdyUwMLsZ&gaa_ts=69714e54&gaa_sig=cDuYfD0HAr-voJSP3zcKgm8LtlR6t1cVA3WTaAAnTvizolXJQW6uQZszDIKpZgZE8tQ2XJR6PvjC9AqIHfQupA%3D%3D)**
-
-MarketWatch • 12h ago
-
----
-
-**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
-
-Reuters • 23h ago
-
----
-
-**[Delaware Life partners with BlackRock to offer bitcoin exposure through fixed index annuity](https://www.theblock.co/post/386345/delaware-life-partners-blackrock-bitcoin-exposure-fixed-index-annuity)**
-
-The Block • 1d ago
-
----
-
-**[Volatility is Back, and It's Weighing on Bitcoin. Is Crypto a Hedge or a Risk Asset This Time?](https://www.investopedia.com/bitcoin-dives-as-volatility-returns-is-it-a-hedge-or-risk-asset-this-time-11888610)**
-
-Volatility has soared after President Donald Trump's latest comments suggested the U.S. might take Greenland by force. As investors panned risk assets, the price of bitcoin also took a hit.
-
-Investopedia • 1d ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -267,7 +273,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 3d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 4d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -317,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 6h ago
+👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 7h ago
 
 ---
 
@@ -327,7 +333,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 8h ago
+👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 9h ago
 
 ---
 
@@ -357,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy p
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 7h ago
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 8h ago
 
 ---
 
@@ -387,7 +393,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 5h ago
+👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 6h ago
 
 ---
 
