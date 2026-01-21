@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T09:34:51.286952+00:00'
+updated: '2026-01-21T10:30:45.863027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 09:34 UTC  
+**Last Updated:** January 21, 2026 at 10:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 3h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 2h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 5h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 16h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have seen many people talking to Al as a companion or as a BF/GF but they fear
 
 A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
 
-🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 1h ago
+🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -133,25 +133,25 @@ CNBC • 16h ago
 
 AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
 **[Nvidia Invests in AI Start-Up Baseten. It Shows a Shift in the AI Market.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-baseten-dff85821?mod=barronsgooglenews&gaa_at=eafs&gaa_n=AWEtsqetaxLMZWIi2W9y0IgN_Iyoq_QO0I05aHpSR7EHp1pSHK0503BZNvMy&gaa_ts=6970a119&gaa_sig=E6aMnL8xHZxig2uCxorrHH0BJDVe6gYvsg-GYgK5ymy709Ez1tkO0AGI0UGKHPVm4QmzjFPpEhl8NM5-o-f5uQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
 **[Big tech's AI tools crowd the classroom](https://www.axios.com/2026/01/21/google-anthropic-microsoft-education)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[China AI Firm Zhipu Limits Coding Agent Access as Demand Soars](https://www.bloomberg.com/news/articles/2026-01-21/china-ai-firm-zhipu-limits-coding-agent-access-as-demand-soars)**
 
-Bloomberg • 31m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -167,25 +167,25 @@ CNN • 2d ago
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 23h ago
+New York Magazine • 1d ago
 
 ---
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
 **[Horizon 1000: Advancing AI for primary healthcare](https://openai.com/index/horizon-1000/)**
 
-OpenAI • 4h ago
+OpenAI • 5h ago
 
 ---
 
 **[Gates and OpenAI team up for AI health push in African countries](https://www.reuters.com/business/healthcare-pharmaceuticals/gates-openai-team-up-ai-health-push-african-countries-2026-01-21/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 232 • 💬 91 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 232 • 💬 91 • 2d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
@@ -225,7 +225,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 126 • 💬 58 • 11h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 126 • 💬 58 • 12h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -257,7 +257,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 90 • 💬 26 • 2h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 90 • 💬 26 • 3h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -289,7 +289,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 15h ago
+👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! �
 
 📺 Wholesale Ted
 
-👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 15h ago
+👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 17h ago
+👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Maggie McGaugh
 
-👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 16h ago
+👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 17h ago
 
 ---
 
@@ -383,7 +383,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 804 • 19h ago
+⬇️ 69,491 • ❤️ 804 • 20h ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 904 • 5d ago
+⬇️ 9,872 • ❤️ 904 • 6d ago
 
 ---
 
@@ -567,7 +567,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 0 • 💬 0 • ⭐ 1,870 • 15d ago
+▲ 0 • 💬 0 • ⭐ 1,870 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -647,7 +647,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 4h ago
+⭐ 9.5k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -657,7 +657,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 472 • 17h ago
+⭐ 9.1k • 🔱 472 • 18h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 383 • 11h ago
+⭐ 7.8k • 🔱 383 • 12h ago
 
 ---
 
@@ -677,7 +677,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 756 • 15h ago
+⭐ 6.0k • 🔱 756 • 16h ago
 
 ---
 
@@ -687,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 886 • 57m ago
+⭐ 5.3k • 🔱 886 • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.3k • 20h ago
+⭐ 4.2k • 🔱 4.3k • 21h ago
 
 ---
 
@@ -717,7 +717,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 309 • 5h ago
+⭐ 2.2k • 🔱 309 • 6h ago
 
 ---
 
@@ -727,7 +727,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 16h ago
+⭐ 1.9k • 🔱 153 • 17h ago
 
 ---
 
