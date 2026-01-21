@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T14:32:43.987465+00:00'
+updated: '2026-01-21T15:34:29.960335+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 14:32 UTC  
+**Last Updated:** January 21, 2026 at 15:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-6h ago
+7h ago
 
 ---
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,7 +56,23 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-3h ago
+4h ago
+
+---
+
+**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
+
+I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
+
+19m ago
+
+---
+
+**[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
+
+Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
+
+37m ago
 
 ---
 
@@ -68,41 +84,25 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
-**[Startup learning project?](https://www.reddit.com/r/robotics/comments/1qiwuq7/startup_learning_project/)**
+**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
 
-Hello world? Im a Video game programmer, and i would like to get a hobby out of building robots. I got access to a 3d printer, and i know how to use tools and stuff. but as any first project, its shoudnt bee to ambitious, and idiot proof. In the dawn of AI in 2026, what would you experienced gents recommend someone to do to get started on this hobby assuming there is no previous knowladge?
+Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-1h ago
+51m ago
 
 ---
 
-**[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
+**[Startup learning project?](https://www.reddit.com/r/robotics/comments/1qiwuq7/startup_learning_project/)**
+
+Hello world? Im a Video game programmer, and i would like to get a hobby out of building robots. I got access to a 3d printer, and i know how to use tools and stuff. but as any first project, its shoudnt bee to ambitious, and idiot proof. In the dawn of AI in 2026, what would you experienced gents recommend someone to do to get started on this hobby assuming there is no previous knowladge?
 
 2h ago
 
 ---
 
-**[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
+**[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
 
-ODM Humanoid demo show.
-
-1d ago
-
----
-
-**[Serve Robotics to acquire healthcare robot startup Diligent, bringing sidewalk autonomy into hospitals](https://www.reddit.com/r/robotics/comments/1qig61x/serve_robotics_to_acquire_healthcare_robot/)**
-
-Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
-
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 15h ago
-
----
-
-**["Wednesday" Scene-Stealer Hand 'Thing' Recreated as a Robot](https://www.reddit.com/r/robotics/comments/1qit9ze/wednesday_scenestealer_hand_thing_recreated_as_a/)**
-
-Swiss scientists have developed a robotic hand that can detach from its arm, crawl, and carry objects. The detached hand successfully picked up three objects and reattached to the arm. It overcomes th
-
-🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 5h ago
+3h ago
 
 ---
 
@@ -110,11 +110,9 @@ Swiss scientists have developed a robotic hand that can detach from its arm, cra
 
 ## Google News: "robotics"
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1d ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -122,15 +120,7 @@ Fortune • 1d ago
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
-
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
-
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -138,15 +128,7 @@ Yahoo Finance • 15h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 16h ago
-
----
-
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
-
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 1h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -158,17 +140,33 @@ Financial Times • 1d ago
 
 ---
 
-**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
-Reuters • 20h ago
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 2h ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
+**[Microsoft Research reveals Rho-alpha vision-language-action model for robots](https://www.therobotreport.com/microsoft-research-reveals-rho-alpha-vision-language-action-model-for-robots/)**
 
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
+The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft.
 
-CBC • 1d ago
+The Robot Report • 46m ago
+
+---
+
+**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
+
+Reuters • 21h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 2d ago
 
 ---
 
@@ -180,9 +178,11 @@ Inc42 • 1d ago
 
 ---
 
-**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
-The New York Times • 22h ago
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Univers
 
 📺 StrEat
 
-👁️ 139K • 👍 289 • 1d ago
+👁️ 139K • 👍 289 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolf
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 296 • 💬 83 • ⏱️ 16:03 • 19h ago
+👁️ 5K • 👍 296 • 💬 83 • ⏱️ 16:03 • 20h ago
 
 ---
 

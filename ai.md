@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T14:32:43.969517+00:00'
+updated: '2026-01-21T15:34:29.942362+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 14:32 UTC  
+**Last Updated:** January 21, 2026 at 15:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A survey from professional services network PwC polling CEOs reveals the highs and lows of AI adoption in the workplace so far.
 
-🔗 [PC Guide](https://www.pcguide.com/news/most-ceos-agree-ai-hasnt-benefitted-revenue-yet-survey-reveals-just-12-report-major-success-so-far/) • 2h ago
-
----
-
-**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
-
-Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
-
-11h ago
+🔗 [PC Guide](https://www.pcguide.com/news/most-ceos-agree-ai-hasnt-benefitted-revenue-yet-survey-reveals-just-12-report-major-success-so-far/) • 3h ago
 
 ---
 
@@ -57,15 +49,15 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 1h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 2h ago
 
 ---
 
-**[CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI](https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/)**
+**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
 
-genuinely insane, and the fact that they did it for live sports is seriously impressive.
+Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 8h ago
+12h ago
 
 ---
 
@@ -73,7 +65,23 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 7h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 8h ago
+
+---
+
+**[my artificial intelligence were too normal](https://www.reddit.com/r/artificial/comments/1qj0vze/my_artificial_intelligence_were_too_normal/)**
+
+too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
+
+5m ago
+
+---
+
+**[CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI](https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/)**
+
+genuinely insane, and the fact that they did it for live sports is seriously impressive.
+
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 9h ago
 
 ---
 
@@ -81,15 +89,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 10h ago
-
----
-
-**[OpenAI Is the Prototype of an Economic Collapse](https://www.reddit.com/r/artificial/comments/1qiy8fw/openai_is_the_prototype_of_an_economic_collapse/)**
-
-OpenAI announced its revenue run rate has exceeded $20B. (Since all the trolls are out, I'm not going to respond to any additional comments) Investors are celebrating. Commentators are euphoric. But the number is irrelevant. OpenAI has already taken on $1.4 trillion in long‑term infrastructure commitments — not “plans,” but binding obligations for data centers, compute, energy, hardware supply, and cloud infrastructure through 2033. Here’s the unavoidable truth: A company generating $20B cannot service $1.4T. Not now. Not ever. There's a term for this: fundamental mathematics. The Revenue Required to Service $1.4T: Even under generous assumptions, the model fails. Scenario A — 3% cost of capital Annual servicing: $42B Revenue needed (30% margin):$140B Scenario B — 6–8% cost Annual servicing: $98B Revenue needed: $300–350B Scenario C — 10–12% cost Annual servicing: $154B Revenue needed: $500B+ OpenAI is at $20B — roughly 15× below what’s required. And this excludes payroll, which adds $1.5–4.5B/year. This Is Not a Business Model It’s a sovereign‑scale capital gamble executed by a private company with: no regulatory oversight no systemic‑risk framework no public accountability Its obligations resemble a national energy grid or defense contractor — except those entities have guardrails. OpenAI does not. The Real Danger The AI sector is built on one assumption: “If we build enough capacity, the revenue will appear.” That’s not strategy. It’s a speculative bubble wrapped in technical optimism. The model requires: - AGI‑level demand - hyperscaler‑level enterprise adoption - permanently high margins - cheap capital - flawless execution If any of these fail, the structure collapses. If a bank behaved this way, regulators would intervene. If a utility behaved this way, Congress would intervene. If a sovereign behaved this way, the IMF would intervene. But because it’s “AI,” everyone applauds. The Bottom Line OpenAI is not the future of the economy. It's a systemic risk. A company with $20B in revenue and $1.4T in obligations is not a success story. It’s a warning. And when the bill comes due, the damage won’t be contained to one company. It will ripple through markets, investors, infrastructure partners, and the broader economy. The math is right here. In plain sight. Impossible to ignore.
-
-49m ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI announced its revenue run rate has exceeded $20B. (Since all the trolls a
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 21h ago
 
 ---
 
@@ -123,7 +123,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -131,27 +131,21 @@ Reuters • 1h ago
 
 Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
-**[New poll shows Mass. parents are split on AI in schools](https://www.wbur.org/news/2026/01/21/parent-poll-ai-use-schools-massachusetts)**
+**[Callaway unveils new Odyssey line of Ai-Dual Square 2 Square putters](https://www.golfwrx.com/772062/callaway-unveils-new-odyssey-line-of-ai-dual-square-2-square-putters/)**
 
-“These findings make one thing unmistakably clear: families are wary about how quickly AI is entering classrooms,” Jennie Williamson, state director for EdTrust in Massachusetts.
-
-wbur.org • 11m ago
+GolfWRX • 19m ago
 
 ---
 
-**[Upscale AI Valuation Tops $1 Billion as Startup Takes on Cisco, Broadcom](https://www.bloomberg.com/news/articles/2026-01-21/upscale-ai-valuation-tops-1-billion-as-startup-takes-on-cisco-broadcom)**
+**[House passes AI education bill for small businesses in landslide 395-14 vote](https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote)**
 
-Bloomberg • 32m ago
+House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
 
----
-
-**[AI video can be a minefield for marketers, survey says](https://qz.com/ai-video-animoto-state-of-industry-report-2026)**
-
-qz.com • 31m ago
+Fox News • 13h ago
 
 ---
 
@@ -163,33 +157,37 @@ BBC • 1d ago
 
 ---
 
-**[House passes AI education bill for small businesses in landslide 395-14 vote](https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote)**
+**[AI at Davos 2026: What tech leaders hope and fear this year](https://www.euronews.com/next/2026/01/20/ai-at-davos-2026-from-work-to-useful-and-safe-ai-heres-what-the-tech-leaders-have-said)**
 
-House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
+The CEO of Nvidia, Microsoft, Anthropic and Google DeepMind, as well as philosopher Yuval Harari, have set out their visions and fears for AI at Davos.
 
-Fox News • 12h ago
-
----
-
-**[The Microsoft-OpenAI Files: Internal documents reveal the realities of AI’s defining alliance](https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/)**
-
-GeekWire • 19h ago
+Euronews.com • 1d ago
 
 ---
 
-**[Microsoft CEO Nadella’s ‘telltale sign’ of AI bubble](https://www.seattletimes.com/business/microsoft/microsoft-ceo-warns-ai-needs-to-spread-beyond-big-tech-to-avoid-bubble/)**
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
-Microsoft CEO Satya Nadella doesn't believe there's an AI bubble. But he warns the tech will have to spread evenly to avoid one.
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
-The Seattle Times • 12h ago
+CNN • 3d ago
 
 ---
 
-**[Energy costs will decide which countries win the AI race, Microsoft’s Nadella says](https://www.cnbc.com/2026/01/20/microsoft-nadella-ai-race-energy-tokens.html)**
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The Big Tech boss also said Europe needs to have more of a global outlook to be successful.
+The New York Times • 1d ago
 
-CNBC • 1d ago
+---
+
+**[Colleges Are Letting AI Bots Help Make Decisions on Who to Admit](https://www.bloomberg.com/news/articles/2026-01-21/ai-bots-evaluate-college-applications-in-new-era-for-admissions)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqehq__NoaH-eeDYShETjaPtBxG6ZiJ_In1c9PZ7yP1K4G7oPUeur7I2&gaa_ts=6970f56a&gaa_sig=vA9IUpB9KFPcbG_hXTtTC-Y99OdsyIEk8TCUpgK1uFimQcURK8fi8Nu7qXsUN0M81uqvV2XbO6hmJ_mDs7mLfQ%3D%3D)**
+
+The Wall Street Journal • 21h ago
 
 ---
 
@@ -201,7 +199,15 @@ CNBC • 1d ago
 
 Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
 
-⬆️ 306 • 💬 429 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
+⬆️ 307 • 💬 429 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
+
+---
+
+**[How AI destroys institutions](https://news.ycombinator.com/item?id=46705606)**
+
+Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
+
+⬆️ 243 • 💬 147 • 1h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -215,7 +221,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 178 • 💬 119 • 7h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 179 • 💬 122 • 8h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -229,7 +235,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 157 • 💬 69 • 16h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 166 • 💬 72 • 17h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -245,7 +251,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 118 • 💬 152 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 118 • 💬 153 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -253,21 +259,13 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 : Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
 
-⬆️ 107 • 💬 128 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
-
----
-
-**[AI companies will fail. We can salvage something from the wreckage](https://news.ycombinator.com/item?id=46668170)**
-
-AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
-
-⬆️ 104 • 💬 95 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+⬆️ 107 • 💬 128 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 99 • 💬 59 • 20h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 100 • 💬 59 • 21h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -281,7 +279,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 84K • 👍 3K • 💬 724 • ⏱️ 1:39:31 • 20h ago
+👁️ 84K • 👍 3K • 💬 724 • ⏱️ 1:39:31 • 21h ago
 
 ---
 
@@ -311,7 +309,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 18K • 👍 506 • 💬 212 • ⏱️ 12:14 • 22h ago
+👁️ 18K • 👍 506 • 💬 212 • ⏱️ 12:14 • 23h ago
 
 ---
 
@@ -341,7 +339,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Bloomberg Live
 
-👁️ 49K • 👍 1K • 💬 182 • ⏱️ 26:04 • 21h ago
+👁️ 49K • 👍 1K • 💬 182 • ⏱️ 26:04 • 22h ago
 
 ---
 
@@ -361,7 +359,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent AI already writes co
 
 📺 Julia McCoy
 
-👁️ 19K • 👍 921 • 💬 65 • ⏱️ 7:01 • 2d ago
+👁️ 19K • 👍 921 • 💬 65 • ⏱️ 7:01 • 3d ago
 
 ---
 
@@ -371,7 +369,7 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Breaking Points
 
-👁️ 195K • 👍 6K • 💬 1K • ⏱️ 14:38 • 19h ago
+👁️ 195K • 👍 6K • 💬 1K • ⏱️ 14:38 • 20h ago
 
 ---
 
@@ -651,7 +649,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 1h ago
+⭐ 9.5k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -661,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 478 • 22h ago
+⭐ 9.2k • 🔱 478 • 23h ago
 
 ---
 
@@ -671,7 +669,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 386 • 16h ago
+⭐ 7.9k • 🔱 386 • 17h ago
 
 ---
 
@@ -681,7 +679,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.1k • 🔱 771 • 20h ago
+⭐ 6.1k • 🔱 771 • 21h ago
 
 ---
 
@@ -691,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 891 • 5h ago
+⭐ 5.3k • 🔱 891 • 6h ago
 
 ---
 
@@ -721,7 +719,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 310 • 10h ago
+⭐ 2.2k • 🔱 310 • 11h ago
 
 ---
 
@@ -741,7 +739,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 21h ago
+⭐ 1.9k • 🔱 153 • 22h ago
 
 ---
 
