@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T16:51:54.334314+00:00'
+updated: '2026-01-21T17:55:24.728231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 16:51 UTC  
+**Last Updated:** January 21, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-9h ago
+10h ago
 
 ---
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -56,15 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-5h ago
-
----
-
-**[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
-
-Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
-
-1h ago
+6h ago
 
 ---
 
@@ -72,13 +64,13 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-1h ago
+2h ago
 
 ---
 
-**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
+**[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
 
-Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
+Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
 2h ago
 
@@ -92,19 +84,27 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
+**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
+
+Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
+
+3h ago
+
+---
+
+**[Getting started with ROS-I](https://www.reddit.com/r/robotics/comments/1qj3p02/getting_started_with_rosi/)**
+
+Hey folks, I am looking to dip my toes into the ROS ecosystem for some more complex problems that need solving. Generally, we would be pulling in 2d/3d sensor data, running vision, and controlling an industrial robot or three. The pitch behind ROS-I seems pretty compelling in the sense that the framework is designed for these types of tasks (rather than say, a wheeled rover) and has support from some OEMs and other commercial entities in the space. I am very new to ROS and Linux in general, having just recently installed ubuntu on WSL for ROS2 and getting nvidia CUDA running. Can anyone point me in the direction of a good tutorial that would cover getting ROS-I installed? I have found a few good ones for doing a first project, but they are generally assuming everything is ready to go and/or the user has some good familiarity with ROS already. Any tips or advice is appreciated. Thanks!
+
+46m ago
+
+---
+
 **[How to best leverage an internship at FANUC for long‑term growth in robotics / automation?](https://www.reddit.com/r/robotics/comments/1qj18dp/how_to_best_leverage_an_internship_at_fanuc_for/)**
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-1h ago
-
----
-
-**[Startup learning project?](https://www.reddit.com/r/robotics/comments/1qiwuq7/startup_learning_project/)**
-
-Hello world? Im a Video game programmer, and i would like to get a hobby out of building robots. I got access to a 3d printer, and i know how to use tools and stuff. but as any first project, its shoudnt bee to ambitious, and idiot proof. In the dawn of AI in 2026, what would you experienced gents recommend someone to do to get started on this hobby assuming there is no previous knowladge?
-
-4h ago
+2h ago
 
 ---
 
@@ -120,33 +120,25 @@ Fortune • 2d ago
 
 ---
 
-**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
-
-Investor's Business Daily • 18h ago
-
----
-
 **[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
 
-Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-The Robot Report • 19h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
 
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 3h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -154,7 +146,7 @@ CNBC • 3h ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 2h ago
+Microsoft • 3h ago
 
 ---
 
@@ -162,7 +154,15 @@ Microsoft • 2h ago
 
 The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
+
+---
+
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 4h ago
 
 ---
 
@@ -176,15 +176,15 @@ Financial Times • 1d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
+**[How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)**
 
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
+Now, the startup is turning its attention to building the business, fundraising and striking commercial deals.
 
-CBC • 1d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 4K • 👍 475 • 💬 36 • ⏱️ 1:51 • 3h ago
+👁️ 4K • 👍 475 • 💬 36 • ⏱️ 1:51 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ entertaining experience to every viewer. Each edit is highly transformative, fea
 
 📺 JAXON_JACK
 
-👁️ 23K • 💬 3 • ⏱️ 0:12 • 5h ago
+👁️ 23K • 💬 3 • ⏱️ 0:12 • 6h ago
 
 ---
 

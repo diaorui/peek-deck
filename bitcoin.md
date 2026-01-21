@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T16:51:54.326101+00:00'
+updated: '2026-01-21T17:55:24.719004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 16:51 UTC  
+**Last Updated:** January 21, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,619.65
+### $87,831.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -7.5%  
-**30d:** +1.3%  
-**90d:** -20.4%  
-**1y:** -14.9%  
+**24h:** -1.7%  
+**7d:** -8.0%  
+**30d:** +0.7%  
+**90d:** -20.8%  
+**1y:** -15.4%  
 
 ---
 
@@ -77,19 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I found this in my old pictures](https://www.reddit.com/r/Bitcoin/comments/1qipbm8/i_found_this_in_my_old_pictures/)**
-
-and a small piece of me died again
-
-11h ago
-
----
-
 **[Sold bitcoin at 125k, took my GF out to celebrate.](https://www.reddit.com/r/Bitcoin/comments/1qj28qu/sold_bitcoin_at_125k_took_my_gf_out_to_celebrate/)**
 
 hold strong
 
-34m ago
+1h ago
+
+---
+
+**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
+
+3h ago
 
 ---
 
@@ -97,13 +95,15 @@ hold strong
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 17h ago
 
 ---
 
-**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
+**[I found this in my old pictures](https://www.reddit.com/r/Bitcoin/comments/1qipbm8/i_found_this_in_my_old_pictures/)**
 
-2h ago
+and a small piece of me died again
+
+12h ago
 
 ---
 
@@ -111,7 +111,13 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-12h ago
+13h ago
+
+---
+
+**[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
+
+3h ago
 
 ---
 
@@ -121,7 +127,9 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 ---
 
-**[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
+**[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
+
+Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
 
 2h ago
 
@@ -129,15 +137,7 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 **[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
 
-17h ago
-
----
-
-**[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
-
-Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
-
-1h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey guys just wanted to drop a quick deep dive into how the security actually wo
 
 Stacking may mean sacrifice today for tomorrow however your future self will thank you for your better choice over that expensive meal, especially in the ends.
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Stacking may mean sacrifice today for tomorrow however your future self will tha
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -183,51 +183,45 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Quantum Computing Is Already Hitting Bitcoin—Here’s How](https://finance.yahoo.com/news/quantum-computing-already-hitting-bitcoin-150000966.html)**
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
 
-Quantum computing risks are already influencing Bitcoin portfolios as institutions reassess security, cryptography vulnerabilities, and the network’s ability to upgrade.
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Steak ‘n Shake Adds $10 Million in Bitcoin Exposure Alongside BTC 'Strategic Reserve'](https://decrypt.co/355051/steak-shake-10-million-bitcoin-exposure-alongside-btc-strategic-reserve)**
-
-Restaurant chain Steak ‘n Shake is doubling down on Bitcoin after crediting the crypto asset with driving rising sales last year.
-
-Decrypt • 1d ago
+CoinDesk • 55m ago
 
 ---
 
-**[Bitcoin news: Stake N Shake ups commitment to BTC](https://www.coindesk.com/business/2026/01/21/fast-food-chain-steak-n-shake-to-pay-hourly-workers-bitcoin-bonus)**
+**[Buy the Bitcoin Dip? Not Until Short-Term Holders Show Gains, Says Compass Point](https://finance.yahoo.com/news/buy-bitcoin-dip-not-until-172308195.html)**
 
-This follows news from a few days ago that the company added $10 million worth of bitcoin to its corporate treasury.
+The asset’s price jumped as high as $97,500 last week.
 
-CoinDesk • 1h ago
-
----
-
-**[Steak ‘n Shake to Pay Hourly Workers in Bitcoin Starting March](https://finance.yahoo.com/news/steak-n-shake-pay-hourly-082118325.html)**
-
-Steak ‘n Shake will begin paying all hourly employees at company-operated restaurants a Bitcoin bonus of $0.21 for every hour worked starting March 1, with funds accessible after a two-year vesting period. The 91-year-old burger chain announced the program through a partnership with Bitcoin rewards app Fold, marking another step ...
-
-Yahoo Finance • 8h ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[Trump mentions importance of Bitcoin and crypto legislation at Davos in rambling speech](https://www.dlnews.com/articles/regulation/trump-talked-crypto-and-bitcoin-at-davos/)**
+**[Fast-Food Chain Steak ‘n Shake to Pay Hourly Workers a Bitcoin Bonus](https://bitcoinmagazine.com/news/steak-n-shake-to-pay-workers-bitcoin-bonus)**
 
-Donald Trump spoke at the World Economic Forum in Davos, Switzerland. The US president spoke of the importance of US crypto legislation.  President Trump’s family has pushed further into the crypto world over the past year.
+Steak ‘n Shake is launching a bitcoin bonus program for hourly workers, giving $0.21 per hour worked that vests after two years, following its $10 million corporate bitcoin purchase.
 
-dlnews.com • 36m ago
+Bitcoin Magazine • 51m ago
 
 ---
 
-**[Bitcoin price news: BTC rises as Trump as Trump speaks at WEF Davos](https://www.coindesk.com/markets/2026/01/21/bitcoin-bounces-to-usd89-500-gold-falls-as-trump-speaks-in-davos)**
+**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqf75c6ooJhkQDosHnpp_NOaPPrpbMRZXetRAOX16qsO2q13lyrXdLuF&gaa_ts=69711673&gaa_sig=RRcNDqQ2V8foLBXOWHfuiY_H8nWcu-NrfmK7zoI8sQSDLGqKDYxZPRiSQ2qir5oi6csMPYN7LAht25kQ8dXn5g%3D%3D)**
 
-Trump said U.S. prepares to negotiate to acquire Greenland that will not pose threat to NATO.
+MarketWatch • 7h ago
 
-CoinDesk • 2h ago
+---
+
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
+
+Reuters • 19h ago
+
+---
+
+**[Delaware Life Insurance Company Launches Industry’s First Fixed Indexed Annuity with Bitcoin Exposure](https://www.businesswire.com/news/home/20260120994831/en/Delaware-Life-Insurance-Company-Launches-Industrys-First-Fixed-Indexed-Annuity-with-Bitcoin-Exposure)**
+
+Business Wire • 1d ago
 
 ---
 
@@ -279,7 +273,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 23h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 1d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -295,13 +289,13 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 4 • 20h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 4 • 21h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -321,7 +315,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 12K • 👍 693 • 💬 67 • ⏱️ 19:22 • 8h ago
+👁️ 12K • 👍 693 • 💬 67 • ⏱️ 19:22 • 9h ago
 
 ---
 
@@ -331,7 +325,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 357 • 💬 69 • ⏱️ 12:17 • 7h ago
+👁️ 4K • 👍 357 • 💬 69 • ⏱️ 12:17 • 8h ago
 
 ---
 
@@ -341,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 899 • 💬 78 • ⏱️ 41:04 • 1h ago
+👁️ 11K • 👍 899 • 💬 78 • ⏱️ 41:04 • 2h ago
 
 ---
 
@@ -351,7 +345,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 312 • ⏱️ 9:10 • 15h ago
+👁️ 19K • 👍 1K • 💬 312 • ⏱️ 9:10 • 16h ago
 
 ---
 
@@ -361,7 +355,7 @@ Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macr
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 239 • 💬 43 • ⏱️ 5:17 • 16h ago
+👁️ 6K • 👍 239 • 💬 43 • ⏱️ 5:17 • 17h ago
 
 ---
 
@@ -371,7 +365,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 871 • 💬 190 • ⏱️ 8:21 • 21h ago
+👁️ 13K • 👍 871 • 💬 190 • ⏱️ 8:21 • 22h ago
 
 ---
 
@@ -381,7 +375,7 @@ Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy p
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 655 • 💬 71 • ⏱️ 42:24 • 1h ago
+👁️ 5K • 👍 655 • 💬 71 • ⏱️ 42:24 • 3h ago
 
 ---
 
@@ -391,7 +385,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 347 • 💬 128 • ⏱️ 1:16 • 20h ago
+👁️ 15K • 👍 347 • 💬 128 • ⏱️ 1:16 • 21h ago
 
 ---
 
@@ -401,7 +395,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 205 • ⏱️ 22:10 • 16h ago
+👁️ 28K • 👍 2K • 💬 205 • ⏱️ 22:10 • 17h ago
 
 ---
 

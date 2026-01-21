@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T16:51:54.318568+00:00'
+updated: '2026-01-21T17:55:24.710562+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 16:51 UTC  
+**Last Updated:** January 21, 2026 at 17:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 3h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 4h ago
 
 ---
 
@@ -49,7 +49,15 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-13h ago
+14h ago
+
+---
+
+**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
+
+i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
+
+56m ago
 
 ---
 
@@ -57,15 +65,15 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
 
-29m ago
+1h ago
 
 ---
 
-**[my artificial intelligence were too normal](https://www.reddit.com/r/artificial/comments/1qj0vze/my_artificial_intelligence_were_too_normal/)**
+**[Liza Minnelli is among the artists who collaborated on a new AI-generated album](https://www.reddit.com/r/artificial/comments/1qj4vi8/liza_minnelli_is_among_the_artists_who/)**
 
-too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
+ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 3m ago
 
 ---
 
@@ -73,7 +81,15 @@ too few disturbances are also a sign of goings on sometimes, though one must alw
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 9h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 10h ago
+
+---
+
+**[my artificial intelligence were too normal](https://www.reddit.com/r/artificial/comments/1qj0vze/my_artificial_intelligence_were_too_normal/)**
+
+too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
+
+2h ago
 
 ---
 
@@ -81,7 +97,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 10h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 11h ago
 
 ---
 
@@ -89,7 +105,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 12h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 13h ago
 
 ---
 
@@ -97,23 +113,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 22h ago
-
----
-
-**[Do some people find it easier to talk to AI about personal topics than to other people?](https://www.reddit.com/r/artificial/comments/1qhtj96/do_some_people_find_it_easier_to_talk_to_ai_about/)**
-
-I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
-
-1d ago
-
----
-
-**[China Used AI to Win Olympic Boxing Medals](https://www.reddit.com/r/artificial/comments/1qhoz04/china_used_ai_to_win_olympic_boxing_medals/)**
-
-BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese coaches tactical recommendations between rounds. System breaks fights into 18 indicators, predicts win probability, tells coaches what to change. China: 3 gold, 2 silver in boxing. AI: 87.5% accuracy. Tech is cool, clearly worked under pressure. But the paper claims AI "contributed" to medals without proving causation. Better boxers or better AI? We'll never know. Sports analytics arms race is here. arXiv:2601.11492
-
-1d ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 23h ago
 
 ---
 
@@ -123,7 +123,13 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
+
+---
+
+**[Nvidia CEO Says AI Will Create Jobs For Electricians and Plumbers](https://www.bloomberg.com/news/articles/2026-01-21/nvidia-ceo-says-ai-will-create-jobs-for-electricians-and-plumbers)**
+
+Bloomberg • 5h ago
 
 ---
 
@@ -131,13 +137,7 @@ Reuters • 4h ago
 
 AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
 
-NVIDIA Blog • 3h ago
-
----
-
-**[Nvidia CEO Says AI Will Create Jobs For Electricians and Plumbers](https://www.bloomberg.com/news/articles/2026-01-21/nvidia-ceo-says-ai-will-create-jobs-for-electricians-and-plumbers)**
-
-Bloomberg • 3h ago
+NVIDIA Blog • 4h ago
 
 ---
 
@@ -145,23 +145,31 @@ Bloomberg • 3h ago
 
 Worried about your job? Well, 'largest infrastructure buildout in human history' will require more plumbers, Huang says.
 
-Gizmodo • 6m ago
+Gizmodo • 1h ago
 
 ---
 
-**[3 coaches in leadership, business, and comms have found AI indispensable for their growth](https://www.businessinsider.com/3-coaching-solopreneurs-how-ai-help-their-businesses-grow-2026-1)**
+**[AI ‘Bill of Rights' backed in the Florida Senate](https://www.nbcmiami.com/news/local/ai-bill-of-rights-backed-in-the-florida-senate/3752398/)**
 
-AI tools like ChatGPT, Gemini, and Claude help solopreneur coaches Kim Surko, Katharine Campbell Hirst, and Liz Morrison boost client outcomes and streamline coaching workflows.
+Amid opposition from a tech-industry group and a push by President Donald Trump for nationwide regulations, a proposed state “Artificial Intelligence Bill of Rights” started moving forward Wednesday in the Florida Senate.
 
-Business Insider • 22m ago
+nbcmiami.com • 19m ago
 
 ---
 
-**[Co-founder of $12B AI startup fired after boss learns about office romance: report](https://nypost.com/2026/01/21/business/co-founder-of-12b-ai-startup-fired-after-boss-learns-about-office-romance-report/)**
+**[Ohio releases model policy to guide school districts on AI use in classrooms](https://www.cleveland.com/open/2026/01/ohio-releases-model-policy-to-guide-school-districts-on-ai-use-in-classrooms.html)**
 
-Barret Zoph, the co-founder and chief technology officer of Thinking Machines Lab, was dismissed last Wednesday.
+The Ohio Department of Education and Workforce has developed a template that school districts can use as they establish policies that address data privacy, academic integrity and AI literacy.
 
-New York Post • 15m ago
+cleveland.com • 16m ago
+
+---
+
+**[Hyper3D Enhances Production Workflows with AI Image to 3D and Text to 3D Generation Tools](https://www.usatoday.com/press-release/story/23774/hyper3d-enhances-production-workflows-with-ai-image-to-3d-and-text-to-3d-generation-tools/)**
+
+WILMINGTON, DE - January 21, 2026 - PRESSADVANTAGE - The conversion of two-dimensional visual references into
+
+USA Today • 18m ago
 
 ---
 
@@ -169,27 +177,21 @@ New York Post • 15m ago
 
 The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Gates and OpenAI team up for AI health push in African countries](https://www.reuters.com/business/healthcare-pharmaceuticals/gates-openai-team-up-ai-health-push-african-countries-2026-01-21/)**
+**[Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant)**
 
-Reuters • 1h ago
+This AI-powered health assistant provides 24/7 health guidance and takes action to connect you to your provider, book appointments, read labs, and manage meds.
+
+aboutamazon.com • 2h ago
 
 ---
 
 **[Opinion | Stop Worrying, and Let A.I. Help Save Your Life](https://www.nytimes.com/2026/01/19/opinion/ai-health-medical-care.html)**
 
 The New York Times • 2d ago
-
----
-
-**[They hear, but do they care? What AI can teach us about listening better](https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen)**
-
-AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
-
-BBC • 1d ago
 
 ---
 
@@ -209,7 +211,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 270 • 💬 195 • 3h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 275 • 💬 211 • 4h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -223,7 +225,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 187 • 💬 125 • 10h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 193 • 💬 126 • 11h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -231,7 +233,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 178 • 💬 74 • 18h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 181 • 💬 74 • 19h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -267,7 +269,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 104 • 💬 62 • 22h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 107 • 💬 63 • 23h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -281,7 +283,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 91K • 👍 3K • 💬 766 • ⏱️ 1:39:31 • 23h ago
+👁️ 91K • 👍 3K • 💬 766 • ⏱️ 1:39:31 • 1d ago
 
 ---
 
@@ -301,7 +303,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 Ishan Sharma
 
-👁️ 3K • 👍 589 • 💬 26 • ⏱️ 9:17 • 3h ago
+👁️ 3K • 👍 589 • 💬 26 • ⏱️ 9:17 • 4h ago
 
 ---
 
@@ -361,7 +363,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Bloomberg Live
 
-👁️ 57K • 👍 1K • 💬 203 • ⏱️ 26:04 • 23h ago
+👁️ 57K • 👍 1K • 💬 203 • ⏱️ 26:04 • 1d ago
 
 ---
 
@@ -491,7 +493,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 61,105 • ❤️ 806 • 13d ago
+⬇️ 61,105 • ❤️ 806 • 14d ago
 
 ---
 
@@ -649,7 +651,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 36s ago
+⭐ 9.5k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -669,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 389 • 18h ago
+⭐ 7.9k • 🔱 389 • 19h ago
 
 ---
 
@@ -679,7 +681,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.2k • 🔱 777 • 22h ago
+⭐ 6.2k • 🔱 777 • 23h ago
 
 ---
 
@@ -689,7 +691,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 894 • 8h ago
+⭐ 5.3k • 🔱 894 • 9h ago
 
 ---
 
@@ -699,7 +701,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 2h ago
+⭐ 4.3k • 🔱 4.4k • 3h ago
 
 ---
 
@@ -709,7 +711,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 3.0k • 🔱 176 • 3d ago
+⭐ 3.0k • 🔱 176 • 4d ago
 
 ---
 
@@ -729,7 +731,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 311 • 13h ago
+⭐ 2.2k • 🔱 311 • 14h ago
 
 ---
 
