@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T04:45:30.728615+00:00'
+updated: '2026-01-21T05:30:20.094140+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 04:45 UTC  
+**Last Updated:** January 21, 2026 at 05:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 20m ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Following recent discussions over AI contributions to the LLVM open-source compi
 
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
-22h ago
+23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up th
 
 Soft robotic hand ‘sees’ around corners to achieve human-like touch.[1] Korea Kicks Off AI Squid Game in Bid to Compete With US, China.[2] TikTok owner ByteDance targets Alibaba with AI-led cloud drive.[3] Google removes some AI summaries after investigation uncovers false information given to users: ‘Completely wrong [and] really dangerous’.[4] Sources: [1] https://techxplore.com/news/2026-01-soft-robotic-corners-human.html [2] https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models [3] https://www.ft.com/content/3732a646-da35-4437-bfde-7f9efc2725ff [4] https://www.yahoo.com/news/articles/google-removes-ai-summaries-investigation-223000451.html
 
-22h ago
+23h ago
 
 ---
 
@@ -125,43 +125,7 @@ NVIDIA executives allegedly authorized the use of millions of pirated books from
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 15h ago
-
----
-
-**[DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West](https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west)**
-
-Bloomberg.com • 11h ago
-
----
-
-**[Another alliance of health care and AI signals why pharma stocks should be back in favor](https://www.cnbc.com/2026/01/20/another-alliance-of-health-care-and-ai-signals-why-pharma-stocks-could-be-back.html)**
-
-Bristol Myers Squibb and Microsoft's new partnership aimed at accelerating early detection of lung cancer.
-
-CNBC • 8h ago
-
----
-
-**[Top 10 AI Stocks For 2026](https://seekingalpha.com/article/4859397-top-10-ai-stocks-for-2026)**
-
-The global AI market is expected to hit $3T by 2033, and chipmakers and infrastructure stocks are exploiting the demand boom. Discover top 10 AI Stocks for 2026.
-
-Seeking Alpha • 18h ago
-
----
-
-**[2 Undervalued AI Stocks to Buy in 2026 and Hold for Decades](https://www.fool.com/investing/2026/01/20/2-undervalued-ai-stocks-to-buy-in-2026-and-hold/)**
-
-These stocks have incredible long-term opportunities.
-
-The Motley Fool • 1h ago
-
----
-
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
-
-The New York Times • 16h ago
+CNBC • 16h ago
 
 ---
 
@@ -169,7 +133,29 @@ The New York Times • 16h ago
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 18h ago
+New York Magazine • 19h ago
+
+---
+
+**[Alibaba Teams With China’s Nuclear Leader to Power AI Expansion](https://www.bloomberg.com/news/articles/2026-01-21/alibaba-teams-with-china-s-nuclear-leader-to-power-ai-expansion)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[AVPN's AI Opportunity Fund Expands Regional Efforts to Build AI Skilling Infrastructure for a Future-Ready Workforce Across Asia-Pacific](https://finance.yahoo.com/news/avpns-ai-opportunity-fund-expands-043900659.html)**
+
+AVPN, the largest network of social investors in Asia, today announced three initiatives that further expand the impact of the AI Opportunity Fund: Asia-Pacific, supported by Google.org and the Asian Development Bank (ADB), which started as a USD 15 million Fund. Last year, the Fund expanded with an additional USD 10 million for Phase Two, which has selected 18 local training providers across Asia-Pacific.
+
+Yahoo Finance • 51m ago
+
+---
+
+**[What Can AI Actually Do? - Sponsor Content - Google](https://www.theatlantic.com/sponsored/google/what-can-ai-actually-do/4053/)**
+
+We asked 12 scientists, artists, and thought leaders to share how AI enabled them to create, explore, or understand something for the first time.
+
+The Atlantic • 37m ago
 
 ---
 
@@ -181,17 +167,31 @@ CNN • 2d ago
 
 ---
 
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
+
+The New York Times • 17h ago
+
+---
+
+**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
+
+AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+
+The Guardian • 2d ago
+
+---
+
+**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqeEPVn6ewZx1MErAtB8qEyfase6AUzEfJiYMV3ydvu9VFE-ujehV29q&gaa_ts=697067d5&gaa_sig=U4LO_ug5qiViSLAQwJGFXu3r9HERXqiCSIGj-wcFVjcdptBAE__et24V1FMDI-T0cIL13lha4hX-Q6tnXX_qRw%3D%3D)**
+
+The Wall Street Journal • 11h ago
+
+---
+
 **[House passes AI education bill for small businesses in overwhelming landslide 395-14 vote](https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote)**
 
 House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
 
 Fox News • 3h ago
-
----
-
-**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqcOkFBzam0PpFjmty25mpE_-5zaSqFv9agc-5uH62yJSjJO9Ri7hOgj&gaa_ts=69704f4b&gaa_sig=0e_srCHkn1qEiTFw5RarqY9VLs3_r25UFNE0t14ZcApww_X8KNXVx2qjXEM3oJgw1zwkRVj2ahu09B2IcLkfpg%3D%3D)**
-
-The Wall Street Journal • 10h ago
 
 ---
 
@@ -231,7 +231,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 117 • 💬 149 • 20h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 117 • 💬 149 • 21h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -271,7 +271,7 @@ With our homes and lives swarming with AI-powered devices, assistants and chatbo
 
 : PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 80 • 💬 52 • 9h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 80 • 💬 52 • 10h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -305,7 +305,7 @@ How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! �
 
 📺 Wholesale Ted
 
-👁️ 17K • 👍 2K • 💬 194 • ⏱️ 22:39 • 10h ago
+👁️ 17K • 👍 2K • 💬 194 • ⏱️ 22:39 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ Access Every Major AI Video Model in OpenArt https://youricreates.com/ai-video-g
 
 📺 Youri van Hofwegen
 
-👁️ 11K • 💬 12 • ⏱️ 15:36 • 12h ago
+👁️ 11K • 💬 12 • ⏱️ 15:36 • 13h ago
 
 ---
 
@@ -551,7 +551,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 31 • 💬 1 • ⭐ 3,053 • 8d ago
+▲ 31 • 💬 1 • ⭐ 3,053 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -655,7 +655,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.4k • 🔱 1.2k • 24s ago
+⭐ 9.4k • 🔱 1.2k • 45m ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 462 • 12h ago
+⭐ 8.9k • 🔱 462 • 13h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 377 • 6h ago
+⭐ 7.7k • 🔱 377 • 7h ago
 
 ---
 
@@ -685,7 +685,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 747 • 10h ago
+⭐ 5.9k • 🔱 747 • 11h ago
 
 ---
 
@@ -695,7 +695,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 875 • 17h ago
+⭐ 5.3k • 🔱 875 • 18h ago
 
 ---
 
@@ -705,7 +705,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.1k • 🔱 4.2k • 15h ago
+⭐ 4.1k • 🔱 4.2k • 16h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 303 • 58m ago
+⭐ 2.1k • 🔱 303 • 1h ago
 
 ---
 
