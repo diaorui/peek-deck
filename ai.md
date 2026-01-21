@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T20:33:14.867595+00:00'
+updated: '2026-01-21T21:29:42.824421+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 20:33 UTC  
+**Last Updated:** January 21, 2026 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 7h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-11m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 2h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ ElevenLabs, an AI voice-cloning company, is trying to court artists by offering 
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-17h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-55m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ The Wikimedia Foundation announced new partnerships with major artificial intell
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 1h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 I googled "what states don't have an I in the name" and the result essentially said "there are no states that dont have an "i". Here are some examples of states that HAVE "i". And listed a handful of states..and in the list literally i clouded "New Jersey" and "Arkansas" So then I googled "what states dont have an I in the name" (originally what I had googled, but I just quickly clicked the blue text that fixed my typo [dont > don't] for me. So all I did was click the back button because I swore I had caught a glimpse of the original answer is gave) low and behold.. the result was... "there are 25 states that do not contain the letter "i" in their names." ....WHAT?!
 
-14m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ I googled "what states don't have an I in the name" and the result essentially s
 
 https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ I finished recording a demo of "Function AI Agents" running natively on Salesfor
 
 **[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-The Information • 35m ago
+The Information • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Information • 35m ago
 
 SiriGPT?
 
-The Verge • 6m ago
+The Verge • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ BBC • 1d ago
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
 **[AI romance is not a bug](https://www.fastcompany.com/91477856/ai-romance-is-not-a-bug)**
 
-Fast Company • 18m ago
+Fast Company • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fast Company • 18m ago
 
 Scientists developed a detailed grading system by having the most popular AI chatbots play Dungeons & Dragons in real life.
 
-Yahoo • 20m ago
+Yahoo • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo • 20m ago
 
 AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
 
-NVIDIA Blog • 7h ago
+NVIDIA Blog • 8h ago
 
 ---
 
 **[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1h ago
 
 2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 14h ago
 
 The AI company is publishing a new "constitution" that teaches its chatbot how to think, not just what to do.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -209,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 284 • 💬 226 • 6h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 284 • 💬 226 • 7h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -223,7 +223,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 195 • 💬 130 • 13h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 195 • 💬 130 • 14h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -231,7 +231,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 183 • 💬 76 • 22h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 183 • 💬 76 • 23h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -261,7 +261,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 110 • 💬 127 • 6h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 110 • 💬 127 • 7h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -281,7 +281,17 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 23K • 👍 579 • 💬 232 • ⏱️ 12:14 • 1d ago
+👁️ 24K • 👍 617 • 💬 236 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[AI Bubble: Majority of companies report no payoff from AI adoption | Natasha Bernal](https://www.youtube.com/watch?v=xl86PtBmHDY)**
+
+If we don't have some good, positive stories here… there is going to be a repercussion across the market.” Without proper ...
+
+📺 The Tech Report
+
+👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 3h ago
 
 ---
 
@@ -291,27 +301,7 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Breaking Points
 
-👁️ 225K • 👍 6K • 💬 1K • ⏱️ 14:38 • 1d ago
-
----
-
-**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
-
-OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
-
-📺 Matthew Berman
-
-👁️ 76K • 👍 3K • 💬 591 • ⏱️ 18:33 • 1d ago
-
----
-
-**[STOP Paying: NEW FREE &amp; UNLIMITED AI Video Generator (With SOUND)](https://www.youtube.com/watch?v=WUtRdgR4muU)**
-
-Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/MALVAAIJAN4 100% ...
-
-📺 Malva AI
-
-👁️ 27K • 👍 994 • 💬 250 • ⏱️ 9:12 • 2d ago
+👁️ 230K • 👍 7K • 💬 1K • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -321,7 +311,27 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 97K • 👍 3K • 💬 790 • ⏱️ 1:39:31 • 1d ago
+👁️ 101K • 👍 3K • 💬 808 • ⏱️ 1:39:31 • 1d ago
+
+---
+
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
+
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
+
+📺 The Infographics Show
+
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 10:58 • 2d ago
+
+---
+
+**[IS 3I/ATLAS AN AI? Avi Loeb Reveals a Potential Interstellar Relic](https://www.youtube.com/watch?v=zaBZsJccDSE)**
+
+Avi Loeb, 3I/ATLAS, Interstellar AI. Astronomers estimate that there are up to 10000 interstellar objects drifting through our solar ...
+
+📺 The Cosmic Unknown — TCU
+
+👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 5h ago
 
 ---
 
@@ -331,7 +341,7 @@ The planet may remember more than we do. Long before written history, something 
 
 📺 KolaDepth
 
-👁️ 10K • 👍 263 • 💬 76 • ⏱️ 24:36 • 2d ago
+👁️ 10K • 👍 267 • 💬 77 • ⏱️ 24:36 • 2d ago
 
 ---
 
@@ -341,27 +351,17 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 7K • 👍 80 • 💬 28 • ⏱️ 5:39 • 7h ago
+👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 8h ago
 
 ---
 
-**[Don&#39;t Learn AI Without Learning these Fundamentals](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
+**[TikTok Reveals Ai Has Destroyed Modern Society…](https://www.youtube.com/watch?v=ModWqgKMz4k)**
 
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
+Should we just... let go of the hope that the AI bubble will eventually burst? -- FOLLOW ME: instagram: halohayleys tiktok: ...
 
-📺 Parker Prompts
+📺 Haylo Hayley
 
-👁️ 10K • 💬 13 • ⏱️ 10:12 • 7h ago
-
----
-
-**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
-
-Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
-
-📺 Bloomberg Live
-
-👁️ 63K • 👍 2K • 💬 216 • ⏱️ 26:04 • 1d ago
+👁️ 102K • 👍 9K • 💬 2K • ⏱️ 22:19 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Ishan Sharma
 
-👁️ 7K • 👍 839 • 💬 29 • ⏱️ 9:17 • 6h ago
+👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 7h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 876 • 1d ago
+⬇️ 69,491 • ❤️ 884 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 924 • 6d ago
+⬇️ 9,872 • ❤️ 926 • 6d ago
 
 ---
 
@@ -411,7 +411,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 442 • 6d ago
+⬇️ 43,156 • ❤️ 445 • 6d ago
 
 ---
 
@@ -421,7 +421,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 36,465 • ❤️ 365 • 2d ago
+⬇️ 36,465 • ❤️ 368 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,235 • 2d ago
+⬇️ 1,855,174 • ❤️ 1,237 • 2d ago
 
 ---
 
@@ -445,7 +445,17 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 272 • 6d ago
+⬇️ 33,057 • ❤️ 275 • 6d ago
+
+---
+
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+⬇️ 2,428 • ❤️ 245 • 21h ago
 
 ---
 
@@ -457,7 +467,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 24,712 • ❤️ 238 • 5d ago
+⬇️ 24,712 • ❤️ 242 • 5d ago
 
 ---
 
@@ -469,17 +479,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 61,107 • ❤️ 307 • 6d ago
-
----
-
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
-
-*NVIDIA*
-
-PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-
-⬇️ 2,428 • ❤️ 232 • 20h ago
+⬇️ 61,107 • ❤️ 309 • 6d ago
 
 ---
 
@@ -491,7 +491,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 20,655 • ❤️ 229 • 6d ago
+⬇️ 20,655 • ❤️ 230 • 6d ago
 
 ---
 
@@ -505,7 +505,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 25 • 💬 4 • ⭐ 1,238 • 6d ago
+▲ 28 • 💬 4 • ⭐ 1,238 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -543,7 +543,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 14 • 💬 3 • ⭐ 446 • 5d ago
+▲ 15 • 💬 3 • ⭐ 446 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -557,21 +557,9 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 34 • 💬 1 • ⭐ 3,096 • 9d ago
+▲ 35 • 💬 1 • ⭐ 3,096 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 0 • 💬 0 • ⭐ 1,875 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -621,9 +609,21 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,076 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,107 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
+
+---
+
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 0 • 💬 0 • ⭐ 1,881 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -649,7 +649,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 3h ago
+⭐ 9.5k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -659,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.3k • 🔱 487 • 1d ago
+⭐ 9.3k • 🔱 488 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 391 • 2h ago
+⭐ 8.0k • 🔱 394 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.3k • 🔱 783 • 1d ago
+⭐ 6.3k • 🔱 788 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 896 • 11h ago
+⭐ 5.3k • 🔱 896 • 12h ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 5h ago
+⭐ 4.3k • 🔱 4.4k • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 2.5k • 🔱 271 • 4d ago
+⭐ 2.6k • 🔱 290 • 5d ago
 
 ---
 
@@ -729,7 +729,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 311 • 16h ago
+⭐ 2.2k • 🔱 312 • 17h ago
 
 ---
 

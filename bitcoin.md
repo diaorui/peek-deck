@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T20:33:14.875059+00:00'
+updated: '2026-01-21T21:29:42.832965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 20:33 UTC  
+**Last Updated:** January 21, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.37B
+**Market Cap:** $1799.12B
 Rank #1
 
-**Circulating Supply:** 19,978,909 BTC
+**Circulating Supply:** 19,978,918 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-28.6%
 
 **All-Time Low:** $67.81
-+130429.4%
++132620.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 hold strong
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ hold strong
 
 Thank you for your attention to this matter.
 
-2h ago
+3h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Thank you for your attention to this matter.
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 21h ago
 
 ---
 
@@ -111,13 +111,13 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-15h ago
+16h ago
 
 ---
 
 **[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ and a small piece of me died again
 
 Traditional retirement accounts like 401(k)s typically expose you to full market risk with no principal guarantee, and high fees reduce your net returns. Is this a game changer? https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life
 
-12m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Traditional retirement accounts like 401(k)s typically expose you to full market
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-15h ago
+16h ago
 
 ---
 
@@ -141,13 +141,13 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
 
-5h ago
+6h ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Hey guys just wanted to drop a quick deep dive into how the security actually wo
 
 There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bitcoin Magazine • 1d ago
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 43m ago
+CNBC • 1h ago
 
 ---
 
@@ -197,19 +197,19 @@ CNBC • 43m ago
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqeHWBeFLtRuPtvgohEl6EF19PAbN2Ss_dn00pKlTAZ7yKsQ8LlDSd5O&gaa_ts=69713b6e&gaa_sig=jwBztSSZHQ3LTDDwHlE-9jTj_iT2OnLLv1thHZlA3Tpayvzsbjto_8fM8PUA4Z2FfRmYmr9WnOlBFJp_7gq_oA%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Block • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 10h ago
+KITCO • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 113 • ⏱️ 41:04 • 4h ago
+👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 5h ago
 
 ---
 
@@ -327,67 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 599 • 💬 77 • ⏱️ 20:50 • 7h ago
-
----
-
-**[Major Bitcoin Setback As 182,000 Traders Are Wiped Out!](https://www.youtube.com/watch?v=ikWpsze9-Xw)**
-
-Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy pressure this morning as a perfect storm of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 1K • 💬 138 • ⏱️ 42:24 • 5h ago
-
----
-
-**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 13K • 👍 721 • 💬 71 • ⏱️ 19:22 • 12h ago
-
----
-
-**[Bitcoin Holders... Listen Up](https://www.youtube.com/watch?v=fSGj_s22Icc)**
-
-https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 426 • 💬 69 • ⏱️ 12:17 • 11h ago
-
----
-
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 16K • 👍 362 • 💬 130 • ⏱️ 1:16 • 1d ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 17K • 👍 2K • 💬 157 • ⏱️ 18:43 • 6h ago
-
----
-
-**[Could This Single Announcement Send Bitcoin to $10 Million?](https://www.youtube.com/watch?v=hKlFmLnXyBs)**
-
-The financial system is more fragile than ever and central banks know it. From alien disclosure triggering panic to inflation making ...
-
-📺 Simply Bitcoin
-
-👁️ 41K • 👍 3K • 💬 316 • ⏱️ 21:56 • 1d ago
+👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 7h ago
 
 ---
 
@@ -397,17 +337,77 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 284 • ⏱️ 9:30 • 22h ago
+👁️ 66K • 👍 3K • 💬 288 • ⏱️ 9:30 • 23h ago
 
 ---
 
-**[URGENT: Bitcoin And Gold MAJOR MOVES AHEAD (Profit Guide With Bitget)](https://www.youtube.com/watch?v=nbFagJSU0tI)**
+**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
 
-Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macro events are making crypto more volatile and ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Discover Crypto
+📺 Satoshi Stacker
 
-👁️ 6K • 👍 241 • 💬 43 • ⏱️ 5:17 • 20h ago
+👁️ 14K • 👍 735 • 💬 66 • ⏱️ 19:22 • 13h ago
+
+---
+
+**[Major Bitcoin Setback As 182,000 Traders Are Wiped Out!](https://www.youtube.com/watch?v=ikWpsze9-Xw)**
+
+Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy pressure this morning as a perfect storm of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 6h ago
+
+---
+
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 17K • 👍 367 • 💬 130 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 23K • 👍 2K • 💬 156 • ⏱️ 18:43 • 7h ago
+
+---
+
+**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 4h ago
+
+---
+
+**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 895 • 💬 129 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[Michael Saylor Explains Why Bitcoin Doesn’t Need a New High](https://www.youtube.com/watch?v=Ey6aXnh2NKU)**
+
+Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Saylor explains why regulatory clarity, banking ...
+
+📺 Swan Bitcoin
+
+👁️ 16K • 👍 575 • 💬 31 • ⏱️ 1:32 • 1d ago
 
 ---
 

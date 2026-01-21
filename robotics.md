@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T20:33:14.883055+00:00'
+updated: '2026-01-21T21:29:42.842229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 20:33 UTC  
+**Last Updated:** January 21, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-12h ago
+13h ago
 
 ---
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I am invited to be interviewed with mujin and they sent out a coderpad tech assessment. What should I expect, I have 7 days to give the test and I would want to skim topics. I have done a lot of leetcode, but never coderpad question Applied for senior robotics software role.
 
-28m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ I am invited to be interviewed with mujin and they sent out a coderpad tech asse
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 Im a freshman at umich majoring in Computer Science and Robotics and I need some project ideas that involve coding in C++ for my resume. Any suggestions will be deeply appreciated
 
-24m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Im a freshman at umich majoring in Computer Science and Robotics and I need some
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-4h ago
+5h ago
 
 ---
 
@@ -116,7 +116,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -132,7 +132,7 @@ Financial Times • 1d ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Inc42 • 1d ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 6h ago
+Microsoft • 7h ago
 
 ---
 
@@ -194,23 +194,53 @@ wjon.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
+
+The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
+
+📺 Kalil 4.0
+
+👁️ 477 • 👍 13 • 💬 2 • ⏱️ 0:32 • 2h ago
+
+---
+
 **[AI&#39;s first kills are worse than we thought.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 403K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 405K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
 
 ---
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+**[War Robots - New Robot Ammit Unlocked! | Update 11.7](https://www.youtube.com/watch?v=QS_Ds0gN27I)**
 
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales drone and the Mei Lan pilot all at max level.
 
-📺 Ticker Symbol: YOU
+📺 Adrian Chong
 
-👁️ 144K • 👍 6K • 💬 391 • ⏱️ 17:36 • 6d ago
+👁️ 2K • 👍 171 • 💬 68 • ⏱️ 19:41 • 7h ago
+
+---
+
+**[This Robot is Learning to Disassemble Your Appliances](https://www.youtube.com/watch?v=-xbTJk3EIkQ)**
+
+This robot isn't recycling your appliances — it's learning how to take them apart to reuse the best parts. Panasonic's AI-driven ...
+
+📺 Undecided with Matt Ferrell
+
+👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 7h ago
+
+---
+
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+
+📺 CBC News: The National
+
+👁️ 16K • 👍 146 • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -224,73 +254,43 @@ Germany is rolling out AI-powered forklift robots that can move pallets, navigat
 
 ---
 
-**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-📺 Kalil 4.0
+📺 Ticker Symbol: YOU
 
-👁️ 1 • 👍 1 • ⏱️ 0:32 • 1h ago
-
----
-
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
-
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
-
-📺 Gohar Khan
-
-👁️ 351K • 👍 15K • 💬 223 • ⏱️ 0:49 • 6d ago
+👁️ 144K • 👍 6K • 💬 391 • ⏱️ 17:36 • 6d ago
 
 ---
 
-**[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
 
-HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
 
-📺 Deepen
+📺 Stay Wild
 
-👁️ 24K • 👍 294 • 💬 4 • ⏱️ 0:23 • 5d ago
-
----
-
-**[How Real Robots Are Actually Built](https://www.youtube.com/watch?v=oXZ9rYnfgRw)**
-
-Most people think robots start with code. They don't. This is the part of robotics engineering most beginners skip — design, ...
-
-📺 MechaMind Labs
-
-👁️ 494 • 👍 7 • 💬 2 • ⏱️ 1:08 • 14h ago
+👁️ 2.7M • 👍 31K • 💬 2K • ⏱️ 33:05 • 3d ago
 
 ---
 
-**[This Silicone Robot Arm Mimics Octopus Tentacles and Lifts 260x Times Its Weight](https://www.youtube.com/watch?v=dx7loyXWIAM)**
+**[Scientists Create World Smallest Robot](https://www.youtube.com/watch?v=bKgmRhGzUDk)**
 
-Harvard's Wyss Institute built a robotic arm inspired by octopus tentacles that's deceptively powerful—despite being made from ...
+Scientists have developed autonomous microrobots smaller than a grain of salt that can swim using electrokinetic propulsion ...
 
-📺 AI Disruptor
+📺 Dr Ben Miles
 
-👁️ 48K • 👍 303 • 💬 10 • ⏱️ 0:10 • 5d ago
-
----
-
-**[Humanoid Robots Are REAL  Watch Figure AI Run!](https://www.youtube.com/watch?v=FbxRqAeI8yY)**
-
-A humanoid robot just ran like a human, and this changes everything for robotics. Watch the full video to see why this matters.
-
-📺 DPCcars
-
-👁️ 14K • 👍 147 • 💬 14 • ⏱️ 0:24 • 5d ago
+👁️ 171K • 👍 14K • 💬 424 • ⏱️ 1:35 • 3d ago
 
 ---
 
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+**[This robot can shape shift his body to avoid gaps](https://www.youtube.com/watch?v=LxDpCmyEMsc)**
 
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+CONTINUOUS TRACK ROBOT https://www.youtube.com/watch?v=L_seM8sRPik For copyright matters, please get in touch with ...
 
-📺 KhanFlicks
+📺 Unstoppable Gadgets
 
-👁️ 74K • 💬 36 • ⏱️ 12:09 • 4d ago
+👁️ 27K • 👍 980 • 💬 15 • ⏱️ 0:20 • 1d ago
 
 ---
 
