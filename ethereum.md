@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T03:45:45.067883+00:00'
+updated: '2026-01-21T04:45:30.743096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 03:45 UTC  
+**Last Updated:** January 21, 2026 at 04:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,945.56
+### $2,982.69
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.11B
+**Market Cap:** $359.47B
 Rank #2
 
 **Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.8%
 
 **All-Time Low:** $0.43
-+685071.8%
++687884.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 4h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 5h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 3h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 4h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and i
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 8h ago
+dlnews.com • 9h ago
 
 ---
 
@@ -176,13 +176,13 @@ CoinDesk • 1d ago
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqedADTplYQLDMp7vz0WyqTBRjsxY1jlA5d-6p7Xh9wXKL4JLrBX50wU&gaa_ts=69704f4e&gaa_sig=LXPhQkKM7M3ZKVLTKCrkpjk9T7UWFJIKffEuA6h3T264dNHf6WaMIWEZWORYiw-wy9fNrZnFIASt0rG-mV08bg%3D%3D)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -190,7 +190,7 @@ MarketWatch • 12h ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ Decrypt • 1d ago
 
 **[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqckWgL-sz2ctHT-yIoXn6_B2sJBodsCRUvj8tIeY7W0by-0qhmZTnkX&gaa_ts=69704f4e&gaa_sig=bxd95b1ouQ6jYfpXp_PSQ0ZR6YvJ4l0fsUteXMXSvCEhFIxjcjhnTlVcTqyrbSN63wusYcGPmp5clqP-BZXX5g%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -212,7 +212,7 @@ Barron's • 18h ago
 
 Key PointsCryptocurrencies are not stocks.
 
-Nasdaq • 15h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -234,7 +234,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 504 • 👍 59 • 💬 9 • ⏱️ 7:43 • 4h ago
+👁️ 669 • 👍 90 • 💬 9 • ⏱️ 7:43 • 5h ago
+
+---
+
+**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
+
+BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 9h ago
+
+---
+
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 15h ago
+
+---
+
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 19K • 👍 1K • 💬 282 • ⏱️ 16:10 • 15h ago
 
 ---
 
@@ -248,73 +278,23 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 132 • 💬 3 • ⏱️ 5:30 • 13h ago
-
----
-
 **[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 663 • 👍 13 • 💬 13 • ⏱️ 4:56 • 18h ago
+👁️ 680 • 👍 14 • 💬 13 • ⏱️ 4:56 • 19h ago
 
 ---
 
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Stock Moe
+📺 More Crypto Online
 
-👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 14h ago
-
----
-
-**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
-
-BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 323 • 💬 100 • ⏱️ 21:23 • 8h ago
-
----
-
-**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 19K • 👍 1K • 💬 285 • ⏱️ 16:10 • 14h ago
-
----
-
-**[⚰️ BREAKING 🪦 Crypto COLLAPSE ☠️ Bitcoin &amp; Ethereum Destroyed. Game Over?](https://www.youtube.com/watch?v=JngZcXnayas)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 895 • 👍 136 • 💬 26 • ⏱️ 13:29 • 4h ago
-
----
-
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 7K • 👍 229 • 💬 87 • ⏱️ 1:16 • 7h ago
+👁️ 2K • 👍 133 • 💬 1 • ⏱️ 5:30 • 14h ago
 
 ---
 
@@ -324,7 +304,27 @@ BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethere
 
 📺 Fundatech Insights
 
-👁️ 74 • 👍 4 • ⏱️ 7:10 • 8h ago
+👁️ 103 • 👍 7 • ⏱️ 7:10 • 9h ago
+
+---
+
+**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
+
+In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
+
+📺 Charts & Cars by Philip Klinkmüller
+
+👁️ 10K • 👍 1K • 💬 35 • ⏱️ 30:52 • 11h ago
+
+---
+
+**[Time Is Running Out For Ethereum! 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=aYL-Fui2wBE)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 8K • 👍 296 • 💬 25 • ⏱️ 9:21 • 2d ago
 
 ---
 
