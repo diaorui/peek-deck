@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T19:28:16.498477+00:00'
+updated: '2026-01-21T19:52:41.075136+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 19:28 UTC  
+**Last Updated:** January 21, 2026 at 19:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey folks, I am looking to dip my toes into the ROS ecosystem for some more comp
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Secured an internship at FANUC, working around industrial robotics and automatio
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 1 • 👍 1 • ⏱️ 0:32 • 1m ago
+👁️ 1 • 👍 1 • ⏱️ 0:32 • 25m ago
 
 ---
 

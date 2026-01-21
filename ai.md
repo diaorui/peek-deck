@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T19:28:16.479992+00:00'
+updated: '2026-01-21T19:52:41.057316+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 19:28 UTC  
+**Last Updated:** January 21, 2026 at 19:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-15h ago
+16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 4m ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 28m ago
 
 ---
 
@@ -89,7 +89,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
 
-11m ago
+35m ago
 
 ---
 
@@ -105,7 +105,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 too few disturbances are also a sign of goings on sometimes, though one must always be on the rookout for enemies
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 1h ago
 
 **[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -155,13 +155,13 @@ Reuters • 6h ago
 
 The measure also says people have a right to know whether political advertisements were created in whole or in part with the use of artificial intelligence.
 
-wesh.com • 10m ago
+wesh.com • 34m ago
 
 ---
 
 **[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
 
-The New York Times • 4m ago
+The New York Times • 28m ago
 
 ---
 
@@ -213,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 281 • 💬 223 • 5h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 281 • 💬 223 • 6h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -227,7 +227,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 194 • 💬 127 • 12h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 194 • 💬 127 • 13h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -295,7 +295,7 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Breaking Points
 
-👁️ 225K • 👍 6K • 💬 1K • ⏱️ 14:38 • 23h ago
+👁️ 225K • 👍 6K • 💬 1K • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -345,7 +345,7 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 7K • 👍 80 • 💬 28 • ⏱️ 5:39 • 6h ago
+👁️ 7K • 👍 80 • 💬 28 • ⏱️ 5:39 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 10K • 💬 13 • ⏱️ 10:12 • 5h ago
+👁️ 10K • 💬 13 • ⏱️ 10:12 • 6h ago
 
 ---
 
@@ -375,7 +375,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Ishan Sharma
 
-👁️ 7K • 👍 839 • 💬 29 • ⏱️ 9:17 • 5h ago
+👁️ 7K • 👍 839 • 💬 29 • ⏱️ 9:17 • 6h ago
 
 ---
 
@@ -653,7 +653,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 2h ago
+⭐ 9.5k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -693,7 +693,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 896 • 10h ago
+⭐ 5.3k • 🔱 896 • 11h ago
 
 ---
 
@@ -703,7 +703,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 4h ago
+⭐ 4.3k • 🔱 4.4k • 5h ago
 
 ---
 
@@ -733,7 +733,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 311 • 15h ago
+⭐ 2.2k • 🔱 311 • 16h ago
 
 ---
 

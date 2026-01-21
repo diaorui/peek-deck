@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T19:28:16.488336+00:00'
+updated: '2026-01-21T19:52:41.065842+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 19:28 UTC  
+**Last Updated:** January 21, 2026 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,7 +103,7 @@ Thank you for your attention to this matter.
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 19h ago
 
 ---
 
@@ -119,7 +119,7 @@ and a small piece of me died again
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-14h ago
+15h ago
 
 ---
 
@@ -173,13 +173,13 @@ The Motley Fool • 4h ago
 
 The first-of-its-kind FIA, according to the companies, offers crypto exposure with principal protection, aiming to attract cautious investors near retirement.
 
-CoinDesk • 7m ago
+CoinDesk • 31m ago
 
 ---
 
 **[Bitcoin erases 2026 gains despite Trump’s bullish Davos remarks](https://uk.finance.yahoo.com/video/bitcoin-erases-2026-gains-despite-190312613.html)**
 
-Yahoo Finance UK • 25m ago
+Yahoo Finance UK • 49m ago
 
 ---
 
@@ -191,7 +191,7 @@ MarketWatch • 9h ago
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 9h ago
+KITCO • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 113 • ⏱️ 41:04 • 3h ago
+👁️ 20K • 👍 1K • 💬 113 • ⏱️ 41:04 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 599 • 💬 77 • ⏱️ 20:50 • 5h ago
+👁️ 6K • 👍 599 • 💬 77 • ⏱️ 20:50 • 6h ago
 
 ---
 
@@ -365,7 +365,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 362 • 💬 130 • ⏱️ 1:16 • 22h ago
+👁️ 16K • 👍 362 • 💬 130 • ⏱️ 1:16 • 23h ago
 
 ---
 
@@ -395,7 +395,7 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 284 • ⏱️ 9:30 • 21h ago
+👁️ 63K • 👍 3K • 💬 284 • ⏱️ 9:30 • 22h ago
 
 ---
 

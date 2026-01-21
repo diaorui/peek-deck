@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T19:28:16.494547+00:00'
+updated: '2026-01-21T19:52:41.071894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 19:28 UTC  
+**Last Updated:** January 21, 2026 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-8h ago
+9h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 23h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView — Track All Markets • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) steadied on Wednesday, after correcting by nearly 5%, 10% and 5%, respectively, so far this week. BTC slips below $90,000, while ETH and XRP close below their key daily supports.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 10 • ⏱️ 7:43 • 19h ago
+👁️ 2K • 👍 128 • 💬 10 • ⏱️ 7:43 • 20h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 239 • 👍 18 • 💬 2 • ⏱️ 5:25 • 9h ago
+👁️ 239 • 👍 18 • 💬 2 • ⏱️ 5:25 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 12K • 👍 413 • 💬 184 • ⏱️ 21:23 • 23h ago
+👁️ 12K • 👍 413 • 💬 184 • ⏱️ 21:23 • 1d ago
 
 ---
 
@@ -314,7 +314,7 @@ BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethere
 
 📺 Fundatech Insights
 
-👁️ 182 • 👍 8 • ⏱️ 7:10 • 23h ago
+👁️ 182 • 👍 8 • ⏱️ 7:10 • 1d ago
 
 ---
 
