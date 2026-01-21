@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T21:53:54.481995+00:00'
+updated: '2026-01-21T22:26:45.181492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 21:53 UTC  
+**Last Updated:** January 21, 2026 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-13h ago
+14h ago
 
 ---
 
@@ -96,13 +96,13 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 23h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 21h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 11h ago
 
 Younger Americans may find it increasingly difficult to afford a home, but Newrez thinks Bitcoin and Ethereum could help change that.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 9 • ⏱️ 6:37 • 9h ago
+👁️ 2K • 👍 131 • 💬 9 • ⏱️ 6:37 • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 577 • 👍 81 • 💬 1 • ⏱️ 19:04 • 3h ago
+👁️ 577 • 👍 81 • 💬 1 • ⏱️ 19:04 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 329 • 👍 45 • ⏱️ 19:48 • 49m ago
+👁️ 329 • 👍 45 • ⏱️ 19:48 • 1h ago
 
 ---
 
@@ -324,7 +324,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Aderty
 
-👁️ 1K • 👍 1K • 30m ago
+👁️ 1K • 👍 1K • 1h ago
 
 ---
 

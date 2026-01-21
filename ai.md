@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T21:53:54.466755+00:00'
+updated: '2026-01-21T22:26:45.167089+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 21:53 UTC  
+**Last Updated:** January 21, 2026 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 8h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Wikimedia Foundation announced new partnerships with major artificial intell
 
 https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ I finished recording a demo of "Function AI Agents" running natively on Salesfor
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 14h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 15h ago
 
 ---
 
@@ -123,13 +123,13 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 **[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-The Information • 1h ago
+The Information • 2h ago
 
 ---
 
 **[Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI](https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 1h ago
 
 Exclusive: Macworld got a look at the internal AI tools Apple is using to bolster its workforce.
 
-Macworld • 3h ago
+Macworld • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ Macworld • 3h ago
 
 AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
 
-NVIDIA Blog • 8h ago
+NVIDIA Blog • 9h ago
 
 ---
 
@@ -153,7 +153,7 @@ NVIDIA Blog • 8h ago
 
 Jensen on Wednesday sat down with BlackRock CEO Larry Fink at the World Economic Forum in Davos, Switzerland.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 2h ago
 
 **[House Seeks More Say in AI Chip Exports After Nvidia’s China Win](https://www.bloomberg.com/news/articles/2026-01-21/house-seeks-more-say-in-ai-chip-exports-after-nvidia-s-china-win)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 43m ago
 
 The bill gives Congress more licence to block AI exports to China and other US political adversaries.
 
-Al Jazeera • 19m ago
+Al Jazeera • 52m ago
 
 ---
 
@@ -189,7 +189,7 @@ Al Jazeera • 19m ago
 
 AI is still the prevailing theme in the stock market.
 
-The Motley Fool • 7m ago
+The Motley Fool • 40m ago
 
 ---
 
@@ -231,7 +231,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 185 • 💬 76 • 23h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 185 • 💬 76 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -261,7 +261,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 113 • 💬 135 • 7h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 113 • 💬 135 • 8h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -331,7 +331,7 @@ Avi Loeb, 3I/ATLAS, Interstellar AI. Astronomers estimate that there are up to 1
 
 📺 The Cosmic Unknown — TCU
 
-👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 5h ago
+👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 6h ago
 
 ---
 
@@ -455,7 +455,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 2,428 • ❤️ 245 • 21h ago
+⬇️ 2,428 • ❤️ 245 • 22h ago
 
 ---
 
@@ -479,7 +479,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 61,107 • ❤️ 309 • 6d ago
+⬇️ 61,107 • ❤️ 309 • 7d ago
 
 ---
 
@@ -669,7 +669,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 394 • 1h ago
+⭐ 8.0k • 🔱 394 • 2h ago
 
 ---
 
