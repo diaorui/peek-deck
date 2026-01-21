@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T22:54:51.015554+00:00'
+updated: '2026-01-21T23:26:51.437082+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 22:54 UTC  
+**Last Updated:** January 21, 2026 at 23:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 9h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Wikimedia Foundation announced new partnerships with major artificial intell
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisting the panic within Hollywood about the potential impact of AI “actors” is “bulls**t.”
 
-🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 9m ago
+🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 41m ago
 
 ---
 
@@ -105,7 +105,7 @@ Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisti
 
 Back at CES earlier this month AMD talked up features of the ROCm 7.2 release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2-Released) • 28m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2-Released) • 1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Back at CES earlier this month AMD talked up features of the ROCm 7.2 release
 
 https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 **[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 2h ago
 
 Jensen on Wednesday sat down with BlackRock CEO Larry Fink at the World Economic Forum in Davos, Switzerland.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 3h ago
 
 "The decisions made in corporate boardrooms not only shape a company’s trajectory, but can also create ripple effects."
 
-Time Magazine • 39m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Time Magazine • 39m ago
 
 The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.
 
-TechCrunch • 35m ago
+TechCrunch • 1h ago
 
 ---
 
 **[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-The Information • 2h ago
+The Information • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Information • 2h ago
 
 The iPhone maker might be preparing to battle OpenAI's own family of AI gadgets.
 
-Gizmodo • 24m ago
+Gizmodo • 56m ago
 
 ---
 
@@ -265,7 +265,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 113 • 💬 137 • 8h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 113 • 💬 137 • 9h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -335,7 +335,7 @@ Avi Loeb, 3I/ATLAS, Interstellar AI. Astronomers estimate that there are up to 1
 
 📺 The Cosmic Unknown — TCU
 
-👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 6h ago
+👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 7h ago
 
 ---
 
@@ -459,7 +459,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 2,428 • ❤️ 245 • 22h ago
+⬇️ 2,428 • ❤️ 245 • 23h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 394 • 2h ago
+⭐ 8.0k • 🔱 394 • 3h ago
 
 ---
 

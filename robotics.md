@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T22:54:51.033235+00:00'
+updated: '2026-01-21T23:26:51.455155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 22:54 UTC  
+**Last Updated:** January 21, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-7h ago
+8h ago
 
 ---
 
@@ -120,13 +120,13 @@ Financial Times • 1d ago
 
 **[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
-The Business Journals • 23h ago
+The Business Journals • 1d ago
 
 ---
 
 **[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
 
-EE Times • 3h ago
+EE Times • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ EE Times • 3h ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -172,7 +172,7 @@ Inc42 • 1d ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 8h ago
+Microsoft • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 2K • 👍 171 • 💬 68 • ⏱️ 19:41 • 8h ago
+👁️ 2K • 👍 171 • 💬 68 • ⏱️ 19:41 • 9h ago
 
 ---
 
