@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T21:29:42.824421+00:00'
+updated: '2026-01-21T21:53:54.466755+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 21:29 UTC  
+**Last Updated:** January 21, 2026 at 21:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Nvidia CEO says AI needs more investment in defiance of bubble fears](https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/)**
-
-Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 8h ago
-
----
-
 **[What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?](https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/)**
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
@@ -53,11 +45,27 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 ---
 
+**[Nvidia CEO says AI needs more investment in defiance of bubble fears](https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/)**
+
+Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
+
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 8h ago
+
+---
+
+**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
+
+i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
+
+4h ago
+
+---
+
 **[Liza Minnelli is among the artists who collaborated on a new AI-generated album](https://www.reddit.com/r/artificial/comments/1qj4vi8/liza_minnelli_is_among_the_artists_who/)**
 
 ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 4h ago
 
 ---
 
@@ -73,31 +81,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-1h ago
-
----
-
-**[Has Gemini surpassed ChatGPT? We put the AI models to the test.](https://www.reddit.com/r/artificial/comments/1qj7ho7/has_gemini_surpassed_chatgpt_we_put_the_ai_models/)**
-
-Did Apple make the right choice in partnering with Google for Siri's AI features?
-
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 2h ago
-
----
-
-**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
-
-i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
-
-4h ago
-
----
-
-**[I just googled the same thing, with very slight spelling, and got two completely different AI answers..one very obviously wrong](https://www.reddit.com/r/artificial/comments/1qj8zb2/i_just_googled_the_same_thing_with_very_slight/)**
-
-I googled "what states don't have an I in the name" and the result essentially said "there are no states that dont have an "i". Here are some examples of states that HAVE "i". And listed a handful of states..and in the list literally i clouded "New Jersey" and "Arkansas" So then I googled "what states dont have an I in the name" (originally what I had googled, but I just quickly clicked the blue text that fixed my typo [dont > don't] for me. So all I did was click the back button because I swore I had caught a glimpse of the original answer is gave) low and behold.. the result was... "there are 25 states that do not contain the letter "i" in their names." ....WHAT?!
-
-1h ago
+2h ago
 
 ---
 
@@ -109,11 +93,27 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 ---
 
+**[Has Gemini surpassed ChatGPT? We put the AI models to the test.](https://www.reddit.com/r/artificial/comments/1qj7ho7/has_gemini_surpassed_chatgpt_we_put_the_ai_models/)**
+
+Did Apple make the right choice in partnering with Google for Siri's AI features?
+
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 2h ago
+
+---
+
 **[Built Function AI Agents for Salesforce - LLM orchestrates multi-step workflows with HITL approvals, error recovery, and intelligent filtering](https://www.reddit.com/r/artificial/comments/1qj7aqd/built_function_ai_agents_for_salesforce_llm/)**
 
 I finished recording a demo of "Function AI Agents" running natively on Salesforce. The core idea: instead of hard-coded flows, you give an LLM natural language instructions + a set of tools (capabilities), and it orchestrates the entire workflow - deciding what to call, when, and with what parameters. FYI: This is already an open source project, Licensed under Mozilla Public License 2.0 (MPL-2.0) What it does: Human-in-the-Loop Approvals - The LLM decides when approval is needed (e.g., "accounts over $50M require approval"), generates business reasoning, pauses execution, and resumes based on approval/rejection. No hard-coded approval rules. Intelligent Filtering - Agent scores an account at 40/100, sees it's below the 50 threshold, immediately stops. No wasted API calls. Error Recovery - Tool fails at step 5 of 10? Fix the issue and resume from step 5. Doesn't restart from scratch. Cost Efficiency - The entire demo runs on GPT-4o Mini (the laziest, cheapest model) for under a cent per execution. If that works, flagship models should be bulletproof. Tech Stack: Built entirely in Apex (no external servers) Runs natively on Salesforce Platform Works with any LLM provider (OpenAI, Claude, Gemini, etc.) Custom "Storyboard" component for full observability - every LLM request, tool call, and decision is logged and visualized Links: Demo Video: https://www.youtube.com/watch?v=-y9qDDPal0U Docs: https://iamsonal.github.io/aiAgentStudio/ Source Code: https://github.com/iamsonal/aiAgentStudio Happy to answer questions. Original post: https://www.linkedin.com/posts/thesonal_function-agents-in-salesforce-ai-that-makes-share-7419765729903722496-bcbA
 
 2h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.reddit.com/r/artificial/comments/1qir8b8/ai_is_scoring_college_essays_and_conducting/)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 14h ago
 
 ---
 
@@ -127,39 +127,17 @@ The Information • 1h ago
 
 ---
 
-**[Apple is turning Siri into an AI bot that’s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)**
+**[Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI](https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai)**
 
-SiriGPT?
-
-The Verge • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[They hear, but do they care? What AI can teach us about listening better](https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen)**
+**[Inside Enchanté, Apple’s AI chatbot for employee productivity](https://www.macworld.com/article/3038122/inside-enchante-apples-ai-chatbot-for-employee-productivity.html)**
 
-AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening?
+Exclusive: Macworld got a look at the internal AI tools Apple is using to bolster its workforce.
 
-BBC • 1d ago
-
----
-
-**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
-
-Reuters • 8h ago
-
----
-
-**[AI romance is not a bug](https://www.fastcompany.com/91477856/ai-romance-is-not-a-bug)**
-
-Fast Company • 1h ago
-
----
-
-**[Dungeons & Dragons puts top AI models to the test](https://www.yahoo.com/news/articles/dungeons-dragons-puts-top-ai-201229809.html)**
-
-Scientists developed a detailed grading system by having the most popular AI chatbots play Dungeons & Dragons in real life.
-
-Yahoo • 1h ago
+Macworld • 3h ago
 
 ---
 
@@ -171,25 +149,47 @@ NVIDIA Blog • 8h ago
 
 ---
 
-**[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
+**[Nvidia CEO Jensen Huang says AI won't be the job killer everyone fears. Here's why](https://www.cnbc.com/2026/01/21/nvidia-ceo-jensen-huang-says-ai-wont-be-the-job-killer-everyone-fears-heres-why.html)**
 
-The New York Times • 2h ago
+Jensen on Wednesday sat down with BlackRock CEO Larry Fink at the World Economic Forum in Davos, Switzerland.
 
----
-
-**[Deutsche Bank declares 'the honeymoon is over for AI' —‎ here's why](https://www.cnbc.com/2026/01/21/-duetsche-bank-honeymoon-is-over-for-ai-explain-why.html)**
-
-2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
-
-CNBC • 15h ago
+CNBC • 56m ago
 
 ---
 
-**[Anthropic rewrites Claude’s guiding principles—and reckons with the possibility of AI consciousness](https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/)**
+**[Rollout of AI may need to be slowed to ‘save society’, says JP Morgan boss](https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang)**
 
-The AI company is publishing a new "constitution" that teaches its chatbot how to think, not just what to do.
+Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
 
-Fortune • 5h ago
+The Guardian • 2h ago
+
+---
+
+**[US House panel advances bill to give Congress authority over AI chip exports](https://www.reuters.com/legal/litigation/us-house-panel-vote-bill-give-congress-authority-over-ai-chip-exports-2026-01-21/)**
+
+Reuters • 2h ago
+
+---
+
+**[House Seeks More Say in AI Chip Exports After Nvidia’s China Win](https://www.bloomberg.com/news/articles/2026-01-21/house-seeks-more-say-in-ai-chip-exports-after-nvidia-s-china-win)**
+
+Bloomberg.com • 43m ago
+
+---
+
+**[US House panel advances bill to give Congress authority on AI chip exports](https://www.aljazeera.com/economy/2026/1/21/us-house-panel-advances-bill-to-give-congress-authority-on-ai-chip-exports)**
+
+The bill gives Congress more licence to block AI exports to China and other US political adversaries.
+
+Al Jazeera • 19m ago
+
+---
+
+**[3 of My Top 4 AI Stock Picks for 2025 Rose At Least 38%. Are They Still Best Buys for 2026?](https://www.fool.com/investing/2026/01/21/3-of-my-top-4-ai-stocks-for-2025-rose-at-least-39/)**
+
+AI is still the prevailing theme in the stock market.
+
+The Motley Fool • 7m ago
 
 ---
 
@@ -209,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 284 • 💬 226 • 7h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 285 • 💬 230 • 8h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -223,7 +223,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 195 • 💬 130 • 14h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 198 • 💬 132 • 15h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -231,7 +231,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 183 • 💬 76 • 23h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 185 • 💬 76 • 23h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -261,7 +261,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 110 • 💬 127 • 7h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 113 • 💬 135 • 7h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -291,7 +291,7 @@ If we don't have some good, positive stories here… there is going to be a repe
 
 📺 The Tech Report
 
-👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 3h ago
+👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 8h ago
+👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Should we just... let go of the hope that the AI bubble will eventually burst? -
 
 📺 Ishan Sharma
 
-👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 7h ago
+👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 8h ago
 
 ---
 
@@ -649,7 +649,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 4h ago
+⭐ 9.5k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 896 • 12h ago
+⭐ 5.3k • 🔱 896 • 13h ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 6h ago
+⭐ 4.3k • 🔱 4.4k • 7h ago
 
 ---
 
@@ -729,7 +729,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 312 • 17h ago
+⭐ 2.2k • 🔱 312 • 18h ago
 
 ---
 

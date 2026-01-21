@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T21:29:42.842229+00:00'
+updated: '2026-01-21T21:53:54.485285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 21:29 UTC  
+**Last Updated:** January 21, 2026 at 21:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-13h ago
+14h ago
 
 ---
 
@@ -52,25 +52,9 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 ---
 
-**[Mujin Tech assessment](https://www.reddit.com/r/robotics/comments/1qj8lwi/mujin_tech_assessment/)**
-
-I am invited to be interviewed with mujin and they sent out a coderpad tech assessment. What should I expect, I have 7 days to give the test and I would want to skim topics. I have done a lot of leetcode, but never coderpad question Applied for senior robotics software role.
-
-1h ago
-
----
-
 **[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
-
-6h ago
-
----
-
-**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
-
-I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
 6h ago
 
@@ -84,11 +68,11 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 ---
 
-**[Software Projects](https://www.reddit.com/r/robotics/comments/1qj8pn4/software_projects/)**
+**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
 
-Im a freshman at umich majoring in Computer Science and Robotics and I need some project ideas that involve coding in C++ for my resume. Any suggestions will be deeply appreciated
+I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-1h ago
+6h ago
 
 ---
 
@@ -96,7 +80,7 @@ Im a freshman at umich majoring in Computer Science and Robotics and I need some
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-5h ago
+6h ago
 
 ---
 
@@ -108,15 +92,29 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
+**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
+
+Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
+
+7h ago
+
+---
+
+**[Getting started with ROS-I](https://www.reddit.com/r/robotics/comments/1qj3p02/getting_started_with_rosi/)**
+
+Hey folks, I am looking to dip my toes into the ROS ecosystem for some more complex problems that need solving. Generally, we would be pulling in 2d/3d sensor data, running vision, and controlling an industrial robot or three. The pitch behind ROS-I seems pretty compelling in the sense that the framework is designed for these types of tasks (rather than say, a wheeled rover) and has support from some OEMs and other commercial entities in the space. I am very new to ROS and Linux in general, having just recently installed ubuntu on WSL for ROS2 and getting nvidia CUDA running. Can anyone point me in the direction of a good tutorial that would cover getting ROS-I installed? I have found a few good ones for doing a first project, but they are generally assuming everything is ready to go and/or the user has some good familiarity with ROS already. Any tips or advice is appreciated. Thanks!
+
+4h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
-
-Yahoo Finance • 22h ago
+The Business Journals • 22h ago
 
 ---
 
@@ -136,25 +134,17 @@ CNBC • 8h ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 2d ago
-
----
-
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
 Reuters • 1d ago
 
 ---
 
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Interesting Engineering • 2d ago
+Fortune • 2d ago
 
 ---
 
@@ -166,6 +156,14 @@ Inc42 • 1d ago
 
 ---
 
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 2d ago
+
+---
+
 **[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
@@ -174,19 +172,19 @@ Microsoft • 7h ago
 
 ---
 
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
-
-China adopts robotics faster than western counterparts
-
-Tom's Hardware • 2d ago
-
----
-
 **[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
 wjon.com • 1d ago
+
+---
+
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+
+China adopts robotics faster than western counterparts
+
+Tom's Hardware • 2d ago
 
 ---
 
@@ -230,7 +228,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 7h ago
+👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 8h ago
 
 ---
 

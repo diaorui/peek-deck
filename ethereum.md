@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T21:29:42.838997+00:00'
+updated: '2026-01-21T21:53:54.481995+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 21:29 UTC  
+**Last Updated:** January 21, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,953.35
+### $3,019.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -9.2%  
-**30d:** +1.6%  
-**90d:** -23.5%  
-**1y:** -7.0%  
+**24h:** +2.9%  
+**7d:** -8.4%  
+**30d:** +2.5%  
+**90d:** -22.8%  
+**1y:** -6.2%  
 
 ---
 
@@ -88,15 +88,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-10h ago
-
----
-
-**[Looking for bulk USDT sellers. We are buying USDT in bulk. Deal is done in 20-30 mins. Qty: 1crs/day](https://www.reddit.com/r/ethereum/comments/1qj7qdn/looking_for_bulk_usdt_sellers_we_are_buying_usdt/)**
-
-Hi everyone, looking to buy USDT in bulk Qty- 1 cr/day i want low and good rate Looking for sellers in preferably in Mumbai, otherwise Delhi, Rajasthan, Gujarat. payment can be done in both bank account online or cash /f2f i prefer cash. i just want good rate i am daily buyer. i prefer cash india based national deals but i have no issues with international deals too. Dm me , i have urgent need of usdt.
-
-1h ago
+11h ago
 
 ---
 
@@ -146,6 +138,14 @@ Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor
 
 ---
 
+**[Daily General Discussion January 19, 2026](https://www.reddit.com/r/ethereum/comments/1qgw5tc/daily_general_discussion_january_19_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -172,7 +172,7 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdmWTec1qDht3kuSlo-UEBc8Q9bu3787yPsnj7i4gcUCeNWQYBsVQka&gaa_ts=69713b70&gaa_sig=O5xIIn2EzWukrrLpnfUi-ne3hDeX87uMz7-_AFMbOiFsLW8CCEnR1RpfOAPpw37zZ_rT4E46FsZNbDpw5VC4QQ%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqc9zzCr5AqyjhYCb_EfUg45ZDRxGsfGgvVxIAObsowAdv_aL58pOHvJ&gaa_ts=69714e56&gaa_sig=K2PP7ArkYmwly63stoF9H530aWmaIyR-tYD3WrWPdD0rbZwPN0EuhkFv4l0H0_QrNhGt3nwyodAp1y0hkIhvqA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -186,25 +186,33 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqdQrHL3B2Lxyq8EGyDTMrTnQDyuL1RBEeYRaazfj-jjFPAWDf2xbN6y&gaa_ts=69713b70&gaa_sig=tcsfxurS1XOwPEJieCQy9OIUznVE0Sx5DFAO2GgCdGjw5r6o-e5Nu9Jkc1vpZjr2tb8u4WCHodQWQzxSoxujRw%3D%3D)**
+**[Why are Bitcoin, Ethereum and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:f744deb43094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+
+Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend correction as bearish pressure persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-correction-as-bearish-pressure-persists-202601210349)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) steadied on Wednesday, after correcting by nearly 5%, 10% and 5%, respectively, so far this week. BTC slips below $90,000, while ETH and XRP close below their key daily supports.
+
+FXStreet • 18h ago
+
+---
+
+**[What Is the NYSE Blockchain Platform? Why Execs Are ‘Bullish’—and Traders Are Speculating on Ethereum, XRP](https://finance.yahoo.com/news/nyse-blockchain-platform-why-execs-121156839.html)**
+
+NYSE is building a regulated blockchain infrastructure. Crypto executives are bullish on the move. While some traders believe tokenization could benefit established blockchains such as ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfugVy_4HzToIv6OtPWwd1bE_Iir3hq-eY0IX4Mmtgv1AT9-bFAhmZ6&gaa_ts=69714e56&gaa_sig=uzq6Bbr7-2--yGEGrgCzeeY1aUcer60wNlGt-XBoD5Jbd14L3bYywZxTAMeagXcYhiP8ld8XqcdKzzl58pPAcg%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Ethereum Price Breaks Under $3K, Charts Flash Fresh Warnings](https://www.tradingview.com/news/newsbtc:ebf64d20a094b:0-ethereum-price-breaks-under-3k-charts-flash-fresh-warnings/)**
-
-Ethereum price started a fresh decline from the $3,200 resistance. ETH is now consolidating losses and is at risk of more losses below $2,880.Ethereum Price Dips Over 5%Ethereum price failed to remain stable above $3,200 and started a fresh decline, like Bitcoin. ETH price declined below $3,150 and…
-
-TradingView — Track All Markets • 18h ago
-
----
-
-**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/01/21/how-the-next-ethereum-could-help-you-retire-a-mill/)**
-
-Any blockchain network that is able to surpass Ethereum could be capable of generating 1,000-fold returns.
-
-The Motley Fool • 9h ago
 
 ---
 
@@ -212,15 +220,7 @@ The Motley Fool • 9h ago
 
 A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
 
-CryptoSlate • 11h ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
-
-Key PointsCryptocurrencies are not stocks.
-
-Nasdaq • 1d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -254,7 +254,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 329 • 👍 45 • ⏱️ 19:48 • 25m ago
+👁️ 329 • 👍 45 • ⏱️ 19:48 • 49m ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 974 • 👍 70 • 💬 24 • ⏱️ 22:48 • 38m ago
+👁️ 974 • 👍 70 • 💬 24 • ⏱️ 22:48 • 1h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 287 • 👍 19 • 💬 9 • ⏱️ 5:25 • 11h ago
+👁️ 287 • 👍 19 • 💬 9 • ⏱️ 5:25 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 21h ago
+👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 22h ago
 
 ---
 
@@ -324,7 +324,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Aderty
 
-👁️ 1K • 👍 1K • 6m ago
+👁️ 1K • 👍 1K • 30m ago
 
 ---
 

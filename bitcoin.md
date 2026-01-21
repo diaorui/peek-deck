@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T21:29:42.832965+00:00'
+updated: '2026-01-21T21:53:54.475858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 21:29 UTC  
+**Last Updated:** January 21, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,648.57
+### $90,115.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -6.1%  
-**30d:** +2.8%  
-**90d:** -19.1%  
-**1y:** -13.6%  
+**24h:** +1.8%  
+**7d:** -5.8%  
+**30d:** +3.1%  
+**90d:** -18.9%  
+**1y:** -13.3%  
 
 ---
 
@@ -93,9 +93,25 @@ Thank you for your attention to this matter.
 
 ---
 
+**[The Era of Bitcoin Abundance is Over](https://www.reddit.com/r/Bitcoin/comments/1qjac3u/the_era_of_bitcoin_abundance_is_over/)**
+
+95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
+
+44m ago
+
+---
+
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
 7h ago
+
+---
+
+**[Is Bitcoin about to make traditional retirement look like a joke?](https://www.reddit.com/r/Bitcoin/comments/1qj90oh/is_bitcoin_about_to_make_traditional_retirement/)**
+
+Traditional retirement accounts like 401(k)s typically expose you to full market risk with no principal guarantee, and high fees reduce your net returns. Is this a game changer? https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life
+
+1h ago
 
 ---
 
@@ -121,22 +137,6 @@ and a small piece of me died again
 
 ---
 
-**[Is Bitcoin about to make traditional retirement look like a joke?](https://www.reddit.com/r/Bitcoin/comments/1qj90oh/is_bitcoin_about_to_make_traditional_retirement/)**
-
-Traditional retirement accounts like 401(k)s typically expose you to full market risk with no principal guarantee, and high fees reduce your net returns. Is this a game changer? https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life
-
-1h ago
-
----
-
-**[Breaking news](https://www.reddit.com/r/Bitcoin/comments/1qioefo/breaking_news/)**
-
-First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
-
-16h ago
-
----
-
 **[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
 
 Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
@@ -155,11 +155,27 @@ Hey guys just wanted to drop a quick deep dive into how the security actually wo
 
 ## Google News: "bitcoin"
 
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+
+The Motley Fool • 6h ago
+
+---
+
 **[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
 
 There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
 CoinDesk • 4h ago
+
+---
+
+**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
+
+The bitcoin price reclaimed $90,000 after a volatile trading day.
+
+Bitcoin Magazine • 30m ago
 
 ---
 
@@ -177,31 +193,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Stock ($MSTR) Slides 7% as Aggressive Bitcoin Buying Continues](https://bitcoinmagazine.com/markets/strategy-stock-mstr-slides-7-percent)**
+**[Strategy Looks Interesting With An mNAV To Bitcoin Of 1.05 (NASDAQ:MSTR)](https://seekingalpha.com/article/4861425-strategy-looks-interesting-with-an-mnav-to-bitcoin-of-1-05)**
 
-Shares of Strategy (MSTR) fell sharply, dropping over 7% in early trading as Bitcoin itself tumbled below $90,000.
+Strategy offers a compelling proxy for Bitcoin exposure, now trading at a 1.05x mNAV, near parity with its underlying BTC holdings. Read this MSTR stock update.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
-
-Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
-
-CNBC • 1h ago
+Seeking Alpha • 8h ago
 
 ---
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
-
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
-
-The Motley Fool • 6h ago
-
----
-
-**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqeHWBeFLtRuPtvgohEl6EF19PAbN2Ss_dn00pKlTAZ7yKsQ8LlDSd5O&gaa_ts=69713b6e&gaa_sig=jwBztSSZHQ3LTDDwHlE-9jTj_iT2OnLLv1thHZlA3Tpayvzsbjto_8fM8PUA4Z2FfRmYmr9WnOlBFJp_7gq_oA%3D%3D)**
+**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqcNZa-QFfm-97OyOII5VnLIBAP1MhrN7qJ-KUavcY6Ujh9EdyUwMLsZ&gaa_ts=69714e54&gaa_sig=cDuYfD0HAr-voJSP3zcKgm8LtlR6t1cVA3WTaAAnTvizolXJQW6uQZszDIKpZgZE8tQ2XJR6PvjC9AqIHfQupA%3D%3D)**
 
 MarketWatch • 11h ago
 
@@ -209,7 +209,7 @@ MarketWatch • 11h ago
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -219,11 +219,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin January 21 daily chart alert - Bears in control](https://www.kitco.com/news/article/2026-01-21/bitcoin-january-21-daily-chart-alert-bears-control)**
+**[Volatility is Back, and It's Weighing on Bitcoin. Is Crypto a Hedge or a Risk Asset This Time?](https://www.investopedia.com/bitcoin-dives-as-volatility-returns-is-it-a-hedge-or-risk-asset-this-time-11888610)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+Volatility has soared after President Donald Trump's latest comments suggested the U.S. might take Greenland by force. As investors panned risk assets, the price of bitcoin also took a hit.
 
-KITCO • 11h ago
+Investopedia • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 5h ago
+👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 7h ago
+👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 288 • ⏱️ 9:30 • 23h ago
+👁️ 66K • 👍 3K • 💬 288 • ⏱️ 9:30 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy p
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 6h ago
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 7h ago
 
 ---
 
@@ -387,7 +387,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 4h ago
+👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 5h ago
 
 ---
 
