@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T13:47:53.900250+00:00'
+updated: '2026-01-21T14:32:43.984192+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 13:47 UTC  
+**Last Updated:** January 21, 2026 at 14:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,928.02
+### $2,996.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -11.7%  
-**30d:** -1.2%  
-**90d:** -25.6%  
-**1y:** -9.6%  
+**24h:** -1.2%  
+**7d:** -9.8%  
+**30d:** +0.9%  
+**90d:** -24.2%  
+**1y:** -7.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-5h ago
+6h ago
 
 ---
 
@@ -96,13 +96,13 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 14h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 15h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 13h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ dlnews.com • 18h ago
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 16h ago
 
 Any blockchain network that is able to surpass Ethereum could be capable of generating 1,000-fold returns.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -180,17 +180,17 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
+**[Ethereum News: ETH Derivatives Signal Rare Shift as Buy-Side Pressure Turns Positive After Years](https://www.binance.com/sv/square/post/01-21-2026-ethereum-news-eth-derivatives-signal-rare-shift-as-buy-side-pressure-turns-positive-after-years-35381969461129)**
 
-The Block • 3h ago
+Binance • 2h ago
 
 ---
 
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
 
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
+The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
 
-CoinDesk • 2d ago
+CoinDesk • 46m ago
 
 ---
 
@@ -198,27 +198,27 @@ CoinDesk • 2d ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqe34NYnTE5yEmAXR8-bC_nMsfx2kRPl3xpkqFmpMRyZN2tJzqSYi4j4&gaa_ts=6970cfb8&gaa_sig=yGVUzKTTPWd5fZRUhJJJFv0kZb78dBjHH10VvMi2TDY7qp4xnNHsZ5iCxfk3wATh0Wpnz8EpSyLY7OPqcfg2ig%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfDMDGG8gO43sdOMQPyzTy5TwEx5xswXnm4FvH-FYKkY64jsS7QgQn3&gaa_ts=6970e6f3&gaa_sig=cyEdoiXb2NoBqXqUMhvtmlCQyl4zPh0_aQQbq6qgfDgPPBvpVS-gFBdmQ6CdNmsS_Kw7OOS6IXSiD80LSmSN_A%3D%3D)**
 
-MarketWatch • 22h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Calls for 'Different and Better DAOs'](https://decrypt.co/355000/ethereum-founder-vitalik-buterin-calls-for-different-and-better-daos)**
-
-Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
-
-Decrypt • 1d ago
+MarketWatch • 23h ago
 
 ---
 
-**[Tom Lee’s BitMine Nears ‘Alchemy of 5%’ Ethereum Goal — Is ETH Price in Trouble?](https://www.ccn.com/news/crypto/tom-lees-bitmine-nears-alchemy-of-5-ethereum-goal-is-eth-price-in-trouble/)**
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
 
-CCN.com • 3h ago
+Key PointsCryptocurrencies are not stocks.
+
+Nasdaq • 1d ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqeVRXQqLldxjVXgyewv49r_r1hOHGCIj9Y-7TQI-WohA74lrivA8pEX&gaa_ts=6970e6f3&gaa_sig=elX4POGVxp4c9d7Novi0aKpFTAFmdj2qHJdJ08D0sMxRk1UE6MekYRS3lf6l9WYcJtb9iO0RpmTR2MVxfNOasw%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 509 • 👍 58 • 💬 4 • ⏱️ 6:37 • 1h ago
+👁️ 509 • 👍 58 • 💬 4 • ⏱️ 6:37 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 11K • 👍 396 • 💬 181 • ⏱️ 21:23 • 18h ago
+👁️ 11K • 👍 396 • 💬 181 • ⏱️ 21:23 • 19h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 23h ago
+👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Muitos estão dizendo que o Ethereum está morrendo, mas será que essa narrativ
 
 📺 Orlando on Crypto
 
-👁️ 5K • 👍 757 • 💬 153 • ⏱️ 18:49 • 14h ago
+👁️ 5K • 👍 757 • 💬 153 • ⏱️ 18:49 • 15h ago
 
 ---
 

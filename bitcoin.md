@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T13:47:53.894282+00:00'
+updated: '2026-01-21T14:32:43.978032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 13:47 UTC  
+**Last Updated:** January 21, 2026 at 14:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,699.82
+### $89,423.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -7.3%  
-**30d:** +1.4%  
-**90d:** -20.2%  
-**1y:** -14.7%  
+**24h:** -0.9%  
+**7d:** -6.0%  
+**30d:** +2.9%  
+**90d:** -19.1%  
+**1y:** -13.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 and a small piece of me died again
 
-8h ago
+9h ago
 
 ---
 
@@ -89,27 +89,19 @@ and a small piece of me died again
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 13h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 14h ago
 
 ---
 
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
+**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-14h ago
-
----
-
-**[0.1 club](https://www.reddit.com/r/Bitcoin/comments/1qiczam/01_club/)**
-
-Took me some time. I feel so proud.
-
-17h ago
+25m ago
 
 ---
 
@@ -121,33 +113,37 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 ---
 
+**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
+
+15h ago
+
+---
+
+**[0.1 club](https://www.reddit.com/r/Bitcoin/comments/1qiczam/01_club/)**
+
+Took me some time. I feel so proud.
+
+17h ago
+
+---
+
 **[I was told to drop my updated one here](https://www.reddit.com/r/Bitcoin/comments/1qirbd7/i_was_told_to_drop_my_updated_one_here/)**
 
 Stacking may mean sacrifice today for tomorrow however your future self will thank you for your better choice over that expensive meal, especially in the ends.
 
-6h ago
+7h ago
+
+---
+
+**[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
+
+36m ago
 
 ---
 
 **[Which stage are you in?](https://www.reddit.com/r/Bitcoin/comments/1qirx44/which_stage_are_you_in/)**
 
-5h ago
-
----
-
-**[We’ve been here before, we’ll recover very soon!](https://www.reddit.com/r/Bitcoin/comments/1qi82gr/weve_been_here_before_well_recover_very_soon/)**
-
-Hopefully it holds til I get my paycheck this Friday
-
-19h ago
-
----
-
-**[I got into Bitcoin in November 2025...](https://www.reddit.com/r/Bitcoin/comments/1qijcun/i_got_into_bitcoin_in_november_2025/)**
-
-For the first time I made a calculated investment late last year. Looking at the chart the past five years 2022 seemed brutal as hell. How in the hell did any of you get through that? My conviction builds every single day. I'm basically a Maxi now and love this community but I'm still human and the world feels like its burning before our very eyes some days.
-
-12h ago
+6h ago
 
 ---
 
@@ -161,63 +157,63 @@ Bloomberg • 23h ago
 
 ---
 
-**[Buy Strategy And You Get Bitcoin, Plus A Free AI Business (NASDAQ:MSTR)](https://seekingalpha.com/article/4861434-buy-strategy-and-you-get-bitcoin-plus-a-free-ai-business)**
+**[Bitcoin falls to nearly $88,000 ahead of Trump’s Davos talk, putting U.S. session at risk](https://www.coindesk.com/markets/2026/01/21/bitcoin-stages-rebound-to-nearly-usd90-000-as-traders-await-trump-s-davos-talks)**
 
-Strategyâs software segment trades at just 4x 2026 earnings, far below sector medians, and its capital structure is highly liquid. Read why MSTR is a Strong Buy.
+European stocks extended their losing streak and bond-market support faded, while gold hit fresh record highs above $4,860 an ounce.
 
-Seeking Alpha • 1h ago
-
----
-
-**[Strategy buys another 22,305 bitcoin for $2.1 billion in biggest purchase in over a year as holdings top 700,000 BTC](https://www.theblock.co/post/386103/strategy-bigger-orange-bitcoin-buy)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Falls. Cryptos Face Deep Selloff If Price Plunges Below This Key Level.](https://www.barrons.com/articles/bitcoin-price-cryptos-selloff-xrp-d75897fc?gaa_at=eafs&gaa_n=AWEtsqes1iCRn0mVO_HSn-ld3OlwX5xOgMFO6IfXjI_AhUGNX_yiQUjK68-W&gaa_ts=6970cfb6&gaa_sig=jE0tGoiOAcvPQWR_mhOuhQ8m73Iw1qu_8FjQqlJ7ZH4YfavdQbzQcUwVC49h2D24SguhgPsxndm4JGrrYy8ShA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqeNB693XDTtt5CiTX3lQyMSOcXX4mKMixvLLDPaN58VszPlV32Sx7nK&gaa_ts=6970cfb6&gaa_sig=6S5p249cjvXzr5scjWeZWenTnCUbFni1H5dThyFy3Am6cP-J4FSZwpraOMwDIoVBkzVZj4g3NdtZFnmIM8ygUA%3D%3D)**
-
-MarketWatch • 3h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
-**[Ray Dalio: Bitcoin is money 'for some' but it's not a reserve asset (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4540599-ray-dalio-bitcoin-is-money-for-some-but-its-not-a-reserve-asset)**
+**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqdyXqfkmpNoHmJEZUJvIF0PKD5JUz8m3wyE-cziukYnDydFR9MWglDS&gaa_ts=6970e6f0&gaa_sig=krvN5kRr0EA7hkSHO2biqeySpTw5DTwVh3EY-r5kCmQLEo5GOWZfYUpZzEE8vr68RwktzmpFbUC0_KxwfEIVSg%3D%3D)**
 
-Ray Dalio weighs Bitcoinâs role as money, noting its small scale vs gold and reserve assets, as central banks shift to gold.
+MarketWatch • 4h ago
 
-Seeking Alpha • 20h ago
+---
+
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
+
+Reuters • 15h ago
+
+---
+
+**[Bitcoin sinks below $89,000 as US equities and Japan bond turmoil rattle markets](https://www.theblock.co/post/386432/bitcoin-ether-sink-japan-bond-turmoil)**
+
+The Block • 12h ago
+
+---
+
+**[Volatility is Back, and It's Weighing on Bitcoin. Is Crypto a Hedge or a Risk Asset This Time?](https://www.investopedia.com/bitcoin-dives-as-volatility-returns-is-it-a-hedge-or-risk-asset-this-time-11888610)**
+
+Volatility has soared after President Donald Trump's latest comments suggested the U.S. might take Greenland by force. As investors panned risk assets, the price of bitcoin also took a hit.
+
+Investopedia • 20h ago
 
 ---
 
 **[Solo-Mine Bitcoin From Your Desk With This $60 Lottery Ticket Machine](https://www.entrepreneur.com/money-finance/solo-mine-bitcoin-from-your-desk-with-this-60-lottery/501956)**
 
-entrepreneur.com • 23h ago
+entrepreneur.com • 1d ago
 
 ---
 
 **[Delaware Life Insurance Company Launches Industry’s First Fixed Indexed Annuity with Bitcoin Exposure](https://www.businesswire.com/news/home/20260120994831/en/Delaware-Life-Insurance-Company-Launches-Industrys-First-Fixed-Indexed-Annuity-with-Bitcoin-Exposure)**
 
-Business Wire • 22h ago
+Business Wire • 23h ago
 
 ---
 
-**[The ARK 21Shares Bitcoin ETF: Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/01/21/ark-21shares-bitcoin-etf-buy-sell-or-hold-2026/)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.nasdaq.com/articles/where-will-bitcoin-be-3-years-0)**
 
-The ARK 21Shares Bitcoin ETF is an easy way for investors to gain exposure to Bitcoin.
+Key PointsThe next Bitcoin halving is scheduled to take place in April 2028.
 
-The Motley Fool • 3h ago
+Nasdaq • 2d ago
 
 ---
 
@@ -269,7 +265,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 20h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 21h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -285,7 +281,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 3 • 17h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 3 • 18h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -311,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 294 • ⏱️ 9:10 • 12h ago
+👁️ 17K • 👍 1K • 💬 294 • ⏱️ 9:10 • 13h ago
 
 ---
 
@@ -321,7 +317,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 249 • 💬 48 • ⏱️ 12:17 • 4h ago
+👁️ 2K • 👍 249 • 💬 48 • ⏱️ 12:17 • 5h ago
 
 ---
 
@@ -331,7 +327,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 327 • 💬 127 • ⏱️ 1:16 • 17h ago
+👁️ 14K • 👍 327 • 💬 127 • ⏱️ 1:16 • 18h ago
 
 ---
 
@@ -341,7 +337,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 8K • 👍 621 • 💬 57 • ⏱️ 19:22 • 5h ago
+👁️ 8K • 👍 621 • 💬 57 • ⏱️ 19:22 • 6h ago
 
 ---
 
@@ -361,7 +357,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 185 • ⏱️ 22:10 • 13h ago
+👁️ 25K • 👍 2K • 💬 185 • ⏱️ 22:10 • 14h ago
 
 ---
 
@@ -371,7 +367,7 @@ Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macr
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 227 • 💬 41 • ⏱️ 5:17 • 13h ago
+👁️ 5K • 👍 227 • 💬 41 • ⏱️ 5:17 • 14h ago
 
 ---
 

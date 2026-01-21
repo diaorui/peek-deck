@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T13:47:53.903470+00:00'
+updated: '2026-01-21T14:32:43.987465+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 13:47 UTC  
+**Last Updated:** January 21, 2026 at 14:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
+**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-16h ago
+2h ago
 
 ---
 
@@ -46,9 +46,9 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 ---
 
-**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
+**[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-1h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focuse
 
 Swiss scientists have developed a robotic hand that can detach from its arm, crawl, and carry objects. The detached hand successfully picked up three objects and reattached to the arm. It overcomes th
 
-🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 4h ago
+🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 5h ago
 
 ---
 
@@ -110,9 +110,25 @@ Swiss scientists have developed a robotic hand that can detach from its arm, cra
 
 ## Google News: "robotics"
 
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
+
+---
+
 **[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
 Yahoo Finance • 15h ago
 
@@ -126,9 +142,11 @@ The Robot Report • 16h ago
 
 ---
 
-**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
-Investor's Business Daily • 15h ago
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 1h ago
 
 ---
 
@@ -142,31 +160,15 @@ Financial Times • 1d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-Fortune • 1d ago
-
----
-
-**[Why Richtech Robotics Stock Popped Today](https://finance.yahoo.com/news/why-richtech-robotics-stock-popped-182048173.html)**
-
-Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
-
-Yahoo Finance • 19h ago
-
----
-
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 2d ago
+CBC • 1d ago
 
 ---
 
@@ -178,11 +180,9 @@ Inc42 • 1d ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
+**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
 
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
-
-CBC • 1d ago
+The New York Times • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 23K • 👍 289 • 💬 4 • ⏱️ 0:23 • 4d ago
+👁️ 23K • 👍 289 • 💬 4 • ⏱️ 0:23 • 5d ago
 
 ---
 
@@ -256,7 +256,7 @@ War Robots - Minos Chasm vs Minos Evora. Which is the better setup? In this vide
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 284 • 💬 63 • ⏱️ 14:11 • 23h ago
+👁️ 4K • 👍 284 • 💬 63 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolf
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 296 • 💬 83 • ⏱️ 16:03 • 18h ago
+👁️ 5K • 👍 296 • 💬 83 • ⏱️ 16:03 • 19h ago
 
 ---
 
