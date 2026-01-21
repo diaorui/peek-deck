@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T01:53:30.512738+00:00'
+updated: '2026-01-21T03:45:45.061239+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 01:53 UTC  
+**Last Updated:** January 21, 2026 at 03:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,964.08
+### $89,284.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.7%  
-**7d:** -6.7%  
-**30d:** +2.1%  
-**90d:** -19.7%  
-**1y:** -14.2%  
+**24h:** -2.7%  
+**7d:** -6.3%  
+**30d:** +2.5%  
+**90d:** -19.4%  
+**1y:** -13.8%  
 
 ---
 
@@ -77,11 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Steak n Shake orange pilling their employees](https://www.reddit.com/r/Bitcoin/comments/1qijxpn/steak_n_shake_orange_pilling_their_employees/)**
+
+2h ago
+
+---
+
 **[Starting March 1, Steak n Shake will give all hourly employees at its company-operated restaurants a Bitcoin bonus of $0.21 for every hour worked.](https://www.reddit.com/r/Bitcoin/comments/1qiirge/starting_march_1_steak_n_shake_will_give_all/)**
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 3h ago
+
+---
+
+**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
+
+4h ago
 
 ---
 
@@ -89,25 +101,13 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 Took me some time. I feel so proud.
 
-5h ago
+6h ago
 
 ---
 
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-9h ago
-
----
-
-**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
-
-2h ago
-
----
-
-**[Steak n Shake orange pilling their employees](https://www.reddit.com/r/Bitcoin/comments/1qijxpn/steak_n_shake_orange_pilling_their_employees/)**
-
-34m ago
+11h ago
 
 ---
 
@@ -115,7 +115,7 @@ Took me some time. I feel so proud.
 
 Hopefully it holds til I get my paycheck this Friday
 
-8h ago
+9h ago
 
 ---
 
@@ -127,21 +127,21 @@ Hopefully it holds til I get my paycheck this Friday
 
 **[Perspective. We are good.](https://www.reddit.com/r/Bitcoin/comments/1qi3n0t/perspective_we_are_good/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
 
-13h ago
+14h ago
 
 ---
 
-**[Traveled to Mexico with only Bitcoin - withdrew pesos in 2 minutes](https://www.reddit.com/r/Bitcoin/comments/1qhvv89/traveled_to_mexico_with_only_bitcoin_withdrew/)**
+**[No Access to Cold Wallets Due to Laws — How Should I Store My BTC?](https://www.reddit.com/r/Bitcoin/comments/1qia18b/no_access_to_cold_wallets_due_to_laws_how_should/)**
 
-Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, couple taps, ATM to pesos. Took maybe 2 minutes, tops. Fees were normal. ATM added a fee. This is basically how I always expected Lightning to work — fast, boring, and usable while travelling.
+I live in a country where owning or using Bitcoin is technically illegal, which means I can’t easily access hardware wallets or official cold storage options. I bought some BTC on Binance, but now I’m worried about how to store it safely. I know the saying “not your keys, not your coins,” so keeping it on an exchange long-term doesn’t feel right. Given my situation: 1.What are my safest storage options? 2.Are software wallets a good idea? 3.Is it better to split funds across multiple wallets? Any advice is appreciated. Thanks!
 
-17h ago
+8h ago
 
 ---
 
@@ -153,35 +153,33 @@ Pulled cash in Mexico straight from a self-custody wallet. Opened the wallet, co
 
 Billionaire Michael Saylor's bitcoin-focused firm Strategy said on Tuesday it ​bought about $2.13 billion worth of bitcoin ‌over the past eight days, stepping up purchases even ‌as its stock has been pressured by cryptocurrency volatility.  The company acquired roughly 22,305 bitcoin between the period of January 12 and January ⁠19, according to ‌a regulatory filing.  Saylor said in an X post on Tuesday that ‍Strategy holds 709,715 bitcoin as of January 19.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Strategy (MSTR) adds 22,305 BTC, bringing holdings to 709,715 coins](https://www.coindesk.com/markets/2026/01/20/michael-saylor-s-strategy-purchases-another-usd2-13-billion-in-bitcoin)**
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)**
 
-The company now holds 709,715 bitcoin, acquired for nearly $54 billion.
-
-CoinDesk • 12h ago
+The New York Times • 4d ago
 
 ---
 
-**[Crypto market reels in face of tariff turmoil, Bitcoin falls below $90,000 as key legislation stalls](https://fortune.com/2026/01/20/crypto-market-reels-in-face-of-tariff-turmoil/)**
+**[Why is bitcoin down today: Bitcoin falls below $90,000 amid market meltdown](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-briefly-below-usd90-000-amid-meltdown-markets-liveblog)**
 
-Altcoins also drop as tensions rise between the U.S. and Europe.
+Analysts, CoinDesk reporters and longtime industry participants weigh in on today's bitcoin, crypto and market price action.
 
-Fortune • 6h ago
+CoinDesk • 6h ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdIpYwbhcgXvqa2DXHTVBN4J95Krhwz2HU78MQQLc0ffmmadSJ3-RCV&gaa_ts=697034f5&gaa_sig=FcqzZVK5TD5Lub3EmLazwD7bRcQ0DHiIrcTor_BEzAkcYD4lDaAVTwPVWiUcDnlqeomVAL_GIqZ8FKaOBPsstw%3D%3D)**
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-MarketWatch • 1d ago
+Reuters • 5h ago
 
 ---
 
@@ -189,13 +187,7 @@ MarketWatch • 1d ago
 
 Ray Dalio weighs Bitcoinâs role as money, noting its small scale vs gold and reserve assets, as central banks shift to gold.
 
-Seeking Alpha • 8h ago
-
----
-
-**[Solo-Mine Bitcoin From Your Desk With This $60 Lottery Ticket Machine](https://www.entrepreneur.com/money-finance/solo-mine-bitcoin-from-your-desk-with-this-60-lottery/501956)**
-
-entrepreneur.com • 11h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -203,7 +195,7 @@ entrepreneur.com • 11h ago
 
 A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
 
-Bitbo • 18h ago
+Bitbo • 20h ago
 
 ---
 
@@ -219,7 +211,13 @@ Yahoo Finance • 2d ago
 
 A long-dormant bitcoin wallet moved 909 BTC, now worth more than $84 million, to a new address after over 12 years of inactivity.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
+
+---
+
+**[Solo-Mine Bitcoin From Your Desk With This $60 Lottery Ticket Machine](https://www.entrepreneur.com/money-finance/solo-mine-bitcoin-from-your-desk-with-this-60-lottery/501956)**
+
+entrepreneur.com • 13h ago
 
 ---
 
@@ -271,7 +269,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 8h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 10h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -287,7 +285,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 17 • 💬 3 • 5h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 3 • 7h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -299,7 +297,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 1 • 11h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 12h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -313,7 +311,7 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 22K • 👍 1K • 💬 231 • ⏱️ 14:45 • 15h ago
+👁️ 22K • 👍 1K • 💬 231 • ⏱️ 14:45 • 17h ago
 
 ---
 
@@ -323,7 +321,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 229 • 💬 87 • ⏱️ 1:16 • 5h ago
+👁️ 7K • 👍 229 • 💬 87 • ⏱️ 1:16 • 7h ago
 
 ---
 
@@ -333,7 +331,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 9K • 👍 682 • 💬 113 • ⏱️ 8:21 • 6h ago
+👁️ 9K • 👍 682 • 💬 113 • ⏱️ 8:21 • 8h ago
 
 ---
 
@@ -343,7 +341,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 323 • 💬 100 • ⏱️ 21:23 • 6h ago
+👁️ 6K • 👍 323 • 💬 100 • ⏱️ 21:23 • 8h ago
 
 ---
 
@@ -353,7 +351,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 27K • 👍 2K • 💬 72 • ⏱️ 21:45 • 15h ago
+👁️ 27K • 👍 2K • 💬 72 • ⏱️ 21:45 • 17h ago
 
 ---
 
@@ -363,7 +361,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 SVĚTOVÍ
 
-👁️ 4K • 👍 2K • 1h ago
+👁️ 4K • 👍 2K • 2h ago
 
 ---
 
@@ -373,7 +371,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 648 • 💬 56 • ⏱️ 10:25 • 17h ago
+👁️ 14K • 👍 648 • 💬 56 • ⏱️ 10:25 • 19h ago
 
 ---
 
@@ -393,7 +391,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 459 • 💬 30 • ⏱️ 9:16 • 21h ago
+👁️ 8K • 👍 459 • 💬 30 • ⏱️ 9:16 • 22h ago
 
 ---
 
@@ -403,7 +401,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 682 • 💬 128 • ⏱️ 55:43 • 10h ago
+👁️ 15K • 👍 682 • 💬 128 • ⏱️ 55:43 • 12h ago
 
 ---
 
