@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T23:26:51.455155+00:00'
+updated: '2026-01-21T23:49:18.549543+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 23:26 UTC  
+**Last Updated:** January 21, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their we
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-7h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 **[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 477 • 👍 13 • 💬 2 • ⏱️ 0:32 • 3h ago
+👁️ 802 • 👍 22 • 💬 2 • ⏱️ 0:32 • 4h ago
 
 ---
 
@@ -204,17 +204,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 405K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
-
----
-
-**[War Robots - New Robot Ammit Unlocked! | Update 11.7](https://www.youtube.com/watch?v=QS_Ds0gN27I)**
-
-War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales drone and the Mei Lan pilot all at max level.
-
-📺 Adrian Chong
-
-👁️ 2K • 👍 171 • 💬 68 • ⏱️ 19:41 • 9h ago
+👁️ 406K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
 
 ---
 
@@ -224,67 +214,77 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 10K • 👍 743 • 💬 65 • ⏱️ 1:51 • 9h ago
+👁️ 12K • 👍 847 • 💬 70 • ⏱️ 1:51 • 10h ago
 
 ---
 
-**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+**[War Robots - New Robot Ammit Unlocked! | Update 11.7](https://www.youtube.com/watch?v=QS_Ds0gN27I)**
 
-Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales drone and the Mei Lan pilot all at max level.
 
-📺 CBC News: The National
+📺 Adrian Chong
 
-👁️ 16K • 👍 146 • ⏱️ 7:30 • 2d ago
-
----
-
-**[A ROBOT THAT’S REPLACING THE FORKLIFT](https://www.youtube.com/watch?v=ow3gAu1Y_8c)**
-
-Germany is rolling out AI-powered forklift robots that can move pallets, navigate warehouses, and handle logistics without a ...
-
-📺 TimeWithAI
-
-👁️ 37K • 👍 341 • 💬 20 • ⏱️ 0:12 • 4d ago
+👁️ 2K • 👍 191 • 💬 80 • ⏱️ 19:41 • 9h ago
 
 ---
 
-**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 Ticker Symbol: YOU
+📺 KhanFlicks
 
-👁️ 144K • 👍 6K • 💬 391 • ⏱️ 17:36 • 7d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 2.7M • 👍 31K • 💬 2K • ⏱️ 33:05 • 3d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
 
 ---
 
-**[Scientists Create World Smallest Robot](https://www.youtube.com/watch?v=bKgmRhGzUDk)**
+**[😱AKIMBO69 DESTROYED ROBOT HAND](https://www.youtube.com/watch?v=2m2jBUNXpH0)**
 
-Scientists have developed autonomous microrobots smaller than a grain of salt that can swim using electrokinetic propulsion ...
+entertaining experience to every viewer. Each edit is highly transformative, featuring original commentary and a fresh perspective ...
 
-📺 Dr Ben Miles
+📺 JAXON_JACK
 
-👁️ 171K • 👍 14K • 💬 424 • ⏱️ 1:35 • 3d ago
+👁️ 129K • 💬 10 • ⏱️ 0:12 • 12h ago
 
 ---
 
-**[This robot can shape shift his body to avoid gaps](https://www.youtube.com/watch?v=LxDpCmyEMsc)**
+**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
 
-CONTINUOUS TRACK ROBOT https://www.youtube.com/watch?v=L_seM8sRPik For copyright matters, please get in touch with ...
+At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
 
-📺 Unstoppable Gadgets
+📺 KhanFlicks
 
-👁️ 27K • 👍 980 • 💬 15 • ⏱️ 0:20 • 2d ago
+👁️ 78K • 💬 36 • ⏱️ 12:09 • 4d ago
+
+---
+
+**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
+
+What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
+
+📺 Future Lens Pi
+
+👁️ 23K • 💬 10 • ⏱️ 0:07 • 2d ago
+
+---
+
+**[A Robot Took Over While He Stood There 😔🤖](https://www.youtube.com/watch?v=udRzv7wDoM8)**
+
+A Robot Took Over While He Stood There In a quiet moment on a city street, a fully autonomous cleaning robot does its job ...
+
+📺 MrScoopz
+
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:06 • 3h ago
+
+---
+
+**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
+
+Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
+
+📺 The Military Show
+
+👁️ 424K • 👍 8K • 💬 346 • ⏱️ 23:16 • 4d ago
 
 ---
 

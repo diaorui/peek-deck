@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T23:26:51.437082+00:00'
+updated: '2026-01-21T23:49:18.533529+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 23:26 UTC  
+**Last Updated:** January 21, 2026 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ ElevenLabs, an AI voice-cloning company, is trying to court artists by offering 
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisting the panic within Hollywood about the potential impact of AI “actors” is “bulls**t.”
 
-🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 41m ago
+🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 2h ago
 
 Nvidia CEO Jensen Huang told an audience at the gathering of the World Economic Forum that the world needs to build trillions of dollars of AI infrastructure to meet demand.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 8h ago
 
 Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Information • 3h ago
 
 The iPhone maker might be preparing to battle OpenAI's own family of AI gadgets.
 
-Gizmodo • 56m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Gizmodo • 56m ago
 
 The wearable is said to have two cameras, a microphone and a speaker.
 
-Engadget • 2h ago
+Engadget • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 285 • 💬 235 • 9h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 285 • 💬 235 • 10h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -227,7 +227,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 199 • 💬 134 • 16h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 199 • 💬 134 • 17h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -279,73 +279,33 @@ The famed convention's organizers have banned AI from the art show.
 
 ## YouTube Videos: "ai"
 
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
-
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
-
-📺 BBC Politics
-
-👁️ 24K • 👍 617 • 💬 236 • ⏱️ 12:14 • 1d ago
-
----
-
 **[AI Bubble: Majority of companies report no payoff from AI adoption | Natasha Bernal](https://www.youtube.com/watch?v=xl86PtBmHDY)**
 
 If we don't have some good, positive stories here… there is going to be a repercussion across the market.” Without proper ...
 
 📺 The Tech Report
 
-👁️ 4K • 👍 190 • 💬 99 • ⏱️ 33:43 • 5h ago
+👁️ 7K • 👍 326 • 💬 142 • ⏱️ 33:43 • 6h ago
 
 ---
 
-**[Ben Affleck EXPOSES AI Companies&#39; Financial Lies](https://www.youtube.com/watch?v=Kk_cQCYmy8k)**
+**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
 
-Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up for a PREMIUM Breaking Points subscriptions ...
+Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
 
-📺 Breaking Points
+📺 BBC Politics
 
-👁️ 230K • 👍 7K • 💬 1K • ⏱️ 14:38 • 1d ago
-
----
-
-**[The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x | Ray Kurzweil](https://www.youtube.com/watch?v=8iWSNwIRazc)**
-
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Ray Kurzweil is an American ...
-
-📺 Peter H. Diamandis
-
-👁️ 101K • 👍 3K • 💬 808 • ⏱️ 1:39:31 • 1d ago
+👁️ 26K • 👍 648 • 💬 253 • ⏱️ 12:14 • 1d ago
 
 ---
 
-**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
+**[STOP Paying: Make LONG AI Videos (FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=TAUivqDPV0k)**
 
-In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
+FREE PDF (prompts + direct links) → https://discord.gg/6aV3ps7tB2 ✓ Sponsored by OiiOii.ai → https://www.oiioii.ai/ It's no secret ...
 
-📺 The Infographics Show
+📺 Malva AI
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 10:58 • 2d ago
-
----
-
-**[IS 3I/ATLAS AN AI? Avi Loeb Reveals a Potential Interstellar Relic](https://www.youtube.com/watch?v=zaBZsJccDSE)**
-
-Avi Loeb, 3I/ATLAS, Interstellar AI. Astronomers estimate that there are up to 10000 interstellar objects drifting through our solar ...
-
-📺 The Cosmic Unknown — TCU
-
-👁️ 1K • 👍 104 • 💬 15 • ⏱️ 12:19 • 7h ago
-
----
-
-**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
-
-The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
-
-📺 KolaDepth
-
-👁️ 10K • 👍 267 • 💬 77 • ⏱️ 24:36 • 2d ago
+👁️ 18K • 👍 1K • 💬 312 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -355,27 +315,67 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 8K • 👍 89 • 💬 26 • ⏱️ 5:39 • 10h ago
+👁️ 9K • 👍 87 • 💬 28 • ⏱️ 5:39 • 11h ago
 
 ---
 
-**[TikTok Reveals Ai Has Destroyed Modern Society…](https://www.youtube.com/watch?v=ModWqgKMz4k)**
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
 
-Should we just... let go of the hope that the AI bubble will eventually burst? -- FOLLOW ME: instagram: halohayleys tiktok: ...
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
 
-📺 Haylo Hayley
+📺 Matthew Berman
 
-👁️ 102K • 👍 9K • 💬 2K • ⏱️ 22:19 • 1d ago
+👁️ 78K • 👍 3K • 💬 603 • ⏱️ 18:33 • 2d ago
 
 ---
 
-**[The 7 FREE AI Courses You Need to Master AI in 2026](https://www.youtube.com/watch?v=InowktzMfK0)**
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
 
-1. https://youtu.be/-9bo8HlSxwQ?si=xmAhyB6jOqhnw9eU 2.
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
 
-📺 Ishan Sharma
+📺 The Infographics Show
 
-👁️ 9K • 👍 901 • 💬 33 • ⏱️ 9:17 • 9h ago
+👁️ 58K • 👍 2K • 💬 399 • ⏱️ 10:58 • 2d ago
+
+---
+
+**[Ben Affleck EXPOSES AI Companies&#39; Financial Lies](https://www.youtube.com/watch?v=Kk_cQCYmy8k)**
+
+Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up for a PREMIUM Breaking Points subscriptions ...
+
+📺 Breaking Points
+
+👁️ 233K • 👍 7K • 💬 1K • ⏱️ 14:38 • 1d ago
+
+---
+
+**[Nvidia Tried to Get Stolen Data For AI](https://www.youtube.com/watch?v=5pW5kylJd00)**
+
+Watch The Full Philip DeFranco Show: https://www.youtube.com/defranco?sub_confirmation=1 Subscribe for more Quickie News: ...
+
+📺 DeFranco News Clips
+
+👁️ 12K • 👍 1K • 💬 28 • ⏱️ 0:46 • 24m ago
+
+---
+
+**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
+
+The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
+
+📺 KolaDepth
+
+👁️ 10K • 👍 269 • 💬 79 • ⏱️ 24:36 • 2d ago
+
+---
+
+**[The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x | Ray Kurzweil](https://www.youtube.com/watch?v=8iWSNwIRazc)**
+
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Ray Kurzweil is an American ...
+
+📺 Peter H. Diamandis
+
+👁️ 105K • 👍 3K • 💬 828 • ⏱️ 1:39:31 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 884 • 1d ago
+⬇️ 69,491 • ❤️ 894 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 926 • 6d ago
+⬇️ 9,872 • ❤️ 928 • 6d ago
 
 ---
 
@@ -415,7 +415,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 445 • 6d ago
+⬇️ 43,156 • ❤️ 448 • 6d ago
 
 ---
 
@@ -425,7 +425,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 36,465 • ❤️ 368 • 2d ago
+⬇️ 36,465 • ❤️ 372 • 2d ago
 
 ---
 
@@ -437,7 +437,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,237 • 2d ago
+⬇️ 1,855,174 • ❤️ 1,239 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 275 • 6d ago
+⬇️ 33,057 • ❤️ 279 • 6d ago
 
 ---
 
@@ -459,7 +459,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 2,428 • ❤️ 245 • 23h ago
+⬇️ 2,428 • ❤️ 260 • 23h ago
 
 ---
 
@@ -471,7 +471,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 24,712 • ❤️ 242 • 5d ago
+⬇️ 24,712 • ❤️ 245 • 5d ago
 
 ---
 
@@ -483,7 +483,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 61,107 • ❤️ 309 • 7d ago
+⬇️ 61,107 • ❤️ 311 • 7d ago
 
 ---
 
@@ -495,7 +495,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 20,655 • ❤️ 230 • 6d ago
+⬇️ 20,655 • ❤️ 231 • 6d ago
 
 ---
 
@@ -521,7 +521,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 123 • 💬 6 • ⭐ 11,053 • 5mo ago
+▲ 123 • 💬 6 • ⭐ 11,166 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -533,7 +533,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 157 • 💬 3 • ⭐ 4,421 • 6mo ago
+▲ 157 • 💬 3 • ⭐ 4,475 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -547,7 +547,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 15 • 💬 3 • ⭐ 446 • 5d ago
+▲ 15 • 💬 3 • ⭐ 464 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -561,7 +561,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 35 • 💬 1 • ⭐ 3,096 • 9d ago
+▲ 35 • 💬 1 • ⭐ 3,128 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.3k • 🔱 488 • 1d ago
+⭐ 9.3k • 🔱 489 • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.3k • 🔱 788 • 1d ago
+⭐ 6.4k • 🔱 792 • 1d ago
 
 ---
 
@@ -693,7 +693,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 896 • 14h ago
+⭐ 5.3k • 🔱 897 • 15h ago
 
 ---
 
@@ -703,7 +703,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 8h ago
+⭐ 4.3k • 🔱 4.4k • 9h ago
 
 ---
 
@@ -723,7 +723,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 2.6k • 🔱 290 • 5d ago
+⭐ 2.8k • 🔱 295 • 1h ago
 
 ---
 
@@ -733,17 +733,15 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 312 • 19h ago
+⭐ 2.2k • 🔱 312 • 20h ago
 
 ---
 
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+**[blader/humanizer](https://github.com/blader/humanizer)**
 
-Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战
+Claude Code skill that removes signs of AI-generated writing from text
 
-`JavaScript` `agent` `ai` `coding` `course` `gemini`
-
-⭐ 1.9k • 🔱 155 • 1d ago
+⭐ 1.9k • 🔱 145 • 2d ago
 
 ---
 

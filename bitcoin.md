@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T23:26:51.445805+00:00'
+updated: '2026-01-21T23:49:18.541230+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 23:26 UTC  
+**Last Updated:** January 21, 2026 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.12B
+**Market Cap:** $1787.76B
 Rank #1
 
-**Circulating Supply:** 19,978,918 BTC
+**Circulating Supply:** 19,978,943 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-29.0%
 
 **All-Time Low:** $67.81
-+132620.8%
++131845.1%
 
 ---
 
@@ -119,7 +119,7 @@ Traditional retirement accounts like 401(k)s typically expose you to full market
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 23h ago
 
 ---
 
@@ -127,7 +127,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-17h ago
+18h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 7h ago
 
 Restaurant chain Steak 'n Shake is expanding its Bitcoin operations, this time with a pay bump for hourly employees paid out in BTC.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 This follows news from a few days ago that the company added $10 million worth of bitcoin to its corporate treasury.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 7h ago
 
 UBS CEO Sergio Ermotti said at Davos this week that Bitcoin needs to overcome the quantum computing threat.  Ermotti joins a growing chorus of concerned financiers that includes Jefferies’ head of equity strategy Christopher Wood, who removed Bitcoin from a recommended pension portfolio last week. Bitcoin developers are in denial, crypto venture capitalist Nic Carter told DL News.
 
-dlnews.com • 47m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 1d ago
 
 Strategy offers a compelling proxy for Bitcoin exposure, now trading at a 1.05x mNAV, near parity with its underlying BTC holdings. Read this MSTR stock update.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 120 • ⏱️ 41:04 • 7h ago
+👁️ 33K • 👍 2K • 💬 132 • ⏱️ 41:04 • 8h ago
 
 ---
 
@@ -333,47 +333,17 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 701 • 💬 90 • ⏱️ 20:50 • 9h ago
+👁️ 10K • 👍 806 • 💬 99 • ⏱️ 20:50 • 10h ago
 
 ---
 
-**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
+**[‘The 4-Year Bitcoin Cycle Is Broken’ - Kyle Chassé on What Happens Next](https://www.youtube.com/watch?v=xTuFgyZkQBc)**
 
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+Bitcoin is flashing a critical signal that historically hits 97% of the time - but is the macro environment about to invalidate it?
 
-📺 Altcoin Daily
+📺 Kitco NEWS
 
-👁️ 66K • 👍 3K • 💬 288 • ⏱️ 9:30 • 1d ago
-
----
-
-**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 14K • 👍 735 • 💬 66 • ⏱️ 19:22 • 15h ago
-
----
-
-**[Major Bitcoin Setback As 182,000 Traders Are Wiped Out!](https://www.youtube.com/watch?v=ikWpsze9-Xw)**
-
-Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy pressure this morning as a perfect storm of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 1K • 💬 169 • ⏱️ 42:24 • 8h ago
-
----
-
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 17K • 👍 367 • 💬 130 • ⏱️ 1:16 • 1d ago
+👁️ 1K • 👍 107 • 💬 43 • ⏱️ 32:39 • 3h ago
 
 ---
 
@@ -383,17 +353,17 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 23K • 👍 2K • 💬 156 • ⏱️ 18:43 • 9h ago
+👁️ 28K • 👍 2K • 💬 183 • ⏱️ 18:43 • 9h ago
 
 ---
 
-**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
+**[&quot;The Market Will DOUBLE SOON!!!&quot; - Trump On Markets Bitcoin &amp; MSTR Update 2026](https://www.youtube.com/watch?v=oYv2uVbOKls)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+"The Market Will DOUBLE SOON!!!" - Trump On Markets Bitcoin & MSTR Update 2026 CHECK OUT OUR BITCOIN HATS!
 
-📺 Crypto Kid
+📺 Bitcoin Bros
 
-👁️ 5K • 👍 746 • 💬 63 • ⏱️ 7:51 • 6h ago
+👁️ 387 • 👍 47 • 💬 3 • ⏱️ 9:33 • 3h ago
 
 ---
 
@@ -403,7 +373,27 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 14K • 👍 895 • 💬 129 • ⏱️ 8:21 • 1d ago
+👁️ 14K • 👍 899 • 💬 129 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[Major Bitcoin Setback As 182,000 Traders Are Wiped Out!](https://www.youtube.com/watch?v=ikWpsze9-Xw)**
+
+Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy pressure this morning as a perfect storm of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 21K • 👍 1K • 💬 220 • ⏱️ 42:24 • 8h ago
+
+---
+
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 17K • 👍 371 • 💬 136 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -413,7 +403,17 @@ Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Sa
 
 📺 Swan Bitcoin
 
-👁️ 16K • 👍 575 • 💬 31 • ⏱️ 1:32 • 1d ago
+👁️ 17K • 👍 584 • 💬 31 • ⏱️ 1:32 • 1d ago
+
+---
+
+**[Cardano CEO Crashes Out As CLARITY Act Get&#39;s &#39;Sabotaged&#39;](https://www.youtube.com/watch?v=FGxYARR1eug)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 284 • ⏱️ 8:54 • 2d ago
 
 ---
 

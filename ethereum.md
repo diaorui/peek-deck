@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T23:26:51.451899+00:00'
+updated: '2026-01-21T23:49:18.546635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 23:26 UTC  
+**Last Updated:** January 21, 2026 at 23:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.10B
+**Market Cap:** $360.12B
 Rank #2
 
 **Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-39.7%
 
 **All-Time Low:** $0.43
-+699236.5%
++688771.7%
 
 ---
 
@@ -88,7 +88,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-12h ago
+13h ago
 
 ---
 
@@ -160,7 +160,7 @@ dlnews.com • 1d ago
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -230,13 +230,13 @@ Nasdaq • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-6qiAcQzN64)**
+**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 131 • 💬 9 • ⏱️ 6:37 • 11h ago
+👁️ 3K • 👍 175 • 💬 42 • ⏱️ 22:48 • 2h ago
 
 ---
 
@@ -246,7 +246,27 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 577 • 👍 81 • 💬 1 • ⏱️ 19:04 • 5h ago
+👁️ 855 • 👍 97 • 💬 1 • ⏱️ 19:04 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-6qiAcQzN64)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 6:37 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 399 • 👍 48 • 💬 7 • ⏱️ 10:26 • 53m ago
 
 ---
 
@@ -256,17 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 329 • 👍 45 • ⏱️ 19:48 • 2h ago
-
----
-
-**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
-
-BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 974 • 👍 70 • 💬 24 • ⏱️ 22:48 • 2h ago
+👁️ 1K • 👍 160 • ⏱️ 19:48 • 2h ago
 
 ---
 
@@ -276,27 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 287 • 👍 19 • 💬 9 • ⏱️ 5:25 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=k7Js89TPC0A)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 23h ago
-
----
-
-**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 21K • 👍 1K • 💬 264 • ⏱️ 16:10 • 1d ago
+👁️ 325 • 👍 19 • 💬 4 • ⏱️ 5:25 • 14h ago
 
 ---
 
@@ -310,6 +300,16 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=k7Js89TPC0A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 131 • 💬 11 • ⏱️ 7:43 • 1d ago
+
+---
+
 **[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
 
 BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
@@ -320,13 +320,13 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=hGk20zQLhAI)**
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Aderty
+📺 AllinCrypto
 
-👁️ 1K • 👍 1K • 2h ago
+👁️ 21K • 👍 1K • 💬 264 • ⏱️ 16:10 • 1d ago
 
 ---
 
