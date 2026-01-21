@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T10:30:45.863027+00:00'
+updated: '2026-01-21T11:25:40.484020+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 10:30 UTC  
+**Last Updated:** January 21, 2026 at 11:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 ---
 
+**[Anthropic CEO, Dario Amodei: "we might be 6-12 months away from models doing all of what software engineers do end-to-end" We're approaching a feedback loop where AI builds better AI But the loop isn't fully closed yet, chip manufacturing and training time still limit speed](https://www.reddit.com/r/artificial/comments/1qiu775/anthropic_ceo_dario_amodei_we_might_be_612_months/)**
+
+AGI is just 6 months away.
+
+1h ago
+
+---
+
 **[CAMB.AI Unveils MARS8: The First Family of TTS Architectures, Ending the Era of One-Size-Fits-All Voice AI](https://www.reddit.com/r/artificial/comments/1qiq1ht/cambai_unveils_mars8_the_first_family_of_tts/)**
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 4h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 5h ago
 
 ---
 
@@ -57,7 +65,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 3h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 4h ago
 
 ---
 
@@ -65,7 +73,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 6h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 7h ago
 
 ---
 
@@ -73,7 +81,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 17h ago
 
 ---
 
@@ -82,14 +90,6 @@ Following recent discussions over AI contributions to the LLVM open-source compi
 I have seen many people talking to Al as a companion or as a BF/GF but they fear talking about it..cause they'll be seen a loner Is it correct or not?
 
 1d ago
-
----
-
-**[Did I (Gemini 3 Pro Review really) accidentally find something huge, a new sort of AI system that can replicate any complex signal. Fast.](https://www.reddit.com/r/artificial/comments/1qirz7i/did_i_gemini_3_pro_review_really_accidentally/)**
-
-A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
-
-🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 2h ago
 
 ---
 
@@ -109,11 +109,11 @@ One impression I keep having is that most AI company marketing, success stories,
 
 ---
 
-**[Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://www.reddit.com/r/artificial/comments/1qh5usj/musk_wants_up_to_134b_in_openai_lawsuit_despite/)**
+**[Did I (Gemini 3 Pro Review really) accidentally find something huge, a new sort of AI system that can replicate any complex signal. Fast.](https://www.reddit.com/r/artificial/comments/1qirz7i/did_i_gemini_3_pro_review_really_accidentally/)**
 
-Musk's legal team argues he should be compensated as an early startup investor who sees returns "many orders of magnitude greater" than his initial investment.
+A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) • 1d ago
+🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 3h ago
 
 ---
 
@@ -121,11 +121,11 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 ## Google News: "ai"
 
-**[Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'](https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html)**
+**[AI impacting labor market ‘like a tsunami’ as layoff fears mount](https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html)**
 
-Salesforce CEO Marc Benioff described AI models as "suicide coaches" at the World Economic Forum's flagship conference Tuesday.
+"Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 17h ago
+CNBC • 22h ago
 
 ---
 
@@ -137,55 +137,55 @@ BBC • 1d ago
 
 ---
 
-**[Nvidia Invests in AI Start-Up Baseten. It Shows a Shift in the AI Market.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-baseten-dff85821?mod=barronsgooglenews&gaa_at=eafs&gaa_n=AWEtsqetaxLMZWIi2W9y0IgN_Iyoq_QO0I05aHpSR7EHp1pSHK0503BZNvMy&gaa_ts=6970a119&gaa_sig=E6aMnL8xHZxig2uCxorrHH0BJDVe6gYvsg-GYgK5ymy709Ez1tkO0AGI0UGKHPVm4QmzjFPpEhl8NM5-o-f5uQ%3D%3D)**
+**[Anthropic and Teach For All launch global AI training initiative for educators](https://www.anthropic.com/news/anthropic-teach-for-all)**
 
-Barron's • 2h ago
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 20h ago
 
 ---
 
 **[Big tech's AI tools crowd the classroom](https://www.axios.com/2026/01/21/google-anthropic-microsoft-education)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
-**[China AI Firm Zhipu Limits Coding Agent Access as Demand Soars](https://www.bloomberg.com/news/articles/2026-01-21/china-ai-firm-zhipu-limits-coding-agent-access-as-demand-soars)**
+**[Colleges Are Letting AI Bots Help Make Decisions on Who to Admit](https://www.bloomberg.com/news/articles/2026-01-21/ai-bots-evaluate-college-applications-in-new-era-for-admissions)**
 
 Bloomberg • 1h ago
 
 ---
 
-**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
+**[AI works best with humans in the lead, Accenture CEO says](https://www.axios.com/2026/01/21/accenture-artificial-intelligence-davos-julie-sweet)**
 
-With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
-
-CNN • 2d ago
+Axios • 34m ago
 
 ---
 
-**[What Is College for in the Age of AI?](https://nymag.com/intelligencer/article/what-is-college-for-in-the-age-of-ai.html)**
+**[How This AI-Infused Warehouse Sorts Real Louis Vuitton Bags From Fakes](https://www.wsj.com/articles/how-this-ai-infused-warehouse-sorts-real-louis-vuitton-bags-from-fakes-61c92eb5?gaa_at=eafs&gaa_n=AWEtsqdrJGVy9MUAosYP6zDUBubg1F5w9eRrBLJ13jVfF9pezMcIgaZTneg1&gaa_ts=6970bb16&gaa_sig=ijfArGHp4JQVJRfmT1xT7mcrfaWHU7nymvBPEtfb9B8_uc5yWmXrJTOQcJsxrznjPmKAifDSzCuBk2aeuW6R3A%3D%3D)**
 
-Young graduates can’t find jobs. Schools know they have to make big changes. But what?
+The Wall Street Journal • 25m ago
 
-New York Magazine • 1d ago
+---
+
+**[House passes AI education bill for small businesses in landslide 395-14 vote](https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote)**
+
+House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
+
+Fox News • 9h ago
 
 ---
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[Horizon 1000: Advancing AI for primary healthcare](https://openai.com/index/horizon-1000/)**
+**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
 
-OpenAI • 5h ago
-
----
-
-**[Gates and OpenAI team up for AI health push in African countries](https://www.reuters.com/business/healthcare-pharmaceuticals/gates-openai-team-up-ai-health-push-african-countries-2026-01-21/)**
-
-Reuters • 5h ago
+Reuters • 58m ago
 
 ---
 
@@ -213,11 +213,19 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ---
 
+**[The Agentic AI Handbook: Production-Ready Patterns](https://news.ycombinator.com/item?id=46701969)**
+
+A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
+
+⬆️ 160 • 💬 81 • 4h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+
+---
+
 **[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 155 • 💬 175 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 155 • 💬 176 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -225,7 +233,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 126 • 💬 58 • 12h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 131 • 💬 62 • 13h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -233,7 +241,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 117 • 💬 150 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 118 • 💬 151 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -253,19 +261,9 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
-**[The Agentic AI Handbook: Production-Ready Patterns](https://news.ycombinator.com/item?id=46701969)**
+**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
-
-⬆️ 90 • 💬 26 • 3h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
-
----
-
-**[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
-
-With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
-
-⬆️ 86 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+⬆️ 89 • 💬 55 • 17h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -289,7 +287,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 16h ago
+👁️ 75K • 👍 3K • 💬 650 • ⏱️ 1:39:31 • 17h ago
 
 ---
 
@@ -319,7 +317,7 @@ How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! �
 
 📺 Wholesale Ted
 
-👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 16h ago
+👁️ 30K • 👍 2K • 💬 232 • ⏱️ 22:39 • 17h ago
 
 ---
 
@@ -339,7 +337,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 18h ago
+👁️ 13K • 👍 426 • 💬 166 • ⏱️ 12:14 • 19h ago
 
 ---
 
@@ -367,7 +365,7 @@ My Latest AI Business Guide: https://youtu.be/GTWWNZyIsSc Join the #1 community 
 
 📺 Maggie McGaugh
 
-👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 17h ago
+👁️ 236K • 👍 9K • 💬 129 • ⏱️ 0:52 • 18h ago
 
 ---
 
@@ -383,7 +381,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 804 • 20h ago
+⬇️ 69,491 • ❤️ 804 • 21h ago
 
 ---
 
@@ -515,7 +513,7 @@ PaddleOCR 3.0 offers efficient OCR and document parsing solutions with models ha
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 24 • 💬 4 • ⭐ 1,160 • 5d ago
+▲ 24 • 💬 4 • ⭐ 1,160 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -647,7 +645,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 5h ago
+⭐ 9.5k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -657,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 472 • 18h ago
+⭐ 9.1k • 🔱 472 • 19h ago
 
 ---
 
@@ -677,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 756 • 16h ago
+⭐ 6.0k • 🔱 756 • 17h ago
 
 ---
 
@@ -687,7 +685,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 886 • 1h ago
+⭐ 5.3k • 🔱 886 • 2h ago
 
 ---
 
@@ -697,7 +695,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.3k • 21h ago
+⭐ 4.2k • 🔱 4.3k • 22h ago
 
 ---
 
@@ -717,7 +715,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 309 • 6h ago
+⭐ 2.2k • 🔱 309 • 7h ago
 
 ---
 
@@ -727,7 +725,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 17h ago
+⭐ 1.9k • 🔱 153 • 18h ago
 
 ---
 

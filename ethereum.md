@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T10:30:45.877491+00:00'
+updated: '2026-01-21T11:25:40.503258+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 10:30 UTC  
+**Last Updated:** January 21, 2026 at 11:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
+**24h:** -4.3%  
 **7d:** -10.3%  
-**30d:** +0.3%  
-**90d:** -24.5%  
+**30d:** +0.4%  
+**90d:** -24.4%  
 **1y:** -8.2%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-2h ago
+3h ago
 
 ---
 
@@ -88,13 +88,21 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 12h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 10h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 11h ago
+
+---
+
+**[Ethereum usage in crypto payments in 2025](https://www.reddit.com/r/ethereum/comments/1qiuoqm/ethereum_usage_in_crypto_payments_in_2025/)**
+
+We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
+
+40m ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[We need more DAOs - but different and better DAOs.](https://www.reddit.com/r/ethereum/comments/1qgxapi/we_need_more_daos_but_different_and_better_daos/)**
-
-The original drive to build Ethereum was heavily inspired by decentralized autonomous organizations: systems of code and rules that lived on decentralized networks that could manage resources and direct activity, more efficiently and more robustly than traditional governments and corporations could. Since then, the concept of DAOs has migrated to essentially referring to a treasury controlled by token holder voting - a design which "works", hence why it got copied so much, but a design which is inefficient, vulnerable to capture, and fails utterly at the goal of mitigating the weaknesses of human politics. As a result, many have become cynical about DAOs. But we need DAOs. We need DAOs to create better oracles. Today, decentralized stablecoins, prediction markets, and other basic building blocks of defi are built on oracle designs that we are not satisfied with. If the oracle is token based, whales can manipulate the answer on a subjective issue and it becomes difficult to counteract them. Fundamentally, a token-based oracle cannot have a cost of attack higher than its market cap, which in turn means it cannot secure assets without extracting rent higher than the discount rate. And if the oracle uses human curation, then it's not very decentralized. The problem here is not greed. The problem is that we have bad oracle designs, we need better ones, and bootstrapping them is not just a technical problem but also a social problem. We need DAOs for onchain dispute resolution, a necessary component of many types of more advanced smart contract use cases (eg. insurance). This is the same type of problem as price oracles, but even more subjective, and so even harder to get right. We need DAOs to maintain lists. This includes: lists of applications known to be secure or not scams, lists of canonical interfaces, lists of token contract addresses, and much more. We need DAOs to get projects off the ground quickly. If you have a group of people, who all want something done and are willing to contribute some funds (perhaps in exchange for benefits), then how do you manage this, especially if the task is too short-duration for legal entities to be worth it? We need DAOs to do long-term project maintenance. If the original team of a project disappears, how can a community keep going, and how can new people coming in get the funding they need? One framework that I use to analyze this is "convex vs concave" from https://vitalik.eth.limo/general/2020/11/08/concave.html . If the DAO is solving a concave problem, then it is in an environment where, if faced with two possible courses of action, a compromise is better than a coin flip. Hence, you want systems that maximize robustness by averaging (or rather, medianing) in input from many sources, and protect against capture and financial attacks. If the DAO is solving a convex problem, then you want the ability to make decisive choices and follow through on them. In this case, leaders can be good, and the job of the decentralized process should be to keep the leaders in check. For all of this to work, we need to solve two problems: privacy, and decision fatigue. Without privacy, governance becomes a social game (see https://vitalik.eth.limo/general/2025/04/14/privacy.html ). And if people have to make decisions every week, for the first month you see excited participation, but over time willingness to participate, and even to stay informed, declines. I see modern technology as opening the door to a renaissance here. Specifically: ZK (and in some cases MPC/FHE, though these should be used only when ZK along cannot solve the problem) for privacy AI to solve decision fatigue Consensus-finding communication tools (like pol.is, but going further) AI must be used carefully: we must not put full-size deepseek (or worse, GPT 5.2) in charge of a DAO and call it a day. Rather, AI must be put in thoughtfully, as something that scales and enhances human intention and judgement, rather than replacing it. This could be done at DAO level (eg. see how https://www.deepfunding.org/ works), or at individual level (user-controlled local LLMs that vote on their behalf). It is important to think about the "DAO stack" as also including the communication layer, hence the need for forums and platforms specially designed for the purpose. A multisig plus well-designed consensus-finding tools can easily beat idealized collusion-resistant quadratic funding plus crypto twitter. But in all cases, we need new designs. Projects that need new oracles and want to build their own should see that as 50% of their job, not 10%. Projects working on new governance designs should build with ZK and AI in mind, and they should treat the communication layer as 50% of their job, not 10%. This is how we can ensure the decentralization and robustness of the Ethereum base layer also applies to the world that gets built on top.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,21 +154,27 @@ The original drive to build Ethereum was heavily inspired by decentralized auton
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 14h ago
+dlnews.com • 15h ago
 
 ---
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
-**[Solana ETFs Outperform Bitcoin and Ethereum Amid Market Crash](https://finance.yahoo.com/news/solana-etfs-outperform-bitcoin-ethereum-080000468.html)**
+**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
 
-Solana outperforms major tokens as ETFs see inflows, network growth holds steady, and the price defends key support amid market crash.
+Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
+
+The Block • 58m ago
 
 ---
 
@@ -180,15 +186,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdnZQ13q1AOo2EW_AJQTL7zLPxGBwQ122GS_NC4Nna2gBsiJaiqFFOW&gaa_ts=6970a11d&gaa_sig=T-NCUtAUK3CEL8XnYsMPrA5ggZI7QT-74E-dM7oXZH0aZvW3zR8RzehnJuaFwHQLYh_0D16NbG4MzOsviM4tCQ%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdA8NYxtawrt6-HVN6lstfb2DTd4UxVTkUoQhd3BTlE3fYce9JqXJ8r&gaa_ts=6970bb18&gaa_sig=J2sP-K4Z3xW0bfcwSHt_BTmLu7HPZZnuivTuo-1iS4R4xn2VwdsUGs_gKFmsL53esDjHIupp_iJFManEG4rMQg%3D%3D)**
 
-MarketWatch • 19h ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqc08c7krWKWLbsQ3zR_AJvxotjPKCHScdlmpRzkgNx0g9UVlRFLVACe&gaa_ts=6970a11d&gaa_sig=kLs5Eo0Ol2Y1V-5jJilXk2uffsS6x7PmB1EjRn5o-W8rltF-x0C5VhVGAbDg8JSG0IWO6mcobGtdY45rYupjow%3D%3D)**
-
-Barron's • 1d ago
+MarketWatch • 20h ago
 
 ---
 
@@ -196,7 +196,23 @@ Barron's • 1d ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend correction as bearish pressure persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-correction-as-bearish-pressure-persists-202601210349)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) steadied on Wednesday, after correcting by nearly 5%, 10% and 5%, respectively, so far this week. BTC slips below $90,000, while ETH and XRP close below their key daily supports.
+
+FXStreet • 7h ago
+
+---
+
+**[Crypto market crashes today: Why BTC, ETH and XRP prices are falling as market capitalisation drops 3%, an](https://m.economictimes.com/news/international/us/crypto-market-crashes-today-why-bitcoin-btc-usd-ethereum-eth-and-xrp-prices-are-falling-across-the-board-as-market-capitalisation-drops-3-and-what-the-technical-outlook-signals-consolidation-or-panic/articleshow/126785554.cms)**
+
+Crypto market crashes today: Bitcoin, Ethereum and XRP prices are falling across the board as market capitalisation drops 3%. Bitcoin has slipped below $93,000, while Ethereum trades near $3,200 amid broad selling. XRP and other major tokens are also in the red. Data shows 95 of the top 100 coins declining. Bitcoin is losing its "digital gold" status to physical gold, which hit record highs of $4,725. Analysts warn that breaking the $90,000 support could trigger a deeper slide toward $75,000.
+
+The Economic Times • 1d ago
 
 ---
 
@@ -205,22 +221,6 @@ TradingView — Track All Markets • 18h ago
 Buterin argued that DAOs are currently “inefficient” and “vulnerable to capture,” calling for solutions based on ZK-proofs.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
-
-Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
-
-CryptoSlate • 2d ago
-
----
-
-**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
-
-ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
-
-AMBCrypto • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 10 • ⏱️ 7:43 • 10h ago
+👁️ 2K • 👍 121 • 💬 10 • ⏱️ 7:43 • 11h ago
 
 ---
 
@@ -254,7 +254,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 30K • 👍 3K • 💬 29 • ⏱️ 12:15 • 1d ago
+👁️ 30K • 👍 3K • 💬 29 • ⏱️ 12:15 • 2d ago
 
 ---
 
@@ -264,7 +264,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 20h ago
+👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 21h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 1K • 💬 271 • ⏱️ 16:10 • 21h ago
+👁️ 20K • 👍 1K • 💬 271 • ⏱️ 16:10 • 22h ago
 
 ---
 
@@ -294,7 +294,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 296 • 💬 25 • ⏱️ 9:21 • 2d ago
+👁️ 8K • 👍 296 • 💬 25 • ⏱️ 9:21 • 3d ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 20h ago
+👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 21h ago
 
 ---
 
@@ -314,7 +314,7 @@ Muitos estão dizendo que o Ethereum está morrendo, mas será que essa narrativ
 
 📺 Orlando on Crypto
 
-👁️ 4K • 👍 584 • 💬 148 • ⏱️ 18:49 • 11h ago
+👁️ 4K • 👍 584 • 💬 148 • ⏱️ 18:49 • 12h ago
 
 ---
 
@@ -324,7 +324,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 309 • 💬 124 • ⏱️ 1:16 • 13h ago
+👁️ 13K • 👍 309 • 💬 124 • ⏱️ 1:16 • 14h ago
 
 ---
 
