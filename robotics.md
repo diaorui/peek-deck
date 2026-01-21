@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T07:52:47.460139+00:00'
+updated: '2026-01-21T08:34:14.238041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 07:52 UTC  
+**Last Updated:** January 21, 2026 at 08:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-17m ago
+58m ago
 
 ---
 
@@ -74,7 +74,7 @@ Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focuse
 
 Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 **[Something new on the market! CraneBOT!](https://www.reddit.com/r/robotics/comments/1qibk4i/something_new_on_the_market_cranebot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 10h ago
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -146,7 +146,7 @@ Financial Times • 21h ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -154,7 +154,7 @@ Reuters • 13h ago
 
 Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 14K • 👍 593 • 💬 139 • ⏱️ 16:49 • 13h ago
+👁️ 14K • 👍 593 • 💬 139 • ⏱️ 16:49 • 14h ago
 
 ---
 

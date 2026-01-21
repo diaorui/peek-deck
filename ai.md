@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T07:52:47.441148+00:00'
+updated: '2026-01-21T08:34:14.219420+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 07:52 UTC  
+**Last Updated:** January 21, 2026 at 08:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,15 @@ Pentagon launched a $100M competition for autonomous drone swarm coordination. T
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 1h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 2h ago
+
+---
+
+**[Did I (Gemini 3 Pro Review really) accidentally find something huge, a new sort of AI system that can replicate any complex signal. Fast.](https://www.reddit.com/r/artificial/comments/1qirz7i/did_i_gemini_3_pro_review_really_accidentally/)**
+
+A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
+
+🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 36m ago
 
 ---
 
@@ -57,7 +65,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 40m ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 1h ago
 
 ---
 
@@ -65,7 +73,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 3h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 4h ago
 
 ---
 
@@ -73,7 +81,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 14h ago
 
 ---
 
@@ -97,7 +105,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-22h ago
+23h ago
 
 ---
 
@@ -109,14 +117,6 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 ---
 
-**[What Amodei and Hassabis said about AGI timelines, jobs, and China at Davos](https://www.reddit.com/r/artificial/comments/1qib8fm/what_amodei_and_hassabis_said_about_agi_timelines/)**
-
-Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
-
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 12h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up th
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 18h ago
 
 Young graduates can’t find jobs. Schools know they have to make big changes. But what?
 
-New York Magazine • 21h ago
+New York Magazine • 22h ago
 
 ---
 
@@ -141,7 +141,7 @@ New York Magazine • 21h ago
 
 Several top hedge fund managers bought shares of Nvidia and Western Digital in the third quarter.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -149,7 +149,7 @@ The Motley Fool • 23h ago
 
 These stocks have incredible long-term opportunities.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -157,19 +157,19 @@ The Motley Fool • 4h ago
 
 2026 will be its hardest year yet for artificial intelligence, according to analysts at the investment bank.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
 **[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqdi0UoZljsJQY442wL_7BkJ1XOO0IBqUdJyCV4lTolLGqLDUHFM_Xhe&gaa_ts=69708933&gaa_sig=4ardRfJk2mW2nd6LpjljjXonqJJu9M8PwOES1ovkkImbXZHdasA0vZ7NXBcl4K56J5dmIGd7UfOyOP0wVx01iA%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Guardian • 2d ago
 
 **[DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West](https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Wikipedia: WikiProject AI Cleanup](https://news.ycombinator.com/item?id=46677106)**
 
-⬆️ 231 • 💬 91 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+⬆️ 232 • 💬 91 • 1d ago • [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 
 ---
 
@@ -223,7 +223,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 155 • 💬 174 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 155 • 💬 175 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -231,15 +231,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 117 • 💬 150 • 23h ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
-
----
-
-**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
-
-: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
-
-⬆️ 107 • 💬 129 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+⬆️ 117 • 💬 150 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -247,7 +239,15 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 107 • 💬 50 • 9h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 117 • 💬 53 • 10h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+
+---
+
+**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
+
+: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
+
+⬆️ 107 • 💬 128 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -259,19 +259,17 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
-**[Curl removes bug bounties because of AI slop](https://news.ycombinator.com/item?id=46701733)**
-
-Nyheter för dig som är verksam i den svenska elektronikbranschen som exempelvis tillverkare, konsult, distributör, finansiär, investerare, konstruktör eller tekniker.
-
-⬆️ 91 • 💬 21 • 1h ago • [etn.se](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
-
----
-
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
 ⬆️ 86 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
+
+---
+
+**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
+
+⬆️ 84 • 💬 55 • 14h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -295,7 +293,7 @@ How to write, publish and sell an AI novel on Amazon KDP using FREE AI tools! �
 
 📺 Wholesale Ted
 
-👁️ 26K • 👍 2K • 💬 214 • ⏱️ 22:39 • 13h ago
+👁️ 26K • 👍 2K • 💬 214 • ⏱️ 22:39 • 14h ago
 
 ---
 
@@ -355,7 +353,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 11K • 👍 355 • 💬 136 • ⏱️ 12:14 • 15h ago
+👁️ 11K • 👍 355 • 💬 136 • ⏱️ 12:14 • 16h ago
 
 ---
 
@@ -365,7 +363,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Bloomberg Live
 
-👁️ 34K • 👍 982 • 💬 140 • ⏱️ 26:04 • 14h ago
+👁️ 34K • 👍 982 • 💬 140 • ⏱️ 26:04 • 15h ago
 
 ---
 
@@ -663,7 +661,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 466 • 15h ago
+⭐ 9.0k • 🔱 466 • 16h ago
 
 ---
 
@@ -673,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 381 • 9h ago
+⭐ 7.8k • 🔱 381 • 10h ago
 
 ---
 
@@ -683,7 +681,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 753 • 13h ago
+⭐ 5.9k • 🔱 753 • 14h ago
 
 ---
 
@@ -693,7 +691,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 883 • 20h ago
+⭐ 5.3k • 🔱 883 • 21h ago
 
 ---
 
@@ -703,7 +701,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.2k • 18h ago
+⭐ 4.2k • 🔱 4.2k • 19h ago
 
 ---
 
@@ -741,7 +739,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.7k • 🔱 130 • 1d ago
+⭐ 1.7k • 🔱 130 • 2d ago
 
 ---
 

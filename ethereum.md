@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T07:52:47.456690+00:00'
+updated: '2026-01-21T08:34:14.234706+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 07:52 UTC  
+**Last Updated:** January 21, 2026 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,982.69
+### $2,939.88
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 9h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 7h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 8h ago
 
 ---
 
@@ -154,13 +154,13 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 12h ago
+dlnews.com • 13h ago
 
 ---
 
 **[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ CoinDesk • 2d ago
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqc6h9vUW9KDoNRXSLuQ0_o0_I8Coopvi9KlTmllzrzakCAB5FqBJN0F&gaa_ts=69708936&gaa_sig=bJAOGQJZBEM7VM5WrWvPC5LSGmns1dK0D-mRPRi-PHbUXHPCtl4tvDzCMOIpkBG6YyyQkFRE2x7wz9-rn4oiRg%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 16h ago
 
 **[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfSCX0Dq6Bi1Siv06cXlB7GFJMLaY65k_jjNCqDu7j-zF0qoqg7yHT9&gaa_ts=69708936&gaa_sig=RJGXUaAlqZ61j14owfKagFk41uzlBA7_MPXlmVixEL7TiHirVoGxEA5zK2isXSrYpmiaxoolQBDJaRJTN3VshA%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 1d ago
 
 Key PointsCryptocurrencies are not stocks.
 
-Nasdaq • 19h ago
+Nasdaq • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 364 • 💬 174 • ⏱️ 21:23 • 12h ago
+👁️ 10K • 👍 364 • 💬 174 • ⏱️ 21:23 • 13h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 18h ago
+👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 1K • 💬 270 • ⏱️ 16:10 • 18h ago
+👁️ 20K • 👍 1K • 💬 270 • ⏱️ 16:10 • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 740 • 👍 14 • 💬 9 • ⏱️ 4:56 • 22h ago
+👁️ 740 • 👍 14 • 💬 9 • ⏱️ 4:56 • 23h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 17h ago
+👁️ 3K • 👍 133 • 💬 1 • ⏱️ 5:30 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wel
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 11K • 👍 1K • 💬 35 • ⏱️ 30:52 • 14h ago
+👁️ 11K • 👍 1K • 💬 35 • ⏱️ 30:52 • 15h ago
 
 ---
 
@@ -324,7 +324,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 11h ago
+👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T07:52:47.450316+00:00'
+updated: '2026-01-21T08:34:14.228568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 07:52 UTC  
+**Last Updated:** January 21, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,578.19
+### $89,194.18
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
 
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 8h ago
+
+---
+
+**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
+
+9h ago
 
 ---
 
@@ -93,35 +99,15 @@ Took me some time. I feel so proud.
 
 ---
 
-**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
-
-8h ago
-
----
-
 **[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
 
-15h ago
+16h ago
 
 ---
 
 **[I found this in my old pictures](https://www.reddit.com/r/Bitcoin/comments/1qipbm8/i_found_this_in_my_old_pictures/)**
 
 and a small piece of me died again
-
-2h ago
-
----
-
-**[We’ve been here before, we’ll recover very soon!](https://www.reddit.com/r/Bitcoin/comments/1qi82gr/weve_been_here_before_well_recover_very_soon/)**
-
-Hopefully it holds til I get my paycheck this Friday
-
-14h ago
-
----
-
-**[Must've been the wind](https://www.reddit.com/r/Bitcoin/comments/1qinz88/mustve_been_the_wind/)**
 
 3h ago
 
@@ -135,11 +121,25 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 ---
 
-**[I got into Bitcoin in November 2025...](https://www.reddit.com/r/Bitcoin/comments/1qijcun/i_got_into_bitcoin_in_november_2025/)**
+**[Must've been the wind](https://www.reddit.com/r/Bitcoin/comments/1qinz88/mustve_been_the_wind/)**
 
-For the first time I made a calculated investment late last year. Looking at the chart the past five years 2022 seemed brutal as hell. How in the hell did any of you get through that? My conviction builds every single day. I'm basically a Maxi now and love this community but I'm still human and the world feels like its burning before our very eyes some days.
+4h ago
 
-6h ago
+---
+
+**[We’ve been here before, we’ll recover very soon!](https://www.reddit.com/r/Bitcoin/comments/1qi82gr/weve_been_here_before_well_recover_very_soon/)**
+
+Hopefully it holds til I get my paycheck this Friday
+
+14h ago
+
+---
+
+**[I was told to drop my updated one here](https://www.reddit.com/r/Bitcoin/comments/1qirbd7/i_was_told_to_drop_my_updated_one_here/)**
+
+Stacking may mean sacrifice today for tomorrow however your future self will thank you for your better choice over that expensive meal, especially in the ends.
+
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ For the first time I made a calculated investment late last year. Looking at the
 
 Billionaire Michael Saylor's bitcoin-focused firm Strategy said on Tuesday it ​bought about $2.13 billion worth of bitcoin ‌over the past eight days, stepping up purchases even ‌as its stock has been pressured by cryptocurrency volatility.  The company acquired roughly 22,305 bitcoin between the period of January 12 and January ⁠19, according to ‌a regulatory filing.  Saylor said in an X post on Tuesday that ‍Strategy holds 709,715 bitcoin as of January 19.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 17h ago
 
 **[Strategy buys another 22,305 bitcoin for $2.1 billion in biggest purchase in over a year as holdings top 700,000 BTC](https://www.theblock.co/post/386103/strategy-bigger-orange-bitcoin-buy)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 11h ago
 
 Thecryptocurrency market continues to 'bleed' as global financial markets experience significant sell-offs and investors reduce their risk exposure amid ongoing geopolitical tensions. On Wednesday (January 21), Bitcoin fell below $90,000, reaching its lowest level in more than a week.
 
-富途资讯 • 1h ago
+富途资讯 • 2h ago
 
 ---
 
@@ -193,13 +193,13 @@ Thecryptocurrency market continues to 'bleed' as global financial markets experi
 
 Bitcoin price has pulled back, but a familiar technical and on-chain setup is forming.Here’s what must align for $100,000 to happen.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ MarketWatch • 1d ago
 
 **[Solo-Mine Bitcoin From Your Desk With This $60 Lottery Ticket Machine](https://www.entrepreneur.com/money-finance/solo-mine-bitcoin-from-your-desk-with-this-60-lottery/501956)**
 
-entrepreneur.com • 17h ago
+entrepreneur.com • 18h ago
 
 ---
 
@@ -271,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 14h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 15h ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -287,7 +287,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 3 • 11h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 3 • 12h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -313,7 +313,7 @@ Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 25K • 👍 1K • 💬 238 • ⏱️ 14:45 • 21h ago
+👁️ 25K • 👍 1K • 💬 238 • ⏱️ 14:45 • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 11h ago
+👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 12h ago
 
 ---
 
@@ -333,7 +333,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 894 • 💬 210 • ⏱️ 9:10 • 6h ago
+👁️ 13K • 👍 894 • 💬 210 • ⏱️ 9:10 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 164 • ⏱️ 22:10 • 7h ago
+👁️ 18K • 👍 2K • 💬 164 • ⏱️ 22:10 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macr
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 192 • 💬 33 • ⏱️ 5:17 • 7h ago
+👁️ 4K • 👍 192 • 💬 33 • ⏱️ 5:17 • 8h ago
 
 ---
 
@@ -383,7 +383,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 364 • 💬 173 • ⏱️ 21:23 • 12h ago
+👁️ 10K • 👍 364 • 💬 173 • ⏱️ 21:23 • 13h ago
 
 ---
 
@@ -393,7 +393,7 @@ In today's video Cryptomanran explains why something is broken in the crypto mar
 
 📺 Crypto Insider
 
-👁️ 29K • 👍 2K • 💬 74 • ⏱️ 21:45 • 21h ago
+👁️ 29K • 👍 2K • 💬 74 • ⏱️ 21:45 • 22h ago
 
 ---
 
