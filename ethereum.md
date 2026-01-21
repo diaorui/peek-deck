@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T18:44:01.881705+00:00'
+updated: '2026-01-21T19:28:16.494547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 18:44 UTC  
+**Last Updated:** January 21, 2026 at 19:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -12.4%  
-**30d:** -2.0%  
-**90d:** -26.2%  
-**1y:** -10.3%  
+**24h:** -1.8%  
+**7d:** -11.0%  
+**30d:** -0.4%  
+**90d:** -24.9%  
+**1y:** -8.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.83B
+**Market Cap:** $353.65B
 Rank #2
 
 **Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.0%
+-40.7%
 
 **All-Time Low:** $0.43
-+673549.3%
++677136.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-7h ago
+8h ago
 
 ---
 
@@ -96,13 +96,13 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 20h ago
 
 ---
 
 **[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 18h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 19h ago
 
 ---
 
@@ -160,29 +160,37 @@ dlnews.com • 23h ago
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[CoinDesk 20 Performance Update: Ethereum (ETH) Drops 2.1%, Leading Index Lower](https://finance.yahoo.com/news/coindesk-20-performance-ethereum-eth-141804367.html)**
+**[Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil](https://finance.yahoo.com/news/tom-lees-bitmine-adds-108-154349017.html)**
 
-Sui (SUI) was also an underperformer, down 1.6% from Tuesday.
+Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqf7M6Fpwc7_zoY48ewR0htcwsPk-YAs_2mpVN7_nrTyhfEhDKwZj8AM&gaa_ts=69711675&gaa_sig=uz-KKDRiHD4ZEVEAN1tPlo5U8NqQ9iAKArU-cedWKo0MqJ4VZ80BOZmZmIa0IvmRrgkTaQ8NaGcZ7iPI3SDjpQ%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqcasyWliGLNTqB1n2lwrXLwiYHlrJEB6AnJrvBkpnSl3SEke_jvLI5G&gaa_ts=69712c39&gaa_sig=fW58C1F4FTZvhXReFKLMmySgHMI03OprEnlSJcRLJA9AEQfXepllJqXxGg34G7R0Sn-1I04Zp-VmGJONazY4ig%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/01/21/how-the-next-ethereum-could-help-you-retire-a-mill/)**
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
 
-Any blockchain network that is able to surpass Ethereum could be capable of generating 1,000-fold returns.
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-The Motley Fool • 6h ago
+CoinDesk • 2d ago
+
+---
+
+**[What Is the NYSE Blockchain Platform? Why Execs Are ‘Bullish’—and Traders Are Speculating on Ethereum, XRP](https://finance.yahoo.com/news/nyse-blockchain-platform-why-execs-121156839.html)**
+
+NYSE is building a regulated blockchain infrastructure. Crypto executives are bullish on the move. While some traders believe tokenization could benefit established blockchains such as ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,33 +202,25 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcg2demMnoV7DEmKXyHa9_A06jgM9vl9aZg4dm_NaWIO6x9nAU5Tt3x&gaa_ts=69711675&gaa_sig=5AG_HL8ajFkEpARRvE_vvj-j3FhimIRdLtrRyyrNDnkxgfpecX3jU7jQV_IaP2klSYEcUorw8WM3JnYP2afiCQ%3D%3D)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend correction as bearish pressure persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-correction-as-bearish-pressure-persists-202601210349)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) steadied on Wednesday, after correcting by nearly 5%, 10% and 5%, respectively, so far this week. BTC slips below $90,000, while ETH and XRP close below their key daily supports.
+
+FXStreet • 15h ago
+
+---
+
+**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/01/21/how-the-next-ethereum-could-help-you-retire-a-mill/)**
+
+Any blockchain network that is able to surpass Ethereum could be capable of generating 1,000-fold returns.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfXMh92-10Lr1zN0K7haRzqLvjsk-CozgN0VMKL6Uu8hxXy1c-sSNeA&gaa_ts=69712c39&gaa_sig=1R87LsS1y3oH8SsWE58A_qzaEjGXgmXVso6eDKCGoOSgljMpOMS2hUcciKKgrBuRp57JfsaukInAS8c1PX-sgA%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
-
-A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
-
-CryptoSlate • 9h ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
-
-Key PointsCryptocurrencies are not stocks.
-
-Nasdaq • 1d ago
-
----
-
-**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
-
-Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
-
-Finance Magnates • 5h ago
 
 ---
 
@@ -234,7 +234,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 103 • 💬 5 • ⏱️ 6:37 • 6h ago
+👁️ 2K • 👍 121 • 💬 5 • ⏱️ 6:37 • 7h ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
+
+Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
+
+📺 Millionaire Formula
+
+👁️ 268 • 👍 49 • 💬 1 • ⏱️ 19:04 • 1h ago
 
 ---
 
@@ -254,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 197 • 👍 17 • 💬 2 • ⏱️ 5:25 • 8h ago
+👁️ 239 • 👍 18 • 💬 2 • ⏱️ 5:25 • 9h ago
 
 ---
 
@@ -264,7 +274,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 11K • 👍 405 • 💬 184 • ⏱️ 21:23 • 23h ago
+👁️ 12K • 👍 413 • 💬 184 • ⏱️ 21:23 • 23h ago
 
 ---
 
@@ -274,17 +284,7 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 30K • 👍 3K • 💬 29 • ⏱️ 12:15 • 2d ago
-
----
-
-**[The Investment Opportunity of a Lifetime (Don’t Miss It)](https://www.youtube.com/watch?v=kGyzKfgPc7s)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 730 • 💬 119 • ⏱️ 15:34 • 22h ago
+👁️ 31K • 👍 3K • 💬 29 • ⏱️ 12:15 • 2d ago
 
 ---
 
@@ -298,6 +298,26 @@ Welcome back for another daily market update as always this will be a jam packed
 
 ---
 
+**[The Investment Opportunity of a Lifetime (Don’t Miss It)](https://www.youtube.com/watch?v=kGyzKfgPc7s)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 16K • 👍 738 • 💬 108 • ⏱️ 15:34 • 23h ago
+
+---
+
+**[BMNR Stock &amp; Ethereum Staking Backlog — Billion-Dollar ETH Lockup, Supply Shock &amp; Investor Risk](https://www.youtube.com/watch?v=vRCQNIY0y-w)**
+
+BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethereum's staking economy — and the market may ...
+
+📺 Fundatech Insights
+
+👁️ 182 • 👍 8 • ⏱️ 7:10 • 23h ago
+
+---
+
 **[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C4p_YPBeZNY)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
@@ -305,26 +325,6 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 📺 Cilinix Crypto
 
 👁️ 807 • 👍 15 • 💬 5 • ⏱️ 4:56 • 1d ago
-
----
-
-**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
-
-In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
-
-📺 Charts & Cars by Philip Klinkmüller
-
-👁️ 15K • 👍 2K • 💬 87 • ⏱️ 30:52 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 136 • 💬 1 • ⏱️ 5:30 • 1d ago
 
 ---
 

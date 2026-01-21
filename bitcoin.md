@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T18:44:01.874899+00:00'
+updated: '2026-01-21T19:28:16.488336+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 18:44 UTC  
+**Last Updated:** January 21, 2026 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,831.92
+### $88,764.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -8.0%  
-**30d:** +0.7%  
-**90d:** -20.8%  
-**1y:** -15.4%  
+**24h:** -0.9%  
+**7d:** -7.1%  
+**30d:** +1.8%  
+**90d:** -19.8%  
+**1y:** -14.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.72B
+**Market Cap:** $1768.37B
 Rank #1
 
-**Circulating Supply:** 19,978,850 BTC
+**Circulating Supply:** 19,978,909 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.8%
 
 **All-Time Low:** $67.81
-+130394.0%
++130429.4%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 hold strong
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
+
+Thank you for your attention to this matter.
+
+1h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +111,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 and a small piece of me died again
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +125,21 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
 
+5h ago
+
+---
+
+**[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
+
+Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
+
 4h ago
+
+---
+
+**[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
+
+1h ago
 
 ---
 
@@ -127,43 +149,55 @@ First ever bitcoin ceo declares war on high prices: “we must lower prices so m
 
 ---
 
-**[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
-
-Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
-
-3h ago
-
----
-
-**[Mmmmmmm the pain](https://www.reddit.com/r/Bitcoin/comments/1qigj2m/mmmmmmm_the_pain/)**
-
-19h ago
-
----
-
-**[I was told to drop my updated one here](https://www.reddit.com/r/Bitcoin/comments/1qirbd7/i_was_told_to_drop_my_updated_one_here/)**
-
-Stacking may mean sacrifice today for tomorrow however your future self will thank you for your better choice over that expensive meal, especially in the ends.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
+
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
+
+CoinDesk • 2h ago
+
+---
 
 **[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
+
+---
+
+**[BlackRock’s IBIT powers new bitcoin annuity for U.S. retirees via Delaware Life](https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life)**
+
+The first-of-its-kind FIA, according to the companies, offers crypto exposure with principal protection, aiming to attract cautious investors near retirement.
+
+CoinDesk • 7m ago
+
+---
+
+**[Bitcoin erases 2026 gains despite Trump’s bullish Davos remarks](https://uk.finance.yahoo.com/video/bitcoin-erases-2026-gains-despite-190312613.html)**
+
+Yahoo Finance UK • 25m ago
+
+---
+
+**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqe0b_e2Q2J_eIrXNCNw_8p0ETReiQqzthNe60dHiEbO2AoGq7oRP9ZY&gaa_ts=69712c37&gaa_sig=1q9S8Id8APmSYBtGWqN3Isx1Gj3OoZKbXRTbS_G7MUUulb1-Y7XnGQjsIyZ2ZepgK0XtL-HyzlR5NedBYbok8A%3D%3D)**
+
+MarketWatch • 9h ago
+
+---
+
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
+
+Reuters • 20h ago
 
 ---
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -183,45 +217,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
+**[Bitcoin January 21 daily chart alert - Bears in control](https://www.kitco.com/news/article/2026-01-21/bitcoin-january-21-daily-chart-alert-bears-control)**
 
-There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-CoinDesk • 1h ago
-
----
-
-**[Buy the Bitcoin Dip? Not Until Short-Term Holders Show Gains, Says Compass Point](https://finance.yahoo.com/news/buy-bitcoin-dip-not-until-172308195.html)**
-
-The asset’s price jumped as high as $97,500 last week.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Fast-Food Chain Steak ‘n Shake to Pay Hourly Workers a Bitcoin Bonus](https://bitcoinmagazine.com/news/steak-n-shake-to-pay-workers-bitcoin-bonus)**
-
-Steak ‘n Shake is launching a bitcoin bonus program for hourly workers, giving $0.21 per hour worked that vests after two years, following its $10 million corporate bitcoin purchase.
-
-Bitcoin Magazine • 1h ago
-
----
-
-**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqf75c6ooJhkQDosHnpp_NOaPPrpbMRZXetRAOX16qsO2q13lyrXdLuF&gaa_ts=69711673&gaa_sig=RRcNDqQ2V8foLBXOWHfuiY_H8nWcu-NrfmK7zoI8sQSDLGqKDYxZPRiSQ2qir5oi6csMPYN7LAht25kQ8dXn5g%3D%3D)**
-
-MarketWatch • 8h ago
-
----
-
-**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
-
-Reuters • 20h ago
-
----
-
-**[Delaware Life Insurance Company Launches Industry’s First Fixed Indexed Annuity with Bitcoin Exposure](https://www.businesswire.com/news/home/20260120994831/en/Delaware-Life-Insurance-Company-Launches-Industrys-First-Fixed-Indexed-Annuity-with-Bitcoin-Exposure)**
-
-Business Wire • 1d ago
+KITCO • 9h ago
 
 ---
 
@@ -289,7 +289,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 4 • 22h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 4 • 23h ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -309,63 +309,23 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 12K • 👍 693 • 💬 67 • ⏱️ 19:22 • 10h ago
-
----
-
-**[Bitcoin Holders... Listen Up](https://www.youtube.com/watch?v=fSGj_s22Icc)**
-
-https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 357 • 💬 69 • ⏱️ 12:17 • 9h ago
-
----
-
 **[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 899 • 💬 78 • ⏱️ 41:04 • 3h ago
+👁️ 20K • 👍 1K • 💬 113 • ⏱️ 41:04 • 3h ago
 
 ---
 
-**[Another HUGE Bitcoin Dump...](https://www.youtube.com/watch?v=CtzuyN72MHo)**
+**[Did President Trump Just Reveal His Strategic Bitcoin Plan?](https://www.youtube.com/watch?v=VyX3Rz77ITg)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 312 • ⏱️ 9:10 • 17h ago
-
----
-
-**[URGENT: Bitcoin And Gold MAJOR MOVES AHEAD (Profit Guide With Bitget)](https://www.youtube.com/watch?v=nbFagJSU0tI)**
-
-Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macro events are making crypto more volatile and ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 239 • 💬 43 • ⏱️ 5:17 • 18h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 13K • 👍 871 • 💬 190 • ⏱️ 8:21 • 22h ago
+👁️ 6K • 👍 599 • 💬 77 • ⏱️ 20:50 • 5h ago
 
 ---
 
@@ -375,7 +335,27 @@ Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy p
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 655 • 💬 71 • ⏱️ 42:24 • 3h ago
+👁️ 12K • 👍 1K • 💬 138 • ⏱️ 42:24 • 4h ago
+
+---
+
+**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 13K • 👍 721 • 💬 71 • ⏱️ 19:22 • 11h ago
+
+---
+
+**[Bitcoin Holders... Listen Up](https://www.youtube.com/watch?v=fSGj_s22Icc)**
+
+https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 426 • 💬 69 • ⏱️ 12:17 • 10h ago
 
 ---
 
@@ -385,27 +365,47 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 347 • 💬 128 • ⏱️ 1:16 • 22h ago
+👁️ 16K • 👍 362 • 💬 130 • ⏱️ 1:16 • 22h ago
 
 ---
 
-**[Is Davos 2026 the Moment Bitcoin Becomes the Global Reserve Currency?](https://www.youtube.com/watch?v=291AJulZyK8)**
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
 
-The elites flew private to Davos to plan your future without you. Markets are cracking, trust is collapsing, and Bitcoin is rising from ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 17K • 👍 2K • 💬 157 • ⏱️ 18:43 • 5h ago
+
+---
+
+**[Could This Single Announcement Send Bitcoin to $10 Million?](https://www.youtube.com/watch?v=hKlFmLnXyBs)**
+
+The financial system is more fragile than ever and central banks know it. From alien disclosure triggering panic to inflation making ...
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 205 • ⏱️ 22:10 • 18h ago
+👁️ 41K • 👍 3K • 💬 316 • ⏱️ 21:56 • 1d ago
 
 ---
 
-**[Trump Just Unleashed Chaos in Crypto Markets](https://www.youtube.com/watch?v=UQyqD52P4yM)**
+**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
 
-Trump crazy, Greenland, Bitcoin, gold, stocks, and altcoin updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
 
-📺 Lark Davis
+📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 241 • ⏱️ 14:45 • 1d ago
+👁️ 63K • 👍 3K • 💬 284 • ⏱️ 9:30 • 21h ago
+
+---
+
+**[URGENT: Bitcoin And Gold MAJOR MOVES AHEAD (Profit Guide With Bitget)](https://www.youtube.com/watch?v=nbFagJSU0tI)**
+
+Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macro events are making crypto more volatile and ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 241 • 💬 43 • ⏱️ 5:17 • 19h ago
 
 ---
 
