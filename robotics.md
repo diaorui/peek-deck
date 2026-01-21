@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T12:53:43.783356+00:00'
+updated: '2026-01-21T13:47:53.903470+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 12:53 UTC  
+**Last Updated:** January 21, 2026 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-5h ago
+6h ago
 
 ---
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-31m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-1h ago
+2h ago
 
 ---
 
@@ -72,13 +72,13 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 Hello world? Im a Video game programmer, and i would like to get a hobby out of building robots. I got access to a 3d printer, and i know how to use tools and stuff. but as any first project, its shoudnt bee to ambitious, and idiot proof. In the dawn of AI in 2026, what would you experienced gents recommend someone to do to get started on this hobby assuming there is no previous knowladge?
 
-12m ago
+1h ago
 
 ---
 
 **[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ ODM Humanoid demo show.
 
 Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 14h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focuse
 
 Swiss scientists have developed a robotic hand that can detach from its arm, crawl, and carry objects. The detached hand successfully picked up three objects and reattached to the arm. It overcomes th
 
-🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 3h ago
+🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 4h ago
 
 ---
 
@@ -114,7 +114,7 @@ Swiss scientists have developed a robotic hand that can detach from its arm, cra
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -122,13 +122,13 @@ Yahoo Finance • 14h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
 **[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ Financial Times • 1d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -158,7 +158,7 @@ Fortune • 1d ago
 
 Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 399K • 👍 17K • 💬 4K • ⏱️ 19:17 • 5d ago
+👁️ 400K • 👍 17K • 💬 4K • ⏱️ 19:17 • 5d ago
 
 ---
 
@@ -206,17 +206,17 @@ HexRunner, developed under DARPA's FastRunner program, set a land speed record f
 
 📺 Deepen
 
-👁️ 23K • 👍 288 • 💬 4 • ⏱️ 0:23 • 4d ago
+👁️ 23K • 👍 289 • 💬 4 • ⏱️ 0:23 • 4d ago
 
 ---
 
-**[Meet the first humanoid robotic worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=aHnLVdWZpX4)**
 
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
 
-📺 UBTECH Robotics
+📺 StrEat
 
-👁️ 5K • 👍 94 • 💬 15 • ⏱️ 1:56 • 1d ago
+👁️ 139K • 👍 289 • 1d ago
 
 ---
 
@@ -230,6 +230,16 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+
+📺 CBC News: The National
+
+👁️ 15K • 👍 134 • ⏱️ 7:30 • 1d ago
+
+---
+
 **[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
 At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
@@ -240,33 +250,13 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[THESE ROBOTS ARE TITANS! NEW CONTENT IS HERE! LUNAR NEW YEAR 2026 REVIEW! (War Robots)](https://www.youtube.com/watch?v=49dVTA9B75E)**
+**[War Robots - Minos Chasm vs Minos Evora | Which Is The Better Setup?](https://www.youtube.com/watch?v=LvXmhxM9vPE)**
 
-In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolfblood7.
+War Robots - Minos Chasm vs Minos Evora. Which is the better setup? In this video, I give my thoughts on both setups along with ...
 
-📺 Wolfblood7
+📺 Adrian Chong
 
-👁️ 5K • 👍 286 • 💬 82 • ⏱️ 16:03 • 17h ago
-
----
-
-**[NEW Ammit Robot BULLDOZING The Live Server... Nothing Can Destroy It | War Robots](https://www.youtube.com/watch?v=bubrGi0ttws)**
-
-The Ammit is here on the live server and it is invincinble. We knew this thing was going to be strong, but this is just insane.
-
-📺 PREDATOR WR
-
-👁️ 17K • 👍 656 • 💬 144 • ⏱️ 16:49 • 18h ago
-
----
-
-**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=aHnLVdWZpX4)**
-
-Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
-
-📺 StrEat
-
-👁️ 130K • 👍 276 • 1d ago
+👁️ 4K • 👍 284 • 💬 63 • ⏱️ 14:11 • 23h ago
 
 ---
 
@@ -276,17 +266,27 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 139K • 👍 6K • 💬 390 • ⏱️ 17:36 • 6d ago
+👁️ 139K • 👍 6K • 💬 391 • ⏱️ 17:36 • 6d ago
 
 ---
 
-**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+**[THESE ROBOTS ARE TITANS! NEW CONTENT IS HERE! LUNAR NEW YEAR 2026 REVIEW! (War Robots)](https://www.youtube.com/watch?v=49dVTA9B75E)**
 
-Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolfblood7.
 
-📺 CBC News: The National
+📺 Wolfblood7
 
-👁️ 14K • 👍 134 • ⏱️ 7:30 • 1d ago
+👁️ 5K • 👍 296 • 💬 83 • ⏱️ 16:03 • 18h ago
+
+---
+
+**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+
+At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+
+📺 KhanFlicks
+
+👁️ 74K • 💬 36 • ⏱️ 12:09 • 3d ago
 
 ---
 
