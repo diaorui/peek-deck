@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T11:46:10.311840+00:00'
+updated: '2026-01-21T12:53:43.783356+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 11:46 UTC  
+**Last Updated:** January 21, 2026 at 12:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,11 +42,19 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-4h ago
+5h ago
 
 ---
 
-**[RIVR and Just Eat for takeaway deliveries by robots](https://www.reddit.com/r/robotics/comments/1qiuo2c/rivr_and_just_eat_for_takeaway_deliveries_by/)**
+**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
+
+31m ago
+
+---
+
+**[Help with a survey! If you had a smart robotic arm at home, what would you use it for?](https://www.reddit.com/r/robotics/comments/1qiuxi9/help_with_a_survey_if_you_had_a_smart_robotic_arm/)**
+
+I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
 1h ago
 
@@ -60,19 +68,25 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
+**[Startup learning project?](https://www.reddit.com/r/robotics/comments/1qiwuq7/startup_learning_project/)**
+
+Hello world? Im a Video game programmer, and i would like to get a hobby out of building robots. I got access to a 3d printer, and i know how to use tools and stuff. but as any first project, its shoudnt bee to ambitious, and idiot proof. In the dawn of AI in 2026, what would you experienced gents recommend someone to do to get started on this hobby assuming there is no previous knowladge?
+
+12m ago
+
+---
+
+**[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
+
+1h ago
+
+---
+
 **[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
 
 ODM Humanoid demo show.
 
-23h ago
-
----
-
-**[Help with a survey! If you had a smart robotic arm at home, what would you use it for?](https://www.reddit.com/r/robotics/comments/1qiuxi9/help_with_a_survey_if_you_had_a_smart_robotic_arm/)**
-
-I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
-
-46m ago
+1d ago
 
 ---
 
@@ -80,7 +94,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 13h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 14h ago
 
 ---
 
@@ -88,23 +102,7 @@ Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focuse
 
 Swiss scientists have developed a robotic hand that can detach from its arm, crawl, and carry objects. The detached hand successfully picked up three objects and reattached to the arm. It overcomes th
 
-🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 2h ago
-
----
-
-**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
-
-Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
-
-23h ago
-
----
-
-**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
-
-I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
-
-1d ago
+🔗 [dongascience.com](https://www.dongascience.com/en/news/76045?utm_source=reddit&utm_medium=social&utm_campaign=robotics) • 3h ago
 
 ---
 
@@ -112,11 +110,25 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 ## Google News: "robotics"
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-TechCrunch • 14h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+
+Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+
+The Robot Report • 15h ago
+
+---
+
+**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
+
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -130,15 +142,7 @@ Financial Times • 1d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 17h ago
-
----
-
-**[Why Richtech Robotics Stock Popped Today](https://finance.yahoo.com/news/why-richtech-robotics-stock-popped-182048173.html)**
-
-Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
-
-Yahoo Finance • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -147,6 +151,14 @@ Yahoo Finance • 17h ago
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
 Fortune • 1d ago
+
+---
+
+**[Why Richtech Robotics Stock Popped Today](https://finance.yahoo.com/news/why-richtech-robotics-stock-popped-182048173.html)**
+
+Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -166,25 +178,11 @@ Inc42 • 1d ago
 
 ---
 
-**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-China adopts robotics faster than western counterparts
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-Tom's Hardware • 1d ago
-
----
-
-**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
-
-Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
-
-The Robot Report • 13h ago
-
----
-
-**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
-
-The New York Times • 19h ago
+CBC • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ In this video I looked at the new Lunar New Year event. https://wr.my.games/Wolf
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 286 • 💬 82 • ⏱️ 16:03 • 16h ago
+👁️ 5K • 👍 286 • 💬 82 • ⏱️ 16:03 • 17h ago
 
 ---
 
@@ -258,7 +256,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 17K • 👍 656 • 💬 144 • ⏱️ 16:49 • 17h ago
+👁️ 17K • 👍 656 • 💬 144 • ⏱️ 16:49 • 18h ago
 
 ---
 

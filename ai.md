@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T11:46:10.293931+00:00'
+updated: '2026-01-21T12:53:43.765150+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 11:46 UTC  
+**Last Updated:** January 21, 2026 at 12:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
 
-8h ago
+9h ago
 
 ---
 
-**[Anthropic CEO, Dario Amodei: "we might be 6-12 months away from models doing all of what software engineers do end-to-end" We're approaching a feedback loop where AI builds better AI But the loop isn't fully closed yet, chip manufacturing and training time still limit speed](https://www.reddit.com/r/artificial/comments/1qiu775/anthropic_ceo_dario_amodei_we_might_be_612_months/)**
+**[Most CEOs agree AI hasn't benefitted revenue yet, survey reveals just 12% report major success so far](https://www.reddit.com/r/artificial/comments/1qiwevk/most_ceos_agree_ai_hasnt_benefitted_revenue_yet/)**
 
-AGI is just 6 months away.
+A survey from professional services network PwC polling CEOs reveals the highs and lows of AI adoption in the workplace so far.
 
-1h ago
+🔗 [PC Guide](https://www.pcguide.com/news/most-ceos-agree-ai-hasnt-benefitted-revenue-yet-survey-reveals-just-12-report-major-success-so-far/) • 34m ago
 
 ---
 
@@ -57,7 +57,7 @@ AGI is just 6 months away.
 
 genuinely insane, and the fact that they did it for live sports is seriously impressive.
 
-🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 5h ago
+🔗 [camb.ai](https://www.camb.ai/blog-post/camb-ai-unveils-mars8-the-first-family-of-tts-models) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 4h ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Applicants are not supposed to use AI to write college essays. But colleges are 
 
 I'm sharing this with you, along with a document that's not yet finalized, because I think generative AI is incredible for gamification. Your feedback is welcome because it will be very helpful in improving the system.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 7h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1CGYlJsGZUWOodbhB0eVHyWcoQsPSlPKGw7nAGwNfxXw/edit?usp=sharing) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm sharing this with you, along with a document that's not yet finalized, becau
 
 Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-Human-In-The-Loop) • 18h ago
 
 ---
 
@@ -113,7 +113,7 @@ One impression I keep having is that most AI company marketing, success stories,
 
 A system that is able to replicate time series data with complex signal (Phase and magnitude) perhaps huge. A new sort of neural network.  - GitHub - anttiluode/ResonantCortex: A system that is abl...
 
-🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 3h ago
+🔗 [GitHub](https://github.com/anttiluode/ResonantCortex/) • 4h ago
 
 ---
 
@@ -125,7 +125,7 @@ A system that is able to replicate time series data with complex signal (Phase a
 
 "Anxiety about AI will go from a low hum to a loud roar this year," Deutsche Bank said as AI layoffs dominate conversations at the World Economic Forum.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -137,35 +137,46 @@ BBC • 1d ago
 
 ---
 
-**[Anthropic and Teach For All launch global AI training initiative for educators](https://www.anthropic.com/news/anthropic-teach-for-all)**
+**[Pro-AI Super PACs Are Already All In on the Midterms](https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+Silicon Valley’s battle against AI regulation is already shaping the next US election cycle.
 
-Anthropic • 20h ago
-
----
-
-**[Big tech's AI tools crowd the classroom](https://www.axios.com/2026/01/21/google-anthropic-microsoft-education)**
-
-Axios • 3h ago
+WIRED • 1h ago
 
 ---
 
-**[Colleges Are Letting AI Bots Help Make Decisions on Who to Admit](https://www.bloomberg.com/news/articles/2026-01-21/ai-bots-evaluate-college-applications-in-new-era-for-admissions)**
+**[Nvidia CEO discusses AI bubble, infrastructure buildout at Davos](https://seekingalpha.com/news/4540830-nvidia-ceo-discusses-ai-bubble-infrastructure-buildout-at-davos)**
 
-Bloomberg • 1h ago
+Nvidia (NVDA) CEO Jensen Huang said AI has started the largest
+infrastructure buildout in human history, and more energy, land, and skilled workers are needed.
 
----
-
-**[AI works best with humans in the lead, Accenture CEO says](https://www.axios.com/2026/01/21/accenture-artificial-intelligence-davos-julie-sweet)**
-
-Axios • 54m ago
+Seeking Alpha • 36m ago
 
 ---
 
-**[How This AI-Infused Warehouse Sorts Real Louis Vuitton Bags From Fakes](https://www.wsj.com/articles/how-this-ai-infused-warehouse-sorts-real-louis-vuitton-bags-from-fakes-61c92eb5?gaa_at=eafs&gaa_n=AWEtsqdrJGVy9MUAosYP6zDUBubg1F5w9eRrBLJ13jVfF9pezMcIgaZTneg1&gaa_ts=6970bb16&gaa_sig=ijfArGHp4JQVJRfmT1xT7mcrfaWHU7nymvBPEtfb9B8_uc5yWmXrJTOQcJsxrznjPmKAifDSzCuBk2aeuW6R3A%3D%3D)**
+**[Nvidia CEO Says AI Needs More Investment in Defiance of Bubble Fears](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?gaa_at=eafs&gaa_n=AWEtsqc9wfJ0jo3vzRy2E7ZZ6TlHCiO6-U9P_bwHw-B6jdJaKS9mgfN_bEuT&gaa_ts=6970cfb5&gaa_sig=39m_Bn9d8vD0G668D7_7yNEqNoWJ0GVmdIHPzRMGSTO53yS4j6p4e_5YRarEAEkja5hCpij4SnLG7mM7R4kr-Q%3D%3D)**
 
-The Wall Street Journal • 46m ago
+The Wall Street Journal • 34m ago
+
+---
+
+**[AI shaping world’s biggest infrastructure buildout: Nvidia CEO](https://www.scmp.com/tech/tech-war/article/3340709/watch-nvidia-ceo-jensen-huang-speak-davos)**
+
+Building the AI infrastructure will require trillions of dollars in investment, Huang says at the World Economic Forum in Davos.
+
+South China Morning Post • 2h ago
+
+---
+
+**[Exclusive | Geothermal Wildcatter Zanskar, Which Uses AI to Find Heat, Raises $115 Million](https://www.wsj.com/business/energy-oil/geothermal-wildcatter-zanskar-which-uses-ai-to-find-heat-raises-115-million-598b6ac5?gaa_at=eafs&gaa_n=AWEtsqeVgOkWKgpzPFHqTSSbRjT734fBDl9sH7l6LuOCQWP5p8BLYXH-Pi3r&gaa_ts=6970cfb5&gaa_sig=YjAG8ONboyIO5rZGv5uH9MLhGvI6nUcKvhDMxeEgimwJJ48lXyvvuXipTF7-FGRx2Q_0yVdIdgIHClGVo57l8Q%3D%3D)**
+
+The Wall Street Journal • 53m ago
+
+---
+
+**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
+
+Reuters • 36m ago
 
 ---
 
@@ -173,19 +184,15 @@ The Wall Street Journal • 46m ago
 
 House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
 
-Fox News • 10h ago
+Fox News • 11h ago
 
 ---
 
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
+**[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
-The New York Times • 23h ago
+With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
----
-
-**[Exclusive: Meta's new AI team delivered first key models internally this month, CTO says](https://www.reuters.com/technology/metas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21/)**
-
-Reuters • 1h ago
+CNN • 3d ago
 
 ---
 
@@ -207,17 +214,17 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ---
 
-**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
-
-⬆️ 166 • 💬 182 • 1d ago
-
----
-
 **[The Agentic AI Handbook: Production-Ready Patterns](https://news.ycombinator.com/item?id=46701969)**
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 160 • 💬 81 • 4h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 172 • 💬 106 • 6h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+
+---
+
+**[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
+
+⬆️ 166 • 💬 182 • 1d ago
 
 ---
 
@@ -233,7 +240,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 131 • 💬 62 • 13h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 138 • 💬 67 • 14h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -241,7 +248,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 118 • 💬 151 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 118 • 💬 152 • 1d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -263,7 +270,7 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 89 • 💬 55 • 17h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 93 • 💬 55 • 18h ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -277,7 +284,7 @@ Sponsored by Outskill Grab your free seat to the 2-Day AI Mastermind: https://li
 
 📺 Malva AI
 
-👁️ 24K • 👍 962 • 💬 243 • ⏱️ 9:12 • 1d ago
+👁️ 24K • 👍 962 • 💬 243 • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -287,7 +294,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 80K • 👍 3K • 💬 686 • ⏱️ 1:39:31 • 18h ago
+👁️ 80K • 👍 3K • 💬 686 • ⏱️ 1:39:31 • 19h ago
 
 ---
 
@@ -327,7 +334,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 16K • 👍 473 • 💬 184 • ⏱️ 12:14 • 19h ago
+👁️ 16K • 👍 473 • 💬 184 • ⏱️ 12:14 • 20h ago
 
 ---
 
@@ -347,7 +354,7 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Breaking Points
 
-👁️ 187K • 👍 6K • 💬 1K • ⏱️ 14:38 • 16h ago
+👁️ 187K • 👍 6K • 💬 1K • ⏱️ 14:38 • 17h ago
 
 ---
 
@@ -357,7 +364,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Bloomberg Live
 
-👁️ 44K • 👍 1K • 💬 167 • ⏱️ 26:04 • 18h ago
+👁️ 44K • 👍 1K • 💬 167 • ⏱️ 26:04 • 19h ago
 
 ---
 
@@ -383,7 +390,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 818 • 22h ago
+⬇️ 69,491 • ❤️ 818 • 23h ago
 
 ---
 
@@ -419,7 +426,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,226 • 1d ago
+⬇️ 1,855,174 • ❤️ 1,226 • 2d ago
 
 ---
 
@@ -647,7 +654,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 7h ago
+⭐ 9.5k • 🔱 1.2k • 8h ago
 
 ---
 
@@ -657,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 477 • 19h ago
+⭐ 9.1k • 🔱 477 • 20h ago
 
 ---
 
@@ -667,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 385 • 13h ago
+⭐ 7.9k • 🔱 385 • 14h ago
 
 ---
 
@@ -677,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.1k • 🔱 764 • 17h ago
+⭐ 6.1k • 🔱 764 • 18h ago
 
 ---
 
@@ -687,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 889 • 3h ago
+⭐ 5.3k • 🔱 889 • 4h ago
 
 ---
 
@@ -697,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.2k • 🔱 4.3k • 22h ago
+⭐ 4.2k • 🔱 4.3k • 23h ago
 
 ---
 
@@ -717,7 +724,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 309 • 7h ago
+⭐ 2.2k • 🔱 309 • 9h ago
 
 ---
 
@@ -727,7 +734,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 153 • 19h ago
+⭐ 1.9k • 🔱 153 • 20h ago
 
 ---
 
