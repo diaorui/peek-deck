@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T07:29:40.220468+00:00'
+updated: '2026-01-21T07:52:47.450316+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 07:29 UTC  
+**Last Updated:** January 21, 2026 at 07:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -6.2%  
-**30d:** +2.7%  
-**90d:** -19.2%  
-**1y:** -13.7%  
+**24h:** -2.0%  
+**7d:** -6.6%  
+**30d:** +2.2%  
+**90d:** -19.6%  
+**1y:** -14.1%  
 
 ---
 
@@ -89,7 +89,7 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 Took me some time. I feel so proud.
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ and a small piece of me died again
 
 Hopefully it holds til I get my paycheck this Friday
 
-13h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hopefully it holds til I get my paycheck this Friday
 
 First ever bitcoin ceo declares war on high prices: “we must lower prices so more people can afford”
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ For the first time I made a calculated investment late last year. Looking at the
 
 **[BTC solves this](https://www.reddit.com/r/Bitcoin/comments/1qiltah/btc_solves_this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 15h ago
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 18h ago
 
 Analysts, CoinDesk reporters and longtime industry participants weigh in on today's bitcoin, crypto and market price action.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -199,25 +199,27 @@ Yahoo Finance • 1h ago
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqe-Yl3EOSfaCh1kOfWnJlRmkY20ODgLl-WyK03Mw57J_XeCOvOVRCnu&gaa_ts=697077e6&gaa_sig=AtYu61rJtdhI45zQNJc7XXHkI_Lf6Ag6w0pknSCdR6CVl2JGacJXMEvMb0tQcY8Hgn3-ak9WKy85si1VvYc-pA%3D%3D)**
+**[This strategist and longstanding bitcoin bull exits his position and switches allegiance to gold](https://www.marketwatch.com/story/this-strategist-and-longstanding-bitcoin-bull-exits-his-position-and-switches-allegiance-to-gold-e4074860?gaa_at=eafs&gaa_n=AWEtsqdXeX8ztzjBQPkMrvVD2j6lksnwEUDdF1ePYGohiGcsujIVtuxfbQeg&gaa_ts=69708934&gaa_sig=gvTm6JM_BNbsn0lHL-7OLUWMUHvEkPGi4q_rRcZR86rKzcnpUaf8gvBSO1b6fWmZmcc3w2sBB97iq6tF4610aA%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Bitcoin sinks below $89,000 as US equities and Japan bond turmoil rattle markets](https://www.theblock.co/post/386432/bitcoin-ether-sink-japan-bond-turmoil)**
-
-The Block • 5h ago
 
 ---
 
 **[Solo-Mine Bitcoin From Your Desk With This $60 Lottery Ticket Machine](https://www.entrepreneur.com/money-finance/solo-mine-bitcoin-from-your-desk-with-this-60-lottery/501956)**
 
 entrepreneur.com • 17h ago
+
+---
+
+**[Satoshi-Era Whale Moves $85M in Bitcoin After 13 Years](https://bitbo.io/news/satoshi-era-whale-moves/)**
+
+A dormant bitcoin wallet moved 909.38 BTC worth about $85 million after more than 13 years, sending the full balance to a new address.
+
+Bitbo • 1d ago
 
 ---
 
@@ -297,7 +299,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 1 • 16h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 17h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -321,7 +323,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 10h ago
+👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 11h ago
 
 ---
 
@@ -331,7 +333,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 894 • 💬 210 • ⏱️ 9:10 • 5h ago
+👁️ 13K • 👍 894 • 💬 210 • ⏱️ 9:10 • 6h ago
 
 ---
 
@@ -341,7 +343,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 12K • 👍 792 • 💬 115 • ⏱️ 8:21 • 11h ago
+👁️ 12K • 👍 792 • 💬 115 • ⏱️ 8:21 • 12h ago
 
 ---
 
@@ -371,7 +373,7 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 257 • ⏱️ 9:30 • 9h ago
+👁️ 42K • 👍 2K • 💬 257 • ⏱️ 9:30 • 10h ago
 
 ---
 
@@ -381,7 +383,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 364 • 💬 173 • ⏱️ 21:23 • 11h ago
+👁️ 10K • 👍 364 • 💬 173 • ⏱️ 21:23 • 12h ago
 
 ---
 

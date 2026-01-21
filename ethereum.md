@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T07:29:40.226700+00:00'
+updated: '2026-01-21T07:52:47.456690+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 07:29 UTC  
+**Last Updated:** January 21, 2026 at 07:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -9.9%  
-**30d:** +0.8%  
-**90d:** -24.1%  
-**1y:** -7.8%  
+**24h:** -4.3%  
+**7d:** -10.4%  
+**30d:** +0.3%  
+**90d:** -24.5%  
+**1y:** -8.3%  
 
 ---
 
@@ -150,25 +150,17 @@ I'm looking at various transactions via Etherscan and I'm wondering if there's a
 
 ## Google News: "ethereum"
 
-**[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
-
-The Block • 10h ago
-
----
-
-**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
-
-Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
-
-CoinDesk • 1d ago
-
----
-
 **[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 11h ago
+dlnews.com • 12h ago
+
+---
+
+**[Boundless unlocks Bitcoin settlement and verification for Ethereum and Base ZK proofs](https://www.theblock.co/post/386416/boundless-bitcoin-settlement-verification-ethereum-base-zk-proofs)**
+
+The Block • 10h ago
 
 ---
 
@@ -180,7 +172,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdiOTgZxM-2P2WgR70Nohmf07pcxSI2SpKc0PpDEmeeBKyO5OnWxfm4&gaa_ts=697077e8&gaa_sig=0wZYEBt4cLgQ4w-JrDOKR4iUo_csFPXetHEfgCTvv16eEKGYZnLmKQcIsQK0w-eDEYN7e1LbsyCwfpo-xSq_1A%3D%3D)**
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
+
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqc6h9vUW9KDoNRXSLuQ0_o0_I8Coopvi9KlTmllzrzakCAB5FqBJN0F&gaa_ts=69708936&gaa_sig=bJAOGQJZBEM7VM5WrWvPC5LSGmns1dK0D-mRPRi-PHbUXHPCtl4tvDzCMOIpkBG6YyyQkFRE2x7wz9-rn4oiRg%3D%3D)**
 
 MarketWatch • 16h ago
 
@@ -190,7 +190,13 @@ MarketWatch • 16h ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqfSCX0Dq6Bi1Siv06cXlB7GFJMLaY65k_jjNCqDu7j-zF0qoqg7yHT9&gaa_ts=69708936&gaa_sig=RJGXUaAlqZ61j14owfKagFk41uzlBA7_MPXlmVixEL7TiHirVoGxEA5zK2isXSrYpmiaxoolQBDJaRJTN3VshA%3D%3D)**
+
+Barron's • 22h ago
 
 ---
 
@@ -202,25 +208,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqc1mb9ELpcXsmOfa3a80Lx4c-dECC0NdQ6gy1IeGdPKCpVNocQGAu8b&gaa_ts=697077e8&gaa_sig=rL4hjR2zVxRd1QjSqr4gY_UxRxWeDxz1M3vtyG2EqdMV6g4Ho0xCVnWK8Yq3AymqmSUhUjm6FaUxlyNpVfb53A%3D%3D)**
-
-Barron's • 21h ago
-
----
-
 **[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
 
 Key PointsCryptocurrencies are not stocks.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
-**[Ethereum staking crosses 46% of supply – Why this matters for ETH](https://ambcrypto.com/ethereum-staking-crosses-46-of-supply-why-this-matters-for-eth/)**
+**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
 
-ETH staking absorbs 46.6% of supply, reducing sell pressure as validator exits define volatility risk.
+Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
 
-AMBCrypto • 2d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 364 • 💬 174 • ⏱️ 21:23 • 11h ago
+👁️ 10K • 👍 364 • 💬 174 • ⏱️ 21:23 • 12h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 113 • 💬 10 • ⏱️ 7:43 • 7h ago
+👁️ 1K • 👍 113 • 💬 10 • ⏱️ 7:43 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 17h ago
+👁️ 16K • 👍 1K • 💬 139 • ⏱️ 18:29 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 740 • 👍 14 • 💬 9 • ⏱️ 4:56 • 21h ago
+👁️ 740 • 👍 14 • 💬 9 • ⏱️ 4:56 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wel
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 11K • 👍 1K • 💬 35 • ⏱️ 30:52 • 13h ago
+👁️ 11K • 👍 1K • 💬 35 • ⏱️ 30:52 • 14h ago
 
 ---
 
@@ -324,7 +324,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 10h ago
+👁️ 12K • 👍 298 • 💬 126 • ⏱️ 1:16 • 11h ago
 
 ---
 

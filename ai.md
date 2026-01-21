@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T07:29:40.211735+00:00'
+updated: '2026-01-21T07:52:47.441148+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 07:29 UTC  
+**Last Updated:** January 21, 2026 at 07:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ genuinely insane, and the fact that they did it for live sports is seriously imp
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 17m ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay) • 40m ago
 
 ---
 
@@ -97,7 +97,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-21h ago
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
 
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 11h ago
+🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 12h ago
 
 ---
 
@@ -137,19 +137,19 @@ New York Magazine • 21h ago
 
 ---
 
-**[What Can AI Actually Do? - Sponsor Content - Google](https://www.theatlantic.com/sponsored/google/what-can-ai-actually-do/4053/)**
+**[Billionaires Buy 2 Artificial Intelligence (AI) Stocks Up 830% and 1,180% Since 2023](https://www.fool.com/investing/2026/01/20/billionaires-buy-2-ai-stocks-up-1180-since-2023/)**
 
-We asked 12 scientists, artists, and thought leaders to share how AI enabled them to create, explore, or understand something for the first time.
+Several top hedge fund managers bought shares of Nvidia and Western Digital in the third quarter.
 
-The Atlantic • 2h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[My friends in Italy are using AI therapists. But is that so bad, when a stigma surrounds mental health? | Viola Di Grado](https://www.theguardian.com/commentisfree/2026/jan/21/italy-using-ai-therapists-mental-health)**
+**[2 Undervalued AI Stocks to Buy in 2026 and Hold for Decades](https://www.fool.com/investing/2026/01/20/2-undervalued-ai-stocks-to-buy-in-2026-and-hold/)**
 
-State provision for psychological health services is lamentable. Until things improve, let’s not judge those who turn to an app for help, says Italian author Viola Di Grado
+These stocks have incredible long-term opportunities.
 
-The Guardian • 2h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -167,6 +167,12 @@ The New York Times • 19h ago
 
 ---
 
+**[Exclusive | Nvidia Invests $150 Million in AI Inference Startup Baseten - WSJ](https://www.wsj.com/tech/ai/nvidia-invests-150-million-in-ai-inference-startup-baseten-fe7ede72?gaa_at=eafs&gaa_n=AWEtsqdi0UoZljsJQY442wL_7BkJ1XOO0IBqUdJyCV4lTolLGqLDUHFM_Xhe&gaa_ts=69708933&gaa_sig=4ardRfJk2mW2nd6LpjljjXonqJJu9M8PwOES1ovkkImbXZHdasA0vZ7NXBcl4K56J5dmIGd7UfOyOP0wVx01iA%3D%3D)**
+
+The Wall Street Journal • 13h ago
+
+---
+
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
@@ -175,25 +181,17 @@ CNN • 2d ago
 
 ---
 
+**[AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)**
+
+AI is asbestos in the walls of our tech society, stuffed there by monopolists run amok. A serious fight against it must strike at its roots
+
+The Guardian • 2d ago
+
+---
+
 **[DeepMind CEO Says Chinese AI Firms Are 6 Months Behind the West](https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west)**
 
 Bloomberg.com • 14h ago
-
----
-
-**[Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All](https://www.wired.com/story/china-ai-boom-algorithm-registry/)**
-
-How the Cyberspace Administration of China inadvertently made a guide to the country’s homegrown AI revolution.
-
-WIRED • 20h ago
-
----
-
-**[Multimodal reinforcement learning with agentic verifier for AI agents](https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/)**
-
-Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications:
-
-Microsoft • 14h ago
 
 ---
 
@@ -287,7 +285,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 68K • 👍 3K • 💬 621 • ⏱️ 1:39:31 • 13h ago
+👁️ 68K • 👍 3K • 💬 621 • ⏱️ 1:39:31 • 14h ago
 
 ---
 
@@ -375,7 +373,7 @@ Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead i
 
 📺 Maggie McGaugh
 
-👁️ 208K • 👍 8K • 💬 125 • ⏱️ 0:52 • 14h ago
+👁️ 208K • 👍 8K • 💬 125 • ⏱️ 0:52 • 15h ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 794 • 17h ago
+⬇️ 69,491 • ❤️ 794 • 18h ago
 
 ---
 
@@ -655,7 +653,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 2h ago
+⭐ 9.5k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -725,7 +723,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 307 • 3h ago
+⭐ 2.1k • 🔱 307 • 4h ago
 
 ---
 
@@ -735,7 +733,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 14h ago
+⭐ 1.9k • 🔱 152 • 15h ago
 
 ---
 

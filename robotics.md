@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T07:29:40.230654+00:00'
+updated: '2026-01-21T07:52:47.460139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 07:29 UTC  
+**Last Updated:** January 21, 2026 at 07:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,11 +46,19 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ---
 
+**[machine dancing](https://www.reddit.com/r/robotics/comments/1qirm57/machine_dancing/)**
+
+You can dance! Dancing is not that difficult, from a middle level Robotics development company
+
+17m ago
+
+---
+
 **[Bouce up from lying down](https://www.reddit.com/r/robotics/comments/1qhz1vp/bouce_up_from_lying_down/)**
 
 ODM Humanoid demo show.
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +66,7 @@ ODM Humanoid demo show.
 
 Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 8h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 9h ago
 
 ---
 
@@ -74,7 +82,7 @@ Walking around CES, I had one of those "everything is AI now" moments. Even robo
 
 I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +96,7 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Hey Guys, I'm one of the co-founders of a new compute layer. We have talked to almost 50+ funded robotics/deeptech/frontier-tech startups across SF that told us that Infra was the cost that ate away at their runway the most. We are developing a new layer that lets you use applications like Ansys , CAD, OpenFOAM, etc right inside your browser with virtually Infinite compute. We just want an insight into how your workflows look like. What applications you guys use and validate if you would at all pay for something like this :) You can dm me if you have any questions or 15 minutes of your time would mean a lott (You can DM me and I'll share a Cal.com link) to learn more about your workflows.
 
-5h ago
+6h ago
 
 ---
 
@@ -100,14 +108,6 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 ---
 
-**[China likely to deliver your first humanoid robot colleague.](https://www.reddit.com/r/robotics/comments/1qi0g5b/china_likely_to_deliver_your_first_humanoid_robot/)**
-
-Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
-
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 18h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +116,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -124,13 +124,15 @@ Yahoo Finance • 8h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 9h ago
+The Robot Report • 10h ago
 
 ---
 
-**[Serve Robotics Buying Fellow Nvidia-Powered Bot Maker](https://www.investors.com/news/technology/serve-robotics-buying-diligent-robotics/)**
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
-Investor's Business Daily • 8h ago
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -138,7 +140,7 @@ Investor's Business Daily • 8h ago
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -164,14 +166,6 @@ Fortune • 1d ago
 
 ---
 
-**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
-
-Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
-
-Inc42 • 1d ago
-
----
-
 **[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
 
 Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
@@ -180,11 +174,19 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
+**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
 
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
+Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
 
-CBC • 22h ago
+Inc42 • 1d ago
+
+---
+
+**[Robotics and world models are AI's next frontier, and China is already ahead of the West — research shows almost 13,000 robots deployed in 2025 alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/robotics-and-world-models-are-ais-next-frontier-and-china-is-already-ahead-of-the-west-research-shows-almost-13-000-robots-deployed-in-2025-alone)**
+
+China adopts robotics faster than western counterparts
+
+Tom's Hardware • 1d ago
 
 ---
 
@@ -218,7 +220,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 UBTECH Robotics
 
-👁️ 4K • 👍 88 • 💬 14 • ⏱️ 1:56 • 19h ago
+👁️ 4K • 👍 88 • 💬 14 • ⏱️ 1:56 • 20h ago
 
 ---
 
@@ -228,7 +230,7 @@ UBTECH's Walker S2 humanoid robots are now being deployed at scale across real w
 
 📺 Batya Feuer
 
-👁️ 283 • 👍 4 • ⏱️ 0:27 • 38m ago
+👁️ 283 • 👍 4 • ⏱️ 0:27 • 1h ago
 
 ---
 
