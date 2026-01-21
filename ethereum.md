@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-20T23:45:31.031454+00:00'
+updated: '2026-01-21T01:53:30.518799+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 20, 2026 at 23:45 UTC  
+**Last Updated:** January 21, 2026 at 01:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,940.80
+### $2,945.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.6%  
-**7d:** -12.4%  
-**30d:** -2.2%  
-**90d:** -23.8%  
-**1y:** -11.4%  
+**24h:** -6.9%  
+**7d:** -10.4%  
+**30d:** +0.3%  
+**90d:** -24.5%  
+**1y:** -8.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.83B
+**Market Cap:** $358.11B
 Rank #2
 
-**Circulating Supply:** 120,694,565 ETH
+**Circulating Supply:** 120,694,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.0%
 
 **All-Time Low:** $0.43
-+678230.8%
++685071.8%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
+
+---
+
+**[Checkpoint #8: Jan 2026 | Ethereum Foundation Protocol Support Team](https://www.reddit.com/r/ethereum/comments/1qii69s/checkpoint_8_jan_2026_ethereum_foundation/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/01/20/checkpoint-8) • 1h ago
 
 ---
 
@@ -80,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 35m ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 2h ago
 
 ---
 
@@ -104,7 +110,7 @@ Everyone else is building infrastructure to tokenize existing assets, NYSE is bu
 
 Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
 
-22h ago
+1d ago
 
 ---
 
@@ -140,51 +146,37 @@ Hey guys, any help is appreciated I connected my trezor 5 via rabby wallet and i
 
 ---
 
-**[Protocol simplicity as necessary part of trustlessness](https://www.reddit.com/r/ethereum/comments/1qg4ay1/protocol_simplicity_as_necessary_part_of/)**
-
-An important, and perenially underrated, aspect of "trustlessness", "passing the walkaway test" and "self-sovereignty" is protocol simplicity. Even if a protocol is super decentralized with hundreds of thousands of nodes, and it has 49% byzantine fault tolerance, and nodes fully verify everything with quantum-safe peerdas and starks, if the protocol is an unwieldy mess of hundreds of thousands of lines of code and five forms of PhD-level cryptography, ultimately that protocol fails all three tests: It's not trustless because you have to trust a small class of high priests who tell you what properties the protocol has It doesn't pass the walkaway test because if existing client teams go away, it's extremely hard for new teams to get up to the same level of quality It's not self-sovereign because if even the most technical people can't inspect and understand the thing, it's not fully yours It's also less secure, because each part of the protocol, especially if it can interact with other parts in complicated ways, carries a risk of the protocol breaking. One of my fears with Ethereum protocol development is that we can be too eager to add new features to meet highly specific needs, even if those features bloat the protocol or add entire new types of interacting components or complicated cryptography as critical dependencies. This can be nice for short-term functionality gains, but it is highly destructive to preserving long-term self-sovereignty, and creating a hundred-year decentralized hyperstructure that transcends the rise and fall of empires and ideologies. The core problem is that if protocol changes are judged from the perspective of "how big are they as changes to the existing protocol", then the desire to preserve backwards compatibility means that additions happen much more often than subtractions, and the protocol inevitably bloats over time. To counteract this, the Ethereum development process needs an explicit "simplification" / "garbage collection" function. "Simplification" has three metrics: Minimizing total lines of code in the protocol. An ideal protocol fits onto a single page - or at least a few pages Avoiding unnecessary dependencies on fundamentally complex technical components. For example, a protocol whose security solely depends on hashes (even better: on exactly one hash function) is better than one that depends on hashes and lattices. Throwing in isogenies is worst of all, because (sorry to the truly brilliant hardworking nerds who figured that stuff out) nobody understands isogenies. Adding more invariants: core properties that the protocol can rely on, for example EIP-6780 (selfdestruct removal) added the property that at most N storage slots can be changedakem per slot, significantly simplifying client development, and EIP-7825 (per-tx gas cap) added a maximum on the cost of processing one transaction, which greatly helps ZK-EVMs and parallel execution. Garbage collection can be piecemeal, or it can be large-scale. The piecemeal approach tries to take existing features, and streamline them so that they are simpler and make more sense. One example is the gas cost reforms in Glamsterdam, which make many gas costs that were previously arbitrary, instead depend on a small number of parameters that are clearly tied to resource consumption. One large-scale garbage collection was replacing PoW with PoS. Another is likely to happen as part of Lean consensus, opening the room to fix a large number of mistakes at the same time ( youtube.com/watch?v=10Ym34y3E… ). Another approach is "Rosetta-style backwards compatibility", where features that are complex but little-used remain usable but are "demoted" from being part of the mandatory protocol and instead become smart contract code, so new client developers do not need to bother with them. Examples: After we upgrade to full native account abstraction, all old tx types can be retired, and EOAs can be converted into smart contract wallets whose code can process all of those transaction types We can replace existing precompiles (except those that are really needed) with EVM or later RISC-V code We can eventually change the VM from EVM to RISC-V (or other simpler VM); EVM could be turned into a smart contract in the new VM. Finally, we want to move away from client developers feeling the need to handle all older versions of the Ethereum protocol. That can be left to older client versions running in docker containers. In the long term, I hope that the rate of change to Ethereum can be slower. I think for various reasons that ultimately that must happen. These first fifteen years should in part be viewed as an adolescence stage where we explored a lot of ideas and saw what works and what is useful and what is not. We should strive to avoid the parts that are not useful being a permanent drag on the Ethereum protocol. Basically, we want to improve Ethereum in a way that looks like this: https://old.reddit.com/r/SpaceXLounge/comments/1eis952/evolution_of_the_raptor_engine_by_cstanley/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum posts record on chain activity as research points to possible spam-driven growth: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/20/ethereum-posts-record-on-chain-activity-as-research-points-to-possible-spam-driven-growth-asia-morning-briefing)**
-
-Data suggests much of the recent spike in Ethereum transactions is tied to address poisoning, a scam that relies on cheap “dust” transfers to contaminate transaction histories rather than organic user demand.
-
-CoinDesk • 21h ago
-
----
-
-**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
-
-The Block • 2d ago
-
----
-
-**[Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil](https://finance.yahoo.com/news/tom-lees-bitmine-adds-108-154349017.html)**
-
-Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
-
-Yahoo Finance • 8h ago
-
----
 
 **[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 4h ago
+dlnews.com • 6h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdxt0xxbWK9dFvq44jhQoQsmn9e0vFxtegjuosNNEqp_cqS0qQYVevV&gaa_ts=697016c9&gaa_sig=RJ86sFPwVO-GiDZp0ZEE6n1RVuzh87bJEWlFD6lAE8slP0wqVR_KCntr8meWO3C-s5ms2aARb1xDoMse34VXEQ%3D%3D)**
+**[Tom Lee’s BitMine Causes $8Bn Ethereum Staking Traffic Jam](https://finance.yahoo.com/news/tom-lee-bitmine-causes-8bn-214728294.html)**
 
-MarketWatch • 8h ago
+Ethereum staking system just hit a huge traffic jam thanks to the Tom Lee-backed Ethereum treasury firm, BitMine. The company has staked so much ETH .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { color: #008868 !important; background-color: transparent ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfLeyCP_9UaJUs3Yv0y53DaCj6PoSKG1joM7seemZhQu0iMg5wcuDjC&gaa_ts=697034f7&gaa_sig=G1Rt6nTcKMZKV80db3_qftoR9q2-qxZTjufKN7fEdOFTMPdDTfqPRTWC9jcbqFZx0YrMdY7SITdyar2bcRoAnQ%3D%3D)**
+
+MarketWatch • 10h ago
 
 ---
 
@@ -196,19 +188,31 @@ Decrypt • 1d ago
 
 ---
 
+**[Why are Bitcoin, Ethereum and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:f744deb43094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+
+Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
+
+TradingView — Track All Markets • 10h ago
+
+---
+
 **['Scam' Concerns Drive an 8% Plunge In Ethereum This Weekend](https://www.fool.com/investing/2026/01/20/scam-concerns-drive-an-8-plunge-in-ethereum-this-w/)**
 
 While other major digital assets saw declines this past weekend, Ethereum stood out as a top decliner.
 
-The Motley Fool • 6h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target](https://www.tradingview.com/news/newsbtc:6324476c6094b:0-ethereum-s-4-hour-chart-says-a-big-dump-is-coming-here-s-the-target/)**
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqdZaDEW_bu6nTCayrAJLrsdm__HghiOoiaN1wenCAsvh9YACsh1Bvmb&gaa_ts=697034f7&gaa_sig=mZh3bbQYOyhWV7I_ePzSM0va3jQbYpoVgvLdl9LiG3iIgZyiYIGSrSsqCUqO7Q13OlxM9B8iQ1ZAzoTuELpmSQ%3D%3D)**
 
-The Ethereum (ETH) 4-hour chart is flashing warning signs as price hovers around a critical support zone. After months of sideways trading, ETH remains trapped in a consolidation, signaling weakening momentum amid uncertain broader market conditions. According to a crypto analyst, ETH’s 4-hour char…
+Barron's • 16h ago
 
-TradingView — Track All Markets • 1d ago
+---
+
+**[Ethereum daily transactions surge to all-time high as gas fees fall to record lows](https://www.theblock.co/post/386079/ethereum-daily-transactions-surge-to-all-time-high-as-gas-fees-fall-to-record-lows)**
+
+The Block • 2d ago
 
 ---
 
@@ -216,15 +220,7 @@ TradingView — Track All Markets • 1d ago
 
 Key PointsCryptocurrencies are not stocks.
 
-Nasdaq • 11h ago
-
----
-
-**[Ethereum may finally kill “trust me” wallets in 2026, and Vitalik says the fix is already shipping](https://cryptoslate.com/ethereum-may-finally-kill-trust-me-wallets-in-2026-and-vitalik-says-the-fix-is-already-shipping/)**
-
-Helios-verified RPC and the EF’s Kohaku aim to make local verification the default, not an optional power-user hack.
-
-CryptoSlate • 2d ago
+Nasdaq • 13h ago
 
 ---
 
@@ -232,13 +228,13 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=k7Js89TPC0A)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 3 • ⏱️ 5:30 • 9h ago
+👁️ 504 • 👍 59 • 💬 9 • ⏱️ 7:43 • 2h ago
 
 ---
 
@@ -248,27 +244,17 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 📺 Thomas Kralow
 
-👁️ 29K • 👍 3K • 💬 29 • ⏱️ 12:15 • 1d ago
+👁️ 30K • 👍 3K • 💬 29 • ⏱️ 12:15 • 1d ago
 
 ---
 
-**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KNNhNSu8CoM)**
 
-BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 4K • 👍 252 • 💬 27 • ⏱️ 21:23 • 4h ago
-
----
-
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 14K • 👍 1K • 💬 132 • ⏱️ 18:29 • 10h ago
+👁️ 2K • 👍 132 • 💬 3 • ⏱️ 5:30 • 11h ago
 
 ---
 
@@ -278,27 +264,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 617 • 👍 13 • 💬 28 • ⏱️ 4:56 • 14h ago
+👁️ 663 • 👍 13 • 💬 13 • ⏱️ 4:56 • 16h ago
 
 ---
 
-**[⚰️ BREAKING 🪦 Crypto COLLAPSE ☠️ Bitcoin &amp; Ethereum Destroyed. Game Over?](https://www.youtube.com/watch?v=JngZcXnayas)**
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 🌟yourfriendsommi
+📺 Stock Moe
 
-👁️ 156 • 👍 28 • 💬 6 • ⏱️ 13:29 • 38m ago
+👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 12h ago
 
 ---
 
-**[Time Is Running Out For Ethereum! 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=aYL-Fui2wBE)**
+**[BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ltERqddqnMw)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto World
 
-👁️ 8K • 👍 295 • 💬 28 • ⏱️ 9:21 • 2d ago
+👁️ 6K • 👍 323 • 💬 100 • ⏱️ 21:23 • 6h ago
 
 ---
 
@@ -308,17 +294,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 18K • 👍 1K • 💬 267 • ⏱️ 16:10 • 10h ago
+👁️ 19K • 👍 1K • 💬 285 • ⏱️ 16:10 • 12h ago
 
 ---
 
-**[BTC &amp; ETH: Diese Strukturen behalten wir jetzt ganz genau im Blick](https://www.youtube.com/watch?v=aQ-93SCP3z0)**
+**[⚰️ BREAKING 🪦 Crypto COLLAPSE ☠️ Bitcoin &amp; Ethereum Destroyed. Game Over?](https://www.youtube.com/watch?v=JngZcXnayas)**
 
-In diesem Analysevideo nehmen wir Bitcoin und Ethereum auf Basis der Elliott-Wellentheorie detailliert unter die Lupe. Der Fokus ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Charts & Cars by Philip Klinkmüller
+📺 🌟yourfriendsommi
 
-👁️ 8K • 👍 1K • 💬 35 • ⏱️ 30:52 • 6h ago
+👁️ 895 • 👍 136 • 💬 26 • ⏱️ 13:29 • 2h ago
 
 ---
 
@@ -328,7 +314,17 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 175 • 💬 28 • ⏱️ 1:16 • 3h ago
+👁️ 7K • 👍 229 • 💬 87 • ⏱️ 1:16 • 5h ago
+
+---
+
+**[BMNR Stock &amp; Ethereum Staking Backlog — Billion-Dollar ETH Lockup, Supply Shock &amp; Investor Risk](https://www.youtube.com/watch?v=vRCQNIY0y-w)**
+
+BitMine Immersion Technologies (BMNR) is emerging as a major force inside Ethereum's staking economy — and the market may ...
+
+📺 Fundatech Insights
+
+👁️ 74 • 👍 4 • ⏱️ 7:10 • 6h ago
 
 ---
 

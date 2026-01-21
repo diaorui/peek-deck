@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-20T23:45:31.034657+00:00'
+updated: '2026-01-21T01:53:30.522024+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 20, 2026 at 23:45 UTC  
+**Last Updated:** January 21, 2026 at 01:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We got Asimov standing a few days ago and it's holding balance now. The last tests show the system is working, which accelerates our open-source timeline! We're releasing the leg design files in the next few days.
 
-13h ago
+15h ago
 
 ---
 
@@ -50,23 +50,7 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 ODM Humanoid demo show.
 
-11h ago
-
----
-
-**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
-
-Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
-
-11h ago
-
----
-
-**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
-
-I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
-
-13h ago
+14h ago
 
 ---
 
@@ -74,7 +58,29 @@ I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m
 
 Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focused robotics startup best known for its hospital logistics robot, Moxi. Diligent, founded in 2017, has deployed Moxi in 25 hospitals across the U.S., where the robots have completed more than 1.25 million deliveries supporting nursing and clinical staff. The systems are designed for indoor autonomy in complex environments, including navigating crowded hallways and operating elevators. Serve Robotics, which spun out of Uber in 2021, currently operates around 2,000 autonomous delivery robots across U.S. cities. The company says the acquisition will allow it to extend its autonomy platform from outdoor sidewalk delivery into indoor healthcare environments. The deal is valued at $29 million in stock, with an additional $5.3 million tied to milestones, and is expected to close in Q1 2026 pending regulatory approval.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 1h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/uber-spinout-serve-is-acquiring-health-care-robotics-startup-diligent) • 3h ago
+
+---
+
+**["AI" robot vacs everywhere at CES, are they actually smarter now?](https://www.reddit.com/r/robotics/comments/1qhz4tq/ai_robot_vacs_everywhere_at_ces_are_they_actually/)**
+
+Walking around CES, I had one of those "everything is AI now" moments. Even robot vacs seem to be leaning hard into vision and perception instead of the usual cleaning performance talk. One example I noticed was the Dreame X60 Max Ultra Complete. Suction and coverage obviously still matter, but what stood out to me was that the focus seemed less on raw cleaning metrics and more on perception, using cameras and lighting to deal with obstacles and adjust behavior on the fly, rather than just running a fixed pattern. That made me wonder if vision-based avoidance is really an upgrade over LiDAR, or just the same thing framed differently. Has it actually reduced babysitting for anyone?
+
+13h ago
+
+---
+
+**[I’ve spent the last 6 months living as a cyborg](https://www.reddit.com/r/robotics/comments/1qhwwfb/ive_spent_the_last_6_months_living_as_a_cyborg/)**
+
+I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Here is what I found. I’m an engineer by trade, but an exoskeleton nerd by obsession. A few years ago, "powered suits" were just sci-fi vaporware or bulky medical devices. But recently, we've seen an explosion of consumer-grade exoskeletons hitting the market. I got tired of watching the renders and reading the spec sheets, so I decided to get my hands dirty. I’ve been field-testing everything I can get access to: Hypershell, Ascentiz, WIM, DNSYS, and Skip. I've taken them on hikes, long commutes, and even just grocery runs to see if they actually make life easier or if they’re just expensive weights strapped to my legs. The results have been… wild. Some make me feel like I have superpowers; others feel like I’m fighting a robot for control of my own knees. I’m currently compiling a deep-dive comparison report breaking down: Power-to-weight ratios: Real world vs. marketing claims. The "Natural" Factor: Which one actually learns your gait? Battery Anxiety: Which one survives a real trail? Bang for your buck: Is the premium price worth it? Before I drop the full wall of text and data, I wanted to gauge interest. Is this something you folks would want to read? And are there specific metrics or "torture tests" you want me to cover in the final write-up? Let me know.
+
+16h ago
+
+---
+
+**[Something new on the market! CraneBOT!](https://www.reddit.com/r/robotics/comments/1qibk4i/something_new_on_the_market_cranebot/)**
+
+5h ago
 
 ---
 
@@ -82,13 +88,15 @@ Serve Robotics announced plans to acquire Diligent Robotics, a healthcare-focuse
 
 Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy the motion of the original video as best as I could. The inverse kinematics was solved numerically.
 
-23h ago
+1d ago
 
 ---
 
-**[Something new on the market! CraneBOT!](https://www.reddit.com/r/robotics/comments/1qibk4i/something_new_on_the_market_cranebot/)**
+**[Looking for beta users](https://www.reddit.com/r/robotics/comments/1qikn7i/looking_for_beta_users/)**
 
-3h ago
+Hey Guys, I'm one of the co-founders of a new compute layer. We have talked to almost 50+ funded robotics/deeptech/frontier-tech startups across SF that told us that Infra was the cost that ate away at their runway the most. We are developing a new layer that lets you use applications like Ansys , CAD, OpenFOAM, etc right inside your browser with virtually Infinite compute. We just want an insight into how your workflows look like. What applications you guys use and validate if you would at all pay for something like this :) You can dm me if you have any questions or 15 minutes of your time would mean a lott (You can DM me and I'll share a Cal.com link) to learn more about your workflows.
+
+3m ago
 
 ---
 
@@ -96,15 +104,7 @@ Simulation of Oleksandr Stepanenko's Hexapod (Stewart Platform). I tried to copy
 
 In a few clear sections, you will walk through the full PPO workflow in Stable-Baselines3, step by step. You will understand what happens during rollouts, how GAE is computed, why clipping stabilizes learning, and how KL divergence protects the policy. You will also learn the six hyperparameters that control PPO’s performance. Each is explained with practical rules and intuitive analogies, so you know exactly how to tune them with confidence. A complete CartPole example is included, with reproducible code, recommended settings, and TensorBoard logging. You will also learn how to read three essential training curves – ep_rew_mean, ep_len_mean, and approx_kl – and how to detect stability, collapse, or incorrect learning. The tutorial ends with a brief look at PPO in robotics and real-world control tasks, so you can connect theory with practical applications. Link: The Complete Practical Guide to PPO with Stable-Baselines3
 
-8h ago
-
----
-
-**[China likely to deliver your first humanoid robot colleague.](https://www.reddit.com/r/robotics/comments/1qi0g5b/china_likely_to_deliver_your_first_humanoid_robot/)**
-
-Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?
-
-🔗 [WIRED](https://www.wired.com/story/china-humanoid-robot-coworkers/) • 10h ago
+10h ago
 
 ---
 
@@ -116,7 +116,7 @@ Explosive acceleration, limited dexterity, eyes in the back of its head. What co
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Financial Times • 13h ago
+Financial Times • 15h ago
 
 ---
 
@@ -128,25 +128,25 @@ TechCrunch • 2d ago
 
 ---
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-TechCrunch • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
+
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+
+Yahoo Finance • 3h ago
 
 ---
 
 **[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
-The Business Journals • 19m ago
-
----
-
-**[Austin-based robotics company to be acquired in $29M deal](https://www.statesman.com/business/technology/article/austin-serve-robotics-acquires-diligent-21304455.php)**
-
-Diligent Robotics designs and deploys robots to work alongside nurses and pharmacy technicians inside hospitals. The company, founded in 2017, has more than 200 employees in Austin.
-
-statesman.com • 2h ago
+The Business Journals • 2h ago
 
 ---
 
@@ -154,15 +154,7 @@ statesman.com • 2h ago
 
 Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
 
-The Robot Report • 1h ago
-
----
-
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 1d ago
+The Robot Report • 4h ago
 
 ---
 
@@ -174,11 +166,19 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 1d ago
+
+---
+
 **[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
-CBC • 14h ago
+CBC • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ CBC • 14h ago
 
 Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
 
-wjon.com • 12h ago
+wjon.com • 14h ago
 
 ---
 
@@ -194,13 +194,23 @@ wjon.com • 12h ago
 
 ## YouTube Videos: "robotics"
 
+**[ChatGPT in a robot does what Godfather of AI warned](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
+
+AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 394K • 👍 17K • 💬 4K • ⏱️ 19:17 • 5d ago
+
+---
+
 **[Ostrich Inspired Robot Sets Speed Record 33 MPH](https://www.youtube.com/watch?v=hYoeWs6SVHg)**
 
 HexRunner, developed under DARPA's FastRunner program, set a land speed record for untethered legged robots at 33 mph.
 
 📺 Deepen
 
-👁️ 23K • 👍 277 • 💬 4 • ⏱️ 0:23 • 4d ago
+👁️ 23K • 👍 281 • 💬 4 • ⏱️ 0:23 • 4d ago
 
 ---
 
@@ -210,27 +220,7 @@ The Ammit is here on the live server and it is invincinble. We knew this thing w
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 382 • 💬 102 • ⏱️ 16:49 • 5h ago
-
----
-
-**[Ammit 🐊 Robot Spotlight — War Robots](https://www.youtube.com/watch?v=YJKO542dqio)**
-
-Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
-
-📺 War Robots [WR]
-
-👁️ 95K • 👍 2K • 💬 209 • ⏱️ 2:21 • 12h ago
-
----
-
-**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
-
-A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
-
-📺 DPCcars
-
-👁️ 10K • 👍 79 • 💬 19 • ⏱️ 3:19 • 4d ago
+👁️ 9K • 👍 462 • 💬 117 • ⏱️ 16:49 • 7h ago
 
 ---
 
@@ -244,43 +234,43 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 ---
 
-**[This microscopic robot is the future of medicine #shorts](https://www.youtube.com/watch?v=HTytWO33nhw)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-This little black ball is a microscopic robot. And it was designed to deliver drugs anywhere you need inside the body. Now this is a ...
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 Kallaway
+📺 DPCcars
 
-👁️ 15K • 👍 730 • 💬 23 • ⏱️ 0:39 • 1d ago
-
----
-
-**[Could These Robots Really Work 24/7? 🤖⚡ Self-Swapping Battery humanoid! #tech #engineering #new](https://www.youtube.com/watch?v=8NpsT_W4PsY)**
-
-Could humanoid robots actually work 24/7 without stopping? Robots like Walker S2 by UBTECH and Atlas by Boston Dynamics ...
-
-📺 Insider Entirety
-
-👁️ 31K • 👍 311 • 💬 9 • ⏱️ 0:11 • 20h ago
+👁️ 10K • 👍 79 • 💬 19 • ⏱️ 3:19 • 4d ago
 
 ---
 
-**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
+**[US stocks sink over Trump tariff threats, the future of robotics in hospitals](https://www.youtube.com/watch?v=y4prtZDTyPk)**
 
-Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+Yahoo Finance Markets and Data Editor Jared Blikre breaks down the day's market moves as the Nasdaq, S&P 500, and Dow ...
 
-📺 Fox Business
+📺 Yahoo Finance
 
-👁️ 13K • 👍 228 • 💬 48 • ⏱️ 5:12 • 2d ago
+👁️ 449 • 👍 11 • 💬 2 • ⏱️ 20:46 • 2h ago
 
 ---
 
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
 
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
 
-📺 Stay Wild
+📺 Ticker Symbol: YOU
 
-👁️ 2.2M • 👍 27K • 💬 2K • ⏱️ 33:05 • 2d ago
+👁️ 139K • 👍 5K • 💬 379 • ⏱️ 17:36 • 6d ago
+
+---
+
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+
+📺 Gohar Khan
+
+👁️ 328K • 👍 14K • 💬 216 • ⏱️ 0:49 • 6d ago
 
 ---
 
@@ -291,6 +281,16 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 📺 KhanFlicks
 
 👁️ 66K • 💬 36 • ⏱️ 12:09 • 3d ago
+
+---
+
+**[Ammit 🐊 Robot Spotlight — War Robots](https://www.youtube.com/watch?v=YJKO542dqio)**
+
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+
+📺 War Robots [WR]
+
+👁️ 104K • 👍 3K • 💬 215 • ⏱️ 2:21 • 15h ago
 
 ---
 
