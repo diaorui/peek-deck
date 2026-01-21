@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-21T05:30:20.108738+00:00'
+updated: '2026-01-21T05:54:45.461556+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 05:30 UTC  
+**Last Updated:** January 21, 2026 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -160,7 +160,7 @@ The Block • 8h ago
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 9h ago
+dlnews.com • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ MarketWatch • 14h ago
 
 Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -204,7 +204,7 @@ Decrypt • 1d ago
 
 **[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqey00l3LI1zLT_dx2an-Gr7H3OQa4abBSvVfAf8ge52-osWJQe9Re_W&gaa_ts=697067d8&gaa_sig=JpdYpN3qFUChX8mzBgldNGuZ_gB64DYxpTgyM8TLpkUFD8kdaNBXLtWrw9tnALE9_vszv1hPywbzW3AXZao5QA%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 669 • 👍 90 • 💬 9 • ⏱️ 7:43 • 5h ago
+👁️ 669 • 👍 90 • 💬 9 • ⏱️ 7:43 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 9h ago
+👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Stock Moe
 
-👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 15h ago
+👁️ 15K • 👍 1K • 💬 139 • ⏱️ 18:29 • 16h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 680 • 👍 14 • 💬 13 • ⏱️ 4:56 • 19h ago
+👁️ 680 • 👍 14 • 💬 13 • ⏱️ 4:56 • 20h ago
 
 ---
 

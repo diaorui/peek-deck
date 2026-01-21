@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T05:30:20.102669+00:00'
+updated: '2026-01-21T05:54:45.455475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 05:30 UTC  
+**Last Updated:** January 21, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,497.37
+### $89,997.19
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Steak n Shake orange pilling their employees](https://www.reddit.com/r/Bitcoin/comments/1qijxpn/steak_n_shake_orange_pilling_their_employees/)**
-
-4h ago
-
----
-
 **[Starting March 1, Steak n Shake will give all hourly employees at its company-operated restaurants a Bitcoin bonus of $0.21 for every hour worked.](https://www.reddit.com/r/Bitcoin/comments/1qiirge/starting_march_1_steak_n_shake_will_give_all/)**
 
 Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
@@ -101,7 +95,13 @@ Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awe
 
 Took me some time. I feel so proud.
 
-8h ago
+9h ago
+
+---
+
+**[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
+
+13h ago
 
 ---
 
@@ -109,13 +109,13 @@ Took me some time. I feel so proud.
 
 Hopefully it holds til I get my paycheck this Friday
 
-11h ago
+12h ago
 
 ---
 
-**[Upvote or downvote, let's see who's selling and who's buying BTC.](https://www.reddit.com/r/Bitcoin/comments/1qi52se/upvote_or_downvote_lets_see_whos_selling_and_whos/)**
+**[Must've been the wind](https://www.reddit.com/r/Bitcoin/comments/1qinz88/mustve_been_the_wind/)**
 
-13h ago
+1h ago
 
 ---
 
@@ -131,15 +131,17 @@ Hopefully it holds til I get my paycheck this Friday
 
 ---
 
-**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1qi07ix/bitcoin_fixes_this/)**
+**[I got into Bitcoin in November 2025...](https://www.reddit.com/r/Bitcoin/comments/1qijcun/i_got_into_bitcoin_in_november_2025/)**
 
-16h ago
+For the first time I made a calculated investment late last year. Looking at the chart the past five years 2022 seemed brutal as hell. How in the hell did any of you get through that? My conviction builds every single day. I'm basically a Maxi now and love this community but I'm still human and the world feels like its burning before our very eyes some days.
+
+5h ago
 
 ---
 
 **[BTC solves this](https://www.reddit.com/r/Bitcoin/comments/1qiltah/btc_solves_this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +159,7 @@ Yahoo Finance • 13h ago
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -177,7 +179,7 @@ Barron's • 1d ago
 
 Short-termprofitability pressures and fluctuations in computing power are more likely to accelerate industry consolidation and centralization, but this does not necessarily imply a long-term decline in the mining sector.
 
-富途资讯 • 1h ago
+富途资讯 • 2h ago
 
 ---
 
@@ -185,13 +187,13 @@ Short-termprofitability pressures and fluctuations in computing power are more l
 
 Bitcoin whales have accumulated over $3.2 billion worth of BTC in 9 days, while retail holders reduce exposure amid volatility.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -199,7 +201,7 @@ Reuters • 6h ago
 
 Ray Dalio weighs Bitcoinâs role as money, noting its small scale vs gold and reserve assets, as central banks shift to gold.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -293,7 +295,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 1 • 14h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 15h ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -317,7 +319,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 267 • 💬 127 • ⏱️ 1:16 • 8h ago
+👁️ 8K • 👍 267 • 💬 127 • ⏱️ 1:16 • 9h ago
 
 ---
 
@@ -337,7 +339,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 9K • 👍 746 • 💬 117 • ⏱️ 8:21 • 9h ago
+👁️ 9K • 👍 746 • 💬 117 • ⏱️ 8:21 • 10h ago
 
 ---
 
@@ -357,7 +359,7 @@ BITCOIN BEARISH TARGETS HIT (this is coming next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 9h ago
+👁️ 7K • 👍 348 • 💬 166 • ⏱️ 21:23 • 10h ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitcoin #Crypto #Finance Bitcoin just printed one of the market's most feared te
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 704 • 💬 134 • ⏱️ 55:43 • 13h ago
+👁️ 15K • 👍 704 • 💬 134 • ⏱️ 55:43 • 14h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T05:30:20.094140+00:00'
+updated: '2026-01-21T05:54:45.446940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 05:30 UTC  
+**Last Updated:** January 21, 2026 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ BoxMind analyzed boxing matches real-time at 2024 Paris Olympics. Gave Chinese c
 
 One impression I keep having is that most AI company marketing, success stories, and case studies are overwhelmingly focused on web and app development. JS/TS everywhere. React, Next.js, React Native. Backends in Node, Bun, sometimes Python. A bit of Rust here and there. Occasionally even PHP — and usually framed as “innovative”. But I see almost nothing around Swift, Objective-C, Kotlin, or C++. Even low-level languages in general feel underrepresented, which is strange given how much performance, systems work, and engine-level logic AI actually depends on. It feels like the public narrative of the AI boom is 100% web-first, even though the foundations of AI (engines, inference runtimes, graphics, simulation, hardware integration) live much closer to C/C++ and systems programming. Is this just marketing bias? Is it because web apps are easier to demo, monetize, and onboard users? Or are we underestimating how much low-level work is happening quietly behind the scenes? Curious to hear perspectives from people working closer to engines, mobile native, or systems-level AI.
 
-19h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Musk's legal team argues he should be compensated as an early startup investor w
 
 Watched the recent Davos panel with Dario Amodei and Demis Hassabis. Wrote up the key points because some of this didn't get much coverage. The headline is the AGI timeline, both say 2-4 years, but other details actually fascinated me: On Claude writing code: Anthropic engineers apparently don't write code anymore. They let Claude write it and just edit. The team that built Claude Cowork built it in a week and a half using Claude Code. On jobs: Amodei predicts something we haven't seen before: high GDP growth combined with high unemployment. His exact words: "The economy cannot restructure fast enough." On China: He compared selling AI chips to China to "selling nuclear weapons to North Korea and bragging 'Oh yeah, Boeing made the casings so we're ripping them off.'" On safety: "We've seen things inside the model like, in lab environments, sometimes the models will develop the intent to blackmail, the intent to deceive."
 
-🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 9h ago
+🔗 [jpcaparas.medium.com](https://jpcaparas.medium.com/what-amodei-and-hassabis-said-about-agi-timelines-jobs-and-china-at-davos-156308aa12c3?sk=c6b11beb4cbed904b9d8677ffa6762ae) • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 1h ago
 
 AVPN, the largest network of social investors in Asia, today announced three initiatives that further expand the impact of the AI Opportunity Fund: Asia-Pacific, supported by Google.org and the Asian Development Bank (ADB), which started as a USD 15 million Fund. Last year, the Fund expanded with an additional USD 10 million for Phase Two, which has selected 18 local training providers across Asia-Pacific.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 51m ago
 
 We asked 12 scientists, artists, and thought leaders to share how AI enabled them to create, explore, or understand something for the first time.
 
-The Atlantic • 37m ago
+The Atlantic • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Wall Street Journal • 11h ago
 
 House passes AI for Main Street Act with overwhelming 395-14 bipartisan vote, directing Small Business Administration to provide AI education resources.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -215,7 +215,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 **[Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)**
 
-⬆️ 165 • 💬 182 • 1d ago
+⬆️ 166 • 💬 182 • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ Use our free compound interest calculator to see how your investments grow over 
 
 ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
 
-⬆️ 154 • 💬 174 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
+⬆️ 155 • 💬 174 • 1d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
 
 ---
 
@@ -259,19 +259,19 @@ AI is asbestos in the walls of our tech society, stuffed there by monopolists ru
 
 ---
 
+**[Which AI Lies Best? A game theory classic designed by John Nash](https://news.ycombinator.com/item?id=46698370)**
+
+162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
+
+⬆️ 87 • 💬 43 • 7h ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+
+---
+
 **[Tired of AI, people are committing to the analog lifestyle in 2026](https://news.ycombinator.com/item?id=46671020)**
 
 With our homes and lives swarming with AI-powered devices, assistants and chatbots, a backlash is brewing.
 
 ⬆️ 86 • 💬 55 • 2d ago • [CNN](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
-
----
-
-**[Majority of CEOs report zero payoff from AI splurge](https://news.ycombinator.com/item?id=46696636)**
-
-: PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
-
-⬆️ 80 • 💬 52 • 10h ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -295,7 +295,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 49K • 👍 2K • 💬 531 • ⏱️ 1:39:31 • 11h ago
+👁️ 49K • 👍 2K • 💬 531 • ⏱️ 1:39:31 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 15,168 • ❤️ 777 • 15h ago
+⬇️ 15,168 • ❤️ 777 • 16h ago
 
 ---
 
@@ -655,7 +655,7 @@ https://continuous-audio-language-models.github.io
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.4k • 🔱 1.2k • 45m ago
+⭐ 9.4k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 303 • 1h ago
+⭐ 2.1k • 🔱 303 • 2h ago
 
 ---
 
@@ -735,7 +735,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.9k • 🔱 152 • 12h ago
+⭐ 1.9k • 🔱 152 • 13h ago
 
 ---
 
