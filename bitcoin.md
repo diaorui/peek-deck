@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T08:34:50.290785+00:00'
+updated: '2026-01-22T09:34:41.703810+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 08:34 UTC  
+**Last Updated:** January 22, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,860.27
+### $89,970.18
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.97B
+**Market Cap:** $1797.00B
 Rank #1
 
-**Circulating Supply:** 19,979,112 BTC
+**Circulating Supply:** 19,979,159 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.7%
 
 **All-Time Low:** $67.81
-+132392.3%
++132513.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,19 +97,19 @@ Here is me saying Bitcoin in January 2026
 
 Thank you for your attention to this matter.
 
-14h ago
+15h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Thank you for your attention to this matter.
 
 First of all congrats to those who got in that early. For the rest of us no need to sweat it, we're still early. Really early. Does anyone have any inspirational stories or pearls of wisdom? I've heard a few rags to riches tales which are pretty great. I've also heard about someone who made so much money they apparently became miserable. Infinite money glitch and revolved his entire personality around Bitcoin. Don't let it happen to you! (lol). As for myself, I'm still in the head down and grind phase. I've decided I'm going to take a couple decades and see if I can accomplish something. Wish me luck. I hope you all stay healthy, take care of your loved ones and keep your stacks secure. And since I'm asking og hodlers to tell their stories it's not a bad idea to use a burner account just to be safe.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,25 +125,25 @@ First of all congrats to those who got in that early. For the rest of us no need
 
 https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
 
-6h ago
+7h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-18h ago
+19h ago
 
 ---
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-9h ago
+10h ago
 
 ---
 
 **[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -155,13 +155,13 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
 **[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 13h ago
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 10h ago
 
 ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 12h ago
 
 There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -193,13 +193,13 @@ CoinDesk • 15h ago
 
 Inflation in the United States could climb above 4% this year, according to a new analysis by Adam Posen of the Peterson Institute and Peter R. Orszag of Lazard.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate?utm_source=news.xml&utm_medium=rss)**
 
-The Block • 45m ago
+The Block • 1h ago
 
 ---
 
@@ -271,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 8h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 9h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 362 • ⏱️ 41:04 • 16h ago
+👁️ 41K • 👍 2K • 💬 358 • ⏱️ 41:04 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 4K • 👍 174 • 💬 109 • ⏱️ 32:39 • 11h ago
+👁️ 4K • 👍 184 • 💬 113 • ⏱️ 32:39 • 12h ago
 
 ---
 
@@ -335,17 +335,7 @@ On this week's episode of CNBC Crypto World, crypto prices struggle as President
 
 📺 CNBC Television
 
-👁️ 12K • 👍 270 • 💬 179 • ⏱️ 16:49 • 10h ago
-
----
-
-**[BREAKING: BIGGEST NEWS for CRYPTOCURRENCY at WEF Davos 2026](https://www.youtube.com/watch?v=LZ9QSeDFixc)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 3K • 💬 167 • ⏱️ 11:24 • 10h ago
+👁️ 14K • 👍 292 • 💬 191 • ⏱️ 16:49 • 11h ago
 
 ---
 
@@ -355,7 +345,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 387 • 💬 131 • ⏱️ 1:16 • 1d ago
+👁️ 18K • 👍 388 • 💬 117 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -365,27 +355,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 35K • 👍 3K • 💬 302 • ⏱️ 18:43 • 18h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 903 • 💬 132 • ⏱️ 8:21 • 1d ago
-
----
-
-**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
-
-In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
-
-📺 Crypto Insider
-
-👁️ 33K • 👍 2K • 💬 85 • ⏱️ 21:45 • 1d ago
+👁️ 36K • 👍 3K • 💬 219 • ⏱️ 18:43 • 19h ago
 
 ---
 
@@ -395,17 +365,47 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 19h ago
+👁️ 14K • 👍 976 • 💬 109 • ⏱️ 20:50 • 20h ago
 
 ---
 
-**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
+**[Is Davos 2026 the Moment Bitcoin Becomes the Global Reserve Currency?](https://www.youtube.com/watch?v=291AJulZyK8)**
 
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+The elites flew private to Davos to plan your future without you. Markets are cracking, trust is collapsing, and Bitcoin is rising from ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 70K • 👍 3K • 💬 292 • ⏱️ 9:30 • 1d ago
+👁️ 33K • 👍 2K • 💬 202 • ⏱️ 22:10 • 1d ago
+
+---
+
+**[Michael Saylor Explains Why Bitcoin Doesn’t Need a New High](https://www.youtube.com/watch?v=Ey6aXnh2NKU)**
+
+Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Saylor explains why regulatory clarity, banking ...
+
+📺 Swan Bitcoin
+
+👁️ 18K • 👍 609 • 💬 31 • ⏱️ 1:32 • 1d ago
+
+---
+
+**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 15K • 👍 763 • 💬 67 • ⏱️ 19:22 • 1d ago
+
+---
+
+**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 11K • 👍 1K • 💬 102 • ⏱️ 7:51 • 16h ago
 
 ---
 

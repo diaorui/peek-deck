@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T08:34:50.297016+00:00'
+updated: '2026-01-22T09:34:41.710426+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 08:34 UTC  
+**Last Updated:** January 22, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.62B
+**Market Cap:** $362.69B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.2%
+-39.3%
 
 **All-Time Low:** $0.43
-+693885.2%
++693626.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a g
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
 
-6h ago
+7h ago
 
 ---
 
@@ -120,7 +120,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-21h ago
+22h ago
 
 ---
 
@@ -154,13 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -184,7 +184,7 @@ dlnews.com • 1d ago
 
 Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 13h ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 19h ago
+Finance Magnates • 20h ago
 
 ---
 
@@ -214,13 +214,13 @@ MarketWatch • 1d ago
 
 A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
 **[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcaCWh0guXshuMnuO8COVveVDmtKduGASM2vGlBY13iWL1X91MilmWp&gaa_ts=6971e496&gaa_sig=1mLlElInZT3n6naQUAPNHKEIWYpwOVt06DIOmwpq9N35jsAdtkFEj22xluoKvkzGHIkj2fErcW5Ev6yuc4KP2A%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 250 • 💬 69 • ⏱️ 8:24 • 8h ago
+👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 9h ago
 
 ---
 
@@ -244,17 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 17 • ⏱️ 10:26 • 9h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
-
-Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
-
-📺 Millionaire Formula
-
-👁️ 1K • 👍 124 • 💬 1 • ⏱️ 19:04 • 14h ago
+👁️ 2K • 👍 134 • 💬 18 • ⏱️ 10:26 • 10h ago
 
 ---
 
@@ -264,7 +254,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 205 • ⏱️ 22:48 • 11h ago
+👁️ 7K • 👍 298 • 💬 204 • ⏱️ 22:48 • 12h ago
 
 ---
 
@@ -274,7 +264,37 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 7h ago
+👁️ 5K • 👍 4K • 8h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 3K • 👍 262 • ⏱️ 19:48 • 12h ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
+
+Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
+
+📺 Millionaire Formula
+
+👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 15h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Darauf warte ich jetzt! Long gegen den Trend? Ne](https://www.youtube.com/watch?v=ljjcoBHV9iU)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 5h ago
 
 ---
 
@@ -288,33 +308,13 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Darauf warte ich jetzt! Long gegen den Trend? Ne](https://www.youtube.com/watch?v=ljjcoBHV9iU)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 512 • 💬 71 • ⏱️ 15:18 • 4h ago
-
----
-
-**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 3K • 👍 254 • ⏱️ 19:48 • 11h ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-6qiAcQzN64)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 20h ago
+👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 21h ago
 
 ---
 
@@ -324,7 +324,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Daily pet videos
 
-👁️ 6K • 👍 4K • 7h ago
+👁️ 6K • 👍 4K • 8h ago
 
 ---
 
