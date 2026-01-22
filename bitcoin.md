@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T17:29:56.894541+00:00'
+updated: '2026-01-22T17:56:36.453031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 17:29 UTC  
+**Last Updated:** January 22, 2026 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,140.18
+### $89,257.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -7.1%  
-**30d:** +1.1%  
-**90d:** -20.5%  
-**1y:** -14.6%  
+**24h:** +1.2%  
+**7d:** -6.4%  
+**30d:** +1.8%  
+**90d:** -19.9%  
+**1y:** -14.0%  
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-3h ago
+6h ago
 
 ---
 
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-5h ago
+3h ago
 
 ---
 
@@ -100,6 +100,12 @@ Rank #1
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
 5h ago
+
+---
+
+**[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
+
+1h ago
 
 ---
 
@@ -129,7 +135,7 @@ Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. T
 
 Here is me saying Bitcoin in January 2026
 
-16h ago
+17h ago
 
 ---
 
@@ -141,21 +147,15 @@ First of all congrats to those who got in that early. For the rest of us no need
 
 ---
 
-**[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
 
-The bitcoin price reclaimed $90,000 after a volatile trading day.
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-Bitcoin Magazine • 20h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -163,47 +163,13 @@ Bitcoin Magazine • 20h ago
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
-**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqcNXpE4OzwkRGgyIr44wqHfHUR4bNkAAWOuq-6HZs-3Dr8IR8ogxAbZ&gaa_ts=6972683b&gaa_sig=dgfPEsNd_kur8xvlppcI0TJjnGZm9B6yEFqdgUhuXNe5kGHIgDBnfo154b50-M9z-6Bv6GIcv4tNpPX1USyC8g%3D%3D)**
 
-Bloomberg • 2d ago
-
----
-
-**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
-
-Reuters • 1d ago
-
----
-
-**[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
-
-Michael Saylor’s company now holds more than 709,000 Bitcoin.
-
-Fortune • 2h ago
-
----
-
-**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate)**
-
-The Block • 9h ago
-
----
-
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
-
-Bloomberg • 2h ago
-
----
-
-**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
-
-Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
-
-Yahoo Finance • 2h ago
+MarketWatch • 1h ago
 
 ---
 
@@ -215,9 +181,45 @@ wtop.com • 8h ago
 
 ---
 
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+
+Bloomberg • 3h ago
+
+---
+
+**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate)**
+
+The Block • 10h ago
+
+---
+
+**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+
+Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Nomura's Laser Digital adds tokenized bitcoin yield fund targeting around 5% returns](https://www.theblock.co/post/386668/nomuras-laser-digital-tokenized-bitcoin-fund)**
 
 The Block • 6h ago
+
+---
+
+**[Fast-Food Chain Steak ‘n Shake to Pay Hourly Workers a Bitcoin Bonus](https://bitcoinmagazine.com/news/steak-n-shake-to-pay-workers-bitcoin-bonus)**
+
+Steak ‘n Shake is launching a bitcoin bonus program for hourly workers, giving $0.21 per hour worked that vests after two years, following its $10 million corporate bitcoin purchase.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -278,7 +280,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 17h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 18h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 5K • 👍 218 • 💬 128 • ⏱️ 32:39 • 20h ago
+👁️ 5K • 👍 218 • 💬 128 • ⏱️ 32:39 • 21h ago
 
 ---
 
@@ -376,7 +378,7 @@ Bitcoin just lost a critical piece of market structure, and this move didn't hap
 
 📺 Crypto Banter
 
-👁️ 36K • 👍 2K • 💬 174 • ⏱️ 23:45 • 20h ago
+👁️ 36K • 👍 2K • 💬 174 • ⏱️ 23:45 • 21h ago
 
 ---
 
@@ -396,7 +398,7 @@ On this week's episode of CNBC Crypto World, crypto prices struggle as President
 
 📺 CNBC Television
 
-👁️ 22K • 👍 434 • 💬 258 • ⏱️ 16:49 • 19h ago
+👁️ 22K • 👍 434 • 💬 258 • ⏱️ 16:49 • 20h ago
 
 ---
 

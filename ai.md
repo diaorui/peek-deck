@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T17:29:56.886160+00:00'
+updated: '2026-01-22T17:56:36.444487+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 17:29 UTC  
+**Last Updated:** January 22, 2026 at 17:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 13h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 14h ago
+
+---
+
+**[Claude's new constitution](https://www.reddit.com/r/artificial/comments/1qjztf7/claudes_new_constitution/)**
+
+A new approach to a foundational document that expresses and shapes who Claude is
+
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 1h ago
 
 ---
 
@@ -77,7 +85,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-11h ago
+12h ago
 
 ---
 
@@ -105,75 +113,43 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 ---
 
-**[Microsoft launches new AI model for real-world robotic learning](https://www.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/)**
-
-"Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 16h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Elon Musk’s Grok A.I. Chatbot Made Millions of Sexualized Images, New Estimates Show](https://www.nytimes.com/2026/01/22/technology/grok-x-ai-elon-musk-deepfakes.html)**
+**[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 7h ago
-
----
-
-**[OpenAI chair Bret Taylor says AI is 'probably' a bubble, expects correction in coming years](https://www.cnbc.com/2026/01/22/openai-chair-bret-taylor-ai-bubble-correction.html)**
-
-Taylor said the free market will ultimately determine where the value is and which AI players have the best products.
-
-CNBC • 3h ago
+The New York Times • 57m ago
 
 ---
 
-**[eBay bans illicit automated shopping amid rapid rise of AI agents](https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/)**
+**[Science Is Drowning in AI Slop](https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/)**
 
-New policy requires "buy for me" AI tools and chatbots to obtain permission before accessing the platform.
+Peer review has met its match.
 
-Ars Technica • 1h ago
-
----
-
-**[AI and robots can already help with medical care, Dr. Oz says](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
-
-Axios • 1h ago
+The Atlantic • 4h ago
 
 ---
 
-**[Palm Springs Unified is bringing AI into classrooms — carefully](https://www.desertsun.com/story/news/education/2026/01/22/palm-springs-unified-is-bringing-ai-into-classrooms-carefully/88135735007/)**
+**[EPA pokes Musk over using unpermitted turbines for AI](https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605)**
 
-With AI already becoming part of students' lives, PSUSD aims to guide responsible use that supports learning and keeps teachers at the center.
-
-desertsun.com • 1h ago
+Politico • 56m ago
 
 ---
 
-**[Nvidia CEO Jensen Huang says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked because someone needs to build all these new AI centers](https://fortune.com/2026/01/21/nvidia-ceo-jensen-huang-skilled-trade-job-boom-ai-construction-six-figure-salaries-plumbing-construction-electricans/)**
+**[The Pick-and-Shovel Phase of AI Has Arrived: 3 Stocks to Watch](https://www.fool.com/investing/2026/01/22/the-pick-and-shovel-phase-of-ai-has-arrived-3-stoc/)**
 
-The AI boom is threatening white-collar entry jobs—but it’s creating a booming six-figure opportunity for electricians, plumbers, and construction workers.
+These businesses are delivering foundational components that support the growing artificial intelligence market.
 
-Fortune • 1d ago
-
----
-
-**[Nvidia's Huang says AI boom will create 'six-figure salaries' for those building chip factories](https://www.cnbc.com/2026/01/22/nvidia-huang-blue-collar-jobs-salaries-skilled-trades.html)**
-
-"We're talking about six-figure salaries for people who are building chip factories or computer factories or AI factories," Nvidia's Jensen Huang said at WEF.
-
-CNBC • 7h ago
+The Motley Fool • 41m ago
 
 ---
 
-**[Should The U.S. Risk Its AI Edge By Letting Nvidia Sell Chips To China?](https://www.forbes.com/sites/paulocarvao/2026/01/22/should-the-us-risk-its-ai-edge-by-letting-nvidia-sell-chips-to-china/)**
+**[Trump's AI czar thinks the US is too pessimistic about AI](https://fortune.com/2026/01/22/david-sacks-warns-america-could-lose-the-ai-race-because-of-pessimism/)**
 
-Should the U.S. allow Nvidia to sell advanced AI chips to China? A clear-eyed look at export controls, national security, innovation and America’s long-term AI leadership.
+David Sacks warns of a 'fit of pessimism' that could lose America the AI race
 
-Forbes • 1h ago
+Fortune • 10m ago
 
 ---
 
@@ -185,11 +161,31 @@ Anthropic • 16h ago
 
 ---
 
-**[Google Nabs Top Talent From AI Voice Startup Hume AI](https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/)**
+**[AI-generated videos of giant drifts go viral after record snow in Russia's Far East](https://www.bbc.com/news/live/cwy11n79j90t)**
 
-Hume AI’s CEO, Alan Cowen, will join Google DeepMind along with several top engineers as part of a major licensing deal.
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-WIRED • 5h ago
+BBC • 1h ago
+
+---
+
+**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/?post_type=article&p=584103)**
+
+A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
+
+The Nation • 7h ago
+
+---
+
+**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
+
+The Information • 21h ago
+
+---
+
+**[With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI](https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai)**
+
+The Information • 3h ago
 
 ---
 
@@ -201,7 +197,7 @@ WIRED • 5h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 449 • 💬 319 • 18h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 495 • 💬 355 • 19h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -217,7 +213,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 242 • 💬 267 • 20h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 267 • 💬 285 • 20h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -249,7 +245,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 124 • 💬 157 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 124 • 💬 158 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -263,7 +259,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 113 • 💬 64 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 114 • 💬 64 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -285,7 +281,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 26K • 👍 831 • 💬 71 • ⏱️ 15:40 • 17h ago
+👁️ 26K • 👍 831 • 💬 71 • ⏱️ 15:40 • 18h ago
 
 ---
 
@@ -305,7 +301,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 39K • 👍 505 • 💬 289 • ⏱️ 6:52 • 18h ago
+👁️ 39K • 👍 505 • 💬 289 • ⏱️ 6:52 • 19h ago
 
 ---
 
@@ -315,7 +311,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 58K • 👍 3K • 💬 1K • ⏱️ 25:46 • 21h ago
+👁️ 58K • 👍 3K • 💬 1K • ⏱️ 25:46 • 22h ago
 
 ---
 
@@ -365,7 +361,7 @@ This is a weird and difficult topic. Curious to hear your thoughts. Follow me! I
 
 📺 Charles Cornell
 
-👁️ 112K • 👍 10K • 💬 3K • ⏱️ 16:19 • 1d ago
+👁️ 112K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
 
 ---
 
@@ -677,7 +673,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 414 • 21h ago
+⭐ 8.3k • 🔱 414 • 22h ago
 
 ---
 
@@ -707,7 +703,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 3h ago
+⭐ 4.5k • 🔱 4.7k • 4h ago
 
 ---
 
@@ -717,7 +713,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.6k • 🔱 359 • 19h ago
+⭐ 3.6k • 🔱 359 • 20h ago
 
 ---
 
@@ -727,7 +723,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 3.0k • 🔱 177 • 4d ago
+⭐ 3.0k • 🔱 177 • 5d ago
 
 ---
 

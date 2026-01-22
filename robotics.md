@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T17:29:56.903707+00:00'
+updated: '2026-01-22T17:56:36.462495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 17:29 UTC  
+**Last Updated:** January 22, 2026 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,9 +56,31 @@ not like real human running to you, each time when team bring him running outsid
 
 ---
 
-**[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
+**[BEAVR Bench](https://www.reddit.com/r/robotics/comments/1qk04mm/beavr_bench/)**
+
+https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
+
+52m ago
+
+---
+
+**[Which ROS version does Unitree G1 EDU supports?](https://www.reddit.com/r/robotics/comments/1qjzrqf/which_ros_version_does_unitree_g1_edu_supports/)**
+
+I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, it says ? Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.10.104-tegra aarch64) This system has been minimized by removing packages and content that are not required on a system that users do not log into. To restore this content, you can run the 'unminimize' command. 0 updates can be applied immediately. 60 additional security updates can be applied with ESM Apps. Learn more about enabling ESM Apps service at https://ubuntu.com/esm Last login: Sat ****** from 192.168.123.51 ros:foxy(1) noetic(2) ? What does this means ? Do i need to depriciated my whole ubuntu and ros in order to run ? Or ned to do it from docker ? How you guys are doing ?
 
 1h ago
+
+---
+
+**[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
+
+2h ago
+
+---
+
+**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
+
+1d ago
 
 ---
 
@@ -67,12 +89,6 @@ not like real human running to you, each time when team bring him running outsid
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
 🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 10h ago
-
----
-
-**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
-
-1d ago
 
 ---
 
@@ -90,25 +106,17 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 ---
 
-**[Need some project ideas!](https://www.reddit.com/r/robotics/comments/1qjj8q7/need_some_project_ideas/)**
-
-Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
-
-14h ago
-
----
-
-**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
-
-Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
+
+Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
+
+Microsoft • 1d ago
+
+---
 
 **[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
@@ -126,11 +134,11 @@ CNBC • 1d ago
 
 ---
 
-**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
+**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
-Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
+OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Microsoft • 1d ago
+Business Insider • 7h ago
 
 ---
 
@@ -142,27 +150,11 @@ Financial Times • 2d ago
 
 ---
 
-**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
-
-OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
-
-Business Insider • 7h ago
-
----
-
 **[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
 
 What’s standing in the way of our robot overlords.
 
 vox.com • 5h ago
-
----
-
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
-
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
-
-Electrek • 16h ago
 
 ---
 
@@ -174,19 +166,27 @@ ktiv.com • 20h ago
 
 ---
 
-**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
-
-Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
 
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Yahoo Finance • 1d ago
+TechCrunch • 1d ago
+
+---
+
+**[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
+
+Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
+
+The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
+
+CBS News • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 3.1M • 👍 33K • 💬 2K • ⏱️ 33:05 • 3d ago
+👁️ 3.1M • 👍 33K • 💬 2K • ⏱️ 33:05 • 4d ago
 
 ---
 

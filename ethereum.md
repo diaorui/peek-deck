@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T17:29:56.900490+00:00'
+updated: '2026-01-22T17:56:36.459119+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 17:29 UTC  
+**Last Updated:** January 22, 2026 at 17:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -11.1%  
-**30d:** -0.5%  
-**90d:** -25.8%  
-**1y:** -12.1%  
+**24h:** +1.1%  
+**7d:** -10.3%  
+**30d:** +0.4%  
+**90d:** -25.1%  
+**1y:** -11.2%  
 
 ---
 
@@ -96,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-10h ago
+11h ago
 
 ---
 
@@ -166,49 +166,17 @@ AMBCrypto • 12h ago
 
 ---
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
-
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
-
-CoinDesk • 3h ago
-
----
-
-**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
-
-Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
-
-The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
-
-dlnews.com • 1d ago
-
----
-
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-1-171849723.html)**
 
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
+Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-TradingView — Track All Markets • 22h ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
-
-It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
-
-The Motley Fool • 2d ago
+Yahoo Finance • 37m ago
 
 ---
 
@@ -220,11 +188,39 @@ Finance Magnates • 1d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:f744deb43094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
 
-Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
+The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-TradingView — Track All Markets • 2d ago
+CoinDesk • 3h ago
+
+---
+
+**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
+
+The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
+
+dlnews.com • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdrwqAy60CwZ2LHTDEmrpbSPmefCPSvz3BlC531hou5ruUf2HQrBw1l&gaa_ts=6972683d&gaa_sig=Zj1CwTWWlKvaq4Zq3QMSClH6msv0IAISO4uLVIPnjQMXZJyO268y9Id5jEln8vhynS8SDDBeI1nTD98NxX3nzg%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+
+Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
+
+TradingView — Track All Markets • 23h ago
+
+---
+
+**[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
+
+99Bitcoins • 7h ago
 
 ---
 
@@ -278,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 19 • ⏱️ 10:26 • 18h ago
+👁️ 2K • 👍 144 • 💬 19 • ⏱️ 10:26 • 19h ago
 
 ---
 
@@ -298,7 +294,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 310 • 💬 206 • ⏱️ 22:48 • 20h ago
+👁️ 8K • 👍 310 • 💬 206 • ⏱️ 22:48 • 21h ago
 
 ---
 
@@ -318,7 +314,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 13K • 👍 4K • 16h ago
+👁️ 13K • 👍 4K • 17h ago
 
 ---
 
