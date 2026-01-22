@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T21:47:38.703150+00:00'
+updated: '2026-01-22T22:24:35.329827+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 21:47 UTC  
+**Last Updated:** January 22, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,13 +96,13 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-1m ago
+38m ago
 
 ---
 
 **[Store your eth on these anonymous wallets! (Muzan Jackson)](https://www.reddit.com/r/ethereum/comments/1qk6etf/store_your_eth_on_these_anonymous_wallets_muzan/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 22h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -170,13 +170,13 @@ AMBCrypto • 16h ago
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 4h ago
 
 JPMorgan analysts are pouring cold water on Ethereum's latest upgrade, predicting the recent activity spike will fade. Despite the technical fix, the wall street giant says structural headwinds will be the roadblock for the network's long-term dominance. CoinDesk's Jennifer Sanasie breaks it down on "Chart of the Day," presented by Crypto.com.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -212,7 +212,7 @@ MarketWatch • 2d ago
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ The Block • 23h ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 3h ago
+👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 6h ago
+👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 21h ago
+👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 11h ago
+👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 CRAZY チャンネル ナティ子
 
-👁️ 7K • 👍 3K • 3h ago
+👁️ 7K • 👍 3K • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 7h ago
+👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 8h ago
 
 ---
 
@@ -304,7 +304,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 3h ago
+👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 4h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 7h ago
+👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 8h ago
 
 ---
 

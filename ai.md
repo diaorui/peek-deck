@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T21:47:38.690140+00:00'
+updated: '2026-01-22T22:24:35.315347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 21:47 UTC  
+**Last Updated:** January 22, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 17h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 18h ago
 
 ---
 
@@ -47,19 +47,19 @@ AI news, discussions, and developments
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 54m ago
+🔗 [Bwocks](http://Bwocks.com) • 1h ago
 
 ---
 
 **[Opinion | Teaching and Learning in the Age of A.I. (Gift Article)](https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 21m ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 57m ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 10h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 11h ago
 
 ---
 
@@ -75,7 +75,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 4h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 5h ago
 
 ---
 
@@ -83,7 +83,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 Im working on a piece of software and Ive kind of hit a wall. The app itself exists and does things, but Im realizing I dont actually know which features people really want versus which ones just sound good in my own head. I keep adding ideas and then asking myself. would anyone use this more than once, or am I just building it because its interesting to build? If youve used AItools before (or even abandoned them). Im interested to know: 1. what features made you stick with a tool longterm? 2. what features did you think you wanted but ended up ignoring? 3. at what point does “featurerich” start to feel like bloat? 4. Or even. What features you think every AI tool is forgetting and underlooking? Any honest takes is appreciated!
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Im working on a piece of software and Ive kind of hit a wall. The app itself exi
 
 I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
 
-21h ago
+22h ago
 
 ---
 
@@ -117,7 +117,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ The New York Times • 4h ago
 
 Peer review has met its match.
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -133,13 +133,13 @@ The Atlantic • 7h ago
 
 AI. Artificial Intelligence. The words alone excite many and strike fear into the hearts of others. Like it or not, AI is here to stay. Fear not, because used properly, AI has the potential to change education for the good in big ways. It’s important to understand the history. AI and related technologies have been […]
 
-mauinews.com • 2m ago
+mauinews.com • 39m ago
 
 ---
 
 **[Axios House: Takeda, NYT and Meta execs share their outlooks on AI](https://www.axios.com/2026/01/22/axios-house-davos-2026-executive-ai-outlooks-takeda-nyt-meta)**
 
-Axios • 29m ago
+Axios • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 29m ago
 
 Paris Hilton speaks out against AI deepfakes
 
-NBC News • 26m ago
+NBC News • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 1d ago
 
 What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
 
-Anthropic • 20h ago
+Anthropic • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ Anthropic • 20h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ binghamton.edu • 1d ago
 
 **[How Playing Pokémon Became the Ultimate Test of AI’s Intelligence](https://www.wsj.com/articles/how-playing-pokemon-became-the-ultimate-test-of-ais-intelligence-1409dea5?gaa_at=eafs&gaa_n=AWEtsqeXIPdEqTGIaGcPafPsU-tsuym8kII5irhCWKFV4OrtjesFRYO-Xll7&gaa_ts=69729e5f&gaa_sig=gg3zQDOyibLxhUMkl1dA8XuV8QzAeev3QqY08g8fHJIQF148-F1MsxBtWfZVX6Ef5ofCRPbU1NBy8W595w1wCA%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -229,7 +229,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 189 • 💬 79 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 189 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -267,7 +267,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 90 • 💬 60 • 7h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 90 • 💬 60 • 8h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -281,7 +281,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 5h ago
+👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 6h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bret Taylor, Sierra co-founder and CEO and OpenAI board chairman, joins 'Squawk 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 8h ago
+👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 9h ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 235 • 17h ago
+⬇️ 111,506 • ❤️ 235 • 18h ago
 
 ---
 
@@ -714,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.7k • 🔱 367 • 23h ago
+⭐ 3.7k • 🔱 367 • 1d ago
 
 ---
 

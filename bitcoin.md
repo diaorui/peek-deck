@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T21:47:38.697758+00:00'
+updated: '2026-01-22T22:24:35.323853+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 21:47 UTC  
+**Last Updated:** January 22, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,19 +125,19 @@ Yeah... just do what's "at least bearable" for 40+ years. Come live in reality a
 
 Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. The meme-money, moon-boy era is mostly over. What replaced it? Something way less flashy but way more dangerous: steady, unstoppable adoption. Institutions now treat Bitcoin like gold or commodities. It gets allocated, custodied, audited, and quietly stacked. That “boring” phase everyone complains about? That’s what maturity looks like. Volatility is down, wild swings are fewer, and price moves follow macro reality—interest rates, liquidity, global risk—not some random Twitter influencer. And let’s be real: it’s getting impossible to call Bitcoin a “toy” anymore. Banks offer custody. ETFs move billions. Public companies put BTC on their balance sheets. Governments write tax code specifically for it. Michael Saylor points out that no asset class in history has hit a trillion-dollar market cap and then gone to zero. You don’t build that level of liquidity and infrastructure around something nobody respects. The message is loud and clear: Bitcoin isn’t an experiment anymore. The financial system actively plans around it. Yeah, regulation showed up. But governments didn’t kill it—they absorbed it. Clearer rules, regulated exchanges, proper custody, reporting requirements—they all feel anti-cypherpunk, sure. But here’s the kicker: that same “boring” bureaucracy unlocked institutional money. Pension funds, insurers, and sovereign investors can’t touch anything non-compliant. The paperwork is dull, but it’s also the plumbing that lets trillions flow safely. Ironically, this “tamed” version of Bitcoin might be its most powerful form. A global asset that runs 24/7, moves across borders in minutes, and can’t be printed more quietly competes with gold, bonds, and even fiat as a long-term store of value. It’s not trying to smash banks overnight—it’s just steadily eroding their role. No hype, no chaos. Just inevitability. And that, my friends, is the real flex. Not insane pumps. Not viral hype. Longevity. When Bitcoin becomes something people hold, rebalance, and plan around instead of gambling on daily candles, it stops being entertainment and starts being financial infrastructure. In 2026, Bitcoin isn’t winning because it’s exciting. It’s winning because it’s unavoidable. And in crypto, boring usually means domination.
 
-11h ago
+12h ago
 
 ---
 
 **[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Opinion & Analysis pieces. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1qk5mig/your_daily_bitcoin_breakdown_newsletter_is_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 23h ago
 
 The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 1h ago
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 26m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -195,13 +195,13 @@ CoinDesk • 26m ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 12h ago
+wtop.com • 13h ago
 
 ---
 
 **[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
 
-Yahoo Finance UK • 10h ago
+Yahoo Finance UK • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 7h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 8h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -276,7 +276,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 21h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 22h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -314,7 +314,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 243 • ⏱️ 36:02 • 6h ago
+👁️ 21K • 👍 1K • 💬 243 • ⏱️ 36:02 • 7h ago
 
 ---
 
@@ -324,7 +324,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 1K • 👍 131 • 💬 29 • ⏱️ 14:22 • 8h ago
+👁️ 1K • 👍 131 • 💬 29 • ⏱️ 14:22 • 9h ago
 
 ---
 
@@ -344,7 +344,7 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 193 • 💬 7 • ⏱️ 1:06 • 3h ago
+👁️ 4K • 👍 193 • 💬 7 • ⏱️ 1:06 • 4h ago
 
 ---
 
@@ -354,7 +354,7 @@ The elites lost control. Davos just admitted the world no longer trusts them —
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 215 • ⏱️ 20:49 • 22h ago
+👁️ 32K • 👍 3K • 💬 215 • ⏱️ 20:49 • 23h ago
 
 ---
 
@@ -384,7 +384,7 @@ Huel: High-Protein Starter Kit 20% off for new customers at https://huel.com/imp
 
 📺 Tom Bilyeu
 
-👁️ 18K • 👍 623 • 💬 218 • ⏱️ 1:58:20 • 7h ago
+👁️ 18K • 👍 623 • 💬 218 • ⏱️ 1:58:20 • 8h ago
 
 ---
 
@@ -394,7 +394,7 @@ BTC has been chopping around with some wild volatility. In today's video, Kyledo
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 17 • ⏱️ 24:37 • 13h ago
+👁️ 16K • 👍 1K • 💬 17 • ⏱️ 24:37 • 14h ago
 
 ---
 
@@ -404,7 +404,7 @@ Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade de
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 20 • ⏱️ 17:34 • 6h ago
+👁️ 12K • 👍 1K • 💬 20 • ⏱️ 17:34 • 7h ago
 
 ---
 
