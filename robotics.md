@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T18:38:36.577389+00:00'
+updated: '2026-01-22T19:26:22.570382+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 18:38 UTC  
+**Last Updated:** January 22, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,15 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-4h ago
+5h ago
+
+---
+
+**[A pocket-sized open-source BLE controller for robotics projects](https://www.reddit.com/r/robotics/comments/1qk1r11/a_pocketsized_opensource_ble_controller_for/)**
+
+Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
+
+1h ago
 
 ---
 
@@ -60,7 +68,7 @@ not like real human running to you, each time when team bring him running outsid
 
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +76,7 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, it says ? Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.10.104-tegra aarch64) This system has been minimized by removing packages and content that are not required on a system that users do not log into. To restore this content, you can run the 'unminimize' command. 0 updates can be applied immediately. 60 additional security updates can be applied with ESM Apps. Learn more about enabling ESM Apps service at https://ubuntu.com/esm Last login: Sat ****** from 192.168.123.51 ros:foxy(1) noetic(2) ? What does this means ? Do i need to depriciated my whole ubuntu and ros in order to run ? Or ned to do it from docker ? How you guys are doing ?
 
-1h ago
+2h ago
 
 ---
 
@@ -88,19 +96,13 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 11h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 12h ago
 
 ---
 
 **[machine dancing](https://www.reddit.com/r/robotics/comments/1qirm57/machine_dancing/)**
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
-
-1d ago
-
----
-
-**[My first open-source robotics project: A 3D-printable ESP32 Rover family with Rocker-Bogie suspension](https://www.reddit.com/r/robotics/comments/1qid8z6/my_first_opensource_robotics_project_a/)**
 
 1d ago
 
@@ -118,11 +120,11 @@ Microsoft • 1d ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Fortune • 3d ago
+TechCrunch • 1d ago
 
 ---
 
@@ -138,7 +140,15 @@ CNBC • 1d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
+
+---
+
+**[Elon Musk: Humanoid robots will be sold by 'end of next year'](https://finance.yahoo.com/video/elon-musk-humanoid-robots-sold-190041670.html)**
+
+Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -150,11 +160,11 @@ Financial Times • 2d ago
 
 ---
 
-**[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
 
-What’s standing in the way of our robot overlords.
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-vox.com • 6h ago
+Fortune • 3d ago
 
 ---
 
@@ -162,31 +172,21 @@ vox.com • 6h ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 21h ago
+ktiv.com • 22h ago
 
 ---
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+**[A detachable crawling robotic hand](https://www.nature.com/articles/s41467-025-67675-8)**
 
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+This study introduces a detachable robotic hand that can detach from a manipulator, crawl to retrieve several objects, and reattach. A symmetric, reversible design enables grasping from both sides, bridging manipulation with autonomous mobility.
 
-TechCrunch • 1d ago
-
----
-
-**[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
-
-Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
-
-Yahoo Finance • 3h ago
+Nature • 2d ago
 
 ---
 
-**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
+**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
 
-The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
-
-CBS News • 2h ago
+The New York Times • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 413K • 👍 18K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 413K • 👍 18K • 💬 4K • ⏱️ 19:17 • 7d ago
 
 ---
 
@@ -220,7 +220,7 @@ In a wide-ranging conversation at the World Economic Forum, tech billionaire Elo
 
 📺 DRM News
 
-👁️ 6K • 👍 679 • 💬 186 • ⏱️ 32:01 • 2h ago
+👁️ 6K • 👍 679 • 💬 186 • ⏱️ 32:01 • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:33 • 7h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:33 • 8h ago
 
 ---
 

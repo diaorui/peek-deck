@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T18:38:36.558953+00:00'
+updated: '2026-01-22T19:26:22.552356+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 18:38 UTC  
+**Last Updated:** January 22, 2026 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 14h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 15h ago
 
 ---
 
@@ -47,13 +47,13 @@ AI news, discussions, and developments
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 1h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 2h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 7h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 8h ago
 
 ---
 
@@ -61,7 +61,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-22h ago
+23h ago
 
 ---
 
@@ -69,7 +69,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Im working on a piece of software and Ive kind of hit a wall. The app itself exists and does things, but Im realizing I dont actually know which features people really want versus which ones just sound good in my own head. I keep adding ideas and then asking myself. would anyone use this more than once, or am I just building it because its interesting to build? If youve used AItools before (or even abandoned them). Im interested to know: 1. what features made you stick with a tool longterm? 2. what features did you think you wanted but ended up ignoring? 3. at what point does “featurerich” start to feel like bloat? 4. Or even. What features you think every AI tool is forgetting and underlooking? Any honest takes is appreciated!
 
-2h ago
+3h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im working on a piece of software and Ive kind of hit a wall. The app itself exi
 
 I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
 
-18h ago
+19h ago
 
 ---
 
@@ -85,7 +85,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-12h ago
+13h ago
 
 ---
 
@@ -101,15 +101,15 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 23h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 1d ago
 
 ---
 
-**[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
+**[Microsoft launches new AI model for real-world robotic learning](https://www.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/)**
 
-i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
+"Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
 
-1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 18h ago
 
 ---
 
@@ -119,7 +119,7 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -127,29 +127,37 @@ The New York Times • 1h ago
 
 Peer review has met its match.
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
-**[EPA pokes Musk over using unpermitted turbines for AI](https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605)**
+**[Experts warn of threat to democracy by ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
 
-Politico • 1h ago
+Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
----
-
-**[The Pick-and-Shovel Phase of AI Has Arrived: 3 Stocks to Watch](https://www.fool.com/investing/2026/01/22/the-pick-and-shovel-phase-of-ai-has-arrived-3-stoc/)**
-
-These businesses are delivering foundational components that support the growing artificial intelligence market.
-
-The Motley Fool • 1h ago
+The Guardian • 22m ago
 
 ---
 
-**[Trump's AI czar thinks the US is too pessimistic about AI](https://fortune.com/2026/01/22/david-sacks-warns-america-could-lose-the-ai-race-because-of-pessimism/)**
+**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-David Sacks warns of a 'fit of pessimism' that could lose America the AI race
+The Information • 56m ago
 
-Fortune • 52m ago
+---
+
+**[Forget BigBear.ai: This "Picks and Shovels" Data Streaming Stock Looks Built for Long‑Term AI Upside](https://www.fool.com/investing/2026/01/22/forget-bigbearai-this-picks-and-shovels-data-strea/)**
+
+IBM is a more reliable AI play in this unpredictable market.
+
+The Motley Fool • 21m ago
+
+---
+
+**[Nvidia CEO Jensen Huang says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked because someone needs to build all these new AI centers](https://fortune.com/2026/01/21/nvidia-ceo-jensen-huang-skilled-trade-job-boom-ai-construction-six-figure-salaries-plumbing-construction-electricans/)**
+
+The AI boom is threatening white-collar entry jobs—but it’s creating a booming six-figure opportunity for electricians, plumbers, and construction workers.
+
+Fortune • 1d ago
 
 ---
 
@@ -157,35 +165,27 @@ Fortune • 52m ago
 
 What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
 
-Anthropic • 17h ago
+Anthropic • 18h ago
 
 ---
 
-**[AI-generated videos of giant drifts go viral after record snow in Russia's Far East](https://www.bbc.com/news/live/cwy11n79j90t)**
+**[How Playing Pokémon Became the Ultimate Test of AI’s Intelligence](https://www.wsj.com/articles/how-playing-pokemon-became-the-ultimate-test-of-ais-intelligence-1409dea5?gaa_at=eafs&gaa_n=AWEtsqcaUGF-72GG-AHmMUiARwAQBCfA2Imim3Q3NZ43qGqpoy0uEBzTAjG_&gaa_ts=69727d41&gaa_sig=QljI4RRxeSuzh4J9KQ-NupWVoJ_8WY2MC7EL34DfWkGEnlsJTIkxRmRPJ-EnTnLNrRTAjnUf-7-LjC8GHnv9wA%3D%3D)**
 
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 1h ago
+The Wall Street Journal • 7h ago
 
 ---
 
-**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/?post_type=article&p=584103)**
+**[OpenAI chair Bret Taylor says AI is 'probably' a bubble, expects correction in coming years](https://www.cnbc.com/2026/01/22/openai-chair-bret-taylor-ai-bubble-correction.html)**
 
-A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
+Taylor said the free market will ultimately determine where the value is and which AI players have the best products.
 
-The Nation • 8h ago
-
----
-
-**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
-
-The Information • 22h ago
+CNBC • 5h ago
 
 ---
 
-**[With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI](https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai)**
+**[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Information • 4h ago
+The Economist • 5h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Information • 4h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 495 • 💬 355 • 19h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 553 • 💬 401 • 20h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -213,7 +213,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 267 • 💬 285 • 21h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 287 • 💬 304 • 22h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -233,19 +233,11 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 ---
 
-**[US Places Arctic Airborne Troops on Standby as Greenland Dispute Escalates](https://news.ycombinator.com/item?id=46682806)**
-
-ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly 1 500 active-duty soldiers from the 11th Airborne Division setting off a wave of debate
-
-⬆️ 155 • 💬 174 • 2d ago • [The Defense News](https://www.thedefensenews.com/news-details/Pentagon-Places-1500-Arctic-Trained-Airborne-Troops-on-Standby-as-Greenland-Dispute-Escalates/)
-
----
-
 **[Comic-Con Bans AI Art After Artist Pushback](https://news.ycombinator.com/item?id=46705952)**
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 124 • 💬 158 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 124 • 💬 159 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -271,6 +263,14 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 ---
 
+**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://news.ycombinator.com/item?id=46719465)**
+
+A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
+
+⬆️ 86 • 💬 56 • 5h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +281,7 @@ Watch the world's best vibe coders build live with Claude Code, Opus 4.5, Figma,
 
 📺 Every
 
-👁️ 4K • 👍 267 • 23h ago
+👁️ 4K • 👍 267 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 19h ago
+👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 20h ago
 
 ---
 
@@ -311,7 +311,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 18h ago
+👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 22h ago
+👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Try Topview AI here:* https://www.topview.ai/?via=julia *Viral video creation ju
 
 📺 Julia McCoy
 
-👁️ 2K • 👍 232 • 💬 19 • ⏱️ 7:16 • 3h ago
+👁️ 2K • 👍 232 • 💬 19 • ⏱️ 7:16 • 4h ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 234 • 14h ago
+⬇️ 111,506 • ❤️ 234 • 15h ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 1h ago
+⭐ 9.6k • 🔱 507 • 2h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 44m ago
+⭐ 9.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 416 • 22h ago
+⭐ 8.3k • 🔱 416 • 23h ago
 
 ---
 
@@ -714,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.6k • 🔱 365 • 20h ago
+⭐ 3.6k • 🔱 365 • 21h ago
 
 ---
 

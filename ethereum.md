@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T18:38:36.573996+00:00'
+updated: '2026-01-22T19:26:22.567095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 18:38 UTC  
+**Last Updated:** January 22, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -10.3%  
-**30d:** +0.4%  
-**90d:** -25.1%  
-**1y:** -11.2%  
+**24h:** -2.7%  
+**7d:** -10.6%  
+**30d:** +0.0%  
+**90d:** -25.4%  
+**1y:** -11.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -162,13 +162,29 @@ Decrypt • 19h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
+
+---
+
+**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
+
+A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
+
+CoinDesk • 47m ago
+
+---
+
+**[BlackRock Names Ethereum The “Toll Road” To Tokenization; Here’s What It Means](https://finance.yahoo.com/news/blackrock-names-ethereum-toll-road-170000815.html)**
+
+BlackRock names Ethereum the toll road to tokenization, highlighting ETH dominance in RWAs and long-term value.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -176,7 +192,7 @@ The Block • 20h ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,14 +204,6 @@ Finance Magnates • 1d ago
 
 ---
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
-
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
-
-CoinDesk • 4h ago
-
----
-
 **[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
@@ -204,7 +212,7 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdrwqAy60CwZ2LHTDEmrpbSPmefCPSvz3BlC531hou5ruUf2HQrBw1l&gaa_ts=6972683d&gaa_sig=Zj1CwTWWlKvaq4Zq3QMSClH6msv0IAISO4uLVIPnjQMXZJyO268y9Id5jEln8vhynS8SDDBeI1nTD98NxX3nzg%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdEo23k7Xsg-XxIlT0C4-SSBv5TdzEn-CjI_JufFmtkIwYjQg80OMcv&gaa_ts=69727d44&gaa_sig=ePD6I0eYRz8dzOIpl_GL8HTEfFr5Ebj8-DI9Reomy-kVJeTJtlO9KBTDOubyoxi5YgaLUdRe65mT1bJvhN-HJA%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -218,12 +226,6 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
-
-99Bitcoins • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +236,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 38m ago
+👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 1h ago
 
 ---
 
@@ -244,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 3h ago
+👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 4h ago
 
 ---
 
@@ -254,7 +256,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 18h ago
+👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 19h ago
 
 ---
 
@@ -264,7 +266,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 37m ago
+👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 1h ago
 
 ---
 
@@ -274,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 4h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 5h ago
 
 ---
 
@@ -284,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 8h ago
+👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 9h ago
 
 ---
 
@@ -294,7 +296,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 CRAZY チャンネル ナティ子
 
-👁️ 3K • 👍 1K • 27m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -304,7 +306,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 21h ago
+👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 22h ago
 
 ---
 
@@ -314,7 +316,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 4h ago
+👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 5h ago
 
 ---
 
@@ -324,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 19h ago
+👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 20h ago
 
 ---
 
