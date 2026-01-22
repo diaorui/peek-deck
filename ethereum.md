@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T20:30:16.383171+00:00'
+updated: '2026-01-22T20:53:58.362241+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 20:30 UTC  
+**Last Updated:** January 22, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.01B
+**Market Cap:** $353.96B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.7%
 
 **All-Time Low:** $0.43
-+682868.5%
++677729.6%
 
 ---
 
@@ -96,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 15h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -178,13 +178,13 @@ CoinDesk • 1h ago
 
 JPMorgan analysts are pouring cold water on Ethereum's latest upgrade, predicting the recent activity spike will fade. Despite the technical fix, the wall street giant says structural headwinds will be the roadblock for the network's long-term dominance. CoinDesk's Jennifer Sanasie breaks it down on "Chart of the Day," presented by Crypto.com.
 
-Yahoo! Finance Canada • 37m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 2h ago
+👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 5h ago
+👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 5h ago
 
 ---
 
@@ -256,27 +256,17 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 20h ago
+👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 20h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
+**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
 
-The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
+After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
 
-📺 Gareth Soloway
+📺 Paul Barron Network
 
-👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 6h ago
+👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 12m ago
 
 ---
 
@@ -286,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 10h ago
+👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 10h ago
 
 ---
 
@@ -296,7 +286,27 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 CRAZY チャンネル ナティ子
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 7K • 👍 3K • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
+
+The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
+
+📺 Gareth Soloway
+
+👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 2h ago
 
 ---
 
@@ -306,7 +316,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 23h ago
+👁️ 8K • 👍 316 • 💬 206 • ⏱️ 22:48 • 1d ago
 
 ---
 
@@ -316,17 +326,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 21h ago
+👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 6h ago
 
 ---
 

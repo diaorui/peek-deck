@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T20:30:16.386430+00:00'
+updated: '2026-01-22T20:53:58.365592+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 20:30 UTC  
+**Last Updated:** January 22, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, it says ? Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.10.104-tegra aarch64) This system has been minimized by removing packages and content that are not required on a system that users do not log into. To restore this content, you can run the 'unminimize' command. 0 updates can be applied immediately. 60 additional security updates can be applied with ESM Apps. Learn more about enabling ESM Apps service at https://ubuntu.com/esm Last login: Sat ****** from 192.168.123.51 ros:foxy(1) noetic(2) ? What does this means ? Do i need to depriciated my whole ubuntu and ros in order to run ? Or ned to do it from docker ? How you guys are doing ?
 
-3h ago
+4h ago
 
 ---
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -194,43 +194,13 @@ Axios • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 870 • 👍 26 • 💬 13 • ⏱️ 2:47 • 4h ago
-
----
-
-**[AI’s first kills show we’re close to disaster. Godfather of AI.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
-
-AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 413K • 👍 18K • 💬 4K • ⏱️ 19:17 • 7d ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 6K • 👍 679 • 💬 186 • ⏱️ 32:01 • 4h ago
-
----
-
 **[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
 
 The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 69 • 💬 3 • ⏱️ 0:32 • 1d ago
+👁️ 2K • 👍 70 • 💬 4 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -240,7 +210,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:33 • 9h ago
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:33 • 9h ago
 
 ---
 
@@ -250,7 +220,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 27K • 👍 1K • 💬 96 • ⏱️ 1:51 • 1d ago
+👁️ 28K • 👍 1K • 💬 100 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -260,7 +230,7 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 📺 DPCcars
 
-👁️ 9K • 👍 81 • 💬 20 • ⏱️ 3:19 • 6d ago
+👁️ 9K • 👍 82 • 💬 20 • ⏱️ 3:19 • 6d ago
 
 ---
 
@@ -270,7 +240,27 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 253 • 💬 97 • ⏱️ 19:41 • 1d ago
+👁️ 4K • 👍 255 • 💬 97 • ⏱️ 19:41 • 1d ago
+
+---
+
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
+
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
+
+📺 DRM News
+
+👁️ 46K • 👍 2K • 💬 535 • ⏱️ 32:01 • 4h ago
+
+---
+
+**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+
+At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+
+📺 KhanFlicks
+
+👁️ 78K • 💬 36 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -284,13 +274,23 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
 
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
 
-📺 KhanFlicks
+📺 KTLA 5
 
-👁️ 78K • 💬 36 • ⏱️ 12:09 • 5d ago
+👁️ 17K • 👍 33 • 💬 5 • ⏱️ 23:17 • 3d ago
+
+---
+
+**[Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.youtube.com/watch?v=SwqYJQYAD8I)**
+
+Google DeepMind Co-Founder and Chief Executive Officer Demis Hassabis sees robotics as being “on the cusp of a kind of break ...
+
+📺 Bloomberg Technology
+
+👁️ 3K • 👍 58 • 💬 1 • ⏱️ 2:03 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T20:30:16.368679+00:00'
+updated: '2026-01-22T20:53:58.347157+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 20:30 UTC  
+**Last Updated:** January 22, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 16h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 17h ago
 
 ---
 
@@ -61,7 +61,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 3h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 4h ago
 
 ---
 
@@ -85,7 +85,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 1h ago
 
 **[The labor market's surprising bright spot – and how to turn it into a job](https://www.axios.com/2026/01/22/ai-chatgpt-jobs-market-resume)**
 
-Axios • 32m ago
+Axios • 56m ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 32m ago
 
 State's vague AI framework for schools lacks concrete examples and clear implementation strategies, leaving schools to interpret rules however they want and potentially creating wildly different policies across districts.
 
-cleveland.com • 20m ago
+cleveland.com • 43m ago
 
 ---
 
@@ -149,7 +149,7 @@ cleveland.com • 20m ago
 
 Joseph Welch, executive director of US Army Transformation and Training Command, said that AI can help soldiers do their jobs better and help them make 'human based judgments consistent with our laws and our values' when they're out in the field. Welch said that the Army's goal is to rapidly advance the state of their technology and that he's seeing support for 'once in a generation change.'  (Source: Bloomberg)
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 37m ago
 
 Peer review has met its match.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Economist • 6h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 589 • 💬 421 • 21h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 589 • 💬 421 • 22h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -275,33 +275,23 @@ A conversation with Graham Granger, whose combination of protest and performance
 
 ## YouTube Videos: "ai"
 
-**[Vibe Code Camp: Live Marathon With the World&#39;s Best AI Builders](https://www.youtube.com/watch?v=5YBjll9XJlw)**
+**[“More Robots Than Humans”, Elon Musk Says AI &amp; Robots Will End Scarcity and Transform Humans | AI1G](https://www.youtube.com/watch?v=j08aEBMUgOs)**
 
-Watch the world's best vibe coders build live with Claude Code, Opus 4.5, Figma, Notion, and more products using cutting-edge ...
+Tech billionaire Elon Musk spoke at the World Economic Forum about artificial intelligence, humanoid robots, space exploration, ...
 
-📺 Every
+📺 DRM News
 
-👁️ 4K • 👍 267 • 1d ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 68K • 👍 962 • 💬 203 • ⏱️ 9:36 • 1d ago
+👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 4h ago
 
 ---
 
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+**[Sierra CEO Bret Taylor on the future of AI: We&#39;re at the beginning of the curve](https://www.youtube.com/watch?v=_W9aIt39VyA)**
 
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+Bret Taylor, Sierra co-founder and CEO and OpenAI board chairman, joins 'Squawk Box' to discuss the state of AI development, ...
 
-📺 CBS News
+📺 CNBC Television
 
-👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 21h ago
+👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 7h ago
 
 ---
 
@@ -311,7 +301,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 20h ago
+👁️ 28K • 👍 896 • 💬 72 • ⏱️ 15:40 • 21h ago
 
 ---
 
@@ -321,17 +311,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 36K • 👍 855 • 💬 307 • ⏱️ 12:14 • 2d ago
-
----
-
-**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
-
-OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
-
-📺 Matthew Berman
-
-👁️ 82K • 👍 3K • 💬 625 • ⏱️ 18:33 • 2d ago
+👁️ 37K • 👍 880 • 💬 310 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -341,27 +321,27 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 1d ago
+👁️ 65K • 👍 3K • 💬 1K • ⏱️ 25:46 • 1d ago
 
 ---
 
-**[Topview AI Video Agent: The Future of Viral Content Creation is Here](https://www.youtube.com/watch?v=Gvssh0TwxjY)**
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
 
-Try Topview AI here:* https://www.topview.ai/?via=julia *Viral video creation just changed.* AI can now recreate any viral video ...
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
 
-📺 Julia McCoy
+📺 Mint
 
-👁️ 2K • 👍 232 • 💬 19 • ⏱️ 7:16 • 5h ago
+👁️ 75K • 👍 1K • 💬 220 • ⏱️ 9:36 • 1d ago
 
 ---
 
-**[What&#39;s Even The Point Anymore? ...The AI Takeover of Music](https://www.youtube.com/watch?v=gh20tavQqxk)**
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
 
-This is a weird and difficult topic. Curious to hear your thoughts. Follow me! Instagram: https://bit.ly/2WoR7W1 Twitter: ...
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
 
-📺 Charles Cornell
+📺 CBS News
 
-👁️ 119K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
+👁️ 46K • 👍 562 • 💬 341 • ⏱️ 6:52 • 22h ago
 
 ---
 
@@ -371,7 +351,27 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 292K • 👍 906 • 💬 20 • ⏱️ 11:47 • 1d ago
+👁️ 305K • 👍 941 • 💬 20 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[Build Your Own UNCENSORED AI Running Completely Offline](https://www.youtube.com/watch?v=SkEUXfv9sEo)**
+
+In this video, I show you how to run a fully unrestricted and private, offline LLM directly on your own machine. If you are a ...
+
+📺 Cyb3rMaddy
+
+👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:53 • 1d ago
+
+---
+
+**[What&#39;s Even The Point Anymore? ...The AI Takeover of Music](https://www.youtube.com/watch?v=gh20tavQqxk)**
+
+This is a weird and difficult topic. Curious to hear your thoughts. Follow me! Instagram: https://bit.ly/2WoR7W1 Twitter: ...
+
+📺 Charles Cornell
+
+👁️ 124K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
 
 ---
 
@@ -387,7 +387,17 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 123,542 • ❤️ 967 • 2d ago
+⬇️ 123,542 • ❤️ 972 • 2d ago
+
+---
+
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+⬇️ 9,062 • ❤️ 473 • 1d ago
 
 ---
 
@@ -399,17 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 45,447 • ❤️ 480 • 7d ago
-
----
-
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
-
-*NVIDIA*
-
-PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-
-⬇️ 9,062 • ❤️ 454 • 1d ago
+⬇️ 45,447 • ❤️ 486 • 7d ago
 
 ---
 
@@ -421,7 +421,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 10,770 • ❤️ 951 • 7d ago
+⬇️ 10,770 • ❤️ 952 • 7d ago
 
 ---
 
@@ -437,15 +437,15 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 ---
 
-**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
+**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
 
-*Black Forest Labs*
+*Unsloth AI*
 
-FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
+GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
 
-`image-to-image`
+`text-generation` `29.9B`
 
-⬇️ 28,939 • ❤️ 270 • 6d ago
+⬇️ 111,506 • ❤️ 235 • 16h ago
 
 ---
 
@@ -455,19 +455,19 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 38,820 • ❤️ 414 • 3d ago
+⬇️ 38,820 • ❤️ 416 • 3d ago
 
 ---
 
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
 
-*Unsloth AI*
+*Black Forest Labs*
 
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
 
-`text-generation` `29.9B`
+`image-to-image`
 
-⬇️ 111,506 • ❤️ 234 • 16h ago
+⬇️ 28,939 • ❤️ 271 • 6d ago
 
 ---
 
@@ -491,7 +491,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,963,151 • ❤️ 1,257 • 3d ago
+⬇️ 1,963,151 • ❤️ 1,261 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 34 • 💬 1 • ⭐ 116 • 2d ago
+▲ 35 • 💬 1 • ⭐ 116 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
@@ -533,7 +533,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 124 • 💬 6 • ⭐ 11,422 • 5mo ago
+▲ 125 • 💬 6 • ⭐ 11,422 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 3h ago
+⭐ 9.6k • 🔱 507 • 4h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 2h ago
+⭐ 9.6k • 🔱 1.3k • 24m ago
 
 ---
 
@@ -674,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 416 • 1d ago
+⭐ 8.3k • 🔱 417 • 1d ago
 
 ---
 
@@ -684,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.8k • 🔱 821 • 2d ago
+⭐ 6.8k • 🔱 822 • 2d ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 6h ago
+⭐ 4.5k • 🔱 4.7k • 7h ago
 
 ---
 
@@ -714,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.6k • 🔱 365 • 22h ago
+⭐ 3.7k • 🔱 367 • 23h ago
 
 ---
 
@@ -734,7 +734,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 328 • 1d ago
+⭐ 2.3k • 🔱 330 • 1d ago
 
 ---
 
@@ -742,7 +742,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.2k • 🔱 170 • 3d ago
+⭐ 2.2k • 🔱 172 • 3d ago
 
 ---
 
