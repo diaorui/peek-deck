@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T13:48:47.920709+00:00'
+updated: '2026-01-22T14:33:19.969089+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 13:48 UTC  
+**Last Updated:** January 22, 2026 at 14:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Fresh in the mail 😁](https://www.reddit.com/r/robotics/comments/1qjnr3r/fresh_in_the_mail/)**
-
-Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
-
-6h ago
-
----
-
 **[Day 122 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qjr0zs/day_122_of_building_asimov_an_opensource_humanoid/)**
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-3h ago
+4h ago
 
 ---
 
-**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
+**[Fresh in the mail 😁](https://www.reddit.com/r/robotics/comments/1qjnr3r/fresh_in_the_mail/)**
 
-1d ago
+Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
+
+7h ago
+
+---
+
+**[5km running test, let's make noise at night!](https://www.reddit.com/r/robotics/comments/1qjvu3a/5km_running_test_lets_make_noise_at_night/)**
+
+not like real human running to you, each time when team bring him running outside, safe distance is necessary
+
+9m ago
 
 ---
 
@@ -58,7 +60,13 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 6h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 7h ago
+
+---
+
+**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
+
+1d ago
 
 ---
 
@@ -80,15 +88,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-10h ago
-
----
-
-**[Will there be a need for those with a CS background in robotics companies in the future?](https://www.reddit.com/r/robotics/comments/1qjj2em/will_there_be_a_need_for_those_with_a_cs/)**
-
-Will there still be a need for people with a background in CS for roles such as machine learning engineer or computer vision engineer in robotics companies given the fact that ai can do code now?
-
-10h ago
+11h ago
 
 ---
 
@@ -96,15 +96,15 @@ Will there still be a need for people with a background in CS for roles such as 
 
 Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesome and creative ideas in my last post about what you’d use a home robotic arm for。 The discussion was fantastic – from cooking and cleaning to playing with pets and even folding laundry, your ideas were incredibly insightful. Now, I’m back with the natural next question: Pricing. Let’s set some common assumptions to make this thought experiment easier: • The robotic arm is reliable, safe, and smart enough to handle the varied tasks we discussed. • It’s a standalone device you can place on a table or counter, or mount on a wall/ceiling track for greater range. • Software and basic grippers are included. The Core Question: Given your intended use case from the last thread, what do you think is a fair price for such a device, and what is the absolute maximum you would personally consider paying? To help structure your thoughts, you might consider: • The “Impulse Buy” Price: A price so reasonable you’d buy it to try out, even for just one main task. • The “Value Anchor” Price: A price that feels like a solid deal for the time and effort it saves. • The “Serious Investment” Price: The point where you’d need to seriously justify it as a major home appliance/tool. To make it engaging, let’s do a quick poll in the comments, and please expand on your vote! • Under $500 USD • $500 — $1,500 USD • $1,500 — $3,000 USD • $3,000 — $5,000 USD • Over $5,000 USD Please share your reasoning! • Would you prefer a cheaper, simpler model for one task, or a more expensive, versatile one? • Does the price change if it’s a one-time payment vs. a base unit + paid software modules? • How much would it need to save you (in time or hired help money) to be worth it? This feedback is invaluable. It’s not about finding a single “right” price, but understanding the spectrum of what feels valuable to different people with different use cases. Thanks again for helping shape this futuristic idea with some grounded reality!
 
-10h ago
+11h ago
 
 ---
 
-**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
+**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
 
-I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
+Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-22h ago
+23h ago
 
 ---
 
@@ -112,49 +112,19 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 ## Google News: "robotics"
 
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 2d ago
+
+---
+
 **[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 23h ago
-
----
-
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
-
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
-
-The Business Journals • 1d ago
-
----
-
-**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
-
-Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
-
-The Robot Report • 1d ago
-
----
-
-**[Microsoft Research reveals Rho-alpha vision-language-action model for robots](https://www.therobotreport.com/microsoft-research-reveals-rho-alpha-vision-language-action-model-for-robots/)**
-
-The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft.
-
-The Robot Report • 23h ago
-
----
-
-**[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
-
-What’s standing in the way of our robot overlords.
-
-vox.com • 1h ago
+Microsoft • 1d ago
 
 ---
 
@@ -162,7 +132,37 @@ vox.com • 1h ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
+
+---
+
+**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+
+Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+
+Electrek • 13h ago
+
+---
+
+**[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
+
+EE Times • 19h ago
+
+---
+
+**[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
+
+What’s standing in the way of our robot overlords.
+
+vox.com • 2h ago
+
+---
+
+**[Internships building Georgia’s next-gen tech workforce in robotics at Pratt & Whitney and beyond](https://news.columbusstate.edu/posts/internships-building-georgias-next-gen-tech-workforce-in-robotics-at-pratt-and-whitney-and-beyond/)**
+
+Robotics Engineering master's student Roxann Poole is applying her advanced automation skills during an internship at Pratt & Whitney, actively developing technologies to support Georgia's aerospace workforce.
+
+Columbus State University News • 1h ago
 
 ---
 
@@ -178,13 +178,13 @@ CNBC • 1d ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 16h ago
+ktiv.com • 17h ago
 
 ---
 
-**[Why Richtech Robotics Stock Popped Today](https://finance.yahoo.com/news/why-richtech-robotics-stock-popped-182048173.html)**
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
-Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
 Yahoo Finance • 1d ago
 
@@ -210,7 +210,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 582 • 👍 12 • 💬 1 • ⏱️ 0:33 • 2h ago
+👁️ 582 • 👍 12 • 💬 1 • ⏱️ 0:33 • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 252 • 💬 95 • ⏱️ 19:41 • 23h ago
+👁️ 4K • 👍 252 • 💬 95 • ⏱️ 19:41 • 1d ago
 
 ---
 
