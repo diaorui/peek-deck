@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T17:56:36.462495+00:00'
+updated: '2026-01-22T18:38:36.577389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 17:56 UTC  
+**Last Updated:** January 22, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ not like real human running to you, each time when team bring him running outsid
 
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
-52m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 11h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNBC • 1d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -154,7 +154,7 @@ Financial Times • 2d ago
 
 What’s standing in the way of our robot overlords.
 
-vox.com • 5h ago
+vox.com • 6h ago
 
 ---
 
@@ -162,7 +162,7 @@ vox.com • 5h ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 20h ago
+ktiv.com • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ TechCrunch • 1d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2h ago
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -194,13 +194,33 @@ CBS News • 1h ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
+
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
+
+📺 CNBC Television
+
+👁️ 870 • 👍 26 • 💬 13 • ⏱️ 2:47 • 2h ago
+
+---
+
 **[AI’s first kills show we’re close to disaster. Godfather of AI.](https://www.youtube.com/watch?v=tjFHRVr7aNE)**
 
 AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
 
 📺 Digital Engine
 
-👁️ 412K • 👍 18K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 413K • 👍 18K • 💬 4K • ⏱️ 19:17 • 6d ago
+
+---
+
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
+
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
+
+📺 DRM News
+
+👁️ 6K • 👍 679 • 💬 186 • ⏱️ 32:01 • 2h ago
 
 ---
 
@@ -210,7 +230,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 68 • 💬 3 • ⏱️ 0:32 • 22h ago
+👁️ 2K • 👍 69 • 💬 3 • ⏱️ 0:32 • 23h ago
 
 ---
 
@@ -220,7 +240,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 935 • 👍 16 • 💬 1 • ⏱️ 0:33 • 6h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:33 • 7h ago
 
 ---
 
@@ -230,7 +250,17 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 26K • 👍 1K • 💬 93 • ⏱️ 1:51 • 1d ago
+👁️ 27K • 👍 1K • 💬 96 • ⏱️ 1:51 • 1d ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 9K • 👍 81 • 💬 20 • ⏱️ 3:19 • 6d ago
 
 ---
 
@@ -240,17 +270,7 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 251 • 💬 96 • ⏱️ 19:41 • 1d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 3.1M • 👍 33K • 💬 2K • ⏱️ 33:05 • 4d ago
+👁️ 4K • 👍 253 • 💬 97 • ⏱️ 19:41 • 1d ago
 
 ---
 
@@ -271,26 +291,6 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 📺 KhanFlicks
 
 👁️ 78K • 💬 36 • ⏱️ 12:09 • 5d ago
-
----
-
-**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
-
-Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
-
-📺 KTLA 5
-
-👁️ 17K • 👍 33 • 💬 5 • ⏱️ 23:17 • 3d ago
-
----
-
-**[This Robot Can Physically Speak.  #technology #robotics #tamuworld](https://www.youtube.com/watch?v=YTX8jf2HaHw)**
-
-This robotic mouth was developed by researchers in Japan to physically reproduce how humans speak — not by generating ...
-
-📺 Tamu World
-
-👁️ 109K • 👍 326 • 💬 72 • ⏱️ 0:06 • 4d ago
 
 ---
 

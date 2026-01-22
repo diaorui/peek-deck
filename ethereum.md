@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T17:56:36.459119+00:00'
+updated: '2026-01-22T18:38:36.573996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 17:56 UTC  
+**Last Updated:** January 22, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.38B
+**Market Cap:** $357.01B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.2%
 
 **All-Time Low:** $0.43
-+677036.8%
++682868.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-2h ago
+3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 18h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 20h ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Finance Magnates • 1d ago
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -214,13 +214,13 @@ MarketWatch • 2d ago
 
 Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 23h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
 **[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
 
-99Bitcoins • 7h ago
+99Bitcoins • 8h ago
 
 ---
 
@@ -228,23 +228,13 @@ TradingView — Track All Markets • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
 
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
 
-📺 Discover Crypto
+📺 Coin Bureau
 
-👁️ 8K • 👍 328 • 💬 80 • ⏱️ 8:24 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 683 • 👍 90 • 💬 6 • ⏱️ 7:34 • 3h ago
+👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 38m ago
 
 ---
 
@@ -254,7 +244,37 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 130 • 💬 13 • ⏱️ 17:24 • 2h ago
+👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 3h ago
+
+---
+
+**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+
+Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
+
+The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
+
+📺 Gareth Soloway
+
+👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 37m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 4h ago
 
 ---
 
@@ -264,27 +284,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 189 • 👍 14 • 💬 3 • ⏱️ 4:54 • 7h ago
+👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=rHTIgBWLkGo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
 
-📺 More Crypto Online
+📺 CRAZY チャンネル ナティ子
 
-👁️ 2K • 👍 144 • 💬 19 • ⏱️ 10:26 • 19h ago
-
----
-
-**[SUI Network Founder: Why AI Agents Are Choosing SUI Over Ethereum &amp; Solana | E155](https://www.youtube.com/watch?v=sQV78ijFDGQ)**
-
-Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his son Kryptos. While other blockchains compete ...
-
-📺 When Shift Happens
-
-👁️ 451 • 👍 52 • 💬 31 • ⏱️ 1:00:39 • 3h ago
+👁️ 3K • 👍 1K • 27m ago
 
 ---
 
@@ -294,37 +304,27 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 310 • 💬 206 • ⏱️ 22:48 • 21h ago
+👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
+**[SUI Network Founder: Why AI Agents Are Choosing SUI Over Ethereum &amp; Solana | E155](https://www.youtube.com/watch?v=sQV78ijFDGQ)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his son Kryptos. While other blockchains compete ...
 
-📺 Doctor of Pump & Dump
+📺 When Shift Happens
 
-👁️ 4K • 👍 285 • ⏱️ 19:48 • 20h ago
-
----
-
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
-
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
-
-📺  S BENCH 
-
-👁️ 13K • 👍 4K • 17h ago
+👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 4h ago
 
 ---
 
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
 
-Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Millionaire Formula
+📺 More Crypto Online
 
-👁️ 1K • 👍 128 • 💬 1 • ⏱️ 19:04 • 23h ago
+👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T17:56:36.444487+00:00'
+updated: '2026-01-22T18:38:36.558953+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 17:56 UTC  
+**Last Updated:** January 22, 2026 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,7 +53,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 6h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 7h ago
 
 ---
 
@@ -61,7 +61,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-21h ago
+22h ago
 
 ---
 
@@ -69,7 +69,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Im working on a piece of software and Ive kind of hit a wall. The app itself exists and does things, but Im realizing I dont actually know which features people really want versus which ones just sound good in my own head. I keep adding ideas and then asking myself. would anyone use this more than once, or am I just building it because its interesting to build? If youve used AItools before (or even abandoned them). Im interested to know: 1. what features made you stick with a tool longterm? 2. what features did you think you wanted but ended up ignoring? 3. at what point does “featurerich” start to feel like bloat? 4. Or even. What features you think every AI tool is forgetting and underlooking? Any honest takes is appreciated!
 
-1h ago
+2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im working on a piece of software and Ive kind of hit a wall. The app itself exi
 
 I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 22h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 57m ago
+The New York Times • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Atlantic • 4h ago
 
 **[EPA pokes Musk over using unpermitted turbines for AI](https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605)**
 
-Politico • 56m ago
+Politico • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Politico • 56m ago
 
 These businesses are delivering foundational components that support the growing artificial intelligence market.
 
-The Motley Fool • 41m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Motley Fool • 41m ago
 
 David Sacks warns of a 'fit of pessimism' that could lose America the AI race
 
-Fortune • 10m ago
+Fortune • 52m ago
 
 ---
 
@@ -157,7 +157,7 @@ Fortune • 10m ago
 
 What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
 
-Anthropic • 16h ago
+Anthropic • 17h ago
 
 ---
 
@@ -173,19 +173,19 @@ BBC • 1h ago
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-The Nation • 7h ago
+The Nation • 8h ago
 
 ---
 
 **[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
-The Information • 21h ago
+The Information • 22h ago
 
 ---
 
 **[With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI](https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai)**
 
-The Information • 3h ago
+The Information • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 267 • 💬 285 • 20h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 267 • 💬 285 • 21h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -259,7 +259,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 114 • 💬 64 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 114 • 💬 64 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -275,13 +275,13 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 ## YouTube Videos: "ai"
 
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+**[Vibe Code Camp: Live Marathon With the World&#39;s Best AI Builders](https://www.youtube.com/watch?v=5YBjll9XJlw)**
 
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+Watch the world's best vibe coders build live with Claude Code, Opus 4.5, Figma, Notion, and more products using cutting-edge ...
 
-📺 AI Revolution
+📺 Every
 
-👁️ 26K • 👍 831 • 💬 71 • ⏱️ 15:40 • 18h ago
+👁️ 4K • 👍 267 • 23h ago
 
 ---
 
@@ -291,7 +291,7 @@ Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Execut
 
 📺 Mint
 
-👁️ 61K • 👍 884 • 💬 186 • ⏱️ 9:36 • 1d ago
+👁️ 68K • 👍 962 • 💬 203 • ⏱️ 9:36 • 1d ago
 
 ---
 
@@ -301,17 +301,17 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 39K • 👍 505 • 💬 289 • ⏱️ 6:52 • 19h ago
+👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 19h ago
 
 ---
 
-**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
 
-Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
 
-📺 Stylosa
+📺 AI Revolution
 
-👁️ 58K • 👍 3K • 💬 1K • ⏱️ 25:46 • 22h ago
+👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 18h ago
 
 ---
 
@@ -321,37 +321,37 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 35K • 👍 820 • 💬 301 • ⏱️ 12:14 • 2d ago
+👁️ 36K • 👍 855 • 💬 307 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[If AI Takes All The Jobs, This Is What Society Looks Like](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
 
-In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
 
-📺 The Infographics Show
+📺 Matthew Berman
 
-👁️ 60K • 👍 2K • 💬 408 • ⏱️ 10:58 • 2d ago
-
----
-
-**[Don&#39;t Learn AI Without Learning these Fundamentals](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
-
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
-
-📺 Parker Prompts
-
-👁️ 20K • 💬 19 • ⏱️ 10:12 • 1d ago
+👁️ 82K • 👍 3K • 💬 625 • ⏱️ 18:33 • 2d ago
 
 ---
 
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
 
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
 
-📺 Love And Peace
+📺 Stylosa
 
-👁️ 270K • 👍 856 • 💬 20 • ⏱️ 11:47 • 1d ago
+👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 22h ago
+
+---
+
+**[Topview AI Video Agent: The Future of Viral Content Creation is Here](https://www.youtube.com/watch?v=Gvssh0TwxjY)**
+
+Try Topview AI here:* https://www.topview.ai/?via=julia *Viral video creation just changed.* AI can now recreate any viral video ...
+
+📺 Julia McCoy
+
+👁️ 2K • 👍 232 • 💬 19 • ⏱️ 7:16 • 3h ago
 
 ---
 
@@ -361,17 +361,17 @@ This is a weird and difficult topic. Curious to hear your thoughts. Follow me! I
 
 📺 Charles Cornell
 
-👁️ 112K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
+👁️ 119K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
 
 ---
 
-**[Davos 2026 LIVE | Elon Musk Discusses AI, Regulation, Innovation and Government Efficiency | N18G](https://www.youtube.com/watch?v=xc-rO8u-D4Q)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
 
-Tesla and SpaceX CEO Elon Musk shared his views on artificial intelligence, regulatory challenges, technological innovation, and ...
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
 
-📺 CNN-News18
+📺 Love And Peace
 
-👁️ 8K • 👍 272 • 5h ago
+👁️ 292K • 👍 906 • 💬 20 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 123,542 • ❤️ 960 • 2d ago
+⬇️ 123,542 • ❤️ 967 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 45,447 • ❤️ 479 • 7d ago
+⬇️ 45,447 • ❤️ 480 • 7d ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 9,062 • ❤️ 434 • 1d ago
+⬇️ 9,062 • ❤️ 454 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 10,770 • ❤️ 948 • 7d ago
+⬇️ 10,770 • ❤️ 951 • 7d ago
 
 ---
 
@@ -433,7 +433,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 43,192 • ❤️ 296 • 6d ago
+⬇️ 43,192 • ❤️ 300 • 7d ago
 
 ---
 
@@ -445,7 +445,29 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 28,939 • ❤️ 269 • 6d ago
+⬇️ 28,939 • ❤️ 270 • 6d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 38,820 • ❤️ 414 • 3d ago
+
+---
+
+**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+
+*Unsloth AI*
+
+GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+
+`text-generation` `29.9B`
+
+⬇️ 111,506 • ❤️ 234 • 14h ago
 
 ---
 
@@ -461,28 +483,6 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 ---
 
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 38,820 • ❤️ 409 • 3d ago
-
----
-
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
-
-*Unsloth AI*
-
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
-
-`text-generation` `29.9B`
-
-⬇️ 111,506 • ❤️ 230 • 13h ago
-
----
-
 **[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
 
 *Lightricks*
@@ -491,7 +491,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,963,151 • ❤️ 1,256 • 3d ago
+⬇️ 1,963,151 • ❤️ 1,257 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 32 • 💬 1 • ⭐ 116 • 2d ago
+▲ 34 • 💬 1 • ⭐ 116 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
@@ -521,7 +521,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 6 • 💬 1 • ⭐ 141 • 6d ago
+▲ 7 • 💬 1 • ⭐ 141 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -533,7 +533,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 124 • 💬 6 • ⭐ 11,316 • 5mo ago
+▲ 124 • 💬 6 • ⭐ 11,422 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -545,7 +545,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 31 • 💬 4 • ⭐ 1,423 • 7d ago
+▲ 32 • 💬 4 • ⭐ 1,423 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -557,7 +557,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 157 • 💬 3 • ⭐ 4,514 • 6mo ago
+▲ 157 • 💬 3 • ⭐ 4,539 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -571,7 +571,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning.
 
-▲ 17 • 💬 3 • ⭐ 476 • 6d ago
+▲ 18 • 💬 3 • ⭐ 491 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11514) • [💻 code](https://github.com/facebookresearch/ShapeR) • [🔗 project](https://facebookresearch.github.io/ShapeR/)
 
@@ -585,7 +585,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 35 • 💬 1 • ⭐ 3,158 • 10d ago
+▲ 35 • 💬 1 • ⭐ 3,188 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -597,9 +597,24 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 33 • 💬 3 • ⭐ 1,794 • 17d ago
+▲ 35 • 💬 3 • ⭐ 1,794 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 135 • 💬 19 • ⭐ 50,840 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -623,23 +638,9 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,139 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,170 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 141 • 💬 6 • ⭐ 20,757 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -653,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 505 • 1h ago
+⭐ 9.6k • 🔱 507 • 1h ago
 
 ---
 
@@ -663,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 44m ago
 
 ---
 
@@ -673,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 414 • 22h ago
+⭐ 8.3k • 🔱 416 • 22h ago
 
 ---
 
@@ -683,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.7k • 🔱 820 • 1d ago
+⭐ 6.8k • 🔱 821 • 2d ago
 
 ---
 
@@ -693,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.5k • 🔱 931 • 1d ago
+⭐ 5.5k • 🔱 933 • 1d ago
 
 ---
 
@@ -703,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 4h ago
+⭐ 4.5k • 🔱 4.7k • 5h ago
 
 ---
 
@@ -713,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.6k • 🔱 359 • 20h ago
+⭐ 3.6k • 🔱 365 • 20h ago
 
 ---
 
@@ -733,7 +734,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 327 • 1d ago
+⭐ 2.3k • 🔱 328 • 1d ago
 
 ---
 
@@ -741,7 +742,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.2k • 🔱 167 • 3d ago
+⭐ 2.2k • 🔱 170 • 3d ago
 
 ---
 
