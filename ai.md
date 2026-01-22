@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T10:29:39.113221+00:00'
+updated: '2026-01-22T10:56:17.366517+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 10:29 UTC  
+**Last Updated:** January 22, 2026 at 10:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 6h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 How much time workers say the technology saves them on the job is vastly different from what executives report.
 
-🔗 [wsj.com](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) • 1h ago
+🔗 [wsj.com](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 >Accenture CEO Julie Sweet joins 'Worldwide Exchange' to discuss AI's impact on the workforce, economic themes, and more. https://www.youtube.com/watch?app=desktop&v=\_7b-cLNmHE4
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Mashable • 11h ago
 
 Anthropic and consciousness; SpaceX IPO. Plus: Crypto's quantum threat, NeurIPS hallucinations, YouTube slop hunt, Ubisoft, OpenEvidence, WPP.
 
-Fortune • 12m ago
+Fortune • 39m ago
 
 ---
 
@@ -151,7 +151,7 @@ Anthropic • 9h ago
 
 **[Company boards scramble to adjust to AI](https://www.axios.com/2026/01/22/company-boards-scramble-ai)**
 
-Axios • 28m ago
+Axios • 55m ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1h ago
 
 **[Alibaba Is Said to Plan IPO for AI Chipmaking Unit T-Head](https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 18h ago
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 297 • 💬 255 • 20h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 297 • 💬 255 • 21h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -207,7 +207,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 213 • 💬 142 • 11h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 213 • 💬 142 • 12h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -281,7 +281,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 28K • 👍 366 • 💬 225 • ⏱️ 6:52 • 11h ago
+👁️ 28K • 👍 366 • 💬 225 • ⏱️ 6:52 • 12h ago
 
 ---
 
@@ -301,7 +301,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 21K • 👍 704 • 💬 67 • ⏱️ 15:40 • 10h ago
+👁️ 21K • 👍 704 • 💬 67 • ⏱️ 15:40 • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 40K • 👍 2K • 💬 1K • ⏱️ 25:46 • 14h ago
+👁️ 40K • 👍 2K • 💬 1K • ⏱️ 25:46 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 18K • 💬 19 • ⏱️ 10:12 • 20h ago
+👁️ 18K • 💬 19 • ⏱️ 10:12 • 21h ago
 
 ---
 
@@ -361,7 +361,7 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Ishan Sharma
 
-👁️ 14K • 👍 1K • 💬 38 • ⏱️ 9:17 • 20h ago
+👁️ 14K • 👍 1K • 💬 38 • ⏱️ 9:17 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 5h ago
+⭐ 9.6k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -672,7 +672,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 408 • 14h ago
+⭐ 8.2k • 🔱 408 • 15h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.4k • 🔱 4.6k • 19h ago
+⭐ 4.4k • 🔱 4.6k • 20h ago
 
 ---
 
@@ -712,7 +712,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.4k • 🔱 344 • 12h ago
+⭐ 3.4k • 🔱 344 • 13h ago
 
 ---
 

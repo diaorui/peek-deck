@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T10:29:39.130889+00:00'
+updated: '2026-01-22T10:56:17.384009+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 10:29 UTC  
+**Last Updated:** January 22, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it m
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-4m ago
+31m ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 4h ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 12m ago
+Business Insider • 39m ago
 
 ---
 
@@ -220,7 +220,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 22K • 👍 1K • 💬 87 • ⏱️ 1:51 • 20h ago
+👁️ 22K • 👍 1K • 💬 87 • ⏱️ 1:51 • 21h ago
 
 ---
 

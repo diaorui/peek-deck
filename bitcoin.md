@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T10:29:39.121684+00:00'
+updated: '2026-01-22T10:56:17.374828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 10:29 UTC  
+**Last Updated:** January 22, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,970.18
+### $90,050.97
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-9h ago
+10h ago
 
 ---
 
@@ -125,13 +125,13 @@ First of all congrats to those who got in that early. For the rest of us no need
 
 https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
 
-8h ago
+9h ago
 
 ---
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1d ago
 
 Strategy offers a compelling proxy for Bitcoin exposure, now trading at a 1.05x mNAV, near parity with its underlying BTC holdings. Read this MSTR stock update.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 12h ago
 
 ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 10h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 11h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 41K • 👍 2K • 💬 358 • ⏱️ 41:04 • 18h ago
+👁️ 41K • 👍 2K • 💬 358 • ⏱️ 41:04 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 4K • 👍 184 • 💬 113 • ⏱️ 32:39 • 13h ago
+👁️ 4K • 👍 184 • 💬 113 • ⏱️ 32:39 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ On this week's episode of CNBC Crypto World, crypto prices struggle as President
 
 📺 CNBC Television
 
-👁️ 14K • 👍 292 • 💬 191 • ⏱️ 16:49 • 12h ago
+👁️ 14K • 👍 292 • 💬 191 • ⏱️ 16:49 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 976 • 💬 109 • ⏱️ 20:50 • 20h ago
+👁️ 14K • 👍 976 • 💬 109 • ⏱️ 20:50 • 21h ago
 
 ---
 
@@ -409,7 +409,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 11K • 👍 1K • 💬 102 • ⏱️ 7:51 • 17h ago
+👁️ 11K • 👍 1K • 💬 102 • ⏱️ 7:51 • 18h ago
 
 ---
 
