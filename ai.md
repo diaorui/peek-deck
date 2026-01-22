@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-21T23:49:18.533529+00:00'
+updated: '2026-01-22T01:53:54.942662+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 21, 2026 at 23:49 UTC  
+**Last Updated:** January 22, 2026 at 01:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
-3h ago
+5h ago
 
 ---
 
@@ -49,7 +49,15 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 10h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 12h ago
+
+---
+
+**[Human Intelligence, AI, and the Problem I Think We're Missing](https://www.reddit.com/r/artificial/comments/1qjfapw/human_intelligence_ai_and_the_problem_i_think/)**
+
+I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
 
-6h ago
+8h ago
 
 ---
 
@@ -65,23 +73,7 @@ i installed qwen3 coder 30b locally and i am running it as an agent using my own
 
 ElevenLabs, an AI voice-cloning company, is trying to court artists by offering them a way to monetize their likenesses through licensing deals.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 5h ago
-
----
-
-**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
-
-Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
-
-20h ago
-
----
-
-**[Wikipedia formalizes paid agreements with AI companies for the use of its data](https://www.reddit.com/r/artificial/comments/1qj7v38/wikipedia_formalizes_paid_agreements_with_ai/)**
-
-The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
-
-4h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/elevenlabs-releases-ai-album-spotify-rcna255098) • 8h ago
 
 ---
 
@@ -89,15 +81,31 @@ The Wikimedia Foundation announced new partnerships with major artificial intell
 
 Did Apple make the right choice in partnering with Google for Siri's AI features?
 
-🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) • 6h ago
 
 ---
 
-**['I've never seen her in a movie. I don't know who this b***h is' — Jurassic World and Marvel star Chris Pratt says panic over AI 'actor' Tilly Norwood is 'bulls**t'](https://www.reddit.com/r/artificial/comments/1qjcw2t/ive_never_seen_her_in_a_movie_i_dont_know_who/)**
+**[Microsoft launches new AI model for real-world robotic learning](https://www.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/)**
 
-Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisting the panic within Hollywood about the potential impact of AI “actors” is “bulls**t.”
+"Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
 
-🔗 [IGN](https://www.ign.com/articles/ive-never-seen-her-in-a-movie-i-dont-know-who-this-bh-is-jurassic-world-and-marvel-star-chris-pratt-says-panic-over-ai-actor-tilly-norwood-is-bullst) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 34m ago
+
+---
+
+**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
+
+Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
+
+22h ago
+
+---
+
+**[Wikipedia formalizes paid agreements with AI companies for the use of its data](https://www.reddit.com/r/artificial/comments/1qj7v38/wikipedia_formalizes_paid_agreements_with_ai/)**
+
+The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
+
+6h ago
 
 ---
 
@@ -105,15 +113,7 @@ Marvel and Jurassic World star Chris Pratt has hit out at Tilly Norwood, insisti
 
 Back at CES earlier this month AMD talked up features of the ROCm 7.2 release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2-Released) • 1h ago
-
----
-
-**[Logic-oriented fuzzy neural networks: A survey](https://www.reddit.com/r/artificial/comments/1qj2dzo/logicoriented_fuzzy_neural_networks_a_survey/)**
-
-https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "Data analysis and their thorough interpretation have posed a substantial challenge in the era of big data due to increasingly complex data structures and their sheer volumes. The black-box nature of neural networks may omit important information about why certain predictions have been made which makes it difficult to ground the reliability of a prediction despite tremendous successes of machine learning models. Therefore, the need for reliable decision-making processes stresses the significance of interpretable models that eliminate uncertainty, supporting explainability while maintaining high generalization capabilities. Logic-oriented fuzzy neural networks are capable to cope with a fundamental challenge of fuzzy system modeling. They strike a sound balance between accuracy and interpretability because of the underlying features of the network components and their logic-oriented characteristics. In this survey, we conduct a comprehensive review of logic-oriented fuzzy neural networks with a special attention being directed to AND\OR architecture. The architectures under review have shown promising results, as reported in the literature, especially when extracting useful knowledge through building experimentally justifiable models. Those models show balance between accuracy and interpretability because of the prefect integration between the merits of neural networks and fuzzy logic which has led to reliable decision-making processes. The survey discusses logic-oriented networks from different perspectives and mainly focuses on the augmentation of interpretation through vast array of learning abilities. This work is significantly important due to the lack to similar survey in the literature that discusses this particular architecture in depth. Finally, we stress that the architecture could offer a novel promising processing environment if they are integrated with other fuzzy tools which we have discussed thoroughly in this paper."
-
-7h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2-Released) • 3h ago
 
 ---
 
@@ -123,15 +123,15 @@ https://www.sciencedirect.com/science/article/pii/S0957417424019870 Abstract: "D
 
 **[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
 
 ---
 
-**[Nvidia CEO Jensen Huang says AI won't be the job killer everyone fears. Here's why](https://www.cnbc.com/2026/01/21/nvidia-ceo-jensen-huang-says-ai-wont-be-the-job-killer-everyone-fears-heres-why.html)**
+**[‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/)**
 
-Jensen on Wednesday sat down with BlackRock CEO Larry Fink at the World Economic Forum in Davos, Switzerland.
+AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.
 
-CNBC • 2h ago
+NVIDIA Blog • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 2h ago
 
 Nvidia CEO Jensen Huang told an audience at the gathering of the World Economic Forum that the world needs to build trillions of dollars of AI infrastructure to meet demand.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -147,45 +147,21 @@ Yahoo Finance • 9h ago
 
 Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
 
-The Guardian • 4h ago
+The Guardian • 6h ago
 
 ---
 
-**[Why Corporate Boards Matter in the AI Era](https://time.com/7355834/corporate-boards-matter-ai-era/)**
+**[Using AI for advice or other personal reasons linked to depression and anxiety](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036)**
 
-"The decisions made in corporate boardrooms not only shape a company’s trajectory, but can also create ripple effects."
+A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
 
-Time Magazine • 1h ago
-
----
-
-**[Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/)**
-
-The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.
-
-TechCrunch • 1h ago
+NBC News • 1h ago
 
 ---
 
-**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
+**[Disco Shares Soar Most Since April on Booming AI Chip Demand](https://www.bloomberg.com/news/articles/2026-01-22/disco-shares-soar-most-since-april-on-booming-ai-chip-demand)**
 
-The Information • 3h ago
-
----
-
-**[Apple Is Reportedly Making Its Own Wearable AI Pin](https://gizmodo.com/apple-is-reportedly-making-its-own-wearable-ai-pin-2000712726)**
-
-The iPhone maker might be preparing to battle OpenAI's own family of AI gadgets.
-
-Gizmodo • 1h ago
-
----
-
-**[Apple is reportedly developing a wearable AI pin](https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html)**
-
-The wearable is said to have two cameras, a microphone and a speaker.
-
-Engadget • 3h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -197,23 +173,37 @@ CNBC • 1d ago
 
 ---
 
+**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
+
+Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
+
+Microsoft • 11h ago
+
+---
+
+**[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
+
+The Information • 5h ago
+
+---
+
+**[Apple is reportedly working on an AI pin wearable that is AirTag-sized](https://mashable.com/article/apple-working-on-ai-pin-wearable-airtag-sized-report)**
+
+Can Apple figure out AI wearables where others have failed? We may soon find out.
+
+Mashable • 2h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
-
-**[Show HN: I quit coding years ago. AI brought me back](https://news.ycombinator.com/item?id=46673809)**
-
-Use our free compound interest calculator to see how your investments grow over time. Calculate with different interest rates, compounding frequencies, and monthly contributions.
-
-⬆️ 308 • 💬 430 • 2d ago • [Calquio](https://calquio.com/finance/compound-interest)
-
----
 
 **[How AI destroys institutions](https://news.ycombinator.com/item?id=46705606)**
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 285 • 💬 235 • 10h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 289 • 💬 241 • 12h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -227,7 +217,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 199 • 💬 134 • 17h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 200 • 💬 135 • 19h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -235,7 +225,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 186 • 💬 76 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 187 • 💬 76 • 1d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -265,13 +255,21 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 113 • 💬 137 • 9h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 117 • 💬 138 • 11h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
 ⬆️ 109 • 💬 63 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+
+---
+
+**[West Midlands police chief quits over AI hallucination](https://news.ycombinator.com/item?id=46679657)**
+
+: Craig Guildford banned Israeli fans based on Microsoft's match report, told MPs 'we don't use AI,' then discovers... they did
+
+⬆️ 108 • 💬 129 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 
 ---
 
@@ -285,7 +283,7 @@ If we don't have some good, positive stories here… there is going to be a repe
 
 📺 The Tech Report
 
-👁️ 7K • 👍 326 • 💬 142 • ⏱️ 33:43 • 6h ago
+👁️ 10K • 👍 390 • 💬 172 • ⏱️ 33:43 • 8h ago
 
 ---
 
@@ -295,17 +293,17 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 26K • 👍 648 • 💬 253 • ⏱️ 12:14 • 1d ago
+👁️ 28K • 👍 673 • 💬 258 • ⏱️ 12:14 • 1d ago
 
 ---
 
-**[STOP Paying: Make LONG AI Videos (FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=TAUivqDPV0k)**
+**[The 7 FREE AI Courses You Need to Master AI in 2026](https://www.youtube.com/watch?v=InowktzMfK0)**
 
-FREE PDF (prompts + direct links) → https://discord.gg/6aV3ps7tB2 ✓ Sponsored by OiiOii.ai → https://www.oiioii.ai/ It's no secret ...
+1. https://youtu.be/-9bo8HlSxwQ?si=xmAhyB6jOqhnw9eU 2.
 
-📺 Malva AI
+📺 Ishan Sharma
 
-👁️ 18K • 👍 1K • 💬 312 • ⏱️ 11:13 • 1d ago
+👁️ 10K • 👍 950 • 💬 34 • ⏱️ 9:17 • 12h ago
 
 ---
 
@@ -315,27 +313,17 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 9K • 👍 87 • 💬 28 • ⏱️ 5:39 • 11h ago
+👁️ 9K • 👍 93 • 💬 29 • ⏱️ 5:39 • 13h ago
 
 ---
 
-**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
+**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
 
-OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
+Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
 
-📺 Matthew Berman
+📺 Stylosa
 
-👁️ 78K • 👍 3K • 💬 603 • ⏱️ 18:33 • 2d ago
-
----
-
-**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
-
-In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
-
-📺 The Infographics Show
-
-👁️ 58K • 👍 2K • 💬 399 • ⏱️ 10:58 • 2d ago
+👁️ 11K • 👍 908 • 💬 523 • ⏱️ 25:46 • 6h ago
 
 ---
 
@@ -345,37 +333,47 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Breaking Points
 
-👁️ 233K • 👍 7K • 💬 1K • ⏱️ 14:38 • 1d ago
+👁️ 235K • 👍 7K • 💬 1K • ⏱️ 14:38 • 1d ago
 
 ---
 
-**[Nvidia Tried to Get Stolen Data For AI](https://www.youtube.com/watch?v=5pW5kylJd00)**
+**[OpenAI just made a genius move](https://www.youtube.com/watch?v=eC85AquemOU)**
 
-Watch The Full Philip DeFranco Show: https://www.youtube.com/defranco?sub_confirmation=1 Subscribe for more Quickie News: ...
+OpenAI coming out with a bunch of huge news lately, and it all means something if you take it together. Sarah Friar ...
 
-📺 DeFranco News Clips
+📺 Matthew Berman
 
-👁️ 12K • 👍 1K • 💬 28 • ⏱️ 0:46 • 24m ago
-
----
-
-**[Grok 4 AI Just Asked &#39;How Many Civilizations Existed Before Us&#39; — And It Answered This...](https://www.youtube.com/watch?v=TUmGZFSLvYE)**
-
-The planet may remember more than we do. Long before written history, something may have already learned how to disappear ...
-
-📺 KolaDepth
-
-👁️ 10K • 👍 269 • 💬 79 • ⏱️ 24:36 • 2d ago
+👁️ 79K • 👍 3K • 💬 608 • ⏱️ 18:33 • 2d ago
 
 ---
 
-**[The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x | Ray Kurzweil](https://www.youtube.com/watch?v=8iWSNwIRazc)**
+**[What if AI Took Away All Jobs](https://www.youtube.com/watch?v=uhjDcW6sSnM)**
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Ray Kurzweil is an American ...
+In today's episode of The Infographics Show, artificial intelligence made work easier, but what if it took every job instead?
 
-📺 Peter H. Diamandis
+📺 The Infographics Show
 
-👁️ 105K • 👍 3K • 💬 828 • ⏱️ 1:39:31 • 1d ago
+👁️ 58K • 👍 2K • 💬 400 • ⏱️ 10:58 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+
+📺 Love And Peace
+
+👁️ 75K • 👍 320 • 💬 9 • ⏱️ 11:47 • 11h ago
+
+---
+
+**[Don&#39;t Learn AI Without Learning these Fundamentals](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
+
+In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
+
+📺 Parker Prompts
+
+👁️ 15K • 💬 19 • ⏱️ 10:12 • 12h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 69,491 • ❤️ 894 • 1d ago
+⬇️ 69,491 • ❤️ 901 • 1d ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 9,872 • ❤️ 928 • 6d ago
+⬇️ 9,872 • ❤️ 930 • 6d ago
 
 ---
 
@@ -415,7 +413,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 43,156 • ❤️ 448 • 6d ago
+⬇️ 43,156 • ❤️ 453 • 6d ago
 
 ---
 
@@ -425,7 +423,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 36,465 • ❤️ 372 • 2d ago
+⬇️ 36,465 • ❤️ 376 • 2d ago
 
 ---
 
@@ -437,7 +435,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,855,174 • ❤️ 1,239 • 2d ago
+⬇️ 1,855,174 • ❤️ 1,240 • 2d ago
 
 ---
 
@@ -449,7 +447,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 33,057 • ❤️ 279 • 6d ago
+⬇️ 33,057 • ❤️ 281 • 6d ago
 
 ---
 
@@ -459,7 +457,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 2,428 • ❤️ 260 • 23h ago
+⬇️ 2,428 • ❤️ 274 • 1d ago
 
 ---
 
@@ -471,7 +469,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 24,712 • ❤️ 245 • 5d ago
+⬇️ 24,712 • ❤️ 249 • 6d ago
 
 ---
 
@@ -495,7 +493,7 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 20,655 • ❤️ 231 • 6d ago
+⬇️ 20,655 • ❤️ 232 • 6d ago
 
 ---
 
@@ -653,7 +651,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.2k • 6h ago
+⭐ 9.5k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -663,7 +661,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.3k • 🔱 489 • 1d ago
+⭐ 9.4k • 🔱 492 • 1h ago
 
 ---
 
@@ -673,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 394 • 3h ago
+⭐ 8.0k • 🔱 399 • 5h ago
 
 ---
 
@@ -683,7 +681,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.4k • 🔱 792 • 1d ago
+⭐ 6.4k • 🔱 795 • 1d ago
 
 ---
 
@@ -693,7 +691,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 897 • 15h ago
+⭐ 5.3k • 🔱 899 • 17h ago
 
 ---
 
@@ -703,7 +701,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.3k • 🔱 4.4k • 9h ago
+⭐ 4.3k • 🔱 4.4k • 11h ago
 
 ---
 
@@ -723,7 +721,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 2.8k • 🔱 295 • 1h ago
+⭐ 2.9k • 🔱 304 • 4h ago
 
 ---
 
@@ -733,7 +731,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 312 • 20h ago
+⭐ 2.2k • 🔱 313 • 22h ago
 
 ---
 
@@ -741,7 +739,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 1.9k • 🔱 145 • 2d ago
+⭐ 2.0k • 🔱 148 • 2d ago
 
 ---
 

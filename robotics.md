@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-21T23:49:18.549543+00:00'
+updated: '2026-01-22T01:53:54.960474+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 21, 2026 at 23:49 UTC  
+**Last Updated:** January 22, 2026 at 01:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-16h ago
+18h ago
 
 ---
 
@@ -52,11 +52,19 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 ---
 
+**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
+
+I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
+
+10h ago
+
+---
+
 **[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-8h ago
+10h ago
 
 ---
 
@@ -64,15 +72,7 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-12h ago
-
----
-
-**[Why is there so little content (blogs / YouTube) about Diffusion Policy?](https://www.reddit.com/r/robotics/comments/1qj0iha/why_is_there_so_little_content_blogs_youtube/)**
-
-I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
-
-8h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-9h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their we
 
 Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
 
-8h ago
+10h ago
 
 ---
 
@@ -102,13 +102,21 @@ We got Asimov standing a few days ago and it's holding balance now. The last tes
 
 **[Micro factory](https://www.reddit.com/r/robotics/comments/1qivmn3/micro_factory/)**
 
-12h ago
+14h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
+
+Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
+
+Microsoft • 11h ago
+
+---
 
 **[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
@@ -118,23 +126,41 @@ Financial Times • 1d ago
 
 ---
 
-**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
-
-The Business Journals • 1d ago
-
----
-
-**[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
-
-EE Times • 4h ago
-
----
-
 **[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 10h ago
+CNBC • 12h ago
+
+---
+
+**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
+
+Reuters • 1d ago
+
+---
+
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
+
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+
+Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -146,41 +172,19 @@ Fortune • 2d ago
 
 ---
 
-**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-Reuters • 1d ago
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
----
-
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
-
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
-
-Interesting Engineering • 2d ago
+CBC • 1d ago
 
 ---
 
-**[Automation Startup Unbox Robotics Raises $28 Mn To Expand Global Presence](https://inc42.com/buzz/automation-startup-unbox-robotics-raises-28-mn-to-expand-global-presence/)**
+**[A detachable crawling robotic hand](https://www.nature.com/articles/s41467-025-67675-8)**
 
-Deeptech startup Unbox Robotics has raised $28 Mn (about INR 243 Cr) in its Series B round in a mix of primary and secondary capital.
+This study introduces a detachable robotic hand that can detach from a manipulator, crawl to retrieve several objects, and reattach. A symmetric, reversible design enables grasping from both sides, bridging manipulation with autonomous mobility.
 
-Inc42 • 1d ago
-
----
-
-**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
-
-Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
-
-Microsoft • 9h ago
-
----
-
-**[Join Local Volunteers In Shaping The Granite City Regional Robotics Competition](https://wjon.com/first-robotics-st-cloud/)**
-
-Get ready for a robotics showdown in St. Cloud as the Granite City Regional event brings 1,700 participants to Rivers Edge, and volunteers are needed to make it happen.
-
-wjon.com • 1d ago
+Nature • 1d ago
 
 ---
 
@@ -194,7 +198,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 802 • 👍 22 • 💬 2 • ⏱️ 0:32 • 4h ago
+👁️ 945 • 👍 24 • 💬 2 • ⏱️ 0:32 • 6h ago
 
 ---
 
@@ -204,7 +208,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 406K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 407K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
 
 ---
 
@@ -214,7 +218,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 12K • 👍 847 • 💬 70 • ⏱️ 1:51 • 10h ago
+👁️ 15K • 👍 918 • 💬 72 • ⏱️ 1:51 • 12h ago
 
 ---
 
@@ -224,27 +228,17 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 2K • 👍 191 • 💬 80 • ⏱️ 19:41 • 9h ago
+👁️ 3K • 👍 202 • 💬 81 • ⏱️ 19:41 • 11h ago
 
 ---
 
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
 
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
 
-📺 KhanFlicks
+📺 CBC News: The National
 
-👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
-
----
-
-**[😱AKIMBO69 DESTROYED ROBOT HAND](https://www.youtube.com/watch?v=2m2jBUNXpH0)**
-
-entertaining experience to every viewer. Each edit is highly transformative, featuring original commentary and a fresh perspective ...
-
-📺 JAXON_JACK
-
-👁️ 129K • 💬 10 • ⏱️ 0:12 • 12h ago
+👁️ 16K • 👍 154 • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -258,6 +252,16 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 ---
 
+**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
+
+Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
+
+📺 KTLA 5
+
+👁️ 15K • 👍 31 • 💬 2 • ⏱️ 23:17 • 2d ago
+
+---
+
 **[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
 
 What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
@@ -268,23 +272,23 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
-**[A Robot Took Over While He Stood There 😔🤖](https://www.youtube.com/watch?v=udRzv7wDoM8)**
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
 
-A Robot Took Over While He Stood There In a quiet moment on a city street, a fully autonomous cleaning robot does its job ...
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
 
-📺 MrScoopz
+📺 Stay Wild
 
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:06 • 3h ago
+👁️ 2.8M • 👍 31K • 💬 2K • ⏱️ 33:05 • 3d ago
 
 ---
 
-**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 The Military Show
+📺 KhanFlicks
 
-👁️ 424K • 👍 8K • 💬 346 • ⏱️ 23:16 • 4d ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
 
 ---
 

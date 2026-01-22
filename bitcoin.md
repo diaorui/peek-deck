@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-21T23:49:18.541230+00:00'
+updated: '2026-01-22T01:53:54.951162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 21, 2026 at 23:49 UTC  
+**Last Updated:** January 22, 2026 at 01:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,149.16
+### $90,105.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
+**24h:** +1.2%  
 **7d:** -5.7%  
-**30d:** +3.2%  
-**90d:** -18.9%  
+**30d:** +2.7%  
+**90d:** -19.3%  
 **1y:** -13.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.76B
+**Market Cap:** $1796.71B
 Rank #1
 
-**Circulating Supply:** 19,978,943 BTC
+**Circulating Supply:** 19,978,959 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.6%
 
 **All-Time Low:** $67.81
-+131845.1%
++132572.2%
 
 ---
 
@@ -77,19 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Sold my sats, took my GF on Vacation](https://www.reddit.com/r/Bitcoin/comments/1qjfakq/sold_my_sats_took_my_gf_on_vacation/)**
+
+1h ago
+
+---
+
 **[Sold bitcoin at 125k, took my GF out to celebrate.](https://www.reddit.com/r/Bitcoin/comments/1qj28qu/sold_bitcoin_at_125k_took_my_gf_out_to_celebrate/)**
 
 hold strong
 
-7h ago
-
----
-
-**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
-
-Thank you for your attention to this matter.
-
-5h ago
+9h ago
 
 ---
 
@@ -97,13 +95,23 @@ Thank you for your attention to this matter.
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-2h ago
+4h ago
 
 ---
 
-**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
+**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
 
-9h ago
+Thank you for your attention to this matter.
+
+7h ago
+
+---
+
+**[Me Saying bitcoin in January 2026](https://www.reddit.com/r/Bitcoin/comments/1qjg2xe/me_saying_bitcoin_in_january_2026/)**
+
+Here is me saying Bitcoin in January 2026
+
+58m ago
 
 ---
 
@@ -111,43 +119,31 @@ Thank you for your attention to this matter.
 
 Traditional retirement accounts like 401(k)s typically expose you to full market risk with no principal guarantee, and high fees reduce your net returns. Is this a game changer? https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life
 
-3h ago
+5h ago
 
 ---
 
-**[Starting March 1, Steak n Shake will give all hourly employees at its company-operated restaurants a Bitcoin bonus of $0.21 for every hour worked.](https://www.reddit.com/r/Bitcoin/comments/1qiirge/starting_march_1_steak_n_shake_will_give_all/)**
+**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-Pretty dang cool. I get it’s just a marketing gimmick by Fold, but this is awesome to see.
-
-🔗 [X (formerly Twitter)](https://x.com/steaknshake/status/2013725339374018680?s=46&t=K4ZzIe6gxU3l48Tj84If6g) • 23h ago
-
----
-
-**[I found this in my old pictures](https://www.reddit.com/r/Bitcoin/comments/1qipbm8/i_found_this_in_my_old_pictures/)**
-
-and a small piece of me died again
-
-18h ago
+11h ago
 
 ---
 
 **[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
 
-5h ago
+7h ago
 
 ---
 
-**[The first Bitcoin Hardware Wallet with Zero-Trust Architecture (No seeds, EAL6+, Anti-Double Spend) Making offline payments possible, trustless, and secure.](https://www.reddit.com/r/Bitcoin/comments/1qj0iqp/the_first_bitcoin_hardware_wallet_with_zerotrust/)**
+**[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-Hey guys just wanted to drop a quick deep dive into how the security actually works on the Vipper prototype. I know some of this stuff gets pretty dense but i tried to break it down simply. Its honestly kinda wild how much goes into making sure this thing is secure specially for offline payments. Here is the breakdown of the 5 layers I am using Layer 1 // The Vault // SE050 So basically everything happens inside this NXP SE050 chip. Its rated EAL6+ which is the same level as high end banking cards and passports. The biggest thing here is that the private key is generated inside the chip and literally never leaves. There is no API to read it out. If someone tries to physcially hack it with lasers or whatever the chip has mesh sensors that will detect it and destroy the keys (zeroization). Layer 2 // Don't trust the app This is one of the coolest parts imo. Usually with hardware wallets the phone app builds the transaction and just tells the hardware "hey sign this". The problem is a hacked app could show you one thing but tell the hardware to sign something else. We switched that up. The app only sends basic info like "Slot 1, pay Bob, 500 sats". The hardware then pulls the UTXO data from its own internal memory and builds the transaction itself. It uses its own public key to make the scriptCode. So even if the app is malware it cant trick the hardware into signing a tx for a differnt address. Layer 3 // The Magazine System Since we are focused on offline payments we use a "Magazine" system stored in the ESP32s memory. Think of it like a clip with 5 rounds (slots). You load a slot with a UTXO. When you spend it the hardware signs the tx. Immediately marks that slot as SPENT in the permanent memory. Once its marked spent there is literally no code path to make it "unspent" again unless you load a completely new UTXO. Layer 4 // The One Way Counter We use a Monotonic Counter inside the secure element, which is just a fancy way of saying a number that can only go up and never down. This is actually our secondary defense against double spending (and replay attacks). Since every single signature includes this unique counter value, you can never "rewind" the device state. Even if someone managed to glitch the memory in Layer 3 to say a slot was "Unspent," the secure element knows the counter has already moved forward. You cant sign an old state because the math literally wont validate if the counter doesn't match the current timeline. Layer 5 // No Seed Phrases // It's mean to be a spending wallet (Plus real E2EE CHAT), not a cold wallet. This might be controversial but we decided on no seed exports. With normal wallets if someone finds your 24 word paper backup they can drain your wallet from home. With Vipper the key exists only in the silicon. If you loose the device the funds are gone but it also means no one can ever clone your wallet or steal your seed because it doesnt exist outside the chip. Let me know if u have questions or if i explained something weird, still tweaking the firmware a bit! You can leave your e-mail for future updates at epheris.io it will handle cold-storage, Plausible Deniability storage, E2EE (Hardware TRNGK1) CHAT in cloud/loram etc
-
-8h ago
+49m ago
 
 ---
 
-**[HODL](https://www.reddit.com/r/Bitcoin/comments/1qiyj92/hodl/)**
+**[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-9h ago
+3h ago
 
 ---
 
@@ -155,65 +151,45 @@ Hey guys just wanted to drop a quick deep dive into how the security actually wo
 
 ## Google News: "bitcoin"
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-The Motley Fool • 8h ago
-
----
-
-**[Bitcoin price news: BTC rises above $90,000 as Trump speaks in Davos](https://www.coindesk.com/markets/2026/01/21/bitcoin-bounces-to-usd89-500-gold-falls-as-trump-speaks-in-davos)**
-
-Trump said U.S. prepares to negotiate to acquire Greenland that will not pose threat to NATO.
-
-CoinDesk • 7h ago
+CNBC • 6h ago
 
 ---
 
-**[Steak 'n Shake to Pay 'Bitcoin Bonus' to Hourly Employees—Here's How Much](https://finance.yahoo.com/news/steak-n-shake-pay-bitcoin-214032260.html)**
+**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-Restaurant chain Steak 'n Shake is expanding its Bitcoin operations, this time with a pay bump for hourly employees paid out in BTC.
-
-Yahoo Finance • 2h ago
+The Block • 6h ago
 
 ---
 
-**[Burger Chain Steak 'n Shake Just Supersized Its Bitcoin Holdings](https://finance.yahoo.com/news/burger-chain-steak-n-shake-143109420.html)**
+**[FBTC vs. BITQ: Direct Bitcoin Exposure or Crypto Through Public Markets](https://www.fool.com/coverage/etfs/2026/01/21/fbtc-vs-bitq-direct-bitcoin-exposure-or-crypto-through-public-markets/)**
 
-Iconic American burger chain Steak ‘n Shake has added $10 million worth of Bitcoin (CRYPTO: BTC) to its balance sheet. This comes after the company started accepting Bitcoin payments in 2025. Steak ‘n Shake’s Bitcoin Treasury made a significant acquisition...
+The Fidelity Wise Origin Bitcoin Fund tracks bitcoin directly, while the Bitwise Crypto Industry Innovators ETF invests in companies tied to the crypto economy. This ETF comparison shows why those differences matter when volatility picks up.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin news: Stake N Shake ups commitment to BTC](https://www.coindesk.com/business/2026/01/21/fast-food-chain-steak-n-shake-to-pay-hourly-workers-bitcoin-bonus)**
-
-This follows news from a few days ago that the company added $10 million worth of bitcoin to its corporate treasury.
-
-CoinDesk • 8h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin’s quantum threat sparks concern on Wall Street](https://www.dlnews.com/articles/markets/bitcoin-quantum-threat-sparks-concern-on-wall-street/)**
+**[Steak ‘n Shake restaurant chain announces plan to pay Bitcoin bonus to its employees](https://ca.finance.yahoo.com/news/steak-n-shake-restaurant-chain-013536323.html)**
 
-UBS CEO Sergio Ermotti said at Davos this week that Bitcoin needs to overcome the quantum computing threat.  Ermotti joins a growing chorus of concerned financiers that includes Jefferies’ head of equity strategy Christopher Wood, who removed Bitcoin from a recommended pension portfolio last week. Bitcoin developers are in denial, crypto venture capitalist Nic Carter told DL News.
+Employees must remain with the company for at least two years before they can access, transfer, or sell the accumulated Bitcoin
 
-dlnews.com • 1h ago
-
----
-
-**[Strive ($ASST) Plans $150 Million Follow-On Offering to Buy More Bitcoin, Retire Convertible Notes](https://bitcoinmagazine.com/news/strive-plans-150m-follow-offering-bitcoin)**
-
-Strive ($ASST) plans to raise up to $150 million through a follow-on offering of its SATA preferred stock to retire convertible debt, buy more Bitcoin, and support corporate needs.
-
-Bitcoin Magazine • 1h ago
+Yahoo! Finance Canada • 11m ago
 
 ---
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -225,11 +201,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Looks Interesting With An mNAV To Bitcoin Of 1.05 (NASDAQ:MSTR)](https://seekingalpha.com/article/4861425-strategy-looks-interesting-with-an-mnav-to-bitcoin-of-1-05)**
+**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
 
-Strategy offers a compelling proxy for Bitcoin exposure, now trading at a 1.05x mNAV, near parity with its underlying BTC holdings. Read this MSTR stock update.
+The bitcoin price reclaimed $90,000 after a volatile trading day.
 
-Seeking Alpha • 10h ago
+Bitcoin Magazine • 4h ago
+
+---
+
+**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqdt_RCyqVR_T8OSSeI5EZJFlK0Mj9ZIn1SSqMAvs1IUSDlLlIsqym7j&gaa_ts=69718696&gaa_sig=BF--wHGk7LpYO6dDYLVoIsmQQNL_psh6LKcra__KTsHTTutbV3zWR1iKxBcKSjOZ64zfeUT9CsfgG6qAewrF_A%3D%3D)**
+
+MarketWatch • 15h ago
+
+---
+
+**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -277,6 +265,14 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 ---
 
+**[Starlight, a Bitcoin-native platform for turning ideas into funded work](https://news.ycombinator.com/item?id=46713400)**
+
+Stargate UI
+
+⬆️ 1 • 💬 1 • 1h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+
+---
+
 **[Show HN: Hayekian BTC Daily – a local-first Bitcoin market snapshot CLI](https://news.ycombinator.com/item?id=46694344)**
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
@@ -297,19 +293,13 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 4 • 1d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 5 • 1d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
 ⬆️ 4 • 💬 0 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
-
----
-
-**[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
-
-⬆️ 1 • 💬 1 • 1d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -323,17 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 132 • ⏱️ 41:04 • 8h ago
-
----
-
-**[Did President Trump Just Reveal His Strategic Bitcoin Plan?](https://www.youtube.com/watch?v=VyX3Rz77ITg)**
-
-While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 806 • 💬 99 • ⏱️ 20:50 • 10h ago
+👁️ 36K • 👍 2K • 💬 308 • ⏱️ 41:04 • 10h ago
 
 ---
 
@@ -343,47 +323,17 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 1K • 👍 107 • 💬 43 • ⏱️ 32:39 • 3h ago
+👁️ 2K • 👍 126 • 💬 74 • ⏱️ 32:39 • 5h ago
 
 ---
 
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+**[Did President Trump Just Reveal His Strategic Bitcoin Plan?](https://www.youtube.com/watch?v=VyX3Rz77ITg)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
 
-📺 Crypto Crew University
+📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 183 • ⏱️ 18:43 • 9h ago
-
----
-
-**[&quot;The Market Will DOUBLE SOON!!!&quot; - Trump On Markets Bitcoin &amp; MSTR Update 2026](https://www.youtube.com/watch?v=oYv2uVbOKls)**
-
-"The Market Will DOUBLE SOON!!!" - Trump On Markets Bitcoin & MSTR Update 2026 CHECK OUT OUR BITCOIN HATS!
-
-📺 Bitcoin Bros
-
-👁️ 387 • 👍 47 • 💬 3 • ⏱️ 9:33 • 3h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 899 • 💬 129 • ⏱️ 8:21 • 1d ago
-
----
-
-**[Major Bitcoin Setback As 182,000 Traders Are Wiped Out!](https://www.youtube.com/watch?v=ikWpsze9-Xw)**
-
-Bitcoin #Crypto #Finance Bitcoin and the broader crypto market are under heavy pressure this morning as a perfect storm of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 21K • 👍 1K • 💬 220 • ⏱️ 42:24 • 8h ago
+👁️ 12K • 👍 844 • 💬 99 • ⏱️ 20:50 • 12h ago
 
 ---
 
@@ -393,7 +343,47 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 371 • 💬 136 • ⏱️ 1:16 • 1d ago
+👁️ 18K • 👍 372 • 💬 130 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 31K • 👍 2K • 💬 197 • ⏱️ 18:43 • 11h ago
+
+---
+
+**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 900 • 💬 128 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
+
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 68K • 👍 3K • 💬 290 • ⏱️ 9:30 • 1d ago
+
+---
+
+**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
+
+In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
+
+📺 Crypto Insider
+
+👁️ 32K • 👍 2K • 💬 83 • ⏱️ 21:45 • 1d ago
 
 ---
 
@@ -403,17 +393,17 @@ Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Sa
 
 📺 Swan Bitcoin
 
-👁️ 17K • 👍 584 • 💬 31 • ⏱️ 1:32 • 1d ago
+👁️ 17K • 👍 590 • 💬 31 • ⏱️ 1:32 • 1d ago
 
 ---
 
-**[Cardano CEO Crashes Out As CLARITY Act Get&#39;s &#39;Sabotaged&#39;](https://www.youtube.com/watch?v=FGxYARR1eug)**
+**[URGENT: Bitcoin And Gold MAJOR MOVES AHEAD (Profit Guide With Bitget)](https://www.youtube.com/watch?v=nbFagJSU0tI)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+Nick Valdez goes over the latest news with Gold and Bitcoin in focus. Major macro events are making crypto more volatile and ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 53K • 👍 3K • 💬 284 • ⏱️ 8:54 • 2d ago
+👁️ 6K • 👍 248 • 💬 44 • ⏱️ 5:17 • 1d ago
 
 ---
 
