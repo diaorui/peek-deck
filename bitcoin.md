@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T07:50:00.551884+00:00'
+updated: '2026-01-22T08:34:50.290785+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 07:50 UTC  
+**Last Updated:** January 22, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,926.40
+### $89,860.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -5.6%  
-**30d:** +2.7%  
-**90d:** -19.3%  
-**1y:** -13.3%  
+**24h:** +0.9%  
+**7d:** -5.8%  
+**30d:** +2.5%  
+**90d:** -19.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-6h ago
+7h ago
 
 ---
 
@@ -89,15 +89,7 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-10h ago
-
----
-
-**[Sold bitcoin at 125k, took my GF out to celebrate.](https://www.reddit.com/r/Bitcoin/comments/1qj28qu/sold_bitcoin_at_125k_took_my_gf_out_to_celebrate/)**
-
-hold strong
-
-15h ago
+11h ago
 
 ---
 
@@ -105,13 +97,19 @@ hold strong
 
 Thank you for your attention to this matter.
 
-13h ago
+14h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-6h ago
+7h ago
+
+---
+
+**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
+
+1h ago
 
 ---
 
@@ -119,7 +117,7 @@ Thank you for your attention to this matter.
 
 First of all congrats to those who got in that early. For the rest of us no need to sweat it, we're still early. Really early. Does anyone have any inspirational stories or pearls of wisdom? I've heard a few rags to riches tales which are pretty great. I've also heard about someone who made so much money they apparently became miserable. Infinite money glitch and revolved his entire personality around Bitcoin. Don't let it happen to you! (lol). As for myself, I'm still in the head down and grind phase. I've decided I'm going to take a couple decades and see if I can accomplish something. Wish me luck. I hope you all stay healthy, take care of your loved ones and keep your stacks secure. And since I'm asking og hodlers to tell their stories it's not a bad idea to use a burner account just to be safe.
 
-2h ago
+3h ago
 
 ---
 
@@ -127,25 +125,25 @@ First of all congrats to those who got in that early. For the rest of us no need
 
 https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
 
-5h ago
-
----
-
-**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
-
-42m ago
+6h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-17h ago
+18h ago
 
 ---
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
 9h ago
+
+---
+
+**[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
+
+14h ago
 
 ---
 
@@ -161,55 +159,59 @@ CNBC • 12h ago
 
 ---
 
+**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+
+The Block • 13h ago
+
+---
+
 **[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
 
-The Block • 12h ago
+ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
 
----
-
-**[Bitcoin, DeFi and Tokenized Assets to Drive Crypto’s Next Phase, ARK Says](https://finance.yahoo.com/news/bitcoin-defi-tokenized-assets-drive-053040125.html)**
-
-Bitcoin, DeFi, and tokenized assets are emerging as functional parts of global capital markets, ARK Invest wrote, though challenges persist.
-
-Yahoo Finance • 2h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
-**[New Bitcoin Whales Outpace Old Guard in $6B Supply Tug-of-War](https://finance.yahoo.com/news/bitcoin-whales-outpace-old-guard-050939709.html)**
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
 
-New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
-
-The bitcoin price reclaimed $90,000 after a volatile trading day.
-
-Bitcoin Magazine • 10h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+**[New research projects U.S. inflation resurgence, challenging bitcoin bulls' disinflation bets](https://www.coindesk.com/markets/2026/01/22/new-research-projects-u-s-inflation-resurgence-challenging-bitcoin-bulls-disinflation-bets)**
 
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+Inflation in the United States could climb above 4% this year, according to a new analysis by Adam Posen of the Peterson Institute and Peter R. Orszag of Lazard.
 
-The Motley Fool • 16h ago
+CoinDesk • 1h ago
+
+---
+
+**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate?utm_source=news.xml&utm_medium=rss)**
+
+The Block • 45m ago
 
 ---
 
 **[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
+
+---
+
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -218,12 +220,6 @@ Bloomberg.com • 1d ago
 Billionaire Michael Saylor’s Strategy has added another 22,305 bitcoin to its balance sheet spending approximately $2.13 billion as the company continues its aggressive accumulation strategy. Strategy has acquired 22,305 BTC for ~$2.13 billion at ~$95,284 per bitcoin. As of 1/19/2026, we hodl 709,715 $BTC acquired for ~$53.92 billion at ~$75,979 ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Strategy buys another 22,305 bitcoin for $2.1 billion in biggest purchase in over a year as holdings top 700,000 BTC](https://www.theblock.co/post/386103/strategy-bigger-orange-bitcoin-buy)**
-
-The Block • 1d ago
 
 ---
 
@@ -275,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 7h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 8h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -349,7 +345,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 167 • ⏱️ 11:24 • 9h ago
+👁️ 42K • 👍 3K • 💬 167 • ⏱️ 11:24 • 10h ago
 
 ---
 
@@ -369,7 +365,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 35K • 👍 3K • 💬 302 • ⏱️ 18:43 • 17h ago
+👁️ 35K • 👍 3K • 💬 302 • ⏱️ 18:43 • 18h ago
 
 ---
 
@@ -399,7 +395,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 18h ago
+👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 19h ago
 
 ---
 

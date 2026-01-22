@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T07:50:00.557865+00:00'
+updated: '2026-01-22T08:34:50.297016+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 07:50 UTC  
+**Last Updated:** January 22, 2026 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -8.8%  
-**30d:** +2.1%  
-**90d:** -23.9%  
-**1y:** -9.7%  
+**24h:** +1.3%  
+**7d:** -9.3%  
+**30d:** +1.6%  
+**90d:** -24.3%  
+**1y:** -10.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a g
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same?
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
 
-5h ago
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-23h ago
+1d ago
 
 ---
 
@@ -154,15 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
-**[Why a $778 Billion Mortgage Lender Is Taking Bitcoin and Ethereum Seriously Now](https://decrypt.co/355280/why-778-billion-mortgage-lender-taking-bitcoin-ethereum-seriously)**
+**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-Younger Americans may find it increasingly difficult to afford a home, but Newrez thinks Bitcoin and Ethereum could help change that.
-
-Decrypt • 12h ago
+The Block • 22h ago
 
 ---
 
@@ -174,31 +172,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
-
-The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
-
-CoinDesk • 18h ago
-
----
-
 **[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
 dlnews.com • 1d ago
-
----
-
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
-
-The Block • 9h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqeomB9vKY8idAWYaY3CNrBs_I4MigaZz9_TQGrioUJNfQ0fJnHIDN6m&gaa_ts=6971d516&gaa_sig=rwrg2QDodf6c1Aj5AJdUurF3neUUL0C4b0og8fmwbJb39mWF6NalkX3CYThAKLYUAxi6IS1xJif1n-wxDv5U9Q%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -214,7 +192,21 @@ TradingView — Track All Markets • 13h ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 18h ago
+Finance Magnates • 19h ago
+
+---
+
+**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+
+The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
+
+CoinDesk • 3d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqcQgVkStTF3lQR5c8dIGPAm4LjNBgAbrHhWxBenZJOs_G9h5HxAx4dV&gaa_ts=6971e496&gaa_sig=YRd9vt3YLFMm2s0oCT31zhaiwa-FQuHm0Q1qDEouh6H2R8qekb1FWwM7-4r3AVXxI_chcU393-Cddt5aZozQdw%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -223,6 +215,12 @@ Finance Magnates • 18h ago
 A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
 
 CryptoSlate • 22h ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcaCWh0guXshuMnuO8COVveVDmtKduGASM2vGlBY13iWL1X91MilmWp&gaa_ts=6971e496&gaa_sig=1mLlElInZT3n6naQUAPNHKEIWYpwOVt06DIOmwpq9N35jsAdtkFEj22xluoKvkzGHIkj2fErcW5Ev6yuc4KP2A%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 250 • 💬 69 • ⏱️ 8:24 • 7h ago
+👁️ 5K • 👍 250 • 💬 69 • ⏱️ 8:24 • 8h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 17 • ⏱️ 10:26 • 8h ago
+👁️ 2K • 👍 122 • 💬 17 • ⏱️ 10:26 • 9h ago
 
 ---
 
@@ -256,7 +254,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 124 • 💬 1 • ⏱️ 19:04 • 13h ago
+👁️ 1K • 👍 124 • 💬 1 • ⏱️ 19:04 • 14h ago
 
 ---
 
@@ -266,7 +264,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 205 • ⏱️ 22:48 • 10h ago
+👁️ 6K • 👍 287 • 💬 205 • ⏱️ 22:48 • 11h ago
 
 ---
 
@@ -296,7 +294,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 512 • 💬 71 • ⏱️ 15:18 • 3h ago
+👁️ 2K • 👍 512 • 💬 71 • ⏱️ 15:18 • 4h ago
 
 ---
 
@@ -306,7 +304,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 254 • ⏱️ 19:48 • 10h ago
+👁️ 3K • 👍 254 • ⏱️ 19:48 • 11h ago
 
 ---
 
@@ -316,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 19h ago
+👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 20h ago
 
 ---
 
