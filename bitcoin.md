@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T06:37:17.273280+00:00'
+updated: '2026-01-22T07:28:38.537945+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 06:37 UTC  
+**Last Updated:** January 22, 2026 at 07:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -5.7%  
-**30d:** +2.6%  
+**24h:** +1.1%  
+**7d:** -5.6%  
+**30d:** +2.7%  
 **90d:** -19.3%  
-**1y:** -13.4%  
+**1y:** -13.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.04B
+**Market Cap:** $1794.97B
 Rank #1
 
-**Circulating Supply:** 19,979,046 BTC
+**Circulating Supply:** 19,979,112 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.7%
 
 **All-Time Low:** $67.81
-+132497.0%
++132392.3%
 
 ---
 
@@ -77,17 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Sold my sats, took my GF on Vacation](https://www.reddit.com/r/Bitcoin/comments/1qjfakq/sold_my_sats_took_my_gf_on_vacation/)**
-
-6h ago
-
----
-
 **[Me Saying bitcoin in January 2026](https://www.reddit.com/r/Bitcoin/comments/1qjg2xe/me_saying_bitcoin_in_january_2026/)**
 
 Here is me saying Bitcoin in January 2026
 
-5h ago
+6h ago
 
 ---
 
@@ -95,15 +89,7 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-9h ago
-
----
-
-**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
-
-Thank you for your attention to this matter.
-
-12h ago
+10h ago
 
 ---
 
@@ -111,13 +97,29 @@ Thank you for your attention to this matter.
 
 hold strong
 
-14h ago
+15h ago
+
+---
+
+**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
+
+Thank you for your attention to this matter.
+
+13h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-5h ago
+6h ago
+
+---
+
+**[For those who have been stacking for 10 or more years, how has your life changed?](https://www.reddit.com/r/Bitcoin/comments/1qjllx3/for_those_who_have_been_stacking_for_10_or_more/)**
+
+First of all congrats to those who got in that early. For the rest of us no need to sweat it, we're still early. Really early. Does anyone have any inspirational stories or pearls of wisdom? I've heard a few rags to riches tales which are pretty great. I've also heard about someone who made so much money they apparently became miserable. Infinite money glitch and revolved his entire personality around Bitcoin. Don't let it happen to you! (lol). As for myself, I'm still in the head down and grind phase. I've decided I'm going to take a couple decades and see if I can accomplish something. Wish me luck. I hope you all stay healthy, take care of your loved ones and keep your stacks secure. And since I'm asking og hodlers to tell their stories it's not a bad idea to use a burner account just to be safe.
+
+2h ago
 
 ---
 
@@ -125,25 +127,25 @@ hold strong
 
 https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
 
-4h ago
+5h ago
+
+---
+
+**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
+
+21m ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-16h ago
+17h ago
 
 ---
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-7h ago
-
----
-
-**[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
-
-12h ago
+8h ago
 
 ---
 
@@ -155,7 +157,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -163,37 +165,13 @@ CNBC • 10h ago
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-The Block • 11h ago
-
----
-
-**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
-
-ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
-
-Bitcoin Magazine • 10h ago
-
----
-
-**[New Bitcoin Whales Outpace Old Guard in $6B Supply Tug-of-War](https://finance.yahoo.com/news/bitcoin-whales-outpace-old-guard-050939709.html)**
-
-New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
-
-There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
-
-CoinDesk • 13h ago
+The Block • 12h ago
 
 ---
 
@@ -205,15 +183,33 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
+**[New Bitcoin Whales Outpace Old Guard in $6B Supply Tug-of-War](https://finance.yahoo.com/news/bitcoin-whales-outpace-old-guard-050939709.html)**
 
-Bloomberg.com • 1d ago
+New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
+**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
 
-Reuters • 1d ago
+The bitcoin price reclaimed $90,000 after a volatile trading day.
+
+Bitcoin Magazine • 10h ago
+
+---
+
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+
+The Motley Fool • 16h ago
+
+---
+
+**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -222,6 +218,12 @@ Reuters • 1d ago
 Billionaire Michael Saylor’s Strategy has added another 22,305 bitcoin to its balance sheet spending approximately $2.13 billion as the company continues its aggressive accumulation strategy. Strategy has acquired 22,305 BTC for ~$2.13 billion at ~$95,284 per bitcoin. As of 1/19/2026, we hodl 709,715 $BTC acquired for ~$53.92 billion at ~$75,979 ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Strategy buys another 22,305 bitcoin for $2.1 billion in biggest purchase in over a year as holdings top 700,000 BTC](https://www.theblock.co/post/386103/strategy-bigger-orange-bitcoin-buy)**
+
+The Block • 1d ago
 
 ---
 
@@ -273,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 6h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 7h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -317,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 336 • ⏱️ 41:04 • 15h ago
+👁️ 40K • 👍 2K • 💬 362 • ⏱️ 41:04 • 15h ago
 
 ---
 
@@ -327,57 +329,27 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 3K • 👍 152 • 💬 93 • ⏱️ 32:39 • 9h ago
+👁️ 4K • 👍 174 • 💬 109 • ⏱️ 32:39 • 10h ago
 
 ---
 
-**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
+**[President Trump touts progress on crypto regulation at the World Economic Forum: CNBC Crypto World](https://www.youtube.com/watch?v=tte5jckrLeU)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+On this week's episode of CNBC Crypto World, crypto prices struggle as President Trump's push to acquire Greenland hits U.S. ...
 
-📺 Crypto Kid
+📺 CNBC Television
 
-👁️ 10K • 👍 1K • 💬 109 • ⏱️ 7:51 • 13h ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 33K • 👍 3K • 💬 203 • ⏱️ 18:43 • 16h ago
+👁️ 12K • 👍 270 • 💬 179 • ⏱️ 16:49 • 9h ago
 
 ---
 
-**[Did President Trump Just Reveal His Strategic Bitcoin Plan?](https://www.youtube.com/watch?v=VyX3Rz77ITg)**
+**[BREAKING: BIGGEST NEWS for CRYPTOCURRENCY at WEF Davos 2026](https://www.youtube.com/watch?v=LZ9QSeDFixc)**
 
-While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 13K • 👍 915 • 💬 105 • ⏱️ 20:50 • 17h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 903 • 💬 131 • ⏱️ 8:21 • 1d ago
-
----
-
-**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
-
-In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
-
-📺 Crypto Insider
-
-👁️ 32K • 👍 2K • 💬 83 • ⏱️ 21:45 • 1d ago
+👁️ 42K • 👍 3K • 💬 167 • ⏱️ 11:24 • 9h ago
 
 ---
 
@@ -387,27 +359,57 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 381 • 💬 131 • ⏱️ 1:16 • 1d ago
+👁️ 18K • 👍 387 • 💬 131 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[Is Davos 2026 the Moment Bitcoin Becomes the Global Reserve Currency?](https://www.youtube.com/watch?v=291AJulZyK8)**
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
 
-The elites flew private to Davos to plan your future without you. Markets are cracking, trust is collapsing, and Bitcoin is rising from ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 35K • 👍 3K • 💬 302 • ⏱️ 18:43 • 17h ago
+
+---
+
+**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 903 • 💬 132 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[This is Bitcoin&#39;s WORST Case Scenario Playing Out.](https://www.youtube.com/watch?v=gyVIT0Hwt5w)**
+
+In today's video Cryptomanran explains why something is broken in the crypto markets. While the traditional economy is running ...
+
+📺 Crypto Insider
+
+👁️ 33K • 👍 2K • 💬 85 • ⏱️ 21:45 • 1d ago
+
+---
+
+**[Did President Trump Just Reveal His Strategic Bitcoin Plan?](https://www.youtube.com/watch?v=VyX3Rz77ITg)**
+
+While the headlines were screaming nonsense, something subtle but massive changed in the Bitcoin world. Politicians, analysts ...
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 202 • ⏱️ 22:10 • 1d ago
+👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 17h ago
 
 ---
 
-**[URGENT 🚨 TRUMP UPDATE ON CRYPTO ‼️ MASSIVE CLARITY ACT INFO TODAY 🔥 XRP BITCOIN](https://www.youtube.com/watch?v=NuGvl-sX520)**
+**[🚨 REVEALED: BLACKROCK IS ABOUT TO CRASH CRYPTO MARKET](https://www.youtube.com/watch?v=PzY0a31yIbI)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
 
-📺 Stock Moe
+📺 Altcoin Daily
 
-👁️ 11K • 👍 1K • 💬 101 • ⏱️ 30:50 • 10h ago
+👁️ 70K • 👍 3K • 💬 292 • ⏱️ 9:30 • 1d ago
 
 ---
 
