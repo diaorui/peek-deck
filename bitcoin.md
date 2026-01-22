@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T21:24:38.703534+00:00'
+updated: '2026-01-22T21:47:38.697758+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 21:24 UTC  
+**Last Updated:** January 22, 2026 at 21:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,826.48
+### $89,595.90
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** -6.3%  
-**30d:** +2.0%  
-**90d:** -19.8%  
-**1y:** -13.8%  
+**7d:** -6.5%  
+**30d:** +1.7%  
+**90d:** -20.0%  
+**1y:** -14.1%  
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-9h ago
+4h ago
 
 ---
 
@@ -89,15 +89,15 @@ Rank #1
 
 ---
 
-**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-6h ago
+10h ago
 
 ---
 
-**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
+**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-3h ago
+7h ago
 
 ---
 
@@ -109,13 +109,7 @@ Rank #1
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-4h ago
-
----
-
-**[Data shows half of all crypto tokens have gone dark, and 2025 was the worst year yet](https://www.reddit.com/r/Bitcoin/comments/1qk44rl/data_shows_half_of_all_crypto_tokens_have_gone/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/110977-data-shows-half-all-crypto-tokens-have-gone.html) • 1h ago
+5h ago
 
 ---
 
@@ -141,23 +135,29 @@ Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. T
 
 ---
 
+**[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Opinion & Analysis pieces. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1qk5mig/your_daily_bitcoin_breakdown_newsletter_is_now/)**
+
+1h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
-
-The bitcoin price reclaimed $90,000 after a volatile trading day.
-
-Bitcoin Magazine • 1d ago
-
----
 
 **[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
 CNBC • 1d ago
+
+---
+
+**[Bitcoin price news: BTC rises above $90,000 as Trump speaks in Davos](https://www.coindesk.com/markets/2026/01/21/bitcoin-bounces-to-usd89-500-gold-falls-as-trump-speaks-in-davos)**
+
+Trump said U.S. prepares to negotiate to acquire Greenland that will not pose threat to NATO.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Ark Invest sees bitcoin (BTC) and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
 
 The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
@@ -183,17 +183,11 @@ CoinDesk • 1h ago
 
 ---
 
-**[Coinbase Forms Quantum Computing Advisory Board as Bitcoin Security Concerns Grow](https://bitcoinmagazine.com/news/coinbase-forms-quantum-computing-board)**
+**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
 
-Coinbase has launched an Independent Advisory Board on Quantum Computing and Blockchain to proactively safeguard Bitcoin and other digital assets against potential future quantum threats.
+"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-Bitcoin Magazine • 2h ago
-
----
-
-**[The Daily: Ark Invest sees bitcoin topping $750K by 2030, Senate Agriculture Committee releases crypto market structure bill text, and more](https://www.theblock.co/post/386771/the-daily-ark-invest-sees-bitcoin-topping-750k-by-2030-senate-agriculture-committee-releases-crypto-market-structure-bill-text-and-more?utm_source=markets.xml&utm_medium=rss)**
-
-The Block • 2h ago
+CoinDesk • 26m ago
 
 ---
 
@@ -214,6 +208,14 @@ Yahoo Finance UK • 10h ago
 **[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+
+The Motley Fool • 1d ago
 
 ---
 

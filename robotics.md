@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T21:24:38.716334+00:00'
+updated: '2026-01-22T21:47:38.706016+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 21:24 UTC  
+**Last Updated:** January 22, 2026 at 21:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-10h ago
+11h ago
 
 ---
 
@@ -72,6 +72,30 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 ---
 
+**[Gazebo Community Meetup : Forest3D Automated Natural Terrain & Asset Generation -- Jan 28th -- Online [details inside]](https://www.reddit.com/r/robotics/comments/1qk78jv/gazebo_community_meetup_forest3d_automated/)**
+
+RSVP Here
+
+24m ago
+
+---
+
+**[ROS Meetup Singapore -- February 10th [details inside]](https://www.reddit.com/r/robotics/comments/1qk75uv/ros_meetup_singapore_february_10th_details_inside/)**
+
+RSVP Here
+
+27m ago
+
+---
+
+**[ROS By-The-Bay Meetup -- Jan 29th -- Mountain View, CA [details inside]](https://www.reddit.com/r/robotics/comments/1qk73me/ros_bythebay_meetup_jan_29th_mountain_view_ca/)**
+
+RSVP Here
+
+29m ago
+
+---
+
 **[Which ROS version does Unitree G1 EDU supports?](https://www.reddit.com/r/robotics/comments/1qjzrqf/which_ros_version_does_unitree_g1_edu_supports/)**
 
 I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, it says ? Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.10.104-tegra aarch64) This system has been minimized by removing packages and content that are not required on a system that users do not log into. To restore this content, you can run the 'unminimize' command. 0 updates can be applied immediately. 60 additional security updates can be applied with ESM Apps. Learn more about enabling ESM Apps service at https://ubuntu.com/esm Last login: Sat ****** from 192.168.123.51 ros:foxy(1) noetic(2) ? What does this means ? Do i need to depriciated my whole ubuntu and ros in order to run ? Or ned to do it from docker ? How you guys are doing ?
@@ -82,29 +106,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-5h ago
-
----
-
-**[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
-
-1d ago
-
----
-
-**[I finnaly bridges ros2 msg to gazebo](https://www.reddit.com/r/robotics/comments/1qjnqga/i_finnaly_bridges_ros2_msg_to_gazebo/)**
-
-I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
-
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 14h ago
-
----
-
-**[machine dancing](https://www.reddit.com/r/robotics/comments/1qirm57/machine_dancing/)**
-
-You can dance! Dancing is not that difficult, from a middle level Robotics development company
-
-1d ago
+6h ago
 
 ---
 
@@ -128,11 +130,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Investors Buy Large Volume of Arbe Robotics Call Options (NASDAQ:ARBE)](https://www.marketbeat.com/instant-alerts/investors-buy-large-volume-of-arbe-robotics-call-options-nasdaqarbe-2026-01-22/)**
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
 
-Arbe Robotics Ltd. (NASDAQ:ARBE - Get Free Report) was the recipient of some unusual options trading activity on Thursday. Investors  bought  52,243 call options on the company. This is an increase of approximately 1,234% compared to the average daily volume of 3,916 call options.
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-MarketBeat • 2h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+
+Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -144,7 +154,7 @@ CNBC • 1d ago
 
 ---
 
-**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
+**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
@@ -152,19 +162,11 @@ Business Insider • 11h ago
 
 ---
 
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+**[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
 
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
 
-Electrek • 20h ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -176,17 +178,19 @@ ktiv.com • 1d ago
 
 ---
 
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 2d ago
+
+---
+
 **[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
 CBS News • 5h ago
-
----
-
-**[AI and robots can already help with medical care, Dr. Oz says](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
-
-Axios • 5h ago
 
 ---
 
