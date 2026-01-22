@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T03:49:27.629703+00:00'
+updated: '2026-01-22T04:50:11.955433+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 03:49 UTC  
+**Last Updated:** January 22, 2026 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,005.56
+### $3,013.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -8.8%  
-**30d:** +2.0%  
-**90d:** -23.9%  
-**1y:** -9.8%  
+**24h:** +1.0%  
+**7d:** -8.3%  
+**30d:** +2.6%  
+**90d:** -23.5%  
+**1y:** -9.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.02B
+**Market Cap:** $364.10B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.9%
+-39.0%
 
 **All-Time Low:** $0.43
-+697885.4%
++696301.0%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion January 21, 2026](https://www.reddit.com/r/ethereum/comments/1qipy1b/daily_general_discussion_january_21_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-21h ago
-
----
-
 **[Is exiting staking supposed to be this long? 64 days now](https://www.reddit.com/r/ethereum/comments/1qjjsp6/is_exiting_staking_supposed_to_be_this_long_64/)**
 
 I staked my ethereum on etherstake and entered the exit queue 64 days ago and I still haven’t got my crypto back. I’m getting kinda annoyed and worried is anyone else facing this or did fall for some sort of scam? Is there something I’m doing wrong? It says I entered exit queue on etherscan.
 
-8m ago
+1h ago
+
+---
+
+**[Daily General Discussion January 21, 2026](https://www.reddit.com/r/ethereum/comments/1qipy1b/daily_general_discussion_january_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ I staked my ethereum on etherstake and entered the exit queue 64 days ago and I 
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-17h ago
+18h ago
 
 ---
 
@@ -154,13 +154,13 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfXKxftjCQBWbkxAZSOwhXVeFrHPH-vWQylHBbmCh-eisqtKleIPtIL&gaa_ts=6971a1b3&gaa_sig=obRu2-TSMiOWPjYzlGtDtzn8_hQb4AwGrh51bncxn0HYM2W8WWmBoOzsQegtek-wgE6dPdgzZnojW5FT3Vcl4g%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdYdbg5oA-NyjY4vY1lz7lkrlJjG3IXG8C8Onz5FUHD86U-OBNDhRjT&gaa_ts=6971afef&gaa_sig=6mK-OeS-6dn8BLhrudqer71D1FBdrd9EYGupr9vhbUzStB1Pf7O9IN4N5dLzcJUQpPLmHGw5MuZ0W8WeLiGIqg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqf3hq2CorvXVPBbezFZDp0QjDf_jsxuUIfxcxjruR3NiHUiy_Un-1ws&gaa_ts=6971a1b3&gaa_sig=ACPifMV4pwcYXKFjfKp0b45Yxih6Rbn_5VbnrmX-FUwEZBzhSHoRpArL3uNtLupFQYeFkh2VWsGM48uUPwqWKw%3D%3D)**
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqeCCI1fq4JZgZZoRPeIqN6j6cdSyIlC-JgoA65vd3SP6XXR0V1W8Y0-&gaa_ts=6971afef&gaa_sig=0TDxSIJcktWr_A8cvQPDEtMG57ak4iKZNGx3oChxTNzXH5AkAuYs17yPESZ7Fy_YMnrLVYfB-qf9VK4qvDB6_g%3D%3D)**
 
 Barron's • 1d ago
 
@@ -212,7 +212,7 @@ Barron's • 1d ago
 
 A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -234,17 +234,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 981 • 👍 105 • 💬 44 • ⏱️ 8:24 • 3h ago
-
----
-
-**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
-
-BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 223 • 💬 195 • ⏱️ 22:48 • 6h ago
+👁️ 3K • 👍 205 • 💬 54 • ⏱️ 8:24 • 4h ago
 
 ---
 
@@ -254,37 +244,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 796 • 👍 79 • 💬 12 • ⏱️ 10:26 • 4h ago
+👁️ 1K • 👍 107 • 💬 16 • ⏱️ 10:26 • 5h ago
 
 ---
 
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=ReyLoT3_icA)**
+**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
 
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Daily pet videos
+📺 Crypto World
 
-👁️ 5K • 👍 4K • 3h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
-
-Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
-
-📺 Millionaire Formula
-
-👁️ 1K • 👍 110 • 💬 1 • ⏱️ 19:04 • 9h ago
-
----
-
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
-
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
-
-📺  S BENCH 
-
-👁️ 5K • 👍 4K • 3h ago
+👁️ 5K • 👍 265 • 💬 203 • ⏱️ 22:48 • 7h ago
 
 ---
 
@@ -294,17 +264,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 7 • ⏱️ 6:37 • 15h ago
+👁️ 2K • 👍 136 • 💬 7 • ⏱️ 6:37 • 16h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
 
-📺 Doctor of Pump & Dump
+📺 Millionaire Formula
 
-👁️ 2K • 👍 200 • ⏱️ 19:48 • 6h ago
+👁️ 1K • 👍 122 • 💬 1 • ⏱️ 19:04 • 10h ago
+
+---
+
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
+
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+
+📺  S BENCH 
+
+👁️ 5K • 👍 4K • 4h ago
 
 ---
 
@@ -318,13 +298,33 @@ Here is new data and the whole situation is getting out of hand for crypto, bitc
 
 ---
 
-**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=b_d6Dfyp2Qk)**
+**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Cilinix Crypto
+📺 Doctor of Pump & Dump
 
-👁️ 342 • 👍 20 • 💬 4 • ⏱️ 5:25 • 18h ago
+👁️ 3K • 👍 238 • ⏱️ 19:48 • 7h ago
+
+---
+
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=ReyLoT3_icA)**
+
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+
+📺 Daily pet videos
+
+👁️ 6K • 👍 4K • 4h ago
+
+---
+
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 21K • 👍 1K • 💬 265 • ⏱️ 16:10 • 1d ago
 
 ---
 

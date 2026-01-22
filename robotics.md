@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T03:49:27.632977+00:00'
+updated: '2026-01-22T04:50:11.958676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 03:49 UTC  
+**Last Updated:** January 22, 2026 at 04:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-33m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ Helloo! I am about to graduate high school in a month and I will have 5 months b
 
 Will there still be a need for people with a background in CS for roles such as machine learning engineer or computer vision engineer in robotics companies given the fact that ai can do code now?
 
-41m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Will there still be a need for people with a background in CS for roles such as 
 
 Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesome and creative ideas in my last post about what you’d use a home robotic arm for。 The discussion was fantastic – from cooking and cleaning to playing with pets and even folding laundry, your ideas were incredibly insightful. Now, I’m back with the natural next question: Pricing. Let’s set some common assumptions to make this thought experiment easier: • The robotic arm is reliable, safe, and smart enough to handle the varied tasks we discussed. • It’s a standalone device you can place on a table or counter, or mount on a wall/ceiling track for greater range. • Software and basic grippers are included. The Core Question: Given your intended use case from the last thread, what do you think is a fair price for such a device, and what is the absolute maximum you would personally consider paying? To help structure your thoughts, you might consider: • The “Impulse Buy” Price: A price so reasonable you’d buy it to try out, even for just one main task. • The “Value Anchor” Price: A price that feels like a solid deal for the time and effort it saves. • The “Serious Investment” Price: The point where you’d need to seriously justify it as a major home appliance/tool. To make it engaging, let’s do a quick poll in the comments, and please expand on your vote! • Under $500 USD • $500 — $1,500 USD • $1,500 — $3,000 USD • $3,000 — $5,000 USD • Over $5,000 USD Please share your reasoning! • Would you prefer a cheaper, simpler model for one task, or a more expensive, versatile one? • Does the price change if it’s a one-time payment vs. a base unit + paid software modules? • How much would it need to save you (in time or hired help money) to be worth it? This feedback is invaluable. It’s not about finding a single “right” price, but understanding the spectrum of what feels valuable to different people with different use cases. Thanks again for helping shape this futuristic idea with some grounded reality!
 
-50m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesom
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-13h ago
+14h ago
 
 ---
 
@@ -112,35 +112,11 @@ Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their we
 
 ## Google News: "robotics"
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
-
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
-
-Fortune • 2d ago
-
----
-
 **[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 13h ago
-
----
-
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
-
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
-
-Electrek • 2h ago
-
----
-
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
-
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 14h ago
+Microsoft • 14h ago
 
 ---
 
@@ -152,25 +128,49 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
+
+Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
+
+The Business Journals • 1d ago
+
+---
+
+**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+
+Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+
+Electrek • 3h ago
+
+---
+
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 15h ago
+
+---
+
+**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+
+“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+
+Fortune • 2d ago
+
+---
+
 **[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
 Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
 Financial Times • 1d ago
-
----
-
-**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
-
-Reuters • 1d ago
-
----
-
-**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
-
-Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
-
-CBC • 1d ago
 
 ---
 
@@ -182,9 +182,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’](https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html)**
+**[As AI moves into the physical world, is Canada missing the boat on robotics?](https://www.cbc.ca/news/business/robotics-canada-physical-ai-productivity-9.7046611)**
 
-The New York Times • 1d ago
+Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
+
+CBC • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 945 • 👍 24 • 💬 2 • ⏱️ 0:32 • 8h ago
+👁️ 1K • 👍 40 • 💬 3 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -208,7 +210,7 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 407K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 408K • 👍 17K • 💬 4K • ⏱️ 19:17 • 6d ago
 
 ---
 
@@ -218,17 +220,27 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 15K • 👍 918 • 💬 72 • ⏱️ 1:51 • 14h ago
+👁️ 18K • 👍 1K • 💬 75 • ⏱️ 1:51 • 15h ago
 
 ---
 
-**[War Robots - New Robot Ammit Unlocked! | Update 11.7](https://www.youtube.com/watch?v=QS_Ds0gN27I)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales drone and the Mei Lan pilot all at max level.
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 Adrian Chong
+📺 KhanFlicks
 
-👁️ 3K • 👍 202 • 💬 81 • ⏱️ 19:41 • 13h ago
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
+
+---
+
+**[Boston Dynamics just gave its robots Google’s brain.](https://www.youtube.com/watch?v=tN0XwQGkXL4)**
+
+Why the DeepMind Boston Dynamics partnership changes industrial automation. By integrating advanced Gemini AI into ...
+
+📺 Slidebean
+
+👁️ 8K • 👍 292 • 💬 23 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -238,7 +250,27 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 16K • 👍 154 • ⏱️ 7:30 • 2d ago
+👁️ 16K • 👍 155 • ⏱️ 7:30 • 2d ago
+
+---
+
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
+
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
+
+📺 DPCcars
+
+👁️ 9K • 👍 81 • 💬 20 • ⏱️ 3:19 • 5d ago
+
+---
+
+**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
+
+Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
+
+📺 KTLA 5
+
+👁️ 16K • 👍 31 • 💬 3 • ⏱️ 23:17 • 2d ago
 
 ---
 
@@ -252,16 +284,6 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 ---
 
-**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
-
-Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
-
-📺 KTLA 5
-
-👁️ 15K • 👍 31 • 💬 2 • ⏱️ 23:17 • 2d ago
-
----
-
 **[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
 
 What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
@@ -269,26 +291,6 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 📺 Future Lens Pi
 
 👁️ 23K • 💬 10 • ⏱️ 0:07 • 2d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 2.8M • 👍 31K • 💬 2K • ⏱️ 33:05 • 3d ago
-
----
-
-**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
-
-At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
-
-📺 KhanFlicks
-
-👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
 
 ---
 
