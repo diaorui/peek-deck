@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T09:34:41.714108+00:00'
+updated: '2026-01-22T10:29:39.130889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 09:34 UTC  
+**Last Updated:** January 22, 2026 at 10:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-2h ago
+3h ago
 
 ---
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,15 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 3h ago
+
+---
+
+**[Day 122 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qjr0zs/day_122_of_building_asimov_an_opensource_humanoid/)**
+
+We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
+
+4m ago
 
 ---
 
@@ -72,7 +80,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +88,7 @@ Helloo! I am about to graduate high school in a month and I will have 5 months b
 
 Will there still be a need for people with a background in CS for roles such as machine learning engineer or computer vision engineer in robotics companies given the fact that ai can do code now?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +96,7 @@ Will there still be a need for people with a background in CS for roles such as 
 
 Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesome and creative ideas in my last post about what you’d use a home robotic arm for。 The discussion was fantastic – from cooking and cleaning to playing with pets and even folding laundry, your ideas were incredibly insightful. Now, I’m back with the natural next question: Pricing. Let’s set some common assumptions to make this thought experiment easier: • The robotic arm is reliable, safe, and smart enough to handle the varied tasks we discussed. • It’s a standalone device you can place on a table or counter, or mount on a wall/ceiling track for greater range. • Software and basic grippers are included. The Core Question: Given your intended use case from the last thread, what do you think is a fair price for such a device, and what is the absolute maximum you would personally consider paying? To help structure your thoughts, you might consider: • The “Impulse Buy” Price: A price so reasonable you’d buy it to try out, even for just one main task. • The “Value Anchor” Price: A price that feels like a solid deal for the time and effort it saves. • The “Serious Investment” Price: The point where you’d need to seriously justify it as a major home appliance/tool. To make it engaging, let’s do a quick poll in the comments, and please expand on your vote! • Under $500 USD • $500 — $1,500 USD • $1,500 — $3,000 USD • $3,000 — $5,000 USD • Over $5,000 USD Please share your reasoning! • Would you prefer a cheaper, simpler model for one task, or a more expensive, versatile one? • Does the price change if it’s a one-time payment vs. a base unit + paid software modules? • How much would it need to save you (in time or hired help money) to be worth it? This feedback is invaluable. It’s not about finding a single “right” price, but understanding the spectrum of what feels valuable to different people with different use cases. Thanks again for helping shape this futuristic idea with some grounded reality!
 
-6h ago
+7h ago
 
 ---
 
@@ -96,15 +104,7 @@ Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesom
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-18h ago
-
----
-
-**[On the gap between robotics demos and real-world deployment](https://www.reddit.com/r/robotics/comments/1qj027t/on_the_gap_between_robotics_demos_and_realworld/)**
-
-Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
-
-18h ago
+19h ago
 
 ---
 
@@ -116,7 +116,23 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 19h ago
+Microsoft • 20h ago
+
+---
+
+**[How AI and robots ease pressure at Essex pharmacy](https://www.bbc.com/news/articles/c1507npqgpeo)**
+
+Hema Patel says pharmacies are “on our knees” and need more funding from central government.
+
+BBC • 4h ago
+
+---
+
+**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
+
+OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
+
+Business Insider • 12m ago
 
 ---
 
@@ -142,19 +158,19 @@ The Business Journals • 1d ago
 
 ---
 
-**[How AI and robots ease pressure at Essex pharmacy](https://www.bbc.com/news/articles/c1507npqgpeo)**
-
-Hema Patel says pharmacies are “on our knees” and need more funding from central government.
-
-BBC • 3h ago
-
----
-
 **[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 20h ago
+CNBC • 21h ago
+
+---
+
+**[Siouxland boy’s heart condition leads him to robotics team: Now state qualifiers](https://www.ktiv.com/2026/01/21/siouxland-boys-heart-condition-leads-him-robotics-team-now-state-qualifiers/)**
+
+Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
+
+ktiv.com • 13h ago
 
 ---
 
@@ -166,25 +182,11 @@ Fortune • 2d ago
 
 ---
 
-**[Siouxland boy’s heart condition leads him to robotics team: Now state qualifiers](https://www.ktiv.com/2026/01/21/siouxland-boys-heart-condition-leads-him-robotics-team-now-state-qualifiers/)**
+**[A detachable crawling robotic hand](https://www.nature.com/articles/s41467-025-67675-8)**
 
-Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
+This study introduces a detachable robotic hand that can detach from a manipulator, crawl to retrieve several objects, and reattach. A symmetric, reversible design enables grasping from both sides, bridging manipulation with autonomous mobility.
 
-ktiv.com • 12h ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 1d ago
-
----
-
-**[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
-
-EE Times • 14h ago
+Nature • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 56 • 💬 3 • ⏱️ 0:32 • 14h ago
+👁️ 2K • 👍 56 • 💬 3 • ⏱️ 0:32 • 15h ago
 
 ---
 
@@ -228,7 +230,7 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 237 • 💬 89 • ⏱️ 19:41 • 19h ago
+👁️ 4K • 👍 237 • 💬 89 • ⏱️ 19:41 • 20h ago
 
 ---
 

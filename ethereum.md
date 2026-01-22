@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T09:34:41.710426+00:00'
+updated: '2026-01-22T10:29:39.127681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 09:34 UTC  
+**Last Updated:** January 22, 2026 at 10:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,022.80
+### $3,010.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -9.3%  
-**30d:** +1.6%  
-**90d:** -24.3%  
-**1y:** -10.2%  
+**24h:** +2.7%  
+**7d:** -8.4%  
+**30d:** +2.5%  
+**90d:** -23.6%  
+**1y:** -9.4%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
+
+---
+
+**[Native ETH swaps with no bridges or KYC?](https://www.reddit.com/r/ethereum/comments/1qjqnt6/native_eth_swaps_with_no_bridges_or_kyc/)**
+
+I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
+
+26m ago
 
 ---
 
@@ -80,15 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-2h ago
-
----
-
-**[Is the ethgas (GWEI) coin legit?](https://www.reddit.com/r/ethereum/comments/1qjgrub/is_the_ethgas_gwei_coin_legit/)**
-
-Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same?
-
-8h ago
+3h ago
 
 ---
 
@@ -97,14 +97,6 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Is ethgas (GWEI) legit?](https://www.reddit.com/r/ethereum/comments/1qjhc2j/is_ethgas_gwei_legit/)**
-
-Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
-
-7h ago
 
 ---
 
@@ -120,7 +112,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-22h ago
+23h ago
 
 ---
 
@@ -146,6 +138,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Ethereum’s transaction activity has reached a new all-time high!](https://www.reddit.com/r/ethereum/comments/1qh6f52/ethereums_transaction_activity_has_reached_a_new/)**
+
+The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,13 +154,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
+Decrypt • 11h ago
+
+---
+
+**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
+
+The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
+
+CoinDesk • 20h ago
+
+---
+
+**[Ethereum's Vitalik Buterin Going All-In on Decentralized Social Media as Farcaster, Lens Change Hands](https://decrypt.co/355335/ethereum-vitalik-buterin-decentralized-social-media-farcaster-lens-change-hands)**
+
+The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
+
 Decrypt • 10h ago
 
 ---
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -180,11 +196,9 @@ dlnews.com • 1d ago
 
 ---
 
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfT29MxBWiqkjKSqhscS43yX441BFCkgqWZ0HSm1w_PR6fM6UKTrWPi&gaa_ts=6971ff7c&gaa_sig=PLFA5mBuaolux5R3wshdMUtV0o2hhsQ0l7uUo3wyDCbfTzTJIJKHgyGBbh6LHTU7-UDVRL5ZvD9f-4u45gN_mQ%3D%3D)**
 
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
-
-TradingView — Track All Markets • 14h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -192,7 +206,7 @@ TradingView — Track All Markets • 14h ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 20h ago
+Finance Magnates • 21h ago
 
 ---
 
@@ -204,23 +218,11 @@ CoinDesk • 3d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqcQgVkStTF3lQR5c8dIGPAm4LjNBgAbrHhWxBenZJOs_G9h5HxAx4dV&gaa_ts=6971e496&gaa_sig=YRd9vt3YLFMm2s0oCT31zhaiwa-FQuHm0Q1qDEouh6H2R8qekb1FWwM7-4r3AVXxI_chcU393-Cddt5aZozQdw%3D%3D)**
+**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
 
-MarketWatch • 1d ago
+Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
----
-
-**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
-
-A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
-
-CryptoSlate • 23h ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcaCWh0guXshuMnuO8COVveVDmtKduGASM2vGlBY13iWL1X91MilmWp&gaa_ts=6971e496&gaa_sig=1mLlElInZT3n6naQUAPNHKEIWYpwOVt06DIOmwpq9N35jsAdtkFEj22xluoKvkzGHIkj2fErcW5Ev6yuc4KP2A%3D%3D)**
-
-Barron's • 2d ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -234,7 +236,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 9h ago
+👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 10h ago
 
 ---
 
@@ -244,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 18 • ⏱️ 10:26 • 10h ago
+👁️ 2K • 👍 134 • 💬 18 • ⏱️ 10:26 • 11h ago
 
 ---
 
@@ -254,7 +256,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 298 • 💬 204 • ⏱️ 22:48 • 12h ago
+👁️ 7K • 👍 298 • 💬 204 • ⏱️ 22:48 • 13h ago
 
 ---
 
@@ -264,7 +266,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 8h ago
+👁️ 5K • 👍 4K • 9h ago
 
 ---
 
@@ -274,7 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 262 • ⏱️ 19:48 • 12h ago
+👁️ 3K • 👍 262 • ⏱️ 19:48 • 13h ago
 
 ---
 
@@ -284,7 +286,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 15h ago
+👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 16h ago
 
 ---
 
@@ -294,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 5h ago
+👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 6h ago
 
 ---
 
@@ -314,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 21h ago
+👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 22h ago
 
 ---
 
@@ -324,7 +326,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Daily pet videos
 
-👁️ 6K • 👍 4K • 8h ago
+👁️ 6K • 👍 4K • 9h ago
 
 ---
 
