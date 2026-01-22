@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T23:22:47.652335+00:00'
+updated: '2026-01-22T23:43:54.887968+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 23:22 UTC  
+**Last Updated:** January 22, 2026 at 23:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -110,7 +110,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 3h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -304,7 +304,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 649 • 💬 91 • ⏱️ 9:11 • 2h ago
+👁️ 5K • 👍 649 • 💬 91 • ⏱️ 9:11 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Daily pet videos
 
-👁️ 5K • 👍 3K • 1h ago
+👁️ 5K • 👍 3K • 2h ago
 
 ---
 

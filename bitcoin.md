@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T23:22:47.644225+00:00'
+updated: '2026-01-22T23:43:54.882026+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 23:22 UTC  
+**Last Updated:** January 22, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,13 +91,13 @@ Rank #1
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-11h ago
+12h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1d ago
 
 When the world’s most vocal Bitcoin maximalist names a stock alongside BTC as a “best performing asset of the decade,” you pay attention. Michael Saylor doesn’t do diversification. He does conviction. His two bets for the next ten years are Bitcoin and Nvidia (NASDAQ:NVDA). That pairing reveals how he sees digital transformation playing out. A ... Michael Saylor’s Bitcoin Playbook: What He Says Will Win
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeon9WToE2YNFVDbTTvfY4eMevYGCscDwU0CQPvzk6PbPsdCwXuS2iv&gaa_ts=6972acdf&gaa_sig=NUDGNA1o3VXZSXsflvFZPQxrDK21nw7kZjE9kySjK5V7LpW44M9BEZOg0oWlYusXn1eCqfhLxrdb2Wazmc6yvw%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Motley Fool • 1d ago
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 63 • 💬 34 • ⏱️ 10:27 • 3h ago
+👁️ 2K • 👍 63 • 💬 34 • ⏱️ 10:27 • 4h ago
 
 ---
 

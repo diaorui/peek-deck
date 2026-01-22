@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T23:22:47.635690+00:00'
+updated: '2026-01-22T23:43:54.873780+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 23:22 UTC  
+**Last Updated:** January 22, 2026 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,7 +61,7 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 **[Opinion | Teaching and Learning in the Age of A.I. (Gift Article)](https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 2h ago
 
 ---
 
@@ -107,7 +107,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-17h ago
+18h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Intercept • 1h ago
 
 New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -311,7 +311,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 29K • 👍 919 • 💬 73 • ⏱️ 15:40 • 23h ago
+👁️ 29K • 👍 919 • 💬 73 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 507 • 6h ago
+⭐ 9.7k • 🔱 507 • 7h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 2h ago
+⭐ 9.6k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -692,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 9h ago
+⭐ 4.5k • 🔱 4.7k • 10h ago
 
 ---
 

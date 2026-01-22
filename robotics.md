@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T23:22:47.655620+00:00'
+updated: '2026-01-22T23:43:54.891114+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 23:22 UTC  
+**Last Updated:** January 22, 2026 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-8h ago
+9h ago
 
 ---
 
@@ -84,7 +84,7 @@ RSVP Here
 
 RSVP Here
 
-1h ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-7h ago
+8h ago
 
 ---
 
