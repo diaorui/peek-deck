@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T05:55:22.087425+00:00'
+updated: '2026-01-22T06:37:17.273280+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 05:55 UTC  
+**Last Updated:** January 22, 2026 at 06:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sold my sats, took my GF on Vacation](https://www.reddit.com/r/Bitcoin/comments/1qjfakq/sold_my_sats_took_my_gf_on_vacation/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Here is me saying Bitcoin in January 2026
 
 Thank you for your attention to this matter.
 
-11h ago
+12h ago
 
 ---
 
@@ -111,13 +111,13 @@ Thank you for your attention to this matter.
 
 hold strong
 
-13h ago
+14h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 **[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 10h ago
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 10h ago
 
 New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 25m ago
 
 There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 12h ago
 
 Bitcoin, DeFi, and tokenized assets are emerging as functional parts of global capital markets, ARK Invest wrote, though challenges persist.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -273,7 +273,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 5h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 6h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 336 • ⏱️ 41:04 • 14h ago
+👁️ 39K • 👍 2K • 💬 336 • ⏱️ 41:04 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 33K • 👍 3K • 💬 203 • ⏱️ 18:43 • 15h ago
+👁️ 33K • 👍 3K • 💬 203 • ⏱️ 18:43 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 915 • 💬 105 • ⏱️ 20:50 • 16h ago
+👁️ 13K • 👍 915 • 💬 105 • ⏱️ 20:50 • 17h ago
 
 ---
 
@@ -407,7 +407,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Stock Moe
 
-👁️ 11K • 👍 1K • 💬 101 • ⏱️ 30:50 • 9h ago
+👁️ 11K • 👍 1K • 💬 101 • ⏱️ 30:50 • 10h ago
 
 ---
 

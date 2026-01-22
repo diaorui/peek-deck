@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T05:55:22.096805+00:00'
+updated: '2026-01-22T06:37:17.282429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 05:55 UTC  
+**Last Updated:** January 22, 2026 at 06:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-22h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Helloo! I am about to graduate high school in a month and I will have 5 months b
 
 Will there still be a need for people with a background in CS for roles such as machine learning engineer or computer vision engineer in robotics companies given the fact that ai can do code now?
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Will there still be a need for people with a background in CS for roles such as 
 
 Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesome and creative ideas in my last post about what you’d use a home robotic arm for。 The discussion was fantastic – from cooking and cleaning to playing with pets and even folding laundry, your ideas were incredibly insightful. Now, I’m back with the natural next question: Pricing. Let’s set some common assumptions to make this thought experiment easier: • The robotic arm is reliable, safe, and smart enough to handle the varied tasks we discussed. • It’s a standalone device you can place on a table or counter, or mount on a wall/ceiling track for greater range. • Software and basic grippers are included. The Core Question: Given your intended use case from the last thread, what do you think is a fair price for such a device, and what is the absolute maximum you would personally consider paying? To help structure your thoughts, you might consider: • The “Impulse Buy” Price: A price so reasonable you’d buy it to try out, even for just one main task. • The “Value Anchor” Price: A price that feels like a solid deal for the time and effort it saves. • The “Serious Investment” Price: The point where you’d need to seriously justify it as a major home appliance/tool. To make it engaging, let’s do a quick poll in the comments, and please expand on your vote! • Under $500 USD • $500 — $1,500 USD • $1,500 — $3,000 USD • $3,000 — $5,000 USD • Over $5,000 USD Please share your reasoning! • Would you prefer a cheaper, simpler model for one task, or a more expensive, versatile one? • Does the price change if it’s a one-time payment vs. a base unit + paid software modules? • How much would it need to save you (in time or hired help money) to be worth it? This feedback is invaluable. It’s not about finding a single “right” price, but understanding the spectrum of what feels valuable to different people with different use cases. Thanks again for helping shape this futuristic idea with some grounded reality!
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesom
 
 I’ve been trying to learn more about Diffusion Policy (the diffusion-based visuomotor / imitation learning approach used in robotics), but I’m finding surprisingly little non-paper content, almost no blog posts, tutorials, or YouTube explainers. Is this just because it’s still early-stage research, or because it’s robotics-focused and hard to demo? Curious why it hasn’t gotten more accessible explanations yet, compared to other ML methods.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems that perform well in demonstrations often struggle when deployed in real-world environments. His perspective focuses on how demos are comparatively easy to optimize for, while deployment introduces reliability, infrastructure, and failure-mode challenges that are far more difficult to solve. He notes that people frequently get caught up in what works on video and underestimate the complexity of building systems that operate safely and consistently at scale. The discussion reflects a broader pattern seen across robotics and physical AI, where progress depends less on headline capabilities and more on long-term system robustness.
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Secured an internship at FANUC, working around industrial robotics and automatio
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
-18h ago
+19h ago
 
 ---
 
@@ -116,7 +116,7 @@ I’m doing a fun little survey for a personal project and would love to hear yo
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 15h ago
+Microsoft • 16h ago
 
 ---
 
@@ -132,7 +132,7 @@ Financial Times • 1d ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nature • 1d ago
 
 Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
 
-Electrek • 4h ago
+Electrek • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 40 • 💬 3 • ⏱️ 0:32 • 10h ago
+👁️ 1K • 👍 40 • 💬 3 • ⏱️ 0:32 • 11h ago
 
 ---
 
@@ -218,7 +218,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 18K • 👍 1K • 💬 75 • ⏱️ 1:51 • 16h ago
+👁️ 18K • 👍 1K • 💬 75 • ⏱️ 1:51 • 17h ago
 
 ---
 
