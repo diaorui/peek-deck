@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T12:53:42.433685+00:00'
+updated: '2026-01-22T13:48:47.917488+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 12:53 UTC  
+**Last Updated:** January 22, 2026 at 13:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.47B
+**Market Cap:** $358.14B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-40.0%
 
 **All-Time Low:** $0.43
-+688411.5%
++685221.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -154,7 +154,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2h ago
 
 The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ Nasdaq • 1d ago
 
 Ethereum price faces bearish pressure as prediction markets show a 62.5% chance of ETH dropping to $2,500 before hitting $4,000.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -216,13 +216,13 @@ Decrypt • 14h ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 23h ago
+Finance Magnates • 1d ago
 
 ---
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -236,17 +236,17 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 284 • 💬 79 • ⏱️ 8:24 • 12h ago
+👁️ 7K • 👍 309 • 💬 98 • ⏱️ 8:24 • 13h ago
 
 ---
 
-**[BULLISH ETHEREUM COMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Z8ORqIrKkHk)**
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=Gatpbk_Ncgw)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
 
-📺 Cilinix Crypto
+📺 Tids
 
-👁️ 49 • 👍 8 • 💬 3 • ⏱️ 4:54 • 2h ago
+👁️ 3K • 👍 653 • 23m ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 18 • ⏱️ 10:26 • 13h ago
+👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 14h ago
 
 ---
 
@@ -266,27 +266,17 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 303 • 💬 204 • ⏱️ 22:48 • 16h ago
+👁️ 7K • 👍 310 • 💬 205 • ⏱️ 22:48 • 16h ago
 
 ---
 
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
+**[BULLISH ETHEREUM COMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Z8ORqIrKkHk)**
 
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺  S BENCH 
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 4K • 12h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
-
-Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
-
-📺 Millionaire Formula
-
-👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 18h ago
+👁️ 103 • 👍 10 • 💬 3 • ⏱️ 4:54 • 3h ago
 
 ---
 
@@ -296,27 +286,27 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 273 • ⏱️ 19:48 • 15h ago
+👁️ 3K • 👍 282 • ⏱️ 19:48 • 16h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-6qiAcQzN64)**
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
 
-📺 More Crypto Online
+📺  S BENCH 
 
-👁️ 3K • 👍 138 • 💬 7 • ⏱️ 6:37 • 1d ago
+👁️ 5K • 👍 4K • 13h ago
 
 ---
 
-**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
 
-📺 Stock Moe
+📺 Millionaire Formula
 
-👁️ 16K • 👍 1K • 💬 150 • ⏱️ 18:29 • 1d ago
+👁️ 1K • 👍 127 • 💬 1 • ⏱️ 19:04 • 19h ago
 
 ---
 
@@ -326,7 +316,17 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 667 • 💬 86 • ⏱️ 15:18 • 8h ago
+👁️ 4K • 👍 684 • 💬 121 • ⏱️ 15:18 • 9h ago
+
+---
+
+**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 21K • 👍 1K • 💬 264 • ⏱️ 16:10 • 2d ago
 
 ---
 

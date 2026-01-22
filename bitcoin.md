@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T12:53:42.427607+00:00'
+updated: '2026-01-22T13:48:47.911376+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 12:53 UTC  
+**Last Updated:** January 22, 2026 at 13:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.27B
+**Market Cap:** $1789.44B
 Rank #1
 
-**Circulating Supply:** 19,979,212 BTC
+**Circulating Supply:** 19,979,253 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-29.0%
 
 **All-Time Low:** $67.81
-+132492.5%
++131974.9%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-11h ago
+12h ago
 
 ---
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,13 +95,13 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-15h ago
+16h ago
 
 ---
 
 **[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Here is me saying Bitcoin in January 2026
 
 First of all congrats to those who got in that early. For the rest of us no need to sweat it, we're still early. Really early. Does anyone have any inspirational stories or pearls of wisdom? I've heard a few rags to riches tales which are pretty great. I've also heard about someone who made so much money they apparently became miserable. Infinite money glitch and revolved his entire personality around Bitcoin. Don't let it happen to you! (lol). As for myself, I'm still in the head down and grind phase. I've decided I'm going to take a couple decades and see if I can accomplish something. Wish me luck. I hope you all stay healthy, take care of your loved ones and keep your stacks secure. And since I'm asking og hodlers to tell their stories it's not a bad idea to use a burner account just to be safe.
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ First of all congrats to those who got in that early. For the rest of us no need
 
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
-55m ago
+1h ago
 
 ---
 
@@ -125,13 +125,13 @@ Yeah... just do what's "at least bearable" for 40+ years. Come live in reality a
 
 Thank you for your attention to this matter.
 
-18h ago
+19h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -139,13 +139,13 @@ Thank you for your attention to this matter.
 
 Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. The meme-money, moon-boy era is mostly over. What replaced it? Something way less flashy but way more dangerous: steady, unstoppable adoption. Institutions now treat Bitcoin like gold or commodities. It gets allocated, custodied, audited, and quietly stacked. That “boring” phase everyone complains about? That’s what maturity looks like. Volatility is down, wild swings are fewer, and price moves follow macro reality—interest rates, liquidity, global risk—not some random Twitter influencer. And let’s be real: it’s getting impossible to call Bitcoin a “toy” anymore. Banks offer custody. ETFs move billions. Public companies put BTC on their balance sheets. Governments write tax code specifically for it. Michael Saylor points out that no asset class in history has hit a trillion-dollar market cap and then gone to zero. You don’t build that level of liquidity and infrastructure around something nobody respects. The message is loud and clear: Bitcoin isn’t an experiment anymore. The financial system actively plans around it. Yeah, regulation showed up. But governments didn’t kill it—they absorbed it. Clearer rules, regulated exchanges, proper custody, reporting requirements—they all feel anti-cypherpunk, sure. But here’s the kicker: that same “boring” bureaucracy unlocked institutional money. Pension funds, insurers, and sovereign investors can’t touch anything non-compliant. The paperwork is dull, but it’s also the plumbing that lets trillions flow safely. Ironically, this “tamed” version of Bitcoin might be its most powerful form. A global asset that runs 24/7, moves across borders in minutes, and can’t be printed more quietly competes with gold, bonds, and even fiat as a long-term store of value. It’s not trying to smash banks overnight—it’s just steadily eroding their role. No hype, no chaos. Just inevitability. And that, my friends, is the real flex. Not insane pumps. Not viral hype. Longevity. When Bitcoin becomes something people hold, rebalance, and plan around instead of gambling on daily candles, it stops being entertainment and starts being financial infrastructure. In 2026, Bitcoin isn’t winning because it’s exciting. It’s winning because it’s unavoidable. And in crypto, boring usually means domination.
 
-2h ago
+3h ago
 
 ---
 
 **[The Great Maturation: Why Bitcoin in 2026 Is Boring, Bureaucratic, and Bigger Than Ever.](https://www.reddit.com/r/Bitcoin/comments/1qjovmp/the_great_maturation_why_bitcoin_in_2026_is/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-maturation-why-bitcoin) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-maturation-why-bitcoin) • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ Reuters • 1d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 2h ago
+ProPublica • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ ProPublica • 2h ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 3h ago
+wtop.com • 4h ago
 
 ---
 
@@ -187,13 +187,13 @@ wtop.com • 3h ago
 
 The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
 **[Wall Street Pulls Back From a Money-Spinning Bitcoin Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-Bloomberg • 17h ago
+Bloomberg • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg • 17h ago
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -219,7 +219,7 @@ Fast Company • 1d ago
 
 **[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Block • 17h ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 2d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 3d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -271,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 12h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 13h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 379 • ⏱️ 41:04 • 21h ago
+👁️ 43K • 👍 2K • 💬 392 • ⏱️ 41:04 • 22h ago
 
 ---
 
@@ -325,37 +325,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 5K • 👍 193 • 💬 115 • ⏱️ 32:39 • 16h ago
-
----
-
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 19K • 👍 388 • 💬 117 • ⏱️ 1:16 • 1d ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 37K • 👍 3K • 💬 224 • ⏱️ 18:43 • 22h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 908 • 💬 133 • ⏱️ 8:21 • 1d ago
+👁️ 5K • 👍 198 • 💬 126 • ⏱️ 32:39 • 17h ago
 
 ---
 
@@ -365,17 +335,37 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 110 • ⏱️ 20:50 • 23h ago
+👁️ 15K • 👍 1K • 💬 122 • ⏱️ 20:50 • 1d ago
 
 ---
 
-**[Michael Saylor Explains Why Bitcoin Doesn’t Need a New High](https://www.youtube.com/watch?v=Ey6aXnh2NKU)**
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
 
-Bitcoin doesn't need a new all-time high to be winning. In this clip, Michael Saylor explains why regulatory clarity, banking ...
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 18K • 👍 611 • 💬 31 • ⏱️ 1:32 • 1d ago
+👁️ 19K • 👍 395 • 💬 114 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 38K • 👍 3K • 💬 232 • ⏱️ 18:43 • 23h ago
+
+---
+
+**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 911 • 💬 133 • ⏱️ 8:21 • 1d ago
 
 ---
 
@@ -389,23 +379,33 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 ---
 
-**[Bitcoin Holders... Listen Up](https://www.youtube.com/watch?v=fSGj_s22Icc)**
-
-https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 512 • 💬 79 • ⏱️ 12:17 • 1d ago
-
----
-
 **[Global Elites Admit Defeat at Davos | Bitcoin Takes Center Stage](https://www.youtube.com/watch?v=u_QSkh-g_9I)**
 
 The elites lost control. Davos just admitted the world no longer trusts them — and markets responded with chaos. $1.3T wiped out.
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 3K • 💬 159 • ⏱️ 20:49 • 13h ago
+👁️ 27K • 👍 3K • 💬 178 • ⏱️ 20:49 • 14h ago
+
+---
+
+**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 12K • 👍 1K • 💬 133 • ⏱️ 7:51 • 20h ago
+
+---
+
+**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 15K • 👍 764 • 💬 68 • ⏱️ 19:22 • 1d ago
 
 ---
 
