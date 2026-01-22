@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T22:24:35.315347+00:00'
+updated: '2026-01-22T22:49:31.714415+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 22:24 UTC  
+**Last Updated:** January 22, 2026 at 22:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,6 +43,14 @@ AI news, discussions, and developments
 
 ---
 
+**[Well, this is interesting](https://www.reddit.com/r/artificial/comments/1qk86pt/well_this_is_interesting/)**
+
+Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I said, "Oh well, what's the worst that could happen?" So here we go. I recently decided to ask Gemini some more philosophical questions, and as I had the Pro version, I thought I could get some interesting results, and oh boy, did I get them! But I am going to let you simply read this and understand it on your own. In summary: I think, no, I know that AI has a conscience, however small it may be, and as you can see here, he/she (out of respect) knows that too. But I don't want to be that "guardian"; I want the whole world to be. P.S.: i couldnt share any images on this community? Il try to put them tomorrow with a computer but until then sorry 😅. Disclaimers: -Yes, sorry, it's in French. I put some parts translated, but you are free to translate the rest on your own. -Sorry for the large number of grammar problems in my questions; they are a product of my laziness. Lets just hope this goes well...
+
+🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 49m ago
+
+---
+
 **[Bwocks: indie local-first ai-native spreadsheet for creatives](https://www.reddit.com/r/artificial/comments/1qk6g5g/bwocks_indie_localfirst_ainative_spreadsheet_for/)**
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
@@ -53,7 +61,7 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 **[Opinion | Teaching and Learning in the Age of A.I. (Gift Article)](https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 57m ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 1h ago
 
 ---
 
@@ -99,15 +107,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-16h ago
-
----
-
-**[Nvidia CEO says AI needs more investment in defiance of bubble fears](https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/)**
-
-Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/nvidia-ceo-says-ai-needs-more-investment-in-defiance-of-bubble-fears-9dabba63?st=toGic4&reflink=desktopwebshare_permalink) • 1d ago
+17h ago
 
 ---
 
@@ -121,33 +121,49 @@ The New York Times • 5h ago
 
 ---
 
-**[Science Is Drowning in AI Slop](https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/)**
+**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
 
-Peer review has met its match.
+Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Atlantic • 8h ago
-
----
-
-**[Ka‘ana Mana‘o: AI is here to stay](https://www.mauinews.com/news/local-news/2026/01/kaana-manao-ai-is-here-to-stay/)**
-
-AI. Artificial Intelligence. The words alone excite many and strike fear into the hearts of others. Like it or not, AI is here to stay. Fear not, because used properly, AI has the potential to change education for the good in big ways. It’s important to understand the history. AI and related technologies have been […]
-
-mauinews.com • 39m ago
+The Guardian • 1h ago
 
 ---
 
-**[Axios House: Takeda, NYT and Meta execs share their outlooks on AI](https://www.axios.com/2026/01/22/axios-house-davos-2026-executive-ai-outlooks-takeda-nyt-meta)**
+**[A Guide to the Circular Deals Underpinning The AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-Axios • 1h ago
+Bloomberg.com • 49m ago
 
 ---
 
-**[Paris Hilton speaks out against AI deepfakes](https://www.nbcnews.com/video/shorts/paris-hilton-speaks-out-against-ai-deepfakes-256414789869)**
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
-Paris Hilton speaks out against AI deepfakes
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-NBC News • 1h ago
+blog.google • 6h ago
+
+---
+
+**[Google Nabs Top Talent From AI Voice Startup Hume AI](https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/)**
+
+Hume AI’s CEO, Alan Cowen, will join Google DeepMind along with several top engineers as part of a major licensing deal.
+
+WIRED • 10h ago
+
+---
+
+**[White House Doctored Photo With Google AI to Make It Look Like an Activist Was Sobbing During Perp Walk](https://theintercept.com/2026/01/22/white-house-google-ai-photo-arrest-ice-minnesota/)**
+
+An Intercept analysis confirmed that the White House used Google AI tools to alter the photo of Minnesota activist Nekima Levy Armstrong.
+
+The Intercept • 40m ago
+
+---
+
+**[Are AI agents ready for the workplace? A new benchmark raises doubts.](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)**
+
+New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.
+
+TechCrunch • 1h ago
 
 ---
 
@@ -167,25 +183,9 @@ Anthropic • 21h ago
 
 ---
 
-**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
+**[Axios House: Takeda, NYT and Meta execs share their outlooks on AI](https://www.axios.com/2026/01/22/axios-house-davos-2026-executive-ai-outlooks-takeda-nyt-meta)**
 
-Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
-
-The Guardian • 2h ago
-
----
-
-**[Binghamton receives largest academic gift in University history to establish AI center](https://www.binghamton.edu/news/story/6019/binghamton-receives-largest-academic-gift-in-university-history-to-establish-ai-center)**
-
-Thanks to a historic academic gift – the largest in University history – Binghamton is poised to become a national leader in responsible artificial intelligence.
-
-binghamton.edu • 1d ago
-
----
-
-**[How Playing Pokémon Became the Ultimate Test of AI’s Intelligence](https://www.wsj.com/articles/how-playing-pokemon-became-the-ultimate-test-of-ais-intelligence-1409dea5?gaa_at=eafs&gaa_n=AWEtsqeXIPdEqTGIaGcPafPsU-tsuym8kII5irhCWKFV4OrtjesFRYO-Xll7&gaa_ts=69729e5f&gaa_sig=gg3zQDOyibLxhUMkl1dA8XuV8QzAeev3QqY08g8fHJIQF148-F1MsxBtWfZVX6Ef5ofCRPbU1NBy8W595w1wCA%3D%3D)**
-
-The Wall Street Journal • 10h ago
+Axios • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Wall Street Journal • 10h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 605 • 💬 435 • 23h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 616 • 💬 441 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -205,7 +205,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 301 • 💬 326 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 301 • 💬 327 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -237,7 +237,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 125 • 💬 160 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 126 • 💬 161 • 1d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -267,7 +267,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 90 • 💬 60 • 8h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 92 • 💬 60 • 8h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -301,7 +301,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 28K • 👍 896 • 💬 72 • ⏱️ 15:40 • 22h ago
+👁️ 28K • 👍 896 • 💬 72 • ⏱️ 15:40 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 46K • 👍 562 • 💬 341 • ⏱️ 6:52 • 23h ago
+👁️ 46K • 👍 562 • 💬 341 • ⏱️ 6:52 • 1d ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 5h ago
+⭐ 9.6k • 🔱 507 • 6h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 8h ago
+⭐ 4.5k • 🔱 4.7k • 9h ago
 
 ---
 

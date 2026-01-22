@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T22:24:35.333061+00:00'
+updated: '2026-01-22T22:49:31.732828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 22:24 UTC  
+**Last Updated:** January 22, 2026 at 22:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 ---
 
-**[Gazebo Community Meetup : Forest3D Automated Natural Terrain & Asset Generation -- Jan 28th -- Online [details inside]](https://www.reddit.com/r/robotics/comments/1qk78jv/gazebo_community_meetup_forest3d_automated/)**
+**[ROS Meetup Singapore -- February 10th [details inside]](https://www.reddit.com/r/robotics/comments/1qk75uv/ros_meetup_singapore_february_10th_details_inside/)**
 
 RSVP Here
 
@@ -80,7 +80,7 @@ RSVP Here
 
 ---
 
-**[ROS Meetup Singapore -- February 10th [details inside]](https://www.reddit.com/r/robotics/comments/1qk75uv/ros_meetup_singapore_february_10th_details_inside/)**
+**[Gazebo Community Meetup : Forest3D Automated Natural Terrain & Asset Generation -- Jan 28th -- Online [details inside]](https://www.reddit.com/r/robotics/comments/1qk78jv/gazebo_community_meetup_forest3d_automated/)**
 
 RSVP Here
 
@@ -106,7 +106,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -122,11 +122,19 @@ Microsoft • 1d ago
 
 ---
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Yahoo Finance • 1d ago
+Business Insider • 12h ago
+
+---
+
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 2d ago
 
 ---
 
@@ -134,7 +142,15 @@ Yahoo Finance • 1d ago
 
 Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -154,14 +170,6 @@ CNBC • 1d ago
 
 ---
 
-**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
-
-OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
-
-Business Insider • 12h ago
-
----
-
 **[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
 
 Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
@@ -175,14 +183,6 @@ Yahoo Finance • 7h ago
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
 ktiv.com • 1d ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 2d ago
 
 ---
 

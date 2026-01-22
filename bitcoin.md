@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T22:24:35.323853+00:00'
+updated: '2026-01-22T22:49:31.723208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 22:24 UTC  
+**Last Updated:** January 22, 2026 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,595.90
+### $89,443.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.3%  
 **7d:** -6.5%  
 **30d:** +1.7%  
 **90d:** -20.0%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-10h ago
+11h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -118,6 +118,12 @@ Rank #1
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
 10h ago
+
+---
+
+**[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Opinion & Analysis pieces. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1qk5mig/your_daily_bitcoin_breakdown_newsletter_is_now/)**
+
+2h ago
 
 ---
 
@@ -135,15 +141,17 @@ Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. T
 
 ---
 
-**[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Opinion & Analysis pieces. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1qk5mig/your_daily_bitcoin_breakdown_newsletter_is_now/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+
+ProPublica • 1h ago
+
+---
 
 **[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
@@ -153,41 +161,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC rises above $90,000 as Trump speaks in Davos](https://www.coindesk.com/markets/2026/01/21/bitcoin-bounces-to-usd89-500-gold-falls-as-trump-speaks-in-davos)**
+**[Michael Saylor’s Bitcoin Playbook: What He Says Will Win](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-says-213232744.html)**
 
-Trump said U.S. prepares to negotiate to acquire Greenland that will not pose threat to NATO.
+When the world’s most vocal Bitcoin maximalist names a stock alongside BTC as a “best performing asset of the decade,” you pay attention. Michael Saylor doesn’t do diversification. He does conviction. His two bets for the next ten years are Bitcoin and Nvidia (NASDAQ:NVDA). That pairing reveals how he sees digital transformation playing out. A ... Michael Saylor’s Bitcoin Playbook: What He Says Will Win
 
-CoinDesk • 1d ago
-
----
-
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
-
-The Block • 1d ago
-
----
-
-**[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
-
-Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
-
-The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
-
-"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
-
-CoinDesk • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,9 +177,11 @@ wtop.com • 13h ago
 
 ---
 
-**[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
+**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
 
-Yahoo Finance UK • 11h ago
+The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
+
+Fortune • 1d ago
 
 ---
 
@@ -211,11 +191,31 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeon9WToE2YNFVDbTTvfY4eMevYGCscDwU0CQPvzk6PbPsdCwXuS2iv&gaa_ts=6972acdf&gaa_sig=NUDGNA1o3VXZSXsflvFZPQxrDK21nw7kZjE9kySjK5V7LpW44M9BEZOg0oWlYusXn1eCqfhLxrdb2Wazmc6yvw%3D%3D)**
+
+MarketWatch • 6h ago
+
+---
+
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
+
+The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
+
+CoinDesk • 2h ago
+
+---
+
 **[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
 The Motley Fool • 1d ago
+
+---
+
+**[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
+
+The Block • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 4d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 5d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 

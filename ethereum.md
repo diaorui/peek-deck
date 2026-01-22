@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T22:24:35.329827+00:00'
+updated: '2026-01-22T22:49:31.729365+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 22:24 UTC  
+**Last Updated:** January 22, 2026 at 22:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,948.08
+### $2,953.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -10.7%  
-**30d:** -0.1%  
-**90d:** -25.5%  
-**1y:** -11.7%  
+**24h:** -1.3%  
+**7d:** -10.4%  
+**30d:** +0.2%  
+**90d:** -25.3%  
+**1y:** -11.4%  
 
 ---
 
@@ -67,6 +67,14 @@ No max supply
 ---
 
 ## Reddit: r/ethereum
+
+**[Taking back lost ground in computing self-sovereignty, beyond Ethereum](https://www.reddit.com/r/ethereum/comments/1qk7u95/taking_back_lost_ground_in_computing/)**
+
+2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
+
+1h ago
+
+---
 
 **[Daily General Discussion January 22, 2026](https://www.reddit.com/r/ethereum/comments/1qjmmhb/daily_general_discussion_january_22_2026/)**
 
@@ -92,14 +100,6 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 ---
 
-**[Taking back lost ground in computing self-sovereignty, beyond Ethereum](https://www.reddit.com/r/ethereum/comments/1qk7u95/taking_back_lost_ground_in_computing/)**
-
-2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
-
-38m ago
-
----
-
 **[Store your eth on these anonymous wallets! (Muzan Jackson)](https://www.reddit.com/r/ethereum/comments/1qk6etf/store_your_eth_on_these_anonymous_wallets_muzan/)**
 
 1h ago
@@ -110,7 +110,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-15h ago
+16h ago
 
 ---
 
@@ -166,17 +166,17 @@ AMBCrypto • 17h ago
 
 ---
 
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
+
+The Block • 5h ago
+
+---
+
 **[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
 CoinDesk • 8h ago
-
----
-
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
-
-The Block • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -204,15 +204,9 @@ dlnews.com • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqf1sdhsdLAfCHB0fp2KPDCTrOShas1Luqsz62JlCVX19DYnGsQxlfcw&gaa_ts=69729e62&gaa_sig=Znpw-mS7v-irhmhfK5QG94_LXyIGMR91Sc3qPlhwuhzUyCHIgUXv87bmUFL1x3OmTkhflAWEK1qnvHkxc6rEoQ%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqftpeh35YzIrS9ZvDpgTboBDzljmec3tfUNpkRBl1NedwIshPf8wkWY&gaa_ts=6972ace1&gaa_sig=m8F5tjg_mH97aZKsdwx-3sXYtTzxR6Yeb6mCRxBPCxPlrKBy3Np4uMzO6zbrhVig4ii5BChcprgwgDnlAkTlgw%3D%3D)**
 
 MarketWatch • 2d ago
-
----
-
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
-
-The Block • 1d ago
 
 ---
 
@@ -221,6 +215,12 @@ The Block • 1d ago
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
 Decrypt • 5h ago
+
+---
+
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+
+The Block • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 1h ago
+👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 2h ago
 
 ---
 
