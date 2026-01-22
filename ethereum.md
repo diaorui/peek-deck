@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T10:56:17.380819+00:00'
+updated: '2026-01-22T11:26:10.290883+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 10:56 UTC  
+**Last Updated:** January 22, 2026 at 11:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-52m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 21h ago
 
 The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ MarketWatch • 1d ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 21h ago
+Finance Magnates • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 10h ago
+👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 262 • ⏱️ 19:48 • 13h ago
+👁️ 3K • 👍 262 • ⏱️ 19:48 • 14h ago
 
 ---
 
@@ -286,7 +286,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 16h ago
+👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 6h ago
+👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 7h ago
 
 ---
 
