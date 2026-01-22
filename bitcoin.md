@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T01:53:54.951162+00:00'
+updated: '2026-01-22T03:49:27.623596+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 01:53 UTC  
+**Last Updated:** January 22, 2026 at 03:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,105.54
+### $89,872.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -5.7%  
-**30d:** +2.7%  
-**90d:** -19.3%  
-**1y:** -13.3%  
+**24h:** +0.6%  
+**7d:** -5.9%  
+**30d:** +2.4%  
+**90d:** -19.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sold my sats, took my GF on Vacation](https://www.reddit.com/r/Bitcoin/comments/1qjfakq/sold_my_sats_took_my_gf_on_vacation/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 hold strong
 
-9h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ hold strong
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-4h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ hold strong
 
 Thank you for your attention to this matter.
 
-7h ago
+9h ago
 
 ---
 
@@ -111,39 +111,39 @@ Thank you for your attention to this matter.
 
 Here is me saying Bitcoin in January 2026
 
-58m ago
-
----
-
-**[Is Bitcoin about to make traditional retirement look like a joke?](https://www.reddit.com/r/Bitcoin/comments/1qj90oh/is_bitcoin_about_to_make_traditional_retirement/)**
-
-Traditional retirement accounts like 401(k)s typically expose you to full market risk with no principal guarantee, and high fees reduce your net returns. Is this a game changer? https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life
-
-5h ago
-
----
-
-**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
-
-11h ago
-
----
-
-**[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
-
-7h ago
+2h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-49m ago
+2h ago
+
+---
+
+**[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
+
+13h ago
 
 ---
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-3h ago
+5h ago
+
+---
+
+**[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
+
+9h ago
+
+---
+
+**[I found this in my old pictures](https://www.reddit.com/r/Bitcoin/comments/1qipbm8/i_found_this_in_my_old_pictures/)**
+
+and a small piece of me died again
+
+22h ago
 
 ---
 
@@ -155,29 +155,23 @@ Traditional retirement accounts like 401(k)s typically expose you to full market
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
-The Block • 6h ago
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
----
-
-**[FBTC vs. BITQ: Direct Bitcoin Exposure or Crypto Through Public Markets](https://www.fool.com/coverage/etfs/2026/01/21/fbtc-vs-bitq-direct-bitcoin-exposure-or-crypto-through-public-markets/)**
-
-The Fidelity Wise Origin Bitcoin Fund tracks bitcoin directly, while the Bitwise Crypto Industry Innovators ETF invests in companies tied to the crypto economy. This ETF comparison shows why those differences matter when volatility picks up.
-
-The Motley Fool • 1h ago
+The Motley Fool • 12h ago
 
 ---
 
-**[Steak ‘n Shake restaurant chain announces plan to pay Bitcoin bonus to its employees](https://ca.finance.yahoo.com/news/steak-n-shake-restaurant-chain-013536323.html)**
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
 
-Employees must remain with the company for at least two years before they can access, transfer, or sell the accumulated Bitcoin
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
 
-Yahoo! Finance Canada • 11m ago
+CoinDesk • 10h ago
 
 ---
 
@@ -201,23 +195,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
+**[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
 
-The bitcoin price reclaimed $90,000 after a volatile trading day.
+Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Bitcoin Magazine • 4h ago
-
----
-
-**[This bitcoin evangelist says inflation is far exceeding official statistics — by tracking ribeye prices](https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?gaa_at=eafs&gaa_n=AWEtsqdt_RCyqVR_T8OSSeI5EZJFlK0Mj9ZIn1SSqMAvs1IUSDlLlIsqym7j&gaa_ts=69718696&gaa_sig=BF--wHGk7LpYO6dDYLVoIsmQQNL_psh6LKcra__KTsHTTutbV3zWR1iKxBcKSjOZ64zfeUT9CsfgG6qAewrF_A%3D%3D)**
-
-MarketWatch • 15h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[SkyBridge bets on rising volatility, cautiously optimistic on bitcoin, Scaramucci says](https://www.reuters.com/business/davos/skybridge-bets-rising-volatility-cautiously-optimistic-bitcoin-scaramucci-says-2026-01-20/)**
+**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-Reuters • 1d ago
+The Block • 8h ago
+
+---
+
+**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
+
+ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
+
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Delaware Life partners with BlackRock to offer bitcoin exposure through fixed index annuity](https://www.theblock.co/post/386345/delaware-life-partners-blackrock-bitcoin-exposure-fixed-index-annuity)**
+
+The Block • 1d ago
 
 ---
 
@@ -269,7 +271,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 1h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 3h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -313,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 308 • ⏱️ 41:04 • 10h ago
+👁️ 36K • 👍 2K • 💬 308 • ⏱️ 41:04 • 12h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 2K • 👍 126 • 💬 74 • ⏱️ 32:39 • 5h ago
+👁️ 2K • 👍 126 • 💬 74 • ⏱️ 32:39 • 7h ago
 
 ---
 
@@ -333,7 +335,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 844 • 💬 99 • ⏱️ 20:50 • 12h ago
+👁️ 12K • 👍 844 • 💬 99 • ⏱️ 20:50 • 14h ago
 
 ---
 
@@ -353,7 +355,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 31K • 👍 2K • 💬 197 • ⏱️ 18:43 • 11h ago
+👁️ 31K • 👍 2K • 💬 197 • ⏱️ 18:43 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T01:53:54.957242+00:00'
+updated: '2026-01-22T03:49:27.629703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 01:53 UTC  
+**Last Updated:** January 22, 2026 at 03:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,993.30
+### $3,005.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -8.2%  
-**30d:** +2.8%  
-**90d:** -23.3%  
-**1y:** -9.1%  
+**24h:** +0.8%  
+**7d:** -8.8%  
+**30d:** +2.0%  
+**90d:** -23.9%  
+**1y:** -9.8%  
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
+
+---
+
+**[Is exiting staking supposed to be this long? 64 days now](https://www.reddit.com/r/ethereum/comments/1qjjsp6/is_exiting_staking_supposed_to_be_this_long_64/)**
+
+I staked my ethereum on etherstake and entered the exit queue 64 days ago and I still haven’t got my crypto back. I’m getting kinda annoyed and worried is anyone else facing this or did fall for some sort of scam? Is there something I’m doing wrong? It says I entered exit queue on etherscan.
+
+8m ago
+
+---
+
+**[Is the ethgas (GWEI) coin legit?](https://www.reddit.com/r/ethereum/comments/1qjgrub/is_the_ethgas_gwei_coin_legit/)**
+
+Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same?
+
+2h ago
 
 ---
 
@@ -80,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-17h ago
+19h ago
 
 ---
 
@@ -88,7 +104,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
 
-3m ago
+1h ago
 
 ---
 
@@ -96,7 +112,7 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-15h ago
+17h ago
 
 ---
 
@@ -130,22 +146,6 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 ---
 
-**[NYSE Announces New Tokenization Platform with 24/7 Trading](https://www.reddit.com/r/ethereum/comments/1qhew5g/nyse_announces_new_tokenization_platform_with_247/)**
-
-Everyone else is building infrastructure to tokenize existing assets, NYSE is building a new way to bring equities on-chain AND the venue to trade them.
-
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/nyse-tokenized-securities-platform-24-7-trading-instant-settlement/) • 2d ago
-
----
-
-**[Are Staking Providers (Everstake) safe?](https://www.reddit.com/r/ethereum/comments/1qhnhc6/are_staking_providers_everstake_safe/)**
-
-Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor and I’m looking at staking via Everstake. My main concern is custody/safety of principal, not yield (I’m fine with downtime/slashing-type risks). If I stake through my Trezor UI, do I keep custody / control of withdrawal credentials the whole time? In other words: is the main theft risk basically just my seed phrase / signing something malicious, or is there any scenario where Everstake (or an outage on their side) could put my ETH at risk? Any pointers on what to verify (withdrawal address, contract, token received, etc.) would be appreciated.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,27 +154,13 @@ Hey everyone — ETH staking noob here. I moved my ETH from Coinbase to a Trezor
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 2h ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Says The Blockchain Must Achieve Full Quantum Resistance 'As Soon As Possible'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-020110620.html)**
-
-Ethereum should not wait until the last moment before working towards quantum resistance, co-founder Vitalik Buterin says. "We should resist the trap of saying ‘let’s delay quantum-resistance until the last possible moment in the name of ekeing [sic] out more...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum in 50 Years: Vitalik Isn’t Worried About Price—He’s Worried About Quantum](https://www.binance.com/fr-AF/square/post/35398303270458)**
-
-Binance • 5h ago
+Decrypt • 4h ago
 
 ---
 
 **[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -194,33 +180,47 @@ dlnews.com • 1d ago
 
 ---
 
-**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.nasdaq.com/articles/how-next-ethereum-could-help-you-retire-millionaire-0)**
-
-Key PointsOver the past decade, Ethereum delivered huge gains for investors, rising in price from $3 to $3,000.
-
-Nasdaq • 13h ago
-
----
-
-**[Ethereum Sentiment Flips Bearish as Traders Brace for Drop to $2.5K](https://decrypt.co/355323/ethereum-price-sentiment-bearish-myriad-traders)**
-
-Ethereum price faces bearish pressure as prediction markets show a 62.5% chance of ETH dropping to $2,500 before hitting $4,000.
-
-Decrypt • 3h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqd4Erh6tM8KkasYDGKJvju5Lt-2q7aqTaN5wdbZETcNsSW6fsJpo9Tm&gaa_ts=69718698&gaa_sig=m_j0vF9NvNUnd1nEpcDONKXING_rIxjx8gPXLetbudNkJBG1a3jDWUq-PDjyCBxsaTK3nuu3NwSbmEfo3Zc7Dg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
 **[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
 
 The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
 
 CoinDesk • 2d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfXKxftjCQBWbkxAZSOwhXVeFrHPH-vWQylHBbmCh-eisqtKleIPtIL&gaa_ts=6971a1b3&gaa_sig=obRu2-TSMiOWPjYzlGtDtzn8_hQb4AwGrh51bncxn0HYM2W8WWmBoOzsQegtek-wgE6dPdgzZnojW5FT3Vcl4g%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Ethereum Price Breaks Under $3K, Charts Flash Fresh Warnings](https://www.tradingview.com/news/newsbtc:ebf64d20a094b:0-ethereum-price-breaks-under-3k-charts-flash-fresh-warnings/)**
+
+Ethereum price started a fresh decline from the $3,200 resistance. ETH is now consolidating losses and is at risk of more losses below $2,880.Ethereum Price Dips Over 5%Ethereum price failed to remain stable above $3,200 and started a fresh decline, like Bitcoin. ETH price declined below $3,150 and…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqf3hq2CorvXVPBbezFZDp0QjDf_jsxuUIfxcxjruR3NiHUiy_Un-1ws&gaa_ts=6971a1b3&gaa_sig=ACPifMV4pwcYXKFjfKp0b45Yxih6Rbn_5VbnrmX-FUwEZBzhSHoRpArL3uNtLupFQYeFkh2VWsGM48uUPwqWKw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
+
+A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
+
+CryptoSlate • 18h ago
+
+---
+
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
+
+Key PointsCryptocurrencies are not stocks.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 981 • 👍 105 • 💬 44 • ⏱️ 8:24 • 1h ago
+👁️ 981 • 👍 105 • 💬 44 • ⏱️ 8:24 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 223 • 💬 195 • ⏱️ 22:48 • 5h ago
+👁️ 4K • 👍 223 • 💬 195 • ⏱️ 22:48 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 796 • 👍 79 • 💬 12 • ⏱️ 10:26 • 2h ago
+👁️ 796 • 👍 79 • 💬 12 • ⏱️ 10:26 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Daily pet videos
 
-👁️ 5K • 👍 4K • 1h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 110 • 💬 1 • ⏱️ 19:04 • 7h ago
+👁️ 1K • 👍 110 • 💬 1 • ⏱️ 19:04 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 1h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 7 • ⏱️ 6:37 • 13h ago
+👁️ 2K • 👍 134 • 💬 7 • ⏱️ 6:37 • 15h ago
 
 ---
 
@@ -304,7 +304,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 200 • ⏱️ 19:48 • 4h ago
+👁️ 2K • 👍 200 • ⏱️ 19:48 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 20 • 💬 4 • ⏱️ 5:25 • 16h ago
+👁️ 342 • 👍 20 • 💬 4 • ⏱️ 5:25 • 18h ago
 
 ---
 
