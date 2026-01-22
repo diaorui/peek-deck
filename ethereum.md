@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T19:45:24.217283+00:00'
+updated: '2026-01-22T20:30:16.383171+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 19:45 UTC  
+**Last Updated:** January 22, 2026 at 20:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -10.6%  
-**30d:** +0.0%  
-**90d:** -25.4%  
-**1y:** -11.6%  
+**24h:** -2.9%  
+**7d:** -10.8%  
+**30d:** -0.2%  
+**90d:** -25.6%  
+**1y:** -11.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 20h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -174,25 +174,25 @@ CoinDesk • 1h ago
 
 ---
 
-**[BlackRock Names Ethereum The “Toll Road” To Tokenization; Here’s What It Means](https://finance.yahoo.com/news/blackrock-names-ethereum-toll-road-170000815.html)**
+**[JPMorgan warns Ethereum's "Fusaka" boost won't last](https://ca.finance.yahoo.com/video/jpmorgan-warns-ethereums-fusaka-boost-195252213.html)**
 
-BlackRock names Ethereum the toll road to tokenization, highlighting ETH dominance in RWAs and long-term value.
+JPMorgan analysts are pouring cold water on Ethereum's latest upgrade, predicting the recent activity spike will fade. Despite the technical fix, the wall street giant says structural headwinds will be the roadblock for the network's long-term dominance. CoinDesk's Jennifer Sanasie breaks it down on "Chart of the Day," presented by Crypto.com.
 
-Yahoo Finance • 2h ago
+Yahoo! Finance Canada • 37m ago
 
 ---
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-1-171849723.html)**
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Yahoo Finance • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ dlnews.com • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdEo23k7Xsg-XxIlT0C4-SSBv5TdzEn-CjI_JufFmtkIwYjQg80OMcv&gaa_ts=69727d44&gaa_sig=ePD6I0eYRz8dzOIpl_GL8HTEfFr5Ebj8-DI9Reomy-kVJeTJtlO9KBTDOubyoxi5YgaLUdRe65mT1bJvhN-HJA%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqcMZZy08tG4z_dpNk1vdrydnGZWmvTRucNmLZGUzaQy8ldE30R1B_im&gaa_ts=69728c44&gaa_sig=M1T8zy6h3Tb5Rkr6v6nvN1S-kwII_NYrD6TcTpp2foXodBnGIcTC6c7QLjvvLSUDJYu4t0wvZ3UGtmWUy39qPg%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -236,7 +236,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 1h ago
+👁️ 2K • 👍 145 • 💬 17 • ⏱️ 19:54 • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 4h ago
+👁️ 4K • 👍 319 • 💬 40 • ⏱️ 17:24 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 19h ago
+👁️ 8K • 👍 335 • 💬 80 • ⏱️ 8:24 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 1h ago
+👁️ 3K • 👍 431 • 💬 21 • ⏱️ 9:51 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 5h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:34 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 9h ago
+👁️ 233 • 👍 14 • 💬 3 • ⏱️ 4:54 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 CRAZY チャンネル ナティ子
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 22h ago
+👁️ 8K • 👍 314 • 💬 206 • ⏱️ 22:48 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 5h ago
+👁️ 885 • 👍 83 • 💬 34 • ⏱️ 1:00:39 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 20h ago
+👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 21h ago
 
 ---
 
