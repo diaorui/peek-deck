@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T14:33:19.969089+00:00'
+updated: '2026-01-22T15:32:33.791539+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 14:33 UTC  
+**Last Updated:** January 22, 2026 at 15:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-9m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ not like real human running to you, each time when team bring him running outsid
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 7h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Helloo! I am about to graduate high school in a month and I will have 5 months b
 
 Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesome and creative ideas in my last post about what you’d use a home robotic arm for。 The discussion was fantastic – from cooking and cleaning to playing with pets and even folding laundry, your ideas were incredibly insightful. Now, I’m back with the natural next question: Pricing. Let’s set some common assumptions to make this thought experiment easier: • The robotic arm is reliable, safe, and smart enough to handle the varied tasks we discussed. • It’s a standalone device you can place on a table or counter, or mount on a wall/ceiling track for greater range. • Software and basic grippers are included. The Core Question: Given your intended use case from the last thread, what do you think is a fair price for such a device, and what is the absolute maximum you would personally consider paying? To help structure your thoughts, you might consider: • The “Impulse Buy” Price: A price so reasonable you’d buy it to try out, even for just one main task. • The “Value Anchor” Price: A price that feels like a solid deal for the time and effort it saves. • The “Serious Investment” Price: The point where you’d need to seriously justify it as a major home appliance/tool. To make it engaging, let’s do a quick poll in the comments, and please expand on your vote! • Under $500 USD • $500 — $1,500 USD • $1,500 — $3,000 USD • $3,000 — $5,000 USD • Over $5,000 USD Please share your reasoning! • Would you prefer a cheaper, simpler model for one task, or a more expensive, versatile one? • Does the price change if it’s a one-time payment vs. a base unit + paid software modules? • How much would it need to save you (in time or hired help money) to be worth it? This feedback is invaluable. It’s not about finding a single “right” price, but understanding the spectrum of what feels valuable to different people with different use cases. Thanks again for helping shape this futuristic idea with some grounded reality!
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi again, r/Your Subreddit! A huge thank you to everyone who shared their awesom
 
 Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
 
-23h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their we
 
 “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -132,7 +132,7 @@ Microsoft • 1d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -140,13 +140,13 @@ Business Insider • 4h ago
 
 Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
 
-Electrek • 13h ago
+Electrek • 14h ago
 
 ---
 
 **[Factory Humanoid Robots: Discerning Fact from Fiction](https://www.eetimes.com/factory-humanoid-robots-discerning-fact-from-fiction/)**
 
-EE Times • 19h ago
+EE Times • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ EE Times • 19h ago
 
 What’s standing in the way of our robot overlords.
 
-vox.com • 2h ago
+vox.com • 3h ago
 
 ---
 
@@ -162,7 +162,7 @@ vox.com • 2h ago
 
 Robotics Engineering master's student Roxann Poole is applying her advanced automation skills during an internship at Pratt & Whitney, actively developing technologies to support Georgia's aerospace workforce.
 
-Columbus State University News • 1h ago
+Columbus State University News • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 1d ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 17h ago
+ktiv.com • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 582 • 👍 12 • 💬 1 • ⏱️ 0:33 • 3h ago
+👁️ 582 • 👍 12 • 💬 1 • ⏱️ 0:33 • 4h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T14:33:19.965899+00:00'
+updated: '2026-01-22T15:32:33.788331+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 14:33 UTC  
+**Last Updated:** January 22, 2026 at 15:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 29m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 1d ago
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqexOI6_iJtA9SdxJ_bIo6_azw15g2LDETnY3wHN8rx24e3ZlgxcWCo4&gaa_ts=6972389a&gaa_sig=UFURBb-6YWkHzWyeyMkQnST9uFJapWZSwGaDvHcnxJOuxxff4u2PTrj8YLWm_MZfcIIuMi6UzumTtYAx8A8CNw%3D%3D)**
 
-MarketWatch • 1d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ Nasdaq • 1d ago
 
 Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 309 • 💬 98 • ⏱️ 8:24 • 14h ago
+👁️ 7K • 👍 309 • 💬 98 • ⏱️ 8:24 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Tids
 
-👁️ 3K • 👍 653 • 1h ago
+👁️ 3K • 👍 653 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 15h ago
+👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 310 • 💬 205 • ⏱️ 22:48 • 17h ago
+👁️ 7K • 👍 310 • 💬 205 • ⏱️ 22:48 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 103 • 👍 10 • 💬 3 • ⏱️ 4:54 • 4h ago
+👁️ 103 • 👍 10 • 💬 3 • ⏱️ 4:54 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 282 • ⏱️ 19:48 • 17h ago
+👁️ 3K • 👍 282 • ⏱️ 19:48 • 18h ago
 
 ---
 
@@ -296,7 +296,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 13h ago
+👁️ 5K • 👍 4K • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 127 • 💬 1 • ⏱️ 19:04 • 20h ago
+👁️ 1K • 👍 127 • 💬 1 • ⏱️ 19:04 • 21h ago
 
 ---
 
@@ -316,7 +316,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 684 • 💬 121 • ⏱️ 15:18 • 10h ago
+👁️ 4K • 👍 684 • 💬 121 • ⏱️ 15:18 • 11h ago
 
 ---
 
