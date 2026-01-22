@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T11:26:10.276405+00:00'
+updated: '2026-01-22T11:46:37.471780+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - videos
 - repositories
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 11:26 UTC  
+**Last Updated:** January 22, 2026 at 11:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,27 +43,11 @@ AI news, discussions, and developments
 
 ---
 
-**[CEOs say AI is making work more efficient, employees tell a different story](https://www.reddit.com/r/artificial/comments/1qjp9w9/ceos_say_ai_is_making_work_more_efficient/)**
-
-How much time workers say the technology saves them on the job is vastly different from what executives report.
-
-🔗 [wsj.com](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) • 2h ago
-
----
-
 **[What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?](https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/)**
 
 As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
 
 15h ago
-
----
-
-**[Accenture CEO Julie Sweet on AI: It's "going to change how we all live day to day."](https://www.reddit.com/r/artificial/comments/1qjpggf/accenture_ceo_julie_sweet_on_ai_its_going_to/)**
-
->Accenture CEO Julie Sweet joins 'Worldwide Exchange' to discuss AI's impact on the workforce, economic themes, and more. https://www.youtube.com/watch?app=desktop&v=\_7b-cLNmHE4
-
-2h ago
 
 ---
 
@@ -79,7 +63,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-5h ago
+6h ago
 
 ---
 
@@ -91,19 +75,17 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 ---
 
+**[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
+
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 34m ago
+
+---
+
 **[google gemini3 absolutely SMOKES qwen3 coder](https://www.reddit.com/r/artificial/comments/1qj3e0z/google_gemini3_absolutely_smokes_qwen3_coder/)**
 
 i installed qwen3 coder 30b locally and i am running it as an agent using my own llm controller,and i am running gemini 3 from google antigravity. i asked both to complete a set of tasks. 1-create a game of tic tac toe 2-create a game website as a prop 3-create a blue background with a rotating cube. 4-Write an HTML file with CSS that creates a fully responsive three-column layout. It must collapse to a single column on screens under 600px. Do not use any frameworks. 5-Write an HTML file that generates a procedural, animated starfield background using the <canvas> element. The stars should move at different speeds to simulate parallax depth. Include a toggle that switches between “warp speed” and normal mode. first task was a complete flop,qwen3 was incapable of correctly making a tic tac toe game. second task was a disaster, the first time i asked it completely crashed the llm, upon reloading and asking it again,it was able to finish the job,but its result was far behind gemini 3 in terms of quality. third task it completed the request, but gemini 3 still edged it out in terms of visuals. fourth task was almost the same,but gemini added a black title background,so it edged it out fifth task was the same as the second task,it crashed qwen3. upon reloading and reprompting,it uh..certainly made a file?... its not very good tbh. (link to pictures of the outcomes) https://imgur.com/a/SHnMLdP in all tasks,gemini absolutely smoked qwen3 coder and its not even close,im looking forward to having better locally run LLM's,because at the very least,qwen 3 is NOT good and i would NOT trust it for anything. would you guys have any recommendations for a locally run llm that is better than qwen3 that i could test? i can compare suggestions to gemini 3 (as a sidebit,i had asked qwen3 to make a calculator with a gui,it made the gui wrong and made 1+1=3)
 
 18h ago
-
----
-
-**[Microsoft launches new AI model for real-world robotic learning](https://www.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/)**
-
-"Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 10h ago
 
 ---
 
@@ -115,9 +97,69 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 ---
 
+**[Microsoft launches new AI model for real-world robotic learning](https://www.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/)**
+
+"Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 10h ago
+
+---
+
+**[Wikipedia formalizes paid agreements with AI companies for the use of its data](https://www.reddit.com/r/artificial/comments/1qj7v38/wikipedia_formalizes_paid_agreements_with_ai/)**
+
+The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
+
+16h ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[Designing AI-resistant technical evaluations](https://www.anthropic.com/engineering/AI-resistant-technical-evaluations)**
+
+What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
+
+Anthropic • 10h ago
+
+---
+
+**[Big Tech earnings put spotlight on AI and memory shortage as Trump tariff threats loom](https://finance.yahoo.com/news/big-tech-earnings-put-spotlight-on-ai-and-memory-shortage-as-trump-tariff-threats-loom-172319701.html)**
+
+Big Tech earnings will put a spotlight on the continued AI build-out, memory shortage, and more.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Nvidia's Huang says AI boom will create 'six-figure salaries' for those building chip factories](https://www.cnbc.com/2026/01/22/nvidia-huang-blue-collar-jobs-salaries-skilled-trades.html)**
+
+"We're talking about six-figure salaries for people who are building chip factories or computer factories or AI factories," Nvidia's Jensen Huang said at WEF.
+
+CNBC • 1h ago
+
+---
+
+**[Global Chip Stocks Soar as Huang Helps Fuel AI Euphoria at Davos](https://www.bloomberg.com/news/articles/2026-01-22/global-chip-stocks-climb-as-huang-helps-fuel-ai-frenzy-at-davos)**
+
+Bloomberg • 8h ago
+
+---
+
+**[Rollout of AI may need to be slowed to ‘save society’, says JP Morgan boss](https://www.theguardian.com/technology/2026/jan/21/rollout-ai-slowed-save-society-jp-morgan-jamie-dimon-jensen-huang)**
+
+Jamie Dimon warns of civil unrest but Nvidia’s Jensen Huang argues tech will create rather than destroy jobs
+
+The Guardian • 16h ago
+
+---
+
+**[Company boards scramble to adjust to AI](https://www.axios.com/2026/01/22/company-boards-scramble-ai)**
+
+Axios • 1h ago
+
+---
 
 **[Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)**
 
@@ -125,11 +167,11 @@ The Information • 15h ago
 
 ---
 
-**[Apple is reportedly working on an AI pin wearable that is AirTag-sized](https://mashable.com/article/apple-working-on-ai-pin-wearable-airtag-sized-report)**
+**[Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)**
 
-Can Apple figure out AI wearables where others have failed? We may soon find out.
+Should this wearable materialize, it could be released as early as 2027, according to a report on the device.
 
-Mashable • 12h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -141,53 +183,9 @@ Fortune • 1h ago
 
 ---
 
-**[Designing AI-resistant technical evaluations](https://www.anthropic.com/engineering/AI-resistant-technical-evaluations)**
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
-
-Anthropic • 10h ago
-
----
-
-**[Company boards scramble to adjust to AI](https://www.axios.com/2026/01/22/company-boards-scramble-ai)**
-
-Axios • 1h ago
-
----
-
-**[Trump wants Nvidia to sell powerful AI chips to Beijing. Washington’s China hawks are pushing back](https://www.cnbc.com/2026/01/22/trump-nvidia-ai-chip-exports-china-congress-bill.html)**
-
-U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
-
-CNBC • 2h ago
-
----
-
-**[Alibaba Is Said to Plan IPO for AI Chipmaking Unit T-Head](https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head)**
-
-Bloomberg • 2h ago
-
----
-
-**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
-
-Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
-
-Microsoft • 21h ago
-
----
-
-**[Job Applicants Sue A.I. Recruitment Tool Company](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
-
-The New York Times • 16h ago
-
----
-
-**[Nvidia CEO Jensen Huang says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked because someone needs to build all these new AI centers](https://fortune.com/2026/01/21/nvidia-ceo-jensen-huang-skilled-trade-job-boom-ai-construction-six-figure-salaries-plumbing-construction-electricans/)**
-
-The AI boom is threatening white-collar entry jobs—but it’s creating a booming six-figure opportunity for electricians, plumbers, and construction workers.
-
-Fortune • 19h ago
+The New York Times • 1d ago
 
 ---
 
@@ -199,7 +197,7 @@ Fortune • 19h ago
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 297 • 💬 255 • 21h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 297 • 💬 256 • 22h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -207,7 +205,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 213 • 💬 142 • 12h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 252 • 💬 168 • 13h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -245,7 +243,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 137 • 💬 141 • 14h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 153 • 💬 163 • 14h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -253,7 +251,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 124 • 💬 151 • 21h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 124 • 💬 154 • 21h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -281,7 +279,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 28K • 👍 366 • 💬 225 • ⏱️ 6:52 • 12h ago
+👁️ 31K • 👍 401 • 💬 241 • ⏱️ 6:52 • 13h ago
 
 ---
 
@@ -291,17 +289,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 31K • 👍 739 • 💬 281 • ⏱️ 12:14 • 1d ago
-
----
-
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
-
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
-
-📺 AI Revolution
-
-👁️ 21K • 👍 704 • 💬 67 • ⏱️ 15:40 • 11h ago
+👁️ 32K • 👍 761 • 💬 286 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -311,7 +299,17 @@ OpenAI coming out with a bunch of huge news lately, and it all means something i
 
 📺 Matthew Berman
 
-👁️ 81K • 👍 3K • 💬 619 • ⏱️ 18:33 • 2d ago
+👁️ 81K • 👍 3K • 💬 621 • ⏱️ 18:33 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+
+📺 Love And Peace
+
+👁️ 207K • 👍 656 • 💬 19 • ⏱️ 11:47 • 21h ago
 
 ---
 
@@ -321,7 +319,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 40K • 👍 2K • 💬 1K • ⏱️ 25:46 • 15h ago
+👁️ 46K • 👍 2K • 💬 1K • ⏱️ 25:46 • 16h ago
 
 ---
 
@@ -335,23 +333,23 @@ In today's episode of The Infographics Show, artificial intelligence made work e
 
 ---
 
+**[What&#39;s Even The Point Anymore? ...The AI Takeover of Music](https://www.youtube.com/watch?v=gh20tavQqxk)**
+
+This is a weird and difficult topic. Curious to hear your thoughts. Follow me! Instagram: https://bit.ly/2WoR7W1 Twitter: ...
+
+📺 Charles Cornell
+
+👁️ 97K • 👍 9K • 💬 3K • ⏱️ 16:19 • 1d ago
+
+---
+
 **[Don&#39;t Learn AI Without Learning these Fundamentals](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
 
 In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
 
 📺 Parker Prompts
 
-👁️ 18K • 💬 19 • ⏱️ 10:12 • 21h ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
-
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
-
-📺 Love And Peace
-
-👁️ 188K • 👍 577 • 💬 14 • ⏱️ 11:47 • 21h ago
+👁️ 18K • 💬 19 • ⏱️ 10:12 • 22h ago
 
 ---
 
@@ -361,17 +359,17 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Ishan Sharma
 
-👁️ 14K • 👍 1K • 💬 38 • ⏱️ 9:17 • 21h ago
+👁️ 15K • 👍 1K • 💬 40 • ⏱️ 9:17 • 22h ago
 
 ---
 
-**[What&#39;s Even The Point Anymore? ...The AI Takeover of Music](https://www.youtube.com/watch?v=gh20tavQqxk)**
+**[Hassabis on an AI Shift Bigger Than Industrial Age](https://www.youtube.com/watch?v=BbIaYFHxW3Y)**
 
-This is a weird and difficult topic. Curious to hear your thoughts. Follow me! Instagram: https://bit.ly/2WoR7W1 Twitter: ...
+Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead in artificial intelligence, including ...
 
-📺 Charles Cornell
+📺 Bloomberg Live
 
-👁️ 94K • 👍 8K • 💬 3K • ⏱️ 16:19 • 1d ago
+👁️ 90K • 👍 2K • 💬 333 • ⏱️ 26:04 • 1d ago
 
 ---
 
@@ -387,19 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 123,542 • ❤️ 932 • 1d ago
-
----
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 10,770 • ❤️ 938 • 7d ago
+⬇️ 123,542 • ❤️ 945 • 1d ago
 
 ---
 
@@ -411,7 +397,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 45,447 • ❤️ 467 • 6d ago
+⬇️ 45,447 • ❤️ 472 • 6d ago
 
 ---
 
@@ -421,29 +407,19 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 9,062 • ❤️ 345 • 1d ago
+⬇️ 9,062 • ❤️ 364 • 1d ago
 
 ---
 
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
 
-*Kyutai*
+*Z.ai*
 
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
 
-⬇️ 38,820 • ❤️ 397 • 2d ago
+`text-to-image`
 
----
-
-**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
-
-*Lightricks*
-
-LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
-
-`image-to-video`
-
-⬇️ 1,963,151 • ❤️ 1,253 • 2d ago
+⬇️ 10,770 • ❤️ 942 • 7d ago
 
 ---
 
@@ -455,7 +431,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 43,192 • ❤️ 289 • 6d ago
+⬇️ 43,192 • ❤️ 291 • 6d ago
 
 ---
 
@@ -467,19 +443,17 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 28,939 • ❤️ 260 • 6d ago
+⬇️ 28,939 • ❤️ 261 • 6d ago
 
 ---
 
-**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
 
-*Google*
+*Kyutai*
 
-MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-`image-text-to-text` `4.3B`
-
-⬇️ 83,818 • ❤️ 315 • 7d ago
+⬇️ 38,820 • ❤️ 399 • 2d ago
 
 ---
 
@@ -491,7 +465,31 @@ TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 lan
 
 `image-text-to-text` `28.8B`
 
-⬇️ 22,589 • ❤️ 241 • 6d ago
+⬇️ 22,589 • ❤️ 243 • 6d ago
+
+---
+
+**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
+
+*Lightricks*
+
+LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
+
+`image-to-video`
+
+⬇️ 1,963,151 • ❤️ 1,251 • 2d ago
+
+---
+
+**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+
+*Unsloth AI*
+
+GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+
+`text-generation` `29.9B`
+
+⬇️ 111,506 • ❤️ 211 • 7h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 501 • 3h ago
+⭐ 9.5k • 🔱 502 • 3h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 408 • 15h ago
+⭐ 8.3k • 🔱 411 • 15h ago
 
 ---
 
@@ -682,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.6k • 🔱 809 • 1d ago
+⭐ 6.6k • 🔱 812 • 1d ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.4k • 🔱 913 • 1d ago
+⭐ 5.4k • 🔱 917 • 1d ago
 
 ---
 
@@ -702,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.4k • 🔱 4.6k • 20h ago
+⭐ 4.4k • 🔱 4.6k • 21h ago
 
 ---
 
@@ -712,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.4k • 🔱 344 • 13h ago
+⭐ 3.5k • 🔱 352 • 13h ago
 
 ---
 
@@ -732,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 321 • 1d ago
+⭐ 2.2k • 🔱 324 • 1d ago
 
 ---
 
@@ -740,7 +738,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.0k • 🔱 153 • 3d ago
+⭐ 2.1k • 🔱 156 • 3d ago
 
 ---
 

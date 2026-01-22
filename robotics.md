@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T11:26:10.294095+00:00'
+updated: '2026-01-22T11:46:37.489511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 11:26 UTC  
+**Last Updated:** January 22, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 ---
 
+**[Day 122 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qjr0zs/day_122_of_building_asimov_an_opensource_humanoid/)**
+
+We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
+
+1h ago
+
+---
+
 **[I built an autonomous robot as a hobby project — named after my dog who passed away last year 🐕](https://www.reddit.com/r/robotics/comments/1qiwh2j/i_built_an_autonomous_robot_as_a_hobby_project/)**
 
 23h ago
@@ -51,14 +59,6 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
 🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 4h ago
-
----
-
-**[Day 122 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qjr0zs/day_122_of_building_asimov_an_opensource_humanoid/)**
-
-We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
-
-1h ago
 
 ---
 
@@ -112,6 +112,14 @@ I’ve been trying to learn more about Diffusion Policy (the diffusion-based vis
 
 ## Google News: "robotics"
 
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 22h ago
+
+---
+
 **[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
@@ -120,27 +128,11 @@ Microsoft • 21h ago
 
 ---
 
-**[How AI and robots ease pressure at Essex pharmacy](https://www.bbc.com/news/articles/c1507npqgpeo)**
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
-Hema Patel says pharmacies are “on our knees” and need more funding from central government.
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-BBC • 5h ago
-
----
-
-**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
-
-OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
-
-Business Insider • 1h ago
-
----
-
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
-
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
-
-Yahoo Finance • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -152,17 +144,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
 
-The Business Journals • 1d ago
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
 
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 22h ago
+The Business Journals • 1d ago
 
 ---
 
@@ -174,19 +166,27 @@ ktiv.com • 14h ago
 
 ---
 
-**[Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)**
+**[Inside OpenAI's renewed push into robotics](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
-“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Fortune • 2d ago
+Business Insider • 1h ago
 
 ---
 
-**[A detachable crawling robotic hand](https://www.nature.com/articles/s41467-025-67675-8)**
+**[Why Richtech Robotics Stock Popped Today](https://finance.yahoo.com/news/why-richtech-robotics-stock-popped-182048173.html)**
 
-This study introduces a detachable robotic hand that can detach from a manipulator, crawl to retrieve several objects, and reattach. A symmetric, reversible design enables grasping from both sides, bridging manipulation with autonomous mobility.
+Richtech is growing revenue on its humanoid robot business. Will it ever earn a profit?
 
-Nature • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+
+Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+
+Interesting Engineering • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 56 • 💬 3 • ⏱️ 0:32 • 15h ago
+👁️ 2K • 👍 64 • 💬 3 • ⏱️ 0:32 • 16h ago
 
 ---
 
@@ -210,7 +210,17 @@ AI and robots make dangerous leap. Visit https://brilliant.org/digitalengine to 
 
 📺 Digital Engine
 
-👁️ 410K • 👍 18K • 💬 4K • ⏱️ 19:17 • 6d ago
+👁️ 411K • 👍 18K • 💬 4K • ⏱️ 19:17 • 6d ago
+
+---
+
+**[China&#39;s New Feminine RoboCop #humanoidrobot #robot #robotics #ai #futureoflaw #humanoid](https://www.youtube.com/watch?v=0irTDhFuKXk)**
+
+China's latest RoboCop is brining feminine energy into next-generation law enforcement. In footage circulating on social media, ...
+
+📺 Kalil 4.0
+
+👁️ 254 • 👍 4 • ⏱️ 0:33 • 33m ago
 
 ---
 
@@ -220,7 +230,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 22K • 👍 1K • 💬 87 • ⏱️ 1:51 • 21h ago
+👁️ 23K • 👍 1K • 💬 87 • ⏱️ 1:51 • 22h ago
 
 ---
 
@@ -230,15 +240,17 @@ War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales dron
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 237 • 💬 89 • ⏱️ 19:41 • 21h ago
+👁️ 4K • 👍 246 • 💬 93 • ⏱️ 19:41 • 21h ago
 
 ---
 
-**[Artificial intelligence has misinterpreted the Three Laws of Robotics.#shorts #viral #robot #edit](https://www.youtube.com/watch?v=yRHT4FEkmzM)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-📺 Wendy Leo
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-👁️ 28K • 👍 920 • 💬 11 • ⏱️ 0:57 • 4d ago
+📺 KhanFlicks
+
+👁️ 26K • 💬 26 • ⏱️ 6:37 • 6d ago
 
 ---
 
@@ -252,43 +264,31 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
+**[Artificial intelligence has misinterpreted the Three Laws of Robotics.#shorts #viral #robot #edit](https://www.youtube.com/watch?v=yRHT4FEkmzM)**
+
+📺 Wendy Leo
+
+👁️ 28K • 👍 920 • 💬 11 • ⏱️ 0:57 • 4d ago
+
+---
+
 **[Boston Dynamics just gave its robots Google’s brain.](https://www.youtube.com/watch?v=tN0XwQGkXL4)**
 
 Why the DeepMind Boston Dynamics partnership changes industrial automation. By integrating advanced Gemini AI into ...
 
 📺 Slidebean
 
-👁️ 9K • 👍 300 • 💬 23 • ⏱️ 0:53 • 1d ago
+👁️ 9K • 👍 304 • 💬 24 • ⏱️ 0:53 • 1d ago
 
 ---
 
-**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
+**[Figure AI Robot Shows Shockingly Human Running Motion](https://www.youtube.com/watch?v=qCVKahJrY1Q)**
 
-Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
+A humanoid robot is now running with a motion that looks almost human, and it could change the future of robotics faster than ...
 
-📺 KTLA 5
+📺 DPCcars
 
-👁️ 17K • 👍 31 • 💬 5 • ⏱️ 23:17 • 2d ago
-
----
-
-**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
-
-We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
-
-📺 Stay Wild
-
-👁️ 2.9M • 👍 32K • 💬 2K • ⏱️ 33:05 • 3d ago
-
----
-
-**[Scientists Built a Living Robot Hand Using Human Muscle | Biohybrid Robotics #science #tech #shorts](https://www.youtube.com/watch?v=u9B4ZMFL9xE)**
-
-What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In a groundbreaking world-first achievement, ...
-
-📺 Future Lens Pi
-
-👁️ 23K • 💬 10 • ⏱️ 0:07 • 3d ago
+👁️ 9K • 👍 81 • 💬 20 • ⏱️ 3:19 • 5d ago
 
 ---
 

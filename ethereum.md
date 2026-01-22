@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T11:26:10.290883+00:00'
+updated: '2026-01-22T11:46:37.486289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 11:26 UTC  
+**Last Updated:** January 22, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** -8.4%  
-**30d:** +2.5%  
-**90d:** -23.6%  
-**1y:** -9.4%  
+**24h:** +1.9%  
+**7d:** -9.4%  
+**30d:** +1.4%  
+**90d:** -24.4%  
+**1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.69B
+**Market Cap:** $359.47B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.3%
+-39.7%
 
 **All-Time Low:** $0.43
-+693626.5%
++688411.5%
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -158,25 +158,11 @@ Decrypt • 12h ago
 
 ---
 
-**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
+**[Why BlackRock is bullish on Ethereum in 2026 despite price stall](https://www.dlnews.com/articles/markets/why-blackrock-is-bullish-on-ethereum-in-2026-despite-price-stall/)**
 
-The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
+Ethereum dominates tokenisation at 66% of market share. That’s despite poor price performance as the asset trades 40% below all-time high. AI, defence are also hot themes for investors.
 
-CoinDesk • 21h ago
-
----
-
-**[Ethereum's Vitalik Buterin Going All-In on Decentralized Social Media as Farcaster, Lens Change Hands](https://decrypt.co/355335/ethereum-vitalik-buterin-decentralized-social-media-farcaster-lens-change-hands)**
-
-The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
-
-Decrypt • 11h ago
-
----
-
-**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
-
-The Block • 1d ago
+dlnews.com • 51m ago
 
 ---
 
@@ -188,17 +174,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
+**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
 
-The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
+The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
 
-dlnews.com • 1d ago
+CoinDesk • 22h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfT29MxBWiqkjKSqhscS43yX441BFCkgqWZ0HSm1w_PR6fM6UKTrWPi&gaa_ts=6971ff7c&gaa_sig=PLFA5mBuaolux5R3wshdMUtV0o2hhsQ0l7uUo3wyDCbfTzTJIJKHgyGBbh6LHTU7-UDVRL5ZvD9f-4u45gN_mQ%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqebSv4YW0Tc8l7Q0JYz9qBeO6EiDAWruDQ63Z5qUSNQZ8I61mZ69zY8&gaa_ts=69721183&gaa_sig=pbxY0YDkcFvIsa4QExZuDWyo3kh_GKdlz_iEB1gMFaFE6hSQjfPqBMvyQFO8y4CXjDMBJvozkl4Y8RIod0ZnTg%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+
+The Block • 13h ago
 
 ---
 
@@ -210,19 +202,25 @@ Finance Magnates • 22h ago
 
 ---
 
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
-
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
-
-CoinDesk • 3d ago
-
----
-
 **[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
 
 Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
+
+---
+
+**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
+
+A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcumuSELwAP5Q9irwXOIk2c1ZPs-eBhNEQNbSGJtfZKR2rH5o7DloMe&gaa_ts=69721183&gaa_sig=mzgVlcR_E4Es28EAU81edWv-hFJ80os7LToq0P4eG2iMVeooeOw5XoE1mXvKkZPJkX0HSx8lR60lgqL8Smm6Xw%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -236,7 +234,17 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 271 • 💬 75 • ⏱️ 8:24 • 11h ago
+👁️ 6K • 👍 284 • 💬 79 • ⏱️ 8:24 • 11h ago
+
+---
+
+**[BULLISH ETHEREUM COMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Z8ORqIrKkHk)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 49 • 👍 8 • 💬 3 • ⏱️ 4:54 • 1h ago
 
 ---
 
@@ -246,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 18 • ⏱️ 10:26 • 12h ago
+👁️ 2K • 👍 141 • 💬 18 • ⏱️ 10:26 • 12h ago
 
 ---
 
@@ -256,7 +264,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 298 • 💬 204 • ⏱️ 22:48 • 14h ago
+👁️ 7K • 👍 303 • 💬 204 • ⏱️ 22:48 • 14h ago
 
 ---
 
@@ -270,16 +278,6 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 ---
 
-**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 3K • 👍 262 • ⏱️ 19:48 • 14h ago
-
----
-
 **[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
 
 Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
@@ -290,23 +288,13 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Darauf warte ich jetzt! Long gegen den Trend? Ne](https://www.youtube.com/watch?v=ljjcoBHV9iU)**
+**[Bitcoin &amp; Ethereum Resuming the CRASH: BTC &amp; ETH Often Diverge at Turning Points as Just Happened](https://www.youtube.com/watch?v=W38a3tKNZJI)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Krypto Trading & Investing
+📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 625 • 💬 82 • ⏱️ 15:18 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: IT GOT 10 TIMES WORSE FAST!!! BRACE!!!!!!](https://www.youtube.com/watch?v=XFOdTIy7gtM)**
-
-Here is new data and the whole situation is getting out of hand for crypto, bitcoin and the rest of the market! How bad do I see it get ...
-
-📺 Thomas Kralow
-
-👁️ 31K • 👍 3K • 💬 29 • ⏱️ 12:15 • 3d ago
+👁️ 3K • 👍 273 • ⏱️ 19:48 • 14h ago
 
 ---
 
@@ -316,17 +304,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 7 • ⏱️ 6:37 • 22h ago
+👁️ 3K • 👍 138 • 💬 7 • ⏱️ 6:37 • 23h ago
 
 ---
 
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=ReyLoT3_icA)**
+**[URGENT CLARITY ACT UPDATE ‼️ COINBASE JUST SAID WHAT! (XRP BITCOIN ETHEREUM)](https://www.youtube.com/watch?v=tQUWEAlnTm4)**
 
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Daily pet videos
+📺 Stock Moe
 
-👁️ 6K • 👍 4K • 10h ago
+👁️ 16K • 👍 1K • 💬 150 • ⏱️ 18:29 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Darauf warte ich jetzt! Long gegen den Trend? Ne](https://www.youtube.com/watch?v=ljjcoBHV9iU)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 667 • 💬 86 • ⏱️ 15:18 • 7h ago
 
 ---
 
