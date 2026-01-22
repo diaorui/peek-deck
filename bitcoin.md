@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T15:32:33.782317+00:00'
+updated: '2026-01-22T16:37:56.436971+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 15:32 UTC  
+**Last Updated:** January 22, 2026 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,831.83
+### $89,140.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -6.2%  
-**30d:** +2.1%  
-**90d:** -19.7%  
-**1y:** -13.8%  
+**24h:** +1.1%  
+**7d:** -7.1%  
+**30d:** +1.1%  
+**90d:** -20.5%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.44B
+**Market Cap:** $1777.85B
 Rank #1
 
-**Circulating Supply:** 19,979,253 BTC
+**Circulating Supply:** 19,979,303 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.6%
 
 **All-Time Low:** $67.81
-+131974.9%
++130773.0%
 
 ---
 
@@ -77,15 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-4h ago
+2h ago
 
 ---
 
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-1h ago
+5h ago
+
+---
+
+**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
+
+2h ago
 
 ---
 
@@ -93,7 +99,7 @@ Rank #1
 
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,21 +107,7 @@ Yeah... just do what's "at least bearable" for 40+ years. Come live in reality a
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-18h ago
-
----
-
-**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
-
-8h ago
-
----
-
-**[Me Saying bitcoin in January 2026](https://www.reddit.com/r/Bitcoin/comments/1qjg2xe/me_saying_bitcoin_in_january_2026/)**
-
-Here is me saying Bitcoin in January 2026
-
-14h ago
+19h ago
 
 ---
 
@@ -123,7 +115,21 @@ Here is me saying Bitcoin in January 2026
 
 Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. The meme-money, moon-boy era is mostly over. What replaced it? Something way less flashy but way more dangerous: steady, unstoppable adoption. Institutions now treat Bitcoin like gold or commodities. It gets allocated, custodied, audited, and quietly stacked. That “boring” phase everyone complains about? That’s what maturity looks like. Volatility is down, wild swings are fewer, and price moves follow macro reality—interest rates, liquidity, global risk—not some random Twitter influencer. And let’s be real: it’s getting impossible to call Bitcoin a “toy” anymore. Banks offer custody. ETFs move billions. Public companies put BTC on their balance sheets. Governments write tax code specifically for it. Michael Saylor points out that no asset class in history has hit a trillion-dollar market cap and then gone to zero. You don’t build that level of liquidity and infrastructure around something nobody respects. The message is loud and clear: Bitcoin isn’t an experiment anymore. The financial system actively plans around it. Yeah, regulation showed up. But governments didn’t kill it—they absorbed it. Clearer rules, regulated exchanges, proper custody, reporting requirements—they all feel anti-cypherpunk, sure. But here’s the kicker: that same “boring” bureaucracy unlocked institutional money. Pension funds, insurers, and sovereign investors can’t touch anything non-compliant. The paperwork is dull, but it’s also the plumbing that lets trillions flow safely. Ironically, this “tamed” version of Bitcoin might be its most powerful form. A global asset that runs 24/7, moves across borders in minutes, and can’t be printed more quietly competes with gold, bonds, and even fiat as a long-term store of value. It’s not trying to smash banks overnight—it’s just steadily eroding their role. No hype, no chaos. Just inevitability. And that, my friends, is the real flex. Not insane pumps. Not viral hype. Longevity. When Bitcoin becomes something people hold, rebalance, and plan around instead of gambling on daily candles, it stops being entertainment and starts being financial infrastructure. In 2026, Bitcoin isn’t winning because it’s exciting. It’s winning because it’s unavoidable. And in crypto, boring usually means domination.
 
-5h ago
+6h ago
+
+---
+
+**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
+
+9h ago
+
+---
+
+**[Me Saying bitcoin in January 2026](https://www.reddit.com/r/Bitcoin/comments/1qjg2xe/me_saying_bitcoin_in_january_2026/)**
+
+Here is me saying Bitcoin in January 2026
+
+15h ago
 
 ---
 
@@ -131,21 +137,13 @@ Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. T
 
 First of all congrats to those who got in that early. For the rest of us no need to sweat it, we're still early. Really early. Does anyone have any inspirational stories or pearls of wisdom? I've heard a few rags to riches tales which are pretty great. I've also heard about someone who made so much money they apparently became miserable. Infinite money glitch and revolved his entire personality around Bitcoin. Don't let it happen to you! (lol). As for myself, I'm still in the head down and grind phase. I've decided I'm going to take a couple decades and see if I can accomplish something. Wish me luck. I hope you all stay healthy, take care of your loved ones and keep your stacks secure. And since I'm asking og hodlers to tell their stories it's not a bad idea to use a burner account just to be safe.
 
-10h ago
+11h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-14h ago
-
----
-
-**[Bitcoin at $88,000 is a great buying opportunity imo.](https://www.reddit.com/r/Bitcoin/comments/1qj56gm/bitcoin_at_88000_is_a_great_buying_opportunity_imo/)**
-
-Thank you for your attention to this matter.
-
-21h ago
+15h ago
 
 ---
 
@@ -153,11 +151,11 @@ Thank you for your attention to this matter.
 
 ## Google News: "bitcoin"
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
+**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
 
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+The bitcoin price reclaimed $90,000 after a volatile trading day.
 
-ProPublica • 5h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -165,43 +163,7 @@ ProPublica • 5h ago
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 19h ago
-
----
-
-**[Strive Eyes $150M Capital Raise to Fuel Bitcoin Accumulation Push](https://finance.yahoo.com/news/strive-eyes-150m-capital-raise-132454959.html)**
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin holds near $90,000 as risk appetite returns: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/22/bitcoin-volatility-shrinks-as-tariff-jitters-fade-crypto-markets-today)**
-
-Crypto prices stabilized after Wednesday’s tariff-driven volatility, with bitcoin reclaiming $90,000 as equities rebounded and traders rotated back into risk assets.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Loses 25,000 Millionaire Addresses One Year Into Trump Presidency](https://finance.yahoo.com/news/bitcoin-loses-25-000-millionaire-120338516.html)**
-
-Yahoo Finance • 3h ago
-
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 6h ago
-
----
-
-**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
-
-The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
-
-Fortune • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -211,17 +173,51 @@ Bloomberg • 2d ago
 
 ---
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
 
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
-
-The Motley Fool • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+**[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
-The Block • 20h ago
+Michael Saylor’s company now holds more than 709,000 Bitcoin.
+
+Fortune • 1h ago
+
+---
+
+**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate)**
+
+The Block • 8h ago
+
+---
+
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+
+Bloomberg • 2h ago
+
+---
+
+**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+
+Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
+
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
+
+wtop.com • 7h ago
+
+---
+
+**[Nomura's Laser Digital adds tokenized bitcoin yield fund targeting around 5% returns](https://www.theblock.co/post/386668/nomuras-laser-digital-tokenized-bitcoin-fund)**
+
+The Block • 5h ago
 
 ---
 
@@ -241,7 +237,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 5d ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 6d ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -249,7 +245,16 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+
+---
+
+**[As Bitcoin Rewards Dry Up, Will the Blockchain Tumble Off a Cliff?](https://news.ycombinator.com/item?id=46719443)**
+
+Now that 95 percent of all 21 million Bitcoins already in circulation, the
+rewards for mining operations will dwindle. What happens next?
+
+⬆️ 2 • 💬 2 • 2h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -273,16 +278,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 15h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
-
----
-
-**[As Bitcoin Rewards Dry Up, Will the Blockchain Tumble Off a Cliff?](https://news.ycombinator.com/item?id=46719443)**
-
-Now that 95 percent of all 21 million Bitcoins already in circulation, the
-rewards for mining operations will dwindle. What happens next?
-
-⬆️ 1 • 💬 0 • 1h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 1 • 💬 1 • 16h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -320,17 +316,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 43K • 👍 2K • 💬 392 • ⏱️ 41:04 • 23h ago
+👁️ 44K • 👍 2K • 💬 392 • ⏱️ 41:04 • 1d ago
 
 ---
 
-**[‘The 4-Year Bitcoin Cycle Is Broken’ - Kyle Chassé on What Happens Next](https://www.youtube.com/watch?v=xTuFgyZkQBc)**
+**[Bitcoin Whipsaws Around $90K: Why The Bull Run Is Stalled | Kyle Chassé](https://www.youtube.com/watch?v=xTuFgyZkQBc)**
 
 Bitcoin is flashing a critical signal that historically hits 97% of the time - but is the macro environment about to invalidate it?
 
 📺 Kitco NEWS
 
-👁️ 5K • 👍 198 • 💬 126 • ⏱️ 32:39 • 18h ago
+👁️ 5K • 👍 218 • 💬 128 • ⏱️ 32:39 • 19h ago
 
 ---
 
@@ -340,7 +336,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 122 • ⏱️ 20:50 • 1d ago
+👁️ 16K • 👍 1K • 💬 118 • ⏱️ 20:50 • 1d ago
 
 ---
 
@@ -350,7 +346,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 395 • 💬 114 • ⏱️ 1:16 • 1d ago
+👁️ 19K • 👍 400 • 💬 115 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -360,17 +356,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 38K • 👍 3K • 💬 232 • ⏱️ 18:43 • 1d ago
+👁️ 40K • 👍 3K • 💬 236 • ⏱️ 18:43 • 1d ago
 
 ---
 
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+**[The Silent Market Failure (It&#39;s Not Just Bitcoin)](https://www.youtube.com/watch?v=FrwCy3VccW4)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade deal, and spoke openly in favor of crypto regulation.
 
-📺 BRITISH HODL
+📺 Crypto Banter
 
-👁️ 14K • 👍 911 • 💬 133 • ⏱️ 8:21 • 1d ago
+👁️ 5K • 👍 683 • 💬 9 • ⏱️ 17:34 • 1h ago
+
+---
+
+**[I Can’t Be Bullish On Crypto Anymore.](https://www.youtube.com/watch?v=awEI0ECeYt4)**
+
+Bitcoin just lost a critical piece of market structure, and this move didn't happen in isolation. After equities' worst day in months, ...
+
+📺 Crypto Banter
+
+👁️ 36K • 👍 2K • 💬 174 • ⏱️ 23:45 • 20h ago
 
 ---
 
@@ -380,37 +386,27 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 202 • ⏱️ 22:10 • 1d ago
+👁️ 33K • 👍 2K • 💬 203 • ⏱️ 22:10 • 1d ago
 
 ---
 
-**[Global Elites Admit Defeat at Davos | Bitcoin Takes Center Stage](https://www.youtube.com/watch?v=u_QSkh-g_9I)**
+**[President Trump touts progress on crypto regulation at the World Economic Forum: CNBC Crypto World](https://www.youtube.com/watch?v=tte5jckrLeU)**
 
-The elites lost control. Davos just admitted the world no longer trusts them — and markets responded with chaos. $1.3T wiped out.
+On this week's episode of CNBC Crypto World, crypto prices struggle as President Trump's push to acquire Greenland hits U.S. ...
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 27K • 👍 3K • 💬 178 • ⏱️ 20:49 • 16h ago
-
----
-
-**[BITCOIN PUMP INCOMING 🚨](https://www.youtube.com/watch?v=Qj0CL9RH0Pk)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
-
-📺 Crypto Kid
-
-👁️ 12K • 👍 1K • 💬 133 • ⏱️ 7:51 • 22h ago
+👁️ 22K • 👍 434 • 💬 258 • ⏱️ 16:49 • 18h ago
 
 ---
 
-**[BITCOIN..IT IS HAPPENING NOW.... *My most important video*](https://www.youtube.com/watch?v=9VJYW-R1uLQ)**
+**[HOW MSTR WILL MAKE ME RICH EVEN IF BITCOIN RETURNS SUCK](https://www.youtube.com/watch?v=mR-qZpM8QJY)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
-📺 Satoshi Stacker
+📺 Adam Livingston
 
-👁️ 15K • 👍 764 • 💬 68 • ⏱️ 19:22 • 1d ago
+👁️ 15K • 👍 1K • 💬 206 • ⏱️ 18:46 • 21h ago
 
 ---
 

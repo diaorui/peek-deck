@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T15:32:33.788331+00:00'
+updated: '2026-01-22T16:37:56.443192+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 15:32 UTC  
+**Last Updated:** January 22, 2026 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,973.51
+### $2,937.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -9.7%  
-**30d:** +1.0%  
-**90d:** -24.7%  
-**1y:** -10.7%  
+**24h:** +1.0%  
+**7d:** -11.1%  
+**30d:** -0.5%  
+**90d:** -25.8%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.14B
+**Market Cap:** $354.38B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.7%
 
 **All-Time Low:** $0.43
-+685221.9%
++677036.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-5h ago
+6h ago
+
+---
+
+**[What’s your prediction for Web3 hacks in 2026?](https://www.reddit.com/r/ethereum/comments/1qjx4xe/whats_your_prediction_for_web3_hacks_in_2026/)**
+
+2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum’s transaction activity has reached a new all-time high!](https://www.reddit.com/r/ethereum/comments/1qh6f52/ethereums_transaction_activity_has_reached_a_new/)**
-
-The 7-day moving average climbed to 2.43 million transactions on January 17. The trend began in mid-December after the Fusaka upgrade and appears to be driven largely by reduced gas fees, now averaging $0.15. Lower costs are translating into higher on-chain usage. Believe in somETHing.❤️
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,29 +154,15 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
-**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
+**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
 
-The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
+What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum's Vitalik Buterin Going All-In on Decentralized Social Media as Farcaster, Lens Change Hands](https://decrypt.co/355335/ethereum-vitalik-buterin-decentralized-social-media-farcaster-lens-change-hands)**
-
-The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
-
-Decrypt • 15h ago
-
----
-
-**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
-
-The Block • 1d ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -184,21 +170,15 @@ The Block • 1d ago
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil](https://finance.yahoo.com/news/tom-lees-bitmine-adds-108-154349017.html)**
+**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
 
-Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
+Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqexOI6_iJtA9SdxJ_bIo6_azw15g2LDETnY3wHN8rx24e3ZlgxcWCo4&gaa_ts=6972389a&gaa_sig=UFURBb-6YWkHzWyeyMkQnST9uFJapWZSwGaDvHcnxJOuxxff4u2PTrj8YLWm_MZfcIIuMi6UzumTtYAx8A8CNw%3D%3D)**
-
-MarketWatch • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -210,11 +190,9 @@ dlnews.com • 1d ago
 
 ---
 
-**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.nasdaq.com/articles/how-next-ethereum-could-help-you-retire-millionaire-0)**
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-Key PointsOver the past decade, Ethereum delivered huge gains for investors, rising in price from $3 to $3,000.
-
-Nasdaq • 1d ago
+The Block • 18h ago
 
 ---
 
@@ -222,7 +200,31 @@ Nasdaq • 1d ago
 
 Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 22h ago
+
+---
+
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
+
+It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
+
+Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
+
+Finance Magnates • 1d ago
+
+---
+
+**[Why are Bitcoin, Ethereum and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:f744deb43094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+
+Cryptocurrency prices fell sharply on Monday, dragging the total market value down to about $3.04 trillion, a decline of more than 3% in 24 hours. The sell-off hit major tokens including Bitcoin, Ethereum and XRP, as investors reacted to global economic uncertainty and a wave of forced liquidations…
+
+TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -236,37 +238,27 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 309 • 💬 98 • ⏱️ 8:24 • 15h ago
+👁️ 8K • 👍 328 • 💬 80 • ⏱️ 8:24 • 16h ago
 
 ---
 
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=Gatpbk_Ncgw)**
-
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
-
-📺 Tids
-
-👁️ 3K • 👍 653 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 19 • ⏱️ 10:26 • 16h ago
+👁️ 683 • 👍 90 • 💬 6 • ⏱️ 7:34 • 2h ago
 
 ---
 
-**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=f3_Zl4xYkwo)**
 
-BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 7K • 👍 310 • 💬 205 • ⏱️ 22:48 • 18h ago
+👁️ 1K • 👍 130 • 💬 13 • ⏱️ 17:24 • 1h ago
 
 ---
 
@@ -276,7 +268,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 103 • 👍 10 • 💬 3 • ⏱️ 4:54 • 5h ago
+👁️ 189 • 👍 14 • 💬 3 • ⏱️ 4:54 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=md5kHsC-PDA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 144 • 💬 19 • ⏱️ 10:26 • 17h ago
+
+---
+
+**[SUI Network Founder: Why AI Agents Are Choosing SUI Over Ethereum &amp; Solana | E155](https://www.youtube.com/watch?v=sQV78ijFDGQ)**
+
+Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his son Kryptos. While other blockchains compete ...
+
+📺 When Shift Happens
+
+👁️ 451 • 👍 52 • 💬 31 • ⏱️ 1:00:39 • 2h ago
+
+---
+
+**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
+
+BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 310 • 💬 206 • ⏱️ 22:48 • 19h ago
 
 ---
 
@@ -286,7 +308,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 282 • ⏱️ 19:48 • 18h ago
+👁️ 4K • 👍 285 • ⏱️ 19:48 • 19h ago
 
 ---
 
@@ -296,7 +318,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 14h ago
+👁️ 13K • 👍 4K • 15h ago
 
 ---
 
@@ -306,27 +328,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 127 • 💬 1 • ⏱️ 19:04 • 21h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Darauf warte ich jetzt! Long gegen den Trend? Ne](https://www.youtube.com/watch?v=ljjcoBHV9iU)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 684 • 💬 121 • ⏱️ 15:18 • 11h ago
-
----
-
-**[Ray Dalio &#39;It&#39;s Happening NOW&#39; ... A New System Is Coming!! Trump, France And UK News! NYSE Big News](https://www.youtube.com/watch?v=zQreswORESE)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 21K • 👍 1K • 💬 264 • ⏱️ 16:10 • 2d ago
+👁️ 1K • 👍 128 • 💬 1 • ⏱️ 19:04 • 22h ago
 
 ---
 
