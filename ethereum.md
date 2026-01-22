@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T20:53:58.362241+00:00'
+updated: '2026-01-22T21:24:38.711798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 20:53 UTC  
+**Last Updated:** January 22, 2026 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-5h ago
+6h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 21h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 23h ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 2h ago
+👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 5h ago
+👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 20h ago
+👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 12m ago
+👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 42m ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 10h ago
+👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 CRAZY チャンネル ナティ子
 
-👁️ 7K • 👍 3K • 2h ago
+👁️ 7K • 👍 3K • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 6h ago
+👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 2h ago
+👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 6h ago
+👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 7h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T20:53:58.365592+00:00'
+updated: '2026-01-22T21:24:38.716334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 20:53 UTC  
+**Last Updated:** January 22, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ not like real human running to you, each time when team bring him running outsid
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 14h ago
 
 ---
 
@@ -132,7 +132,7 @@ Yahoo Finance • 1d ago
 
 Arbe Robotics Ltd. (NASDAQ:ARBE - Get Free Report) was the recipient of some unusual options trading activity on Thursday. Investors  bought  52,243 call options on the company. This is an increase of approximately 1,234% compared to the average daily volume of 3,916 call options.
 
-MarketBeat • 1h ago
+MarketBeat • 2h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 1d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -156,7 +156,7 @@ Business Insider • 10h ago
 
 Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
 
-Electrek • 19h ago
+Electrek • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ Financial Times • 2d ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 23h ago
+ktiv.com • 1d ago
 
 ---
 
@@ -180,13 +180,13 @@ ktiv.com • 23h ago
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
 **[AI and robots can already help with medical care, Dr. Oz says](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -210,7 +210,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:33 • 9h ago
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:33 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ In a wide-ranging conversation at the World Economic Forum, tech billionaire Elo
 
 📺 DRM News
 
-👁️ 46K • 👍 2K • 💬 535 • ⏱️ 32:01 • 4h ago
+👁️ 46K • 👍 2K • 💬 535 • ⏱️ 32:01 • 5h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T20:53:58.347157+00:00'
+updated: '2026-01-22T21:24:38.691873+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 20:53 UTC  
+**Last Updated:** January 22, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 9h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 10h ago
 
 ---
 
@@ -69,7 +69,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 Im working on a piece of software and Ive kind of hit a wall. The app itself exists and does things, but Im realizing I dont actually know which features people really want versus which ones just sound good in my own head. I keep adding ideas and then asking myself. would anyone use this more than once, or am I just building it because its interesting to build? If youve used AItools before (or even abandoned them). Im interested to know: 1. what features made you stick with a tool longterm? 2. what features did you think you wanted but ended up ignoring? 3. at what point does “featurerich” start to feel like bloat? 4. Or even. What features you think every AI tool is forgetting and underlooking? Any honest takes is appreciated!
 
-4h ago
+5h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im working on a piece of software and Ive kind of hit a wall. The app itself exi
 
 I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
 
-20h ago
+21h ago
 
 ---
 
@@ -101,7 +101,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 "Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 3h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[The labor market's surprising bright spot – and how to turn it into a job](https://www.axios.com/2026/01/22/ai-chatgpt-jobs-market-resume)**
 
-Axios • 56m ago
+Axios • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 56m ago
 
 State's vague AI framework for schools lacks concrete examples and clear implementation strategies, leaving schools to interpret rules however they want and potentially creating wildly different policies across districts.
 
-cleveland.com • 43m ago
+cleveland.com • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ The Atlantic • 7h ago
 
 What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
 
-Anthropic • 19h ago
+Anthropic • 20h ago
 
 ---
 
 **[How Playing Pokémon Became the Ultimate Test of AI’s Intelligence](https://www.wsj.com/articles/how-playing-pokemon-became-the-ultimate-test-of-ais-intelligence-1409dea5?gaa_at=eafs&gaa_n=AWEtsqdushAeUZjvx0CpzgNH-MVfk2KcQGDfo15MiY6ufSA4-7XH56K0GW1K&gaa_ts=69728c41&gaa_sig=Lrl1pDxC0KKX8-ujO6LQYo8a6qWEFAbsIkkShWGRgJSUkkUPbzEeibt71v8ailg3R__KHgOwUhhGkw-hr17btg%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Wall Street Journal • 8h ago
 
 Taylor said the free market will ultimately determine where the value is and which AI players have the best products.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 6h ago
+The Economist • 7h ago
 
 ---
 
@@ -205,7 +205,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 299 • 💬 319 • 23h ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 299 • 💬 319 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -267,7 +267,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 87 • 💬 58 • 6h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 87 • 💬 58 • 7h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -281,7 +281,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 4h ago
+👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 5h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bret Taylor, Sierra co-founder and CEO and OpenAI board chairman, joins 'Squawk 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 7h ago
+👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 8h ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 235 • 16h ago
+⬇️ 111,506 • ❤️ 235 • 17h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 24m ago
+⭐ 9.6k • 🔱 1.3k • 55m ago
 
 ---
 
