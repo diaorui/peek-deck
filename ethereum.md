@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T05:29:23.995963+00:00'
+updated: '2026-01-22T05:55:22.093522+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 05:29 UTC  
+**Last Updated:** January 22, 2026 at 05:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
+**24h:** +1.5%  
 **7d:** -8.3%  
-**30d:** +2.6%  
+**30d:** +2.7%  
 **90d:** -23.5%  
-**1y:** -9.3%  
+**1y:** -9.2%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Is exiting staking supposed to be this long? 64 days now](https://www.reddit.com/r/ethereum/comments/1qjjsp6/is_exiting_staking_supposed_to_be_this_long_64/)**
-
-I staked my ethereum on etherstake and entered the exit queue 64 days ago and I still haven’t got my crypto back. I’m getting kinda annoyed and worried is anyone else facing this or did fall for some sort of scam? Is there something I’m doing wrong? It says I entered exit queue on etherscan.
-
-1h ago
-
----
-
 **[Daily General Discussion January 21, 2026](https://www.reddit.com/r/ethereum/comments/1qipy1b/daily_general_discussion_january_21_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 23h ago
+
+---
+
+**[Is exiting staking supposed to be this long? 64 days now](https://www.reddit.com/r/ethereum/comments/1qjjsp6/is_exiting_staking_supposed_to_be_this_long_64/)**
+
+I staked my ethereum on etherstake and entered the exit queue 64 days ago and I still haven’t got my crypto back. I’m getting kinda annoyed and worried is anyone else facing this or did fall for some sort of scam? Is there something I’m doing wrong? It says I entered exit queue on etherscan.
+
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 Hi all, I’ve seen scams similar to this. You link your wallet, check the total amount paid in gas fees and get rewarded. Is this the same? The coin has a pretty big market cap already, it was only launched yesterday.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all, I’ve seen scams similar to this. You link your wallet, check the total
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-18h ago
+19h ago
 
 ---
 
@@ -158,9 +158,11 @@ Decrypt • 6h ago
 
 ---
 
-**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
+**[Why a $778 Billion Mortgage Lender Is Taking Bitcoin and Ethereum Seriously Now](https://decrypt.co/355280/why-778-billion-mortgage-lender-taking-bitcoin-ethereum-seriously)**
 
-The Block • 19h ago
+Younger Americans may find it increasingly difficult to afford a home, but Newrez thinks Bitcoin and Ethereum could help change that.
+
+Decrypt • 10h ago
 
 ---
 
@@ -172,6 +174,28 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Vitalik Buterin Proposes Simpler ‘Distributed Validator’ Staking for Ethereum](https://www.coindesk.com/tech/2026/01/21/vitalik-buterin-proposes-simpler-distributed-validator-staking-for-ethereum)**
+
+The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
+
+CoinDesk • 16h ago
+
+---
+
+**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
+
+The Block • 19h ago
+
+---
+
+**[Ethereum's Vitalik Buterin Going All-In on Decentralized Social Media as Farcaster, Lens Change Hands](https://decrypt.co/355335/ethereum-vitalik-buterin-decentralized-social-media-farcaster-lens-change-hands)**
+
+The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
+
+Decrypt • 5h ago
+
+---
+
 **[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
@@ -180,47 +204,23 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum news: Transactions surge to record highs than in any other bull cycle](https://www.coindesk.com/tech/2026/01/19/ethereum-transactions-hit-record-as-staking-exit-queue-drops-to-zero)**
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-The record jump comes as Ethereum’s validator exit queue has dropped to zero while entry queues remain long.
-
-CoinDesk • 2d ago
+The Block • 8h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdYdbg5oA-NyjY4vY1lz7lkrlJjG3IXG8C8Onz5FUHD86U-OBNDhRjT&gaa_ts=6971afef&gaa_sig=6mK-OeS-6dn8BLhrudqer71D1FBdrd9EYGupr9vhbUzStB1Pf7O9IN4N5dLzcJUQpPLmHGw5MuZ0W8WeLiGIqg%3D%3D)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdUNn27-I_1MEpCVQT-7PxRNXBcmOjYDTDLilaukSRMBWu8_9mPEgk6&gaa_ts=6971bf2f&gaa_sig=9WZUl0NzNY6L-sYfFrHHkcApttswVbC4XaYb678-aCs6MWKC8FnxUb0W9qJeI39ZHseDv3Z5vB0CCJEnaGCi4g%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Ethereum Price Breaks Under $3K, Charts Flash Fresh Warnings](https://www.tradingview.com/news/newsbtc:ebf64d20a094b:0-ethereum-price-breaks-under-3k-charts-flash-fresh-warnings/)**
+**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
 
-Ethereum price started a fresh decline from the $3,200 resistance. ETH is now consolidating losses and is at risk of more losses below $2,880.Ethereum Price Dips Over 5%Ethereum price failed to remain stable above $3,200 and started a fresh decline, like Bitcoin. ETH price declined below $3,150 and…
+Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqeCCI1fq4JZgZZoRPeIqN6j6cdSyIlC-JgoA65vd3SP6XXR0V1W8Y0-&gaa_ts=6971afef&gaa_sig=0TDxSIJcktWr_A8cvQPDEtMG57ak4iKZNGx3oChxTNzXH5AkAuYs17yPESZ7Fy_YMnrLVYfB-qf9VK4qvDB6_g%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
-
-A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
-
-CryptoSlate • 19h ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.nasdaq.com/articles/fundamental-issue-reason-sell-xrp-ethereum-and-solana-right-now)**
-
-Key PointsCryptocurrencies are not stocks.
-
-Nasdaq • 1d ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 16 • ⏱️ 10:26 • 6h ago
+👁️ 1K • 👍 107 • 💬 16 • ⏱️ 10:26 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 265 • 💬 203 • ⏱️ 22:48 • 8h ago
+👁️ 5K • 👍 265 • 💬 203 • ⏱️ 22:48 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 4h ago
+👁️ 5K • 👍 4K • 5h ago
 
 ---
 
@@ -314,7 +314,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Daily pet videos
 
-👁️ 6K • 👍 4K • 4h ago
+👁️ 6K • 👍 4K • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T05:29:23.989958+00:00'
+updated: '2026-01-22T05:55:22.087425+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 05:29 UTC  
+**Last Updated:** January 22, 2026 at 05:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -6.1%  
-**30d:** +2.2%  
-**90d:** -19.6%  
-**1y:** -13.6%  
+**24h:** +0.5%  
+**7d:** -5.7%  
+**30d:** +2.6%  
+**90d:** -19.3%  
+**1y:** -13.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-4h ago
+5h ago
 
 ---
 
@@ -121,23 +121,23 @@ hold strong
 
 ---
 
+**[Guys, look who's back on the market](https://www.reddit.com/r/Bitcoin/comments/1qjhf39/guys_look_whos_back_on_the_market/)**
+
+https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
+
+4h ago
+
+---
+
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
 15h ago
 
 ---
 
-**[Guys, look who's back on the market](https://www.reddit.com/r/Bitcoin/comments/1qjhf39/guys_look_whos_back_on_the_market/)**
-
-https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
-
-3h ago
-
----
-
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -155,45 +155,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 9h ago
-
----
-
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
-
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
-
-The Motley Fool • 14h ago
-
----
-
-**[Bitcoin Price Surges To $90,000 After Trump Delays Tariffs](https://bitcoinmagazine.com/markets/bitcoin-price-surges-to-90000-twice)**
-
-The bitcoin price reclaimed $90,000 after a volatile trading day.
-
-Bitcoin Magazine • 8h ago
-
----
-
-**[Bitcoin price news: BTC moves back near $90,000 after Trump/NATO meeting](https://www.coindesk.com/markets/2026/01/21/bitcoin-moves-higher-after-trump-pulls-tariff-threat-following-productive-meeting-with-nato-chief)**
-
-"The solution, if consummated, will be a great one for the U.S. and all NATO nations," said President Trump in a Truth Social post.
-
-CoinDesk • 8h ago
-
----
-
-**[Asia Market Open: Bitcoin And Stocks Edge Higher As Greenland Tensions Cool](https://finance.yahoo.com/news/asia-market-open-bitcoin-stocks-030459434.html)**
-
-Bitcoin inched up toward $90,000 early Thursday as investors eased back into risk, after President Donald Trump struck a calmer tone on Greenland and signalled a path toward a deal that pulled some heat out of markets. Asian equities followed Wall Street higher, while gold and silver slipped as the ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
-
-Bloomberg.com • 1d ago
+CNBC • 10h ago
 
 ---
 
@@ -215,15 +177,51 @@ The Block • 10h ago
 
 ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
-**[BlackRock’s IBIT powers new bitcoin annuity for U.S. retirees via Delaware Life](https://www.coindesk.com/markets/2026/01/21/blackrock-s-ibit-powers-new-bitcoin-annuity-for-u-s-retirees-via-delaware-life)**
+**[New Bitcoin Whales Outpace Old Guard in $6B Supply Tug-of-War](https://finance.yahoo.com/news/bitcoin-whales-outpace-old-guard-050939709.html)**
 
-The first-of-its-kind FIA, according to the companies, offers crypto exposure with principal protection, aiming to attract cautious investors near retirement.
+New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
 
-CoinDesk • 10h ago
+Yahoo Finance • 25m ago
+
+---
+
+**[Bitcoin price news: BTC lower for 2026 after reversing earlier Wednesday gain](https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-back-to-usd87-500-giving-up-entire-2026-gain)**
+
+There was a modest bounce after the president said the U.S. had no intention of taking Greenland by force, but prices quickly resumed their decline.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin, DeFi and Tokenized Assets to Drive Crypto’s Next Phase, ARK Says](https://finance.yahoo.com/news/bitcoin-defi-tokenized-assets-drive-053040125.html)**
+
+Bitcoin, DeFi, and tokenized assets are emerging as functional parts of global capital markets, ARK Invest wrote, though challenges persist.
+
+Yahoo Finance • 25m ago
+
+---
+
+**[Strategy Purchases $2.13 Billion of Bitcoin, the Most in Seven Months](https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
+
+Reuters • 1d ago
+
+---
+
+**[Billionaire Michael Saylor’s Strategy Buys 22,305 Bitcoin for $2 Billion – Is Something Big Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-strategy-buys-131412932.html)**
+
+Billionaire Michael Saylor’s Strategy has added another 22,305 bitcoin to its balance sheet spending approximately $2.13 billion as the company continues its aggressive accumulation strategy. Strategy has acquired 22,305 BTC for ~$2.13 billion at ~$95,284 per bitcoin. As of 1/19/2026, we hodl 709,715 $BTC acquired for ~$53.92 billion at ~$75,979 ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -319,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 336 • ⏱️ 41:04 • 13h ago
+👁️ 39K • 👍 2K • 💬 336 • ⏱️ 41:04 • 14h ago
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 3K • 👍 152 • 💬 93 • ⏱️ 32:39 • 8h ago
+👁️ 3K • 👍 152 • 💬 93 • ⏱️ 32:39 • 9h ago
 
 ---
 
@@ -339,7 +337,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 10K • 👍 1K • 💬 109 • ⏱️ 7:51 • 12h ago
+👁️ 10K • 👍 1K • 💬 109 • ⏱️ 7:51 • 13h ago
 
 ---
 
@@ -359,7 +357,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 915 • 💬 105 • ⏱️ 20:50 • 15h ago
+👁️ 13K • 👍 915 • 💬 105 • ⏱️ 20:50 • 16h ago
 
 ---
 
@@ -409,7 +407,7 @@ The elites flew private to Davos to plan your future without you. Markets are cr
 
 📺 Stock Moe
 
-👁️ 11K • 👍 1K • 💬 101 • ⏱️ 30:50 • 8h ago
+👁️ 11K • 👍 1K • 💬 101 • ⏱️ 30:50 • 9h ago
 
 ---
 

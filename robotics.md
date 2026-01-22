@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T05:29:23.999187+00:00'
+updated: '2026-01-22T05:55:22.096805+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 05:29 UTC  
+**Last Updated:** January 22, 2026 at 05:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-21h ago
+22h ago
 
 ---
 
@@ -92,19 +92,19 @@ Eric Danziger, founder and CEO of Invisible AI, explains why robotics systems th
 
 ---
 
+**[How to best leverage an internship at FANUC for long‑term growth in robotics / automation?](https://www.reddit.com/r/robotics/comments/1qj18dp/how_to_best_leverage_an_internship_at_fanuc_for/)**
+
+Secured an internship at FANUC, working around industrial robotics and automation. I understand FANUC operates very differently from research labs or startup robotics environments, but I wish to make extract maximum long‑term value from this opportunity.
+
+14h ago
+
+---
+
 **[Help with a survey! If you had a smart robotic arm at home, what would you use it for?](https://www.reddit.com/r/robotics/comments/1qiuxi9/help_with_a_survey_if_you_had_a_smart_robotic_arm/)**
 
 I’m doing a fun little survey for a personal project and would love to hear your thoughts. Imagine you have a compact, intelligent robotic arm designed for home use—something versatile, easy to set up, and capable of handling a variety of tasks. What would be the first thing you’d want it to do? Some ideas to get you thinking: • Cooking & meal prep – chopping, stirring, or even helping with breakfast. • Cleaning & organizing – picking up clutter, wiping surfaces, or doing the dishes. • Pet care – feeding your pet, playing, or brushing. • Home assistance – handing you tools, holding items while you work, or turning lights on/off. • Something totally different? If you have a creative or unexpected use in mind, I’d love to hear that too! Feel free to explain why you’d choose that task. Thanks in advance—your responses will help shape a cool concept I’m working on!
 
 18h ago
-
----
-
-**[Has anyone had any experience with Elephant Robotics products?](https://www.reddit.com/r/robotics/comments/1qizow8/has_anyone_had_any_experience_with_elephant/)**
-
-Hi everyone, I’m thinking of purchasing an Elephant Robotics AGV from their website, yet I haven’t seen a lot of reviews on the internet and I’m concerned that I am going to sink a bunch of money for something lack-luster or not working at all. Has anyone got experience with these products (AGV) and what would you recommend if not Elephant Robotics? I’m based in the UK so shipping could take over a month if I buy this and I kinda need it before March due to deadlines.
-
-14h ago
 
 ---
 
@@ -120,33 +120,11 @@ Microsoft • 15h ago
 
 ---
 
-**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
 
-Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
 
-Yahoo Finance • 1d ago
-
----
-
-**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
-
-Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Diligent Robotics being acquired by Serve Robotics for $29M](https://www.bizjournals.com/austin/news/2026/01/20/austin-robotics-startup-acquired.html)**
-
-The Business Journals • 1d ago
-
----
-
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
-
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
-
-Electrek • 4h ago
+Financial Times • 1d ago
 
 ---
 
@@ -166,19 +144,23 @@ Fortune • 2d ago
 
 ---
 
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://finance.yahoo.com/news/why-serve-robotics-acquiring-hospital-213000945.html)**
 
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
-Financial Times • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Airbus to test China-made humanoid robots in aviation production](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-to-enter-aircraft-production)**
+**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Chinese humanoid robot maker UBTECH signed a cooperation deal with Airbus to deploy its Walker S2 robots inside aircraft manufacturing facilities.
+Reuters • 1d ago
 
-Interesting Engineering • 2d ago
+---
+
+**[Watch Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.bloomberg.com/news/videos/2026-01-20/robotics-nearing-physical-ai-breakthrough-deepmind-ceo-video)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -187,6 +169,22 @@ Interesting Engineering • 2d ago
 Canada is lagging in robotics adoption, industry watchers say, especially outside of the auto sector. At the same time, robots are taking off, thanks to a boom in China and new approaches incorporating AI. At a time when Canada is concerned about productivity, are we missing the boat?
 
 CBC • 1d ago
+
+---
+
+**[A detachable crawling robotic hand](https://www.nature.com/articles/s41467-025-67675-8)**
+
+This study introduces a detachable robotic hand that can detach from a manipulator, crawl to retrieve several objects, and reattach. A symmetric, reversible design enables grasping from both sides, bridging manipulation with autonomous mobility.
+
+Nature • 1d ago
+
+---
+
+**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+
+Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+
+Electrek • 4h ago
 
 ---
 
@@ -220,7 +218,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 18K • 👍 1K • 💬 75 • ⏱️ 1:51 • 15h ago
+👁️ 18K • 👍 1K • 💬 75 • ⏱️ 1:51 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T05:29:23.981383+00:00'
+updated: '2026-01-22T05:55:22.078848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 05:29 UTC  
+**Last Updated:** January 22, 2026 at 05:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 2h ago
 
 ---
 
@@ -51,6 +51,14 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 ---
 
+**[Human Intelligence, AI, and the Problem I Think We're Missing](https://www.reddit.com/r/artificial/comments/1qjfapw/human_intelligence_ai_and_the_problem_i_think/)**
+
+I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
+
+5h ago
+
+---
+
 **[Nvidia CEO says AI needs more investment in defiance of bubble fears](https://www.reddit.com/r/artificial/comments/1qixs5n/nvidia_ceo_says_ai_needs_more_investment_in/)**
 
 Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI as a five-layer cake consisting of energy, chips, cloud infrastructure, models and application. He said AI’s application–how the technology is used in a specific industry–is the most critical layer of that cake as it is where the economic benefits lie.
@@ -59,11 +67,11 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 ---
 
-**[Human Intelligence, AI, and the Problem I Think We're Missing](https://www.reddit.com/r/artificial/comments/1qjfapw/human_intelligence_ai_and_the_problem_i_think/)**
+**[One-Minute Daily AI News 1/21/2026](https://www.reddit.com/r/artificial/comments/1qjm7qi/oneminute_daily_ai_news_1212026/)**
 
-I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
+Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-5h ago
+16m ago
 
 ---
 
@@ -95,7 +103,7 @@ Did Apple make the right choice in partnering with Google for Siri's AI features
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-9h ago
+10h ago
 
 ---
 
@@ -104,14 +112,6 @@ The Wikimedia Foundation announced new partnerships with major artificial intell
 "Microsoft has introduced a new artificial intelligence model aimed at pushing robots beyond controlled factory environments. The system, called Rho-alpha, targets one of robotics’ long-standing limitations: the inability to adapt to unpredictable, real-world settings. Developed by Microsoft Research, Rho-alpha is the company’s first robotics-focused model derived from its Phi vision-language AI family. Microsoft describes it as part of a broader shift toward physical AI, where intelligent agents interact directly with the physical world rather than operating only in digital spaces. Unlike traditional industrial robots, Rho-alpha does not rely on rigid task scripts. The model translates natural language instructions into control signals for robots performing complex two-handed manipulation tasks."
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model) • 4h ago
-
----
-
-**[Pentagon's $100M Drone Swarm Challenge](https://www.reddit.com/r/artificial/comments/1qimv8x/pentagons_100m_drone_swarm_challenge/)**
-
-Pentagon launched a $100M competition for autonomous drone swarm coordination. They're calling it an "Ender's Game challenge" - building systems where drones coordinate without centralized control. This is part of seven priority AI projects. The military is explicitly accelerating AI deployment, and Defense One notes "Grok is in, ethics are out" in their new strategy. Technical problem: distributed multi-agent coordination in real-time. Each drone needs to make decisions, communicate with the swarm, and adapt to dynamic threats simultaneously. Core challenges are sensor fusion across platforms, distributed planning algorithms, and maintaining coordination under communication constraints or jamming. The $100M prize signals they want external talent - universities and defense contractors. This is multi-agent reinforcement learning meeting real hardware at scale, which is significantly harder than playing with drones in Gazebo !! Source - https://www.defenseone.com/technology/2026/01/pentagon-leans-drone-swarms-100m-challenge/410742/
-
-1d ago
 
 ---
 
@@ -133,11 +133,11 @@ Mashable • 4h ago
 
 ---
 
-**[Apple is reportedly developing a wearable AI pin](https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html)**
+**[Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)**
 
-The wearable is said to have two cameras, a microphone and a speaker.
+Should this wearable materialize, it could be released as early as 2027, according to a report on the device.
 
-Engadget • 8h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -147,49 +147,47 @@ The New York Times • 9h ago
 
 ---
 
-**['Mercy' review: Chris Pratt enters AI courtroom in misguided thriller](https://www.detroitnews.com/story/entertainment/movies/2026/01/21/mercy-review-chris-pratt-enters-ai-courtroom-in-misguided-thriller/88271070007/)**
+**[One of the First Big Anti-AI Campaigns From Hollywood Is Launching Now](https://www.hollywoodreporter.com/business/business-news/celebrities-back-stealing-isnt-innovation-campaign-ai-1236479303/)**
 
-Rebecca Ferguson is an AI judge in movie with mixed messages about technology's stranglehold on society.
+Writers, actors and other musicians have come out in support of the Human Artistry Campaign’s “Stealing Isn’t Innovation” push for licensing and opt-out mechanisms for human-created works.
 
-detroitnews.com • 1h ago
-
----
-
-**[Chris Pratt Calls Out “Bulls--t” AI “Actress” Tilly Norwood](https://www.eonline.com/news/1427579/chris-pratt-on-ai-actress-tilly-norwood)**
-
-Chris Pratt emphasized he’s not worried about artificial intelligence—including AI “actress” Tilly Norwood—nabbing acting roles over him, noting, “I think that’s all bulls--t.”
-
-E! News • 1h ago
+hollywoodreporter.com • 53m ago
 
 ---
 
-**[‘Mercy’ Review: Chris Pratt and Rebecca Ferguson in an AI Thriller That Will Have You Longing for a Digital Detox](https://www.hollywoodreporter.com/movies/movie-reviews/mercy-review-chris-pratt-rebecca-ferguson-ai-thriller-1236477844/)**
+**[Thai Billionaire Sarath Deepens Bet on AI in Google Tie-Up](https://www.bloomberg.com/news/articles/2026-01-22/thai-billionaire-sarath-deepens-bet-on-ai-in-google-tie-up)**
 
-Kali Reis co-stars in Timur Bekmambetov's film about a man on trial for murder who has to prove his innocence to an artificial intelligence judge.
-
-hollywoodreporter.com • 12h ago
+Bloomberg.com • 47m ago
 
 ---
 
-**[Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant)**
+**[Bold Call: AI will rewrite publishers’ websites in 2026](https://digiday.com/media/bold-call-ai-will-rewrite-publishers-websites-in-2026/)**
 
-This AI-powered health assistant provides 24/7 health guidance and takes action to connect you to your provider, book appointments, read labs, and manage meds.
+This year, publishers will use AI to transform static sites into dynamic, personalized and reader-driven experiences.
 
-aboutamazon.com • 14h ago
-
----
-
-**[Amazon launches AI health-care tool for One Medical members](https://www.cnbc.com/2026/01/21/amazon-ai-health-care-one-medical-members.html)**
-
-The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.
-
-CNBC • 14h ago
+Digiday • 50m ago
 
 ---
 
-**[Amazon Launches AI Assistant For One Medical Customers](https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers)**
+**[House Seeks Say Over AI Chip Sales After Nvidia’s China Win](https://finance.yahoo.com/news/house-seeks-more-ai-chip-211053332.html)**
 
-The Information • 1h ago
+A House committee focused on foreign affairs approved bipartisan legislation Wednesday that calls for arms-sale style congressional oversight of advanced AI chip exports.  Beyond oversight, the text endorsed by the panel’s Republicans and Democrats would outright ban sales of Nvidia’s more advanced Blackwell chips to China for at least two years, codifying existing export controls into law.  The bill marks a response to President Donald Trump’s decision last month to ease longstanding export controls on China, a move aimed at spurring adoption of American AI technology in global markets but one that drew strenuous objections from national security hawks in Congress.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[US House panel advances bill to give Congress authority over AI chip exports](https://www.reuters.com/legal/litigation/us-house-panel-vote-bill-give-congress-authority-over-ai-chip-exports-2026-01-21/)**
+
+Reuters • 9h ago
+
+---
+
+**[Chairman Mast, HFAC, advances AI Overwatch Act](https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act)**
+
+WASHINGTON, D.C. - Today, the House Foreign Affairs Committee advanced the AI Overwatch Act as part of a full committee markup.
+
+House.gov • 9h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Information • 1h ago
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 293 • 💬 253 • 15h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 293 • 💬 253 • 16h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -215,7 +213,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 203 • 💬 135 • 22h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 203 • 💬 135 • 23h ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -245,7 +243,7 @@ ANCHORAGE WASHINGTON The Pentagon has issued prepare-to-deploy orders to roughly
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 121 • 💬 144 • 15h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 121 • 💬 145 • 15h ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -259,7 +257,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 110 • 💬 64 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 111 • 💬 64 • 1d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -281,7 +279,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 10K • 👍 218 • 💬 136 • ⏱️ 6:52 • 6h ago
+👁️ 10K • 👍 218 • 💬 136 • ⏱️ 6:52 • 7h ago
 
 ---
 
@@ -301,7 +299,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 23K • 👍 1K • 💬 778 • ⏱️ 25:46 • 9h ago
+👁️ 23K • 👍 1K • 💬 778 • ⏱️ 25:46 • 10h ago
 
 ---
 
@@ -311,7 +309,7 @@ OpenAI CFO Sarah Friar joins 'Squawk Box' to discuss the state of the AI race, n
 
 📺 CNBC Television
 
-👁️ 10K • 👍 101 • 💬 29 • ⏱️ 5:39 • 16h ago
+👁️ 10K • 👍 101 • 💬 29 • ⏱️ 5:39 • 17h ago
 
 ---
 
@@ -331,7 +329,7 @@ Krystal and Saagar discuss Ben Affleck on AI and Hollywood with Rogan. Sign up f
 
 📺 Ishan Sharma
 
-👁️ 11K • 👍 1K • 💬 38 • ⏱️ 9:17 • 15h ago
+👁️ 11K • 👍 1K • 💬 38 • ⏱️ 9:17 • 16h ago
 
 ---
 
@@ -351,7 +349,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 16K • 💬 19 • ⏱️ 10:12 • 15h ago
+👁️ 16K • 💬 19 • ⏱️ 10:12 • 16h ago
 
 ---
 
@@ -652,7 +650,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.3k • 39m ago
+⭐ 9.5k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 404 • 9h ago
+⭐ 8.1k • 🔱 404 • 10h ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.3k • 🔱 903 • 20h ago
+⭐ 5.3k • 🔱 903 • 21h ago
 
 ---
 
@@ -702,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.4k • 🔱 4.5k • 14h ago
+⭐ 4.4k • 🔱 4.5k • 15h ago
 
 ---
 
@@ -712,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.1k • 🔱 316 • 7h ago
+⭐ 3.1k • 🔱 316 • 8h ago
 
 ---
 
