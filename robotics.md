@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T19:26:22.570382+00:00'
+updated: '2026-01-22T19:45:24.220516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 19:26 UTC  
+**Last Updated:** January 22, 2026 at 19:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, 
 
 **[Advice on Project/Process structure (Robotics, C++)](https://www.reddit.com/r/robotics/comments/1qjxqnl/advice_on_projectprocess_structure_robotics_c/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -148,7 +148,7 @@ Business Insider • 9h ago
 
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 870 • 👍 26 • 💬 13 • ⏱️ 2:47 • 2h ago
+👁️ 870 • 👍 26 • 💬 13 • ⏱️ 2:47 • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 69 • 💬 3 • ⏱️ 0:32 • 23h ago
+👁️ 2K • 👍 69 • 💬 3 • ⏱️ 0:32 • 1d ago
 
 ---
 

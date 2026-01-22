@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T19:26:22.552356+00:00'
+updated: '2026-01-22T19:45:24.202799+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 19:26 UTC  
+**Last Updated:** January 22, 2026 at 19:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -85,7 +85,7 @@ I can vividly remember teaching my AP English class in 1999 when I first heard o
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-13h ago
+14h ago
 
 ---
 
@@ -135,13 +135,13 @@ The Atlantic • 5h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 22m ago
+The Guardian • 41m ago
 
 ---
 
 **[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-The Information • 56m ago
+The Information • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Information • 56m ago
 
 IBM is a more reliable AI play in this unpredictable market.
 
-The Motley Fool • 21m ago
+The Motley Fool • 40m ago
 
 ---
 
@@ -197,7 +197,7 @@ The Economist • 5h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 553 • 💬 401 • 20h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 553 • 💬 401 • 21h ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -259,7 +259,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 : PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
 
-⬆️ 95 • 💬 64 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 95 • 💬 64 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 
 ---
 
@@ -301,7 +301,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 20h ago
+👁️ 42K • 👍 550 • 💬 321 • ⏱️ 6:52 • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 19h ago
+👁️ 27K • 👍 863 • 💬 72 • ⏱️ 15:40 • 20h ago
 
 ---
 
@@ -341,7 +341,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 23h ago
+👁️ 62K • 👍 3K • 💬 1K • ⏱️ 25:46 • 1d ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 2h ago
+⭐ 9.6k • 🔱 507 • 3h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.5k • 🔱 4.7k • 5h ago
+⭐ 4.5k • 🔱 4.7k • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T19:26:22.560921+00:00'
+updated: '2026-01-22T19:45:24.211328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 19:26 UTC  
+**Last Updated:** January 22, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,25 +91,25 @@ Rank #1
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-4h ago
+5h ago
 
 ---
 
 **[BTC 90k 2 years ago, BTC 90k now](https://www.reddit.com/r/Bitcoin/comments/1qk3jhp/btc_90k_2_years_ago_btc_90k_now/)**
 
-19m ago
+38m ago
 
 ---
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Yeah... just do what's "at least bearable" for 40+ years. Come live in reality a
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-25m ago
+45m ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin payments startup ZBD raised $40M to expand blockchain payment infrastructure for games, focusing on Bitcoin rewards and integration.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[The Daily: Ark Invest sees bitcoin topping $750K by 2030, Senate Agriculture Committee releases crypto market structure bill text, and more](https://www.theblock.co/post/386771/the-daily-ark-invest-sees-bitcoin-topping-750k-by-2030-senate-agriculture-committee-releases-crypto-market-structure-bill-text-and-more?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 35m ago
+The Block • 54m ago
 
 ---
 
@@ -205,7 +205,7 @@ wtop.com • 10h ago
 
 **[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeeqbHRqz4p3nsOFcoofd9l-ntbJvALOLetssUh6F5pMfR01T7ADGLA&gaa_ts=69727d42&gaa_sig=mxgtEREDRVtg4yjhFEOR36XX2uTahfbO0Mvy4tnqZoi3pTBIDfs6Q7mv8eaOqDi5R_kR33sYCWd7Oxws43KE3g%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 6K • 👍 230 • 💬 140 • ⏱️ 32:39 • 22h ago
+👁️ 6K • 👍 230 • 💬 140 • ⏱️ 32:39 • 23h ago
 
 ---
 

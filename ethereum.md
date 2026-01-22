@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T19:26:22.567095+00:00'
+updated: '2026-01-22T19:45:24.217283+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 19:26 UTC  
+**Last Updated:** January 22, 2026 at 19:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 14h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 47m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -208,7 +208,7 @@ Finance Magnates • 1d ago
 
 The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
