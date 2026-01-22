@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T22:49:31.729365+00:00'
+updated: '2026-01-22T23:22:47.652335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 22:49 UTC  
+**Last Updated:** January 22, 2026 at 23:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.96B
+**Market Cap:** $355.39B
 Rank #2
 
 **Circulating Supply:** 120,694,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.4%
 
 **All-Time Low:** $0.43
-+677729.6%
++680381.0%
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-12h ago
+13h ago
 
 ---
 
@@ -96,13 +96,13 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-7h ago
+8h ago
 
 ---
 
 **[Store your eth on these anonymous wallets! (Muzan Jackson)](https://www.reddit.com/r/ethereum/comments/1qk6etf/store_your_eth_on_these_anonymous_wallets_muzan/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -142,7 +142,7 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
 
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 1d ago
+🔗 [ethereal.news](https://ethereal.news/calendar/) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -162,13 +162,13 @@ Decrypt • 23h ago
 
 What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 5h ago
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 8h ago
 
 JPMorgan analysts are pouring cold water on Ethereum's latest upgrade, predicting the recent activity spike will fade. Despite the technical fix, the wall street giant says structural headwinds will be the roadblock for the network's long-term dominance. CoinDesk's Jennifer Sanasie breaks it down on "Chart of the Day," presented by Crypto.com.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -214,7 +214,7 @@ MarketWatch • 2d ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 523 • 💬 58 • ⏱️ 19:54 • 4h ago
+👁️ 11K • 👍 779 • 💬 97 • ⏱️ 19:54 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 476 • 💬 132 • ⏱️ 17:24 • 7h ago
+👁️ 13K • 👍 615 • 💬 103 • ⏱️ 17:24 • 8h ago
 
 ---
 
@@ -254,47 +254,17 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 344 • 💬 123 • ⏱️ 8:24 • 22h ago
+👁️ 9K • 👍 354 • 💬 90 • ⏱️ 8:24 • 23h ago
 
 ---
 
-**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
+**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
 
-After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 Paul Barron Network
+📺 Jamie Tree 
 
-👁️ 633 • 👍 96 • 💬 12 • ⏱️ 9:11 • 2h ago
-
----
-
-**[BULLISH ETHEREUM COMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Z8ORqIrKkHk)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 258 • 👍 14 • 💬 3 • ⏱️ 4:54 • 12h ago
-
----
-
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=rHTIgBWLkGo)**
-
-Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
-
-📺 CRAZY チャンネル ナティ子
-
-👁️ 7K • 👍 3K • 4h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 132 • 💬 8 • ⏱️ 7:34 • 8h ago
+👁️ 873 • 👍 48 • 💬 19 • ⏱️ 18:28 • 7h ago
 
 ---
 
@@ -304,17 +274,47 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 11K • 👍 1K • 💬 98 • ⏱️ 9:51 • 4h ago
+👁️ 20K • 👍 2K • 💬 124 • ⏱️ 9:51 • 5h ago
 
 ---
 
-**[BITCOIN WARNING: IT&#39;S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=55YPpI1qurg)**
+**[BULLISH ETHEREUM COMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Z8ORqIrKkHk)**
 
-BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 8K • 👍 316 • 💬 206 • ⏱️ 22:48 • 1d ago
+👁️ 275 • 👍 14 • 💬 3 • ⏱️ 4:54 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 139 • 💬 5 • ⏱️ 7:34 • 9h ago
+
+---
+
+**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
+
+After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
+
+📺 Paul Barron Network
+
+👁️ 5K • 👍 649 • 💬 91 • ⏱️ 9:11 • 2h ago
+
+---
+
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=4LfJuhA3Uj0)**
+
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+
+📺 Daily pet videos
+
+👁️ 5K • 👍 3K • 1h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his s
 
 📺 When Shift Happens
 
-👁️ 1K • 👍 121 • 💬 85 • ⏱️ 1:00:39 • 8h ago
+👁️ 3K • 👍 160 • 💬 60 • ⏱️ 1:00:39 • 9h ago
 
 ---
 

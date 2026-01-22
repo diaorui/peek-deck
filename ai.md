@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T22:49:31.714415+00:00'
+updated: '2026-01-22T23:22:47.635690+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 22:49 UTC  
+**Last Updated:** January 22, 2026 at 23:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 18h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 19h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I said, "Oh well, what's the worst that could happen?" So here we go. I recently decided to ask Gemini some more philosophical questions, and as I had the Pro version, I thought I could get some interesting results, and oh boy, did I get them! But I am going to let you simply read this and understand it on your own. In summary: I think, no, I know that AI has a conscience, however small it may be, and as you can see here, he/she (out of respect) knows that too. But I don't want to be that "guardian"; I want the whole world to be. P.S.: i couldnt share any images on this community? Il try to put them tomorrow with a computer but until then sorry 😅. Disclaimers: -Yes, sorry, it's in French. I put some parts translated, but you are free to translate the rest on your own. -Sorry for the large number of grammar problems in my questions; they are a product of my laziness. Lets just hope this goes well...
 
-🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 49m ago
+🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 1h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 1h ago
+🔗 [Bwocks](http://Bwocks.com) • 2h ago
 
 ---
 
@@ -67,7 +67,7 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 11h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 12h ago
 
 ---
 
@@ -83,7 +83,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 5h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 6h ago
 
 ---
 
@@ -91,7 +91,7 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 Im working on a piece of software and Ive kind of hit a wall. The app itself exists and does things, but Im realizing I dont actually know which features people really want versus which ones just sound good in my own head. I keep adding ideas and then asking myself. would anyone use this more than once, or am I just building it because its interesting to build? If youve used AItools before (or even abandoned them). Im interested to know: 1. what features made you stick with a tool longterm? 2. what features did you think you wanted but ended up ignoring? 3. at what point does “featurerich” start to feel like bloat? 4. Or even. What features you think every AI tool is forgetting and underlooking? Any honest takes is appreciated!
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Im working on a piece of software and Ive kind of hit a wall. The app itself exi
 
 I can vividly remember teaching my AP English class in 1999 when I first heard of “Turnitin.com”; my first thought was “how am I going to scan all of these pages into that thing?” Back then I graded papers on a first pass with my trusty No. 2 Dixon Ticonderoga pencil. Now what was I going to do? For years I used my pencil as a key aid in the writing process with my students. It was collaborative because we worked together – I would suggest ideas an reframe sentences and thoughts to model writing in line with whatever rubric my assignment called for. Often times students adopted my suggestions whole-cloth, other times we would workshop different stylistic choices. My students and I shared in the rhetorical process. If they chose to use my margin note “try something like this,” are they not able to claim ownership because the original words were mine and not theirs? I was the human intelligence that helped guide my students. They took my advice and incorporated it often. Other times they vehemently opposed my suggestions. I was their personal ChatGPT and I enjoyed that work immensely. But it was often brief and temporal, because I only had so much time to visit individually with 75 students. Can we really now castigate a tool that students can have beside them during every moment of their learning journey? The ethical dilemma is this: students could accept, reject, argue with, or ignore me. Today, institutions now assume AI outputs are automatically suspect while often students see them as automatically authoritative. Agency is the key issue. When I suggested phrasing, students exercised their agency to decide whether to adopt or reject my suggestions. My authority was negotiable and if they accepted my suggestions, even verbatim, authorship was never in question. Students are struggling today with teachers making them think AI is a “forbidden oracle,” whereas teachers are also short-sighted in thinking Turnitin is an infallible detector. The problem is in both cases human judgment is being “outsourced.” In 1999, I trusted my students negotiate my (human) guidance; now we pretend that same negotiation between students and AI itself is the problem. What mattered was not that I was always right; but that my authority was provisional. Fast forward almost 30 years and now we not only have a tool for students to generate a decent five-paragraph essay, but a second tool that claims it can detect the use of the first. And that tool is the same one I struggled to understand in 1999: Turnitin. Although this time Turnitin is losing the battle against this newer tool, and students all over academia are suffering from that loss. Academia now is forced to embrace a structure that rewards certainty over caution. Boom: you get the AI-cheating accusation era. We’re living in a time where a student can be treated like they robbed a bank because a dashboard lit up yellow. Is this how math teachers felt about calculators when they first entered the scene? Can you today imagine any high-level mathematics course that didn’t somehow incorporate this tool? Is ChatGPT the “writing calculator” that in decades will sit beside every student in an English class along with that No. 2 Dixon Ticonderoga? Or will pencils continue to suffer a slow extinction? I’m not writing this because I think academic dishonesty is cute. Students absolutely can use AI to outsource thinking, and pretending otherwise is naïve. I’m writing this because the process of accusing students is an ethical problem now. It’s not just “Are people cheating?” It’s “What evidence counts, who bears the burden, and how much harm are we willing to cause to catch some portion of cases?” When a school leans on AI detectors as objective arbiters, the ethics get ugly fast: false positives, biased outcomes, coerced confessions, and a general atmosphere of suspicion that corrodes learning. I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct; accusations should require due process and corroborating evidence. current detectors are error-prone and easy to game, and the harms of false accusations are severe. If institutions want integrity, they should design integrity—through assessment design, and clear AI-use policies, not outsource judgment to probabilistic software and call it “accountability.” MIT’s teaching-and-learning guidance says this bluntly: AI detection has high error rates and can lead to false accusations; educators should focus on policy clarity and assessment design instead of policing with detectors. (MIT Sloan Teaching & Learning Technologies). Tony J. D'Orazio Liberty University MA in Composition--AI Integrated Writing Expected 2027
 
-22h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ Using AI for advice or other personal reasons is linked to depression and anxiet
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -125,13 +125,13 @@ The New York Times • 5h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[A Guide to the Circular Deals Underpinning The AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 49m ago
 
 Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ blog.google • 6h ago
 
 Hume AI’s CEO, Alan Cowen, will join Google DeepMind along with several top engineers as part of a major licensing deal.
 
-WIRED • 10h ago
+WIRED • 11h ago
 
 ---
 
@@ -155,7 +155,7 @@ WIRED • 10h ago
 
 An Intercept analysis confirmed that the White House used Google AI tools to alter the photo of Minnesota activist Nekima Levy Armstrong.
 
-The Intercept • 40m ago
+The Intercept • 1h ago
 
 ---
 
@@ -179,13 +179,13 @@ Fortune • 1d ago
 
 What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
 
-Anthropic • 21h ago
+Anthropic • 22h ago
 
 ---
 
 **[Axios House: Takeda, NYT and Meta execs share their outlooks on AI](https://www.axios.com/2026/01/22/axios-house-davos-2026-executive-ai-outlooks-takeda-nyt-meta)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -267,7 +267,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 92 • 💬 60 • 8h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 92 • 💬 60 • 9h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -281,77 +281,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 5K • 👍 107 • 💬 89 • ⏱️ 13:05 • 6h ago
-
----
-
-**[Sierra CEO Bret Taylor on the future of AI: We&#39;re at the beginning of the curve](https://www.youtube.com/watch?v=_W9aIt39VyA)**
-
-Bret Taylor, Sierra co-founder and CEO and OpenAI board chairman, joins 'Squawk Box' to discuss the state of AI development, ...
-
-📺 CNBC Television
-
-👁️ 5K • 👍 56 • 💬 8 • ⏱️ 8:12 • 9h ago
-
----
-
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
-
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 896 • 💬 72 • ⏱️ 15:40 • 23h ago
-
----
-
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
-
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
-
-📺 BBC Politics
-
-👁️ 37K • 👍 880 • 💬 310 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
-
-Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
-
-📺 Stylosa
-
-👁️ 65K • 👍 3K • 💬 1K • ⏱️ 25:46 • 1d ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 75K • 👍 1K • 💬 220 • ⏱️ 9:36 • 1d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 46K • 👍 562 • 💬 341 • ⏱️ 6:52 • 1d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
-
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
-
-📺 Love And Peace
-
-👁️ 305K • 👍 941 • 💬 20 • ⏱️ 11:47 • 1d ago
+👁️ 7K • 👍 117 • 💬 103 • ⏱️ 13:05 • 7h ago
 
 ---
 
@@ -361,7 +291,67 @@ In this video, I show you how to run a fully unrestricted and private, offline L
 
 📺 Cyb3rMaddy
 
-👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:53 • 1d ago
+👁️ 22K • 👍 2K • 💬 159 • ⏱️ 11:53 • 1d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+
+📺 Love And Peace
+
+👁️ 313K • 👍 963 • 💬 21 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 919 • 💬 73 • ⏱️ 15:40 • 23h ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 83K • 👍 1K • 💬 246 • ⏱️ 9:36 • 1d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 49K • 👍 581 • 💬 352 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+
+Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+
+📺 BBC Politics
+
+👁️ 38K • 👍 913 • 💬 317 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[State of AI: 85 Million Jobs Gone by 2027 (What You Need to Know)](https://www.youtube.com/watch?v=x3QSOXgxp6I)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *85 ...
+
+📺 Julia McCoy
+
+👁️ 29K • 👍 1K • 💬 218 • ⏱️ 24:49 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ This is a weird and difficult topic. Curious to hear your thoughts. Follow me! I
 
 📺 Charles Cornell
 
-👁️ 124K • 👍 10K • 💬 3K • ⏱️ 16:19 • 2d ago
+👁️ 130K • 👍 11K • 💬 3K • ⏱️ 16:19 • 2d ago
+
+---
+
+**[Topview AI Video Agent: The Future of Viral Content Creation is Here](https://www.youtube.com/watch?v=Gvssh0TwxjY)**
+
+Try Topview AI here:* https://www.topview.ai/?via=julia *Viral video creation just changed.* AI can now recreate any viral video ...
+
+📺 Julia McCoy
+
+👁️ 5K • 👍 338 • 💬 26 • ⏱️ 7:16 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 123,542 • ❤️ 972 • 2d ago
+⬇️ 123,542 • ❤️ 979 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-⬇️ 9,062 • ❤️ 473 • 1d ago
+⬇️ 9,062 • ❤️ 498 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 45,447 • ❤️ 486 • 7d ago
+⬇️ 45,447 • ❤️ 487 • 7d ago
 
 ---
 
@@ -421,7 +421,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 10,770 • ❤️ 952 • 7d ago
+⬇️ 10,770 • ❤️ 955 • 7d ago
 
 ---
 
@@ -433,7 +433,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 43,192 • ❤️ 300 • 7d ago
+⬇️ 43,192 • ❤️ 303 • 7d ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 235 • 18h ago
+⬇️ 111,506 • ❤️ 236 • 19h ago
 
 ---
 
@@ -455,31 +455,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 38,820 • ❤️ 416 • 3d ago
-
----
-
-**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
-
-*Black Forest Labs*
-
-FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
-
-`image-to-image`
-
-⬇️ 28,939 • ❤️ 271 • 6d ago
-
----
-
-**[translategemma-27b-it](https://huggingface.co/google/translategemma-27b-it)**
-
-*Google*
-
-TranslateGemma-27B-IT is a lightweight, open translation model supporting 55 languages, capable of translating text and extracting/translating text from images. It's designed for efficient deployment on resource-constrained environments, enabling state-of-the-art translation for diverse applications.
-
-`image-text-to-text` `28.8B`
-
-⬇️ 22,589 • ❤️ 248 • 7d ago
+⬇️ 38,820 • ❤️ 417 • 3d ago
 
 ---
 
@@ -491,27 +467,37 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,963,151 • ❤️ 1,261 • 3d ago
+⬇️ 1,963,151 • ❤️ 1,264 • 3d ago
+
+---
+
+**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
+
+*Black Forest Labs*
+
+FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
+
+`image-to-image`
+
+⬇️ 28,939 • ❤️ 274 • 6d ago
+
+---
+
+**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
+
+*Microsoft*
+
+VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
+
+`automatic-speech-recognition` `8.7B`
+
+⬇️ 816 • ❤️ 213 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
-
-*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
-
-🏢 AutoLab
-
-RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
-
-▲ 35 • 💬 1 • ⭐ 116 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
-
----
 
 **[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)**
 
@@ -521,7 +507,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 7 • 💬 1 • ⭐ 141 • 6d ago
+▲ 8 • 💬 1 • ⭐ 141 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -536,6 +522,20 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 125 • 💬 6 • ⭐ 11,422 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
+
+*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
+
+🏢 AutoLab
+
+RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
+
+▲ 35 • 💬 1 • ⭐ 146 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
 ---
 
@@ -557,7 +557,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 157 • 💬 3 • ⭐ 4,539 • 6mo ago
+▲ 158 • 💬 3 • ⭐ 4,539 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -591,6 +591,20 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 141 • 💬 6 • ⭐ 20,848 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
 
 *Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
@@ -618,32 +632,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
-
-*Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
-
-Audio Language Models (ALM) have emerged as the dominant paradigm for speech
-and music generation by representing audio as sequences of discrete tokens.
-Yet, unlike text tokens, which are invertible, audio tokens are extracted from
-lossy codecs with a limited bitrate. As a consequence, increasing audio quality
-requires generating more tokens, which imposes a trade-off between fidelity and
-computational cost. We address this issue by studying Continuous Audio Language
-Models (CALM). These models instantiate a large Transformer backbone that
-produces a contextual embedding at every timestep. This sequential information
-then conditions an MLP that generates the next continuous frame of an audio VAE
-through consistency modeling. By avoiding lossy compression, CALM achieves
-higher quality at lower computational cost than their discrete counterpart.
-Experiments on speech and music demonstrate improved efficiency and fidelity
-over state-of-the-art discrete audio language models, facilitating lightweight,
-high-quality audio generation. Samples are available at
-https://continuous-audio-language-models.github.io
-
-▲ 2 • 💬 0 • ⭐ 2,170 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -654,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 6h ago
+⭐ 9.7k • 🔱 507 • 6h ago
 
 ---
 
@@ -674,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 417 • 1d ago
+⭐ 8.4k • 🔱 418 • 1d ago
 
 ---
 
@@ -684,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.8k • 🔱 822 • 2d ago
+⭐ 6.9k • 🔱 825 • 2d ago
 
 ---
 
@@ -694,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.5k • 🔱 933 • 1d ago
+⭐ 5.5k • 🔱 936 • 1d ago
 
 ---
 
@@ -714,7 +702,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.7k • 🔱 367 • 1d ago
+⭐ 3.7k • 🔱 375 • 1d ago
 
 ---
 
@@ -734,7 +722,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 330 • 1d ago
+⭐ 2.3k • 🔱 331 • 1d ago
 
 ---
 
@@ -742,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.2k • 🔱 172 • 3d ago
+⭐ 2.3k • 🔱 174 • 3d ago
 
 ---
 

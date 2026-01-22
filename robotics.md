@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T22:49:31.732828+00:00'
+updated: '2026-01-22T23:22:47.655620+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 22:49 UTC  
+**Last Updated:** January 22, 2026 at 23:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-15h ago
+16h ago
 
 ---
 
@@ -60,7 +60,7 @@ not like real human running to you, each time when team bring him running outsid
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 RSVP Here
 
-1h ago
+2h ago
 
 ---
 
@@ -92,7 +92,7 @@ RSVP Here
 
 RSVP Here
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ RSVP Here
 
 I have ubuntu 24 and has ros jazzy but when conecting to the robot through ssh, it says ? Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.10.104-tegra aarch64) This system has been minimized by removing packages and content that are not required on a system that users do not log into. To restore this content, you can run the 'unminimize' command. 0 updates can be applied immediately. 60 additional security updates can be applied with ESM Apps. Learn more about enabling ESM Apps service at https://ubuntu.com/esm Last login: Sat ****** from 192.168.123.51 ros:foxy(1) noetic(2) ? What does this means ? Do i need to depriciated my whole ubuntu and ros in order to run ? Or ned to do it from docker ? How you guys are doing ?
 
-5h ago
+6h ago
 
 ---
 
@@ -126,7 +126,7 @@ Microsoft • 1d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNBC • 1d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -190,13 +190,33 @@ ktiv.com • 1d ago
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-CBS News • 6h ago
+CBS News • 7h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Elon Musk: &#39;There&#39;ll be more robots than people&#39; in future of abundance](https://www.youtube.com/watch?v=1Fkr18yzbEc)**
+
+In a recent discussion regarding the expansion of the global economy, a speaker outlines a future dominated by artificial ...
+
+📺 India Today
+
+👁️ 590 • 👍 12 • 💬 1 • ⏱️ 2:42 • 2h ago
+
+---
+
+**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+
+Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 234 • 💬 21 • ⏱️ 19:35 • 4d ago
+
+---
 
 **[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
 
@@ -208,13 +228,13 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 ---
 
-**[China&#39;s New Feminine RoboCop #humanoidrobot #robot #robotics #ai #futureoflaw #humanoid](https://www.youtube.com/watch?v=0irTDhFuKXk)**
+**[Elon Musk&#39;s Tesla Bot Gen 3 New LEAKED, It’s eye-Opening!](https://www.youtube.com/watch?v=Yu8I93xJ3pY)**
 
-China's latest RoboCop is brining feminine energy into next-generation law enforcement. In footage circulating on social media, ...
+Elon Musk's Tesla Bot Gen 3 New LEAKED, It's eye-Opening! Tesla Bot Gen 3 is finally leaked—and it's eye-opening. This video ...
 
-📺 Kalil 4.0
+📺 TESLA CAR WORLD
 
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:33 • 11h ago
+👁️ 191K • 👍 4K • 💬 279 • ⏱️ 8:00 • 6d ago
 
 ---
 
@@ -224,7 +244,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 28K • 👍 1K • 💬 100 • ⏱️ 1:51 • 1d ago
+👁️ 29K • 👍 1K • 💬 102 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -238,23 +258,13 @@ A humanoid robot is now running with a motion that looks almost human, and it co
 
 ---
 
-**[War Robots - New Robot Ammit Unlocked! | Update 11.7](https://www.youtube.com/watch?v=QS_Ds0gN27I)**
+**[China&#39;s New Feminine RoboCop #humanoidrobot #robot #robotics #ai #futureoflaw #humanoid](https://www.youtube.com/watch?v=0irTDhFuKXk)**
 
-War Robots - New robot Ammit unlocked with new weapons Hippo, Kroko, Scales drone and the Mei Lan pilot all at max level.
+China's latest RoboCop is brining feminine energy into next-generation law enforcement. In footage circulating on social media, ...
 
-📺 Adrian Chong
+📺 Kalil 4.0
 
-👁️ 4K • 👍 255 • 💬 97 • ⏱️ 19:41 • 1d ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 46K • 👍 2K • 💬 535 • ⏱️ 32:01 • 6h ago
+👁️ 1K • 👍 22 • 💬 1 • ⏱️ 0:33 • 12h ago
 
 ---
 
@@ -278,23 +288,13 @@ What If Robots Could Move Using Real Human Muscle—Just Like Your Own Hand? In 
 
 ---
 
-**[Humanoid robots are finally doing real work CES 2026 | Rich on Tech Weekly](https://www.youtube.com/watch?v=o-dGhnoULmk)**
+**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
 
-Rich walks the CES 2026 floor looking for what's actually changed, and this is the year it shows up in robots. Machines that once ...
+Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
 
-📺 KTLA 5
+📺 UBTECH Robotics
 
-👁️ 17K • 👍 33 • 💬 5 • ⏱️ 23:17 • 3d ago
-
----
-
-**[Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.youtube.com/watch?v=SwqYJQYAD8I)**
-
-Google DeepMind Co-Founder and Chief Executive Officer Demis Hassabis sees robotics as being “on the cusp of a kind of break ...
-
-📺 Bloomberg Technology
-
-👁️ 3K • 👍 58 • 💬 1 • ⏱️ 2:03 • 1d ago
+👁️ 9K • 👍 149 • 💬 30 • ⏱️ 1:56 • 2d ago
 
 ---
 
