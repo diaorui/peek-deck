@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-22T11:46:37.486289+00:00'
+updated: '2026-01-22T12:53:42.433685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 11:46 UTC  
+**Last Updated:** January 22, 2026 at 12:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
+**24h:** +2.0%  
 **7d:** -9.4%  
 **30d:** +1.4%  
 **90d:** -24.4%  
-**1y:** -10.4%  
+**1y:** -10.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -154,23 +154,15 @@ The 7-day moving average climbed to 2.43 million transactions on January 17. The
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
-**[Why BlackRock is bullish on Ethereum in 2026 despite price stall](https://www.dlnews.com/articles/markets/why-blackrock-is-bullish-on-ethereum-in-2026-despite-price-stall/)**
+**[Why BlackRock is bullish on Ethereum in 2026 despite price stall](https://finance.yahoo.com/news/why-blackrock-bullish-ethereum-2026-105100242.html)**
 
 Ethereum dominates tokenisation at 66% of market share. That’s despite poor price performance as the asset trades 40% below all-time high. AI, defence are also hot themes for investors.
 
-dlnews.com • 51m ago
-
----
-
-**[Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil](https://finance.yahoo.com/news/tom-lees-bitmine-adds-108-154349017.html)**
-
-Ethereum treasury firm BitMine added $108 million last week, but its stock is down as markets react to President Trump's latest tariff threats.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,19 +170,45 @@ Yahoo Finance • 1d ago
 
 The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqebSv4YW0Tc8l7Q0JYz9qBeO6EiDAWruDQ63Z5qUSNQZ8I61mZ69zY8&gaa_ts=69721183&gaa_sig=pbxY0YDkcFvIsa4QExZuDWyo3kh_GKdlz_iEB1gMFaFE6hSQjfPqBMvyQFO8y4CXjDMBJvozkl4Y8RIod0ZnTg%3D%3D)**
+**[Vitalik Buterin floats native DVT staking proposal to boost Ethereum security and decentralization](https://www.theblock.co/post/386481/vitalik-buterin-floats-native-dvt-staking-proposal-boost-ethereum-security-decentralization)**
 
-MarketWatch • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+**[Ethereum's Vitalik Buterin Going All-In on Decentralized Social Media as Farcaster, Lens Change Hands](https://decrypt.co/355335/ethereum-vitalik-buterin-decentralized-social-media-farcaster-lens-change-hands)**
 
-The Block • 13h ago
+The decentralized social media landscape is rapidly shifting. Ethereum founder Vitalik Buterin encouraged users to stick with it.
+
+Decrypt • 12h ago
+
+---
+
+**[Ethereum to $250,000? Price slides but Bitmine buys $100m worth of tokens](https://www.dlnews.com/articles/markets/ethereum-price-down-as-bitmine-immersion-buys-more-eth/)**
+
+The price of Ethereum has slid over the past week.  But Bitmine Immersion bought more Ethereum. Chair Tom Lee is bullish over Ethereum’s long-term price.
+
+dlnews.com • 1d ago
+
+---
+
+**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.nasdaq.com/articles/how-next-ethereum-could-help-you-retire-millionaire-0)**
+
+Key PointsOver the past decade, Ethereum delivered huge gains for investors, rising in price from $3 to $3,000.
+
+Nasdaq • 1d ago
+
+---
+
+**[Ethereum Sentiment Flips Bearish as Traders Brace for Drop to $2.5K](https://decrypt.co/355323/ethereum-price-sentiment-bearish-myriad-traders)**
+
+Ethereum price faces bearish pressure as prediction markets show a 62.5% chance of ETH dropping to $2,500 before hitting $4,000.
+
+Decrypt • 14h ago
 
 ---
 
@@ -198,29 +216,13 @@ The Block • 13h ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 22h ago
+Finance Magnates • 23h ago
 
 ---
 
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
-
-TradingView — Track All Markets • 17h ago
-
----
-
-**[Ethereum is facing a brutal institutional "midlife crisis," and the Foundation’s 35-point response reveals a shocking new reality](https://cryptoslate.com/ethereum-is-facing-a-brutal-institutional-midlife-crisis-and-the-foundations-35-point-response-reveals-a-shocking-new-reality/)**
-
-A new comms lead, an institutions portal, and “Get in touch” CTAs suggest Ethereum thinks perception is becoming adoption.
-
-CryptoSlate • 1d ago
-
----
-
-**[Bitcoin Price, Ethereum Drop Amid U.S.-Europe Tensions](https://www.barrons.com/articles/bitcoin-price-ethereum-crypto-today-82615c39?gaa_at=eafs&gaa_n=AWEtsqcumuSELwAP5Q9irwXOIk2c1ZPs-eBhNEQNbSGJtfZKR2rH5o7DloMe&gaa_ts=69721183&gaa_sig=mzgVlcR_E4Es28EAU81edWv-hFJ80os7LToq0P4eG2iMVeooeOw5XoE1mXvKkZPJkX0HSx8lR60lgqL8Smm6Xw%3D%3D)**
-
-Barron's • 2d ago
+The Block • 14h ago
 
 ---
 
@@ -234,7 +236,7 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 284 • 💬 79 • ⏱️ 8:24 • 11h ago
+👁️ 6K • 👍 284 • 💬 79 • ⏱️ 8:24 • 12h ago
 
 ---
 
@@ -244,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 49 • 👍 8 • 💬 3 • ⏱️ 4:54 • 1h ago
+👁️ 49 • 👍 8 • 💬 3 • ⏱️ 4:54 • 2h ago
 
 ---
 
@@ -254,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 18 • ⏱️ 10:26 • 12h ago
+👁️ 2K • 👍 141 • 💬 18 • ⏱️ 10:26 • 13h ago
 
 ---
 
@@ -264,7 +266,7 @@ BITCOIN WARNING: IT'S HAPPENING AGAIN (New Targets)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 303 • 💬 204 • ⏱️ 22:48 • 14h ago
+👁️ 7K • 👍 303 • 💬 204 • ⏱️ 22:48 • 16h ago
 
 ---
 
@@ -274,7 +276,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺  S BENCH 
 
-👁️ 5K • 👍 4K • 10h ago
+👁️ 5K • 👍 4K • 12h ago
 
 ---
 
@@ -284,7 +286,7 @@ Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome
 
 📺 Millionaire Formula
 
-👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 17h ago
+👁️ 1K • 👍 125 • 💬 1 • ⏱️ 19:04 • 18h ago
 
 ---
 
@@ -294,7 +296,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 273 • ⏱️ 19:48 • 14h ago
+👁️ 3K • 👍 273 • ⏱️ 19:48 • 15h ago
 
 ---
 
@@ -304,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 138 • 💬 7 • ⏱️ 6:37 • 23h ago
+👁️ 3K • 👍 138 • 💬 7 • ⏱️ 6:37 • 1d ago
 
 ---
 
@@ -324,7 +326,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 667 • 💬 86 • ⏱️ 15:18 • 7h ago
+👁️ 4K • 👍 667 • 💬 86 • ⏱️ 15:18 • 8h ago
 
 ---
 
