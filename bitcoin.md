@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T04:50:11.949437+00:00'
+updated: '2026-01-22T05:29:23.989958+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 04:50 UTC  
+**Last Updated:** January 22, 2026 at 05:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sold my sats, took my GF on Vacation](https://www.reddit.com/r/Bitcoin/comments/1qjfakq/sold_my_sats_took_my_gf_on_vacation/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Here is me saying Bitcoin in January 2026
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Here is me saying Bitcoin in January 2026
 
 95% of Bitcoin supply has been mined. There will likely never be this much Bitcoin available to purchase ever again. https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total If you look at the entire history of the Bitcoin exchange balance you can litterally see the exact date it peaked. Monday, July 26th, 2021. That day was the historical day the most Bitcoin was ever available to purchase. Since then, we have descended all the way back to 2018 level supply (nearly 8 years ago). From nearly 3.5 Million total available to purchase 1 year ago to 2.5 million today. All the while price has steadily risen from $4000 to over $120,000. It will likely continue gaining value until hitting a singularity of sorts At current pace this massive stock of Bitcoin for sale will be gone by sometime in the year 2028. Of course some Bitcoin will always be available on the market, but the amount is going to be so microscopically low that the price will be astronomically high.
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Here is me saying Bitcoin in January 2026
 
 Thank you for your attention to this matter.
 
-10h ago
+11h ago
 
 ---
 
@@ -111,19 +111,19 @@ Thank you for your attention to this matter.
 
 hold strong
 
-12h ago
+13h ago
 
 ---
 
 **[They don’t know.](https://www.reddit.com/r/Bitcoin/comments/1qjgaqu/they_dont_know/)**
 
-3h ago
+4h ago
 
 ---
 
 **[It's a Marathon, not a Sprint 🟠](https://www.reddit.com/r/Bitcoin/comments/1qiysy0/its_a_marathon_not_a_sprint/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ hold strong
 
 https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a20685904fe9cdeaa28c40cfb3bc5c7f5a3faede .
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 **[The 401K of a winner](https://www.reddit.com/r/Bitcoin/comments/1qj5ckj/the_401k_of_a_winner/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 9h ago
 
 Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 13h ago
 
 The bitcoin price reclaimed $90,000 after a volatile trading day.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bitcoin Magazine • 7h ago
 
 "The solution, if consummated, will be a great one for the U.S. and all NATO nations," said President Trump in a Truth Social post.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -201,13 +201,13 @@ Bloomberg.com • 1d ago
 
 Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 9h ago
 
 ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitcoin Magazine • 8h ago
 
 The first-of-its-kind FIA, according to the companies, offers crypto exposure with principal protection, aiming to attract cautious investors near retirement.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -275,7 +275,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 4h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 5h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -339,7 +339,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 10K • 👍 1K • 💬 109 • ⏱️ 7:51 • 11h ago
+👁️ 10K • 👍 1K • 💬 109 • ⏱️ 7:51 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 33K • 👍 3K • 💬 203 • ⏱️ 18:43 • 14h ago
+👁️ 33K • 👍 3K • 💬 203 • ⏱️ 18:43 • 15h ago
 
 ---
 
