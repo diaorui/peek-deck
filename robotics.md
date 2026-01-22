@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T16:37:56.446248+00:00'
+updated: '2026-01-22T17:29:56.903707+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 16:37 UTC  
+**Last Updated:** January 22, 2026 at 17:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ not like real human running to you, each time when team bring him running outsid
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 9h ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 10h ago
 
 ---
 
@@ -94,7 +94,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 Helloo! I am about to graduate high school in a month and I will have 5 months before I start uni. I am going to major in robotics and ai. I wanted some projects I can work on to build my mechatronics skills. I have experience with Arduino, ESP32, IOT. I am able to create and solder my own basic pcb and I know python programming using libraries like OpenCV. TL;DR - need some project ideas so I can deepen my mechatronics understandings, implement control systems and autonomous movement!
 
-13h ago
+14h ago
 
 ---
 
@@ -146,7 +146,7 @@ Financial Times • 2d ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Business Insider • 6h ago
 
 What’s standing in the way of our robot overlords.
 
-vox.com • 4h ago
+vox.com • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ vox.com • 4h ago
 
 Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
 
-Electrek • 15h ago
+Electrek • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ Electrek • 15h ago
 
 Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
 
-ktiv.com • 19h ago
+ktiv.com • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 68 • 💬 3 • ⏱️ 0:32 • 21h ago
+👁️ 2K • 👍 68 • 💬 3 • ⏱️ 0:32 • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ China's latest RoboCop is brining feminine energy into next-generation law enfor
 
 📺 Kalil 4.0
 
-👁️ 935 • 👍 16 • 💬 1 • ⏱️ 0:33 • 5h ago
+👁️ 935 • 👍 16 • 💬 1 • ⏱️ 0:33 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ Rich walks the CES 2026 floor looking for what's actually changed, and this is t
 
 📺 KTLA 5
 
-👁️ 17K • 👍 33 • 💬 5 • ⏱️ 23:17 • 2d ago
+👁️ 17K • 👍 33 • 💬 5 • ⏱️ 23:17 • 3d ago
 
 ---
 
