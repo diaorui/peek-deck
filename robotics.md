@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-22T07:28:38.547077+00:00'
+updated: '2026-01-22T07:50:00.561132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 22, 2026 at 07:28 UTC  
+**Last Updated:** January 22, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-24m ago
+46m ago
 
 ---
 
@@ -50,7 +50,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 You can dance! Dancing is not that difficult, from a middle level Robotics development company
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ You can dance! Dancing is not that difficult, from a middle level Robotics devel
 
 I finally got ros2 jazzy and gazebo to bridge msg. It might not so much but it meant the world to me because now it is easier to make simualtions for prototyping and cad designs
 
-🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 25m ago
+🔗 [youtube.com](https://youtube.com/shorts/UDXVZhm-R5s?si=mjVlPIcqk8EJP__r) • 47m ago
 
 ---
 
@@ -218,7 +218,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 20K • 👍 1K • 💬 79 • ⏱️ 1:51 • 17h ago
+👁️ 20K • 👍 1K • 💬 79 • ⏱️ 1:51 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-22T07:28:38.529573+00:00'
+updated: '2026-01-22T07:50:00.543563+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 22, 2026 at 07:28 UTC  
+**Last Updated:** January 22, 2026 at 07:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ Speaking at the World Economic Forum in Davos, Switzerland, Huang described AI a
 
 Using AI for advice or other personal reasons is linked to depression and anxiety.[1] Apple is turning Siri into an AI bot that’s more like ChatGPT.[2] Amazon One Medical introduces agentic Health AI assistant for simpler, personalized, and more actionable health care.[3] Todoist’s app now lets you add tasks to your to-do list by speaking to its AI.[4] Sources: [1] https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036 [2] https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt [3] https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant [4] https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Apple is reportedly developing a new AI wearable device that could change how us
 
 The Wikimedia Foundation announced new partnerships with major artificial intelligence companies for the structured use of Wikipedia data, as part of the project's 25th anniversary. These agreements are channeled through Wikimedia Enterprise, a commercial product that provides legal, documented, and large-scale access to the content of Wikipedia and other Wikimedia projects, particularly relevant for training AI models and performing quality assurance.
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 1h ago
 
 Leaders from across the tech sector, academia, and beyond gathered at a TIME100 Roundtable in Davos.
 
-Time Magazine • 58m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Time Magazine • 58m ago
 
 China isn’t the only country imposing limits on creative expression, argues the provocative artist
 
-The Guardian • 28m ago
+The Guardian • 50m ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 4h ago
 
 NVIDIA's CEO Jensen Huang sat down with BlackRock's Larry Fink at Davos to discuss why AI represents the largest infrastructure buildout in human history.
 
-Forbes • 59m ago
+Forbes • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Information • 11h ago
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 296 • 💬 254 • 17h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 296 • 💬 254 • 18h ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -281,7 +281,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 21K • 👍 314 • 💬 203 • ⏱️ 6:52 • 8h ago
+👁️ 21K • 👍 314 • 💬 203 • ⏱️ 6:52 • 9h ago
 
 ---
 
@@ -291,7 +291,7 @@ Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble wil
 
 📺 Stylosa
 
-👁️ 32K • 👍 2K • 💬 946 • ⏱️ 25:46 • 11h ago
+👁️ 32K • 👍 2K • 💬 946 • ⏱️ 25:46 • 12h ago
 
 ---
 
@@ -331,7 +331,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 17K • 💬 19 • ⏱️ 10:12 • 17h ago
+👁️ 17K • 💬 19 • ⏱️ 10:12 • 18h ago
 
 ---
 
@@ -652,7 +652,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.5k • 🔱 1.3k • 2h ago
+⭐ 9.5k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 497 • 2m ago
+⭐ 9.5k • 🔱 497 • 24m ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.4k • 🔱 909 • 22h ago
+⭐ 5.4k • 🔱 909 • 23h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.4k • 🔱 4.5k • 16h ago
+⭐ 4.4k • 🔱 4.5k • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T07:28:38.537945+00:00'
+updated: '2026-01-22T07:50:00.551884+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 07:28 UTC  
+**Last Updated:** January 22, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -133,7 +133,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 **[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
 
-21m ago
+42m ago
 
 ---
 
@@ -145,7 +145,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 **[evryday trade as a bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1qjcu42/evryday_trade_as_a_bitcoiner/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ https://preview.redd.it/eioeql4l4teg1.png?width=555&format=png&auto=webp&s=a2068
 
 Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 12h ago
 
 Bitcoin, DeFi, and tokenized assets are emerging as functional parts of global capital markets, ARK Invest wrote, though challenges persist.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 New Bitcoin whales now control more value than long-term holders, creating a $6 billion supply overhang that could keep prices choppy.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 362 • ⏱️ 41:04 • 15h ago
+👁️ 40K • 👍 2K • 💬 362 • ⏱️ 41:04 • 16h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is flashing a critical signal that historically hits 97% of the time - b
 
 📺 Kitco NEWS
 
-👁️ 4K • 👍 174 • 💬 109 • ⏱️ 32:39 • 10h ago
+👁️ 4K • 👍 174 • 💬 109 • ⏱️ 32:39 • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ On this week's episode of CNBC Crypto World, crypto prices struggle as President
 
 📺 CNBC Television
 
-👁️ 12K • 👍 270 • 💬 179 • ⏱️ 16:49 • 9h ago
+👁️ 12K • 👍 270 • 💬 179 • ⏱️ 16:49 • 10h ago
 
 ---
 
@@ -399,7 +399,7 @@ While the headlines were screaming nonsense, something subtle but massive change
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 17h ago
+👁️ 14K • 👍 951 • 💬 107 • ⏱️ 20:50 • 18h ago
 
 ---
 
