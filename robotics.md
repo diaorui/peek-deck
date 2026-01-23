@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T16:32:35.861733+00:00'
+updated: '2026-01-23T17:26:25.735002+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 16:32 UTC  
+**Last Updated:** January 23, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-10h ago
+11h ago
 
 ---
 
@@ -50,13 +50,13 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 10h ago
 
 ---
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a lightweight, focused simulator for robot arms that prioritizes high-frequency control (up to kHz rates), analytical dynamics via the Pinocchio library, and fully deterministic software-in-the-loop (SIL) testing. It's built for people who want fast, reproducible simulations for arm control and motion planning without the full complexity (and slowdown) of contact-heavy engines like Gazebo. Why this exists As a robotics enthusiast, I wanted a tool that lets me quickly prototype and debug controllers on models like the UR3 — something precise, inspectable, and hardware-free. It’s especially useful for learning dynamics, tuning controllers, or running thousands of consistent test episodes. Current Highlights: kHz-level simulation stepping for tight real-time control loops Analytical computations (mass matrix, Jacobians, Coriolis/centrifugal terms, etc.) powered by Pinocchio ros2_control integration for commanding joints and trajectories MoveIt2 compatibility with a custom planning & execution action server Built-in PID controller with a simple tuning interface RViz2 visualization + optional web-based 3D viewer (real-time URDF + joint state streaming via WebSocket) Deterministic behavior — perfect for reproducible debugging and benchmarking. What's coming next I'm actively planning to expand the control options beyond the current PID: Model Predictive Control (MPC) — for more advanced trajectory tracking and constraint handling Reinforcement Learning (RL) interfaces — to make it easier to train policies directly in the sim (fast episodes + determinism are ideal for this) If any of those directions excite you, I'd love input on what would be most useful! Quick Start Docker + VS Code devcontainer setup → colcon build → launch files for sim-only, with viz, or PID tuning. Everything is in the README. Main repo: https://github.com/PetoAdam/ros2_sim Optional web UI: https://github.com/PetoAdam/ros2_sim_ui r/robotics — what do you think? Have you run into pain points with high-frequency sims, arm control tuning, or transitioning from classical control → MPC/RL? Any feedback, feature wishes, stars, forks, or even collaboration ideas are super welcome. Let's talk robotics!
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a ligh
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 Is there anyone on this subreddit who would be interested in being a robotics consultant for a writing project I’m working on? Idk if this is even the right subreddit to ask, but oh well. I’m basically looking for someone who knows a lot about robots and would be willing to answer a lot of stupid questions about them. Particularly Fnaf robots. I’m fully aware they’re not real robots, but I want to get closer to real ones. Also someone who’s a nerd about theoretical sentient ai. Sorry if this is off topic, mods feel free to delete this if I’m violating any rules, I won’t hold a grudge.
 
-6h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ not like real human running to you, each time when team bring him running outsid
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 1h ago
+Microsoft • 2h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 Volunteers are needed for a robotics competition April 8 through April 11 at the River's Edge Convention Center in St. Cloud.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Business Insider • 1d ago
 
 Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -212,7 +212,7 @@ Chinese Engineer Builds 6-Legged 3D-Printed Robot That Walks, Flies & Shoots Sho
 
 📺 News Article 1
 
-👁️ 664 • ⏱️ 0:10 • 3h ago
+👁️ 664 • ⏱️ 0:10 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the
 
 📺 Global News
 
-👁️ 5K • 👍 65 • 💬 52 • ⏱️ 10:15 • 15h ago
+👁️ 5K • 👍 65 • 💬 52 • ⏱️ 10:15 • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date n
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 144 • 💬 11 • ⏱️ 0:47 • 22h ago
+👁️ 12K • 👍 144 • 💬 11 • ⏱️ 0:47 • 23h ago
 
 ---
 

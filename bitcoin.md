@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T16:32:35.852440+00:00'
+updated: '2026-01-23T17:26:25.725327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 16:32 UTC  
+**Last Updated:** January 23, 2026 at 17:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,25 +95,25 @@ Everyone wants the green peaks, but few can stomach the long walk across the ice
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-9h ago
+10h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-44m ago
+1h ago
 
 ---
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
 
-56m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ In my country it's approx. the same as 1 Big Mac menu. But to my great great gra
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-15h ago
+16h ago
 
 ---
 
@@ -145,7 +145,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 I keep seeing the idea that even a very small amount of Bitcoin could matter in the long run. Putting price aside, I’m more interested in why this framing resonates with people. Is it mainly about Bitcoin’s fixed supply, its divisibility, or the idea of self custody and opting out of traditional systems? Curious what aspects of Bitcoin make people think in terms of ownership rather than short-term value.
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ I keep seeing the idea that even a very small amount of Bitcoin could matter in 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 18h ago
+ProPublica • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 1d ago
 
 **[Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies](https://www.reuters.com/business/bitwise-proficio-capital-partners-etf-targets-gold-metals-bitcoin-alternative-2026-01-23/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -215,7 +215,7 @@ Reuters • 16h ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Motley Fool • 6h ago
 
 Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ Stargate UI
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 2d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 3d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -298,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
 
-⬆️ 4 • 💬 0 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 0 • 7d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 46K • 👍 2K • 💬 263 • ⏱️ 16:21 • 18h ago
+👁️ 46K • 👍 2K • 💬 263 • ⏱️ 16:21 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 1K • 👍 59 • 💬 77 • ⏱️ 2:12 • 2h ago
+👁️ 1K • 👍 59 • 💬 77 • ⏱️ 2:12 • 3h ago
 
 ---
 
@@ -338,7 +338,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 3K • 💬 370 • ⏱️ 23:49 • 16h ago
+👁️ 27K • 👍 3K • 💬 370 • ⏱️ 23:49 • 17h ago
 
 ---
 
@@ -348,7 +348,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 739 • 💬 116 • ⏱️ 32:17 • 50m ago
+👁️ 7K • 👍 739 • 💬 116 • ⏱️ 32:17 • 1h ago
 
 ---
 
@@ -358,7 +358,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 238 • 💬 97 • ⏱️ 10:27 • 20h ago
+👁️ 10K • 👍 238 • 💬 97 • ⏱️ 10:27 • 21h ago
 
 ---
 
@@ -398,7 +398,7 @@ Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 691 • 💬 23 • ⏱️ 47:33 • 5h ago
+👁️ 9K • 👍 691 • 💬 23 • ⏱️ 47:33 • 6h ago
 
 ---
 
