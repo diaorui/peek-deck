@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T15:51:08.394870+00:00'
+updated: '2026-01-23T16:32:35.844046+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 15:51 UTC  
+**Last Updated:** January 23, 2026 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 17h ago
 
 ---
 
@@ -69,19 +69,19 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
-**[Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)](https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/)**
-
-You can read more about how this was made here.
-
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 16h ago
-
----
-
 **[YouTube Says Creators Can Use AI-generated Likenesses in Shorts](https://www.reddit.com/r/artificial/comments/1qks4oh/youtube_says_creators_can_use_aigenerated/)**
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 2h ago
+
+---
+
+**[Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)](https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/)**
+
+You can read more about how this was made here.
+
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 17h ago
 
 ---
 
@@ -89,7 +89,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-2h ago
+3h ago
 
 ---
 
@@ -119,17 +119,69 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 ## Google News: "ai"
 
-**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
 
-Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-blog.google • 23h ago
+WIRED • 32m ago
 
 ---
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
-Axios • 13h ago
+Axios • 14h ago
+
+---
+
+**[Oregon ranks among states with the highest AI usage. See where we land](https://www.statesmanjournal.com/story/news/2026/01/23/oregon-ranks-high-ai-usage/88291675007/)**
+
+A study that monitors the use of artificial intelligence in the U.S. found that Oregon is among the top states with the highest AI use in the country.
+
+statesmanjournal.com • 32m ago
+
+---
+
+**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqdlu2lsju43sCBGzIuapSIARqH8ZeAISjGMRNEc9hF7TvlAxYWLj1z3&gaa_ts=6973a60a&gaa_sig=AtERsYD19ZQJCUvn3yqnaIM1u8z_e7g_Us4fMYee7hrNdm7VoT9b2EN5ptBoqqqlCbiKxjdd8l0qcwBwl3AWqQ%3D%3D)**
+
+The Wall Street Journal • 17m ago
+
+---
+
+**[Morgan Stanley finds Oracle's AI infrastructure buildout creates risk for EPS targets](https://seekingalpha.com/news/4542100-morgan-stanley-finds-oracles-ai-infrastructure-buildout-creates-risk-for-eps-targets)**
+
+Morgan Stanley cuts Oracle (ORCL) price target, warning AI GPUaaS buildout may miss EPS goals and drive capex, debt and leverage higher.
+
+Seeking Alpha • 41m ago
+
+---
+
+**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
+
+Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
+
+The Guardian • 2h ago
+
+---
+
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+
+blog.google • 1d ago
+
+---
+
+**[Davos: ECB’s Lagarde plays down fears of ‘rupture’ in world order, as IMF’s Georgieva warns of AI ‘tsunami’ hitting jobs market – live updates](https://www.theguardian.com/business/live/2026/jan/23/davos-world-economic-outlook-lagarde-georgieva-ai-okonjo-iweala-ecb-imf-wto-business-live-updates)**
+
+Rolling coverage of the final day of the World Economic Forum in Davos
+
+The Guardian • 8h ago
 
 ---
 
@@ -141,58 +193,6 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[AI labs wage a reputational knife fight at Davos](https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos)**
-
-﻿The AI race is a turf war.
-
-The Verge • 1h ago
-
----
-
-**[AI luminaries at Davos clash over how close human level intelligence really is](https://fortune.com/2026/01/23/deepmind-demis-hassabis-anthropic-dario-amodei-yann-lecun-ai-davos/)**
-
-Anthropic's Dario Amodei says it's coming soon. DeepMind's Demis Hassabis and former Meta chief scientist Yann LeCun think it's a more distant prospect
-
-Fortune • 5h ago
-
----
-
-**[How the CEOs of AI leader Nvidia and drug giant Lilly drove a groundbreaking collaboration](https://www.bizjournals.com/sanfrancisco/news/2026/01/23/ai-nvidia-eli-lilly-artificial-intelligence-drugs.html)**
-
-The Business Journals • 1h ago
-
----
-
-**[DoorDash Applies AI to Safety Across Chat and Calls, Cutting Incidents by 50%](https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/)**
-
-DoorDash deploys SafeChat, an AI-driven safety system for moderating chat, images, and voice calls between Dashers and customers. Using a layered text moderation architecture, machine learning models, and human review, SafeChat detects unsafe content in real time, enabling immediate actions and reducing low- and medium-severity safety incidents by roughly 50 percent.
-
-infoq.com • 50m ago
-
----
-
-**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
-
-The New York Times • 5h ago
-
----
-
-**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
-
-Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
-
-The Guardian • 1h ago
-
----
-
-**[Advisors to the ultra rich say AI isn't a gamechanger for landing new clients](https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html)**
-
-Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.
-
-CNBC • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ CNBC • 3h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 675 • 💬 471 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 678 • 💬 476 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -209,7 +209,15 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 340 • 💬 163 • 6h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 374 • 💬 186 • 6h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+
+---
+
+**[Proton Spam and the AI Consent Problem](https://news.ycombinator.com/item?id=46729368)**
+
+The one where I get very annoyed with my email provider
+
+⬆️ 337 • 💬 218 • 9h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +225,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 320 • 💬 339 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 320 • 💬 343 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -226,14 +234,6 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
 ⬆️ 304 • 💬 268 • 2d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
-
----
-
-**[Proton Spam and the AI Consent Problem](https://news.ycombinator.com/item?id=46729368)**
-
-The one where I get very annoyed with my email provider
-
-⬆️ 299 • 💬 195 • 8h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -249,7 +249,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 191 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 192 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -257,7 +257,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 137 • 💬 194 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 140 • 💬 194 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -265,7 +265,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 126 • 💬 162 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 126 • 💬 163 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -285,7 +285,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 5K • 👍 72 • 💬 41 • ⏱️ 16:31 • 23h ago
+👁️ 5K • 👍 76 • 💬 42 • ⏱️ 16:31 • 23h ago
 
 ---
 
@@ -295,27 +295,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 29K • 👍 758 • 💬 84 • ⏱️ 12:48 • 16h ago
-
----
-
-**[Quantum AI Cracked 3I/ATLAS’s New Trajectory — What It Found Is Godlike](https://www.youtube.com/watch?v=KfMBuSpXZK4)**
-
-Quantum AI Cracked 3I/ATLAS's New Trajectory — What It Found Is Godlike Imagine receiving a message from a time... BEFORE ...
-
-📺 Spacialize
-
-👁️ 10K • 👍 324 • 💬 46 • ⏱️ 13:11 • 16h ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 59K • 👍 665 • 💬 386 • ⏱️ 6:52 • 1d ago
+👁️ 33K • 👍 821 • 💬 90 • ⏱️ 12:48 • 17h ago
 
 ---
 
@@ -325,17 +305,27 @@ Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Execut
 
 📺 Mint
 
-👁️ 108K • 👍 1K • 💬 299 • ⏱️ 9:36 • 2d ago
+👁️ 111K • 👍 1K • 💬 306 • ⏱️ 9:36 • 2d ago
 
 ---
 
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
 
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
 
-📺 Love And Peace
+📺 CBS News
 
-👁️ 418K • 👍 1K • 💬 24 • ⏱️ 11:47 • 2d ago
+👁️ 61K • 👍 673 • 💬 395 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
+
+YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
+
+📺 Deep Humor
+
+👁️ 19K • 👍 1K • 💬 494 • ⏱️ 9:46 • 19h ago
 
 ---
 
@@ -345,27 +335,17 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 32K • 👍 960 • 💬 76 • ⏱️ 15:40 • 1d ago
+👁️ 32K • 👍 967 • 💬 76 • ⏱️ 15:40 • 1d ago
 
 ---
 
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
 
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
 
-📺 BBC Politics
+📺 Love And Peace
 
-👁️ 44K • 👍 1K • 💬 368 • ⏱️ 12:14 • 2d ago
-
----
-
-**[“More Robots Than Humans”, Elon Musk Says AI &amp; Robots Will End Scarcity and Transform Humans | AI1G](https://www.youtube.com/watch?v=j08aEBMUgOs)**
-
-Tech billionaire Elon Musk spoke at the World Economic Forum about artificial intelligence, humanoid robots, space exploration, ...
-
-📺 DRM News
-
-👁️ 9K • 👍 149 • 💬 110 • ⏱️ 13:05 • 23h ago
+👁️ 438K • 👍 1K • 💬 24 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -375,7 +355,27 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 25K • 💬 23 • ⏱️ 10:12 • 2d ago
+👁️ 26K • 💬 23 • ⏱️ 10:12 • 2d ago
+
+---
+
+**[“More Robots Than Humans”, Elon Musk Says AI &amp; Robots Will End Scarcity and Transform Humans | AI1G](https://www.youtube.com/watch?v=j08aEBMUgOs)**
+
+Tech billionaire Elon Musk spoke at the World Economic Forum about artificial intelligence, humanoid robots, space exploration, ...
+
+📺 DRM News
+
+👁️ 9K • 👍 150 • 💬 107 • ⏱️ 13:05 • 1d ago
+
+---
+
+**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
+
+Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
+
+📺 Stylosa
+
+👁️ 81K • 👍 3K • 💬 2K • ⏱️ 25:46 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,036 • 3d ago
+⬇️ 199,346 • ❤️ 1,046 • 3d ago
 
 ---
 
@@ -403,19 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 623 • 14h ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 60,736 • ❤️ 501 • 8d ago
+⬇️ 17,010 • ❤️ 648 • 15h ago
 
 ---
 
@@ -427,7 +415,19 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 327 • 1d ago
+⬇️ 4,644 • ❤️ 338 • 1d ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 60,736 • ❤️ 505 • 8d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 265 • 15h ago
+⬇️ 145,992 • ❤️ 269 • 16h ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 440 • 4d ago
+⬇️ 40,447 • ❤️ 441 • 4d ago
 
 ---
 
@@ -473,7 +473,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 436 • ❤️ 210 • 3d ago
+⬇️ 436 • ❤️ 213 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 49,287 • ❤️ 316 • 7d ago
+⬇️ 49,287 • ❤️ 318 • 7d ago
 
 ---
 
@@ -497,7 +497,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 272 • 13h ago
+⬇️ 35,694 • ❤️ 275 • 13h ago
 
 ---
 
@@ -513,7 +513,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 13 • 💬 0 • ⭐ 1,424 • 1d ago
+▲ 14 • 💬 0 • ⭐ 1,424 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -579,7 +579,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 141 • 💬 6 • ⭐ 20,965 • 5mo ago
+▲ 142 • 💬 6 • ⭐ 20,965 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -605,7 +605,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 149 • 💬 4 • ⭐ 211 • 5d ago
+▲ 152 • 💬 4 • ⭐ 211 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -632,7 +632,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Representation Autoencoders (RAEs) demonstrate superior performance over VAEs in large-scale text-to-image generation, showing improved stability, faster convergence, and better quality while enabling unified multimodal reasoning in shared representation spaces.
 
-▲ 31 • 💬 1 • ⭐ 45 • 1d ago
+▲ 32 • 💬 1 • ⭐ 45 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.16208) • [💻 code](https://github.com/ZitengWangNYU/Scale-RAE) • [🔗 project](https://rae-dit.github.io/scale-rae/)
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 521 • 23h ago
+⭐ 9.9k • 🔱 523 • 23h ago
 
 ---
 
@@ -668,7 +668,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 434 • 1d ago
+⭐ 8.6k • 🔱 438 • 1d ago
 
 ---
 
@@ -678,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 852 • 13h ago
+⭐ 7.2k • 🔱 854 • 14h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 979 • 1h ago
+⭐ 5.7k • 🔱 984 • 2h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.1k • 4h ago
+⭐ 4.9k • 🔱 5.2k • 5h ago
 
 ---
 
@@ -708,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.9k • 🔱 421 • 1d ago
+⭐ 3.9k • 🔱 426 • 1d ago
 
 ---
 
@@ -716,7 +716,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.5k • 🔱 205 • 13h ago
+⭐ 2.5k • 🔱 208 • 13h ago
 
 ---
 
@@ -726,7 +726,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 335 • 13h ago
+⭐ 2.3k • 🔱 336 • 14h ago
 
 ---
 
