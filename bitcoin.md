@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T22:45:15.438688+00:00'
+updated: '2026-01-23T23:22:33.321818+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 22:45 UTC  
+**Last Updated:** January 23, 2026 at 23:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.15B
+**Market Cap:** $1787.28B
 Rank #1
 
-**Circulating Supply:** 19,979,831 BTC
+**Circulating Supply:** 19,979,878 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-29.1%
 
 **All-Time Low:** $67.81
-+131472.0%
++131774.4%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-10h ago
+11h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ ProPublica • 1d ago
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 2h ago
 
 Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 2d ago
 
 Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -312,7 +312,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 8h ago
+👁️ 12K • 👍 269 • 💬 148 • ⏱️ 2:12 • 9h ago
 
 ---
 
@@ -322,7 +322,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 7h ago
+👁️ 20K • 👍 1K • 💬 136 • ⏱️ 32:17 • 7h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 54K • 👍 2K • 💬 283 • ⏱️ 16:21 • 1d ago
+👁️ 57K • 👍 2K • 💬 285 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -342,7 +342,17 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 8h ago
+👁️ 27K • 👍 1K • 💬 113 • ⏱️ 12:29 • 9h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 7K • 👍 735 • 💬 60 • ⏱️ 8:40 • 1h ago
 
 ---
 
@@ -352,17 +362,17 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 253 • 💬 86 • ⏱️ 10:27 • 1d ago
+👁️ 13K • 👍 264 • 💬 87 • ⏱️ 10:27 • 1d ago
 
 ---
 
-**[BIG Trade Incoming On Bitcoin And Altcoins!! (GET READY)](https://www.youtube.com/watch?v=OBRDMlKWV7M)**
+**[Crypto Bills Last Hope?📉Crypto Market Update](https://www.youtube.com/watch?v=UIJ6FguEX-Q)**
 
-Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In this video, Sheldon breaks down the key levels and ...
+Senate Agriculture Chair John Boozman on Wednesday unveiled a new draft of landmark cryptocurrency legislation that his ...
 
-📺 Crypto Banter
+📺 Paul Barron Network
 
-👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 11h ago
+👁️ 55K • 👍 3K • 💬 294 • ⏱️ 10:25 • 1d ago
 
 ---
 
@@ -372,17 +382,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 22h ago
-
----
-
-**[The Question Isn’t If Bitcoin Pumps — It’s When](https://www.youtube.com/watch?v=iDzdy_WuQkw)**
-
-Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 11h ago
+👁️ 31K • 👍 3K • 💬 389 • ⏱️ 23:49 • 23h ago
 
 ---
 
@@ -392,17 +392,17 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 4K • 👍 247 • 💬 75 • ⏱️ 14:22 • 1d ago
+👁️ 4K • 👍 251 • 💬 79 • ⏱️ 14:22 • 1d ago
 
 ---
 
-**[BE READY: This Bitcoin Level Reveals Everything!](https://www.youtube.com/watch?v=dPK2JQIJkkE)**
+**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
 
-Introduction 0:00-1:08 Bitunix Exchage 1:08-2:00 Why Is Gold Moving While Bitcoin Drops? 2:00-5:08 How To Trade Short Term?
+Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
 
-📺 Wolves of Crypto
+📺 Swan Bitcoin
 
-👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 11h ago
+👁️ 2K • 👍 98 • 💬 36 • ⏱️ 1:26 • 8h ago
 
 ---
 

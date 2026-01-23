@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T22:45:15.448144+00:00'
+updated: '2026-01-23T23:22:33.331301+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 22:45 UTC  
+**Last Updated:** January 23, 2026 at 23:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-16h ago
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 16h ago
 
 ---
 
@@ -72,13 +72,13 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked our first ever regional ROSCon in South Korea!                Our ROS social calendar has filled back up again. There is a Gazebo Community Meeting on Forest3D next Wednesday and ROS By-The-Bay with Main Street Autonomy and @skye.galaxy next Thursday. The following week there is a robotics Dev room at FOSDEM and a Dronecode Meetup in Leuven, Belgium. This week we also announced a ROS Singapore Meetup...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 3h ago
 
 ---
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked 
 
 LTDR; this is a geometric kernel for measuring constraint-induced force distribution collapse in redundant systems. This is not novel in robotics, but I would like some feedback. It is usable, it uses the stock walking gait model in OpenSim so the lowerbody is muscle actuated and the upper body and torso are coordinate / torque actuated. Each frame will read out feasible or infeasible(the configuration/pose). If infeasible you can diagnose the infeasibility (gravity scaling/DoF masking/joint specific actuation, constraint switches) If feasible, then you get the effective dimensions of the polytope(so far I’ve seen up to 70% reduction of the dimensions). This creates a near unique equilibrium solution as a consequence of “optionality”(or lack of). Btw this is quasi static analysis. #Readme# Force Pathway Measurement Theory (FPMT) applies feasible wrench polytope methods from robotics to quantify constraint-induced force distribution collapse in redundant musculoskeletal systems. Rather than selecting a single solution via optimization, FPMT computes the entire admissible set of internal forces satisfying equilibrium and geometric constraints. This allows for measuring "optionality" (the feasible set size) and determining when force distributions become deterministic due to constraints. FPMT computes the full admissible set of internal forces and reports optionality metrics (Chebyshev clearance, CCI, effective dimension) instead of selecting a single solution via optimization. —— I’ve had engineers try to poke holes already, the big ask really is the math. Here is the GitHub for my project: https://github.com/mechanist01/FPMT Here’s the paper that inspired it: https://arxiv.org/pdf/2110.06790
 
-5h ago
+6h ago
 
 ---
 
@@ -114,7 +114,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 7h ago
+Microsoft • 8h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 1d ago
 
 Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help support nurses on ‘The Claman Countdown.’
 
-Fox Business • 51m ago
+Fox Business • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 51m ago
 
 The podcast guest this week is Thomas Pilz, managing partner of Pilz GmbH & Co. KG.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -198,17 +198,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 69 • 💬 51 • ⏱️ 2:47 • 1d ago
-
----
-
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
-
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
-
-📺 Fox News
-
-👁️ 40K • 👍 1K • 💬 215 • ⏱️ 0:49 • 21h ago
+👁️ 7K • 👍 68 • 💬 52 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -218,7 +208,17 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 235 • 💬 21 • ⏱️ 19:35 • 4d ago
+👁️ 8K • 👍 235 • 💬 21 • ⏱️ 19:35 • 5d ago
+
+---
+
+**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+
+Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+
+📺 Fox News
+
+👁️ 42K • 👍 1K • 💬 218 • ⏱️ 0:49 • 21h ago
 
 ---
 
@@ -228,7 +228,7 @@ War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #w
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 482 • 💬 122 • ⏱️ 28:24 • 9h ago
+👁️ 7K • 👍 571 • 💬 132 • ⏱️ 28:24 • 9h ago
 
 ---
 
@@ -236,7 +236,17 @@ War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #w
 
 📺 Bernie Sanders
 
-👁️ 22K • 👍 2K • 💬 101 • ⏱️ 1:13 • 1d ago
+👁️ 22K • 👍 2K • 💬 102 • ⏱️ 1:13 • 1d ago
+
+---
+
+**[Robots Are Addicted to Getting Hit By Trains](https://www.youtube.com/watch?v=IHRo8i-qaeU)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.1M • 👍 47K • 💬 4K • ⏱️ 9:14 • 3d ago
 
 ---
 
@@ -256,7 +266,17 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 36K • 👍 2K • 💬 108 • ⏱️ 1:51 • 2d ago
+👁️ 37K • 👍 2K • 💬 112 • ⏱️ 1:51 • 2d ago
+
+---
+
+**[Musk Says Optimus Robots Ready to Sell to Public Next Year](https://www.youtube.com/watch?v=hTp4W25gs-w)**
+
+Elon Musk made his first appearance at Davos on Thursday where he announced to a crowd that the Tesla Optimus robot would ...
+
+📺 Bloomberg News
+
+👁️ 1K • 👍 27 • 💬 5 • ⏱️ 1:12 • 1h ago
 
 ---
 
@@ -266,27 +286,7 @@ We built extreme robots and fought them in an actual arena! The deadliest robot 
 
 📺 Stay Wild
 
-👁️ 3.7M • 👍 37K • 💬 2K • ⏱️ 33:05 • 5d ago
-
----
-
-**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
-
-About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 155 • 💬 11 • ⏱️ 0:47 • 1d ago
-
----
-
-**[NEW Hastatus Pilot Has Double Legendary Skills… #1 Robot Gets STRONGER | War Robots](https://www.youtube.com/watch?v=TVvEZK5HNPs)**
-
-New hastatus legendary pilot. The Hastatus was the best robot in the game, until 2 days ago and the ammit arrived. But now the ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 411 • 💬 44 • ⏱️ 15:08 • 1d ago
+👁️ 3.7M • 👍 38K • 💬 2K • ⏱️ 33:05 • 5d ago
 
 ---
 
