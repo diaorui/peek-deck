@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T11:22:06.944674+00:00'
+updated: '2026-01-23T11:44:01.013379+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 11:22 UTC  
+**Last Updated:** January 23, 2026 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-20h ago
+21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Is there anyone on this subreddit who would be interested in being a robotics co
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 3h ago
+🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 60 • 💬 43 • ⏱️ 2:47 • 18h ago
+👁️ 5K • 👍 62 • 💬 44 • ⏱️ 2:47 • 19h ago
 
 ---
 
@@ -210,17 +210,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 27K • 👍 981 • 💬 148 • ⏱️ 0:49 • 9h ago
-
----
-
-**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
-
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
-
-📺 UBTECH Robotics
-
-👁️ 10K • 👍 152 • 💬 32 • ⏱️ 1:56 • 2d ago
+👁️ 30K • 👍 1K • 💬 159 • ⏱️ 0:49 • 10h ago
 
 ---
 
@@ -228,7 +218,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 Bernie Sanders
 
-👁️ 18K • 👍 2K • 💬 83 • ⏱️ 1:13 • 15h ago
+👁️ 19K • 👍 2K • 💬 85 • ⏱️ 1:13 • 16h ago
 
 ---
 
@@ -242,23 +232,23 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
+**[Elon Musk&#39;s Tesla Bot Gen 3 New LEAKED, It’s eye-Opening!](https://www.youtube.com/watch?v=Yu8I93xJ3pY)**
+
+Elon Musk's Tesla Bot Gen 3 New LEAKED, It's eye-Opening! Tesla Bot Gen 3 is finally leaked—and it's eye-opening. This video ...
+
+📺 TESLA CAR WORLD
+
+👁️ 194K • 👍 4K • 💬 281 • ⏱️ 8:00 • 6d ago
+
+---
+
 **[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
 
 About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 124 • 💬 9 • ⏱️ 0:47 • 17h ago
-
----
-
-**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
-
-The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 77 • 💬 4 • ⏱️ 0:32 • 1d ago
+👁️ 11K • 👍 133 • 💬 11 • ⏱️ 0:47 • 17h ago
 
 ---
 
@@ -272,13 +262,13 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 ---
 
-**[Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.youtube.com/watch?v=SwqYJQYAD8I)**
+**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
 
-Google DeepMind Co-Founder and Chief Executive Officer Demis Hassabis sees robotics as being “on the cusp of a kind of break ...
+At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
 
-📺 Bloomberg Technology
+📺 KhanFlicks
 
-👁️ 3K • 👍 68 • 💬 1 • ⏱️ 2:03 • 1d ago
+👁️ 79K • 💬 36 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -288,7 +278,17 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 18K • 👍 179 • ⏱️ 7:30 • 3d ago
+👁️ 18K • 👍 181 • ⏱️ 7:30 • 3d ago
+
+---
+
+**[Robotics Nearing Physical AI Breakthrough, Google DeepMind CEO Says](https://www.youtube.com/watch?v=SwqYJQYAD8I)**
+
+Google DeepMind Co-Founder and Chief Executive Officer Demis Hassabis sees robotics as being “on the cusp of a kind of break ...
+
+📺 Bloomberg Technology
+
+👁️ 4K • 👍 69 • 💬 1 • ⏱️ 2:03 • 1d ago
 
 ---
 

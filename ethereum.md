@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T11:22:06.941392+00:00'
+updated: '2026-01-23T11:44:01.010077+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 11:22 UTC  
+**Last Updated:** January 23, 2026 at 11:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.11B
+**Market Cap:** $354.90B
 Rank #2
 
 **Circulating Supply:** 120,694,469 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.6%
 
 **All-Time Low:** $0.43
-+675403.9%
++678983.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey! I’m a Ledger wallet user looking for advice on swapping XMR to ETH. In the past, I had a swap where my funds got stuck for months on Changelly, which was stressful since I didn’t get any updates and wasn’t sure what was happening. I want to avoid that this time. I still need to swap about 110 XMR to ETH and I’m looking for a platform or method that’s reliable, fast, and secure. Ideally, I’d like to stay away from services where funds could get delayed or support is difficult to reach. Any tips, advice, or personal experiences would be really helpful. I just want to get this swap done safely and avoid unnecessary stress. Thanks in advance!
 
-58m ago
+1h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 4h ago
+👁️ 1K • 👍 80 • 💬 9 • ⏱️ 8:10 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 20h ago
+👁️ 24K • 👍 870 • 💬 128 • ⏱️ 17:24 • 20h ago
 
 ---
 
@@ -258,7 +258,17 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 17h ago
+👁️ 27K • 👍 1K • 💬 159 • ⏱️ 19:54 • 17h ago
+
+---
+
+**[GET READY FOR THIS MOVE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=rfi5uB8swAI)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 79 • 👍 13 • 💬 1 • ⏱️ 5:49 • 1h ago
 
 ---
 
@@ -268,17 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 19h ago
-
----
-
-**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
-
-After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
-
-📺 Paul Barron Network
-
-👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 14h ago
+👁️ 1K • 👍 53 • 💬 8 • ⏱️ 18:28 • 19h ago
 
 ---
 
@@ -288,17 +288,37 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 372 • 💬 88 • ⏱️ 8:24 • 1d ago
+👁️ 10K • 👍 373 • 💬 88 • ⏱️ 8:24 • 1d ago
 
 ---
 
-**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
+**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
+
+After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
+
+📺 Paul Barron Network
+
+👁️ 19K • 👍 1K • 💬 185 • ⏱️ 9:11 • 15h ago
+
+---
+
+**[The Rules Have Changed And Everything Is Different For Bitcoin And Ethereum Now Speculation Is Done](https://www.youtube.com/watch?v=aBr_RPYqHOk)**
+
+New year, new money, same incredible levels of accumulation by the richest people on the planet. Bitcoin and Ethereum have ...
+
+📺 The Modern Investor
+
+👁️ 1K • 👍 225 • 💬 139 • ⏱️ 29:19 • 2h ago
+
+---
+
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=O0t3QJXj55o)**
 
 Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
 
-📺  S BENCH 
+📺 AUTISMO CICATRIZES DO AMOR
 
-👁️ 13K • 👍 4K • 1d ago
+👁️ 3K • 👍 1K • 45m ago
 
 ---
 
@@ -308,27 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 10h ago
-
----
-
-**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
-
-The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
-
-📺 Gareth Soloway
-
-👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 17h ago
-
----
-
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
-
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
-
-📺 World Liberty Financial
-
-👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 11h ago
+👁️ 1K • 👍 92 • 💬 2 • ⏱️ 7:21 • 10h ago
 
 ---
 

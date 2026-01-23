@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T11:22:06.935280+00:00'
+updated: '2026-01-23T11:44:01.004024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 11:22 UTC  
+**Last Updated:** January 23, 2026 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.09B
+**Market Cap:** $1781.79B
 Rank #1
 
 **Circulating Supply:** 19,979,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.3%
 
 **All-Time Low:** $67.81
-+131203.6%
++131389.5%
 
 ---
 
@@ -87,7 +87,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 **[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ ProPublica • 1d ago
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 1h ago
 
 This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -312,33 +312,23 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
-
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 15h ago
-
----
-
 **[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
 
 Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 13h ago
+👁️ 38K • 👍 2K • 💬 247 • ⏱️ 16:21 • 13h ago
 
 ---
 
-**[3 Reasons Why I Wouldn’t Buy Bitcoin Yet! [Thank Me Later]](https://www.youtube.com/watch?v=uH_Q2O5TBnI)**
+**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
 
-BTC has been chopping around with some wild volatility. In today's video, Kyledoops outlines 3 very specific reasons why now is ...
+2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
 
-📺 Crypto Banter
+📺 Yahoo Finance
 
-👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 1d ago
+👁️ 9K • 👍 204 • 💬 77 • ⏱️ 10:27 • 16h ago
 
 ---
 
@@ -348,7 +338,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 22h ago
+👁️ 4K • 👍 222 • 💬 73 • ⏱️ 14:22 • 22h ago
 
 ---
 
@@ -358,27 +348,17 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 11h ago
+👁️ 23K • 👍 2K • 💬 326 • ⏱️ 23:49 • 11h ago
 
 ---
 
-**[Gold &amp; Silver Push To New Highs! Bitcoin Ready To Follow?](https://www.youtube.com/watch?v=ljPVmvp4EUc)**
+**[3 Reasons Why I Wouldn’t Buy Bitcoin Yet! [Thank Me Later]](https://www.youtube.com/watch?v=uH_Q2O5TBnI)**
 
-Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+BTC has been chopping around with some wild volatility. In today's video, Kyledoops outlines 3 very specific reasons why now is ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Banter
 
-👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 14h ago
-
----
-
-**[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 45K • 👍 2K • 💬 411 • ⏱️ 41:04 • 1d ago
+👁️ 18K • 👍 1K • 💬 19 • ⏱️ 24:37 • 1d ago
 
 ---
 
@@ -388,27 +368,47 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 20h ago
+👁️ 30K • 👍 1K • 💬 257 • ⏱️ 36:02 • 20h ago
 
 ---
 
-**[The Financial Market Crisis No One is Talking About [Not Only Bitcoin]](https://www.youtube.com/watch?v=FrwCy3VccW4)**
+**[BIG Trade Incoming On Bitcoin And Altcoins!! (GET READY)](https://www.youtube.com/watch?v=OBRDMlKWV7M)**
 
-Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade deal, and spoke openly in favor of crypto regulation.
+Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In this video, Sheldon breaks down the key levels and ...
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 20h ago
+👁️ 3K • 👍 337 • 💬 3 • ⏱️ 47:33 • 28m ago
 
 ---
 
-**[Bitcoin Whipsaws Around $90K: Why The Bull Run Is Stalled | Kyle Chassé](https://www.youtube.com/watch?v=xTuFgyZkQBc)**
+**[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
 
-Bitcoin is flashing a critical signal that historically hits 97% of the time - but is the macro environment about to invalidate it?
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Kitco NEWS
+📺 CryptosRUs
 
-👁️ 8K • 👍 274 • 💬 160 • ⏱️ 32:39 • 1d ago
+👁️ 46K • 👍 2K • 💬 412 • ⏱️ 41:04 • 1d ago
+
+---
+
+**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 919 • 💬 133 • ⏱️ 8:21 • 2d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
+
+📺 Crypto Crew University
+
+👁️ 47K • 👍 3K • 💬 245 • ⏱️ 18:43 • 1d ago
 
 ---
 

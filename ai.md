@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T11:22:06.926703+00:00'
+updated: '2026-01-23T11:44:00.995347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 11:22 UTC  
+**Last Updated:** January 23, 2026 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's the post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-45m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-6h ago
+7h ago
 
 ---
 
@@ -177,13 +177,13 @@ blog.google • 19h ago
 
 Personal Intelligence is optional and rolling out first to AI Pro and AI Ultra subscribers.
 
-Ars Technica • 18h ago
+Ars Technica • 19h ago
 
 ---
 
 **[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-The Information • 16h ago
+The Information • 17h ago
 
 ---
 
@@ -251,7 +251,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 124 • 💬 165 • 22h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 124 • 💬 165 • 23h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -279,7 +279,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 4K • 👍 61 • 💬 38 • ⏱️ 16:31 • 18h ago
+👁️ 4K • 👍 65 • 💬 40 • ⏱️ 16:31 • 18h ago
 
 ---
 
@@ -289,77 +289,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 12h ago
-
----
-
-**[“More Robots Than Humans”, Elon Musk Says AI &amp; Robots Will End Scarcity and Transform Humans | AI1G](https://www.youtube.com/watch?v=j08aEBMUgOs)**
-
-Tech billionaire Elon Musk spoke at the World Economic Forum about artificial intelligence, humanoid robots, space exploration, ...
-
-📺 DRM News
-
-👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 19h ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 56K • 👍 632 • 💬 374 • ⏱️ 6:52 • 1d ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 103K • 👍 1K • 💬 279 • ⏱️ 9:36 • 1d ago
-
----
-
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
-
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
-
-📺 BBC Politics
-
-👁️ 43K • 👍 1K • 💬 353 • ⏱️ 12:14 • 2d ago
-
----
-
-**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
-
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
-
-📺 Parker Prompts
-
-👁️ 24K • 💬 23 • ⏱️ 10:12 • 1d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
-
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
-
-📺 Love And Peace
-
-👁️ 369K • 👍 1K • 💬 22 • ⏱️ 11:47 • 1d ago
-
----
-
-**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
-
-Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
-
-📺 Stylosa
-
-👁️ 74K • 👍 3K • 💬 2K • ⏱️ 25:46 • 1d ago
+👁️ 24K • 👍 671 • 💬 71 • ⏱️ 12:48 • 12h ago
 
 ---
 
@@ -369,7 +299,77 @@ CNBC's Deirdre Bosa reports on Zhipu AI.
 
 📺 CNBC Television
 
-👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 17h ago
+👁️ 18K • 👍 321 • 💬 128 • ⏱️ 3:47 • 17h ago
+
+---
+
+**[Nvidia&#39;s COLLAPSE Just Happened! NEW LAWSUIT Could END A.I SLOP Forever](https://www.youtube.com/watch?v=cVKLXSTIVnU)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCVheUHrDrMZCkPpx8u-yclA/join.
+
+📺 FritangaPlays
+
+👁️ 34K • 👍 3K • 💬 516 • ⏱️ 18:02 • 1d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 58K • 👍 641 • 💬 380 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 105K • 👍 1K • 💬 294 • ⏱️ 9:36 • 1d ago
+
+---
+
+**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+
+Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+
+📺 BBC Politics
+
+👁️ 43K • 👍 1K • 💬 355 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
+
+In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
+
+📺 Parker Prompts
+
+👁️ 25K • 💬 23 • ⏱️ 10:12 • 1d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+
+📺 Love And Peace
+
+👁️ 390K • 👍 1K • 💬 22 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[How Circular Deals Are Driving the AI Boom](https://www.youtube.com/watch?v=9yy_Wz0BbyU)**
+
+The AI boom is everywhere, but much of it is illusory, with money flowing between a few players who have yet to profit. If it is a ...
+
+📺 Bloomberg Originals
+
+👁️ 9K • 👍 521 • 💬 40 • ⏱️ 10:03 • 2h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,019 • 2d ago
+⬇️ 199,346 • ❤️ 1,025 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 583 • 10h ago
+⬇️ 17,010 • ❤️ 594 • 10h ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 498 • 7d ago
+⬇️ 60,736 • ❤️ 499 • 7d ago
 
 ---
 
@@ -421,7 +421,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 293 • 1d ago
+⬇️ 4,644 • ❤️ 307 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 261 • 11h ago
+⬇️ 145,992 • ❤️ 263 • 11h ago
 
 ---
 
@@ -455,7 +455,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 432 • 3d ago
+⬇️ 40,447 • ❤️ 436 • 3d ago
 
 ---
 
@@ -467,19 +467,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 49,287 • ❤️ 312 • 7d ago
-
----
-
-**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
-
-*Lightricks*
-
-LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
-
-`image-to-video`
-
-⬇️ 2,065,417 • ❤️ 1,268 • 3d ago
+⬇️ 49,287 • ❤️ 316 • 7d ago
 
 ---
 
@@ -491,7 +479,19 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 436 • ❤️ 204 • 3d ago
+⬇️ 436 • ❤️ 209 • 3d ago
+
+---
+
+**[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
+
+*Lightricks*
+
+LTX-2 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs including images, text, and audio. It supports local execution and offers distilled and upscaler checkpoints for practical applications.
+
+`image-to-video`
+
+⬇️ 2,065,417 • ❤️ 1,270 • 3d ago
 
 ---
 
@@ -519,9 +519,21 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 9 • 💬 2 • ⭐ 198 • 7d ago
+▲ 11 • 💬 2 • ⭐ 198 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
+
+---
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 35 • 💬 4 • ⭐ 1,604 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -536,18 +548,6 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 ▲ 41 • 💬 2 • ⭐ 198 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
-
----
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 34 • 💬 4 • ⭐ 1,502 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -585,7 +585,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 146 • 💬 4 • ⭐ 211 • 4d ago
+▲ 148 • 💬 4 • ⭐ 211 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 513 • 18h ago
+⭐ 9.8k • 🔱 517 • 19h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 6h ago
+⭐ 9.6k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 431 • 1d ago
+⭐ 8.5k • 🔱 433 • 1d ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 845 • 8h ago
+⭐ 7.1k • 🔱 849 • 9h ago
 
 ---
 
@@ -682,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.6k • 🔱 964 • 2d ago
+⭐ 5.7k • 🔱 968 • 2d ago
 
 ---
 
@@ -692,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.8k • 🔱 5.1k • 21h ago
+⭐ 4.9k • 🔱 5.1k • 28m ago
 
 ---
 
@@ -702,7 +702,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.8k • 🔱 411 • 1d ago
+⭐ 3.8k • 🔱 415 • 1d ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.4k • 🔱 194 • 8h ago
+⭐ 2.5k • 🔱 199 • 8h ago
 
 ---
 
@@ -720,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 333 • 9h ago
+⭐ 2.3k • 🔱 335 • 9h ago
 
 ---
 
@@ -730,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 163 • 2h ago
+⭐ 2.0k • 🔱 163 • 3h ago
 
 ---
 
