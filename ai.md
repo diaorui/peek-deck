@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T05:29:01.710337+00:00'
+updated: '2026-01-23T05:52:24.469942+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 05:29 UTC  
+**Last Updated:** January 23, 2026 at 05:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-55m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 At Davos 2026, Elon Musk warned AI could surpass individual human intelligence within a year and exceed all of humanity’s combined intelligence in five years. He cited computing power and data as key drivers but warned energy could limit progress. Is this visionary or alarmist?
 
-🔗 [arise.tv](https://www.arise.tv/elon-musk-ai-will-be-smarter-than-all-of-humanity-in-five-years/) • 3m ago
+🔗 [arise.tv](https://www.arise.tv/elon-musk-ai-will-be-smarter-than-all-of-humanity-in-five-years/) • 26m ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 4h ago
 
 AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
 
-The Conversation • 15h ago
+The Conversation • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Conversation • 15h ago
 
 Forecast capacity needs are rising, perhaps by a tenth over the next three years
 
-Financial Times • 28m ago
+Financial Times • 51m ago
 
 ---
 
@@ -155,7 +155,7 @@ Financial Times • 28m ago
 
 Adobe launched Firefly Foundry, partnering with talent agencies, directors, art colleges and production studios to make bespoke AI tools for video creation.
 
-Forbes • 7m ago
+Forbes • 30m ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 7m ago
 
 Digital Science says artificial intelligence (AI) is transforming research and innovation, creating new possibilities for societal benefit and smart economies.
 
-Yahoo • 29m ago
+Yahoo • 52m ago
 
 ---
 
@@ -257,7 +257,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 112 • 💬 146 • 16h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 112 • 💬 146 • 17h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -289,7 +289,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 3K • 👍 45 • 💬 28 • ⏱️ 16:31 • 12h ago
+👁️ 3K • 👍 45 • 💬 28 • ⏱️ 16:31 • 13h ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 508 • 12h ago
+⭐ 9.7k • 🔱 508 • 13h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 45m ago
+⭐ 9.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.9k • 🔱 832 • 2h ago
+⭐ 6.9k • 🔱 832 • 3h ago
 
 ---
 
@@ -692,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.7k • 🔱 4.9k • 15h ago
+⭐ 4.7k • 🔱 4.9k • 16h ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.3k • 🔱 184 • 2h ago
+⭐ 2.3k • 🔱 184 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 162 • 6h ago
+⭐ 2.0k • 🔱 162 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T05:29:01.718759+00:00'
+updated: '2026-01-23T05:52:24.478430+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 05:29 UTC  
+**Last Updated:** January 23, 2026 at 05:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
+### 24
 **EXTREME FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -117,13 +117,13 @@ Rank #1
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-1h ago
+2h ago
 
 ---
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 **[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 18h ago
+ProPublica • 19h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1d ago
 
 Internal audit showed the coins were likely lost via a phishing attack during official storage, according to local media reports.
 
-CoinDesk • 10m ago
+CoinDesk • 33m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 10m ago
 
 Bitcoin’s slide below $90,000 has pushed on-chain realized profit metrics into negative territory, a level last seen before the previous bear market.
 
-Yahoo Finance • 9m ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 7h ago
+👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 141 • 💬 107 • ⏱️ 10:27 • 9h ago
+👁️ 6K • 👍 141 • 💬 107 • ⏱️ 10:27 • 10h ago
 
 ---
 
@@ -364,7 +364,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 8h ago
+👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 9h ago
 
 ---
 
