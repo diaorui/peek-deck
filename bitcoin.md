@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T07:26:46.838478+00:00'
+updated: '2026-01-23T07:47:09.949141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 07:26 UTC  
+**Last Updated:** January 23, 2026 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,928.57
+### $89,535.93
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** -5.8%  
+**7d:** -5.9%  
 **30d:** +2.4%  
 **90d:** -21.9%  
-**1y:** -14.5%  
+**1y:** -14.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,23 +95,15 @@ Rank #1
 
 ---
 
-**[So the gaming community sent me here..](https://www.reddit.com/r/Bitcoin/comments/1qkiypw/so_the_gaming_community_sent_me_here/)**
-
-So I bought this video game at an estate sale and was trying to piece it back together. inside they're saying it's a wallet. just trying to get some clarity on what I should do with this thing next. i want to just put it on ebay and see what it goes for because I know nothing about digital wallets. how i found it just like that in the baggie at the estate sale
-
-1h ago
-
----
-
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-13h ago
+14h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -121,17 +113,19 @@ So I bought this video game at an estate sale and was trying to piece it back to
 
 ---
 
+**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
+
+Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
+
+57m ago
+
+---
+
 **[BTC vs USD](https://www.reddit.com/r/Bitcoin/comments/1qkfvy5/btc_vs_usd/)**
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-3h ago
-
----
-
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
-
-19h ago
+4h ago
 
 ---
 
@@ -143,15 +137,21 @@ Old news for many, but I still see people saying they wish they had known about 
 
 ---
 
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+
+20h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 9h ago
+ProPublica • 21h ago
 
 ---
 
@@ -163,27 +163,19 @@ CNBC • 1d ago
 
 ---
 
-**[South Korea probes loss of seized bitcoin in phishing attack](https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack)**
+**[Bitcoin and yen hold steady as Japan's inflation eases and BOJ keeps interest rates unchanged](https://www.coindesk.com/markets/2026/01/23/bitcoin-and-yen-hold-stead-as-japan-s-inflation-eases-and-bank-of-japan-keeps-interest-rates-unchanged)**
 
-Internal audit showed the coins were likely lost via a phishing attack during official storage, according to local media reports.
+The Bank of Japan held rates steady while revising inflation and growth projections higher.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Profit Cycle Turns Negative for First Time Since 2023: CryptoQuant](https://finance.yahoo.com/news/bitcoin-profit-cycle-turns-negative-050221787.html)**
-
-Bitcoin’s slide below $90,000 has pushed on-chain realized profit metrics into negative territory, a level last seen before the previous bear market.
-
-Yahoo Finance • 2h ago
+CoinDesk • 50m ago
 
 ---
 
-**[$2.3 Billion in Bitcoin and Ethereum Options Set to Expire—Is a Volatility Shock Looming?](https://finance.yahoo.com/news/2-3-billion-bitcoin-ethereum-050924650.html)**
+**[Bitcoin price analysis: BTC sharpe ratio sinks to levels seen during major drawdowns](https://www.coindesk.com/markets/2026/01/23/bitcoin-returns-fail-to-match-risks-just-like-2022)**
 
-Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
+The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
 
-Yahoo Finance • 1h ago
+CoinDesk • 16m ago
 
 ---
 
@@ -192,6 +184,12 @@ Yahoo Finance • 1h ago
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
 wtop.com • 22h ago
+
+---
+
+**[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
+
+Yahoo Finance UK • 20h ago
 
 ---
 
@@ -205,19 +203,19 @@ Fortune • 1d ago
 
 **[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdrMIVMu8TzuHt00tAnNtmZ3VUMLy19abyvtDMV5wAGqzn_9r01Il3j&gaa_ts=69732aeb&gaa_sig=sDIFHlc1LbRahuJxc5cg6CL-7EzWDFZEeVEB62m_PQy_-Rzg-X3jF4kUcpX7b_RpAQyMbqHp9Iasywlkp_-F3w%3D%3D)**
 
-The Block • 1d ago
+MarketWatch • 15h ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqfaYYCNXchRfTwbcDNxuDnH_BNo7mOSgxSmM5ARihd6lStQ4HlqNO4Y&gaa_ts=69731a8e&gaa_sig=oFGcEDC9jxqPUeJGv7mVTCq6UNtgZWns-X7Mc7y1XfCi6orO7hGewaM6jf8P38_Gvwu3jKacTB_CGG2lHea9Jg%3D%3D)**
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
 
-MarketWatch • 14h ago
+Reuters • 2d ago
 
 ---
 
@@ -346,7 +344,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 171 • 💬 65 • ⏱️ 10:27 • 11h ago
+👁️ 7K • 👍 171 • 💬 65 • ⏱️ 10:27 • 12h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T07:26:46.847761+00:00'
+updated: '2026-01-23T07:47:09.958334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 07:26 UTC  
+**Last Updated:** January 23, 2026 at 07:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -35,6 +35,14 @@ Robotics research and industry news
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
 5h ago
+
+---
+
+**[My new Quadruped project](https://www.reddit.com/r/robotics/comments/1qkj4u8/my_new_quadruped_project/)**
+
+This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
+
+1h ago
 
 ---
 
@@ -78,11 +86,19 @@ Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a ligh
 
 ---
 
-**[My new Quadruped project](https://www.reddit.com/r/robotics/comments/1qkj4u8/my_new_quadruped_project/)**
+**[Precise Indoor Tracking In Narrow-Aisle Warehouses: Practical Lessons For Autonomous Inspection Robots](https://www.reddit.com/r/robotics/comments/1qkkk34/precise_indoor_tracking_in_narrowaisle_warehouses/)**
 
-This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-1h ago
+🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 12m ago
+
+---
+
+**[Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.reddit.com/r/robotics/comments/1qkk6gv/google_gemini_is_taking_control_of_humanoid/)**
+
+The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
+
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 35m ago
 
 ---
 
@@ -91,22 +107,6 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
 14h ago
-
----
-
-**[ROS By-The-Bay Meetup -- Jan 29th -- Mountain View, CA [details inside]](https://www.reddit.com/r/robotics/comments/1qk73me/ros_bythebay_meetup_jan_29th_mountain_view_ca/)**
-
-RSVP Here
-
-10h ago
-
----
-
-**[Gazebo Community Meetup : Forest3D Automated Natural Terrain & Asset Generation -- Jan 28th -- Online [details inside]](https://www.reddit.com/r/robotics/comments/1qk78jv/gazebo_community_meetup_forest3d_automated/)**
-
-RSVP Here
-
-10h ago
 
 ---
 
@@ -170,25 +170,25 @@ TechCrunch • 2d ago
 
 ---
 
-**[Siouxland boy’s heart condition leads him to robotics team: Now state qualifiers](https://www.ktiv.com/2026/01/21/siouxland-boys-heart-condition-leads-him-robotics-team-now-state-qualifiers/)**
-
-Teams research problems, build and program robots to complete tasks on a themed table, and present innovative solutions.
-
-ktiv.com • 1d ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 2d ago
-
----
-
 **[Sea, Space, & Sky: 3 Frontier Robotics Stocks Under $20](https://www.marketbeat.com/originals/sea-space-and-sky-3-frontier-robotics-stocks-under-20/)**
 
 MarketBeat • 2d ago
+
+---
+
+**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
+
+The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
+
+CBS News • 15h ago
+
+---
+
+**[Elon Musk Says Optimus Robots Are Coming Your Way. That Has Tesla Stock on the Rise.](https://www.investopedia.com/elon-musk-says-optimus-robots-are-coming-your-way-that-has-tesla-stock-on-the-rise-tsla-11890730)**
+
+The Tesla chief said the company plans to sell Optimus robots by the end of 2027 at the World Economic Forum in Davos, Switzerland.
+
+Investopedia • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 23K • 👍 924 • 💬 134 • ⏱️ 0:49 • 5h ago
+👁️ 23K • 👍 924 • 💬 134 • ⏱️ 0:49 • 6h ago
 
 ---
 
@@ -220,7 +220,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 18K • 👍 2K • 💬 82 • ⏱️ 1:13 • 11h ago
+👁️ 18K • 👍 2K • 💬 82 • ⏱️ 1:13 • 12h ago
 
 ---
 
@@ -290,7 +290,7 @@ Farthest walk by a robot ever. AgiBot A-2 from China achieved the mammoth walk o
 
 📺 Guinness World Records
 
-👁️ 5K • 👍 150 • 💬 8 • ⏱️ 0:30 • 13h ago
+👁️ 5K • 👍 150 • 💬 8 • ⏱️ 0:30 • 14h ago
 
 ---
 

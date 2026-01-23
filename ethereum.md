@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T07:26:46.844510+00:00'
+updated: '2026-01-23T07:47:09.955142+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 07:26 UTC  
+**Last Updated:** January 23, 2026 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
+**24h:** -1.6%  
 **7d:** -11.1%  
 **30d:** +1.3%  
 **90d:** -29.3%  
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-9h ago
+10h ago
 
 ---
 
@@ -168,20 +168,6 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
-
-Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
-
-Decrypt • 14h ago
-
----
-
 **[$2.3 Billion in Bitcoin and Ethereum Options Set to Expire—Is a Volatility Shock Looming?](https://finance.yahoo.com/news/2-3-billion-bitcoin-ethereum-050924650.html)**
 
 Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
@@ -200,7 +186,29 @@ The Block • 14h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
+
+Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
+
+Decrypt • 14h ago
+
+---
+
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+
+The Block • 1d ago
+
+---
+
+**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
+
+Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
+
+Finance Magnates • 1d ago
 
 ---
 
@@ -212,19 +220,11 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[BlackRock, JPMorgan Among 35 Firms Building on Ethereum](https://cryptopotato.com/blackrock-jpmorgan-among-35-firms-building-on-ethereum/)**
+**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
 
-Institutions are using Ethereum to launch tokenized stocks, money market funds, stablecoins, and deposits.
+It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
 
-CryptoPotato • 2d ago
-
----
-
-**[How the Next Ethereum Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/01/21/how-the-next-ethereum-could-help-you-retire-a-mill/)**
-
-Any blockchain network that is able to surpass Ethereum could be capable of generating 1,000-fold returns.
-
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 72 • 👍 6 • 💬 2 • ⏱️ 8:10 • 13m ago
+👁️ 72 • 👍 6 • 💬 2 • ⏱️ 8:10 • 34m ago
 
 ---
 
@@ -278,7 +278,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 164 • ⏱️ 9:11 • 10h ago
+👁️ 18K • 👍 1K • 💬 164 • ⏱️ 9:11 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 3K • 👍 15 • 💬 4 • ⏱️ 1:36 • 7h ago
+👁️ 3K • 👍 15 • 💬 4 • ⏱️ 1:36 • 8h ago
 
 ---
 

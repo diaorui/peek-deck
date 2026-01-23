@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T07:26:46.830060+00:00'
+updated: '2026-01-23T07:47:09.940720+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 07:26 UTC  
+**Last Updated:** January 23, 2026 at 07:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-2h ago
+3h ago
 
 ---
 
@@ -131,17 +131,9 @@ The Guardian • 10h ago
 
 ---
 
-**[Trump and Nvidia have ruffled the feathers of Washington’s China hawks](https://www.cnbc.com/2026/01/22/trump-nvidia-ai-chip-exports-china-congress-bill.html)**
+**[Google Invests in Sakana AI to Boost Gemini’s Presence in Japan](https://www.bloomberg.com/news/articles/2026-01-23/google-invests-in-sakana-ai-to-boost-gemini-s-presence-in-japan)**
 
-U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
-
-CNBC • 22h ago
-
----
-
-**[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
-
-Bloomberg.com • 9h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -153,17 +145,11 @@ CNBC • 1h ago
 
 ---
 
-**[Why higher education needs to embrace AI](https://www.fastcompany.com/91479395/why-higher-education-needs-to-embrace-ai)**
+**[China’s analogue chip runs 12 times as fast on 1/200th energy of digital rivals](https://www.scmp.com/news/china/science/article/3340939/chinas-analogue-ai-chip-runs-12-times-fast-1/200th-energy-digital-rivals)**
 
-Fast Company • 1h ago
+Chinese scientists go back to the future for inspiration that could reshape the power-hungry artificial intelligence model.
 
----
-
-**[Adobe Hammers Together Media AI Partnerships With Firefly Foundry](https://www.forbes.com/sites/dbloom/2026/01/23/adobe-hammers-together-media-ai-partnerships-with-firefly-foundry/)**
-
-Adobe launched Firefly Foundry, partnering with talent agencies, directors, art colleges and production studios to make bespoke AI tools for video creation.
-
-Forbes • 2h ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -177,13 +163,25 @@ The Economist • 17h ago
 
 AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
 
-The Conversation • 17h ago
+The Conversation • 18h ago
 
 ---
 
 **[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-The Information • 12h ago
+The Information • 13h ago
+
+---
+
+**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+
+Axios • 5h ago
+
+---
+
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+
+The New York Times • 7d ago
 
 ---
 
@@ -195,7 +193,7 @@ The Information • 12h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 656 • 💬 461 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 663 • 💬 466 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -203,7 +201,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 312 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 313 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -251,7 +249,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 115 • 💬 148 • 18h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 117 • 💬 152 • 19h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -279,7 +277,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 4K • 👍 54 • 💬 35 • ⏱️ 16:31 • 14h ago
+👁️ 4K • 👍 54 • 💬 35 • ⏱️ 16:31 • 15h ago
 
 ---
 
@@ -642,7 +640,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 510 • 14h ago
+⭐ 9.8k • 🔱 510 • 15h ago
 
 ---
 
@@ -652,7 +650,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 2h ago
+⭐ 9.6k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -672,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 841 • 4h ago
+⭐ 7.0k • 🔱 841 • 5h ago
 
 ---
 
@@ -692,7 +690,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.8k • 🔱 5.0k • 17h ago
+⭐ 4.8k • 🔱 5.0k • 18h ago
 
 ---
 
@@ -710,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.4k • 🔱 190 • 4h ago
+⭐ 2.4k • 🔱 190 • 5h ago
 
 ---
 
@@ -730,7 +728,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 163 • 8h ago
+⭐ 2.0k • 🔱 163 • 9h ago
 
 ---
 
