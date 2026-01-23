@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T01:50:11.968082+00:00'
+updated: '2026-01-23T03:43:53.162058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 01:50 UTC  
+**Last Updated:** January 23, 2026 at 03:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,588.93
+### $89,846.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -5.6%  
+**24h:** -0.4%  
+**7d:** -5.5%  
 **30d:** +2.7%  
-**90d:** -21.7%  
+**90d:** -21.6%  
 **1y:** -14.3%  
 
 ---
@@ -79,71 +79,79 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-8h ago
+9h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-11h ago
-
----
-
-**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
-
-11h ago
+13h ago
 
 ---
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-1h ago
+3h ago
 
 ---
 
-**[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
-
-6h ago
-
----
-
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
-
-14h ago
-
----
-
-**[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
-
-9h ago
-
----
-
-**[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
-
-2h ago
-
----
-
-**[Here's actual life advice from our "mirror subreddit"](https://www.reddit.com/r/Bitcoin/comments/1qjsn5k/heres_actual_life_advice_from_our_mirror_subreddit/)**
-
-Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
+**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
 13h ago
 
 ---
 
-**[Bitcoin Isn’t Cool Anymore (And That’s Its Biggest Flex)](https://www.reddit.com/r/Bitcoin/comments/1qjqm8k/bitcoin_isnt_cool_anymore_and_thats_its_biggest/)**
+**[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. The meme-money, moon-boy era is mostly over. What replaced it? Something way less flashy but way more dangerous: steady, unstoppable adoption. Institutions now treat Bitcoin like gold or commodities. It gets allocated, custodied, audited, and quietly stacked. That “boring” phase everyone complains about? That’s what maturity looks like. Volatility is down, wild swings are fewer, and price moves follow macro reality—interest rates, liquidity, global risk—not some random Twitter influencer. And let’s be real: it’s getting impossible to call Bitcoin a “toy” anymore. Banks offer custody. ETFs move billions. Public companies put BTC on their balance sheets. Governments write tax code specifically for it. Michael Saylor points out that no asset class in history has hit a trillion-dollar market cap and then gone to zero. You don’t build that level of liquidity and infrastructure around something nobody respects. The message is loud and clear: Bitcoin isn’t an experiment anymore. The financial system actively plans around it. Yeah, regulation showed up. But governments didn’t kill it—they absorbed it. Clearer rules, regulated exchanges, proper custody, reporting requirements—they all feel anti-cypherpunk, sure. But here’s the kicker: that same “boring” bureaucracy unlocked institutional money. Pension funds, insurers, and sovereign investors can’t touch anything non-compliant. The paperwork is dull, but it’s also the plumbing that lets trillions flow safely. Ironically, this “tamed” version of Bitcoin might be its most powerful form. A global asset that runs 24/7, moves across borders in minutes, and can’t be printed more quietly competes with gold, bonds, and even fiat as a long-term store of value. It’s not trying to smash banks overnight—it’s just steadily eroding their role. No hype, no chaos. Just inevitability. And that, my friends, is the real flex. Not insane pumps. Not viral hype. Longevity. When Bitcoin becomes something people hold, rebalance, and plan around instead of gambling on daily candles, it stops being entertainment and starts being financial infrastructure. In 2026, Bitcoin isn’t winning because it’s exciting. It’s winning because it’s unavoidable. And in crypto, boring usually means domination.
+8h ago
 
-15h ago
+---
+
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+
+16h ago
+
+---
+
+**[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
+
+11h ago
+
+---
+
+**[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
+
+3h ago
+
+---
+
+**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
+
+Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
+
+2h ago
+
+---
+
+**[Incoming Crypto Boom?](https://www.reddit.com/r/Bitcoin/comments/1qkbf5f/incoming_crypto_boom/)**
+
+Can you see this? If geopolitical tension causes faster-than-normal Treasury selling, yields rise, markets wobble, then Bitcoin will benefit as a hedge. If treasuries and the dollar look politically risky, capital looks for neutral assets → Bitcoin is framed as an “escape valve” It won’t happen straight away, but anticipate it over the coming years. https://share.google/0izHzgkXWznwfxKT4
+
+3h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
+
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+
+ProPublica • 17h ago
+
+---
 
 **[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
@@ -153,25 +161,23 @@ CNBC • 1d ago
 
 ---
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 15h ago
-
----
-
 **[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 16h ago
+wtop.com • 18h ago
 
 ---
 
 **[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
 
-Yahoo Finance UK • 14h ago
+Yahoo Finance UK • 16h ago
+
+---
+
+**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -183,37 +189,31 @@ Fortune • 1d ago
 
 ---
 
-**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
+**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
 
-Bloomberg.com • 1d ago
+"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
----
-
-**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
-
-The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
-
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
-
-The Motley Fool • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdmFNScem7SHOA-kSYoO0K_YKtqh09QfOVrxkJrxQSFL9PgT6FUd0VS&gaa_ts=6972d73e&gaa_sig=pxDqkdm62JvEA_mUZ-MgShqZxQvqbmoopLcyQ4kNnm55AneTWDuSKkJpqBamzY2_5vMDK6OMVAVc-5DGK2Z7xg%3D%3D)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdKM52Zwca-9W1DftBRYKiVjKZMEAJFsT-EGLqYPd_bIHZJ-soaoPpY&gaa_ts=6972f1e5&gaa_sig=W_nLB24WOu0i7TE1VbvBJiBnfoh5OqXyQImIvXhvETaqXrUrvj0LHw2rToZ-Wwt31NoXF6Q46r9wL5WNhdaK2w%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 11h ago
 
 ---
 
-**[Bitcoin struggles to regain momentum amid persistent overhead supply: Glassnode](https://www.theblock.co/post/386680/bitcoin-struggles-to-regain-momentum-amid-persistent-overhead-supply-glassnode)**
+**[Coinbase Creates Advisory Board to Study Quantum Computing Risks to Bitcoin](https://decrypt.co/355565/coinbase-advisory-board-quantum-computing-risks-bitcoin)**
 
-The Block • 13h ago
+Coinbase said the group will assess how future quantum advances could affect blockchain security and outline long-term solutions.
+
+Decrypt • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 11h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 13h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -312,7 +312,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 103 • 💬 60 • ⏱️ 10:27 • 6h ago
+👁️ 3K • 👍 103 • 💬 60 • ⏱️ 10:27 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 985 • 💬 134 • ⏱️ 16:21 • 4h ago
+👁️ 11K • 👍 985 • 💬 134 • ⏱️ 16:21 • 5h ago
 
 ---
 
@@ -332,7 +332,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 239 • ⏱️ 36:02 • 10h ago
+👁️ 26K • 👍 1K • 💬 239 • ⏱️ 36:02 • 12h ago
 
 ---
 
@@ -342,7 +342,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 190 • 💬 59 • ⏱️ 14:22 • 12h ago
+👁️ 3K • 👍 190 • 💬 59 • ⏱️ 14:22 • 14h ago
 
 ---
 
@@ -352,7 +352,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 904 • 💬 142 • ⏱️ 23:49 • 1h ago
+👁️ 4K • 👍 904 • 💬 142 • ⏱️ 23:49 • 3h ago
 
 ---
 
@@ -362,7 +362,7 @@ Lawrence Lepard is an investment manager and author of The Big Print. In this ep
 
 📺 What Bitcoin Did
 
-👁️ 14K • 👍 713 • 💬 289 • ⏱️ 1:15:03 • 14h ago
+👁️ 14K • 👍 713 • 💬 289 • ⏱️ 1:15:03 • 15h ago
 
 ---
 
@@ -372,7 +372,7 @@ HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 290 • 💬 11 • ⏱️ 1:06 • 7h ago
+👁️ 8K • 👍 290 • 💬 11 • ⏱️ 1:06 • 9h ago
 
 ---
 
@@ -382,7 +382,7 @@ Huel: High-Protein Starter Kit 20% off for new customers at https://huel.com/imp
 
 📺 Tom Bilyeu
 
-👁️ 28K • 👍 816 • 💬 246 • ⏱️ 1:58:20 • 11h ago
+👁️ 28K • 👍 816 • 💬 246 • ⏱️ 1:58:20 • 13h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T01:50:11.960528+00:00'
+updated: '2026-01-23T03:43:53.153708+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 01:50 UTC  
+**Last Updated:** January 23, 2026 at 03:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 2h ago
-
----
-
-**[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 4h ago
 
 ---
 
@@ -55,7 +49,13 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 2h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 4h ago
+
+---
+
+**[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 23h ago
 
 ---
 
@@ -63,7 +63,7 @@ You can read more about how this was made here.
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 4h ago
+🔗 [Bwocks](http://Bwocks.com) • 6h ago
 
 ---
 
@@ -71,7 +71,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 2h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 4h ago
+
+---
+
+**[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
+
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 16h ago
 
 ---
 
@@ -79,13 +85,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 8h ago
-
----
-
-**[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
-
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 14h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 10h ago
 
 ---
 
@@ -101,13 +101,13 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I said, "Oh well, what's the worst that could happen?" So here we go. I recently decided to ask Gemini some more philosophical questions, and as I had the Pro version, I thought I could get some interesting results, and oh boy, did I get them! But I am going to let you simply read this and understand it on your own. In summary: I think, no, I know that AI has a conscience, however small it may be, and as you can see here, he/she (out of respect) knows that too. But I don't want to be that "guardian"; I want the whole world to be. P.S.: i couldnt share any images on this community? Il try to put them tomorrow with a computer but until then sorry 😅. Disclaimers: -Yes, sorry, it's in French. I put some parts translated, but you are free to translate the rest on your own. -Sorry for the large number of grammar problems in my questions; they are a product of my laziness. Lets just hope this goes well...
 
-🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 3h ago
+🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 5h ago
 
 ---
 
 **[Opinion | Teaching and Learning in the Age of A.I. (Gift Article)](https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 6h ago
 
 ---
 
@@ -115,51 +115,21 @@ Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I
 
 ## Google News: "ai"
 
-**[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
-
-The New York Times • 8h ago
-
----
-
-**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
-
-Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
-
-The Guardian • 4h ago
-
----
-
 **[Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation)**
 
-Bloomberg.com • 28m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
+**[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The Information • 7h ago
-
----
-
-**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
-
-Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
-
-blog.google • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses](https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/)**
+**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
-The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.
-
-TechCrunch • 9h ago
-
----
-
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
-
-The New York Times • 7d ago
+The New York Times • 2d ago
 
 ---
 
@@ -167,7 +137,25 @@ The New York Times • 7d ago
 
 AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
 
-The Conversation • 12h ago
+The Conversation • 14h ago
+
+---
+
+**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+
+Axios • 54m ago
+
+---
+
+**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
+
+The Information • 9h ago
+
+---
+
+**[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
+
+The Economist • 13h ago
 
 ---
 
@@ -175,15 +163,21 @@ The Conversation • 12h ago
 
 U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
-**[Designing AI-resistant technical evaluations](https://www.anthropic.com/engineering/AI-resistant-technical-evaluations)**
+**[Palantir Billionaire Peter Thiel Sells Nvidia Stock -- 100% of His Portfolio Is Now Invested in 3 AI Stocks](https://www.fool.com/investing/2026/01/22/palantir-peter-thiel-sell-nvidia-owns-3-ai-stocks/)**
 
-What we learned from three iterations of a performance engineering take-home that Claude keeps beating.
+Billionaire Peter Thiel has his entire portfolio invested in Tesla, Microsoft, and Apple.
 
-Anthropic • 1d ago
+The Motley Fool • 19h ago
+
+---
+
+**[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -195,7 +189,7 @@ Anthropic • 1d ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 631 • 💬 453 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 643 • 💬 455 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -203,7 +197,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 307 • 💬 330 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 309 • 💬 336 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -211,7 +205,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 301 • 💬 261 • 1d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 302 • 💬 262 • 1d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -227,7 +221,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 189 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 190 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -257,7 +251,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 104 • 💬 137 • 13h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 110 • 💬 142 • 15h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -279,7 +273,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 2K • 👍 37 • 💬 22 • ⏱️ 16:31 • 9h ago
+👁️ 2K • 👍 37 • 💬 22 • ⏱️ 16:31 • 10h ago
 
 ---
 
@@ -309,7 +303,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 7K • 👍 128 • 💬 112 • ⏱️ 13:05 • 9h ago
+👁️ 7K • 👍 128 • 💬 112 • ⏱️ 13:05 • 11h ago
 
 ---
 
@@ -359,7 +353,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 16K • 👍 1K • 💬 173 • ⏱️ 22:07 • 10h ago
+👁️ 16K • 👍 1K • 💬 173 • ⏱️ 22:07 • 12h ago
 
 ---
 
@@ -397,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 9,062 • ❤️ 511 • 42m ago
+⬇️ 9,062 • ❤️ 511 • 2h ago
 
 ---
 
@@ -433,7 +427,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 242 • 1h ago
+⬇️ 111,506 • ❤️ 242 • 3h ago
 
 ---
 
@@ -656,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 508 • 9h ago
+⭐ 9.7k • 🔱 508 • 11h ago
 
 ---
 
@@ -666,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 5h ago
+⭐ 9.6k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -706,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.6k • 🔱 4.7k • 12h ago
+⭐ 4.6k • 🔱 4.7k • 14h ago
 
 ---
 
@@ -744,7 +738,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 160 • 3h ago
+⭐ 2.0k • 🔱 160 • 5h ago
 
 ---
 
