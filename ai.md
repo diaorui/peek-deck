@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T21:43:51.018350+00:00'
+updated: '2026-01-23T22:19:27.528597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 21:43 UTC  
+**Last Updated:** January 23, 2026 at 22:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ AMD today released a new version of Ryzen AI Software, the user-space packages f
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 22h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 23h ago
 
 ---
 
@@ -97,7 +97,7 @@ You can read more about how this was made here.
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 11h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 5h ago
+WIRED • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ WIRED • 5h ago
 
 A look into key insights from the Club CEOs at this years World Economic Forum.
 
-CNBC • 46m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ CNBC • 46m ago
 
 Everyone seemed to be talking about AI and its impact on jobs at Davos.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
 
-The World Economic Forum • 5h ago
+The World Economic Forum • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 2h ago
 
 The World Economic Forum's Saadia Zahidi writes about the complex ways AI is transforming the global labor market.
 
-Time Magazine • 11m ago
+Time Magazine • 46m ago
 
 ---
 
@@ -207,7 +207,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 456 • 💬 242 • 11h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 456 • 💬 242 • 12h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -215,7 +215,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 440 • 💬 285 • 14h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 440 • 💬 285 • 15h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -247,7 +247,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 192 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 192 • 💬 79 • 3d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -295,7 +295,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 40K • 👍 911 • 💬 100 • ⏱️ 12:48 • 22h ago
+👁️ 40K • 👍 911 • 💬 100 • ⏱️ 12:48 • 23h ago
 
 ---
 
@@ -403,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 683 • 20h ago
+⬇️ 17,010 • ❤️ 683 • 21h ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 274 • 21h ago
+⬇️ 145,992 • ❤️ 274 • 22h ago
 
 ---
 
@@ -497,7 +497,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 281 • 18h ago
+⬇️ 35,694 • ❤️ 281 • 19h ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 527 • 1h ago
+⭐ 9.9k • 🔱 527 • 2h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 10h ago
+⭐ 4.9k • 🔱 5.2k • 11h ago
 
 ---
 
@@ -708,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.0k • 🔱 434 • 1d ago
+⭐ 4.0k • 🔱 434 • 2d ago
 
 ---
 
@@ -716,7 +716,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 213 • 18h ago
+⭐ 2.6k • 🔱 213 • 19h ago
 
 ---
 
@@ -726,7 +726,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 336 • 19h ago
+⭐ 2.4k • 🔱 336 • 20h ago
 
 ---
 
@@ -736,7 +736,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 164 • 12h ago
+⭐ 2.0k • 🔱 164 • 13h ago
 
 ---
 

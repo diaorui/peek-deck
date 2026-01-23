@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T21:43:51.026999+00:00'
+updated: '2026-01-23T22:19:27.537313+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 21:43 UTC  
+**Last Updated:** January 23, 2026 at 22:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 only the people from yesterday will understand these photos and the back story. obviously I dont feel comfortable with any of this. But i carry and im always ready. i've been advised to not post anything else, but i've been a part of the reddit community for a long time, and I know when a reach around is owed.. thank you to everyone who helped and pointed me in the right directions.. I love you all. So here it is and also goodbye...... when I reach out again. You will know
 
-41m ago
+1h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-45m ago
+1h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-14h ago
+15h ago
 
 ---
 
@@ -127,13 +127,13 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-7h ago
+8h ago
 
 ---
 
 **[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 23h ago
+ProPublica • 1d ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 1d ago
 
 Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeZ9ouTjqZQS8U8pky_edQPJ5devXHaOwITgyPgO9wKD_FiZlfsQkP9&gaa_ts=6973eeff&gaa_sig=dnAp5c_07Say4eUCJt4Jc0TqWWegB6ixbhNvfYVrfuGlSLr2bv3MLDkQs0oefME1DoZ-muHSs6caEWGdCUoPwA%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -312,7 +312,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 7h ago
+👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 8h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 54K • 👍 2K • 💬 283 • ⏱️ 16:21 • 23h ago
+👁️ 54K • 👍 2K • 💬 283 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -342,7 +342,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 7h ago
+👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 8h ago
 
 ---
 
@@ -362,7 +362,7 @@ Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 10h ago
+👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 11h ago
 
 ---
 
@@ -372,7 +372,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 21h ago
+👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 22h ago
 
 ---
 
@@ -382,7 +382,7 @@ Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 10h ago
+👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 11h ago
 
 ---
 
@@ -402,7 +402,7 @@ Introduction 0:00-1:08 Bitunix Exchage 1:08-2:00 Why Is Gold Moving While Bitcoi
 
 📺 Wolves of Crypto
 
-👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 10h ago
+👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 11h ago
 
 ---
 
