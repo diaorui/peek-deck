@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T19:25:53.892210+00:00'
+updated: '2026-01-23T19:42:07.592119+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 19:25 UTC  
+**Last Updated:** January 23, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -200,7 +200,7 @@ The Block • 1d ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 603 • 👍 66 • 💬 2 • ⏱️ 4:35 • 3h ago
+👁️ 603 • 👍 66 • 💬 2 • ⏱️ 4:35 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:11 • 22h ago
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:11 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 19h ago
+👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 20h ago
 
 ---
 

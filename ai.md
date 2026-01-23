@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T19:25:53.877963+00:00'
+updated: '2026-01-23T19:42:07.577363+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 19:25 UTC  
+**Last Updated:** January 23, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ If you’re trying to get a better understanding of AI (without needing a comput
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-14h ago
+15h ago
 
 ---
 
@@ -127,19 +127,19 @@ The New York Times • 9h ago
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
 **[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand - WSJ](https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?gaa_at=eafs&gaa_n=AWEtsqdiW0WbkOOpRMeek5ama4ljWUs2zv3mSfE8wHuz1HjIV1XE-w4UymnW&gaa_ts=6973cea5&gaa_sig=h4oc1dObLRgf1Wasx5LDmVgpEmclBiT0HFkC96Bpo0qHLSfFn2-26HaFDzxiDxjY-tXrzQ19S2lRDJ0G_OSddQ%3D%3D)**
 
-The Wall Street Journal • 10m ago
+The Wall Street Journal • 27m ago
 
 ---
 
@@ -147,13 +147,13 @@ The Wall Street Journal • 10m ago
 
 Intel stock (INTC) continues to plunge in Friday's trading session after the chipmaker reported disappointing first quarter guidance, revealing a struggle to meet AI data center demands. While the semiconductor manufacturer topped fourth quarter earnings and revenue estimates, was there anything new unveiled in this report? Benchmark Company managing director and senior semiconductor research analyst Cody Acree and Wedbush Securities managing director of equity research Matt Bryson comment on Intel's latest earnings and guidance figures and what they mean for the AI chip stock going forward in 2026. Also catch Cody Acree and Matt Bryson discuss the ripple effects that Intel's guidance may have on memory chipmakers and prices. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Intel struggles to meet AI data center demand, shares drop 13%](https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ Reuters • 19h ago
 
 The companies are among the opportunities he sees outside of the "Magnificent Seven" for his firm's growth strategy.
 
-CNBC • 42m ago
+CNBC • 59m ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 350 • 1d ago
+⬇️ 4,644 • ❤️ 350 • 2d ago
 
 ---
 
@@ -646,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 526 • 54m ago
+⭐ 9.9k • 🔱 526 • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 857 • 16h ago
+⭐ 7.2k • 🔱 857 • 17h ago
 
 ---
 
