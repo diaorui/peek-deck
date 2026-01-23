@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-22T23:43:54.882026+00:00'
+updated: '2026-01-23T01:50:11.968082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 22, 2026 at 23:43 UTC  
+**Last Updated:** January 23, 2026 at 01:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,443.41
+### $89,588.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -6.5%  
-**30d:** +1.7%  
-**90d:** -20.0%  
-**1y:** -14.1%  
+**24h:** -0.1%  
+**7d:** -5.6%  
+**30d:** +2.7%  
+**90d:** -21.7%  
+**1y:** -14.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.19B
+**Market Cap:** $1792.72B
 Rank #1
 
-**Circulating Supply:** 19,979,440 BTC
+**Circulating Supply:** 19,979,481 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-28.9%
 
 **All-Time Low:** $67.81
-+131584.1%
++132174.0%
 
 ---
 
@@ -79,37 +79,49 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-5h ago
+8h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-9h ago
-
----
-
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
-
-12h ago
+11h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-9h ago
+11h ago
+
+---
+
+**[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
+
+1h ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-4h ago
+6h ago
+
+---
+
+**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+
+14h ago
 
 ---
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-7h ago
+9h ago
+
+---
+
+**[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
+
+2h ago
 
 ---
 
@@ -117,13 +129,7 @@ Rank #1
 
 Yeah... just do what's "at least bearable" for 40+ years. Come live in reality and be miserable for 8+ hours Monday to Friday like the rest of us. That's not wasting your life at all. "Show up every day for years and you'll get promoted". That promotion might even come with a raise that keeps up with real inflation so you can tread water while feeling like you're making progress. Just join the rat race, keep your head down, do as you're told and maybe you'll be allowed to enjoy the final 10-20 years of your life if you play your cards right and invest your melting monopoly money in the right assets. Don't get me wrong. There's nothing wrong with having a job. It's the "it's normal to be miserable most of your life" mentality that I have an issue with.
 
-11h ago
-
----
-
-**[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Opinion & Analysis pieces. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1qk5mig/your_daily_bitcoin_breakdown_newsletter_is_now/)**
-
-3h ago
+13h ago
 
 ---
 
@@ -131,27 +137,13 @@ Yeah... just do what's "at least bearable" for 40+ years. Come live in reality a
 
 Bitcoin in 2026 isn’t rebellious. It isn’t chaotic. It’s infrastructure. The meme-money, moon-boy era is mostly over. What replaced it? Something way less flashy but way more dangerous: steady, unstoppable adoption. Institutions now treat Bitcoin like gold or commodities. It gets allocated, custodied, audited, and quietly stacked. That “boring” phase everyone complains about? That’s what maturity looks like. Volatility is down, wild swings are fewer, and price moves follow macro reality—interest rates, liquidity, global risk—not some random Twitter influencer. And let’s be real: it’s getting impossible to call Bitcoin a “toy” anymore. Banks offer custody. ETFs move billions. Public companies put BTC on their balance sheets. Governments write tax code specifically for it. Michael Saylor points out that no asset class in history has hit a trillion-dollar market cap and then gone to zero. You don’t build that level of liquidity and infrastructure around something nobody respects. The message is loud and clear: Bitcoin isn’t an experiment anymore. The financial system actively plans around it. Yeah, regulation showed up. But governments didn’t kill it—they absorbed it. Clearer rules, regulated exchanges, proper custody, reporting requirements—they all feel anti-cypherpunk, sure. But here’s the kicker: that same “boring” bureaucracy unlocked institutional money. Pension funds, insurers, and sovereign investors can’t touch anything non-compliant. The paperwork is dull, but it’s also the plumbing that lets trillions flow safely. Ironically, this “tamed” version of Bitcoin might be its most powerful form. A global asset that runs 24/7, moves across borders in minutes, and can’t be printed more quietly competes with gold, bonds, and even fiat as a long-term store of value. It’s not trying to smash banks overnight—it’s just steadily eroding their role. No hype, no chaos. Just inevitability. And that, my friends, is the real flex. Not insane pumps. Not viral hype. Longevity. When Bitcoin becomes something people hold, rebalance, and plan around instead of gambling on daily candles, it stops being entertainment and starts being financial infrastructure. In 2026, Bitcoin isn’t winning because it’s exciting. It’s winning because it’s unavoidable. And in crypto, boring usually means domination.
 
-13h ago
-
----
-
-**[Just built a map of bitcoin holdings by countries](https://www.reddit.com/r/Bitcoin/comments/1qjntgl/just_built_a_map_of_bitcoin_holdings_by_countries/)**
-
-16h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 1h ago
-
----
 
 **[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
@@ -161,11 +153,11 @@ CNBC • 1d ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Playbook: What He Says Will Win](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-says-213232744.html)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
 
-When the world’s most vocal Bitcoin maximalist names a stock alongside BTC as a “best performing asset of the decade,” you pay attention. Michael Saylor doesn’t do diversification. He does conviction. His two bets for the next ten years are Bitcoin and Nvidia (NASDAQ:NVDA). That pairing reveals how he sees digital transformation playing out. A ... Michael Saylor’s Bitcoin Playbook: What He Says Will Win
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-Yahoo Finance • 2h ago
+ProPublica • 15h ago
 
 ---
 
@@ -173,7 +165,13 @@ Yahoo Finance • 2h ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 14h ago
+wtop.com • 16h ago
+
+---
+
+**[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
+
+Yahoo Finance UK • 14h ago
 
 ---
 
@@ -191,17 +189,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeon9WToE2YNFVDbTTvfY4eMevYGCscDwU0CQPvzk6PbPsdCwXuS2iv&gaa_ts=6972acdf&gaa_sig=NUDGNA1o3VXZSXsflvFZPQxrDK21nw7kZjE9kySjK5V7LpW44M9BEZOg0oWlYusXn1eCqfhLxrdb2Wazmc6yvw%3D%3D)**
-
-MarketWatch • 7h ago
-
----
-
 **[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
 
 The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -213,9 +205,15 @@ The Motley Fool • 1d ago
 
 ---
 
-**[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdmFNScem7SHOA-kSYoO0K_YKtqh09QfOVrxkJrxQSFL9PgT6FUd0VS&gaa_ts=6972d73e&gaa_sig=pxDqkdm62JvEA_mUZ-MgShqZxQvqbmoopLcyQ4kNnm55AneTWDuSKkJpqBamzY2_5vMDK6OMVAVc-5DGK2Z7xg%3D%3D)**
 
-The Block • 9h ago
+MarketWatch • 9h ago
+
+---
+
+**[Bitcoin struggles to regain momentum amid persistent overhead supply: Glassnode](https://www.theblock.co/post/386680/bitcoin-struggles-to-regain-momentum-amid-persistent-overhead-supply-glassnode)**
+
+The Block • 13h ago
 
 ---
 
@@ -252,7 +250,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 9h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 11h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -276,7 +274,7 @@ Enterprise blockchain infrastructure. Institutional-grade solutions for governme
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 23h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 1d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -314,47 +312,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 63 • 💬 34 • ⏱️ 10:27 • 4h ago
-
----
-
-**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 208 • ⏱️ 36:02 • 8h ago
-
----
-
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
-
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
-
-📺 The Sat Stacker Show
-
-👁️ 2K • 👍 173 • 💬 45 • ⏱️ 14:22 • 10h ago
-
----
-
-**[⚠️ #1 ISSUE HOLDING UP BITCOIN RIGHT NOW](https://www.youtube.com/watch?v=BjTgmG-3oko)**
-
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 6K • 👍 260 • 💬 9 • ⏱️ 1:06 • 5h ago
-
----
-
-**[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 45K • 👍 2K • 💬 407 • ⏱️ 41:04 • 1d ago
+👁️ 3K • 👍 103 • 💬 60 • ⏱️ 10:27 • 6h ago
 
 ---
 
@@ -364,27 +322,57 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 478 • 💬 41 • ⏱️ 16:21 • 1h ago
+👁️ 11K • 👍 985 • 💬 134 • ⏱️ 16:21 • 4h ago
 
 ---
 
-**[🔥Bitcoin Just Dropped $11,000 | Here’s What Comes Next!](https://www.youtube.com/watch?v=D93oLAsg8P8)**
+**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
 
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 DataDash
+📺 CryptosRUs
 
-👁️ 2K • 👍 175 • 💬 8 • ⏱️ 10:16 • 7h ago
+👁️ 26K • 👍 1K • 💬 239 • ⏱️ 36:02 • 10h ago
 
 ---
 
-**[3 Reasons Why I Wouldn’t Buy Bitcoin Yet! [Thank Me Later]](https://www.youtube.com/watch?v=uH_Q2O5TBnI)**
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
 
-BTC has been chopping around with some wild volatility. In today's video, Kyledoops outlines 3 very specific reasons why now is ...
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
 
-📺 Crypto Banter
+📺 The Sat Stacker Show
 
-👁️ 16K • 👍 1K • 💬 17 • ⏱️ 24:37 • 15h ago
+👁️ 3K • 👍 190 • 💬 59 • ⏱️ 14:22 • 12h ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 904 • 💬 142 • ⏱️ 23:49 • 1h ago
+
+---
+
+**[The Fed Pivot, Bitcoin vs Gold &amp; The Return Of QE | Lawrence Lepard](https://www.youtube.com/watch?v=gVnEWAR-06s)**
+
+Lawrence Lepard is an investment manager and author of The Big Print. In this episode, he explains why the Federal Reserve has ...
+
+📺 What Bitcoin Did
+
+👁️ 14K • 👍 713 • 💬 289 • ⏱️ 1:15:03 • 14h ago
+
+---
+
+**[⚠️ #1 ISSUE HOLDING UP BITCOIN RIGHT NOW](https://www.youtube.com/watch?v=BjTgmG-3oko)**
+
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 290 • 💬 11 • ⏱️ 1:06 • 7h ago
 
 ---
 
@@ -394,7 +382,17 @@ Huel: High-Protein Starter Kit 20% off for new customers at https://huel.com/imp
 
 📺 Tom Bilyeu
 
-👁️ 24K • 👍 724 • 💬 201 • ⏱️ 1:58:20 • 9h ago
+👁️ 28K • 👍 816 • 💬 246 • ⏱️ 1:58:20 • 11h ago
+
+---
+
+**[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 45K • 👍 2K • 💬 413 • ⏱️ 41:04 • 1d ago
 
 ---
 
@@ -404,7 +402,7 @@ Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: ht
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 415 • 💬 115 • ⏱️ 1:16 • 2d ago
+👁️ 20K • 👍 421 • 💬 115 • ⏱️ 1:16 • 2d ago
 
 ---
 
