@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T23:22:33.321818+00:00'
+updated: '2026-01-23T23:43:13.788946+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 23:22 UTC  
+**Last Updated:** January 23, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -99,7 +99,7 @@ Rank #1
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -135,13 +135,13 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
 
-7h ago
+8h ago
 
 ---
 
 **["Bitcoin is gold with wings"](https://www.reddit.com/r/Bitcoin/comments/1qkz3up/bitcoin_is_gold_with_wings/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bitcoin Magazine • 10h ago
 
 **[CHART OF THE DAY: Bitcoin Is Not "Digital Gold"](https://app.hedgeye.com/insights/177014-chart-of-the-day-bitcoin-is-not-digital-gold?type=macro%2Cmarket-insights)**
 
-Hedgeye • 10h ago
+Hedgeye • 11h ago
 
 ---
 
@@ -322,7 +322,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 136 • ⏱️ 32:17 • 7h ago
+👁️ 20K • 👍 1K • 💬 136 • ⏱️ 32:17 • 8h ago
 
 ---
 
@@ -352,7 +352,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 735 • 💬 60 • ⏱️ 8:40 • 1h ago
+👁️ 7K • 👍 735 • 💬 60 • ⏱️ 8:40 • 2h ago
 
 ---
 
