@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T17:26:25.725327+00:00'
+updated: '2026-01-23T17:48:29.416638+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 17:26 UTC  
+**Last Updated:** January 23, 2026 at 17:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,076.77
+### $90,922.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -5.8%  
-**30d:** +2.4%  
-**90d:** -21.9%  
-**1y:** -14.5%  
+**24h:** +1.9%  
+**7d:** -4.4%  
+**30d:** +4.0%  
+**90d:** -20.7%  
+**1y:** -13.2%  
 
 ---
 
@@ -87,6 +87,12 @@ Rank #1
 
 Everyone wants the green peaks, but few can stomach the long walk across the ice. While the colony is busy debating the next 1% move, the disciplined trader is miles away, sticking to the plan. Stop looking for consensus. Start looking for consistency.
 
+3h ago
+
+---
+
+**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
+
 2h ago
 
 ---
@@ -101,13 +107,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-12h ago
-
----
-
-**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
-
-1h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-3h ago
+4h ago
 
 ---
 
@@ -129,15 +129,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
 
-1h ago
-
----
-
-**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
-
-Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
-
-16h ago
+2h ago
 
 ---
 
@@ -149,6 +141,14 @@ I keep seeing the idea that even a very small amount of Bitcoin could matter in 
 
 ---
 
+**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
+
+Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
+
+16h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -157,15 +157,39 @@ I keep seeing the idea that even a very small amount of Bitcoin could matter in 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 19h ago
+ProPublica • 20h ago
 
 ---
 
-**[‘It’s Now Happening’—Urgent $38 Trillion U.S. Dollar ‘Collapse’ Warning Issued As Markets Brace For Gold And Bitcoin Price Shocks](https://www.forbes.com/sites/digital-assets/2026/01/21/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)**
+**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
 
-Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
+"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-Forbes • 2d ago
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 1h ago
+
+---
+
+**[UBS Planning Bitcoin, Ethereum Trading for Some Wealthy Clients: Bloomberg](https://finance.yahoo.com/news/ubs-planning-bitcoin-ethereum-trading-165246603.html)**
+
+UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
+
+Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -185,32 +209,6 @@ wtop.com • 1d ago
 
 ---
 
-**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
-
-Bloomberg • 1d ago
-
----
-
-**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqcJVyI2xafy4TStIfM4Jzcotk8P9C-uHXCwtJedVsgsbGIcoBrxI3a3&gaa_ts=6973a60c&gaa_sig=Tz-usmSNTHsrbkjqDeW3KDEaFfbWH2G6NuMwKJmTpvJ7wg3ujIyEXsYoOSdhM2vviOAMEnXtc9DWUCrDBZmbOw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
-
-The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
-
-Fortune • 1d ago
-
----
-
-**[Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies](https://www.reuters.com/business/bitwise-proficio-capital-partners-etf-targets-gold-metals-bitcoin-alternative-2026-01-23/)**
-
-Reuters • 17h ago
-
----
-
 **[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
 Some fear massive consequences for financial markets.
@@ -219,11 +217,15 @@ The Motley Fool • 7h ago
 
 ---
 
-**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqc1JG1jyK4kzWM9msvBa6bfxXa_3_rcqnjxhgPLtjPEr-U35gxF3nUt&gaa_ts=6973b7d6&gaa_sig=_2aUxidQClJAsG50aD0IlpaWnL-vPvnt8UFziRbDuVtQZJ09Qm5dJ5QSSpnFUEz-sUE73cAY3uTJX78t0BRcXg%3D%3D)**
 
-Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
+MarketWatch • 1d ago
 
-CoinDesk • 1h ago
+---
+
+**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -296,15 +298,15 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46648820)**
-
-⬆️ 4 • 💬 0 • 7d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
-
----
-
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
 ⬆️ 1 • 💬 1 • 3d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+
+---
+
+**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46706668)**
+
+⬆️ 67 • 💬 30 • 2d ago • [dashboard.infracost.io](https://dashboard.infracost.io/)
 
 ---
 
@@ -348,7 +350,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 739 • 💬 116 • ⏱️ 32:17 • 1h ago
+👁️ 7K • 👍 739 • 💬 116 • ⏱️ 32:17 • 2h ago
 
 ---
 
@@ -358,7 +360,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 238 • 💬 97 • ⏱️ 10:27 • 21h ago
+👁️ 10K • 👍 238 • 💬 97 • ⏱️ 10:27 • 22h ago
 
 ---
 

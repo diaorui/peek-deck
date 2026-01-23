@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T17:26:25.731486+00:00'
+updated: '2026-01-23T17:48:29.422761+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 17:26 UTC  
+**Last Updated:** January 23, 2026 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,953.82
+### $2,997.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -10.8%  
-**30d:** +1.7%  
-**90d:** -29.1%  
-**1y:** -11.2%  
+**24h:** +2.2%  
+**7d:** -9.2%  
+**30d:** +3.5%  
+**90d:** -27.8%  
+**1y:** -9.3%  
 
 ---
 
@@ -96,7 +96,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-19h ago
+20h ago
 
 ---
 
@@ -152,25 +152,27 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 ## Google News: "ethereum"
 
+**[UBS Planning Bitcoin, Ethereum Trading for Some Wealthy Clients: Bloomberg](https://finance.yahoo.com/news/ubs-planning-bitcoin-ethereum-trading-165246603.html)**
+
+UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Expert Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/expert-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices/)**
+
+Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
+
+Coinpedia Fintech News • 2h ago
+
+---
+
 **[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
-
-The Block • 1d ago
-
----
-
-**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
-
-Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
-
-Finance Magnates • 2d ago
 
 ---
 
@@ -198,25 +200,23 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdZPNZqCZWj3uOEVKtU77cw_HY2w0JGGvjZvf5TpwQILtZMivz9IsBL&gaa_ts=6973b7da&gaa_sig=RcLUFiBCzr7ygDHlCpEbmOGgQSUObYgHT0QzWPv3oFEj2yllnE4aJo3FPs99ZNXH5dDU9bmuTITzTQaRiHeL6g%3D%3D)**
+
+MarketWatch • 3d ago
+
+---
+
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
 The Block • 1d ago
 
 ---
 
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
+BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://finance.yahoo.com/news/blackrock-ethereum-anchoring-wall-streets-225829049.html)**
-
-The Ethereum network underpins 65% of tokenized assets, BlackRock said in its 2026 thematic outlook.
-
-Yahoo Finance • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 1K • 💬 187 • ⏱️ 9:11 • 20h ago
+👁️ 21K • 👍 1K • 💬 187 • ⏱️ 9:11 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 5K • 👍 17 • 💬 4 • ⏱️ 1:36 • 17h ago
+👁️ 5K • 👍 17 • 💬 4 • ⏱️ 1:36 • 18h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 305 • 👍 48 • 💬 2 • ⏱️ 4:35 • 1h ago
+👁️ 305 • 👍 48 • 💬 2 • ⏱️ 4:35 • 2h ago
 
 ---
 
