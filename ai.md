@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T22:19:27.528597+00:00'
+updated: '2026-01-23T22:45:15.430252+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 22:19 UTC  
+**Last Updated:** January 23, 2026 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 8h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 7h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ If you’re trying to get a better understanding of AI (without needing a comput
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-17h ago
+18h ago
 
 ---
 
@@ -119,12 +119,6 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 ## Google News: "ai"
 
-**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
-
-The New York Times • 12h ago
-
----
-
 **[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
@@ -133,25 +127,31 @@ WIRED • 6h ago
 
 ---
 
-**[AI, credit card rates, and housing — what 6 of our portfolio name CEOs said in Davos](https://www.cnbc.com/2026/01/23/ai-credit-card-rates-housing-what-6-of-our-portfolio-name-ceos-said-in-davos.html)**
+**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-A look into key insights from the Club CEOs at this years World Economic Forum.
-
-CNBC • 1h ago
+The New York Times • 12h ago
 
 ---
 
-**[At Davos, fears about AI-driven job loss take center stage](https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html)**
+**[Meta's AI characters for teens taken down for upgrades](https://mashable.com/article/meta-ai-characters-teens)**
 
-Everyone seemed to be talking about AI and its impact on jobs at Davos.
+The chatbots are getting a time out while they learn what they can't talk about.
 
-Yahoo Finance • 9h ago
+Mashable • 1h ago
 
 ---
 
-**[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
+**[Meta halts teens' access to AI characters globally](https://www.reuters.com/business/meta-halts-teens-access-ai-characters-globally-2026-01-23/)**
 
-The World Economic Forum • 6h ago
+Reuters • 1h ago
+
+---
+
+**[Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/)**
+
+Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.
+
+TechCrunch • 5h ago
 
 ---
 
@@ -159,7 +159,13 @@ The World Economic Forum • 6h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 2h ago
+The Guardian • 3h ago
+
+---
+
+**['Jobs, jobs, jobs' the AI mantra as fears take back seat in Davos](https://www.reuters.com/business/davos/jobs-jobs-jobs-ai-mantra-fears-take-back-seat-davos-2026-01-23/)**
+
+Reuters • 7h ago
 
 ---
 
@@ -167,27 +173,23 @@ The Guardian • 2h ago
 
 The World Economic Forum's Saadia Zahidi writes about the complex ways AI is transforming the global labor market.
 
-Time Magazine • 46m ago
+Time Magazine • 1h ago
 
 ---
 
-**[‘Wake up, AI is for real.’ IMF chief warns of an AI ‘tsunami’ coming for young people and entry-level jobs](https://www.msn.com/en-us/money/markets/wake-up-ai-is-for-real-imf-chief-warns-of-an-ai-tsunami-coming-for-young-people-and-entry-level-jobs/ar-AA1UQ0xe)**
+**[‘Galactic brain’: CEO outlines when solar powered AI satellites could be ready for space](https://www.foxbusiness.com/video/6388184067112)**
 
-MSN • 2h ago
+Aetherflux founder and CEO Baiju Bhatt discusses the timeline for bringing solar powered artificial intelligence satellites to space on ‘The Claman Countdown.’
 
----
-
-**[Is Sienna Rose AI-generated? New music artist divides listeners](https://www.nbcnews.com/now/video/is-sienna-rose-ai-generated-new-music-artist-divides-listeners-256478789639)**
-
-During Israel's war with Hamas in Gaza, NBC News' investigation into the Israeli Defense Forces showed at least 175 incidents of wrongdoing by the IDF. Correspondent Daniele Hamamdjian explains how the IDF responded and what became of the inquiries into the alleged abuses.
-
-NBC News • 1h ago
+Fox Business • 1h ago
 
 ---
 
-**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+**[Like digging ‘your own professional grave’: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)**
 
-Axios • 19h ago
+While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
+
+CNN • 11h ago
 
 ---
 
@@ -199,7 +201,7 @@ Axios • 19h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 682 • 💬 485 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 683 • 💬 486 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -207,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 456 • 💬 242 • 12h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 456 • 💬 244 • 12h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -215,7 +217,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 440 • 💬 285 • 15h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 451 • 💬 303 • 15h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -243,19 +245,11 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 ---
 
-**[Which AI Lies Best? A game theory classic designed by John Nash](https://news.ycombinator.com/item?id=46698370)**
-
-162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
-
-⬆️ 192 • 💬 79 • 3d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
-
----
-
 **[Auto-compact not triggering on Claude.ai despite being marked as fixed](https://news.ycombinator.com/item?id=46736091)**
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 170 • 💬 131 • 3h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 173 • 💬 139 • 4h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -263,7 +257,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 146 • 💬 198 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 148 • 💬 201 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -272,6 +266,14 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 The famed convention's organizers have banned AI from the art show.
 
 ⬆️ 126 • 💬 163 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+
+---
+
+**[White House defends sharing AI image showing arrested woman crying](https://news.ycombinator.com/item?id=46731865)**
+
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+
+⬆️ 116 • 💬 79 • 9h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -305,7 +307,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 64K • 👍 731 • 💬 425 • ⏱️ 6:52 • 1d ago
+👁️ 64K • 👍 731 • 💬 425 • ⏱️ 6:52 • 2d ago
 
 ---
 
@@ -473,7 +475,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 215 • 16h ago
+⬇️ 4,244 • ❤️ 215 • 17h ago
 
 ---
 
@@ -497,7 +499,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 281 • 19h ago
+⬇️ 35,694 • ❤️ 281 • 20h ago
 
 ---
 
@@ -658,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -678,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 857 • 19h ago
+⭐ 7.2k • 🔱 857 • 20h ago
 
 ---
 
@@ -688,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 987 • 4h ago
+⭐ 5.7k • 🔱 987 • 5h ago
 
 ---
 
@@ -736,7 +738,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 164 • 13h ago
+⭐ 2.0k • 🔱 164 • 14h ago
 
 ---
 

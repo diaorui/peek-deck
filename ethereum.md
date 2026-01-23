@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T22:19:27.543567+00:00'
+updated: '2026-01-23T22:45:15.444811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 22:19 UTC  
+**Last Updated:** January 23, 2026 at 22:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,958.79
+### $2,959.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -11.1%  
-**30d:** +1.3%  
-**90d:** -29.3%  
-**1y:** -11.2%  
+**24h:** +0.2%  
+**7d:** -10.7%  
+**30d:** +1.8%  
+**90d:** -29.0%  
+**1y:** -10.7%  
 
 ---
 
@@ -76,11 +76,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #8 | NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized](https://www.reddit.com/r/ethereum/comments/1qkoxmy/ethereal_news_weekly_8_nyse_tokenized_securities/)**
+**[Cypherpunk and institutions](https://www.reddit.com/r/ethereum/comments/1ql4owb/cypherpunk_and_institutions/)**
 
-NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
+The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 10h ago
+32m ago
 
 ---
 
@@ -89,6 +89,14 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
 6h ago
+
+---
+
+**[Ethereal news weekly #8 | NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized](https://www.reddit.com/r/ethereum/comments/1qkoxmy/ethereal_news_weekly_8_nyse_tokenized_securities/)**
+
+NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 10h ago
 
 ---
 
@@ -135,14 +143,6 @@ Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a g
 **[Daily General Discussion January 21, 2026](https://www.reddit.com/r/ethereum/comments/1qipy1b/daily_general_discussion_january_21_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[Back to decentralized social in 2026](https://www.reddit.com/r/ethereum/comments/1qis2l9/back_to_decentralized_social_in_2026/)**
-
-In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
 2d ago
 
@@ -206,7 +206,7 @@ CoinDesk • 1d ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 11h ago
+CCN.com • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 900 • 👍 69 • 💬 2 • ⏱️ 4:35 • 6h ago
+👁️ 900 • 👍 69 • 💬 2 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 76 • 👍 2 • 💬 1 • ⏱️ 6:07 • 2h ago
+👁️ 76 • 👍 2 • 💬 1 • ⏱️ 6:07 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 22h ago
+👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 23h ago
 
 ---
 

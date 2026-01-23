@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T22:19:27.537313+00:00'
+updated: '2026-01-23T22:45:15.438688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 22:19 UTC  
+**Last Updated:** January 23, 2026 at 22:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,510.17
+### $89,629.33
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** -6.0%  
-**30d:** +2.3%  
-**90d:** -22.0%  
-**1y:** -14.7%  
+**7d:** -5.8%  
+**30d:** +2.5%  
+**90d:** -21.8%  
+**1y:** -14.5%  
 
 ---
 
@@ -83,14 +83,6 @@ Rank #1
 
 ---
 
-**[This will be my last post](https://www.reddit.com/r/Bitcoin/comments/1ql2w0u/this_will_be_my_last_post/)**
-
-only the people from yesterday will understand these photos and the back story. obviously I dont feel comfortable with any of this. But i carry and im always ready. i've been advised to not post anything else, but i've been a part of the reddit community for a long time, and I know when a reach around is owed.. thank you to everyone who helped and pointed me in the right directions.. I love you all. So here it is and also goodbye...... when I reach out again. You will know
-
-1h ago
-
----
-
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
 1h ago
@@ -107,7 +99,7 @@ only the people from yesterday will understand these photos and the back story. 
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +113,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -131,17 +123,25 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 ---
 
-**[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
-
-3h ago
-
----
-
 **[I have 800 euros that I won't need. Should I put it in BTC?](https://www.reddit.com/r/Bitcoin/comments/1qkr97u/i_have_800_euros_that_i_wont_need_should_i_put_it/)**
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
 8h ago
+
+---
+
+**[How much is 0.00018 BTC worth in your country?](https://www.reddit.com/r/Bitcoin/comments/1qku07s/how_much_is_000018_btc_worth_in_your_country/)**
+
+In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
+
+7h ago
+
+---
+
+**["Bitcoin is gold with wings"](https://www.reddit.com/r/Bitcoin/comments/1qkz3up/bitcoin_is_gold_with_wings/)**
+
+4h ago
 
 ---
 
@@ -157,33 +157,23 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
+**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
-
-CoinDesk • 1d ago
+The Block • 2h ago
 
 ---
 
-**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
+**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
 
-Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
+Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeZ9ouTjqZQS8U8pky_edQPJ5devXHaOwITgyPgO9wKD_FiZlfsQkP9&gaa_ts=6973eeff&gaa_sig=dnAp5c_07Say4eUCJt4Jc0TqWWegB6ixbhNvfYVrfuGlSLr2bv3MLDkQs0oefME1DoZ-muHSs6caEWGdCUoPwA%3D%3D)**
-
-MarketWatch • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Oklahoma Considers Bitcoin Pay Option For State Employees](https://bitcoinmagazine.com/news/oklahoma-bill-allow-state-bitcoin-pay)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqf1UUfW-h9h9FMZUd6vc_dfIgmXx4N03iEbJiyAijKH9TA1wnUVY4cR&gaa_ts=6973fd61&gaa_sig=txN6dKt9kPFcmX-jbMVcIsgM_nt1F91yVWjzr_E4yFUkp-fBQBA0Z5rPaQpv9KAjQKjoT9F9kSDuVKmuCbZPng%3D%3D)**
 
-Oklahoma proposed a bill letting employees, vendors, and residents voluntarily receive bitcoin payments within existing legal frameworks.
-
-Bitcoin Magazine • 2h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -195,29 +185,39 @@ CNBC • 2d ago
 
 ---
 
+**[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
+
+Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Why The Famous Bitcoin 4-Year Cycle Is Officially Dead—And What Comes Next Could Shock You](https://bitcoinmagazine.com/business/epoch-ventures-predicts-bitcoin-hits-150k-in-2026-declares-end-of-4-year-halving-cycle)**
+
+Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
+
+Bitcoin Magazine • 9h ago
+
+---
+
+**[CHART OF THE DAY: Bitcoin Is Not "Digital Gold"](https://app.hedgeye.com/insights/177014-chart-of-the-day-bitcoin-is-not-digital-gold?type=macro%2Cmarket-insights)**
+
+Hedgeye • 10h ago
+
+---
+
 **[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
+**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
 
-The Block • 1d ago
+Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 1d ago
-
----
-
-**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqdHUavhyuty8MDJxe1K6CE0BTx2sWUGQVhV_NY6ca8wiPwWTEB5RFny&gaa_ts=6973eeff&gaa_sig=Ui3oZ3bwCIApuiutVF-KP4VXVMQh6wrCW6xXYv3NiXkNkAhAx07-ZZbVmu2EFaKlA3yOvTFl4eULqJ7l-hk3-g%3D%3D)**
-
-Barron's • 1d ago
+Forbes • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Enterprise blockchain infrastructure. Institutional-grade solutions for governments, defense, and global finance.
 
-⬆️ 1 • 💬 2 • 5d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
+⬆️ 1 • 💬 2 • 6d ago • [Distributed Ledger Technologies](https://www.distributedledgertechnologies.com/)
 
 ---
 
@@ -322,7 +322,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 6h ago
+👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 7h ago
 
 ---
 
