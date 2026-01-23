@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T18:36:10.438137+00:00'
+updated: '2026-01-23T19:25:53.886272+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 18:36 UTC  
+**Last Updated:** January 23, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,922.34
+### $90,066.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -4.4%  
-**30d:** +4.0%  
-**90d:** -20.7%  
-**1y:** -13.2%  
+**24h:** +0.8%  
+**7d:** -5.2%  
+**30d:** +3.1%  
+**90d:** -21.4%  
+**1y:** -14.0%  
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-6h ago
-
----
-
-**[Discipline is a lonely road...](https://www.reddit.com/r/Bitcoin/comments/1qksbbz/discipline_is_a_lonely_road/)**
-
-Everyone wants the green peaks, but few can stomach the long walk across the ice. While the colony is busy debating the next 1% move, the disciplined trader is miles away, sticking to the plan. Stop looking for consensus. Start looking for consistency.
-
-4h ago
+7h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +93,15 @@ Everyone wants the green peaks, but few can stomach the long walk across the ice
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-11h ago
+12h ago
+
+---
+
+**[I didn’t get rich from crypto. But it quietly fixed my financial anxiety.](https://www.reddit.com/r/Bitcoin/comments/1qkywwq/i_didnt_get_rich_from_crypto_but_it_quietly_fixed/)**
+
+A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
+
+50m ago
 
 ---
 
@@ -113,7 +113,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,15 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-4h ago
+5h ago
+
+---
+
+**[Untealized winnings are going to be taxed in NL](https://www.reddit.com/r/Bitcoin/comments/1qkzk89/untealized_winnings_are_going_to_be_taxed_in_nl/)**
+
+Who's next?
+
+27m ago
 
 ---
 
@@ -133,19 +141,9 @@ In my country it's approx. the same as 1 Big Mac menu. But to my great great gra
 
 ---
 
-**[Why do people focus so much on owning any amount of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1qkrxqd/why_do_people_focus_so_much_on_owning_any_amount/)**
+**[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
 
-I keep seeing the idea that even a very small amount of Bitcoin could matter in the long run. Putting price aside, I’m more interested in why this framing resonates with people. Is it mainly about Bitcoin’s fixed supply, its divisibility, or the idea of self custody and opting out of traditional systems? Curious what aspects of Bitcoin make people think in terms of ownership rather than short-term value.
-
-4h ago
-
----
-
-**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
-
-Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
-
-17h ago
+24m ago
 
 ---
 
@@ -157,7 +155,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 20h ago
+ProPublica • 21h ago
 
 ---
 
@@ -165,7 +163,7 @@ ProPublica • 20h ago
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -173,7 +171,7 @@ CoinDesk • 21h ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -181,15 +179,19 @@ Forbes • 1h ago
 
 UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
+**[CZ says bitcoin will ‘break’ 4-year cycle as global crypto support grows](https://www.coindesk.com/business/2026/01/23/binance-s-changpeng-zhao-says-bitcoin-will-break-the-four-year-cycle-this-year)**
 
-Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
+CoinDesk • 1h ago
 
-CoinDesk • 2h ago
+---
+
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeuxjr_MdrY5zjxSJ0zJL1OHf6oPDK1duCTaGPpmjcqfDe5to4xXh9z&gaa_ts=6973cea7&gaa_sig=e2uyr-X6bGVIFPoGq9GNmwvHuqvecfgx_orD_IV44Yz2eze2-XBwlA5niLDayig6h2hwt5gdM0a4AtLOHSyQbQ%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -209,23 +211,17 @@ wtop.com • 1d ago
 
 ---
 
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+**[Why The Famous Bitcoin 4-Year Cycle Is Officially Dead—And What Comes Next Could Shock You](https://bitcoinmagazine.com/business/epoch-ventures-predicts-bitcoin-hits-150k-in-2026-declares-end-of-4-year-halving-cycle)**
 
-Some fear massive consequences for financial markets.
+Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
 
-The Motley Fool • 8h ago
-
----
-
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqc1JG1jyK4kzWM9msvBa6bfxXa_3_rcqnjxhgPLtjPEr-U35gxF3nUt&gaa_ts=6973b7d6&gaa_sig=_2aUxidQClJAsG50aD0IlpaWnL-vPvnt8UFziRbDuVtQZJ09Qm5dJ5QSSpnFUEz-sUE73cAY3uTJX78t0BRcXg%3D%3D)**
-
-MarketWatch • 1d ago
+Bitcoin Magazine • 6h ago
 
 ---
 
-**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -320,7 +316,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 20h ago
+👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 21h ago
 
 ---
 
@@ -330,7 +326,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 4h ago
+👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 5h ago
 
 ---
 
@@ -340,7 +336,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 967 • 💬 107 • ⏱️ 32:17 • 2h ago
+👁️ 13K • 👍 967 • 💬 107 • ⏱️ 32:17 • 3h ago
 
 ---
 
@@ -350,7 +346,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 4h ago
+👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 5h ago
 
 ---
 
@@ -360,7 +356,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 18h ago
+👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 19h ago
 
 ---
 
@@ -380,7 +376,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 249 • 💬 80 • ⏱️ 10:27 • 22h ago
+👁️ 11K • 👍 249 • 💬 80 • ⏱️ 10:27 • 23h ago
 
 ---
 
@@ -390,7 +386,7 @@ Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 7h ago
+👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 8h ago
 
 ---
 

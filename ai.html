@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-23T18:36:09.930945+00:00"
+          "dateModified": "2026-01-23T19:25:53.388754+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -830,6 +830,56 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qkxr3y/amd_ryzen_ai_software_17_released_for_improved/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/LPAA1wiAYFEjMBlMd8tllhkF3dIQ4pgTHAt_jL9ki24.jpeg?width=320&crop=smart&auto=webp&s=2e8a834a2d7a0924f58f1758ddca4e2a024dc324" alt="AMD Ryzen AI Software 1.7 released for improved performance on NPUs, new model support" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qkxr3y/amd_ryzen_ai_software_17_released_for_improved/" target="_blank" onclick="event.stopPropagation();">AMD Ryzen AI Software 1.7 released for improved performance on NPUs, new model support</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769190798.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.phoronix.com/apple-touch-icon-57x57.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>phoronix.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -989,39 +1039,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qkg8va/plano_043_filter_chains_via_mcp_and_openrouter/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qkg8va/plano_043_filter_chains_via_mcp_and_openrouter/" target="_blank" onclick="event.stopPropagation();">Plano 0.4.3 ⭐️ Filter Chains via MCP and OpenRouter Integration</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769140132.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1045,7 +1062,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-23T17:48:01.804478+00:00">Updated 2026-01-23T17:48:01.804478+00:00</small>
+        <small data-timestamp="2026-01-23T19:25:23.564341+00:00">Updated 2026-01-23T19:25:23.564341+00:00</small>
     </div>
 </div>
 
@@ -1231,21 +1248,17 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/922dd571d33fd13e48035dfd7b8045f9b8660dec/67_0_5227_4181/master/5227.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c131b62947d3be7fe9ce34268072e70');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos" target="_blank" onclick="event.stopPropagation();">Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF</a>
+                            <a href="https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html" target="_blank" onclick="event.stopPropagation();">It Makes Sense That People See A.I. as God</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1254,9 +1267,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1264,7 +1277,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769178300.0"></span>
+                                    <span data-timestamp="1769162420.0"></span>
                                 </div>
                                 
                             </div>
@@ -1301,7 +1314,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769135274.0"></span>
+                                    <span data-timestamp="1769135411.0"></span>
                                 </div>
                                 
                             </div>
@@ -1309,137 +1322,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/" target="_blank" onclick="event.stopPropagation();">Meta pauses teen access to AI characters as it develops a specially tailored version</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Meta will developed new versions of AI characters that will give age-appropriate responses
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769187600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/696fc49d3550adf6e75407da/191:100/w_1280,c_limit/pol-dhs-fentanyl-452622106.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/" target="_blank" onclick="event.stopPropagation();">CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            US Customs and Border Protection is paying General Dynamics to create prototype “quantum sensors,” to be used with an AI database to detect fentanyl and other narcotics.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769188080.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/economy/nvidia-ceo-says-ai-boom-create-six-figure-construction-jobs', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/jensen-huang-larry-fink-davos.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/economy/nvidia-ceo-says-ai-boom-create-six-figure-construction-jobs" target="_blank" onclick="event.stopPropagation();">Nvidia CEO says AI boom will create 'six-figure' construction jobs</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Jensen Huang calls AI infrastructure development the "largest buildout in human history," creating massive job opportunities and wage growth for skilled trades workers.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769188860.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html" target="_blank" onclick="event.stopPropagation();">It Makes Sense That People See A.I. as God</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation" target="_blank" onclick="event.stopPropagation();">Star AI Researcher’s New Lab in Talks for $4 Billion Valuation</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1451,9 +1341,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1461,7 +1351,163 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769162420.0"></span>
+                                    <span data-timestamp="1769192949.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?gaa_at=eafs&gaa_n=AWEtsqdiW0WbkOOpRMeek5ama4ljWUs2zv3mSfE8wHuz1HjIV1XE-w4UymnW&gaa_ts=6973cea5&gaa_sig=h4oc1dObLRgf1Wasx5LDmVgpEmclBiT0HFkC96Bpo0qHLSfFn2-26HaFDzxiDxjY-tXrzQ19S2lRDJ0G_OSddQ%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?gaa_at=eafs&gaa_n=AWEtsqdiW0WbkOOpRMeek5ama4ljWUs2zv3mSfE8wHuz1HjIV1XE-w4UymnW&gaa_ts=6973cea5&gaa_sig=h4oc1dObLRgf1Wasx5LDmVgpEmclBiT0HFkC96Bpo0qHLSfFn2-26HaFDzxiDxjY-tXrzQ19S2lRDJ0G_OSddQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand - WSJ</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769195700.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/video/intel-realized-overwhelming-ai-date-183000576.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/r5H94GgKLjSb7aSEVHzSEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/a9632230-f86f-11f0-afdf-0c1ec38eb32f');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/video/intel-realized-overwhelming-ai-date-183000576.html" target="_blank" onclick="event.stopPropagation();">Intel realized overwhelming AI date center demands 'too late'</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Intel stock (INTC) continues to plunge in Friday's trading session after the chipmaker reported disappointing first quarter guidance, revealing a struggle to meet AI data center demands. While the semiconductor manufacturer topped fourth quarter earnings and revenue estimates, was there anything new unveiled in this report? Benchmark Company managing director and senior semiconductor research analyst Cody Acree and Wedbush Securities managing director of equity research Matt Bryson comment on Intel's latest earnings and guidance figures and what they mean for the AI chip stock going forward in 2026. Also catch Cody Acree and Matt Bryson discuss the ripple effects that Intel's guidance may have on memory chipmakers and prices. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769193000.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/" target="_blank" onclick="event.stopPropagation();">Intel struggles to meet AI data center demand, shares drop 13%</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769124979.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/23/two-ai-adjacent-stocks-investor-kevin-simpson-snapped-up-amid-the-volatility.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108256494-1769192967224-gettyimages-2215730727-TFSPI_21052025-7648.jpeg?v=1769193009&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/01/23/two-ai-adjacent-stocks-investor-kevin-simpson-snapped-up-amid-the-volatility.html" target="_blank" onclick="event.stopPropagation();">Two stocks investor Kevin Simpson snapped up amid the volatility that stand to benefit from the AI buildout</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The companies are among the opportunities he sees outside of the "Magnificent Seven" for his firm's growth strategy.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769193785.0"></span>
                                 </div>
                                 
                             </div>
@@ -1510,20 +1556,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/MSt46xxZq10bxc5LmCUgmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f6fbece0-f7d7-11f0-bf7f-50647a3172bd');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/6971357462fa2c2cfc6a6d92/191:100/w_1280,c_limit/Agentic-AI-Poised-to-Undermine-Democracy-Business-144226516.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html" target="_blank" onclick="event.stopPropagation();">At Davos, fears about AI-driven job loss take center stage</a>
+                            <a href="https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/" target="_blank" onclick="event.stopPropagation();">AI-Powered Disinformation Swarms Are Coming for Democracy</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Everyone seemed to be talking about AI and its impact on jobs at Davos.
+                            Advances in artificial intelligence are creating a perfect storm for those seeking to spread disinformation at unprecedented speed and scale. And it’s virtually impossible to detect.
                         </div>
                         
 
@@ -1533,9 +1579,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
                                     
                                 </div>
                                 
@@ -1543,7 +1589,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769172486.0"></span>
+                                    <span data-timestamp="1769108400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1551,20 +1597,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2248879378.jpg?resize=1200,600');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/107178ded18463015d20aa92a1ff25a038c7ea31/0_0_4994_3996/master/4994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd08c5027a73a8a76ad369f6870be69d');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/" target="_blank" onclick="event.stopPropagation();">Deloitte to scrap traditional job titles as AI ushers in a ‘modernization’ of the Big Four</a>
+                            <a href="https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media" target="_blank" onclick="event.stopPropagation();">Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The changes at the Big Four consulting firm will apply to all of the company’s U.S. divisions.
+                            Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
                         </div>
                         
 
@@ -1574,9 +1620,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1584,48 +1630,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769107560.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108255056-1769013549916-gettyimages-1521580109-dsc00409.jpeg?v=1769017056&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html" target="_blank" onclick="event.stopPropagation();">Advisors to the ultra rich say AI isn't a gamechanger for landing new clients</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769171401.0"></span>
+                                    <span data-timestamp="1769108400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1653,7 +1658,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-23T17:48:19.466460+00:00">Updated 2026-01-23T17:48:19.466460+00:00</small>
+        <small data-timestamp="2026-01-23T19:25:52.592318+00:00">Updated 2026-01-23T19:25:52.592318+00:00</small>
     </div>
 </div>
 
@@ -1878,10 +1883,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 679</span>
+                                    <span class="post-points">▲ 680</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 482</span>
+                                    <span style="color: #9ca3af;">💬 485</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1927,10 +1932,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 415</span>
+                                    <span class="post-points">▲ 446</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 202</span>
+                                    <span style="color: #9ca3af;">💬 225</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1976,10 +1981,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 378</span>
+                                    <span class="post-points">▲ 411</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 236</span>
+                                    <span style="color: #9ca3af;">💬 258</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2025,10 +2030,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 321</span>
+                                    <span class="post-points">▲ 322</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 344</span>
+                                    <span style="color: #9ca3af;">💬 346</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2221,10 +2226,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 142</span>
+                                    <span class="post-points">▲ 145</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 196</span>
+                                    <span style="color: #9ca3af;">💬 197</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2298,43 +2303,47 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46695415', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46731865', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abe0/live/36d94a80-f844-11f0-b385-5f48925de19a.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46695415" target="_blank" onclick="event.stopPropagation();">Electricity use of AI coding agents</a>
+                            <a href="https://news.ycombinator.com/item?id=46731865" target="_blank" onclick="event.stopPropagation();">White House defends sharing AI image showing arrested woman crying</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+                        </div>
                         
 
                         <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 116</span>
+                                    <span class="post-points">▲ 110</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 65</span>
+                                    <span style="color: #9ca3af;">💬 76</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-20T18:02:02Z"></span>
+                                    <span class="post-age" data-timestamp="2026-01-23T12:50:03Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.simonpcouch.com/blog/2026-01-20-cc-impact/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.bbc.co.uk/news/live/ce9yydgmzdvt" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.simonpcouch.com/assets/cabin.png" alt="" class="post-favicon">
+                                            <img src="https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>simonpcouch.com</span>
+                                        <span>BBC News</span>
                                     </a>
                                 </div>
                                 
@@ -2363,7 +2372,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-23T17:48:01.679615+00:00">Updated 2026-01-23T17:48:01.679615+00:00</small>
+        <small data-timestamp="2026-01-23T19:25:23.516825+00:00">Updated 2026-01-23T19:25:23.516825+00:00</small>
     </div>
 </div>
 

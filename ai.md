@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T18:36:10.429570+00:00'
+updated: '2026-01-23T19:25:53.877963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 18:36 UTC  
+**Last Updated:** January 23, 2026 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 20h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 5h ago
 
 ---
 
@@ -73,7 +73,15 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 4h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 5h ago
+
+---
+
+**[AMD Ryzen AI Software 1.7 released for improved performance on NPUs, new model support](https://www.reddit.com/r/artificial/comments/1qkxr3y/amd_ryzen_ai_software_17_released_for_improved/)**
+
+AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 1h ago
 
 ---
 
@@ -81,7 +89,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 19h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 20h ago
 
 ---
 
@@ -89,7 +97,7 @@ You can read more about how this was made here.
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-5h ago
+6h ago
 
 ---
 
@@ -107,23 +115,13 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 ---
 
-**[Plano 0.4.3 ⭐️ Filter Chains via MCP and OpenRouter Integration](https://www.reddit.com/r/artificial/comments/1qkg8va/plano_043_filter_chains_via_mcp_and_openrouter/)**
-
-Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
-
-14h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
+**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
-
-The Guardian • 4h ago
+The New York Times • 9h ago
 
 ---
 
@@ -133,33 +131,37 @@ Axios • 16h ago
 
 ---
 
-**[Meta pauses teen access to AI characters as it develops a specially tailored version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/)**
+**[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Meta will developed new versions of AI characters that will give age-appropriate responses
-
-TechCrunch • 1h ago
+Bloomberg.com • 56m ago
 
 ---
 
-**[CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars](https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/)**
+**[Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand - WSJ](https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?gaa_at=eafs&gaa_n=AWEtsqdiW0WbkOOpRMeek5ama4ljWUs2zv3mSfE8wHuz1HjIV1XE-w4UymnW&gaa_ts=6973cea5&gaa_sig=h4oc1dObLRgf1Wasx5LDmVgpEmclBiT0HFkC96Bpo0qHLSfFn2-26HaFDzxiDxjY-tXrzQ19S2lRDJ0G_OSddQ%3D%3D)**
 
-US Customs and Border Protection is paying General Dynamics to create prototype “quantum sensors,” to be used with an AI database to detect fentanyl and other narcotics.
-
-WIRED • 1h ago
+The Wall Street Journal • 10m ago
 
 ---
 
-**[Nvidia CEO says AI boom will create 'six-figure' construction jobs](https://www.foxbusiness.com/economy/nvidia-ceo-says-ai-boom-create-six-figure-construction-jobs)**
+**[Intel realized overwhelming AI date center demands 'too late'](https://finance.yahoo.com/video/intel-realized-overwhelming-ai-date-183000576.html)**
 
-Jensen Huang calls AI infrastructure development the "largest buildout in human history," creating massive job opportunities and wage growth for skilled trades workers.
+Intel stock (INTC) continues to plunge in Friday's trading session after the chipmaker reported disappointing first quarter guidance, revealing a struggle to meet AI data center demands. While the semiconductor manufacturer topped fourth quarter earnings and revenue estimates, was there anything new unveiled in this report? Benchmark Company managing director and senior semiconductor research analyst Cody Acree and Wedbush Securities managing director of equity research Matt Bryson comment on Intel's latest earnings and guidance figures and what they mean for the AI chip stock going forward in 2026. Also catch Cody Acree and Matt Bryson discuss the ripple effects that Intel's guidance may have on memory chipmakers and prices. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Fox Business • 1h ago
+Yahoo Finance • 55m ago
 
 ---
 
-**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
+**[Intel struggles to meet AI data center demand, shares drop 13%](https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/)**
 
-The New York Times • 8h ago
+Reuters • 19h ago
+
+---
+
+**[Two stocks investor Kevin Simpson snapped up amid the volatility that stand to benefit from the AI buildout](https://www.cnbc.com/2026/01/23/two-ai-adjacent-stocks-investor-kevin-simpson-snapped-up-amid-the-volatility.html)**
+
+The companies are among the opportunities he sees outside of the "Magnificent Seven" for his firm's growth strategy.
+
+CNBC • 42m ago
 
 ---
 
@@ -167,31 +169,23 @@ The New York Times • 8h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
-**[At Davos, fears about AI-driven job loss take center stage](https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html)**
+**[AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/)**
 
-Everyone seemed to be talking about AI and its impact on jobs at Davos.
+Advances in artificial intelligence are creating a perfect storm for those seeking to spread disinformation at unprecedented speed and scale. And it’s virtually impossible to detect.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Deloitte to scrap traditional job titles as AI ushers in a ‘modernization’ of the Big Four](https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/)**
-
-The changes at the Big Four consulting firm will apply to all of the company’s U.S. divisions.
-
-Fortune • 23h ago
+WIRED • 1d ago
 
 ---
 
-**[Advisors to the ultra rich say AI isn't a gamechanger for landing new clients](https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html)**
+**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
 
-Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.
+Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-CNBC • 6h ago
+The Guardian • 1d ago
 
 ---
 
@@ -203,7 +197,7 @@ CNBC • 6h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 679 • 💬 482 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 680 • 💬 485 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -211,7 +205,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 415 • 💬 202 • 8h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 446 • 💬 225 • 9h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -219,7 +213,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 378 • 💬 236 • 11h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 411 • 💬 258 • 12h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -227,7 +221,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 321 • 💬 344 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 322 • 💬 346 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -259,7 +253,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 142 • 💬 196 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 145 • 💬 197 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -271,9 +265,11 @@ The famed convention's organizers have banned AI from the art show.
 
 ---
 
-**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
+**[White House defends sharing AI image showing arrested woman crying](https://news.ycombinator.com/item?id=46731865)**
 
-⬆️ 116 • 💬 65 • 3d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+
+⬆️ 110 • 💬 76 • 6h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -297,7 +293,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 19h ago
+👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 20h ago
 
 ---
 
@@ -347,7 +343,7 @@ YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTu
 
 📺 Deep Humor
 
-👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 21h ago
+👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 22h ago
 
 ---
 
@@ -405,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 669 • 17h ago
+⬇️ 17,010 • ❤️ 669 • 18h ago
 
 ---
 
@@ -441,7 +437,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 271 • 18h ago
+⬇️ 145,992 • ❤️ 271 • 19h ago
 
 ---
 
@@ -499,7 +495,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 202 • 13h ago
+⬇️ 4,244 • ❤️ 202 • 14h ago
 
 ---
 
@@ -650,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 526 • 5m ago
+⭐ 9.9k • 🔱 526 • 54m ago
 
 ---
 
@@ -660,7 +656,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -690,7 +686,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 987 • 1h ago
+⭐ 5.7k • 🔱 987 • 2h ago
 
 ---
 
@@ -700,7 +696,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 7h ago
+⭐ 4.9k • 🔱 5.2k • 8h ago
 
 ---
 
@@ -718,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 211 • 15h ago
+⭐ 2.6k • 🔱 211 • 16h ago
 
 ---
 
@@ -728,7 +724,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 336 • 16h ago
+⭐ 2.4k • 🔱 336 • 17h ago
 
 ---
 
@@ -738,7 +734,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 164 • 9h ago
+⭐ 2.0k • 🔱 164 • 10h ago
 
 ---
 
