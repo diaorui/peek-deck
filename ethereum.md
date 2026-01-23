@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T03:43:53.168023+00:00'
+updated: '2026-01-23T04:43:53.074025+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 03:43 UTC  
+**Last Updated:** January 23, 2026 at 04:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.26B
+**Market Cap:** $358.72B
 Rank #2
 
 **Circulating Supply:** 120,694,469 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-39.9%
 
 **All-Time Low:** $0.43
-+683596.0%
++686940.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -174,13 +174,13 @@ Finance Magnates • 1d ago
 
 **[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
 
-99Bitcoins • 17h ago
+99Bitcoins • 18h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 10h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinDesk • 9h ago
 
 A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
 
-PYMNTS.com • 1h ago
+PYMNTS.com • 2h ago
 
 ---
 
@@ -232,7 +232,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 16K • 👍 961 • 💬 117 • ⏱️ 19:54 • 9h ago
+👁️ 20K • 👍 1K • 💬 136 • ⏱️ 19:54 • 10h ago
 
 ---
 
@@ -242,37 +242,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 695 • 💬 126 • ⏱️ 17:24 • 12h ago
-
----
-
-**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
-
-After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
-
-📺 Paul Barron Network
-
-👁️ 11K • 👍 879 • 💬 117 • ⏱️ 9:11 • 7h ago
-
----
-
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
-
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 358 • 💬 95 • ⏱️ 8:24 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=T51Ygy6WuUg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 193 • 👍 25 • 💬 1 • ⏱️ 7:21 • 2h ago
+👁️ 19K • 👍 771 • 💬 213 • ⏱️ 17:24 • 13h ago
 
 ---
 
@@ -282,7 +252,27 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 47 • 💬 8 • ⏱️ 18:28 • 11h ago
+👁️ 1K • 👍 50 • 💬 28 • ⏱️ 18:28 • 12h ago
+
+---
+
+**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+
+Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 370 • 💬 95 • ⏱️ 8:24 • 1d ago
+
+---
+
+**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
+
+After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
+
+📺 Paul Barron Network
+
+👁️ 16K • 👍 1K • 💬 146 • ⏱️ 9:11 • 8h ago
 
 ---
 
@@ -292,17 +282,27 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 26K • 👍 2K • 💬 130 • ⏱️ 9:51 • 9h ago
+👁️ 31K • 👍 2K • 💬 189 • ⏱️ 9:51 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=T51Ygy6WuUg)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 5 • ⏱️ 7:34 • 13h ago
+👁️ 518 • 👍 51 • 💬 1 • ⏱️ 7:21 • 3h ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=sSLhQRkSwd8)**
+
+Join The 100x Club ▻ https://whop.com/millionaire-formula/100x-formula Welcome to Millionaire Formula — The Future of ...
+
+📺 Millionaire Formula
+
+👁️ 2K • 👍 137 • 💬 1 • ⏱️ 19:04 • 1d ago
 
 ---
 
@@ -312,17 +312,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 285 • 👍 14 • 💬 3 • ⏱️ 4:54 • 17h ago
+👁️ 307 • 👍 14 • 💬 3 • ⏱️ 4:54 • 18h ago
 
 ---
 
-**[SUI Network Founder: Why AI Agents Are Choosing SUI Over Ethereum &amp; Solana | E155](https://www.youtube.com/watch?v=sQV78ijFDGQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
 
-Kostas Chalkias, co-founded Sui after leaving Facebook's Libra - and named his son Kryptos. While other blockchains compete ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 When Shift Happens
+📺 More Crypto Online
 
-👁️ 4K • 👍 182 • 💬 47 • ⏱️ 1:00:39 • 13h ago
+👁️ 2K • 👍 143 • 💬 5 • ⏱️ 7:34 • 14h ago
 
 ---
 

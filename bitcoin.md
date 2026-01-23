@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T03:43:53.162058+00:00'
+updated: '2026-01-23T04:43:53.068126+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 03:43 UTC  
+**Last Updated:** January 23, 2026 at 04:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.72B
+**Market Cap:** $1795.68B
 Rank #1
 
-**Circulating Supply:** 19,979,481 BTC
+**Circulating Supply:** 19,979,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.7%
 
 **All-Time Low:** $67.81
-+132174.0%
++132442.4%
 
 ---
 
@@ -79,49 +79,49 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-9h ago
+10h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-13h ago
+14h ago
 
 ---
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-3h ago
+4h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
 
-11h ago
+12h ago
 
 ---
 
 **[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Rank #1
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Can you see this? If geopolitical tension causes faster-than-normal Treasury selling, yields rise, markets wobble, then Bitcoin will benefit as a hedge. If treasuries and the dollar look politically risky, capital looks for neutral assets → Bitcoin is framed as an “escape valve” It won’t happen straight away, but anticipate it over the coming years. https://share.google/0izHzgkXWznwfxKT4
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Can you see this? If geopolitical tension causes faster-than-normal Treasury sel
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 17h ago
+ProPublica • 18h ago
 
 ---
 
@@ -165,13 +165,13 @@ CNBC • 1d ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 18h ago
+wtop.com • 19h ago
 
 ---
 
 **[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
 
-Yahoo Finance UK • 16h ago
+Yahoo Finance UK • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 1d ago
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 1d ago
 
 **[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdKM52Zwca-9W1DftBRYKiVjKZMEAJFsT-EGLqYPd_bIHZJ-soaoPpY&gaa_ts=6972f1e5&gaa_sig=W_nLB24WOu0i7TE1VbvBJiBnfoh5OqXyQImIvXhvETaqXrUrvj0LHw2rToZ-Wwt31NoXF6Q46r9wL5WNhdaK2w%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -213,7 +213,7 @@ MarketWatch • 11h ago
 
 Coinbase said the group will assess how future quantum advances could affect blockchain security and outline long-term solutions.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 13h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 14h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -306,33 +306,23 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
-
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
-
-📺 Yahoo Finance
-
-👁️ 3K • 👍 103 • 💬 60 • ⏱️ 10:27 • 8h ago
-
----
-
 **[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
 
 Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 985 • 💬 134 • ⏱️ 16:21 • 5h ago
+👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 6h ago
 
 ---
 
-**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
+**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
 
-📺 CryptosRUs
+📺 Yahoo Finance
 
-👁️ 26K • 👍 1K • 💬 239 • ⏱️ 36:02 • 12h ago
+👁️ 6K • 👍 141 • 💬 107 • ⏱️ 10:27 • 9h ago
 
 ---
 
@@ -342,7 +332,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 190 • 💬 59 • ⏱️ 14:22 • 14h ago
+👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 15h ago
 
 ---
 
@@ -352,37 +342,57 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 904 • 💬 142 • ⏱️ 23:49 • 3h ago
+👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 4h ago
 
 ---
 
-**[The Fed Pivot, Bitcoin vs Gold &amp; The Return Of QE | Lawrence Lepard](https://www.youtube.com/watch?v=gVnEWAR-06s)**
+**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
 
-Lawrence Lepard is an investment manager and author of The Big Print. In this episode, he explains why the Federal Reserve has ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 What Bitcoin Did
+📺 CryptosRUs
 
-👁️ 14K • 👍 713 • 💬 289 • ⏱️ 1:15:03 • 15h ago
+👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 13h ago
 
 ---
 
-**[⚠️ #1 ISSUE HOLDING UP BITCOIN RIGHT NOW](https://www.youtube.com/watch?v=BjTgmG-3oko)**
+**[Gold &amp; Silver Push To New Highs! Bitcoin Ready To Follow?](https://www.youtube.com/watch?v=ljPVmvp4EUc)**
 
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 7h ago
+
+---
+
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 290 • 💬 11 • ⏱️ 1:06 • 9h ago
+👁️ 21K • 👍 428 • 💬 115 • ⏱️ 1:16 • 2d ago
 
 ---
 
-**[Crypto Is About To RESET Your Bank Account (The $10 Trillion Shift)](https://www.youtube.com/watch?v=IrXLg12dYeU)**
+**[3 Reasons Why I Wouldn’t Buy Bitcoin Yet! [Thank Me Later]](https://www.youtube.com/watch?v=uH_Q2O5TBnI)**
 
-Huel: High-Protein Starter Kit 20% off for new customers at https://huel.com/impact code impact Bevel Health: Visit ...
+BTC has been chopping around with some wild volatility. In today's video, Kyledoops outlines 3 very specific reasons why now is ...
 
-📺 Tom Bilyeu
+📺 Crypto Banter
 
-👁️ 28K • 👍 816 • 💬 246 • ⏱️ 1:58:20 • 13h ago
+👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 20h ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
+
+📺 Crypto Crew University
+
+👁️ 45K • 👍 3K • 💬 243 • ⏱️ 18:43 • 1d ago
 
 ---
 
@@ -393,16 +403,6 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 📺 CryptosRUs
 
 👁️ 45K • 👍 2K • 💬 413 • ⏱️ 41:04 • 1d ago
-
----
-
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
-
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 20K • 👍 421 • 💬 115 • ⏱️ 1:16 • 2d ago
 
 ---
 
