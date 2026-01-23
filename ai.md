@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T05:52:24.469942+00:00'
+updated: '2026-01-23T06:37:19.972336+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 05:52 UTC  
+**Last Updated:** January 23, 2026 at 06:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 6h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-1h ago
+2h ago
 
 ---
 
@@ -75,19 +75,11 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 ---
 
-**[Elon Musk: AI Will Be Smarter Than All Of Humanity In Five Years. Is this visionary or alarmist?](https://www.reddit.com/r/artificial/comments/1qki9g4/elon_musk_ai_will_be_smarter_than_all_of_humanity/)**
-
-At Davos 2026, Elon Musk warned AI could surpass individual human intelligence within a year and exceed all of humanity’s combined intelligence in five years. He cited computing power and data as key drivers but warned energy could limit progress. Is this visionary or alarmist?
-
-🔗 [arise.tv](https://www.arise.tv/elon-musk-ai-will-be-smarter-than-all-of-humanity-in-five-years/) • 26m ago
-
----
-
 **[Bwocks: indie local-first ai-native spreadsheet for creatives](https://www.reddit.com/r/artificial/comments/1qk6g5g/bwocks_indie_localfirst_ainative_spreadsheet_for/)**
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 8h ago
+🔗 [Bwocks](http://Bwocks.com) • 9h ago
 
 ---
 
@@ -95,13 +87,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 6h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 7h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 18h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 19h ago
 
 ---
 
@@ -109,7 +101,15 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 12h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 13h ago
+
+---
+
+**[What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?](https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/)**
+
+As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
+
+1d ago
 
 ---
 
@@ -119,35 +119,43 @@ A new approach to a foundational document that expresses and shapes who Claude i
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
+**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
 
-The New York Times • 2d ago
+Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
----
-
-**[Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation)**
-
-Bloomberg.com • 4h ago
+The Guardian • 9h ago
 
 ---
 
-**[AI-induced cultural stagnation is no longer speculation − it’s already happening](https://theconversation.com/ai-induced-cultural-stagnation-is-no-longer-speculation-its-already-happening-272488)**
+**[Trump and Nvidia have ruffled the feathers of Washington’s China hawks](https://www.cnbc.com/2026/01/22/trump-nvidia-ai-chip-exports-china-congress-bill.html)**
 
-AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
+U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
 
-The Conversation • 16h ago
+CNBC • 21h ago
 
 ---
 
-**[AI isn’t to blame for rising US electricity bills — but it soon will be](https://www.ft.com/content/99866ae7-d1b8-4455-be70-bfd590f52cc8)**
+**[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-Forecast capacity needs are rising, perhaps by a tenth over the next three years
+Bloomberg.com • 8h ago
 
-Financial Times • 51m ago
+---
+
+**[Nvidia’s Huang to visit China as AI chip sales stall](https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html)**
+
+Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar New Year, two people familiar with the matter told CNBC.
+
+CNBC • 38m ago
+
+---
+
+**[Why higher education needs to embrace AI](https://www.fastcompany.com/91479395/why-higher-education-needs-to-embrace-ai)**
+
+Fast Company • 23m ago
 
 ---
 
@@ -155,35 +163,27 @@ Financial Times • 51m ago
 
 Adobe launched Firefly Foundry, partnering with talent agencies, directors, art colleges and production studios to make bespoke AI tools for video creation.
 
-Forbes • 30m ago
-
----
-
-**[AI Offers New Future for Research](https://www.yahoo.com/news/videos/ai-offers-future-research-050011460.html)**
-
-Digital Science says artificial intelligence (AI) is transforming research and innovation, creating new possibilities for societal benefit and smart economies.
-
-Yahoo • 52m ago
+Forbes • 1h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 15h ago
+The Economist • 16h ago
 
 ---
 
-**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+**[AI-induced cultural stagnation is no longer speculation − it’s already happening](https://theconversation.com/ai-induced-cultural-stagnation-is-no-longer-speculation-its-already-happening-272488)**
 
-Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
 
-blog.google • 13h ago
+The Conversation • 17h ago
 
 ---
 
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-The New York Times • 7d ago
+The Information • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 7d ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 650 • 💬 461 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 656 • 💬 461 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -203,7 +203,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 310 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 312 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -227,7 +227,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 162 games analyzed: AI deception is strategic, not intrinsic. Watch Gemini 3 create fake 'alliance banks' to betray GPT and Kimi, but cooperate perfectly with copies of itself.
 
-⬆️ 190 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
+⬆️ 191 • 💬 79 • 2d ago • [So Long Sucker](https://so-long-sucker.vercel.app/)
 
 ---
 
@@ -247,17 +247,17 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 ---
 
-**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
-
-⬆️ 115 • 💬 65 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
-
----
-
 **[Satya Nadella: "We need to find something useful for AI"](https://news.ycombinator.com/item?id=46718485)**
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 112 • 💬 146 • 17h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 115 • 💬 148 • 17h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+
+---
+
+**[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
+
+⬆️ 115 • 💬 65 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -279,7 +279,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 12K • 👍 437 • 💬 39 • ⏱️ 12:48 • 6h ago
+👁️ 12K • 👍 437 • 💬 39 • ⏱️ 12:48 • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 20K • 👍 1K • 💬 187 • ⏱️ 22:07 • 14h ago
+👁️ 20K • 👍 1K • 💬 187 • ⏱️ 22:07 • 15h ago
 
 ---
 
@@ -359,7 +359,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 8K • 👍 136 • 💬 110 • ⏱️ 13:05 • 13h ago
+👁️ 8K • 👍 136 • 💬 110 • ⏱️ 13:05 • 14h ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 9,062 • ❤️ 537 • 4h ago
+⬇️ 9,062 • ❤️ 537 • 5h ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 245 • 5h ago
+⬇️ 111,506 • ❤️ 245 • 6h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.9k • 🔱 832 • 3h ago
+⭐ 6.9k • 🔱 832 • 4h ago
 
 ---
 
@@ -692,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.7k • 🔱 4.9k • 16h ago
+⭐ 4.7k • 🔱 4.9k • 17h ago
 
 ---
 
@@ -720,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 334 • 3h ago
+⭐ 2.3k • 🔱 334 • 4h ago
 
 ---
 
@@ -730,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 162 • 7h ago
+⭐ 2.0k • 🔱 162 • 8h ago
 
 ---
 

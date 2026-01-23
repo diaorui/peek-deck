@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T05:52:24.478430+00:00'
+updated: '2026-01-23T06:37:19.980923+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 05:52 UTC  
+**Last Updated:** January 23, 2026 at 06:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,000.00
+### $89,928.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -0.5%  
 **7d:** -5.8%  
 **30d:** +2.4%  
 **90d:** -21.9%  
@@ -77,39 +77,47 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
+
+6h ago
+
+---
+
+**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
+
+2h ago
+
+---
+
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+
+16h ago
+
+---
+
+**[So the gaming community sent me here..](https://www.reddit.com/r/Bitcoin/comments/1qkiypw/so_the_gaming_community_sent_me_here/)**
+
+So I bought this video game at an estate sale and was trying to piece it back together. inside they're saying it's a wallet. just trying to get some clarity on what I should do with this thing next. i want to just put it on ebay and see what it goes for because I know nothing about digital wallets. how i found it just like that in the baggie at the estate sale
+
+34m ago
+
+---
+
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
 12h ago
 
 ---
 
-**[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
-
-5h ago
-
----
-
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
-
-15h ago
-
----
-
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-15h ago
-
----
-
-**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
-
-1h ago
+16h ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -117,13 +125,13 @@ Rank #1
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-2h ago
+3h ago
 
 ---
 
 **[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,13 +139,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-4h ago
-
----
-
-**[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
-
-6h ago
+5h ago
 
 ---
 
@@ -145,11 +147,11 @@ Old news for many, but I still see people saying they wish they had known about 
 
 ## Google News: "bitcoin"
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 19h ago
+ProPublica • 8h ago
 
 ---
 
@@ -161,11 +163,11 @@ CNBC • 1d ago
 
 ---
 
-**[South Korea probes significant bitcoin loss in a phishing attack](https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack)**
+**[South Korea probes loss of seized bitcoin in phishing attack](https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack)**
 
 Internal audit showed the coins were likely lost via a phishing attack during official storage, according to local media reports.
 
-CoinDesk • 33m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -173,15 +175,15 @@ CoinDesk • 33m ago
 
 Bitcoin’s slide below $90,000 has pushed on-chain realized profit metrics into negative territory, a level last seen before the previous bear market.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Asia Market Open: Bitcoin Dips Below $90K, Wall Street Rebound Lifts Asia Risk Mood](https://finance.yahoo.com/news/asia-market-open-bitcoin-dips-033440704.html)**
+**[$2.3 Billion in Bitcoin and Ethereum Options Set to Expire—Is a Volatility Shock Looming?](https://finance.yahoo.com/news/2-3-billion-bitcoin-ethereum-050924650.html)**
 
-Bitcoin dipped below $90,000 on Friday as Asian stocks posted modest gains after the Bank of Japan held rates steady, with investors weighing softer US tariff talk alongside signs of US economic resilience.MSCI’s broadest index of Asia Pacific shares outside Japan rose 0.4%, while Japan’s Nikkei added 0.3%. Japan’s central ...
+Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -189,7 +191,7 @@ Yahoo Finance • 1h ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 20h ago
+wtop.com • 21h ago
 
 ---
 
@@ -213,9 +215,9 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqfaYYCNXchRfTwbcDNxuDnH_BNo7mOSgxSmM5ARihd6lStQ4HlqNO4Y&gaa_ts=69731a8e&gaa_sig=oFGcEDC9jxqPUeJGv7mVTCq6UNtgZWns-X7Mc7y1XfCi6orO7hGewaM6jf8P38_Gvwu3jKacTB_CGG2lHea9Jg%3D%3D)**
 
-Reuters • 2d ago
+MarketWatch • 13h ago
 
 ---
 
@@ -252,7 +254,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 15h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 16h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -334,7 +336,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 16h ago
+👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 17h ago
 
 ---
 
@@ -344,7 +346,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 5h ago
+👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 6h ago
 
 ---
 
@@ -354,7 +356,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 14h ago
+👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 15h ago
 
 ---
 
@@ -384,7 +386,7 @@ BTC has been chopping around with some wild volatility. In today's video, Kyledo
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 21h ago
+👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 22h ago
 
 ---
 
