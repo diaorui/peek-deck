@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T10:53:28.937299+00:00'
+updated: '2026-01-23T11:22:06.926703+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 10:53 UTC  
+**Last Updated:** January 23, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's the post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-16m ago
+45m ago
 
 ---
 
@@ -57,7 +57,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 11h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its looking crazy but I'm still waiting for new opus.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 13h ago
+🔗 [Bwocks](http://Bwocks.com) • 14h ago
 
 ---
 
@@ -103,13 +103,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 11h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 12h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 23h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 1d ago
 
 ---
 
@@ -119,7 +119,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 17h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
 **[How AI swallowed tech lobbying in 2025](https://www.axios.com/2026/01/23/ai-tech-lobbying-2025)**
 
-Axios • 45m ago
+Axios • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 45m ago
 
 Anthropic's Dario Amodei says it's coming soon. DeepMind's Demis Hassabis and former Meta chief scientist Yann LeCun think it's a more distant prospect
 
-Fortune • 44m ago
+Fortune • 1h ago
 
 ---
 
@@ -149,13 +149,13 @@ Fortune • 44m ago
 
 All three are good bets to top the annual growth of the generative AI market.
 
-The Motley Fool • 38m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 8d ago
 
 Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 The one where I get very annoyed with my email provider
 
-⬆️ 200 • 💬 107 • 3h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 200 • 💬 107 • 4h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -265,7 +265,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 96 • 💬 67 • 20h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 96 • 💬 67 • 21h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -289,7 +289,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 11h ago
+👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 12h ago
 
 ---
 
@@ -299,7 +299,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 18h ago
+👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ CNBC's Deirdre Bosa reports on Zhipu AI.
 
 📺 CNBC Television
 
-👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 16h ago
+👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 583 • 9h ago
+⬇️ 17,010 • ❤️ 583 • 10h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 261 • 10h ago
+⬇️ 145,992 • ❤️ 261 • 11h ago
 
 ---
 
@@ -545,7 +545,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 34 • 💬 4 • ⭐ 1,502 • 7d ago
+▲ 34 • 💬 4 • ⭐ 1,502 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -720,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 333 • 8h ago
+⭐ 2.3k • 🔱 333 • 9h ago
 
 ---
 

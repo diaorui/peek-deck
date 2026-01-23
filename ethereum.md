@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T10:53:28.952115+00:00'
+updated: '2026-01-23T11:22:06.941392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 10:53 UTC  
+**Last Updated:** January 23, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey! I’m a Ledger wallet user looking for advice on swapping XMR to ETH. In the past, I had a swap where my funds got stuck for months on Changelly, which was stressful since I didn’t get any updates and wasn’t sure what was happening. I want to avoid that this time. I still need to swap about 110 XMR to ETH and I’m looking for a platform or method that’s reliable, fast, and secure. Ideally, I’d like to stay away from services where funds could get delayed or support is difficult to reach. Any tips, advice, or personal experiences would be really helpful. I just want to get this swap done safely and avoid unnecessary stress. Thanks in advance!
 
-29m ago
+58m ago
 
 ---
 
@@ -112,7 +112,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-19h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 1d ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 1d ago
 
 A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
 
-PYMNTS.com • 8h ago
+PYMNTS.com • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 3h ago
+👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 19h ago
+👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 16h ago
+👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 18h ago
+👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 9h ago
+👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 16h ago
+👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 17h ago
 
 ---
 

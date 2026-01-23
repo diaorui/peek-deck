@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T10:53:28.945891+00:00'
+updated: '2026-01-23T11:22:06.935280+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 10:53 UTC  
+**Last Updated:** January 23, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -141,7 +141,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 Just curious what would be your next best long term investment
 
-2h ago
+3h ago
 
 ---
 
@@ -175,13 +175,13 @@ The Motley Fool • 1h ago
 
 This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
 
-CoinDesk • 29m ago
+CoinDesk • 58m ago
 
 ---
 
 **[Bitcoin price is falling. Why the ‘digital gold’ is failing to keep up with the precious metal](https://www.msn.com/en-us/money/markets/bitcoin-price-is-falling-why-the-digital-gold-is-failing-to-keep-up-with-the-precious-metal/ar-AA1UNvZG?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 3 • 20h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 3 • 21h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -348,7 +348,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 21h ago
+👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 22h ago
 
 ---
 
@@ -358,7 +358,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 10h ago
+👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 11h ago
 
 ---
 
@@ -388,7 +388,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 19h ago
+👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 20h ago
 
 ---
 
@@ -398,7 +398,7 @@ Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade de
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 19h ago
+👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 20h ago
 
 ---
 
