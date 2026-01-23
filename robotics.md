@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T14:27:18.135632+00:00'
+updated: '2026-01-23T14:53:40.665727+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 14:27 UTC  
+**Last Updated:** January 23, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 Is there anyone on this subreddit who would be interested in being a robotics consultant for a writing project I’m working on? Idk if this is even the right subreddit to ask, but oh well. I’m basically looking for someone who knows a lot about robots and would be willing to answer a lot of stupid questions about them. Particularly Fnaf robots. I’m fully aware they’re not real robots, but I want to get closer to real ones. Also someone who’s a nerd about theoretical sentient ai. Sorry if this is off topic, mods feel free to delete this if I’m violating any rules, I won’t hold a grudge.
 
-4h ago
+5h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 That's a wrap on Davos 2026. Here are the biggest takeaways from our team on the ground.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -210,7 +210,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 32K • 👍 1K • 💬 177 • ⏱️ 0:49 • 12h ago
+👁️ 32K • 👍 1K • 💬 177 • ⏱️ 0:49 • 13h ago
 
 ---
 
@@ -228,7 +228,7 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 Bernie Sanders
 
-👁️ 20K • 👍 2K • 💬 86 • ⏱️ 1:13 • 18h ago
+👁️ 20K • 👍 2K • 💬 86 • ⏱️ 1:13 • 19h ago
 
 ---
 

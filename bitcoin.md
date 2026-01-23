@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T14:27:18.126407+00:00'
+updated: '2026-01-23T14:53:40.657858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 14:27 UTC  
+**Last Updated:** January 23, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,25 +87,25 @@ Rank #1
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-7h ago
+8h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-9h ago
+10h ago
 
 ---
 
 **[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Time for my Chinese brothers and sisters to start buying!](https://www.reddit.com/r/Bitcoin/comments/1qkmpwz/time_for_my_chinese_brothers_and_sisters_to_start/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,13 +125,13 @@ Old news for many, but I still see people saying they wish they had known about 
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-13m ago
+39m ago
 
 ---
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Hi, for some info I have some stocks that're worth like 4k eur. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D
 
-39m ago
+1h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 237 • ⏱️ 16:21 • 16h ago
+👁️ 42K • 👍 2K • 💬 237 • ⏱️ 16:21 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 223 • 💬 72 • ⏱️ 10:27 • 18h ago
+👁️ 10K • 👍 223 • 💬 72 • ⏱️ 10:27 • 19h ago
 
 ---
 
@@ -404,7 +404,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 580 • 💬 164 • ⏱️ 30:34 • 17h ago
+👁️ 11K • 👍 580 • 💬 164 • ⏱️ 30:34 • 18h ago
 
 ---
 
