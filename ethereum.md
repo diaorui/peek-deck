@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T12:50:55.264147+00:00'
+updated: '2026-01-23T13:43:20.807869+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 12:50 UTC  
+**Last Updated:** January 23, 2026 at 13:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 50m ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 1h ago
 
 ---
 
@@ -112,7 +112,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
-Finance Magnates • 1d ago
+Finance Magnates • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ CryptoPotato • 2d ago
 
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -208,13 +208,13 @@ Yahoo Finance • 2h ago
 
 Tom Lee-led Ethereum treasury firm BitMine Technologies (NASDAQ: BMNR) has amped up its ETH ETH $2 933 24h volatility: 1.8% Market cap: $353.74 B Vol. 24h: $22.47 B staking to over $5.71 billion in its latest move. On-chain data shows that the firm has staked an additional 171,264, worth $500 ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 19h ago
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 80 • 💬 9 • ⏱️ 8:10 • 5h ago
+👁️ 1K • 👍 80 • 💬 9 • ⏱️ 8:10 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 870 • 💬 128 • ⏱️ 17:24 • 21h ago
+👁️ 24K • 👍 870 • 💬 128 • ⏱️ 17:24 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 1K • 💬 159 • ⏱️ 19:54 • 18h ago
+👁️ 27K • 👍 1K • 💬 159 • ⏱️ 19:54 • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 79 • 👍 13 • 💬 1 • ⏱️ 5:49 • 2h ago
+👁️ 79 • 👍 13 • 💬 1 • ⏱️ 5:49 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 53 • 💬 8 • ⏱️ 18:28 • 20h ago
+👁️ 1K • 👍 53 • 💬 8 • ⏱️ 18:28 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 1K • 💬 185 • ⏱️ 9:11 • 16h ago
+👁️ 19K • 👍 1K • 💬 185 • ⏱️ 9:11 • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ New year, new money, same incredible levels of accumulation by the richest peopl
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 225 • 💬 139 • ⏱️ 29:19 • 3h ago
+👁️ 1K • 👍 225 • 💬 139 • ⏱️ 29:19 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 AUTISMO CICATRIZES DO AMOR
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 2 • ⏱️ 7:21 • 11h ago
+👁️ 1K • 👍 92 • 💬 2 • ⏱️ 7:21 • 12h ago
 
 ---
 

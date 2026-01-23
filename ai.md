@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T12:50:55.249701+00:00'
+updated: '2026-01-23T13:43:20.793541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 12:50 UTC  
+**Last Updated:** January 23, 2026 at 13:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 13h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 15h ago
+🔗 [Bwocks](http://Bwocks.com) • 16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its looking crazy but I'm still waiting for new opus.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its look
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 13h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 14h ago
 
 ---
 
@@ -119,7 +119,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 19h ago
 
 Taylor said the free market will ultimately determine where the value is and which AI players have the best products.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -135,13 +135,13 @@ CNBC • 22h ago
 
 AI as a shared nervous system for air, ground and digital infrastructure anchors GIBO.ai’s vision for scalable, coordinated mobility intelligence.
 
-Stock Titan • 1h ago
+Stock Titan • 2h ago
 
 ---
 
 **[WTO Chief Sees Potential Upside For 2026 Trade Fueled by AI Boom](https://www.bloomberg.com/news/articles/2026-01-23/wto-chief-sees-potential-upside-for-2026-trade-fueled-by-ai-boom)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg.com • 2h ago
 
 The plans received online criticism for a design that included a bald eagle - a bird not native to Scotland.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ BBC • 2h ago
 
 AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
 
-The Conversation • 23h ago
+The Conversation • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ binghamton.edu • 1d ago
 
 Learn how to run advanced image and video generation locally with ComfyUI and LTX-2 on RTX PCs.
 
-NVIDIA Blog • 22h ago
+NVIDIA Blog • 23h ago
 
 ---
 
@@ -215,7 +215,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 304 • 💬 264 • 1d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 304 • 💬 264 • 2d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -223,7 +223,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 The one where I get very annoyed with my email provider
 
-⬆️ 244 • 💬 138 • 5h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 244 • 💬 138 • 6h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -293,7 +293,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 24K • 👍 671 • 💬 71 • ⏱️ 12:48 • 13h ago
+👁️ 24K • 👍 671 • 💬 71 • ⏱️ 12:48 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ CNBC's Deirdre Bosa reports on Zhipu AI.
 
 📺 CNBC Television
 
-👁️ 18K • 👍 321 • 💬 128 • ⏱️ 3:47 • 18h ago
+👁️ 18K • 👍 321 • 💬 128 • ⏱️ 3:47 • 19h ago
 
 ---
 
@@ -353,7 +353,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 25K • 💬 23 • ⏱️ 10:12 • 1d ago
+👁️ 25K • 💬 23 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ The AI boom is everywhere, but much of it is illusory, with money flowing betwee
 
 📺 Bloomberg Originals
 
-👁️ 9K • 👍 521 • 💬 40 • ⏱️ 10:03 • 3h ago
+👁️ 9K • 👍 521 • 💬 40 • ⏱️ 10:03 • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,025 • 2d ago
+⬇️ 199,346 • ❤️ 1,025 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 594 • 11h ago
+⬇️ 17,010 • ❤️ 594 • 12h ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 263 • 12h ago
+⬇️ 145,992 • ❤️ 263 • 13h ago
 
 ---
 
@@ -575,7 +575,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 141 • 💬 6 • ⭐ 20,965 • 4mo ago
+▲ 141 • 💬 6 • ⭐ 20,965 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -676,7 +676,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 849 • 10h ago
+⭐ 7.1k • 🔱 849 • 11h ago
 
 ---
 
@@ -696,7 +696,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.1k • 1h ago
+⭐ 4.9k • 🔱 5.1k • 2h ago
 
 ---
 
@@ -724,7 +724,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 335 • 10h ago
+⭐ 2.3k • 🔱 335 • 11h ago
 
 ---
 

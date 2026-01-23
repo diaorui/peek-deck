@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T12:50:55.258142+00:00'
+updated: '2026-01-23T13:43:20.801934+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 12:50 UTC  
+**Last Updated:** January 23, 2026 at 13:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -93,19 +93,19 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-8h ago
+9h ago
 
 ---
 
 **[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
 
-3h ago
+4h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-11h ago
+12h ago
 
 ---
 
@@ -133,13 +133,13 @@ Old news for many, but I still see people saying they wish they had known about 
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -157,7 +157,7 @@ ProPublica • 1d ago
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 22h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 1d ago
 
 The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -229,7 +229,7 @@ Fortune • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 3d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 4d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -254,7 +254,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 3 • 22h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 3 • 23h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 204 • 💬 77 • ⏱️ 10:27 • 17h ago
+👁️ 9K • 👍 204 • 💬 77 • ⏱️ 10:27 • 18h ago
 
 ---
 
@@ -336,7 +336,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 4K • 👍 222 • 💬 73 • ⏱️ 14:22 • 23h ago
+👁️ 4K • 👍 222 • 💬 73 • ⏱️ 14:22 • 1d ago
 
 ---
 
@@ -346,7 +346,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 326 • ⏱️ 23:49 • 12h ago
+👁️ 23K • 👍 2K • 💬 326 • ⏱️ 23:49 • 13h ago
 
 ---
 
@@ -366,7 +366,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 257 • ⏱️ 36:02 • 21h ago
+👁️ 30K • 👍 1K • 💬 257 • ⏱️ 36:02 • 22h ago
 
 ---
 
@@ -376,7 +376,7 @@ Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 337 • 💬 3 • ⏱️ 47:33 • 1h ago
+👁️ 3K • 👍 337 • 💬 3 • ⏱️ 47:33 • 2h ago
 
 ---
 
