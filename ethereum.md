@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T20:50:01.500323+00:00'
+updated: '2026-01-23T21:22:39.021542+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 20:50 UTC  
+**Last Updated:** January 23, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 I'm a part of a team that has created an ERC-20 token, and we're designing an airdrop to build a community around it. Right now we're struggling with things like: - how much friction is too much for legit users - how little friction invites bots - whether instant claims are even worth it anymore We're ready to start promoting our project on X/Twitter, but I’d like to hear from people who actually participate in these airdrops: - What made you feel comfortable interacting with a new project? - And what were the biggest red flags? I can't post links here, so if anyone’s curious about what we're working on, I can share in comments and it's also linked on my profile. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -172,7 +172,7 @@ TradingView — Track All Markets • 7h ago
 
 UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 158 • 💬 45 • ⏱️ 8:10 • 13h ago
+👁️ 4K • 👍 158 • 💬 45 • ⏱️ 8:10 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & CRYPTO WARNING: IT'S A TRAP (again)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 545 • 👍 46 • 💬 10 • ⏱️ 21:53 • 33m ago
+👁️ 545 • 👍 46 • 💬 10 • ⏱️ 21:53 • 1h ago
 
 ---
 
@@ -308,7 +308,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 450 • 💬 24 • ⏱️ 16:24 • 8h ago
+👁️ 6K • 👍 450 • 💬 24 • ⏱️ 16:24 • 9h ago
 
 ---
 

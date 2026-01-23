@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T20:50:01.490053+00:00'
+updated: '2026-01-23T21:22:39.015496+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 20:50 UTC  
+**Last Updated:** January 23, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Who's next?
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 **[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ In my country it's approx. the same as 1 Big Mac menu. But to my great great gra
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 13h ago
 
 **[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeTY32keEQj4I_LQahdRRS-vTR662Vl35VZDQMakGDzYqrueHpUSuNr&gaa_ts=6973dd49&gaa_sig=J84_b0WY83QHjyx-K_046jhACzB7_fDdS4mlMiRNlg1Ul71asK0PFrFLWYDZKP0eWc0g6CCno4qO-IZUpNDsUQ%3D%3D)**
 
-MarketWatch • 34m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 **[CZ says bitcoin will ‘break’ 4-year cycle as global crypto support grows](https://www.coindesk.com/business/2026/01/23/binance-s-changpeng-zhao-says-bitcoin-will-break-the-four-year-cycle-this-year)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 2h ago
 
 Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 7h ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -312,7 +312,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 6h ago
+👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 7h ago
 
 ---
 
@@ -342,7 +342,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 6h ago
+👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 7h ago
 
 ---
 
@@ -362,7 +362,7 @@ Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 9h ago
+👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 10h ago
 
 ---
 
@@ -372,7 +372,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 20h ago
+👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 21h ago
 
 ---
 
@@ -382,7 +382,7 @@ Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 9h ago
+👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 10h ago
 
 ---
 
@@ -402,7 +402,7 @@ Introduction 0:00-1:08 Bitunix Exchage 1:08-2:00 Why Is Gold Moving While Bitcoi
 
 📺 Wolves of Crypto
 
-👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 9h ago
+👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 10h ago
 
 ---
 

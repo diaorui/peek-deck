@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T20:50:01.476795+00:00'
+updated: '2026-01-23T21:22:39.006894+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 20:50 UTC  
+**Last Updated:** January 23, 2026 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 22h ago
 
 ---
 
@@ -81,7 +81,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ AMD today released a new version of Ryzen AI Software, the user-space packages f
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 21h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 22h ago
 
 ---
 
@@ -97,7 +97,7 @@ You can read more about how this was made here.
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 10h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ MSN • 1h ago
 
 Automation could boost productivity and salaries for some workers but wipe out entry-level jobs.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 3h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 4h ago
+WIRED • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ WIRED • 4h ago
 
 LLMs have their limits.
 
-Gizmodo • 54m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ TechCrunch • 23h ago
 
 The pause will start rolling out in the coming weeks.
 
-The Verge • 59m ago
+The Verge • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Verge • 59m ago
 
 Commentary: Reports of a pin, new AirPods and a revamped Siri, along with a new Google partnership, point to a transformation that could lead to glasses or something even bigger.
 
-CNET • 6h ago
+CNET • 7h ago
 
 ---
 
@@ -211,7 +211,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 449 • 💬 235 • 10h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 449 • 💬 235 • 11h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -219,7 +219,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 424 • 💬 267 • 13h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 424 • 💬 267 • 14h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -227,7 +227,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 323 • 💬 346 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 323 • 💬 346 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -299,7 +299,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 40K • 👍 911 • 💬 100 • ⏱️ 12:48 • 21h ago
+👁️ 40K • 👍 911 • 💬 100 • ⏱️ 12:48 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTu
 
 📺 Deep Humor
 
-👁️ 20K • 👍 2K • 💬 516 • ⏱️ 9:46 • 23h ago
+👁️ 20K • 👍 2K • 💬 516 • ⏱️ 9:46 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 683 • 19h ago
+⬇️ 17,010 • ❤️ 683 • 20h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 274 • 20h ago
+⬇️ 145,992 • ❤️ 274 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 527 • 58m ago
+⭐ 9.9k • 🔱 527 • 1h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 22m ago
+⭐ 9.6k • 🔱 1.3k • 55m ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 987 • 3h ago
+⭐ 5.7k • 🔱 987 • 4h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 9h ago
+⭐ 4.9k • 🔱 5.2k • 10h ago
 
 ---
 
@@ -730,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 336 • 18h ago
+⭐ 2.4k • 🔱 336 • 19h ago
 
 ---
 
