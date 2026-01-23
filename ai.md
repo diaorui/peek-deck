@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T17:48:29.407148+00:00'
+updated: '2026-01-23T18:36:10.429570+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - videos
 - news
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 17:48 UTC  
+**Last Updated:** January 23, 2026 at 18:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 18h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 3h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 18h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 19h ago
 
 ---
 
@@ -89,7 +89,7 @@ You can read more about how this was made here.
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you’re trying to get a better understanding of AI (without needing a comput
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-13h ago
+14h ago
 
 ---
 
@@ -123,13 +123,13 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 15h ago
 
 Meta will developed new versions of AI characters that will give age-appropriate responses
 
-TechCrunch • 48m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ TechCrunch • 48m ago
 
 US Customs and Border Protection is paying General Dynamics to create prototype “quantum sensors,” to be used with an AI database to detect fentanyl and other narcotics.
 
-WIRED • 40m ago
+WIRED • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ WIRED • 40m ago
 
 Jensen Huang calls AI infrastructure development the "largest buildout in human history," creating massive job opportunities and wage growth for skilled trades workers.
 
-Fox Business • 27m ago
+Fox Business • 1h ago
 
 ---
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 7h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 23h ago
 
 Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 415 • 💬 202 • 7h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 415 • 💬 202 • 8h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -219,7 +219,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 378 • 💬 236 • 10h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 378 • 💬 236 • 11h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -273,7 +273,7 @@ The famed convention's organizers have banned AI from the art show.
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 116 • 💬 65 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 116 • 💬 65 • 3d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
@@ -287,7 +287,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 5K • 👍 76 • 💬 42 • ⏱️ 16:31 • 1d ago
+👁️ 6K • 👍 76 • 💬 43 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -297,37 +297,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 33K • 👍 821 • 💬 90 • ⏱️ 12:48 • 18h ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 111K • 👍 1K • 💬 306 • ⏱️ 9:36 • 2d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 61K • 👍 673 • 💬 395 • ⏱️ 6:52 • 1d ago
-
----
-
-**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
-
-YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
-
-📺 Deep Humor
-
-👁️ 19K • 👍 1K • 💬 494 • ⏱️ 9:46 • 20h ago
+👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 19h ago
 
 ---
 
@@ -337,7 +307,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 32K • 👍 967 • 💬 76 • ⏱️ 15:40 • 1d ago
+👁️ 32K • 👍 973 • 💬 76 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -347,7 +317,37 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 438K • 👍 1K • 💬 24 • ⏱️ 11:47 • 2d ago
+👁️ 453K • 👍 1K • 💬 25 • ⏱️ 11:47 • 2d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 62K • 👍 700 • 💬 408 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[How I Make AI Animation Videos For Free](https://www.youtube.com/watch?v=iUngM0oOAYg)**
+
+Build Your First Successful Channel - https://www.skool.com/scalable-creator-os-4776 Prompts and tools here ...
+
+📺 BigStepsMedia
+
+👁️ 5K • 👍 211 • 💬 10 • ⏱️ 8:40 • 1d ago
+
+---
+
+**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
+
+YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
+
+📺 Deep Humor
+
+👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 📺 Parker Prompts
 
-👁️ 26K • 💬 23 • ⏱️ 10:12 • 2d ago
+👁️ 27K • 💬 23 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -367,17 +367,17 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 9K • 👍 150 • 💬 107 • ⏱️ 13:05 • 1d ago
+👁️ 9K • 👍 153 • 💬 107 • ⏱️ 13:05 • 1d ago
 
 ---
 
-**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
+**[The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)**
 
-Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Stylosa
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 81K • 👍 3K • 💬 2K • ⏱️ 25:46 • 1d ago
+👁️ 28K • 👍 2K • 💬 215 • ⏱️ 22:07 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,046 • 3d ago
+⬇️ 199,346 • ❤️ 1,052 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 648 • 16h ago
+⬇️ 17,010 • ❤️ 669 • 17h ago
 
 ---
 
@@ -417,7 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 338 • 1d ago
+⬇️ 4,644 • ❤️ 350 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 505 • 8d ago
+⬇️ 60,736 • ❤️ 508 • 8d ago
 
 ---
 
@@ -441,7 +441,17 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 269 • 17h ago
+⬇️ 145,992 • ❤️ 271 • 18h ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 40,447 • ❤️ 442 • 4d ago
 
 ---
 
@@ -454,16 +464,6 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 `text-to-image`
 
 ⬇️ 11,681 • ❤️ 965 • 8d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 40,447 • ❤️ 441 • 4d ago
 
 ---
 
@@ -487,19 +487,19 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 49,287 • ❤️ 318 • 7d ago
+⬇️ 49,287 • ❤️ 319 • 8d ago
 
 ---
 
-**[Step3-VL-10B](https://huggingface.co/stepfun-ai/Step3-VL-10B)**
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
 
-*StepFun*
+*Qwen*
 
-STEP3-VL-10B is a 10B parameter vision-language model excelling in visual perception and complex reasoning, outperforming larger models through unified pre-training and parallel reasoning techniques. Its primary use cases include advanced multimodal understanding and generation tasks.
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
 
-`image-text-to-text` `10.2B`
+`1.9B`
 
-⬇️ 35,694 • ❤️ 275 • 15h ago
+⬇️ 4,244 • ❤️ 202 • 13h ago
 
 ---
 
@@ -515,7 +515,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 14 • 💬 0 • ⭐ 1,424 • 1d ago
+▲ 15 • 💬 0 • ⭐ 1,424 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -581,7 +581,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 142 • 💬 6 • ⭐ 20,965 • 5mo ago
+▲ 142 • 💬 6 • ⭐ 21,137 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -607,7 +607,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 152 • 💬 4 • ⭐ 211 • 5d ago
+▲ 154 • 💬 4 • ⭐ 266 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -634,7 +634,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Representation Autoencoders (RAEs) demonstrate superior performance over VAEs in large-scale text-to-image generation, showing improved stability, faster convergence, and better quality while enabling unified multimodal reasoning in shared representation spaces.
 
-▲ 32 • 💬 1 • ⭐ 45 • 1d ago
+▲ 34 • 💬 1 • ⭐ 45 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.16208) • [💻 code](https://github.com/ZitengWangNYU/Scale-RAE) • [🔗 project](https://rae-dit.github.io/scale-rae/)
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 523 • 1d ago
+⭐ 9.9k • 🔱 526 • 5m ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 13h ago
+⭐ 9.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -670,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 438 • 1d ago
+⭐ 8.6k • 🔱 441 • 1d ago
 
 ---
 
@@ -680,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 854 • 15h ago
+⭐ 7.2k • 🔱 857 • 16h ago
 
 ---
 
@@ -690,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 984 • 3h ago
+⭐ 5.7k • 🔱 987 • 1h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 6h ago
+⭐ 4.9k • 🔱 5.2k • 7h ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.9k • 🔱 426 • 1d ago
+⭐ 3.9k • 🔱 431 • 1d ago
 
 ---
 
@@ -718,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.5k • 🔱 208 • 15h ago
+⭐ 2.6k • 🔱 211 • 15h ago
 
 ---
 
@@ -728,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 336 • 15h ago
+⭐ 2.4k • 🔱 336 • 16h ago
 
 ---
 
@@ -738,7 +738,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 163 • 9h ago
+⭐ 2.0k • 🔱 164 • 9h ago
 
 ---
 

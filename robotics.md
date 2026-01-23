@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T17:48:29.426061+00:00'
+updated: '2026-01-23T18:36:10.448212+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 17:48 UTC  
+**Last Updated:** January 23, 2026 at 18:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 11h ago
 
 ---
 
@@ -64,7 +64,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 LTDR; this is a geometric kernel for measuring constraint-induced force distribution collapse in redundant systems. This is not novel in robotics, but I would like some feedback. It is usable, it uses the stock walking gait model in OpenSim so the lowerbody is muscle actuated and the upper body and torso are coordinate / torque actuated. Each frame will read out feasible or infeasible(the configuration/pose). If infeasible you can diagnose the infeasibility (gravity scaling/DoF masking/joint specific actuation, constraint switches) If feasible, then you get the effective dimensions of the polytope(so far I’ve seen up to 70% reduction of the dimensions). This creates a near unique equilibrium solution as a consequence of “optionality”(or lack of). Btw this is quasi static analysis. #Readme# Force Pathway Measurement Theory (FPMT) applies feasible wrench polytope methods from robotics to quantify constraint-induced force distribution collapse in redundant musculoskeletal systems. Rather than selecting a single solution via optimization, FPMT computes the entire admissible set of internal forces satisfying equilibrium and geometric constraints. This allows for measuring "optionality" (the feasible set size) and determining when force distributions become deterministic due to constraints. FPMT computes the full admissible set of internal forces and reports optionality metrics (Chebyshev clearance, CCI, effective dimension) instead of selecting a single solution via optimization. —— I’ve had engineers try to poke holes already, the big ask really is the math. Here is the GitHub for my project: https://github.com/mechanist01/FPMT Here’s the paper that inspired it: https://arxiv.org/pdf/2110.06790
 
-42m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a lightweight, focused simulator for robot arms that prioritizes high-frequency control (up to kHz rates), analytical dynamics via the Pinocchio library, and fully deterministic software-in-the-loop (SIL) testing. It's built for people who want fast, reproducible simulations for arm control and motion planning without the full complexity (and slowdown) of contact-heavy engines like Gazebo. Why this exists As a robotics enthusiast, I wanted a tool that lets me quickly prototype and debug controllers on models like the UR3 — something precise, inspectable, and hardware-free. It’s especially useful for learning dynamics, tuning controllers, or running thousands of consistent test episodes. Current Highlights: kHz-level simulation stepping for tight real-time control loops Analytical computations (mass matrix, Jacobians, Coriolis/centrifugal terms, etc.) powered by Pinocchio ros2_control integration for commanding joints and trajectories MoveIt2 compatibility with a custom planning & execution action server Built-in PID controller with a simple tuning interface RViz2 visualization + optional web-based 3D viewer (real-time URDF + joint state streaming via WebSocket) Deterministic behavior — perfect for reproducible debugging and benchmarking. What's coming next I'm actively planning to expand the control options beyond the current PID: Model Predictive Control (MPC) — for more advanced trajectory tracking and constraint handling Reinforcement Learning (RL) interfaces — to make it easier to train policies directly in the sim (fast episodes + determinism are ideal for this) If any of those directions excite you, I'd love input on what would be most useful! Quick Start Docker + VS Code devcontainer setup → colcon build → launch files for sim-only, with viz, or PID tuning. Everything is in the README. Main repo: https://github.com/PetoAdam/ros2_sim Optional web UI: https://github.com/PetoAdam/ros2_sim_ui r/robotics — what do you think? Have you run into pain points with high-frequency sims, arm control tuning, or transitioning from classical control → MPC/RL? Any feedback, feature wishes, stars, forks, or even collaboration ideas are super welcome. Let's talk robotics!
 
-18h ago
+19h ago
 
 ---
 
@@ -116,7 +116,7 @@ not like real human running to you, each time when team bring him running outsid
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 5h ago
+Microsoft • 6h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 2d ago
 
 **[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
@@ -146,7 +146,7 @@ Business Insider • 1d ago
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
-AgFunderNews • 23h ago
+AgFunderNews • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider • 1d ago
 
 Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
 
-Fox Business • 19h ago
+Fox Business • 20h ago
 
 ---
 
@@ -198,17 +198,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 6K • 👍 68 • 💬 49 • ⏱️ 2:47 • 1d ago
-
----
-
-**[Chinese Engineer Builds 6-Legged 3D-Printed Robot That Walks, Flies &amp; Shoots 🚀🤖](https://www.youtube.com/watch?v=6pTCe14jCEo)**
-
-Chinese Engineer Builds 6-Legged 3D-Printed Robot That Walks, Flies & Shoots Short Description: A Chinese engineer has ...
-
-📺 News Article 1
-
-👁️ 664 • ⏱️ 0:10 • 5h ago
+👁️ 6K • 👍 69 • 💬 50 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -218,7 +208,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 36K • 👍 1K • 💬 195 • ⏱️ 0:49 • 16h ago
+👁️ 39K • 👍 1K • 💬 205 • ⏱️ 0:49 • 17h ago
 
 ---
 
@@ -236,17 +226,27 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 Bernie Sanders
 
-👁️ 20K • 👍 2K • 💬 88 • ⏱️ 1:13 • 22h ago
+👁️ 21K • 👍 2K • 💬 94 • ⏱️ 1:13 • 23h ago
 
 ---
 
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
 
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
 
-📺 Global News
+📺 Kalil 4.0
 
-👁️ 5K • 👍 65 • 💬 52 • ⏱️ 10:15 • 16h ago
+👁️ 2K • 👍 78 • 💬 4 • ⏱️ 0:32 • 1d ago
+
+---
+
+**[NEW Robot AMMIT takes over War Robots now! (FULL REVIEW)](https://www.youtube.com/watch?v=D9OQisokKgU)**
+
+War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+
+📺 Manni-Gaming
+
+👁️ 4K • 👍 391 • 💬 109 • ⏱️ 28:24 • 5h ago
 
 ---
 
@@ -256,17 +256,7 @@ This robot isn't recycling your appliances — it's learning how to take them ap
 
 📺 Undecided with Matt Ferrell
 
-👁️ 35K • 👍 2K • 💬 105 • ⏱️ 1:51 • 2d ago
-
----
-
-**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
-
-About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
-
-📺 Yahoo Finance
-
-👁️ 12K • 👍 144 • 💬 11 • ⏱️ 0:47 • 23h ago
+👁️ 35K • 👍 2K • 💬 107 • ⏱️ 1:51 • 2d ago
 
 ---
 
@@ -280,13 +270,23 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 ---
 
-**[Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army](https://www.youtube.com/watch?v=y6swzGpJDdQ)**
+**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
 
-Ukraine isn't trying to outnumber Russia anymore. It's out-innovating it. From garage workshops and Soviet warehouses, Ukraine ...
+About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
 
-📺 The Military Show
+📺 Yahoo Finance
 
-👁️ 432K • 👍 8K • 💬 375 • ⏱️ 23:16 • 6d ago
+👁️ 13K • 👍 151 • 💬 11 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[AI technologies are scary](https://www.youtube.com/watch?v=VKfK94ivBd4)**
+
+CES 2026 Las Vegas Convention Center. Dobot robot dinosaur at CES 2026 las vegas. Realistic robots. Experience the future of ...
+
+📺 The Laughing Lion
+
+👁️ 8K • 👍 55 • 💬 3 • ⏱️ 0:08 • 3d ago
 
 ---
 

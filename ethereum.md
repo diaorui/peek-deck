@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T17:48:29.422761+00:00'
+updated: '2026-01-23T18:36:10.444730+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 17:48 UTC  
+**Last Updated:** January 23, 2026 at 18:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.12B
+**Market Cap:** $361.34B
 Rank #2
 
 **Circulating Supply:** 120,694,469 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-39.5%
 
 **All-Time Low:** $0.43
-+679034.6%
++691534.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 55m ago
 
 Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
 
-Coinpedia Fintech News • 2h ago
+Coinpedia Fintech News • 3h ago
 
 ---
 
@@ -224,7 +224,7 @@ Decrypt • 1d ago
 
 BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 139 • 💬 38 • ⏱️ 8:10 • 10h ago
+👁️ 3K • 👍 148 • 💬 43 • ⏱️ 8:10 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 919 • 💬 122 • ⏱️ 17:24 • 1d ago
+👁️ 26K • 👍 933 • 💬 124 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -258,57 +258,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 1K • 💬 176 • ⏱️ 19:54 • 23h ago
-
----
-
-**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 59 • 💬 7 • ⏱️ 18:28 • 1d ago
-
----
-
-**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
-
-After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
-
-📺 Paul Barron Network
-
-👁️ 21K • 👍 1K • 💬 187 • ⏱️ 9:11 • 21h ago
-
----
-
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
-
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
-
-📺 Discover Crypto
-
-👁️ 10K • 👍 373 • 💬 88 • ⏱️ 8:24 • 1d ago
-
----
-
-**[BITCOIN: 90% Will Fall for This Trap! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Zay0bDVBu-A)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 4K • 👍 359 • 💬 20 • ⏱️ 16:24 • 5h ago
-
----
-
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
-
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
-
-📺 World Liberty Financial
-
-👁️ 5K • 👍 17 • 💬 4 • ⏱️ 1:36 • 18h ago
+👁️ 32K • 👍 1K • 💬 183 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -318,7 +268,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 305 • 👍 48 • 💬 2 • ⏱️ 4:35 • 2h ago
+👁️ 603 • 👍 66 • 💬 2 • ⏱️ 4:35 • 3h ago
+
+---
+
+**[BITCOIN: 90% Will Fall for This Trap! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Zay0bDVBu-A)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 426 • 💬 23 • ⏱️ 16:24 • 6h ago
+
+---
+
+**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 60 • 💬 7 • ⏱️ 18:28 • 1d ago
 
 ---
 
@@ -328,7 +298,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 244 • 👍 19 • 💬 2 • ⏱️ 5:49 • 7h ago
+👁️ 324 • 👍 23 • 💬 2 • ⏱️ 5:49 • 8h ago
+
+---
+
+**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+
+Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+
+📺 Discover Crypto
+
+👁️ 10K • 👍 374 • 💬 89 • ⏱️ 8:24 • 1d ago
+
+---
+
+**[Government Admits To Stealing Our Data!🚨Vitalik Rallies Ethereum vs Elon🔥](https://www.youtube.com/watch?v=UNpCGEIMNDY)**
+
+After months of denials, the Trump administration has acknowledged in a federal court filing that employees working for Elon ...
+
+📺 Paul Barron Network
+
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:11 • 21h ago
+
+---
+
+**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
+
+GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
+
+📺 World Liberty Financial
+
+👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 18h ago
 
 ---
 

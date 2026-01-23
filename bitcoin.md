@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T17:48:29.416638+00:00'
+updated: '2026-01-23T18:36:10.438137+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 17:48 UTC  
+**Last Updated:** January 23, 2026 at 18:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.16B
+**Market Cap:** $1814.30B
 Rank #1
 
-**Circulating Supply:** 19,979,793 BTC
+**Circulating Supply:** 19,979,806 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.0%
 
 **All-Time Low:** $67.81
-+131848.1%
++133802.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Everyone wants the green peaks, but few can stomach the long walk across the ice. While the colony is busy debating the next 1% move, the disciplined trader is miles away, sticking to the plan. Stop looking for consensus. Start looking for consistency.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,19 +101,19 @@ Everyone wants the green peaks, but few can stomach the long walk across the ice
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-10h ago
+11h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ In my country it's approx. the same as 1 Big Mac menu. But to my great great gra
 
 I keep seeing the idea that even a very small amount of Bitcoin could matter in the long run. Putting price aside, I’m more interested in why this framing resonates with people. Is it mainly about Bitcoin’s fixed supply, its divisibility, or the idea of self custody and opting out of traditional systems? Curious what aspects of Bitcoin make people think in terms of ownership rather than short-term value.
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ I keep seeing the idea that even a very small amount of Bitcoin could matter in 
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-16h ago
+17h ago
 
 ---
 
@@ -165,7 +165,7 @@ ProPublica • 20h ago
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -181,7 +181,7 @@ Forbes • 1h ago
 
 UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ wtop.com • 1d ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 46K • 👍 2K • 💬 263 • ⏱️ 16:21 • 19h ago
+👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 20h ago
 
 ---
 
@@ -330,17 +330,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 1K • 👍 59 • 💬 77 • ⏱️ 2:12 • 3h ago
-
----
-
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
-
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 3K • 💬 370 • ⏱️ 23:49 • 17h ago
+👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 4h ago
 
 ---
 
@@ -350,17 +340,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 739 • 💬 116 • ⏱️ 32:17 • 2h ago
+👁️ 13K • 👍 967 • 💬 107 • ⏱️ 32:17 • 2h ago
 
 ---
 
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
 
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
 
-📺 Yahoo Finance
+📺 Swan Bitcoin
 
-👁️ 10K • 👍 238 • 💬 97 • ⏱️ 10:27 • 22h ago
+👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 4h ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 18h ago
 
 ---
 
@@ -370,17 +370,37 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 4K • 👍 233 • 💬 74 • ⏱️ 14:22 • 1d ago
+👁️ 4K • 👍 244 • 💬 74 • ⏱️ 14:22 • 1d ago
 
 ---
 
-**[The Financial Market Crisis No One is Talking About [Not Only Bitcoin]](https://www.youtube.com/watch?v=FrwCy3VccW4)**
+**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
 
-Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade deal, and spoke openly in favor of crypto regulation.
+2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
 
-📺 Crypto Banter
+📺 Yahoo Finance
 
-👁️ 22K • 👍 1K • 💬 35 • ⏱️ 17:34 • 1d ago
+👁️ 11K • 👍 249 • 💬 80 • ⏱️ 10:27 • 22h ago
+
+---
+
+**[The Question Isn’t If Bitcoin Pumps — It’s When](https://www.youtube.com/watch?v=iDzdy_WuQkw)**
+
+Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 7h ago
+
+---
+
+**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+
+Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 21K • 👍 440 • 💬 116 • ⏱️ 1:16 • 2d ago
 
 ---
 
@@ -390,27 +410,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 252 • ⏱️ 36:02 • 1d ago
-
----
-
-**[BIG Trade Incoming On Bitcoin And Altcoins!! (GET READY)](https://www.youtube.com/watch?v=OBRDMlKWV7M)**
-
-Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In this video, Sheldon breaks down the key levels and ...
-
-📺 Crypto Banter
-
-👁️ 9K • 👍 691 • 💬 23 • ⏱️ 47:33 • 6h ago
-
----
-
-**[🚨 BLACKROCK IS FORCING BITCOIN..!?!?!?!? 🚀](https://www.youtube.com/watch?v=khC32eGjuic)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 921 • 💬 133 • ⏱️ 8:21 • 2d ago
+👁️ 30K • 👍 2K • 💬 249 • ⏱️ 36:02 • 1d ago
 
 ---
 
