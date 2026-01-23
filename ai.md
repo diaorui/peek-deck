@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T07:47:09.940720+00:00'
+updated: '2026-01-23T08:32:20.674039+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 07:47 UTC  
+**Last Updated:** January 23, 2026 at 08:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 8h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 8h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 10h ago
+🔗 [Bwocks](http://Bwocks.com) • 11h ago
 
 ---
 
@@ -87,13 +87,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 8h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 9h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 20h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 21h ago
 
 ---
 
@@ -101,7 +101,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 14h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 15h ago
 
 ---
 
@@ -119,7 +119,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 14h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[Google Invests in Sakana AI to Boost Gemini’s Presence in Japan](https://www.bloomberg.com/news/articles/2026-01-23/google-invests-in-sakana-ai-to-boost-gemini-s-presence-in-japan)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bloomberg • 1h ago
 
 Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar New Year, two people familiar with the matter told CNBC.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNBC • 1h ago
 
 Chinese scientists go back to the future for inspiration that could reshape the power-hungry artificial intelligence model.
 
-South China Morning Post • 1h ago
+South China Morning Post • 2h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 17h ago
+The Economist • 18h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Conversation • 18h ago
 
 **[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
 
-The Information • 13h ago
+The Information • 14h ago
 
 ---
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -241,7 +241,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
 
-⬆️ 119 • 💬 154 • 2d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
+⬆️ 119 • 💬 154 • 3d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
 
 ---
 
@@ -287,7 +287,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 18K • 👍 550 • 💬 48 • ⏱️ 12:48 • 8h ago
+👁️ 18K • 👍 550 • 💬 48 • ⏱️ 12:48 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 8K • 👍 140 • 💬 105 • ⏱️ 13:05 • 15h ago
+👁️ 8K • 👍 140 • 💬 105 • ⏱️ 13:05 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 22K • 👍 1K • 💬 192 • ⏱️ 22:07 • 16h ago
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 22:07 • 17h ago
 
 ---
 
@@ -395,7 +395,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 558 • 6h ago
+⬇️ 17,010 • ❤️ 558 • 7h ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 252 • 7h ago
+⬇️ 145,992 • ❤️ 252 • 8h ago
 
 ---
 
@@ -690,7 +690,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.8k • 🔱 5.0k • 18h ago
+⭐ 4.8k • 🔱 5.0k • 19h ago
 
 ---
 
@@ -718,7 +718,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 332 • 5h ago
+⭐ 2.3k • 🔱 332 • 6h ago
 
 ---
 

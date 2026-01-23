@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T07:47:09.955142+00:00'
+updated: '2026-01-23T08:32:20.688432+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 07:47 UTC  
+**Last Updated:** January 23, 2026 at 08:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-16h ago
+17h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
 
-1d ago
+2d ago
 
 ---
 
@@ -172,13 +172,13 @@ AMBCrypto • 1d ago
 
 Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 13h ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 1K • 💬 145 • ⏱️ 19:54 • 13h ago
+👁️ 22K • 👍 1K • 💬 145 • ⏱️ 19:54 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 72 • 👍 6 • 💬 2 • ⏱️ 8:10 • 34m ago
+👁️ 72 • 👍 6 • 💬 2 • ⏱️ 8:10 • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 818 • 💬 139 • ⏱️ 17:24 • 16h ago
+👁️ 21K • 👍 818 • 💬 139 • ⏱️ 17:24 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 50 • 💬 12 • ⏱️ 18:28 • 15h ago
+👁️ 1K • 👍 50 • 💬 12 • ⏱️ 18:28 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 789 • 👍 71 • 💬 1 • ⏱️ 7:21 • 6h ago
+👁️ 789 • 👍 71 • 💬 1 • ⏱️ 7:21 • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 34K • 👍 2K • 💬 162 • ⏱️ 9:51 • 13h ago
+👁️ 34K • 👍 2K • 💬 162 • ⏱️ 9:51 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 5 • ⏱️ 7:34 • 17h ago
+👁️ 2K • 👍 143 • 💬 5 • ⏱️ 7:34 • 18h ago
 
 ---
 
