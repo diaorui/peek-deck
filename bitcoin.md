@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T08:32:20.682389+00:00'
+updated: '2026-01-23T09:32:28.111845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 08:32 UTC  
+**Last Updated:** January 23, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,535.93
+### $89,150.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -5.9%  
-**30d:** +2.4%  
-**90d:** -21.9%  
-**1y:** -14.6%  
+**24h:** -1.1%  
+**7d:** -6.3%  
+**30d:** +1.9%  
+**90d:** -22.3%  
+**1y:** -15.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.71B
+**Market Cap:** $1779.09B
 Rank #1
 
 **Circulating Supply:** 19,979,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.4%
 
 **All-Time Low:** $67.81
-+131936.6%
++131203.6%
 
 ---
 
@@ -79,37 +79,13 @@ Rank #1
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-8h ago
+9h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-3h ago
-
----
-
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
-
-18h ago
-
----
-
-**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
-
-14h ago
-
----
-
-**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
-
-18h ago
-
----
-
-**[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
-
-13h ago
+4h ago
 
 ---
 
@@ -117,7 +93,31 @@ Rank #1
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-1h ago
+2h ago
+
+---
+
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+
+19h ago
+
+---
+
+**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
+
+15h ago
+
+---
+
+**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
+
+19h ago
+
+---
+
+**[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
+
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-5h ago
+6h ago
 
 ---
 
@@ -133,13 +133,15 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-7h ago
+8h ago
 
 ---
 
-**[Swimming Practice 😉](https://www.reddit.com/r/Bitcoin/comments/1qjs58x/swimming_practice/)**
+**[If btc wasn't an option, what would you invest in long term?](https://www.reddit.com/r/Bitcoin/comments/1qkkwhz/if_btc_wasnt_an_option_what_would_you_invest_in/)**
 
-21h ago
+Just curious what would be your next best long term investment
+
+1h ago
 
 ---
 
@@ -151,23 +153,13 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 22h ago
+ProPublica • 23h ago
 
 ---
 
-**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
+**[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin and yen hold steady as Japan's inflation eases and BOJ keeps interest rates unchanged](https://www.coindesk.com/markets/2026/01/23/bitcoin-and-yen-hold-stead-as-japan-s-inflation-eases-and-bank-of-japan-keeps-interest-rates-unchanged)**
-
-The Bank of Japan held rates steady while revising inflation and growth projections higher.
-
-CoinDesk • 1h ago
+The Block • 18h ago
 
 ---
 
@@ -179,17 +171,41 @@ CoinDesk • 1h ago
 
 ---
 
+**[Bitcoin Price Is Falling. Why the ‘Digital Gold’ Is Failing to Keep Up With the Precious Metal.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-gold-9a129bfd?gaa_at=eafs&gaa_n=AWEtsqf5lYZu588EgEAhWc-YFTtcCbOzt_92GmphCtH661W7F1geA79gT4ov&gaa_ts=69734396&gaa_sig=HNNjfB7bE9CPDCAJDhTF8IxnnLvp7y7enQvvV-mFXeDZ3NltqKDLqhQoqO-baji4VPBpBjKsA06covYqRYnsVA%3D%3D)**
+
+Barron's • 31m ago
+
+---
+
+**[ETH, SOL and ADA slip as bitcoin fails to build momentum near $90,000](https://www.coindesk.com/markets/2026/01/23/eth-sol-and-ada-slip-as-bitcoin-fails-to-build-momentum-near-usd90-000)**
+
+Asian equities pushed higher and the dollar stayed under pressure, giving crypto a firmer footing after a volatile week.
+
+CoinDesk • 1h ago
+
+---
+
 **[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 23h ago
+wtop.com • 1d ago
 
 ---
 
-**[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
+**[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
 
-Yahoo Finance UK • 21h ago
+Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
+
+Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
+
+CNBC • 1d ago
 
 ---
 
@@ -203,19 +219,7 @@ Fortune • 1d ago
 
 **[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-Bloomberg • 1d ago
-
----
-
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdrMIVMu8TzuHt00tAnNtmZ3VUMLy19abyvtDMV5wAGqzn_9r01Il3j&gaa_ts=69732aeb&gaa_sig=sDIFHlc1LbRahuJxc5cg6CL-7EzWDFZEeVEB62m_PQy_-Rzg-X3jF4kUcpX7b_RpAQyMbqHp9Iasywlkp_-F3w%3D%3D)**
-
-MarketWatch • 15h ago
-
----
-
-**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
-
-Reuters • 2d ago
+bloomberg.com • 1d ago
 
 ---
 
@@ -252,7 +256,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 18h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 3 • 19h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -308,63 +312,23 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 29K • 👍 2K • 💬 208 • ⏱️ 16:21 • 10h ago
-
----
-
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
-
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 2K • 💬 283 • ⏱️ 23:49 • 8h ago
-
----
-
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
-
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
-
-📺 The Sat Stacker Show
-
-👁️ 3K • 👍 213 • 💬 71 • ⏱️ 14:22 • 19h ago
-
----
-
 **[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
 
 2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 171 • 💬 65 • ⏱️ 10:27 • 12h ago
+👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 13h ago
 
 ---
 
-**[Gold &amp; Silver Push To New Highs! Bitcoin Ready To Follow?](https://www.youtube.com/watch?v=ljPVmvp4EUc)**
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
 
-Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
 
-📺 The Wolf Of All Streets
+📺 Swan Bitcoin
 
-👁️ 10K • 👍 529 • 💬 122 • ⏱️ 30:34 • 11h ago
-
----
-
-**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 29K • 👍 1K • 💬 274 • ⏱️ 36:02 • 17h ago
+👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 11h ago
 
 ---
 
@@ -378,33 +342,73 @@ BTC has been chopping around with some wild volatility. In today's video, Kyledo
 
 ---
 
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
+
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
+
+📺 The Sat Stacker Show
+
+👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 20h ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 9h ago
+
+---
+
+**[Gold &amp; Silver Push To New Highs! Bitcoin Ready To Follow?](https://www.youtube.com/watch?v=ljPVmvp4EUc)**
+
+Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 12h ago
+
+---
+
 **[Bitcoin Investors...Trump Just Said This at Davos](https://www.youtube.com/watch?v=AWUYE6mFYJw)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 45K • 👍 2K • 💬 413 • ⏱️ 41:04 • 1d ago
+👁️ 45K • 👍 2K • 💬 411 • ⏱️ 41:04 • 1d ago
 
 ---
 
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Crypto Crew University
+📺 CryptosRUs
 
-👁️ 46K • 👍 3K • 💬 244 • ⏱️ 18:43 • 1d ago
+👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 18h ago
 
 ---
 
-**[⚠️ #1 ISSUE HOLDING UP BITCOIN RIGHT NOW](https://www.youtube.com/watch?v=BjTgmG-3oko)**
+**[The Financial Market Crisis No One is Talking About [Not Only Bitcoin]](https://www.youtube.com/watch?v=FrwCy3VccW4)**
 
-HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade deal, and spoke openly in favor of crypto regulation.
 
-📺 Altcoin Daily
+📺 Crypto Banter
 
-👁️ 10K • 👍 328 • 💬 50 • ⏱️ 1:06 • 14h ago
+👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 18h ago
+
+---
+
+**[Bitcoin Whipsaws Around $90K: Why The Bull Run Is Stalled | Kyle Chassé](https://www.youtube.com/watch?v=xTuFgyZkQBc)**
+
+Bitcoin is flashing a critical signal that historically hits 97% of the time - but is the macro environment about to invalidate it?
+
+📺 Kitco NEWS
+
+👁️ 8K • 👍 274 • 💬 160 • ⏱️ 32:39 • 1d ago
 
 ---
 

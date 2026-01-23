@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T08:32:20.674039+00:00'
+updated: '2026-01-23T09:32:28.103226+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 08:32 UTC  
+**Last Updated:** January 23, 2026 at 09:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 9h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 10h ago
 
 ---
 
@@ -57,7 +57,15 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-3h ago
+4h ago
+
+---
+
+**[New gemini's endpoint](https://www.reddit.com/r/artificial/comments/1qkl156/new_geminis_endpoint/)**
+
+On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its looking crazy but I'm still waiting for new opus.
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +87,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 11h ago
+🔗 [Bwocks](http://Bwocks.com) • 12h ago
 
 ---
 
@@ -87,21 +95,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 9h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 10h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 21h ago
-
----
-
-**[Claude's new constitution](https://www.reddit.com/r/artificial/comments/1qjztf7/claudes_new_constitution/)**
-
-A new approach to a foundational document that expresses and shapes who Claude is
-
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 15h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 22h ago
 
 ---
 
@@ -119,7 +119,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -127,61 +127,63 @@ The New York Times • 15h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
-**[Google Invests in Sakana AI to Boost Gemini’s Presence in Japan](https://www.bloomberg.com/news/articles/2026-01-23/google-invests-in-sakana-ai-to-boost-gemini-s-presence-in-japan)**
+**[Amazon to Cut Thousands of Office Jobs: Report. It’s Partly About AI.](https://www.barrons.com/articles/amazon-stock-jobs-cuts-ai-6a6a0f89?gaa_at=eafs&gaa_n=AWEtsqe1d5T1vTyvNn7ON2uGZvXbgKUEvXupV5P20QayoJcDkayCXrmvedGE&gaa_ts=69734395&gaa_sig=iriUIKsd2_vNoECSHAL7gd9MNGKNCp6t6kUiwxLU933wv6mSeFuYMxQEQgLvDcqp4koiI_m0nfd7TNPN1FYMSw%3D%3D)**
 
-Bloomberg • 2h ago
-
----
-
-**[Nvidia’s Huang to visit China as AI chip sales stall](https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html)**
-
-Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar New Year, two people familiar with the matter told CNBC.
-
-CNBC • 2h ago
+Barron's • 1h ago
 
 ---
 
-**[China’s analogue chip runs 12 times as fast on 1/200th energy of digital rivals](https://www.scmp.com/news/china/science/article/3340939/chinas-analogue-ai-chip-runs-12-times-fast-1/200th-energy-digital-rivals)**
+**[This year could be 'make or break' for OpenAI as investors turn their eyes to profit](https://www.cnbc.com/2026/01/23/this-year-could-be-make-or-break-for-openai-ai-model-developers.html)**
 
-Chinese scientists go back to the future for inspiration that could reshape the power-hungry artificial intelligence model.
+AI foundation model developers are still experimenting with business models, but investors will likely push for returns this year.
 
-South China Morning Post • 2h ago
+CNBC • 1h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 18h ago
+The Economist • 19h ago
 
 ---
 
-**[AI-induced cultural stagnation is no longer speculation − it’s already happening](https://theconversation.com/ai-induced-cultural-stagnation-is-no-longer-speculation-its-already-happening-272488)**
+**[Deloitte to scrap traditional job titles as AI ushers in a ‘modernization’ of the Big Four](https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/)**
 
-AI-mediated culture is already being filtered in ways that favor the familiar, the describable and the conventional.
+The changes at the Big Four consulting firm will apply to all of the company’s U.S. divisions.
 
-The Conversation • 18h ago
+Fortune • 14h ago
 
 ---
 
-**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
+**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)**
 
-The Information • 14h ago
+A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
+
+The Nation • 23h ago
+
+---
+
+**[Is AI hurting your ability to think? How to reclaim your brain](https://theconversation.com/is-ai-hurting-your-ability-to-think-how-to-reclaim-your-brain-272834)**
+
+AI is replacing tasks we have grown reluctant to do ourselves – thinking, writing, creating, analysing.
+
+The Conversation • 15h ago
 
 ---
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+**[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-The New York Times • 7d ago
+bloomberg.com • 11h ago
 
 ---
 
@@ -193,7 +195,7 @@ The New York Times • 7d ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 663 • 💬 466 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 667 • 💬 466 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -201,7 +203,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 313 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 315 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -209,7 +211,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 302 • 💬 262 • 1d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 302 • 💬 263 • 1d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -229,6 +231,14 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 ---
 
+**[Proton Spam and the AI Consent Problem](https://news.ycombinator.com/item?id=46729368)**
+
+The one where I get very annoyed with my email provider
+
+⬆️ 164 • 💬 76 • 2h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+
+---
+
 **[Comic-Con Bans AI Art After Artist Pushback](https://news.ycombinator.com/item?id=46705952)**
 
 The famed convention's organizers have banned AI from the art show.
@@ -237,33 +247,25 @@ The famed convention's organizers have banned AI from the art show.
 
 ---
 
-**[Kraków, Poland in top 5 worst air quality worldwide](https://news.ycombinator.com/item?id=46689204)**
-
-Keep track of the most polluted cities in the world with our air quality index (AQI) ranking.
-
-⬆️ 119 • 💬 154 • 3d ago • [iqair.com](https://www.iqair.com/world-air-quality-ranking)
-
----
-
 **[Satya Nadella: "We need to find something useful for AI"](https://news.ycombinator.com/item?id=46718485)**
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 117 • 💬 152 • 19h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 120 • 💬 162 • 20h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
 **[Electricity use of AI coding agents](https://news.ycombinator.com/item?id=46695415)**
 
-⬆️ 115 • 💬 65 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
+⬆️ 116 • 💬 65 • 2d ago • [simonpcouch.com](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 
 ---
 
-**[Majority of CEOs report zero payoff from AI splurge](https://news.ycombinator.com/item?id=46696636)**
+**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://news.ycombinator.com/item?id=46719465)**
 
-: PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
+A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 95 • 💬 64 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+⬆️ 96 • 💬 64 • 19h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -277,7 +279,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 4K • 👍 54 • 💬 35 • ⏱️ 16:31 • 15h ago
+👁️ 4K • 👍 61 • 💬 38 • ⏱️ 16:31 • 16h ago
 
 ---
 
@@ -287,27 +289,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 18K • 👍 550 • 💬 48 • ⏱️ 12:48 • 9h ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 100K • 👍 1K • 💬 273 • ⏱️ 9:36 • 1d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 55K • 👍 628 • 💬 373 • ⏱️ 6:52 • 1d ago
+👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 10h ago
 
 ---
 
@@ -317,7 +299,27 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 8K • 👍 140 • 💬 105 • ⏱️ 13:05 • 16h ago
+👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 17h ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 56K • 👍 632 • 💬 374 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 103K • 👍 1K • 💬 279 • ⏱️ 9:36 • 1d ago
 
 ---
 
@@ -327,17 +329,7 @@ Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobe
 
 📺 BBC Politics
 
-👁️ 42K • 👍 1K • 💬 347 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
-
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
-
-📺 Love And Peace
-
-👁️ 352K • 👍 1K • 💬 23 • ⏱️ 11:47 • 1d ago
+👁️ 43K • 👍 1K • 💬 353 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -351,23 +343,33 @@ In this video, I break down the five AI fundamentals that actually matter if you
 
 ---
 
-**[The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Love And Peace
 
-👁️ 22K • 👍 1K • 💬 192 • ⏱️ 22:07 • 17h ago
+👁️ 369K • 👍 1K • 💬 22 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+**[Microsoft CEO Blames Us For AI Bubble Bursting And Open AI Are Starting To Collapse...](https://www.youtube.com/watch?v=T3xu4ritjbg)**
 
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+Microsoft CEO, Satya Nadella says we need to find a use for AI or the bubble will burst, taking the world economy with it, WTF!
 
-📺 AI Revolution
+📺 Stylosa
 
-👁️ 31K • 👍 946 • 💬 74 • ⏱️ 15:40 • 1d ago
+👁️ 74K • 👍 3K • 💬 2K • ⏱️ 25:46 • 1d ago
+
+---
+
+**[Zhipu AI&#39;s Deepseek-like breakout](https://www.youtube.com/watch?v=WU_rKAC_SLI)**
+
+CNBC's Deirdre Bosa reports on Zhipu AI.
+
+📺 CNBC Television
+
+👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 15h ago
 
 ---
 
@@ -383,7 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,011 • 2d ago
+⬇️ 199,346 • ❤️ 1,019 • 2d ago
 
 ---
 
@@ -395,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 558 • 7h ago
+⬇️ 17,010 • ❤️ 583 • 8h ago
 
 ---
 
@@ -407,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 493 • 7d ago
+⬇️ 60,736 • ❤️ 498 • 7d ago
 
 ---
 
@@ -419,7 +421,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 271 • 1d ago
+⬇️ 4,644 • ❤️ 293 • 1d ago
 
 ---
 
@@ -431,7 +433,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 252 • 8h ago
+⬇️ 145,992 • ❤️ 261 • 9h ago
 
 ---
 
@@ -443,7 +445,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 11,681 • ❤️ 959 • 7d ago
+⬇️ 11,681 • ❤️ 962 • 7d ago
 
 ---
 
@@ -453,7 +455,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 428 • 3d ago
+⬇️ 40,447 • ❤️ 432 • 3d ago
 
 ---
 
@@ -465,7 +467,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 49,287 • ❤️ 309 • 7d ago
+⬇️ 49,287 • ❤️ 312 • 7d ago
 
 ---
 
@@ -477,39 +479,25 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 2,065,417 • ❤️ 1,266 • 3d ago
+⬇️ 2,065,417 • ❤️ 1,268 • 3d ago
 
 ---
 
-**[FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B)**
+**[AgentCPM-Report](https://huggingface.co/openbmb/AgentCPM-Report)**
 
-*Black Forest Labs*
+*OpenBMB*
 
-FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model delivering state-of-the-art quality with sub-second inference for real-time applications. It supports text-to-image and multi-reference image-to-image editing.
+AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form, deeply insightful reports by performing extensive retrieval and chain-of-thought reasoning. It supports fully offline, local deployment for enhanced data security and can process private knowledge bases using the UltraRAG framework.
 
-`image-to-image`
+`8.2B`
 
-⬇️ 34,554 • ❤️ 283 • 7d ago
+⬇️ 436 • ❤️ 204 • 3d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
-
-*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
-
-🏢 AutoLab
-
-RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
-
-▲ 39 • 💬 2 • ⭐ 146 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
-
----
 
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
@@ -534,6 +522,20 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 ▲ 9 • 💬 2 • ⭐ 198 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
+
+---
+
+**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
+
+*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
+
+🏢 AutoLab
+
+RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
+
+▲ 41 • 💬 2 • ⭐ 198 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
 ---
 
@@ -569,9 +571,23 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 141 • 💬 6 • ⭐ 20,848 • 4mo ago
+▲ 141 • 💬 6 • ⭐ 20,965 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
+
+*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
+
+🏢 University of Illinois at Urbana-Champaign
+
+Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
+
+▲ 146 • 💬 4 • ⭐ 211 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 ---
 
@@ -603,20 +619,6 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 ---
 
-**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
-
-*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
-
-🏢 University of Illinois at Urbana-Champaign
-
-Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
-
-▲ 144 • 💬 4 • ⭐ 105 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -640,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 510 • 15h ago
+⭐ 9.8k • 🔱 513 • 16h ago
 
 ---
 
@@ -650,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 3h ago
+⭐ 9.6k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -660,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 427 • 1d ago
+⭐ 8.5k • 🔱 431 • 1d ago
 
 ---
 
@@ -670,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.0k • 🔱 841 • 5h ago
+⭐ 7.1k • 🔱 845 • 6h ago
 
 ---
 
@@ -680,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.6k • 🔱 957 • 1d ago
+⭐ 5.6k • 🔱 964 • 2d ago
 
 ---
 
@@ -690,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.8k • 🔱 5.0k • 19h ago
+⭐ 4.8k • 🔱 5.1k • 20h ago
 
 ---
 
@@ -700,7 +702,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.8k • 🔱 403 • 1d ago
+⭐ 3.8k • 🔱 411 • 1d ago
 
 ---
 
@@ -708,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.4k • 🔱 190 • 5h ago
+⭐ 2.4k • 🔱 194 • 6h ago
 
 ---
 
@@ -718,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 332 • 6h ago
+⭐ 2.3k • 🔱 333 • 7h ago
 
 ---
 
@@ -728,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 163 • 9h ago
+⭐ 2.0k • 🔱 163 • 48m ago
 
 ---
 

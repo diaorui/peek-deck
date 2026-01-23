@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T08:32:20.688432+00:00'
+updated: '2026-01-23T09:32:28.117969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 08:32 UTC  
+**Last Updated:** January 23, 2026 at 09:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,965.21
+### $2,945.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -11.1%  
-**30d:** +1.3%  
-**90d:** -29.3%  
-**1y:** -11.2%  
+**24h:** -2.4%  
+**7d:** -11.6%  
+**30d:** +0.8%  
+**90d:** -29.7%  
+**1y:** -11.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.25B
+**Market Cap:** $353.11B
 Rank #2
 
 **Circulating Supply:** 120,694,469 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.9%
 
 **All-Time Low:** $0.43
-+679909.9%
++675403.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-17h ago
+18h ago
 
 ---
 
@@ -152,6 +152,14 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 ## Google News: "ethereum"
 
+**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
+
+The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
+
+CoinDesk • 19h ago
+
+---
+
 **[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
@@ -160,41 +168,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
+**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
 
-What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
+Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
 
-AMBCrypto • 1d ago
-
----
-
-**[$2.3 Billion in Bitcoin and Ethereum Options Set to Expire—Is a Volatility Shock Looming?](https://finance.yahoo.com/news/2-3-billion-bitcoin-ethereum-050924650.html)**
-
-Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
-
-Yahoo Finance • 2h ago
-
----
-
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
-
-The Block • 15h ago
-
----
-
-**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
-
-A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
-
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
-
-Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
-
-Decrypt • 15h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,6 +198,20 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+
+A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+
+PYMNTS.com • 7h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqd022qr8-IluEjolFRjQn7d9U0gud2Pab1rQbc0XPHMBEOkfAzrMuI-&gaa_ts=69734399&gaa_sig=y_TWKBb87p0lJXvhs78S6KwCmN09lsxk1AcT_76nAgK02DhD-ocScgbw-wQC2eaHLrWlX1KTGiNijr80b1VTvQ%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
 
 It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
@@ -228,19 +220,17 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
+
+What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
+
+AMBCrypto • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 22K • 👍 1K • 💬 145 • ⏱️ 19:54 • 14h ago
-
----
 
 **[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
 
@@ -248,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 72 • 👍 6 • 💬 2 • ⏱️ 8:10 • 1h ago
+👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 2h ago
 
 ---
 
@@ -258,7 +248,17 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 818 • 💬 139 • ⏱️ 17:24 • 17h ago
+👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 18h ago
+
+---
+
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+
+📺 Coin Bureau
+
+👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 50 • 💬 12 • ⏱️ 18:28 • 16h ago
+👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 164 • ⏱️ 9:11 • 11h ago
+👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 12h ago
 
 ---
 
@@ -288,7 +288,17 @@ Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! M
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 370 • 💬 88 • ⏱️ 8:24 • 1d ago
+👁️ 10K • 👍 372 • 💬 88 • ⏱️ 8:24 • 1d ago
+
+---
+
+**[Brian Armstrong CONFIRMS Crypto Bull Run 🚀 Bitcoin &amp; Ethereum Outlook | Coinbase  LIVE](https://www.youtube.com/watch?v=7gedUbq0_1A)**
+
+Brian Armstrong, CEO of Coinbase, shares critical insights on the future of crypto markets. In this LIVE stream, we break down ...
+
+📺  S BENCH 
+
+👁️ 13K • 👍 4K • 1d ago
 
 ---
 
@@ -298,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 789 • 👍 71 • 💬 1 • ⏱️ 7:21 • 7h ago
+👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 8h ago
 
 ---
 
@@ -308,7 +318,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 34K • 👍 2K • 💬 162 • ⏱️ 9:51 • 14h ago
+👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 15h ago
 
 ---
 
@@ -318,17 +328,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 3K • 👍 15 • 💬 4 • ⏱️ 1:36 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pRMi1_ctyjM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 143 • 💬 5 • ⏱️ 7:34 • 18h ago
+👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 9h ago
 
 ---
 
