@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T10:26:57.044020+00:00'
+updated: '2026-01-23T10:53:28.945891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 10:26 UTC  
+**Last Updated:** January 23, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,150.18
+### $88,986.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -6.3%  
+**24h:** -0.9%  
+**7d:** -6.4%  
 **30d:** +1.9%  
 **90d:** -22.3%  
 **1y:** -15.0%  
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
+**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
 
-10h ago
+Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
+
+4h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-5h ago
-
----
-
-**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
-
-Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
-
-3h ago
+6h ago
 
 ---
 
@@ -105,13 +99,29 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-16h ago
+17h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-19h ago
+20h ago
+
+---
+
+**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
+
+Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
+
+9h ago
+
+---
+
+**[BTC vs USD](https://www.reddit.com/r/Bitcoin/comments/1qkfvy5/btc_vs_usd/)**
+
+BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
+
+7h ago
 
 ---
 
@@ -121,19 +131,9 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 ---
 
-**[BTC vs USD](https://www.reddit.com/r/Bitcoin/comments/1qkfvy5/btc_vs_usd/)**
+**[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
 
-BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
-
-6h ago
-
----
-
-**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
-
-Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
-
-9h ago
+1h ago
 
 ---
 
@@ -153,35 +153,35 @@ Just curious what would be your next best long term investment
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 23h ago
+ProPublica • 1d ago
 
 ---
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Bitcoin price analysis: BTC sharpe ratio sinks to levels seen during major drawdowns](https://www.coindesk.com/markets/2026/01/23/bitcoin-returns-fail-to-match-risks-just-like-2022)**
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
-The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
+Some fear massive consequences for financial markets.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Price Is Falling. Why the ‘Digital Gold’ Is Failing to Keep Up With the Precious Metal.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-gold-9a129bfd?gaa_at=eafs&gaa_n=AWEtsqf5lYZu588EgEAhWc-YFTtcCbOzt_92GmphCtH661W7F1geA79gT4ov&gaa_ts=69734396&gaa_sig=HNNjfB7bE9CPDCAJDhTF8IxnnLvp7y7enQvvV-mFXeDZ3NltqKDLqhQoqO-baji4VPBpBjKsA06covYqRYnsVA%3D%3D)**
-
-Barron's • 1h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[ETH, SOL and ADA slip as bitcoin fails to build momentum near $90,000](https://www.coindesk.com/markets/2026/01/23/eth-sol-and-ada-slip-as-bitcoin-fails-to-build-momentum-near-usd90-000)**
+**[Four-day U.S. BTC ETF outflows are largest since November, tend to mark local price bottoms](https://www.coindesk.com/markets/2026/01/23/u-s-bitcoin-etf-outflows-largest-since-november-may-signal-imminent-price-rebound)**
 
-Asian equities pushed higher and the dollar stayed under pressure, giving crypto a firmer footing after a volatile week.
+This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
 
-CoinDesk • 2h ago
+CoinDesk • 29m ago
+
+---
+
+**[Bitcoin price is falling. Why the ‘digital gold’ is failing to keep up with the precious metal](https://www.msn.com/en-us/money/markets/bitcoin-price-is-falling-why-the-digital-gold-is-failing-to-keep-up-with-the-precious-metal/ar-AA1UNvZG?ocid=finance-verthp-feeds)**
+
+MSN • 1h ago
 
 ---
 
@@ -318,7 +318,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 📺 Yahoo Finance
 
-👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 14h ago
+👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 12h ago
+👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 13h ago
 
 ---
 
@@ -368,7 +368,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 13h ago
+👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 14h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T10:26:57.052103+00:00'
+updated: '2026-01-23T10:53:28.955440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 10:26 UTC  
+**Last Updated:** January 23, 2026 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,15 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-8h ago
+9h ago
+
+---
+
+**[Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.reddit.com/r/robotics/comments/1qkk6gv/google_gemini_is_taking_control_of_humanoid/)**
+
+The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
+
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 3h ago
 
 ---
 
@@ -86,27 +94,19 @@ Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a ligh
 
 ---
 
+**[Writing help??](https://www.reddit.com/r/robotics/comments/1qkmoev/writing_help/)**
+
+Is there anyone on this subreddit who would be interested in being a robotics consultant for a writing project I’m working on? Idk if this is even the right subreddit to ask, but oh well. I’m basically looking for someone who knows a lot about robots and would be willing to answer a lot of stupid questions about them. Particularly Fnaf robots. I’m fully aware they’re not real robots, but I want to get closer to real ones. Also someone who’s a nerd about theoretical sentient ai. Sorry if this is off topic, mods feel free to delete this if I’m violating any rules, I won’t hold a grudge.
+
+1h ago
+
+---
+
 **[Precise Indoor Tracking In Narrow-Aisle Warehouses: Practical Lessons For Autonomous Inspection Robots](https://www.reddit.com/r/robotics/comments/1qkkk34/precise_indoor_tracking_in_narrowaisle_warehouses/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 2h ago
-
----
-
-**[Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.reddit.com/r/robotics/comments/1qkk6gv/google_gemini_is_taking_control_of_humanoid/)**
-
-The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
-
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 3h ago
-
----
-
-**[BEAVR Bench](https://www.reddit.com/r/robotics/comments/1qk04mm/beavr_bench/)**
-
-https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
-
-17h ago
+🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 3h ago
 
 ---
 
@@ -130,27 +130,27 @@ Microsoft • 1h ago
 
 ---
 
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 3d ago
+
+---
+
+**[Microsoft launches new AI model for real-world robotic learning](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model)**
+
+Microsoft believes adaptability defines intelligent machines, and Rho-alpha is built to prove that in physical systems.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
 CNBC • 1d ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 2d ago
-
----
-
-**[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
-
-Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
-
-Yahoo Finance • 19h ago
 
 ---
 
@@ -184,11 +184,9 @@ MarketBeat • 2d ago
 
 ---
 
-**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
+**[Mubadala targets opportunities in AI and robotics, CEO says](https://www.reuters.com/world/middle-east/mubadala-targets-opportunities-ai-robotics-ceo-says-2026-01-20/)**
 
-The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
-
-CBS News • 18h ago
+Reuters • 2d ago
 
 ---
 
@@ -212,7 +210,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 27K • 👍 981 • 💬 148 • ⏱️ 0:49 • 8h ago
+👁️ 27K • 👍 981 • 💬 148 • ⏱️ 0:49 • 9h ago
 
 ---
 
@@ -230,7 +228,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 Bernie Sanders
 
-👁️ 18K • 👍 2K • 💬 83 • ⏱️ 1:13 • 14h ago
+👁️ 18K • 👍 2K • 💬 83 • ⏱️ 1:13 • 15h ago
 
 ---
 

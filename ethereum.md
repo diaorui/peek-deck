@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T10:26:57.049281+00:00'
+updated: '2026-01-23T10:53:28.952115+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 10:26 UTC  
+**Last Updated:** January 23, 2026 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,945.91
+### $2,926.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -11.6%  
-**30d:** +0.8%  
-**90d:** -29.7%  
-**1y:** -11.6%  
+**24h:** -2.0%  
+**7d:** -11.4%  
+**30d:** +1.0%  
+**90d:** -29.6%  
+**1y:** -11.5%  
 
 ---
 
@@ -76,11 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Alternatives to Changelly for ETH Exchange?](https://www.reddit.com/r/ethereum/comments/1qkn9wi/alternatives_to_changelly_for_eth_exchange/)**
+
+Hey! I’m a Ledger wallet user looking for advice on swapping XMR to ETH. In the past, I had a swap where my funds got stuck for months on Changelly, which was stressful since I didn’t get any updates and wasn’t sure what was happening. I want to avoid that this time. I still need to swap about 110 XMR to ETH and I’m looking for a platform or method that’s reliable, fast, and secure. Ideally, I’d like to stay away from services where funds could get delayed or support is difficult to reach. Any tips, advice, or personal experiences would be really helpful. I just want to get this swap done safely and avoid unnecessary stress. Thanks in advance!
+
+29m ago
+
+---
+
 **[Taking back lost ground in computing self-sovereignty, beyond Ethereum](https://www.reddit.com/r/ethereum/comments/1qk7u95/taking_back_lost_ground_in_computing/)**
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-12h ago
+13h ago
 
 ---
 
@@ -136,15 +144,7 @@ In 2026, I plan to be fully back to decentralized social. If we want a better so
 
 We’ve published a 2025 crypto payments report based on on-chain payment data processed through CoinGate. Here are Ethereum-related observations from the data: Ethereum-network payments increased in 2025, with Ethereum accounting for 15.1% of all on-chain crypto payments, up from 11.2% in 2024. ETH was the most-used asset on Ethereum, representing 62.1% of payments on the network, followed by USDC at 26.6%. The average cart size for ETH payments was €99, close to the platform-wide average, with usage concentrated in digital services, software, and subscriptions. Overall, the data suggests Ethereum is increasingly being used as a payment network alongside its broader role in the ecosystem. What are your thoughts on these trends? Read the full yearly review: https://coingate.com/blog/post/crypto-payments-data-report-2025 https://preview.redd.it/c2v4lp08moeg1.png?width=2880&format=png&auto=webp&s=00b31d141b4f6d171c5f34eb7320e12569743c2b
 
-1d ago
-
----
-
-**[📅 Ethereal news calendar. Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines. Add to Google, Apple or download ICS.](https://www.reddit.com/r/ethereum/comments/1qigtqr/ethereal_news_calendar_calendar_of_ethereum/)**
-
-Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines.
-
-🔗 [ethereal.news](https://ethereal.news/calendar/) • 2d ago
+2d ago
 
 ---
 
@@ -182,11 +182,25 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
+
+Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
+
+Decrypt • 17h ago
+
+---
+
 **[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
 
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
 Finance Magnates • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfRGyN1MB2rxZkgR940suPrAkXmPxTxSftDZ8S2SeQ-1I8JFNDQZ3xl&gaa_ts=69735698&gaa_sig=pRIXiB4ts3omBNy6MBX-CJig6oDVRp5oDc49yLclkkMyO0bmAYNp3YOFFJTKRhdeDG67Q0xz3d7aVB9EvEULYA%3D%3D)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -203,20 +217,6 @@ TradingView — Track All Markets • 1d ago
 A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
 
 PYMNTS.com • 8h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqd022qr8-IluEjolFRjQn7d9U0gud2Pab1rQbc0XPHMBEOkfAzrMuI-&gaa_ts=69734399&gaa_sig=y_TWKBb87p0lJXvhs78S6KwCmN09lsxk1AcT_76nAgK02DhD-ocScgbw-wQC2eaHLrWlX1KTGiNijr80b1VTvQ%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
-**[Is This Fundamental Issue a Reason to Sell XRP, Ethereum, and Solana Right Now?](https://www.fool.com/investing/2026/01/20/is-this-fundamental-issue-a-reason-to-sell-xrp-eth/)**
-
-It's easy to wave your hand and say that most cryptocurrencies aren't worth anything, but it isn't true.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -278,7 +278,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 13h ago
+👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 10h ago
+👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 11h ago
 
 ---
 
