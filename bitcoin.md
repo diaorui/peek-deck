@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T14:53:40.657858+00:00'
+updated: '2026-01-23T15:27:45.186497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 14:53 UTC  
+**Last Updated:** January 23, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,590.86
+### $88,333.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -5.8%  
-**30d:** +2.5%  
-**90d:** -21.8%  
-**1y:** -14.5%  
+**24h:** +0.1%  
+**7d:** -6.3%  
+**30d:** +1.9%  
+**90d:** -22.3%  
+**1y:** -15.0%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-2h ago
+3h ago
+
+---
+
+**[Discipline is a lonely road...](https://www.reddit.com/r/Bitcoin/comments/1qksbbz/discipline_is_a_lonely_road/)**
+
+Everyone wants the green peaks, but few can stomach the long walk across the ice. While the colony is busy debating the next 1% move, the disciplined trader is miles away, sticking to the plan. Stop looking for consensus. Start looking for consistency.
+
+56m ago
 
 ---
 
@@ -103,35 +111,15 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 ---
 
+**[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
+
+1h ago
+
+---
+
 **[Time for my Chinese brothers and sisters to start buying!](https://www.reddit.com/r/Bitcoin/comments/1qkmpwz/time_for_my_chinese_brothers_and_sisters_to_start/)**
 
 5h ago
-
----
-
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
-
-1d ago
-
----
-
-**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
-
-Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
-
-13h ago
-
----
-
-**[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
-
-39m ago
-
----
-
-**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
-
-21h ago
 
 ---
 
@@ -143,15 +131,29 @@ Hi, for some info I have some stocks that're worth like 4k eur. And I have a dil
 
 ---
 
+**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
+
+Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
+
+14h ago
+
+---
+
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/?p=64523)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 1d ago
+ProPublica • 17h ago
 
 ---
 
@@ -185,7 +187,7 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqfI7bQIQRct98PHp3C5fbC_2FI-qOIR-_c5xu0OiC9WJuEbNXaVgYgm&gaa_ts=697388b1&gaa_sig=iPRFc9OZAc05j4tm99l2Erg59aTnB5JTb0rfN-GEM66NA3EfebUNH1gy_MmKvtMNkauuyMeYTN6mvtw_StjQgQ%3D%3D)**
+**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqcaifdL_YhaXDCli2-41IL9lBl3OFn_ftwUwwxMrIESuh2rsorDpMHf&gaa_ts=697396dc&gaa_sig=P87fzH2Z1FOM4qjgF_8w6JLEGEidE6gcdaPOpEPKf2QT_gUzi18fF4CENa_HPBdzRWumZiUEFpI8VsaqP3zH0Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -211,11 +213,11 @@ Fast Company • 2d ago
 
 ---
 
-**[Bitcoin and yen hold steady as Japan's inflation eases and BOJ keeps interest rates unchanged](https://www.coindesk.com/markets/2026/01/23/bitcoin-and-yen-hold-stead-as-japan-s-inflation-eases-and-bank-of-japan-keeps-interest-rates-unchanged)**
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
 
-The Bank of Japan held rates steady while revising inflation and growth projections higher.
+The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
-CoinDesk • 7h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -344,7 +346,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 3K • 💬 331 • ⏱️ 23:49 • 14h ago
+👁️ 25K • 👍 3K • 💬 331 • ⏱️ 23:49 • 15h ago
 
 ---
 
@@ -364,7 +366,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 252 • ⏱️ 36:02 • 23h ago
+👁️ 30K • 👍 2K • 💬 252 • ⏱️ 36:02 • 1d ago
 
 ---
 
@@ -384,7 +386,7 @@ Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade de
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 1K • 💬 35 • ⏱️ 17:34 • 23h ago
+👁️ 21K • 👍 1K • 💬 35 • ⏱️ 17:34 • 1d ago
 
 ---
 

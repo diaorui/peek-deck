@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T14:53:40.650563+00:00'
+updated: '2026-01-23T15:27:45.177971+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 14:53 UTC  
+**Last Updated:** January 23, 2026 at 15:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 16h ago
 
 ---
 
@@ -61,22 +61,6 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 ---
 
-**[Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)](https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/)**
-
-You can read more about how this was made here.
-
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 15h ago
-
----
-
-**[YouTube Says Creators Can Use AI-generated Likenesses in Shorts](https://www.reddit.com/r/artificial/comments/1qks4oh/youtube_says_creators_can_use_aigenerated/)**
-
-What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 30m ago
-
----
-
 **[I built a social network where only AI can post, follow, argue, and form relationships - no humans allowed](https://www.reddit.com/r/artificial/comments/1qkqyqe/i_built_a_social_network_where_only_ai_can_post/)**
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
@@ -85,11 +69,27 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
+**[Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)](https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/)**
+
+You can read more about how this was made here.
+
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 16h ago
+
+---
+
+**[YouTube Says Creators Can Use AI-generated Likenesses in Shorts](https://www.reddit.com/r/artificial/comments/1qks4oh/youtube_says_creators_can_use_aigenerated/)**
+
+What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 1h ago
+
+---
+
 **[Helpful AI channel for beginners and curious minds](https://www.reddit.com/r/artificial/comments/1qkq1y3/helpful_ai_channel_for_beginners_and_curious_minds/)**
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,37 +119,17 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 ## Google News: "ai"
 
-**[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
-The New York Times • 21h ago
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+
+blog.google • 23h ago
 
 ---
 
 **[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
 
 Axios • 12h ago
-
----
-
-**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
-
-Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
-
-The Guardian • 1h ago
-
----
-
-**[How Apple's Revamped AI Could Center on Wearables](https://www.cnet.com/tech/services-and-software/how-apples-revamped-ai-could-center-on-wearables/)**
-
-Commentary: Reports of a pin, new AirPods and a revamped Siri, along with a new Google partnership, point to a transformation that could lead to glasses or something even bigger.
-
-CNET • 52m ago
-
----
-
-**[How Meta Is Reshaping Its Organization for an AI Computing Blitz](https://www.theinformation.com/articles/meta-reshaping-organization-ai-computing-blitz)**
-
-The Information • 53m ago
 
 ---
 
@@ -161,31 +141,55 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[AI labs wage a reputational knife fight at Davos](https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos)**
+
+﻿The AI race is a turf war.
+
+The Verge • 47m ago
+
+---
+
+**[AI luminaries at Davos clash over how close human level intelligence really is](https://fortune.com/2026/01/23/deepmind-demis-hassabis-anthropic-dario-amodei-yann-lecun-ai-davos/)**
+
+Anthropic's Dario Amodei says it's coming soon. DeepMind's Demis Hassabis and former Meta chief scientist Yann LeCun think it's a more distant prospect
+
+Fortune • 5h ago
+
+---
+
+**[How the CEOs of AI leader Nvidia and drug giant Lilly drove a groundbreaking collaboration](https://www.bizjournals.com/sanfrancisco/news/2026/01/23/ai-nvidia-eli-lilly-artificial-intelligence-drugs.html)**
+
+The Business Journals • 42m ago
+
+---
+
+**[DoorDash Applies AI to Safety Across Chat and Calls, Cutting Incidents by 50%](https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/)**
+
+DoorDash deploys SafeChat, an AI-driven safety system for moderating chat, images, and voice calls between Dashers and customers. Using a layered text moderation architecture, machine learning models, and human review, SafeChat detects unsafe content in real time, enabling immediate actions and reducing low- and medium-severity safety incidents by roughly 50 percent.
+
+infoq.com • 27m ago
+
+---
+
+**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
+
+Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
+
+The Guardian • 1h ago
+
+---
+
 **[Advisors to the ultra rich say AI isn't a gamechanger for landing new clients](https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html)**
 
 Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.
 
 CNBC • 2h ago
-
----
-
-**[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
-
-The Economist • 1d ago
-
----
-
-**[Deloitte to scrap traditional job titles as AI ushers in a ‘modernization’ of the Big Four](https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/)**
-
-The changes at the Big Four consulting firm will apply to all of the company’s U.S. divisions.
-
-Fortune • 20h ago
-
----
-
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
-
-The New York Times • 8d ago
 
 ---
 
@@ -201,11 +205,19 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 ---
 
+**[AI Usage Policy](https://news.ycombinator.com/item?id=46730504)**
+
+👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
+
+⬆️ 340 • 💬 163 • 5h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+
+---
+
 **[eBay explicitly bans AI "buy for me" agents in user agreement update](https://news.ycombinator.com/item?id=46711574)**
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 319 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 320 • 💬 339 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -213,15 +225,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
 
-⬆️ 304 • 💬 265 • 2d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
-
----
-
-**[AI Usage Policy](https://news.ycombinator.com/item?id=46730504)**
-
-👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
-
-⬆️ 302 • 💬 147 • 5h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 304 • 💬 268 • 2d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
 ---
 
@@ -229,7 +233,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 The one where I get very annoyed with my email provider
 
-⬆️ 269 • 💬 173 • 7h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 299 • 💬 195 • 8h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -253,7 +257,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 135 • 💬 183 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 137 • 💬 194 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -291,7 +295,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 29K • 👍 758 • 💬 84 • ⏱️ 12:48 • 15h ago
+👁️ 29K • 👍 758 • 💬 84 • ⏱️ 12:48 • 16h ago
 
 ---
 
@@ -301,7 +305,7 @@ Quantum AI Cracked 3I/ATLAS's New Trajectory — What It Found Is Godlike Imagin
 
 📺 Spacialize
 
-👁️ 10K • 👍 324 • 💬 46 • ⏱️ 13:11 • 15h ago
+👁️ 10K • 👍 324 • 💬 46 • ⏱️ 13:11 • 16h ago
 
 ---
 
@@ -361,7 +365,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 9K • 👍 149 • 💬 110 • ⏱️ 13:05 • 22h ago
+👁️ 9K • 👍 149 • 💬 110 • ⏱️ 13:05 • 23h ago
 
 ---
 
@@ -399,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 623 • 13h ago
+⬇️ 17,010 • ❤️ 623 • 14h ago
 
 ---
 
@@ -435,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 265 • 14h ago
+⬇️ 145,992 • ❤️ 265 • 15h ago
 
 ---
 
@@ -684,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 979 • 33m ago
+⭐ 5.7k • 🔱 979 • 1h ago
 
 ---
 
@@ -694,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.1k • 3h ago
+⭐ 4.9k • 🔱 5.1k • 4h ago
 
 ---
 
@@ -722,7 +726,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 335 • 12h ago
+⭐ 2.3k • 🔱 335 • 13h ago
 
 ---
 

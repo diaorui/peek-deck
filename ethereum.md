@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T14:53:40.663004+00:00'
+updated: '2026-01-23T15:27:45.192585+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 14:53 UTC  
+**Last Updated:** January 23, 2026 at 15:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -11.3%  
-**30d:** +1.1%  
-**90d:** -29.4%  
-**1y:** -11.3%  
+**24h:** -0.6%  
+**7d:** -11.5%  
+**30d:** +0.8%  
+**90d:** -29.6%  
+**1y:** -11.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 2h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 3h ago
 
 ---
 
@@ -112,7 +112,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-23h ago
+1d ago
 
 ---
 
@@ -164,21 +164,15 @@ CoinDesk • 1d ago
 
 Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+**[Ether (ETH) outlook: Standard Chartered's Geoff Kendrick suggests buying the dip](https://www.coindesk.com/markets/2026/01/23/ethereum-s-latest-rally-may-have-staying-power-standard-chartered-says)**
 
-The Block • 1d ago
+Increasing transaction activity on Ethereum and Tom Lee's continued buying bode well for the crypto, which has tumbled from 2026 highs in recent days, said Geoff Kendrick.
 
----
-
-**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
-
-Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
-
-Finance Magnates • 2d ago
+CoinDesk • 38m ago
 
 ---
 
@@ -190,17 +184,23 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqdJYSqiIqLQWSzto8R2ejddgwxzo6T4ZE3u_Ovg77l5DvqCAUmc5l0w&gaa_ts=697388b3&gaa_sig=AlR-HhuVJoZUvH7kFJkUf5L2Bsrr3qWV-fcx74hAr4JxvWRLJpZgeDVZrpHeX2jkt_dtbvp3XLRHGyhOlt890A%3D%3D)**
+**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
-MarketWatch • 2d ago
+The Block • 1d ago
 
 ---
 
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqf2hfXrJcr7SLFSPHKW4m8lxNMOuDus81OG1eSbv1OdK4DJ3sjLYFHc&gaa_ts=697396de&gaa_sig=0SY2a9iSCCsxqHCt8qCYoVHqV9eMZCDuhMdzjcma5JauQCO_vMAO5GD_t3CWSLbGDwlY4Xl5EdrdIQ9fy8Zu7g%3D%3D)**
 
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
+MarketWatch • 3d ago
 
-TradingView — Track All Markets • 1d ago
+---
+
+**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
+
+Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
+
+Finance Magnates • 2d ago
 
 ---
 
@@ -212,19 +212,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+
+CryptoSlate • 19h ago
+
+---
+
 **[BlackRock, JPMorgan Among 35 Firms Building on Ethereum](https://cryptopotato.com/blackrock-jpmorgan-among-35-firms-building-on-ethereum/)**
 
 Institutions are using Ethereum to launch tokenized stocks, money market funds, stablecoins, and deposits.
 
 CryptoPotato • 2d ago
-
----
-
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
-
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
-
-CryptoSlate • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 115 • 💬 32 • ⏱️ 8:10 • 7h ago
+👁️ 2K • 👍 115 • 💬 32 • ⏱️ 8:10 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 899 • 💬 122 • ⏱️ 17:24 • 23h ago
+👁️ 25K • 👍 899 • 💬 122 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 1K • 💬 170 • ⏱️ 19:54 • 20h ago
+👁️ 29K • 👍 1K • 💬 170 • ⏱️ 19:54 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 58 • 💬 7 • ⏱️ 18:28 • 22h ago
+👁️ 2K • 👍 58 • 💬 7 • ⏱️ 18:28 • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 Ms WIT 
 
-👁️ 5K • 👍 3K • 2h ago
+👁️ 5K • 👍 3K • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 2 • ⏱️ 7:21 • 13h ago
+👁️ 1K • 👍 98 • 💬 2 • ⏱️ 7:21 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 183 • 👍 15 • 💬 1 • ⏱️ 5:49 • 4h ago
+👁️ 183 • 👍 15 • 💬 1 • ⏱️ 5:49 • 5h ago
 
 ---
 
