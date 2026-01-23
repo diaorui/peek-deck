@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T20:28:10.279565+00:00'
+updated: '2026-01-23T20:50:01.490053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 20:28 UTC  
+**Last Updated:** January 23, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1814.30B
+**Market Cap:** $1783.15B
 Rank #1
 
-**Circulating Supply:** 19,979,806 BTC
+**Circulating Supply:** 19,979,831 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-29.2%
 
 **All-Time Low:** $67.81
-+133802.1%
++131472.0%
 
 ---
 
@@ -93,7 +93,7 @@ Who's next?
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Who's next?
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-1h ago
+2h ago
 
 ---
 
@@ -109,13 +109,13 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-13h ago
+14h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
 
-4h ago
+5h ago
 
 ---
 
@@ -163,13 +163,13 @@ CoinDesk • 23h ago
 
 The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
 **[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeTY32keEQj4I_LQahdRRS-vTR662Vl35VZDQMakGDzYqrueHpUSuNr&gaa_ts=6973dd49&gaa_sig=J84_b0WY83QHjyx-K_046jhACzB7_fDdS4mlMiRNlg1Ul71asK0PFrFLWYDZKP0eWc0g6CCno4qO-IZUpNDsUQ%3D%3D)**
 
-MarketWatch • 12m ago
+MarketWatch • 34m ago
 
 ---
 
@@ -177,7 +177,7 @@ MarketWatch • 12m ago
 
 Silver just hit an all-time high amid macro uncertainty. Here’s what the rally signals for Bitcoin’s price direction.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -306,23 +306,13 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 22h ago
-
----
-
 **[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
 
 Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
 
 📺 CNBC Television
 
-👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 6h ago
+👁️ 8K • 👍 219 • 💬 107 • ⏱️ 2:12 • 6h ago
 
 ---
 
@@ -332,7 +322,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 967 • 💬 107 • ⏱️ 32:17 • 4h ago
+👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 5h ago
+
+---
+
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
+
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
+
+📺 Swan Bitcoin
+
+👁️ 54K • 👍 2K • 💬 283 • ⏱️ 16:21 • 23h ago
 
 ---
 
@@ -342,27 +342,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 6h ago
-
----
-
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
-
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 20h ago
-
----
-
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
-
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
-
-📺 The Sat Stacker Show
-
-👁️ 4K • 👍 244 • 💬 74 • ⏱️ 14:22 • 1d ago
+👁️ 20K • 👍 1K • 💬 97 • ⏱️ 12:29 • 6h ago
 
 ---
 
@@ -372,7 +352,27 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 249 • 💬 80 • ⏱️ 10:27 • 1d ago
+👁️ 12K • 👍 253 • 💬 86 • ⏱️ 10:27 • 1d ago
+
+---
+
+**[BIG Trade Incoming On Bitcoin And Altcoins!! (GET READY)](https://www.youtube.com/watch?v=OBRDMlKWV7M)**
+
+Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In this video, Sheldon breaks down the key levels and ...
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 768 • 💬 26 • ⏱️ 47:33 • 9h ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 3K • 💬 366 • ⏱️ 23:49 • 20h ago
 
 ---
 
@@ -382,27 +382,27 @@ Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 9h ago
+👁️ 12K • 👍 717 • 💬 87 • ⏱️ 18:28 • 9h ago
 
 ---
 
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
 
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
 
-📺 Altcoin Daily
+📺 The Sat Stacker Show
 
-👁️ 21K • 👍 440 • 💬 116 • ⏱️ 1:16 • 2d ago
+👁️ 4K • 👍 247 • 💬 75 • ⏱️ 14:22 • 1d ago
 
 ---
 
-**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
+**[BE READY: This Bitcoin Level Reveals Everything!](https://www.youtube.com/watch?v=dPK2JQIJkkE)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Introduction 0:00-1:08 Bitunix Exchage 1:08-2:00 Why Is Gold Moving While Bitcoin Drops? 2:00-5:08 How To Trade Short Term?
 
-📺 CryptosRUs
+📺 Wolves of Crypto
 
-👁️ 30K • 👍 2K • 💬 249 • ⏱️ 36:02 • 1d ago
+👁️ 2K • 👍 137 • 💬 59 • ⏱️ 15:10 • 9h ago
 
 ---
 

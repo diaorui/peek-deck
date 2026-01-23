@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T20:28:10.288742+00:00'
+updated: '2026-01-23T20:50:01.503634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 20:28 UTC  
+**Last Updated:** January 23, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked our first ever regional ROSCon in South Korea!                Our ROS social calendar has filled back up again. There is a Gazebo Community Meeting on Forest3D next Wednesday and ROS By-The-Bay with Main Street Autonomy and @skye.galaxy next Thursday. The following week there is a robotics Dev room at FOSDEM and a Dronecode Meetup in Leuven, Belgium. This week we also announced a ROS Singapore Meetup...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 10m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 32m ago
 
 ---
 
@@ -148,7 +148,7 @@ AgFunderNews • 1d ago
 
 Answering the question, "Why move two-pound burritos in two-ton cars?" a Redwood City company has built autonomous sidewalk delivery robots already completing orders in several cities and is hoping for a commercial launch in San Francisco soon.
 
-abc7news.com • 51m ago
+abc7news.com • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 6K • 👍 69 • 💬 50 • ⏱️ 2:47 • 1d ago
+👁️ 7K • 👍 69 • 💬 51 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 39K • 👍 1K • 💬 205 • ⏱️ 0:49 • 18h ago
+👁️ 40K • 👍 1K • 💬 215 • ⏱️ 0:49 • 19h ago
 
 ---
 
@@ -226,41 +226,21 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 21K • 👍 2K • 💬 94 • ⏱️ 1:13 • 1d ago
-
----
-
-**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
-
-The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 78 • 💬 4 • ⏱️ 0:32 • 2d ago
-
----
-
 **[NEW Robot AMMIT takes over War Robots now! (FULL REVIEW)](https://www.youtube.com/watch?v=D9OQisokKgU)**
 
 War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #warrobotsgameplay #wr My Best-Of-War ...
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 391 • 💬 109 • ⏱️ 28:24 • 6h ago
+👁️ 6K • 👍 482 • 💬 122 • ⏱️ 28:24 • 7h ago
 
 ---
 
-**[This Robot is Learning to Disassemble Your Appliances](https://www.youtube.com/watch?v=-xbTJk3EIkQ)**
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
 
-This robot isn't recycling your appliances — it's learning how to take them apart to reuse the best parts. Panasonic's AI-driven ...
+📺 Bernie Sanders
 
-📺 Undecided with Matt Ferrell
-
-👁️ 35K • 👍 2K • 💬 107 • ⏱️ 1:51 • 2d ago
+👁️ 22K • 👍 2K • 💬 101 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -274,23 +254,43 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 ---
 
+**[This Robot is Learning to Disassemble Your Appliances](https://www.youtube.com/watch?v=-xbTJk3EIkQ)**
+
+This robot isn't recycling your appliances — it's learning how to take them apart to reuse the best parts. Panasonic's AI-driven ...
+
+📺 Undecided with Matt Ferrell
+
+👁️ 36K • 👍 2K • 💬 108 • ⏱️ 1:51 • 2d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 3.7M • 👍 37K • 💬 2K • ⏱️ 33:05 • 5d ago
+
+---
+
 **[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
 
 About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 151 • 💬 11 • ⏱️ 0:47 • 1d ago
+👁️ 14K • 👍 155 • 💬 11 • ⏱️ 0:47 • 1d ago
 
 ---
 
-**[AI technologies are scary](https://www.youtube.com/watch?v=VKfK94ivBd4)**
+**[NEW Hastatus Pilot Has Double Legendary Skills… #1 Robot Gets STRONGER | War Robots](https://www.youtube.com/watch?v=TVvEZK5HNPs)**
 
-CES 2026 Las Vegas Convention Center. Dobot robot dinosaur at CES 2026 las vegas. Realistic robots. Experience the future of ...
+New hastatus legendary pilot. The Hastatus was the best robot in the game, until 2 days ago and the ammit arrived. But now the ...
 
-📺 The Laughing Lion
+📺 PREDATOR WR
 
-👁️ 8K • 👍 55 • 💬 3 • ⏱️ 0:08 • 3d ago
+👁️ 9K • 👍 411 • 💬 44 • ⏱️ 15:08 • 1d ago
 
 ---
 

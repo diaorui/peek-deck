@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T20:28:10.271197+00:00'
+updated: '2026-01-23T20:50:01.476795+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 20:28 UTC  
+**Last Updated:** January 23, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-9h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ If you’re trying to get a better understanding of AI (without needing a comput
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 1h ago
 
 **[‘Wake up, AI is for real.’ IMF chief warns of an AI ‘tsunami’ coming for young people and entry-level jobs](https://www.msn.com/en-us/money/markets/wake-up-ai-is-for-real-imf-chief-warns-of-an-ai-tsunami-coming-for-young-people-and-entry-level-jobs/ar-AA1UQ0xe)**
 
-MSN • 53m ago
+MSN • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ WIRED • 4h ago
 
 LLMs have their limits.
 
-Gizmodo • 32m ago
+Gizmodo • 54m ago
 
 ---
 
@@ -167,7 +167,7 @@ Gizmodo • 32m ago
 
 New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -175,7 +175,7 @@ TechCrunch • 22h ago
 
 The pause will start rolling out in the coming weeks.
 
-The Verge • 37m ago
+The Verge • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ CNET • 6h ago
 
 Apple, OpenAI, Meta, and more are all racing toward AI hardware products.
 
-Ars Technica • 22h ago
+Ars Technica • 23h ago
 
 ---
 
@@ -275,7 +275,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 120 • 💬 76 • 1h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 120 • 💬 76 • 2h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -289,7 +289,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 6K • 👍 76 • 💬 43 • ⏱️ 16:31 • 1d ago
+👁️ 6K • 👍 80 • 💬 43 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -299,27 +299,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 21h ago
-
----
-
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
-
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 973 • 💬 76 • ⏱️ 15:40 • 1d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
-
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
-
-📺 Love And Peace
-
-👁️ 453K • 👍 1K • 💬 25 • ⏱️ 11:47 • 2d ago
+👁️ 40K • 👍 911 • 💬 100 • ⏱️ 12:48 • 21h ago
 
 ---
 
@@ -329,7 +309,17 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 62K • 👍 700 • 💬 408 • ⏱️ 6:52 • 1d ago
+👁️ 64K • 👍 731 • 💬 425 • ⏱️ 6:52 • 1d ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 118K • 👍 1K • 💬 334 • ⏱️ 9:36 • 2d ago
 
 ---
 
@@ -339,7 +329,7 @@ Build Your First Successful Channel - https://www.skool.com/scalable-creator-os-
 
 📺 BigStepsMedia
 
-👁️ 5K • 👍 211 • 💬 10 • ⏱️ 8:40 • 1d ago
+👁️ 5K • 👍 212 • 💬 10 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -349,7 +339,17 @@ YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTu
 
 📺 Deep Humor
 
-👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 23h ago
+👁️ 20K • 👍 2K • 💬 516 • ⏱️ 9:46 • 23h ago
+
+---
+
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 983 • 💬 76 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -369,17 +369,17 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 9K • 👍 153 • 💬 107 • ⏱️ 13:05 • 1d ago
+👁️ 9K • 👍 154 • 💬 107 • ⏱️ 13:05 • 1d ago
 
 ---
 
-**[The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Love And Peace
 
-👁️ 28K • 👍 2K • 💬 215 • ⏱️ 22:07 • 1d ago
+👁️ 465K • 👍 1K • 💬 26 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,052 • 3d ago
+⬇️ 199,346 • ❤️ 1,061 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 669 • 19h ago
+⬇️ 17,010 • ❤️ 683 • 19h ago
 
 ---
 
@@ -419,7 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 350 • 2d ago
+⬇️ 4,644 • ❤️ 359 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 508 • 8d ago
+⬇️ 60,736 • ❤️ 510 • 8d ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 271 • 20h ago
+⬇️ 145,992 • ❤️ 274 • 20h ago
 
 ---
 
@@ -465,7 +465,19 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 11,681 • ❤️ 965 • 8d ago
+⬇️ 11,681 • ❤️ 966 • 8d ago
+
+---
+
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+
+*Qwen*
+
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
+
+`1.9B`
+
+⬇️ 4,244 • ❤️ 215 • 15h ago
 
 ---
 
@@ -481,27 +493,15 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 ---
 
-**[FLUX.2-klein-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B)**
+**[Step3-VL-10B](https://huggingface.co/stepfun-ai/Step3-VL-10B)**
 
-*Black Forest Labs*
+*StepFun*
 
-FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified image generation and editing. It delivers state-of-the-art quality with sub-second inference on consumer GPUs, supporting text-to-image and multi-reference image editing for interactive and latency-critical applications.
+STEP3-VL-10B is a 10B parameter vision-language model excelling in visual perception and complex reasoning, outperforming larger models through unified pre-training and parallel reasoning techniques. Its primary use cases include advanced multimodal understanding and generation tasks.
 
-`image-to-image`
+`image-text-to-text` `10.2B`
 
-⬇️ 49,287 • ❤️ 319 • 8d ago
-
----
-
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
-
-*Qwen*
-
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
-
-`1.9B`
-
-⬇️ 4,244 • ❤️ 202 • 15h ago
+⬇️ 35,694 • ❤️ 281 • 18h ago
 
 ---
 
@@ -517,7 +517,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 15 • 💬 0 • ⭐ 1,424 • 1d ago
+▲ 18 • 💬 0 • ⭐ 1,424 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -541,23 +541,9 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 35 • 💬 4 • ⭐ 1,604 • 8d ago
+▲ 35 • 💬 4 • ⭐ 1,686 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
-
----
-
-**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
-
-*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
-
-🏢 AutoLab
-
-RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
-
-▲ 41 • 💬 2 • ⭐ 198 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
 ---
 
@@ -575,6 +561,20 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 ---
 
+**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
+
+*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
+
+🏢 AutoLab
+
+RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
+
+▲ 41 • 💬 2 • ⭐ 228 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -583,7 +583,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 142 • 💬 6 • ⭐ 21,137 • 5mo ago
+▲ 143 • 💬 6 • ⭐ 21,137 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -595,7 +595,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 158 • 💬 3 • ⭐ 4,584 • 6mo ago
+▲ 159 • 💬 3 • ⭐ 4,584 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -609,7 +609,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 154 • 💬 4 • ⭐ 266 • 5d ago
+▲ 155 • 💬 4 • ⭐ 266 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -622,7 +622,7 @@ Agentic reasoning redefines large language models as autonomous agents capable o
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 31 • 💬 1 • ⭐ 68,299 • 28mo ago
+▲ 32 • 💬 1 • ⭐ 68,299 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -636,7 +636,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Representation Autoencoders (RAEs) demonstrate superior performance over VAEs in large-scale text-to-image generation, showing improved stability, faster convergence, and better quality while enabling unified multimodal reasoning in shared representation spaces.
 
-▲ 34 • 💬 1 • ⭐ 45 • 1d ago
+▲ 38 • 💬 1 • ⭐ 45 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.16208) • [💻 code](https://github.com/ZitengWangNYU/Scale-RAE) • [🔗 project](https://rae-dit.github.io/scale-rae/)
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 526 • 1h ago
+⭐ 9.9k • 🔱 527 • 58m ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 3h ago
+⭐ 9.6k • 🔱 1.3k • 22m ago
 
 ---
 
@@ -672,7 +672,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 441 • 2d ago
+⭐ 8.6k • 🔱 443 • 2d ago
 
 ---
 
@@ -682,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.2k • 🔱 857 • 17h ago
+⭐ 7.2k • 🔱 857 • 18h ago
 
 ---
 
@@ -712,7 +712,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.9k • 🔱 431 • 1d ago
+⭐ 4.0k • 🔱 434 • 1d ago
 
 ---
 
@@ -720,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 211 • 17h ago
+⭐ 2.6k • 🔱 213 • 18h ago
 
 ---
 
@@ -740,7 +740,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 164 • 11h ago
+⭐ 2.0k • 🔱 164 • 12h ago
 
 ---
 
