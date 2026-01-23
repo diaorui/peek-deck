@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T21:22:39.015496+00:00'
+updated: '2026-01-23T21:43:51.026999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 21:22 UTC  
+**Last Updated:** January 23, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,947.72
+### $89,510.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -5.6%  
-**30d:** +2.7%  
-**90d:** -21.6%  
-**1y:** -14.2%  
+**24h:** +0.1%  
+**7d:** -6.0%  
+**30d:** +2.3%  
+**90d:** -22.0%  
+**1y:** -14.7%  
 
 ---
 
@@ -83,11 +83,17 @@ Rank #1
 
 ---
 
-**[Untealized winnings are going to be taxed in NL](https://www.reddit.com/r/Bitcoin/comments/1qkzk89/untealized_winnings_are_going_to_be_taxed_in_nl/)**
+**[This will be my last post](https://www.reddit.com/r/Bitcoin/comments/1ql2w0u/this_will_be_my_last_post/)**
 
-Who's next?
+only the people from yesterday will understand these photos and the back story. obviously I dont feel comfortable with any of this. But i carry and im always ready. i've been advised to not post anything else, but i've been a part of the reddit community for a long time, and I know when a reach around is owed.. thank you to everyone who helped and pointed me in the right directions.. I love you all. So here it is and also goodbye...... when I reach out again. You will know
 
-2h ago
+41m ago
+
+---
+
+**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
+
+45m ago
 
 ---
 
@@ -101,7 +107,7 @@ Who's next?
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-2h ago
+3h ago
 
 ---
 
@@ -115,19 +121,11 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
-
-7h ago
-
----
-
-**[I have 800 euros that I won't need. Should I put it in BTC?](https://www.reddit.com/r/Bitcoin/comments/1qkr97u/i_have_800_euros_that_i_wont_need_should_i_put_it/)**
-
-Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
 7h ago
 
@@ -139,17 +137,25 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 ---
 
-**[How much is 0.00018 BTC worth in your country?](https://www.reddit.com/r/Bitcoin/comments/1qku07s/how_much_is_000018_btc_worth_in_your_country/)**
+**[I have 800 euros that I won't need. Should I put it in BTC?](https://www.reddit.com/r/Bitcoin/comments/1qkr97u/i_have_800_euros_that_i_wont_need_should_i_put_it/)**
 
-In my country it's approx. the same as 1 Big Mac menu. But to my great great grandchildren, 0.00018 BTC will be equal to approx. 2 weeks of worldwide release of new bitcoin, a hundred years from now. All the worlds BTC miningpools combined effort to dig out more bitcoin for 14 days straight, just went into my belly in 10 minuts today. Yum. This is the reason I have made a method, a chain to pass some BTC to the future - because I can certainly skip a meal to give my descendants a chance for a financial boost, even though I wont be around myself. I believe that, if left to faith - there probably won't be any bitcoin left for my family by 2126 because life just generates all kinds of obstacles in its way. Not even 0,00018 BTC, not even a Big Mac meal. Will your family own any bitcoin in 2126?
+Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-5h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+
+ProPublica • 23h ago
+
+---
 
 **[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
 
@@ -159,47 +165,39 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC 'sharpe ratio' sinks to levels last seen during major drawdowns](https://www.coindesk.com/markets/2026/01/23/bitcoin-returns-fail-to-match-risks-just-like-2022)**
+**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
 
-The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
-
-CoinDesk • 13h ago
-
----
-
-**[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeTY32keEQj4I_LQahdRRS-vTR662Vl35VZDQMakGDzYqrueHpUSuNr&gaa_ts=6973dd49&gaa_sig=J84_b0WY83QHjyx-K_046jhACzB7_fDdS4mlMiRNlg1Ul71asK0PFrFLWYDZKP0eWc0g6CCno4qO-IZUpNDsUQ%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[Silver Hits All-Time High, But What Does It Signal For Bitcoin’s Next Move?](https://finance.yahoo.com/news/silver-hits-time-high-does-194812642.html)**
-
-Silver just hit an all-time high amid macro uncertainty. Here’s what the rally signals for Bitcoin’s price direction.
+Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[CZ says bitcoin will ‘break’ 4-year cycle as global crypto support grows](https://www.coindesk.com/business/2026/01/23/binance-s-changpeng-zhao-says-bitcoin-will-break-the-four-year-cycle-this-year)**
+**[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeZ9ouTjqZQS8U8pky_edQPJ5devXHaOwITgyPgO9wKD_FiZlfsQkP9&gaa_ts=6973eeff&gaa_sig=dnAp5c_07Say4eUCJt4Jc0TqWWegB6ixbhNvfYVrfuGlSLr2bv3MLDkQs0oefME1DoZ-muHSs6caEWGdCUoPwA%3D%3D)**
 
-CoinDesk • 3h ago
-
----
-
-**[Why The Famous Bitcoin 4-Year Cycle Is Officially Dead—And What Comes Next Could Shock You](https://bitcoinmagazine.com/business/epoch-ventures-predicts-bitcoin-hits-150k-in-2026-declares-end-of-4-year-halving-cycle)**
-
-Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
-
-Bitcoin Magazine • 8h ago
+MarketWatch • 1h ago
 
 ---
 
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+**[Oklahoma Considers Bitcoin Pay Option For State Employees](https://bitcoinmagazine.com/news/oklahoma-bill-allow-state-bitcoin-pay)**
 
-Some fear massive consequences for financial markets.
+Oklahoma proposed a bill letting employees, vendors, and residents voluntarily receive bitcoin payments within existing legal frameworks.
 
-The Motley Fool • 11h ago
+Bitcoin Magazine • 2h ago
+
+---
+
+**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
+
+Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -209,15 +207,17 @@ The Block • 1d ago
 
 ---
 
-**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate)**
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
-The Block • 1d ago
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
+
+wtop.com • 1d ago
 
 ---
 
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqdHUavhyuty8MDJxe1K6CE0BTx2sWUGQVhV_NY6ca8wiPwWTEB5RFny&gaa_ts=6973eeff&gaa_sig=Ui3oZ3bwCIApuiutVF-KP4VXVMQh6wrCW6xXYv3NiXkNkAhAx07-ZZbVmu2EFaKlA3yOvTFl4eULqJ7l-hk3-g%3D%3D)**
 
-Bloomberg.com • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 5h ago
+👁️ 17K • 👍 1K • 💬 123 • ⏱️ 32:17 • 6h ago
 
 ---
 

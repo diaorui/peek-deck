@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T21:22:39.024797+00:00'
+updated: '2026-01-23T21:43:51.036632+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 21:22 UTC  
+**Last Updated:** January 23, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-2h ago
+3h ago
 
 ---
 
@@ -62,17 +62,17 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 ---
 
-**[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
-
-19h ago
-
----
-
 **[ROS News for the Week of January 19th, 2026](https://www.reddit.com/r/robotics/comments/1ql1plp/ros_news_for_the_week_of_january_19th_2026/)**
 
 ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked our first ever regional ROSCon in South Korea!                Our ROS social calendar has filled back up again. There is a Gazebo Community Meeting on Forest3D next Wednesday and ROS By-The-Bay with Main Street Autonomy and @skye.galaxy next Thursday. The following week there is a robotics Dev room at FOSDEM and a Dronecode Meetup in Leuven, Belgium. This week we also announced a ROS Singapore Meetup...
 
 🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 1h ago
+
+---
+
+**[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
+
+19h ago
 
 ---
 
@@ -120,6 +120,22 @@ Microsoft • 6h ago
 
 ---
 
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 2d ago
+
+---
+
+**[Microsoft launches new AI model for real-world robotic learning](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model)**
+
+Microsoft believes adaptability defines intelligent machines, and Rho-alpha is built to prove that in physical systems.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
@@ -136,6 +152,14 @@ The Robot Report • 3h ago
 
 ---
 
+**[Thomas Pilz on innovation and safety in robotics](https://www.therobotreport.com/thomas-pilz-on-innovation-and-safety-in-robotics/)**
+
+The podcast guest this week is Thomas Pilz, managing partner of Pilz GmbH & Co. KG.
+
+The Robot Report • 51m ago
+
+---
+
 **[Saga Robotics bets big on US vineyards with new GM, fresh capital](https://agfundernews.com/saga-robotics-bets-big-on-us-vineyards-with-new-gm-fresh-capital-for-uv-c-bots-chemical-free-winegrowing-is-the-holy-grail)**
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
@@ -148,15 +172,7 @@ AgFunderNews • 1d ago
 
 Answering the question, "Why move two-pound burritos in two-ton cars?" a Redwood City company has built autonomous sidewalk delivery robots already completing orders in several cities and is hoping for a commercial launch in San Francisco soon.
 
-abc7news.com • 1h ago
-
----
-
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
-
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 2d ago
+abc7news.com • 2h ago
 
 ---
 
@@ -173,22 +189,6 @@ Financial Times • 3d ago
 SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
 
 Yahoo Finance • 2d ago
-
----
-
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
-
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
-
-Business Insider • 1d ago
-
----
-
-**[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
-
-Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
-
-Fox Business • 22h ago
 
 ---
 
@@ -212,7 +212,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 40K • 👍 1K • 💬 215 • ⏱️ 0:49 • 19h ago
+👁️ 40K • 👍 1K • 💬 215 • ⏱️ 0:49 • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #w
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 482 • 💬 122 • ⏱️ 28:24 • 7h ago
+👁️ 6K • 👍 482 • 💬 122 • ⏱️ 28:24 • 8h ago
 
 ---
 

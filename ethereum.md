@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T21:22:39.021542+00:00'
+updated: '2026-01-23T21:43:51.033202+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 21:22 UTC  
+**Last Updated:** January 23, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -10.7%  
-**30d:** +1.8%  
-**90d:** -29.0%  
-**1y:** -10.7%  
+**24h:** -0.3%  
+**7d:** -11.1%  
+**30d:** +1.3%  
+**90d:** -29.3%  
+**1y:** -11.2%  
 
 ---
 
@@ -100,14 +100,6 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ---
 
-**[Do airdrops actually help build real communities anymore, or is it all just farming now?](https://www.reddit.com/r/ethereum/comments/1qkyf2j/do_airdrops_actually_help_build_real_communities/)**
-
-I'm a part of a team that has created an ERC-20 token, and we're designing an airdrop to build a community around it. Right now we're struggling with things like: - how much friction is too much for legit users - how little friction invites bots - whether instant claims are even worth it anymore We're ready to start promoting our project on X/Twitter, but I’d like to hear from people who actually participate in these airdrops: - What made you feel comfortable interacting with a new project? - And what were the biggest red flags? I can't post links here, so if anyone’s curious about what we're working on, I can share in comments and it's also linked on my profile. Thanks!
-
-3h ago
-
----
-
 **[Daily General Discussion January 22, 2026](https://www.reddit.com/r/ethereum/comments/1qjmmhb/daily_general_discussion_january_22_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -148,31 +140,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Back to decentralized social in 2026](https://www.reddit.com/r/ethereum/comments/1qis2l9/back_to_decentralized_social_in_2026/)**
+
+In 2026, I plan to be fully back to decentralized social. If we want a better society, we need better mass communication tools. We need mass communication tools that surface the best information and arguments and help people find points of agreement. We need mass communication tools that serve the user's long-term interest, not maximize short-term engagement. There is no simple trick that solves these problems. But there is one important place to start: more competition. Decentralization is the way to enable that: a shared data layer, with anyone being able to build their own client on top. In fact, since the start of the year I've been back to decentralized social already. Every post I've made this year, or read this year, I made or read with https://firefly.social/, a multi-client that covers reading and posting to X, Lens, Farcaster and Bluesky (though bluesky has a 300 char limit, so they don't get to see my beautiful long rants). But crypto social projects has often gone the wrong way. Too often, we in crypto think that if you insert a speculative coin into something, that counts as "innovating", and moves the world forward. Mixing money and social is not inherently wrong: Substack shows that it's possible to create an economy that supports very high-quality content. But Substack is about subscribing to creators, not creating price bubbles around them. Over the past decade, we have seen many many attempts at incentivizing creators by creating price bubbles around them, and all fail by (i) rewarding not content quality, but pre-existing social capital, and (ii) the tokens all going to zero after one or two years anyway. Too many people make galaxy-brained arguments that creating new markets and new assets is automatically good because it "elicits information", when the rest of their product development actions clearly betray that they're not actually interested in maximizing people's ability to benefit from that information. That is not Hayekian info-utopia, that is corposlop. Hence, decentralized social should be run by people who deeply believe in the "social" part, and are motivated first and foremost by solving the problems of social. The Aave team has done a great job stewarding Lens up to this point. I'm excited about what will happen to Lens over the next year, because I think the new team coming in are people who actually are interested in the "social": even back when the decentralized social space barely existed, they were trying to figure out how to do encrypted tweets. I plan to post more there this year. I encourage everyone to spend more time in Lens, Farcaster and the broader decentralized social world this year. We need to move beyond everyone constantly tweeting inside a single global info warzone, and into a reopened frontier, where new and better forms of interaction become possible. (Note: my understanding is that Reddit the platform is hostile to third-party clients and APIs, which is why Firefly does not currently support it. I hope that changes!)
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
+**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
-Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
+BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
 Decrypt • 1d ago
 
 ---
 
-**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
 
-Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
-TradingView — Track All Markets • 8h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[UBS Planning Bitcoin, Ethereum Trading for Some Wealthy Clients: Bloomberg](https://finance.yahoo.com/news/ubs-planning-bitcoin-ethereum-trading-165246603.html)**
+**[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
 
-UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
-
-Yahoo Finance • 4h ago
+99Bitcoins • 1d ago
 
 ---
 
@@ -198,12 +196,6 @@ The Block • 1d ago
 
 ---
 
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
-
-CCN.com • 10h ago
-
----
-
 **[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
 
 A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
@@ -212,19 +204,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://finance.yahoo.com/news/blackrock-ethereum-anchoring-wall-streets-225829049.html)**
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-The Ethereum network underpins 65% of tokenized assets, BlackRock said in its 2026 thematic outlook.
-
-Yahoo Finance • 1d ago
+CCN.com • 11h ago
 
 ---
 
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
 
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
-CryptoSlate • 1d ago
+TradingView — Track All Markets • 8h ago
+
+---
+
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
+
+Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
+
+Decrypt • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 900 • 👍 69 • 💬 2 • ⏱️ 4:35 • 5h ago
+👁️ 900 • 👍 69 • 💬 2 • ⏱️ 4:35 • 6h ago
 
 ---
 
@@ -298,7 +296,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 76 • 👍 2 • 💬 1 • ⏱️ 6:07 • 1h ago
+👁️ 76 • 👍 2 • 💬 1 • ⏱️ 6:07 • 2h ago
 
 ---
 
@@ -328,7 +326,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 21h ago
+👁️ 5K • 👍 20 • 💬 4 • ⏱️ 1:36 • 22h ago
 
 ---
 
