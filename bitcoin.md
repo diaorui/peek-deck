@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T06:37:19.980923+00:00'
+updated: '2026-01-23T07:26:46.838478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 06:37 UTC  
+**Last Updated:** January 23, 2026 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.68B
+**Market Cap:** $1787.71B
 Rank #1
 
-**Circulating Supply:** 19,979,509 BTC
+**Circulating Supply:** 19,979,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-29.0%
 
 **All-Time Low:** $67.81
-+132442.4%
++131936.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 So I bought this video game at an estate sale and was trying to piece it back together. inside they're saying it's a wallet. just trying to get some clarity on what I should do with this thing next. i want to just put it on ebay and see what it goes for because I know nothing about digital wallets. how i found it just like that in the baggie at the estate sale
 
-34m ago
+1h ago
 
 ---
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ So I bought this video game at an estate sale and was trying to piece it back to
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-5h ago
+6h ago
 
 ---
 
@@ -151,7 +151,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 8h ago
+ProPublica • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 1d ago
 
 Internal audit showed the coins were likely lost via a phishing attack during official storage, according to local media reports.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1h ago
 
 Bitcoin’s slide below $90,000 has pushed on-chain realized profit metrics into negative territory, a level last seen before the previous bear market.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 40m ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 21h ago
+wtop.com • 22h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 **[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqfaYYCNXchRfTwbcDNxuDnH_BNo7mOSgxSmM5ARihd6lStQ4HlqNO4Y&gaa_ts=69731a8e&gaa_sig=oFGcEDC9jxqPUeJGv7mVTCq6UNtgZWns-X7Mc7y1XfCi6orO7hGewaM6jf8P38_Gvwu3jKacTB_CGG2lHea9Jg%3D%3D)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 16h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 17h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -316,27 +316,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 8h ago
-
----
-
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
-
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 141 • 💬 107 • ⏱️ 10:27 • 10h ago
-
----
-
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
-
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
-
-📺 The Sat Stacker Show
-
-👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 17h ago
+👁️ 29K • 👍 2K • 💬 208 • ⏱️ 16:21 • 9h ago
 
 ---
 
@@ -346,17 +326,27 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 6h ago
+👁️ 18K • 👍 2K • 💬 283 • ⏱️ 23:49 • 7h ago
 
 ---
 
-**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
 
-📺 CryptosRUs
+📺 The Sat Stacker Show
 
-👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 15h ago
+👁️ 3K • 👍 213 • 💬 71 • ⏱️ 14:22 • 18h ago
+
+---
+
+**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
+
+2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 171 • 💬 65 • ⏱️ 10:27 • 11h ago
 
 ---
 
@@ -366,17 +356,17 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 9h ago
+👁️ 10K • 👍 529 • 💬 122 • ⏱️ 30:34 • 10h ago
 
 ---
 
-**[Bitcoin Looks Terrible 💥](https://www.youtube.com/watch?v=ymItXrZmVkE)**
+**[This Changes Everything for Bitcoin...](https://www.youtube.com/watch?v=t5cjrueGDs4)**
 
-Why Bitcoin ISN'T DEAD (Send This To 1 Friend) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 21K • 👍 428 • 💬 115 • ⏱️ 1:16 • 2d ago
+👁️ 29K • 👍 1K • 💬 274 • ⏱️ 36:02 • 16h ago
 
 ---
 
@@ -386,17 +376,7 @@ BTC has been chopping around with some wild volatility. In today's video, Kyledo
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 22h ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
-
-📺 Crypto Crew University
-
-👁️ 45K • 👍 3K • 💬 243 • ⏱️ 18:43 • 1d ago
+👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 23h ago
 
 ---
 
@@ -407,6 +387,26 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 📺 CryptosRUs
 
 👁️ 45K • 👍 2K • 💬 413 • ⏱️ 41:04 • 1d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS – THIS HAPPENS NEXT](https://www.youtube.com/watch?v=7kUfpZ9EM7g)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
+
+📺 Crypto Crew University
+
+👁️ 46K • 👍 3K • 💬 244 • ⏱️ 18:43 • 1d ago
+
+---
+
+**[⚠️ #1 ISSUE HOLDING UP BITCOIN RIGHT NOW](https://www.youtube.com/watch?v=BjTgmG-3oko)**
+
+HERE IS WHY CRYPTO IS CRASHING (WHAT TO DO NEXT) ✓ Trade crypto on Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 328 • 💬 50 • ⏱️ 1:06 • 13h ago
 
 ---
 

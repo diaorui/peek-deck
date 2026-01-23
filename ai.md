@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T06:37:19.972336+00:00'
+updated: '2026-01-23T07:26:46.830060+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 06:37 UTC  
+**Last Updated:** January 23, 2026 at 07:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 7h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 9h ago
+🔗 [Bwocks](http://Bwocks.com) • 10h ago
 
 ---
 
@@ -87,13 +87,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 7h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 8h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 19h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 20h ago
 
 ---
 
@@ -101,7 +101,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 13h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 14h ago
 
 ---
 
@@ -119,7 +119,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 13h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -135,13 +135,13 @@ The Guardian • 9h ago
 
 U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -149,13 +149,13 @@ Bloomberg.com • 8h ago
 
 Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar New Year, two people familiar with the matter told CNBC.
 
-CNBC • 38m ago
+CNBC • 1h ago
 
 ---
 
 **[Why higher education needs to embrace AI](https://www.fastcompany.com/91479395/why-higher-education-needs-to-embrace-ai)**
 
-Fast Company • 23m ago
+Fast Company • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Fast Company • 23m ago
 
 Adobe launched Firefly Foundry, partnering with talent agencies, directors, art colleges and production studios to make bespoke AI tools for video creation.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 16h ago
+The Economist • 17h ago
 
 ---
 
@@ -219,7 +219,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 205 • 💬 142 • 1d ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 205 • 💬 142 • 2d ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -251,7 +251,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 115 • 💬 148 • 17h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 115 • 💬 148 • 18h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -273,23 +273,23 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 ## YouTube Videos: "ai"
 
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
-
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
-
-📺 AI Revolution
-
-👁️ 12K • 👍 437 • 💬 39 • ⏱️ 12:48 • 7h ago
-
----
-
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 3K • 👍 45 • 💬 28 • ⏱️ 16:31 • 13h ago
+👁️ 4K • 👍 54 • 💬 35 • ⏱️ 16:31 • 14h ago
+
+---
+
+**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
+
+Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 550 • 💬 48 • ⏱️ 12:48 • 8h ago
 
 ---
 
@@ -299,17 +299,7 @@ Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Execut
 
 📺 Mint
 
-👁️ 96K • 👍 1K • 💬 264 • ⏱️ 9:36 • 1d ago
-
----
-
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
-
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
-
-📺 AI Revolution
-
-👁️ 31K • 👍 937 • 💬 74 • ⏱️ 15:40 • 1d ago
+👁️ 100K • 👍 1K • 💬 273 • ⏱️ 9:36 • 1d ago
 
 ---
 
@@ -319,37 +309,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 53K • 👍 615 • 💬 365 • ⏱️ 6:52 • 1d ago
-
----
-
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
-
-Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
-
-📺 BBC Politics
-
-👁️ 41K • 👍 984 • 💬 335 • ⏱️ 12:14 • 2d ago
-
----
-
-**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
-
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
-
-📺 Parker Prompts
-
-👁️ 23K • 💬 23 • ⏱️ 10:12 • 1d ago
-
----
-
-**[The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 20K • 👍 1K • 💬 187 • ⏱️ 22:07 • 15h ago
+👁️ 55K • 👍 628 • 💬 373 • ⏱️ 6:52 • 1d ago
 
 ---
 
@@ -359,7 +319,17 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 8K • 👍 136 • 💬 110 • ⏱️ 13:05 • 14h ago
+👁️ 8K • 👍 140 • 💬 105 • ⏱️ 13:05 • 15h ago
+
+---
+
+**[&#39;Godfather of AI&#39; Geoffrey Hinton warns about the &quot;dangerous&quot; future of AI](https://www.youtube.com/watch?v=eHSn50wnBRQ)**
+
+Geoffrey Hinton, regarded as the 'Godfather of AI' and the co-winner of the Nobel Prize for Physics in 2024, speaks to Newsnight ...
+
+📺 BBC Politics
+
+👁️ 42K • 👍 1K • 💬 347 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -369,7 +339,37 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 333K • 👍 1K • 💬 22 • ⏱️ 11:47 • 1d ago
+👁️ 352K • 👍 1K • 💬 23 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
+
+In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
+
+📺 Parker Prompts
+
+👁️ 24K • 💬 23 • ⏱️ 10:12 • 1d ago
+
+---
+
+**[The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 22:07 • 16h ago
+
+---
+
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+
+📺 AI Revolution
+
+👁️ 31K • 👍 946 • 💬 74 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 123,542 • ❤️ 1,002 • 2d ago
+⬇️ 199,346 • ❤️ 1,011 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 9,062 • ❤️ 537 • 5h ago
+⬇️ 17,010 • ❤️ 558 • 6h ago
 
 ---
 
@@ -409,7 +409,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 45,447 • ❤️ 492 • 7d ago
+⬇️ 60,736 • ❤️ 493 • 7d ago
 
 ---
 
@@ -421,19 +421,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 816 • ❤️ 257 • 1d ago
-
----
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 10,770 • ❤️ 959 • 7d ago
+⬇️ 4,644 • ❤️ 271 • 1d ago
 
 ---
 
@@ -445,7 +433,29 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 245 • 6h ago
+⬇️ 145,992 • ❤️ 252 • 7h ago
+
+---
+
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
+
+*Z.ai*
+
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
+
+`text-to-image`
+
+⬇️ 11,681 • ❤️ 959 • 7d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 40,447 • ❤️ 428 • 3d ago
 
 ---
 
@@ -457,17 +467,7 @@ FLUX.2-klein-4B is a fast, 4B parameter rectified flow transformer for unified i
 
 `image-to-image`
 
-⬇️ 43,192 • ❤️ 307 • 7d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 38,820 • ❤️ 420 • 3d ago
+⬇️ 49,287 • ❤️ 309 • 7d ago
 
 ---
 
@@ -479,7 +479,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,963,151 • ❤️ 1,266 • 3d ago
+⬇️ 2,065,417 • ❤️ 1,266 • 3d ago
 
 ---
 
@@ -491,7 +491,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 `image-to-image`
 
-⬇️ 28,939 • ❤️ 279 • 7d ago
+⬇️ 34,554 • ❤️ 283 • 7d ago
 
 ---
 
@@ -507,7 +507,7 @@ FLUX.2-klein-9B is a fast, 9B parameter image generation and editing model deliv
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 38 • 💬 2 • ⭐ 146 • 2d ago
+▲ 39 • 💬 2 • ⭐ 146 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
@@ -533,7 +533,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 8 • 💬 2 • ⭐ 198 • 7d ago
+▲ 9 • 💬 2 • ⭐ 198 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -545,7 +545,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 33 • 💬 4 • ⭐ 1,502 • 7d ago
+▲ 34 • 💬 4 • ⭐ 1,502 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -613,7 +613,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 138 • 💬 4 • ⭐ 105 • 4d ago
+▲ 144 • 💬 4 • ⭐ 105 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 508 • 13h ago
+⭐ 9.8k • 🔱 510 • 14h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 423 • 1d ago
+⭐ 8.5k • 🔱 427 • 1d ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 6.9k • 🔱 832 • 4h ago
+⭐ 7.0k • 🔱 841 • 4h ago
 
 ---
 
@@ -682,7 +682,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.6k • 🔱 950 • 1d ago
+⭐ 5.6k • 🔱 957 • 1d ago
 
 ---
 
@@ -692,7 +692,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.7k • 🔱 4.9k • 17h ago
+⭐ 4.8k • 🔱 5.0k • 17h ago
 
 ---
 
@@ -702,7 +702,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 3.8k • 🔱 394 • 1d ago
+⭐ 3.8k • 🔱 403 • 1d ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.3k • 🔱 184 • 3h ago
+⭐ 2.4k • 🔱 190 • 4h ago
 
 ---
 
@@ -720,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 334 • 4h ago
+⭐ 2.3k • 🔱 332 • 5h ago
 
 ---
 
@@ -730,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 162 • 8h ago
+⭐ 2.0k • 🔱 163 • 8h ago
 
 ---
 
