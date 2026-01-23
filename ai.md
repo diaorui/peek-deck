@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T19:42:07.577363+00:00'
+updated: '2026-01-23T20:28:10.271197+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 19:42 UTC  
+**Last Updated:** January 23, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 5h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ AMD today released a new version of Ryzen AI Software, the user-space packages f
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 20h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ You can read more about how this was made here.
 
 If you’re trying to get a better understanding of AI (without needing a computer science degree), you might like this channel I found: TheAichivant. The videos explain concepts in a simple way and focus more on understanding than on hype. I’ve been using it as casual learning content. Link: https://youtube.com/@theaichivant?si=u0dl4l0-\_Qpt\_ZJU Thought I’d share for anyone else learning AI step by step.
 
-6h ago
+7h ago
 
 ---
 
@@ -121,71 +121,77 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
 
-Axios • 17h ago
+Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
----
-
-**[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
-
-Bloomberg.com • 1h ago
+The Guardian • 1h ago
 
 ---
 
-**[Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand - WSJ](https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?gaa_at=eafs&gaa_n=AWEtsqdiW0WbkOOpRMeek5ama4ljWUs2zv3mSfE8wHuz1HjIV1XE-w4UymnW&gaa_ts=6973cea5&gaa_sig=h4oc1dObLRgf1Wasx5LDmVgpEmclBiT0HFkC96Bpo0qHLSfFn2-26HaFDzxiDxjY-tXrzQ19S2lRDJ0G_OSddQ%3D%3D)**
+**[‘Wake up, AI is for real.’ IMF chief warns of an AI ‘tsunami’ coming for young people and entry-level jobs](https://www.msn.com/en-us/money/markets/wake-up-ai-is-for-real-imf-chief-warns-of-an-ai-tsunami-coming-for-young-people-and-entry-level-jobs/ar-AA1UQ0xe)**
 
-The Wall Street Journal • 27m ago
-
----
-
-**[Intel realized overwhelming AI date center demands 'too late'](https://finance.yahoo.com/video/intel-realized-overwhelming-ai-date-183000576.html)**
-
-Intel stock (INTC) continues to plunge in Friday's trading session after the chipmaker reported disappointing first quarter guidance, revealing a struggle to meet AI data center demands. While the semiconductor manufacturer topped fourth quarter earnings and revenue estimates, was there anything new unveiled in this report? Benchmark Company managing director and senior semiconductor research analyst Cody Acree and Wedbush Securities managing director of equity research Matt Bryson comment on Intel's latest earnings and guidance figures and what they mean for the AI chip stock going forward in 2026. Also catch Cody Acree and Matt Bryson discuss the ripple effects that Intel's guidance may have on memory chipmakers and prices. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
-
-Yahoo Finance • 1h ago
+MSN • 53m ago
 
 ---
 
-**[Intel struggles to meet AI data center demand, shares drop 13%](https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/)**
+**[‘Wake up, AI is for real.’ IMF chief warns of an AI ‘tsunami’ coming for young people and entry-level jobs](https://fortune.com/2026/01/23/imf-chief-warns-ai-tsunami-entry-level-jobs-gen-z-middle-class/)**
 
-Reuters • 20h ago
+Automation could boost productivity and salaries for some workers but wipe out entry-level jobs.
 
----
-
-**[Two stocks investor Kevin Simpson snapped up amid the volatility that stand to benefit from the AI buildout](https://www.cnbc.com/2026/01/23/two-ai-adjacent-stocks-investor-kevin-simpson-snapped-up-amid-the-volatility.html)**
-
-The companies are among the opportunities he sees outside of the "Magnificent Seven" for his firm's growth strategy.
-
-CNBC • 59m ago
+Fortune • 3h ago
 
 ---
 
-**[Like digging ‘your own professional grave’: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)**
+**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
 
-While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
+A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-CNN • 8h ago
-
----
-
-**[AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/)**
-
-Advances in artificial intelligence are creating a perfect storm for those seeking to spread disinformation at unprecedented speed and scale. And it’s virtually impossible to detect.
-
-WIRED • 1d ago
+WIRED • 4h ago
 
 ---
 
-**[Experts warn of threat to democracy from ‘AI bot swarms’ infesting social media](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media)**
+**[AI Agents Are Poised to Hit a Mathematical Wall, Study Finds](https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493)**
 
-Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
+LLMs have their limits.
 
-The Guardian • 1d ago
+Gizmodo • 32m ago
+
+---
+
+**[Are AI agents ready for the workplace? A new benchmark raises doubts](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)**
+
+New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.
+
+TechCrunch • 22h ago
+
+---
+
+**[Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version)**
+
+The pause will start rolling out in the coming weeks.
+
+The Verge • 37m ago
+
+---
+
+**[How Apple's Revamped AI Could Center on Wearables](https://www.cnet.com/tech/services-and-software/how-apples-revamped-ai-could-center-on-wearables/)**
+
+Commentary: Reports of a pin, new AirPods and a revamped Siri, along with a new Google partnership, point to a transformation that could lead to glasses or something even bigger.
+
+CNET • 6h ago
+
+---
+
+**[Report: Apple plans to launch AI-powered wearable pin device as soon as 2027](https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/)**
+
+Apple, OpenAI, Meta, and more are all racing toward AI hardware products.
+
+Ars Technica • 22h ago
 
 ---
 
@@ -197,7 +203,7 @@ The Guardian • 1d ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 680 • 💬 485 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 681 • 💬 485 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -205,7 +211,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 446 • 💬 225 • 9h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 449 • 💬 235 • 10h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -213,7 +219,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 411 • 💬 258 • 12h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 424 • 💬 267 • 13h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +227,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 322 • 💬 346 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 323 • 💬 346 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -265,11 +271,11 @@ The famed convention's organizers have banned AI from the art show.
 
 ---
 
-**[White House defends sharing AI image showing arrested woman crying](https://news.ycombinator.com/item?id=46731865)**
+**[Claude.ai silently failing since Jan 14, no official acknowledgment](https://news.ycombinator.com/item?id=46736091)**
 
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 110 • 💬 76 • 6h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 120 • 💬 76 • 1h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -293,7 +299,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 20h ago
+👁️ 37K • 👍 873 • 💬 97 • ⏱️ 12:48 • 21h ago
 
 ---
 
@@ -343,7 +349,7 @@ YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTu
 
 📺 Deep Humor
 
-👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 22h ago
+👁️ 20K • 👍 2K • 💬 505 • ⏱️ 9:46 • 23h ago
 
 ---
 
@@ -401,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 669 • 18h ago
+⬇️ 17,010 • ❤️ 669 • 19h ago
 
 ---
 
@@ -437,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 271 • 19h ago
+⬇️ 145,992 • ❤️ 271 • 20h ago
 
 ---
 
@@ -495,7 +501,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 202 • 14h ago
+⬇️ 4,244 • ❤️ 202 • 15h ago
 
 ---
 
@@ -656,7 +662,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 2h ago
+⭐ 9.6k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -666,7 +672,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 441 • 1d ago
+⭐ 8.6k • 🔱 441 • 2d ago
 
 ---
 
@@ -686,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 987 • 2h ago
+⭐ 5.7k • 🔱 987 • 3h ago
 
 ---
 
@@ -696,7 +702,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 8h ago
+⭐ 4.9k • 🔱 5.2k • 9h ago
 
 ---
 
@@ -714,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 211 • 16h ago
+⭐ 2.6k • 🔱 211 • 17h ago
 
 ---
 
@@ -724,7 +730,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 336 • 17h ago
+⭐ 2.4k • 🔱 336 • 18h ago
 
 ---
 
@@ -734,7 +740,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 164 • 10h ago
+⭐ 2.0k • 🔱 164 • 11h ago
 
 ---
 

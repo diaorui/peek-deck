@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T19:42:07.592119+00:00'
+updated: '2026-01-23T20:28:10.285501+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 19:42 UTC  
+**Last Updated:** January 23, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,973.04
+### $2,958.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -10.2%  
-**30d:** +2.3%  
-**90d:** -28.6%  
-**1y:** -10.3%  
+**24h:** +0.3%  
+**7d:** -10.7%  
+**30d:** +1.8%  
+**90d:** -29.0%  
+**1y:** -10.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 I'm a part of a team that has created an ERC-20 token, and we're designing an airdrop to build a community around it. Right now we're struggling with things like: - how much friction is too much for legit users - how little friction invites bots - whether instant claims are even worth it anymore We're ready to start promoting our project on X/Twitter, but I’d like to hear from people who actually participate in these airdrops: - What made you feel comfortable interacting with a new project? - And what were the biggest red flags? I can't post links here, so if anyone’s curious about what we're working on, I can share in comments and it's also linked on my profile. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ TradingView — Track All Markets • 6h ago
 
 UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -212,17 +212,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfzdV65Ilp_u5Ck96hUdoLyeq6MJxHc9R_uesNlN0jjoPQM3EGOSs_p&gaa_ts=6973cea8&gaa_sig=OB9HRDev6Hr0UOk4n-RacJ8A9bKtrXDJsE56rMOj0i4on3VC4cM5UcNOsvNiYEUnF8Zxun9D3EKotE7cNpekQA%3D%3D)**
-
-MarketWatch • 3d ago
-
----
-
 **[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://finance.yahoo.com/news/blackrock-ethereum-anchoring-wall-streets-225829049.html)**
 
 The Ethereum network underpins 65% of tokenized assets, BlackRock said in its 2026 thematic outlook.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 148 • 💬 43 • ⏱️ 8:10 • 12h ago
+👁️ 3K • 👍 148 • 💬 43 • ⏱️ 8:10 • 13h ago
 
 ---
 
@@ -276,7 +278,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 426 • 💬 23 • ⏱️ 16:24 • 7h ago
+👁️ 5K • 👍 426 • 💬 23 • ⏱️ 16:24 • 8h ago
 
 ---
 
@@ -296,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 324 • 👍 23 • 💬 2 • ⏱️ 5:49 • 9h ago
+👁️ 324 • 👍 23 • 💬 2 • ⏱️ 5:49 • 10h ago
 
 ---
 

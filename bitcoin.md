@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T19:42:07.585979+00:00'
+updated: '2026-01-23T20:28:10.279565+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 19:42 UTC  
+**Last Updated:** January 23, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,066.90
+### $89,947.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -5.2%  
-**30d:** +3.1%  
-**90d:** -21.4%  
-**1y:** -14.0%  
+**24h:** +0.5%  
+**7d:** -5.6%  
+**30d:** +2.7%  
+**90d:** -21.6%  
+**1y:** -14.2%  
 
 ---
 
@@ -79,21 +79,21 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-7h ago
+8h ago
+
+---
+
+**[Untealized winnings are going to be taxed in NL](https://www.reddit.com/r/Bitcoin/comments/1qkzk89/untealized_winnings_are_going_to_be_taxed_in_nl/)**
+
+Who's next?
+
+1h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-3h ago
-
----
-
-**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
-
-Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
-
-12h ago
+4h ago
 
 ---
 
@@ -105,6 +105,14 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 ---
 
+**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
+
+Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
+
+13h ago
+
+---
+
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
 15h ago
@@ -113,7 +121,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -121,15 +129,13 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-5h ago
+6h ago
 
 ---
 
-**[Untealized winnings are going to be taxed in NL](https://www.reddit.com/r/Bitcoin/comments/1qkzk89/untealized_winnings_are_going_to_be_taxed_in_nl/)**
+**[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
 
-Who's next?
-
-43m ago
+1h ago
 
 ---
 
@@ -141,73 +147,43 @@ In my country it's approx. the same as 1 Big Mac menu. But to my great great gra
 
 ---
 
-**[When Bitcoin Knows All Its Own Buzzwords](https://www.reddit.com/r/Bitcoin/comments/1qkznco/when_bitcoin_knows_all_its_own_buzzwords/)**
-
-40m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 21h ago
-
----
 
 **[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
 
 "The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[Bitcoin price analysis: BTC 'sharpe ratio' sinks to levels last seen during major drawdowns](https://www.coindesk.com/markets/2026/01/23/bitcoin-returns-fail-to-match-risks-just-like-2022)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
 
-Forbes • 3h ago
+CoinDesk • 12h ago
 
 ---
 
-**[UBS Planning Bitcoin, Ethereum Trading for Some Wealthy Clients: Bloomberg](https://finance.yahoo.com/news/ubs-planning-bitcoin-ethereum-trading-165246603.html)**
+**[Why gold is the only go-to safe haven from global turmoil — not bitcoin or bonds](https://www.marketwatch.com/story/why-gold-is-the-only-go-to-safe-haven-from-global-turmoil-not-bitcoin-or-bonds-deaed26d?gaa_at=eafs&gaa_n=AWEtsqeTY32keEQj4I_LQahdRRS-vTR662Vl35VZDQMakGDzYqrueHpUSuNr&gaa_ts=6973dd49&gaa_sig=J84_b0WY83QHjyx-K_046jhACzB7_fDdS4mlMiRNlg1Ul71asK0PFrFLWYDZKP0eWc0g6CCno4qO-IZUpNDsUQ%3D%3D)**
 
-UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.
+MarketWatch • 12m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Silver Hits All-Time High, But What Does It Signal For Bitcoin’s Next Move?](https://finance.yahoo.com/news/silver-hits-time-high-does-194812642.html)**
+
+Silver just hit an all-time high amid macro uncertainty. Here’s what the rally signals for Bitcoin’s price direction.
+
+Yahoo Finance • 39m ago
 
 ---
 
 **[CZ says bitcoin will ‘break’ 4-year cycle as global crypto support grows](https://www.coindesk.com/business/2026/01/23/binance-s-changpeng-zhao-says-bitcoin-will-break-the-four-year-cycle-this-year)**
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeuxjr_MdrY5zjxSJ0zJL1OHf6oPDK1duCTaGPpmjcqfDe5to4xXh9z&gaa_ts=6973cea7&gaa_sig=e2uyr-X6bGVIFPoGq9GNmwvHuqvecfgx_orD_IV44Yz2eze2-XBwlA5niLDayig6h2hwt5gdM0a4AtLOHSyQbQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
-
-Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
-
-CNBC • 1d ago
-
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -215,7 +191,27 @@ wtop.com • 1d ago
 
 Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
+
+---
+
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+
+Some fear massive consequences for financial markets.
+
+The Motley Fool • 10h ago
+
+---
+
+**[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
+
+The Block • 1d ago
+
+---
+
+**[Spot bitcoin, ether ETF outflows accelerate, totaling nearly $1 billion](https://www.theblock.co/post/386643/bitcoin-ether-etf-outflows-accelerate)**
+
+The Block • 1d ago
 
 ---
 
@@ -290,7 +286,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 5 • 2d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 5 • 3d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -316,7 +312,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 21h ago
+👁️ 50K • 👍 2K • 💬 258 • ⏱️ 16:21 • 22h ago
 
 ---
 
@@ -326,7 +322,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 5h ago
+👁️ 4K • 👍 152 • 💬 78 • ⏱️ 2:12 • 6h ago
 
 ---
 
@@ -346,7 +342,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 5h ago
+👁️ 11K • 👍 852 • 💬 66 • ⏱️ 12:29 • 6h ago
 
 ---
 
@@ -356,7 +352,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 19h ago
+👁️ 28K • 👍 3K • 💬 359 • ⏱️ 23:49 • 20h ago
 
 ---
 
@@ -386,7 +382,7 @@ Gold warning, Bitcoin, macro drama, and altcoin updates! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 8h ago
+👁️ 10K • 👍 653 • 💬 84 • ⏱️ 18:28 • 9h ago
 
 ---
 
