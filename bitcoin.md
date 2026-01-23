@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T11:44:01.004024+00:00'
+updated: '2026-01-23T12:50:55.258142+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 11:44 UTC  
+**Last Updated:** January 23, 2026 at 12:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,986.21
+### $89,162.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -6.4%  
-**30d:** +1.9%  
-**90d:** -22.3%  
-**1y:** -15.0%  
+**24h:** -0.5%  
+**7d:** -6.2%  
+**30d:** +2.1%  
+**90d:** -22.2%  
+**1y:** -14.8%  
 
 ---
 
@@ -77,35 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
+
+41m ago
+
+---
+
 **[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-4h ago
+6h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-7h ago
+8h ago
+
+---
+
+**[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
+
+3h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-21h ago
-
----
-
-**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
-
-17h ago
-
----
-
-**[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
-
-21h ago
+22h ago
 
 ---
 
@@ -113,7 +113,19 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-10h ago
+11h ago
+
+---
+
+**[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
+
+19h ago
+
+---
+
+**[Time for my Chinese brothers and sisters to start buying!](https://www.reddit.com/r/Bitcoin/comments/1qkmpwz/time_for_my_chinese_brothers_and_sisters_to_start/)**
+
+3h ago
 
 ---
 
@@ -121,27 +133,13 @@ Old news for many, but I still see people saying they wish they had known about 
 
 BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-16h ago
-
----
-
-**[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
-
-2h ago
-
----
-
-**[If btc wasn't an option, what would you invest in long term?](https://www.reddit.com/r/Bitcoin/comments/1qkkwhz/if_btc_wasnt_an_option_what_would_you_invest_in/)**
-
-Just curious what would be your next best long term investment
-
-3h ago
+17h ago
 
 ---
 
@@ -159,45 +157,15 @@ ProPublica • 1d ago
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
 
-Some fear massive consequences for financial markets.
+Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-The Motley Fool • 1h ago
-
----
-
-**[Four-day U.S. BTC ETF outflows are largest since November, tend to mark local price bottoms](https://www.coindesk.com/markets/2026/01/23/u-s-bitcoin-etf-outflows-largest-since-november-may-signal-imminent-price-rebound)**
-
-This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin price is falling. Why the ‘digital gold’ is failing to keep up with the precious metal](https://www.msn.com/en-us/money/markets/bitcoin-price-is-falling-why-the-digital-gold-is-failing-to-keep-up-with-the-precious-metal/ar-AA1UNvZG?ocid=finance-verthp-feeds)**
-
-MSN • 2h ago
-
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 1d ago
-
----
-
-**[Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://finance.yahoo.com/news/cathie-wood-ark-invest-makes-215622686.html)**
-
-Cathie Wood’s ARK predicts $800,000 Bitcoin by 2030 while warning Nvidia faces rising AI competition and slower growth ahead.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,17 +177,47 @@ CNBC • 1d ago
 
 ---
 
-**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
-The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-Fortune • 1d ago
+wtop.com • 1d ago
 
 ---
 
 **[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-bloomberg.com • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
+
+The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
+
+CoinDesk • 16h ago
+
+---
+
+**[Bitcoin Trades Around $90,100, Ending a Losing Streak. Why Crypto Is in a Tailspin.](https://www.barrons.com/articles/bitcoin-crypto-xrp-trump-greenland-b6899def?gaa_at=eafs&gaa_n=AWEtsqdd8A3WDvCKOPAPejNCCp0PKlbh3BywWIj_rTfb8fYh6M020HfKneR-&gaa_ts=69737218&gaa_sig=u5MYHZPBsRbDuy2d4YVAAgxjhUGI5nnA9Ge-nRIw9sBRGfcNN8GWqQPJFee-GmtQ5spdu1cZ3sf3KzwKmZTmmQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/21/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+
+Despite losing value in 2025, Bitcoin's long-term trajectory is truly incredible.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
+
+The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
+
+Fortune • 1d ago
 
 ---
 
@@ -256,7 +254,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 3 • 21h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 3 • 22h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -318,7 +316,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 247 • ⏱️ 16:21 • 13h ago
+👁️ 38K • 👍 2K • 💬 247 • ⏱️ 16:21 • 15h ago
 
 ---
 
@@ -328,7 +326,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 204 • 💬 77 • ⏱️ 10:27 • 16h ago
+👁️ 9K • 👍 204 • 💬 77 • ⏱️ 10:27 • 17h ago
 
 ---
 
@@ -338,7 +336,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 4K • 👍 222 • 💬 73 • ⏱️ 14:22 • 22h ago
+👁️ 4K • 👍 222 • 💬 73 • ⏱️ 14:22 • 23h ago
 
 ---
 
@@ -348,7 +346,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 326 • ⏱️ 23:49 • 11h ago
+👁️ 23K • 👍 2K • 💬 326 • ⏱️ 23:49 • 12h ago
 
 ---
 
@@ -368,7 +366,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 257 • ⏱️ 36:02 • 20h ago
+👁️ 30K • 👍 1K • 💬 257 • ⏱️ 36:02 • 21h ago
 
 ---
 
@@ -378,7 +376,7 @@ Altcoins are starting to wake up, but Bitcoin still isn't fully in the clear. In
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 337 • 💬 3 • ⏱️ 47:33 • 28m ago
+👁️ 3K • 👍 337 • 💬 3 • ⏱️ 47:33 • 1h ago
 
 ---
 

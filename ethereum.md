@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T11:44:01.010077+00:00'
+updated: '2026-01-23T12:50:55.264147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 11:44 UTC  
+**Last Updated:** January 23, 2026 at 12:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
+**24h:** -1.3%  
 **7d:** -11.4%  
 **30d:** +1.0%  
 **90d:** -29.6%  
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
-
----
-
-**[Alternatives to Changelly for ETH Exchange?](https://www.reddit.com/r/ethereum/comments/1qkn9wi/alternatives_to_changelly_for_eth_exchange/)**
-
-Hey! I’m a Ledger wallet user looking for advice on swapping XMR to ETH. In the past, I had a swap where my funds got stuck for months on Changelly, which was stressful since I didn’t get any updates and wasn’t sure what was happening. I want to avoid that this time. I still need to swap about 110 XMR to ETH and I’m looking for a platform or method that’s reliable, fast, and secure. Ideally, I’d like to stay away from services where funds could get delayed or support is difficult to reach. Any tips, advice, or personal experiences would be really helpful. I just want to get this swap done safely and avoid unnecessary stress. Thanks in advance!
-
-1h ago
+6h ago
 
 ---
 
@@ -88,7 +80,15 @@ Hey! I’m a Ledger wallet user looking for advice on swapping XMR to ETH. In th
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-13h ago
+15h ago
+
+---
+
+**[Ethereal news weekly #8 | NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized](https://www.reddit.com/r/ethereum/comments/1qkoxmy/ethereal_news_weekly_8_nyse_tokenized_securities/)**
+
+NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 50m ago
 
 ---
 
@@ -112,7 +112,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-20h ago
+21h ago
 
 ---
 
@@ -152,41 +152,17 @@ We’ve published a 2025 crypto payments report based on on-chain payment data p
 
 ## Google News: "ethereum"
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
+**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
 
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
+Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
 
-CoinDesk • 21h ago
-
----
-
-**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
-
-BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
-
-Decrypt • 1d ago
-
----
-
-**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
-
-Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
-
-Yahoo Finance • 2d ago
+Decrypt • 19h ago
 
 ---
 
 **[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
 
 The Block • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs](https://decrypt.co/355506/bitcoin-ethereum-etfs-shed-1-billion-trump-waffling-greenland-tariffs)**
-
-Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.
-
-Decrypt • 18h ago
 
 ---
 
@@ -198,33 +174,55 @@ Finance Magnates • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-dc83ecec-172f542225e7?gaa_at=eafs&gaa_n=AWEtsqfRGyN1MB2rxZkgR940suPrAkXmPxTxSftDZ8S2SeQ-1I8JFNDQZ3xl&gaa_ts=69735698&gaa_sig=pRIXiB4ts3omBNy6MBX-CJig6oDVRp5oDc49yLclkkMyO0bmAYNp3YOFFJTKRhdeDG67Q0xz3d7aVB9EvEULYA%3D%3D)**
+**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://finance.yahoo.com/news/blackrock-ethereum-anchoring-wall-streets-225829049.html)**
 
-MarketWatch • 2d ago
+The Ethereum network underpins 65% of tokenized assets, BlackRock said in its 2026 thematic outlook.
 
----
-
-**[Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless](https://www.tradingview.com/news/cryptobriefing:37353348b094b:0-arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solana-s-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/)**
-
-Arnav Pagidyala is a Partner at Bankless Ventures, an early-stage Web3 venture capital fund focused on backing 0-to-1 companies across DeFi, consumer, and fintech. He spent three years at HashKey Capital, one of Asia's largest crypto funds, where he invested in companies spanning onchain commerce…
-
-TradingView — Track All Markets • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+**[BlackRock, JPMorgan Among 35 Firms Building on Ethereum](https://cryptopotato.com/blackrock-jpmorgan-among-35-firms-building-on-ethereum/)**
 
-A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+Institutions are using Ethereum to launch tokenized stocks, money market funds, stablecoins, and deposits.
 
-PYMNTS.com • 9h ago
+CryptoPotato • 2d ago
 
 ---
 
-**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
+**[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
 
-What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
+99Bitcoins • 1d ago
 
-AMBCrypto • 1d ago
+---
+
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
+
+Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Tom Lee’s BitMine Stakes Another $500M of Ethereum, Will ETH Price Recover Soon?](https://finance.yahoo.com/news/tom-lee-bitmine-stakes-another-091536912.html)**
+
+Tom Lee-led Ethereum treasury firm BitMine Technologies (NASDAQ: BMNR) has amped up its ETH ETH $2 933 24h volatility: 1.8% Market cap: $353.74 B Vol. 24h: $22.47 B staking to over $5.71 billion in its latest move. On-chain data shows that the firm has staked an additional 171,264, worth $500 ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
+
+The Block • 19h ago
+
+---
+
+**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
+
+A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
+
+CoinDesk • 18h ago
 
 ---
 
@@ -238,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 80 • 💬 9 • ⏱️ 8:10 • 4h ago
+👁️ 1K • 👍 80 • 💬 9 • ⏱️ 8:10 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 870 • 💬 128 • ⏱️ 17:24 • 20h ago
+👁️ 24K • 👍 870 • 💬 128 • ⏱️ 17:24 • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 1K • 💬 159 • ⏱️ 19:54 • 17h ago
+👁️ 27K • 👍 1K • 💬 159 • ⏱️ 19:54 • 18h ago
 
 ---
 
@@ -268,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 79 • 👍 13 • 💬 1 • ⏱️ 5:49 • 1h ago
+👁️ 79 • 👍 13 • 💬 1 • ⏱️ 5:49 • 2h ago
 
 ---
 
@@ -278,7 +276,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 53 • 💬 8 • ⏱️ 18:28 • 19h ago
+👁️ 1K • 👍 53 • 💬 8 • ⏱️ 18:28 • 20h ago
 
 ---
 
@@ -298,7 +296,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 1K • 💬 185 • ⏱️ 9:11 • 15h ago
+👁️ 19K • 👍 1K • 💬 185 • ⏱️ 9:11 • 16h ago
 
 ---
 
@@ -308,7 +306,7 @@ New year, new money, same incredible levels of accumulation by the richest peopl
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 225 • 💬 139 • ⏱️ 29:19 • 2h ago
+👁️ 1K • 👍 225 • 💬 139 • ⏱️ 29:19 • 3h ago
 
 ---
 
@@ -318,7 +316,7 @@ Brian Armstrong, CEO of Coinbase, shares critical insights on the future of cryp
 
 📺 AUTISMO CICATRIZES DO AMOR
 
-👁️ 3K • 👍 1K • 45m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -328,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 2 • ⏱️ 7:21 • 10h ago
+👁️ 1K • 👍 92 • 💬 2 • ⏱️ 7:21 • 11h ago
 
 ---
 

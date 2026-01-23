@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T11:44:01.013379+00:00'
+updated: '2026-01-23T12:50:55.267408+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 11:44 UTC  
+**Last Updated:** January 23, 2026 at 12:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-5h ago
+6h ago
 
 ---
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 5h ago
 
 ---
 
@@ -74,23 +74,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-17h ago
-
----
-
-**[5km running test, let's make noise at night!](https://www.reddit.com/r/robotics/comments/1qjvu3a/5km_running_test_lets_make_noise_at_night/)**
-
-not like real human running to you, each time when team bring him running outside, safe distance is necessary
-
-21h ago
-
----
-
-**[Open-Source High-Frequency Simulator for Robot Arm Dynamics, Control, and Testing – Built on ROS 2, Great for Prototyping, Research, Learning & Future AI Integration!](https://www.reddit.com/r/robotics/comments/1qk9scg/opensource_highfrequency_simulator_for_robot_arm/)**
-
-Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a lightweight, focused simulator for robot arms that prioritizes high-frequency control (up to kHz rates), analytical dynamics via the Pinocchio library, and fully deterministic software-in-the-loop (SIL) testing. It's built for people who want fast, reproducible simulations for arm control and motion planning without the full complexity (and slowdown) of contact-heavy engines like Gazebo. Why this exists As a robotics enthusiast, I wanted a tool that lets me quickly prototype and debug controllers on models like the UR3 — something precise, inspectable, and hardware-free. It’s especially useful for learning dynamics, tuning controllers, or running thousands of consistent test episodes. Current Highlights: kHz-level simulation stepping for tight real-time control loops Analytical computations (mass matrix, Jacobians, Coriolis/centrifugal terms, etc.) powered by Pinocchio ros2_control integration for commanding joints and trajectories MoveIt2 compatibility with a custom planning & execution action server Built-in PID controller with a simple tuning interface RViz2 visualization + optional web-based 3D viewer (real-time URDF + joint state streaming via WebSocket) Deterministic behavior — perfect for reproducible debugging and benchmarking. What's coming next I'm actively planning to expand the control options beyond the current PID: Model Predictive Control (MPC) — for more advanced trajectory tracking and constraint handling Reinforcement Learning (RL) interfaces — to make it easier to train policies directly in the sim (fast episodes + determinism are ideal for this) If any of those directions excite you, I'd love input on what would be most useful! Quick Start Docker + VS Code devcontainer setup → colcon build → launch files for sim-only, with viz, or PID tuning. Everything is in the README. Main repo: https://github.com/PetoAdam/ros2_sim Optional web UI: https://github.com/PetoAdam/ros2_sim_ui r/robotics — what do you think? Have you run into pain points with high-frequency sims, arm control tuning, or transitioning from classical control → MPC/RL? Any feedback, feature wishes, stars, forks, or even collaboration ideas are super welcome. Let's talk robotics!
-
-12h ago
+18h ago
 
 ---
 
@@ -98,7 +82,23 @@ Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a ligh
 
 Is there anyone on this subreddit who would be interested in being a robotics consultant for a writing project I’m working on? Idk if this is even the right subreddit to ask, but oh well. I’m basically looking for someone who knows a lot about robots and would be willing to answer a lot of stupid questions about them. Particularly Fnaf robots. I’m fully aware they’re not real robots, but I want to get closer to real ones. Also someone who’s a nerd about theoretical sentient ai. Sorry if this is off topic, mods feel free to delete this if I’m violating any rules, I won’t hold a grudge.
 
-1h ago
+3h ago
+
+---
+
+**[5km running test, let's make noise at night!](https://www.reddit.com/r/robotics/comments/1qjvu3a/5km_running_test_lets_make_noise_at_night/)**
+
+not like real human running to you, each time when team bring him running outside, safe distance is necessary
+
+22h ago
+
+---
+
+**[Open-Source High-Frequency Simulator for Robot Arm Dynamics, Control, and Testing – Built on ROS 2, Great for Prototyping, Research, Learning & Future AI Integration!](https://www.reddit.com/r/robotics/comments/1qk9scg/opensource_highfrequency_simulator_for_robot_arm/)**
+
+Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a lightweight, focused simulator for robot arms that prioritizes high-frequency control (up to kHz rates), analytical dynamics via the Pinocchio library, and fully deterministic software-in-the-loop (SIL) testing. It's built for people who want fast, reproducible simulations for arm control and motion planning without the full complexity (and slowdown) of contact-heavy engines like Gazebo. Why this exists As a robotics enthusiast, I wanted a tool that lets me quickly prototype and debug controllers on models like the UR3 — something precise, inspectable, and hardware-free. It’s especially useful for learning dynamics, tuning controllers, or running thousands of consistent test episodes. Current Highlights: kHz-level simulation stepping for tight real-time control loops Analytical computations (mass matrix, Jacobians, Coriolis/centrifugal terms, etc.) powered by Pinocchio ros2_control integration for commanding joints and trajectories MoveIt2 compatibility with a custom planning & execution action server Built-in PID controller with a simple tuning interface RViz2 visualization + optional web-based 3D viewer (real-time URDF + joint state streaming via WebSocket) Deterministic behavior — perfect for reproducible debugging and benchmarking. What's coming next I'm actively planning to expand the control options beyond the current PID: Model Predictive Control (MPC) — for more advanced trajectory tracking and constraint handling Reinforcement Learning (RL) interfaces — to make it easier to train policies directly in the sim (fast episodes + determinism are ideal for this) If any of those directions excite you, I'd love input on what would be most useful! Quick Start Docker + VS Code devcontainer setup → colcon build → launch files for sim-only, with viz, or PID tuning. Everything is in the README. Main repo: https://github.com/PetoAdam/ros2_sim Optional web UI: https://github.com/PetoAdam/ros2_sim_ui r/robotics — what do you think? Have you run into pain points with high-frequency sims, arm control tuning, or transitioning from classical control → MPC/RL? Any feedback, feature wishes, stars, forks, or even collaboration ideas are super welcome. Let's talk robotics!
+
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ Is there anyone on this subreddit who would be interested in being a robotics co
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 4h ago
+🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 5h ago
 
 ---
 
@@ -126,23 +126,7 @@ Business Insider • 1d ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 2h ago
-
----
-
-**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
-
-Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
-
-Financial Times • 3d ago
-
----
-
-**[Microsoft launches new AI model for real-world robotic learning](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model)**
-
-Microsoft believes adaptability defines intelligent machines, and Rho-alpha is built to prove that in physical systems.
-
-Interesting Engineering • 1d ago
+Microsoft • 45m ago
 
 ---
 
@@ -154,19 +138,11 @@ CNBC • 1d ago
 
 ---
 
-**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+**[Microsoft launches new AI model for real-world robotic learning](https://interestingengineering.com/ai-robotics/microsoft-rho-alpha-robotics-ai-model)**
 
-Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+Microsoft believes adaptability defines intelligent machines, and Rho-alpha is built to prove that in physical systems.
 
-The Robot Report • 2d ago
-
----
-
-**[Why Serve Robotics is buying a healthcare robot company](https://finance.yahoo.com/video/why-serve-robotics-buying-healthcare-222522988.html)**
-
-Serve Robotics (SERV) is expanding from sidewalk robots to healthcare, announcing that it will be acquiring Diligent Robotics. Serve Robotics co-founder and CEO Ali Kashani joins Asking for a Trend with Josh Lipton to discuss the company's strategy behind the acquisition. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
-
-Yahoo Finance • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -175,6 +151,30 @@ Yahoo Finance • 2d ago
 Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
 
 TechCrunch • 2d ago
+
+---
+
+**[Serve Robotics to acquire hospital logistics provider Diligent Robotics](https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/)**
+
+Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi.
+
+The Robot Report • 2d ago
+
+---
+
+**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
+
+SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Physical AI: robotics are poised to revolutionise business](https://www.ft.com/content/3449e77c-721b-4fc9-8082-c584d8f74848)**
+
+Multi-tasking robots equipped with artificial intelligence will change the world. Mankind has to be ready to get the best out of them. How this is done will be decided in boardrooms and tech labs
+
+Financial Times • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 62 • 💬 44 • ⏱️ 2:47 • 19h ago
+👁️ 5K • 👍 62 • 💬 44 • ⏱️ 2:47 • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 30K • 👍 1K • 💬 159 • ⏱️ 0:49 • 10h ago
+👁️ 30K • 👍 1K • 💬 159 • ⏱️ 0:49 • 11h ago
 
 ---
 
@@ -218,7 +218,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 19K • 👍 2K • 💬 85 • ⏱️ 1:13 • 16h ago
+👁️ 19K • 👍 2K • 💬 85 • ⏱️ 1:13 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date n
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 133 • 💬 11 • ⏱️ 0:47 • 17h ago
+👁️ 11K • 👍 133 • 💬 11 • ⏱️ 0:47 • 18h ago
 
 ---
 
