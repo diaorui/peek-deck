@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-23T09:32:28.121259+00:00'
+updated: '2026-01-23T10:26:57.052103+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 23, 2026 at 09:32 UTC  
+**Last Updated:** January 23, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-3h ago
+4h ago
 
 ---
 
 **[My 3D printed robot lifts 2kg](https://www.reddit.com/r/robotics/comments/1qkdka0/my_3d_printed_robot_lifts_2kg/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 We're testing Asimov's balance against Unitree G1. We're preparing to open-source the leg design files. Planning to open-source the leg design next Monday.
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ We're testing Asimov's balance against Unitree G1. We're preparing to open-sourc
 
 Hey everyone 👋 I wanted to share a small part of a larger open-source project called POOM that’s been useful in a few robotics contexts: a pocket-sized ESP32-based BLE controller designed for live control and rapid prototyping. From a robotics perspective, it can be used as: A BLE controller for streaming real-time control data A USB or BLE input device (buttons, modes, macros) A motion-based controller using an onboard IMU (orientation, velocity, gestures) A simple human-in-the-loop interface for robots, rovers, arms, or simulations Control data is streamed live over BLE, which makes it practical for: Teleoperation Interactive demos Parameter tuning Early-stage prototyping without building custom controllers Technical specs (controller mode) MCU: ESP32 C5 (RISC-V based variant) Wireless: BLE (low-latency control & data streaming) Interfaces: BLE Other: Wifi 2.4 & 5 GHz, Zigbee, Thread, Matter. NFC, HF-RFid Sensors: Onboard 6-axis IMU (accelerometer + gyroscope) Inputs: Physical buttons (fully programmable) Power: Battery powered Firmware: Fully open source Both the hardware and firmware are fully open source, and the controller logic is user-programmable, so it’s meant to be adapted to different robotics setups rather than used as a fixed device. While POOM is a broader multitool project, this controller mode has been especially useful when you need something small, wireless, and quickly reconfigurable during development. Just sharing in case this approach is useful for others working on robotics projects.
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey everyone 👋 I wanted to share a small part of a larger open-source project
 
 not like real human running to you, each time when team bring him running outside, safe distance is necessary
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ not like real human running to you, each time when team bring him running outsid
 
 Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a lightweight, focused simulator for robot arms that prioritizes high-frequency control (up to kHz rates), analytical dynamics via the Pinocchio library, and fully deterministic software-in-the-loop (SIL) testing. It's built for people who want fast, reproducible simulations for arm control and motion planning without the full complexity (and slowdown) of contact-heavy engines like Gazebo. Why this exists As a robotics enthusiast, I wanted a tool that lets me quickly prototype and debug controllers on models like the UR3 — something precise, inspectable, and hardware-free. It’s especially useful for learning dynamics, tuning controllers, or running thousands of consistent test episodes. Current Highlights: kHz-level simulation stepping for tight real-time control loops Analytical computations (mass matrix, Jacobians, Coriolis/centrifugal terms, etc.) powered by Pinocchio ros2_control integration for commanding joints and trajectories MoveIt2 compatibility with a custom planning & execution action server Built-in PID controller with a simple tuning interface RViz2 visualization + optional web-based 3D viewer (real-time URDF + joint state streaming via WebSocket) Deterministic behavior — perfect for reproducible debugging and benchmarking. What's coming next I'm actively planning to expand the control options beyond the current PID: Model Predictive Control (MPC) — for more advanced trajectory tracking and constraint handling Reinforcement Learning (RL) interfaces — to make it easier to train policies directly in the sim (fast episodes + determinism are ideal for this) If any of those directions excite you, I'd love input on what would be most useful! Quick Start Docker + VS Code devcontainer setup → colcon build → launch files for sim-only, with viz, or PID tuning. Everything is in the README. Main repo: https://github.com/PetoAdam/ros2_sim Optional web UI: https://github.com/PetoAdam/ros2_sim_ui r/robotics — what do you think? Have you run into pain points with high-frequency sims, arm control tuning, or transitioning from classical control → MPC/RL? Any feedback, feature wishes, stars, forks, or even collaboration ideas are super welcome. Let's talk robotics!
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey r/robotics! I'm excited to share my open-source project: ros2_sim — a ligh
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 1h ago
+🔗 [youtube.com](https://youtube.com/watch?v=uQdQxAIqwRk&si=-uhYfV5zNasbLE-Y) • 2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 3h ago
 
 ---
 
@@ -106,7 +106,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmark suite designed to test and evaluate physical AI algorithms. It unifies state-of-the-art tools like MuJoCo, MuJoCo Menagerie, Isaac Lab, and LeRobot into a single, cohesive benchmarking platform for robotic learning. We include datasets in LeRobot dataset format ready for training. The LeRobot API can be used for training and evaluation. Whether you are researching imitation learning, reinforcement learning, BEAVR Bench provides the performance needed to iterate quickly. Human-generated datasets may be found on HF Hub: https://huggingface.co/collections/arclabmit/beavr-sim
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ https://github.com/ARCLab-MIT-X/beavr-bench BEAVR Bench is a simulation benchmar
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 23h ago
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 29m ago
+Microsoft • 1h ago
 
 ---
 
@@ -150,7 +150,7 @@ Financial Times • 2d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketBeat • 2d ago
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-CBS News • 17h ago
+CBS News • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 60 • 💬 43 • ⏱️ 2:47 • 17h ago
+👁️ 5K • 👍 60 • 💬 43 • ⏱️ 2:47 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date n
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 124 • 💬 9 • ⏱️ 0:47 • 15h ago
+👁️ 10K • 👍 124 • 💬 9 • ⏱️ 0:47 • 16h ago
 
 ---
 

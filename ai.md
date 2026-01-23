@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T09:32:28.103226+00:00'
+updated: '2026-01-23T10:26:57.036558+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 09:32 UTC  
+**Last Updated:** January 23, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 10h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ You can read more about how this was made here.
 
 Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships wi
 
 On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its looking crazy but I'm still waiting for new opus.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ On x i found a preview of new gemini 3 pro. This year gonna be amazing. Its look
 
 Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 12h ago
+🔗 [Bwocks](http://Bwocks.com) • 13h ago
 
 ---
 
@@ -95,13 +95,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 10h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 11h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 22h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ As AI continues to automate routine and analytical tasks, many roles will evolve
 
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 16h ago
 
 Misinformation technology could be deployed at scale to disrupt 2028 US presidential election, AI researchers warn
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
 **[Amazon to Cut Thousands of Office Jobs: Report. It’s Partly About AI.](https://www.barrons.com/articles/amazon-stock-jobs-cuts-ai-6a6a0f89?gaa_at=eafs&gaa_n=AWEtsqe1d5T1vTyvNn7ON2uGZvXbgKUEvXupV5P20QayoJcDkayCXrmvedGE&gaa_ts=69734395&gaa_sig=iriUIKsd2_vNoECSHAL7gd9MNGKNCp6t6kUiwxLU933wv6mSeFuYMxQEQgLvDcqp4koiI_m0nfd7TNPN1FYMSw%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -141,13 +141,13 @@ Barron's • 1h ago
 
 AI foundation model developers are still experimenting with business models, but investors will likely push for returns this year.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 19h ago
+The Economist • 20h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Economist • 19h ago
 
 The changes at the Big Four consulting firm will apply to all of the company’s U.S. divisions.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 14h ago
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-The Nation • 23h ago
+The Nation • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ The Nation • 23h ago
 
 AI is replacing tasks we have grown reluctant to do ourselves – thinking, writing, creating, analysing.
 
-The Conversation • 15h ago
+The Conversation • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 7h ago
 
 **[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
 
-bloomberg.com • 11h ago
+bloomberg.com • 12h ago
 
 ---
 
@@ -235,7 +235,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 The one where I get very annoyed with my email provider
 
-⬆️ 164 • 💬 76 • 2h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 164 • 💬 76 • 3h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -251,7 +251,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 120 • 💬 162 • 20h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 120 • 💬 162 • 21h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -265,7 +265,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 96 • 💬 64 • 19h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 96 • 💬 64 • 20h ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -279,7 +279,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 4K • 👍 61 • 💬 38 • ⏱️ 16:31 • 16h ago
+👁️ 4K • 👍 61 • 💬 38 • ⏱️ 16:31 • 17h ago
 
 ---
 
@@ -289,7 +289,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 10h ago
+👁️ 21K • 👍 604 • 💬 65 • ⏱️ 12:48 • 11h ago
 
 ---
 
@@ -299,7 +299,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 17h ago
+👁️ 9K • 👍 143 • 💬 108 • ⏱️ 13:05 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ CNBC's Deirdre Bosa reports on Zhipu AI.
 
 📺 CNBC Television
 
-👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 15h ago
+👁️ 15K • 👍 275 • 💬 118 • ⏱️ 3:47 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 583 • 8h ago
+⬇️ 17,010 • ❤️ 583 • 9h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 261 • 9h ago
+⬇️ 145,992 • ❤️ 261 • 10h ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 11,681 • ❤️ 962 • 7d ago
+⬇️ 11,681 • ❤️ 962 • 8d ago
 
 ---
 
@@ -642,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 513 • 16h ago
+⭐ 9.8k • 🔱 513 • 17h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 4h ago
+⭐ 9.6k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -672,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.1k • 🔱 845 • 6h ago
+⭐ 7.1k • 🔱 845 • 7h ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.4k • 🔱 194 • 6h ago
+⭐ 2.4k • 🔱 194 • 7h ago
 
 ---
 
@@ -720,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 333 • 7h ago
+⭐ 2.3k • 🔱 333 • 8h ago
 
 ---
 
@@ -730,7 +730,7 @@ Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 2.0k • 🔱 163 • 48m ago
+⭐ 2.0k • 🔱 163 • 1h ago
 
 ---
 

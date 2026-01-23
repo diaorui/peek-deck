@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-23T09:32:28.117969+00:00'
+updated: '2026-01-23T10:26:57.049281+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 09:32 UTC  
+**Last Updated:** January 23, 2026 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
-18h ago
+19h ago
 
 ---
 
@@ -156,7 +156,7 @@ Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlin
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 1d ago
 
 A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
 
-PYMNTS.com • 7h ago
+PYMNTS.com • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 2h ago
+👁️ 559 • 👍 43 • 💬 4 • ⏱️ 8:10 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 18h ago
+👁️ 23K • 👍 846 • 💬 127 • ⏱️ 17:24 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 15h ago
+👁️ 24K • 👍 1K • 💬 151 • ⏱️ 19:54 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 17h ago
+👁️ 1K • 👍 51 • 💬 8 • ⏱️ 18:28 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ After months of denials, the Trump administration has acknowledged in a federal 
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 12h ago
+👁️ 19K • 👍 1K • 💬 169 • ⏱️ 9:11 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 8h ago
+👁️ 1K • 👍 82 • 💬 2 • ⏱️ 7:21 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth S
 
 📺 Gareth Soloway
 
-👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 15h ago
+👁️ 36K • 👍 2K • 💬 170 • ⏱️ 9:51 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 9h ago
+👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:36 • 10h ago
 
 ---
 

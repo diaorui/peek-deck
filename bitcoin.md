@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T09:32:28.111845+00:00'
+updated: '2026-01-23T10:26:57.044020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 09:32 UTC  
+**Last Updated:** January 23, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-9h ago
+10h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-2h ago
+3h ago
 
 ---
 
 **[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +117,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ BlackRock CEO says #Bitcoin will dominate as world reserve currency over US doll
 
 Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Just curious what would be your next best long term investment
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ ProPublica • 23h ago
 
 **[South Korean prosecutors probe disappearance of seized bitcoin: report](https://www.theblock.co/post/386701/south-korean-prosecutors-probe-disappearance-seized-bitcoin-report)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Block • 18h ago
 
 The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Price Is Falling. Why the ‘Digital Gold’ Is Failing to Keep Up With the Precious Metal.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-gold-9a129bfd?gaa_at=eafs&gaa_n=AWEtsqf5lYZu588EgEAhWc-YFTtcCbOzt_92GmphCtH661W7F1geA79gT4ov&gaa_ts=69734396&gaa_sig=HNNjfB7bE9CPDCAJDhTF8IxnnLvp7y7enQvvV-mFXeDZ3NltqKDLqhQoqO-baji4VPBpBjKsA06covYqRYnsVA%3D%3D)**
 
-Barron's • 31m ago
+Barron's • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Barron's • 31m ago
 
 Asian equities pushed higher and the dollar stayed under pressure, giving crypto a firmer footing after a volatile week.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 3 • 19h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 3 • 20h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -264,7 +264,7 @@ rewards for mining operations will dwindle. What happens next?
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 3d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 4d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -318,7 +318,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 📺 Yahoo Finance
 
-👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 13h ago
+👁️ 8K • 👍 184 • 💬 62 • ⏱️ 10:27 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 11h ago
+👁️ 34K • 👍 2K • 💬 204 • ⏱️ 16:21 • 12h ago
 
 ---
 
@@ -348,7 +348,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 20h ago
+👁️ 3K • 👍 215 • 💬 73 • ⏱️ 14:22 • 21h ago
 
 ---
 
@@ -358,7 +358,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 9h ago
+👁️ 21K • 👍 2K • 💬 286 • ⏱️ 23:49 • 10h ago
 
 ---
 
@@ -368,7 +368,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 12h ago
+👁️ 10K • 👍 544 • 💬 127 • ⏱️ 30:34 • 13h ago
 
 ---
 
@@ -388,7 +388,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 18h ago
+👁️ 29K • 👍 1K • 💬 254 • ⏱️ 36:02 • 19h ago
 
 ---
 
@@ -398,7 +398,7 @@ Trump went to Davos, cooled off EU tariff threats, proposed a Greenland trade de
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 18h ago
+👁️ 20K • 👍 1K • 💬 35 • ⏱️ 17:34 • 19h ago
 
 ---
 
