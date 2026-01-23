@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T15:27:45.186497+00:00'
+updated: '2026-01-23T15:51:08.403555+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 15:27 UTC  
+**Last Updated:** January 23, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Everyone wants the green peaks, but few can stomach the long walk across the ice. While the colony is busy debating the next 1% move, the disciplined trader is miles away, sticking to the plan. Stop looking for consensus. Start looking for consistency.
 
-56m ago
+1h ago
 
 ---
 
@@ -95,19 +95,19 @@ Everyone wants the green peaks, but few can stomach the long walk across the ice
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-8h ago
+9h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-10h ago
+11h ago
 
 ---
 
 **[dream](https://www.reddit.com/r/Bitcoin/comments/1qkmhqq/dream/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[Time for my Chinese brothers and sisters to start buying!](https://www.reddit.com/r/Bitcoin/comments/1qkmpwz/time_for_my_chinese_brothers_and_sisters_to_start/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k eur. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Old news for many, but I still see people saying they wish they had known about 
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 17h ago
+ProPublica • 18h ago
 
 ---
 
@@ -237,7 +237,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 
 The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign contracts instantly. Free forever.
 
-⬆️ 3 • 💬 0 • 6d ago • [ClientsOK](https://clientsok.com/)
+⬆️ 3 • 💬 0 • 7d ago • [ClientsOK](https://clientsok.com/)
 
 ---
 
@@ -245,7 +245,7 @@ The world's fastest legal e-signature. Blockchain-certified, mobile-first. Sign 
 
 Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+⬆️ 3 • 💬 0 • 7d ago • [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 237 • ⏱️ 16:21 • 17h ago
+👁️ 42K • 👍 2K • 💬 237 • ⏱️ 16:21 • 18h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 223 • 💬 72 • ⏱️ 10:27 • 19h ago
+👁️ 10K • 👍 223 • 💬 72 • ⏱️ 10:27 • 20h ago
 
 ---
 
@@ -406,7 +406,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 580 • 💬 164 • ⏱️ 30:34 • 18h ago
+👁️ 11K • 👍 580 • 💬 164 • ⏱️ 30:34 • 19h ago
 
 ---
 
