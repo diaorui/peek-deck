@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-23T04:43:53.068126+00:00'
+updated: '2026-01-23T05:29:01.718759+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 23, 2026 at 04:43 UTC  
+**Last Updated:** January 23, 2026 at 05:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,846.78
+### $90,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -5.5%  
-**30d:** +2.7%  
-**90d:** -21.6%  
-**1y:** -14.3%  
+**24h:** -0.8%  
+**7d:** -5.8%  
+**30d:** +2.4%  
+**90d:** -21.9%  
+**1y:** -14.5%  
 
 ---
 
@@ -79,31 +79,45 @@ Rank #1
 
 **[Why won’t they listen?](https://www.reddit.com/r/Bitcoin/comments/1qk19by/why_wont_they_listen/)**
 
-10h ago
-
----
-
-**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
-
-14h ago
+11h ago
 
 ---
 
 **[This, unironically](https://www.reddit.com/r/Bitcoin/comments/1qkbab6/this_unironically/)**
 
-4h ago
+5h ago
+
+---
+
+**[lol](https://www.reddit.com/r/Bitcoin/comments/1qjvmr5/lol/)**
+
+15h ago
 
 ---
 
 **[And you ?](https://www.reddit.com/r/Bitcoin/comments/1qjvy7v/and_you/)**
 
-14h ago
+15h ago
+
+---
+
+**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
+
+55m ago
 
 ---
 
 **[Bitcoin i love you ❤️](https://www.reddit.com/r/Bitcoin/comments/1qk3d90/bitcoin_i_love_you/)**
 
-9h ago
+10h ago
+
+---
+
+**[BTC vs USD](https://www.reddit.com/r/Bitcoin/comments/1qkfvy5/btc_vs_usd/)**
+
+BlackRock CEO says #Bitcoin will dominate as world reserve currency over US dollar 🤯
+
+1h ago
 
 ---
 
@@ -113,31 +127,17 @@ Rank #1
 
 ---
 
-**[Absolute music to my ears “I call the Fed the engine of inequality”](https://www.reddit.com/r/Bitcoin/comments/1qjzaui/absolute_music_to_my_ears_i_call_the_fed_the/)**
+**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
 
-12h ago
+Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
+
+4h ago
 
 ---
 
 **[realizing btc ain’t easy at first](https://www.reddit.com/r/Bitcoin/comments/1qkaty0/realizing_btc_aint_easy_at_first/)**
 
-4h ago
-
----
-
-**[Many OG Bitcoiners Went BROKE](https://www.reddit.com/r/Bitcoin/comments/1qkd2tw/many_og_bitcoiners_went_broke/)**
-
-Old news for many, but I still see people saying they wish they had known about bitcoin earlier or got in the game earlier. The reality is many people who got into bitcoin early lost it all. A lot it was due to trading when exchanges went live. Others just spent and never got back in. Simon Dixon was at one of the first two bitcoin conferences (both in 2011) and he discusses how there were only 40 people there and a lot of them ended up without the life-changing wealth they could've had if they hodl'd. Here's a clip: https://youtube.com/shorts/bExjIAAyFeA
-
-3h ago
-
----
-
-**[Incoming Crypto Boom?](https://www.reddit.com/r/Bitcoin/comments/1qkbf5f/incoming_crypto_boom/)**
-
-Can you see this? If geopolitical tension causes faster-than-normal Treasury selling, yields rise, markets wobble, then Bitcoin will benefit as a hedge. If treasuries and the dollar look politically risky, capital looks for neutral assets → Bitcoin is framed as an “escape valve” It won’t happen straight away, but anticipate it over the coming years. https://share.google/0izHzgkXWznwfxKT4
-
-4h ago
+5h ago
 
 ---
 
@@ -161,23 +161,35 @@ CNBC • 1d ago
 
 ---
 
+**[South Korea probes significant bitcoin loss in a phishing attack](https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack)**
+
+Internal audit showed the coins were likely lost via a phishing attack during official storage, according to local media reports.
+
+CoinDesk • 10m ago
+
+---
+
+**[Bitcoin Profit Cycle Turns Negative for First Time Since 2023: CryptoQuant](https://finance.yahoo.com/news/bitcoin-profit-cycle-turns-negative-050221787.html)**
+
+Bitcoin’s slide below $90,000 has pushed on-chain realized profit metrics into negative territory, a level last seen before the previous bear market.
+
+Yahoo Finance • 9m ago
+
+---
+
+**[Asia Market Open: Bitcoin Dips Below $90K, Wall Street Rebound Lifts Asia Risk Mood](https://finance.yahoo.com/news/asia-market-open-bitcoin-dips-033440704.html)**
+
+Bitcoin dipped below $90,000 on Friday as Asian stocks posted modest gains after the Bank of Japan held rates steady, with investors weighing softer US tariff talk alongside signs of US economic resilience.MSCI’s broadest index of Asia Pacific shares outside Japan rose 0.4%, while Japan’s Nikkei added 0.3%. Japan’s central ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 19h ago
-
----
-
-**[$100K bitcoin? Prediction markets now say odds are better](https://uk.finance.yahoo.com/news/100k-bitcoin-price-crypto-etftrump-tariffs-davos-greenland-105620035.html)**
-
-Yahoo Finance UK • 17h ago
-
----
-
-**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
-
-Bloomberg.com • 1d ago
+wtop.com • 20h ago
 
 ---
 
@@ -189,11 +201,9 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC continues to slump while gold moves to new record](https://www.coindesk.com/markets/2026/01/22/gold-surges-to-doorstep-of-usd5-000-as-experts-debate-bitcoin-s-underperformance)**
+**[Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade](https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade)**
 
-"The [BTC] adoption announcements are not working anymore," said Jim Bianco, while Bloomberg’s Eric Balchunas urged taking a longer-term view.
-
-CoinDesk • 7h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -203,17 +213,9 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdKM52Zwca-9W1DftBRYKiVjKZMEAJFsT-EGLqYPd_bIHZJ-soaoPpY&gaa_ts=6972f1e5&gaa_sig=W_nLB24WOu0i7TE1VbvBJiBnfoh5OqXyQImIvXhvETaqXrUrvj0LHw2rToZ-Wwt31NoXF6Q46r9wL5WNhdaK2w%3D%3D)**
+**[Bitcoin hoarder Strategy buys $2.13 billion in bitcoin in eight days](https://www.reuters.com/legal/transactional/bitcoin-hoarder-strategy-buys-213-billion-bitcoin-eight-days-2026-01-20/)**
 
-MarketWatch • 12h ago
-
----
-
-**[Coinbase Creates Advisory Board to Study Quantum Computing Risks to Bitcoin](https://decrypt.co/355565/coinbase-advisory-board-quantum-computing-risks-bitcoin)**
-
-Coinbase said the group will assess how future quantum advances could affect blockchain security and outline long-term solutions.
-
-Decrypt • 5h ago
+Reuters • 2d ago
 
 ---
 
@@ -250,7 +252,7 @@ Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creatin
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 2 • 💬 2 • 14h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 2 • 💬 2 • 15h ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -312,7 +314,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 6h ago
+👁️ 23K • 👍 1K • 💬 251 • ⏱️ 16:21 • 7h ago
 
 ---
 
@@ -332,7 +334,7 @@ People keep asking the same questions about Bitcoin: What should I buy? When sho
 
 📺 The Sat Stacker Show
 
-👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 15h ago
+👁️ 3K • 👍 202 • 💬 63 • ⏱️ 14:22 • 16h ago
 
 ---
 
@@ -342,7 +344,7 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 4h ago
+👁️ 12K • 👍 2K • 💬 307 • ⏱️ 23:49 • 5h ago
 
 ---
 
@@ -352,7 +354,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 13h ago
+👁️ 28K • 👍 1K • 💬 312 • ⏱️ 36:02 • 14h ago
 
 ---
 
@@ -362,7 +364,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 7h ago
+👁️ 9K • 👍 496 • 💬 152 • ⏱️ 30:34 • 8h ago
 
 ---
 
@@ -382,7 +384,7 @@ BTC has been chopping around with some wild volatility. In today's video, Kyledo
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 20h ago
+👁️ 17K • 👍 1K • 💬 19 • ⏱️ 24:37 • 21h ago
 
 ---
 

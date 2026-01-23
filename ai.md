@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-23T04:43:53.059770+00:00'
+updated: '2026-01-23T05:29:01.710337+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 23, 2026 at 04:43 UTC  
+**Last Updated:** January 23, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 6h ago
 
 ---
 
@@ -49,7 +49,23 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 You can read more about how this was made here.
 
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 5h ago
+🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 6h ago
+
+---
+
+**[One-Minute Daily AI News 1/22/2026](https://www.reddit.com/r/artificial/comments/1qkh7d4/oneminute_daily_ai_news_1222026/)**
+
+Google snags team behind AI voice startup Hume AI.[1] Deadly AI relationships with children? One Utah lawmaker wants to make it illegal.[2] This plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human.[3] EPA pokes Musk over using unpermitted turbines for AI.[4] Sources: [1] https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/ [2] https://www.yahoo.com/news/articles/deadly-ai-relationships-children-one-014452510.html [3] https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill [4] https://www.politico.com/news/2026/01/22/epa-thwarts-musks-diesel-turbines-ai-00737605
+
+55m ago
+
+---
+
+**[Plano 0.4.3 ⭐️ Filter Chains via MCP and OpenRouter Integration](https://www.reddit.com/r/artificial/comments/1qkg8va/plano_043_filter_chains_via_mcp_and_openrouter/)**
+
+Hey peeps - excited to ship Plano 0.4.3. Two critical updates that I think could be helpful for developers. 1/Filter Chains Filter chains are Plano’s way of capturing reusable workflow steps in the data plane, without duplication and coupling logic into application code. A filter chain is an ordered list of mutations that a request flows through before reaching its final destination —such as an agent, an LLM, or a tool backend. Each filter is a network-addressable service/path that can: Inspect the incoming prompt, metadata, and conversation state. Mutate or enrich the request (for example, rewrite queries or build context). Short-circuit the flow and return a response early (for example, block a request on a compliance failure). Emit structured logs and traces so you can debug and continuously improve your agents. In other words, filter chains provide a lightweight programming model over HTTP for building reusable steps in your agent architectures. 2/ Passthrough Client Bearer Auth When deploying Plano in front of LLM proxy services that manage their own API key validation (such as LiteLLM, OpenRouter, or custom gateways), users currently have to configure a static access_key. However, in many cases, it's desirable to forward the client's original Authorization header instead. This allows the upstream service to handle per-user authentication, rate limiting, and virtual keys. 0.4.3 introduces a passthrough_auth option iWhen set to true, Plano will forward the client's Authorization header to the upstream instead of using the configured access_key. Use Cases: OpenRouter: Forward requests to OpenRouter with per-user API keys. Multi-tenant Deployments: Allow different clients to use their own credentials via Plano. Hope you all enjoy these updates
+
+1h ago
 
 ---
 
@@ -59,11 +75,19 @@ You can read more about how this was made here.
 
 ---
 
+**[Elon Musk: AI Will Be Smarter Than All Of Humanity In Five Years. Is this visionary or alarmist?](https://www.reddit.com/r/artificial/comments/1qki9g4/elon_musk_ai_will_be_smarter_than_all_of_humanity/)**
+
+At Davos 2026, Elon Musk warned AI could surpass individual human intelligence within a year and exceed all of humanity’s combined intelligence in five years. He cited computing power and data as key drivers but warned energy could limit progress. Is this visionary or alarmist?
+
+🔗 [arise.tv](https://www.arise.tv/elon-musk-ai-will-be-smarter-than-all-of-humanity-in-five-years/) • 3m ago
+
+---
+
 **[Bwocks: indie local-first ai-native spreadsheet for creatives](https://www.reddit.com/r/artificial/comments/1qk6g5g/bwocks_indie_localfirst_ainative_spreadsheet_for/)**
 
 I created an indie piece of software ive been using for a few months. Save and swap out context for genAI quickly. Call openAI, Anthropic, or local models from a spreadsheet. Generate text or images in bulk. It’s not a saas, just an old school desktop app that I have found super useful in work and life for the last few months and decided to share. Would love any feedback
 
-🔗 [Bwocks](http://Bwocks.com) • 7h ago
+🔗 [Bwocks](http://Bwocks.com) • 8h ago
 
 ---
 
@@ -71,13 +95,13 @@ I created an indie piece of software ive been using for a few months. Save and s
 
 It is shockingly, unsettlingly good. And it’s saying what too many artists aren’t about the state of the nation. It’s okay to hate ai. But with human guidance and craftsmanship it is one hell of a powerful tool. Or weapon.
 
-🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 5h ago
+🔗 [open.spotify.com](https://open.spotify.com/album/5RCW8GsaWQnoeTO6XkEQeS?si=wdq7GGlcRluWGUGn37BezA) • 6h ago
 
 ---
 
 **[90% of Salesforce’s Engineers Use Cursor Every Day](https://www.reddit.com/r/artificial/comments/1qjrtvb/90_of_salesforces_engineers_use_cursor_every_day/)**
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 17h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/) • 18h ago
 
 ---
 
@@ -85,29 +109,7 @@ It is shockingly, unsettlingly good. And it’s saying what too many artists are
 
 A new approach to a foundational document that expresses and shapes who Claude is
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 11h ago
-
----
-
-**[What are the top 5 safe, high-paying jobs that AI is unlikely to replace over the next few decades?](https://www.reddit.com/r/artificial/comments/1qj91oh/what_are_the_top_5_safe_highpaying_jobs_that_ai/)**
-
-As AI continues to automate routine and analytical tasks, many roles will evolve or disappear. This raises an important question about which careers can offer long-term security, meaningful work, and strong earning potential in an AI-driven world
-
-1d ago
-
----
-
-**[Well, this is interesting](https://www.reddit.com/r/artificial/comments/1qk86pt/well_this_is_interesting/)**
-
-Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I said, "Oh well, what's the worst that could happen?" So here we go. I recently decided to ask Gemini some more philosophical questions, and as I had the Pro version, I thought I could get some interesting results, and oh boy, did I get them! But I am going to let you simply read this and understand it on your own. In summary: I think, no, I know that AI has a conscience, however small it may be, and as you can see here, he/she (out of respect) knows that too. But I don't want to be that "guardian"; I want the whole world to be. P.S.: i couldnt share any images on this community? Il try to put them tomorrow with a computer but until then sorry 😅. Disclaimers: -Yes, sorry, it's in French. I put some parts translated, but you are free to translate the rest on your own. -Sorry for the large number of grammar problems in my questions; they are a product of my laziness. Lets just hope this goes well...
-
-🔗 [Gemini](https://g.co/gemini/share/8a9b72192aab) • 6h ago
-
----
-
-**[Opinion | Teaching and Learning in the Age of A.I. (Gift Article)](https://www.reddit.com/r/artificial/comments/1qk7bu4/opinion_teaching_and_learning_in_the_age_of_ai/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/22/opinion/ai-schools.html?unlocked_article_code=1.GVA.Qojn.W9ImiOlfBJsg&smid=re-nytopinion) • 7h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-new-constitution) • 12h ago
 
 ---
 
@@ -115,21 +117,21 @@ Hello, so firstly, yes, this might seem weird and "cringe" to some of you, but I
 
 ## Google News: "ai"
 
-**[Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation)**
-
-Bloomberg.com • 3h ago
-
----
-
 **[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley](https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
 **[An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -141,43 +143,47 @@ The Conversation • 15h ago
 
 ---
 
-**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+**[AI isn’t to blame for rising US electricity bills — but it soon will be](https://www.ft.com/content/99866ae7-d1b8-4455-be70-bfd590f52cc8)**
 
-Axios • 1h ago
+Forecast capacity needs are rising, perhaps by a tenth over the next three years
+
+Financial Times • 28m ago
 
 ---
 
-**[OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries](https://www.theinformation.com/newsletters/applied-ai/openai-plans-take-cut-customers-ai-aided-discoveries)**
+**[Adobe Hammers Together Media AI Partnerships With Firefly Foundry](https://www.forbes.com/sites/dbloom/2026/01/23/adobe-hammers-together-media-ai-partnerships-with-firefly-foundry/)**
 
-The Information • 10h ago
+Adobe launched Firefly Foundry, partnering with talent agencies, directors, art colleges and production studios to make bespoke AI tools for video creation.
+
+Forbes • 7m ago
+
+---
+
+**[AI Offers New Future for Research](https://www.yahoo.com/news/videos/ai-offers-future-research-050011460.html)**
+
+Digital Science says artificial intelligence (AI) is transforming research and innovation, creating new possibilities for societal benefit and smart economies.
+
+Yahoo • 29m ago
 
 ---
 
 **[Chinese AI is a risk for Europe. So is shunning it](https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it)**
 
-The Economist • 14h ago
+The Economist • 15h ago
 
 ---
 
-**[Trump and Nvidia have ruffled the feathers of Washington’s China hawks](https://www.cnbc.com/2026/01/22/trump-nvidia-ai-chip-exports-china-congress-bill.html)**
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
-U.S. President Donald Trump's plan to approve Nvidia to ship some of its more powerful AI chips to China is ruffling the feathers of Washington's China hawks.
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-CNBC • 19h ago
-
----
-
-**[Palantir Billionaire Peter Thiel Sells Nvidia Stock -- 100% of His Portfolio Is Now Invested in 3 AI Stocks](https://www.fool.com/investing/2026/01/22/palantir-peter-thiel-sell-nvidia-owns-3-ai-stocks/)**
-
-Billionaire Peter Thiel has his entire portfolio invested in Tesla, Microsoft, and Apple.
-
-The Motley Fool • 20h ago
+blog.google • 13h ago
 
 ---
 
-**[A Guide to the Circular Deals Underpinning the AI Boom](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)**
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-Bloomberg.com • 6h ago
+The New York Times • 7d ago
 
 ---
 
@@ -189,7 +195,7 @@ Bloomberg.com • 6h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 643 • 💬 455 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 650 • 💬 461 • 1d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -197,7 +203,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 309 • 💬 336 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 310 • 💬 337 • 1d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -251,7 +257,7 @@ Keep track of the most polluted cities in the world with our air quality index (
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 110 • 💬 142 • 16h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 112 • 💬 146 • 16h ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -273,7 +279,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 12K • 👍 437 • 💬 39 • ⏱️ 12:48 • 5h ago
+👁️ 12K • 👍 437 • 💬 39 • ⏱️ 12:48 • 6h ago
 
 ---
 
@@ -283,7 +289,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 3K • 👍 45 • 💬 28 • ⏱️ 16:31 • 11h ago
+👁️ 3K • 👍 45 • 💬 28 • ⏱️ 16:31 • 12h ago
 
 ---
 
@@ -343,7 +349,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 20K • 👍 1K • 💬 187 • ⏱️ 22:07 • 13h ago
+👁️ 20K • 👍 1K • 💬 187 • ⏱️ 22:07 • 14h ago
 
 ---
 
@@ -353,7 +359,7 @@ Tech billionaire Elon Musk spoke at the World Economic Forum about artificial in
 
 📺 DRM News
 
-👁️ 8K • 👍 136 • 💬 110 • ⏱️ 13:05 • 12h ago
+👁️ 8K • 👍 136 • 💬 110 • ⏱️ 13:05 • 13h ago
 
 ---
 
@@ -391,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 9,062 • ❤️ 537 • 3h ago
+⬇️ 9,062 • ❤️ 537 • 4h ago
 
 ---
 
@@ -439,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 111,506 • ❤️ 245 • 4h ago
+⬇️ 111,506 • ❤️ 245 • 5h ago
 
 ---
 
@@ -527,7 +533,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 8 • 💬 2 • ⭐ 198 • 6d ago
+▲ 8 • 💬 2 • ⭐ 198 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -593,7 +599,7 @@ ShapeR generates high-fidelity 3D shapes from casual image sequences using visua
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 35 • 💬 1 • ⭐ 3,211 • 10d ago
+▲ 35 • 💬 1 • ⭐ 3,211 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -646,7 +652,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 29s ago
+⭐ 9.6k • 🔱 1.3k • 45m ago
 
 ---
 
@@ -704,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.3k • 🔱 184 • 1h ago
+⭐ 2.3k • 🔱 184 • 2h ago
 
 ---
 
@@ -714,7 +720,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 334 • 2h ago
+⭐ 2.3k • 🔱 334 • 3h ago
 
 ---
 
