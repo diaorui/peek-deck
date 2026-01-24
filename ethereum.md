@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T19:17:59.643527+00:00'
+updated: '2026-01-24T19:38:09.402466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 19:17 UTC  
+**Last Updated:** January 24, 2026 at 19:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 17h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 18h ago
 
 ---
 
@@ -184,7 +184,7 @@ AMBCrypto • 2d ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 909 • 👍 127 • 💬 28 • ⏱️ 7:22 • 2h ago
+👁️ 909 • 👍 127 • 💬 28 • ⏱️ 7:22 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 412 • 👍 44 • 💬 8 • ⏱️ 4:34 • 1h ago
+👁️ 412 • 👍 44 • 💬 8 • ⏱️ 4:34 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 942 • 👍 240 • 💬 5 • ⏱️ 12:01 • 55m ago
+👁️ 942 • 👍 240 • 💬 5 • ⏱️ 12:01 • 1h ago
 
 ---
 

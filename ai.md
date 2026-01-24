@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T19:17:59.628775+00:00'
+updated: '2026-01-24T19:38:09.387696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 19:17 UTC  
+**Last Updated:** January 24, 2026 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 **[The AI Delusion Epidemic](https://www.reddit.com/r/artificial/comments/1qlusy9/the_ai_delusion_epidemic/)**
 
-🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 44m ago
+🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-17m ago
+37m ago
 
 ---
 
@@ -95,7 +95,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ WIRED • 1d ago
 
 Exclusive: Experts say AI is likely to create more news deserts, fewer independent voices and threaten the viability of Australian journalism
 
-The Guardian • 15m ago
+The Guardian • 36m ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 15m ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo • 16h ago
 
 On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ Scientific American • 23h ago
 
 AI chip stocks still have a lot of upside from here.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 1K • 👍 116 • 💬 18 • ⏱️ 14:50 • 4h ago
+👁️ 1K • 👍 116 • 💬 18 • ⏱️ 14:50 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 240 • ⏱️ 28:01 • 16h ago
+👁️ 33K • 👍 2K • 💬 240 • ⏱️ 28:01 • 17h ago
 
 ---
 
@@ -421,7 +421,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 410 • 2d ago
+⬇️ 6,967 • ❤️ 410 • 3d ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 14h ago
+⭐ 9.7k • 🔱 1.3k • 15h ago
 
 ---
 
@@ -740,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.2k • 🔱 448 • 23h ago
+⭐ 2.2k • 🔱 448 • 1d ago
 
 ---
 

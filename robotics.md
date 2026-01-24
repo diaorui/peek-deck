@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T19:17:59.646823+00:00'
+updated: '2026-01-24T19:38:09.405714+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 19:17 UTC  
+**Last Updated:** January 24, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-24m ago
+44m ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 https://marvelmind.com/3d_vertical_map/
 
-10h ago
+11h ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 43K • 👍 1K • 💬 103 • ⏱️ 17:39 • 19h ago
+👁️ 43K • 👍 1K • 💬 103 • ⏱️ 17:39 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ New Anaksor robot has just arrived! This is a flying spider robot and it's abili
 
 📺 Bernie Sanders
 
-👁️ 24K • 👍 2K • 💬 111 • ⏱️ 1:13 • 1d ago
+👁️ 24K • 👍 2K • 💬 111 • ⏱️ 1:13 • 2d ago
 
 ---
 
