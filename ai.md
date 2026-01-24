@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T21:40:24.879483+00:00'
+updated: '2026-01-24T22:20:46.304338+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 21:40 UTC  
+**Last Updated:** January 24, 2026 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 10h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 10h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ So im assuming he makes the person ask a long questionnaire that feeds into ai, 
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-22h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ BBC • 23h ago
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 4h ago
 
 There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ TechCrunch • 1h ago
 
 Google’s SynthID AI detection tool flip-flopped when asked if an image posted by the White House was altered by Google's own AI.
 
-The Intercept • 19m ago
+The Intercept • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 1d ago
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -273,7 +273,7 @@ Helping you make informed decisions about your health by combining the latest re
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 67 • 💬 26 • 18h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 67 • 💬 26 • 19h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
 
 ---
 
@@ -287,7 +287,7 @@ Grab the voice agent prompt tool & all my AI builder resources on Skool: https:/
 
 📺 Liam Ottley
 
-👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 12h ago
+👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 13h ago
 
 ---
 
@@ -307,7 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 22h ago
+👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 23h ago
 
 ---
 
@@ -337,7 +337,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 21h ago
+👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 12h ago
+👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 13h ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 303 • 17h ago
+⬇️ 174,230 • ❤️ 303 • 18h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 549 • 15h ago
+⭐ 10.2k • 🔱 549 • 16h ago
 
 ---
 
@@ -702,7 +702,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 18h ago
+⭐ 5.8k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 6h ago
+⭐ 5.2k • 🔱 5.4k • 7h ago
 
 ---
 
@@ -722,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.4k • 🔱 466 • 2d ago
+⭐ 4.4k • 🔱 466 • 3d ago
 
 ---
 
@@ -750,7 +750,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.3k • 🔱 467 • 1h ago
+⭐ 2.3k • 🔱 467 • 2h ago
 
 ---
 

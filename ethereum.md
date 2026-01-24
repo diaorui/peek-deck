@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T21:40:24.893687+00:00'
+updated: '2026-01-24T22:20:46.319384+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 21:40 UTC  
+**Last Updated:** January 24, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 18h ago
 
 ---
 
@@ -128,7 +128,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
 
-1d ago
+2d ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 1d ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Winifred Kal
 
-👁️ 10K • 👍 446 • 7h ago
+👁️ 10K • 👍 446 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin failed to close above previously lost support again, and also printed a 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 449 • 💬 64 • ⏱️ 41:58 • 18h ago
+👁️ 7K • 👍 449 • 💬 64 • ⏱️ 41:58 • 19h ago
 
 ---
 

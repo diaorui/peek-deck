@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T21:40:24.887723+00:00'
+updated: '2026-01-24T22:20:46.313275+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 21:40 UTC  
+**Last Updated:** January 24, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Where do people even find that kind of courage?
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-11h ago
+12h ago
 
 ---
 
@@ -139,13 +139,13 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-7h ago
+8h ago
 
 ---
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ wtop.com • 2d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 1d ago
+ProPublica • 2d ago
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 18h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 19h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -328,7 +328,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 2K • 💬 65 • ⏱️ 47:21 • 7h ago
+👁️ 25K • 👍 2K • 💬 65 • ⏱️ 47:21 • 8h ago
 
 ---
 
@@ -368,7 +368,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 69K • 👍 3K • 💬 309 • ⏱️ 16:21 • 1d ago
+👁️ 69K • 👍 3K • 💬 309 • ⏱️ 16:21 • 2d ago
 
 ---
 
@@ -418,7 +418,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 9K • 👍 620 • 💬 122 • ⏱️ 4:57 • 10h ago
+👁️ 9K • 👍 620 • 💬 122 • ⏱️ 4:57 • 11h ago
 
 ---
 
