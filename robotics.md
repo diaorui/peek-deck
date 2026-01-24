@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T12:43:01.696750+00:00'
+updated: '2026-01-24T13:31:35.893166+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 12:43 UTC  
+**Last Updated:** January 24, 2026 at 13:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-3h ago
+4h ago
 
 ---
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 https://marvelmind.com/3d_vertical_map/
 
-4h ago
+5h ago
 
 ---
 
@@ -64,13 +64,13 @@ https://marvelmind.com/3d_vertical_map/
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-14m ago
+1h ago
 
 ---
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 I've been following the Stack-chan project for a while: it's an open-source AI desktop robot originally developed by Shinya Ishikawa that runs on the M5Stack ecosystem. M5Stack just launched an official Kickstarter to make the hardware more accessible, and I'm curious to get this sub's take on the platform. Do you think open-source modular platforms like this are the future for hobbyist robotics, or is the (co-creation) model too fragmented for serious development?
 
-57m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 2h ago
+Microsoft • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2d ago
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -178,7 +178,7 @@ Fox Business • 1d ago
 
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -198,27 +198,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 101 • 💬 16 • ⏱️ 18:41 • 13h ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 8K • 👍 74 • 💬 53 • ⏱️ 2:47 • 1d ago
-
----
-
-**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
-
-Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
-
-📺 Fox Business Clips
-
-👁️ 14K • 👍 219 • 💬 82 • ⏱️ 3:39 • 18h ago
+👁️ 3K • 👍 108 • 💬 16 • ⏱️ 18:41 • 13h ago
 
 ---
 
@@ -228,17 +208,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 48 • 💬 12 • ⏱️ 6:39 • 7h ago
-
----
-
-**[0% survival: Russian soldiers vs Ukrainian robots](https://www.youtube.com/watch?v=_BQ1xQ-o__M)**
-
-Our interactive news map: https://www.rfunews.com/map Subscribe to unlock full access to the map + exclusive strategic ...
-
-📺 RFU News — Strategic Geopolitics
-
-👁️ 131K • 👍 14K • 💬 498 • ⏱️ 5:29 • 1d ago
+👁️ 2K • 👍 58 • 💬 16 • ⏱️ 6:39 • 8h ago
 
 ---
 
@@ -252,13 +222,13 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
-**[Robots Are Addicted to Getting Hit By Trains](https://www.youtube.com/watch?v=IHRo8i-qaeU)**
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
 
-📺 penguinz0
+📺 DRM News
 
-👁️ 1.1M • 👍 48K • 💬 4K • ⏱️ 9:14 • 3d ago
+👁️ 469K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
 
 ---
 
@@ -268,7 +238,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 45K • 👍 1K • 💬 230 • ⏱️ 0:49 • 1d ago
+👁️ 45K • 👍 1K • 💬 231 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -276,7 +246,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 23K • 👍 2K • 💬 106 • ⏱️ 1:13 • 1d ago
+👁️ 23K • 👍 2K • 💬 107 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -286,7 +256,37 @@ Will this company be the “picks and shovels” of the robotics industry? Skild
 
 📺 Rowan Cheung
 
-👁️ 5K • 👍 328 • 💬 2 • ⏱️ 1:13 • 16h ago
+👁️ 6K • 👍 441 • 💬 3 • ⏱️ 1:13 • 16h ago
+
+---
+
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+
+📺 Global News
+
+👁️ 10K • 👍 91 • 💬 83 • ⏱️ 10:15 • 1d ago
+
+---
+
+**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
+
+At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
+
+📺 KhanFlicks
+
+👁️ 79K • 💬 36 • ⏱️ 12:09 • 6d ago
+
+---
+
+**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
+
+About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
+
+📺 Yahoo Finance
+
+👁️ 16K • 👍 180 • 💬 12 • ⏱️ 0:47 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T12:43:01.687474+00:00'
+updated: '2026-01-24T13:31:35.883985+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 12:43 UTC  
+**Last Updated:** January 24, 2026 at 13:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.77B
+**Market Cap:** $1785.99B
 Rank #1
 
-**Circulating Supply:** 19,980,071 BTC
+**Circulating Supply:** 19,980,096 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.1%
 
 **All-Time Low:** $67.81
-+131846.6%
++131722.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-3h ago
+4h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -107,7 +107,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 what do you think guys?
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ what do you think guys?
 
 I've frequently found myself gifting small amounts of bitcoin to friends and family, and wanted an end-all-be-all solution to it. Having them register an exchange or brokerage account for a casual gift is absurd, as is the cost and intense knowledge and preparation necessary to manage a software or hardware wallet. I wanted something that was as easy as handing them cash, a gold bar, or a gift card, so I made these cards! All existing solutions for a bearer-like instrument I found lacking in some way. I wanted it to be: Fireproof Not prone to flash-memory failure Tamper Evident Show it's denomination Show a verifiable address & QR code Explicitly state it contains bitcoin and is analogous to cash / gold bar, so it's not mistaken as a novelty product, and provides an analogy and some information for those unfamiliar with bitcoin Store a recovery phrase, not a private key (extremely easy electrum import and no risk of losing change funds while sweeping) I had a lot of fun with this! I went with braille because it encodes text with the least amount of engraving and I didn't feel like investing in a proper CNC for such a small initial batch lol. I would love one day for there to be a physical bitcoin market as large as physical gold and silver, and buying them as seamless as buying a 1oz gold bar on JM Bullion. I want to enable bitcoin believers to onboard their friends and family, including those not experienced with technology, with as little effort as possible. Handing someone a bar and saying "hey, you own bitcoin!" is so cool, and undoubtedly gets them thinking about it's potential as a store of value.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,13 +137,13 @@ I've frequently found myself gifting small amounts of bitcoin to friends and fam
 
 Just wondering
 
-5h ago
+6h ago
 
 ---
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1d ago
 
 Las Vegas Valley businesses, from restaurant chains to small juice bars, are embracing Bitcoin payments as mainstream adoption accelerates, with companies avoiding credit card processing fees averaging 2.5% to 3.5% while tapping into a growing customer base actively seeking crypto-friendly merchants. The shift follows Square’s November 2025 decision to enable ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency market can be volatile, but recent value declines could offer a buying opportunity.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ Fortune • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 4d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 5d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 9h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 10h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -328,7 +328,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 24K • 👍 411 • 💬 196 • ⏱️ 2:12 • 22h ago
+👁️ 26K • 👍 432 • 💬 209 • ⏱️ 2:12 • 23h ago
 
 ---
 
@@ -338,7 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 15h ago
+👁️ 44K • 👍 2K • 💬 224 • ⏱️ 8:40 • 16h ago
 
 ---
 
@@ -348,17 +348,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 63K • 👍 2K • 💬 299 • ⏱️ 16:21 • 1d ago
-
----
-
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
-
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
-
-📺 Swan Bitcoin
-
-👁️ 39K • 👍 1K • 💬 125 • ⏱️ 12:29 • 22h ago
+👁️ 64K • 👍 2K • 💬 302 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -368,7 +358,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 448 • 💬 59 • ⏱️ 1:04:53 • 17h ago
+👁️ 9K • 👍 455 • 💬 60 • ⏱️ 1:04:53 • 18h ago
 
 ---
 
@@ -382,13 +372,43 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 ---
 
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
+
+📺 Swan Bitcoin
+
+👁️ 40K • 👍 2K • 💬 132 • ⏱️ 12:29 • 23h ago
+
+---
+
+**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+
+How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+
+📺 Brad Long
+
+👁️ 7K • 👍 741 • 💬 104 • ⏱️ 14:05 • 16h ago
+
+---
+
 **[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
 
 Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 389 • ⏱️ 23:49 • 1d ago
+👁️ 32K • 👍 3K • 💬 395 • ⏱️ 23:49 • 1d ago
+
+---
+
+**[Bitcoin’s Next Move Is Closer Than You Think (Don’t Miss It)](https://www.youtube.com/watch?v=TKV0fqSbdZQ)**
+
+ETF outflows, geopolitical tension, and macro confusion are shaking the market—but is a breakout coming sooner than you think?
+
+📺 CryptosRus Extra
+
+👁️ 4K • 👍 288 • 💬 213 • ⏱️ 9:52 • 13h ago
 
 ---
 
@@ -398,27 +418,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 110 • ⏱️ 15:16 • 13h ago
-
----
-
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
-
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 284 • 💬 88 • ⏱️ 10:27 • 1d ago
-
----
-
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
-
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
-
-📺 The Sat Stacker Show
-
-👁️ 5K • 👍 295 • 💬 86 • ⏱️ 14:22 • 1d ago
+👁️ 17K • 👍 1K • 💬 117 • ⏱️ 15:16 • 14h ago
 
 ---
 

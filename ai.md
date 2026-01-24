@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T12:43:01.678973+00:00'
+updated: '2026-01-24T13:31:35.875692+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 12:43 UTC  
+**Last Updated:** January 24, 2026 at 13:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 1h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 From blog ideas to SEO optimization, Kitful.ai automates content workflows, delivers outlines, drafts, listicles, optimized meta titles, and helps you rank faster with less effort.
 
-🔗 [kitful.ai](https://kitful.ai/blog/how-ai-is-changing-content-strategy-in-2026) • 1h ago
+🔗 [kitful.ai](https://kitful.ai/blog/how-ai-is-changing-content-strategy-in-2026) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -149,7 +149,7 @@ Time Magazine • 15h ago
 
 Automation could boost productivity and salaries for some workers but wipe out entry-level jobs.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -163,13 +163,13 @@ Business Insider • 2h ago
 
 **[Singapore Pours $786 Million Into Race to Become AI Powerhouse](https://www.bloomberg.com/news/articles/2026-01-24/singapore-pours-786-million-into-race-to-become-ai-powerhouse)**
 
-Bloomberg • 41m ago
+Bloomberg • 1h ago
 
 ---
 
 **[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
 
-weforum.org • 20h ago
+weforum.org • 21h ago
 
 ---
 
@@ -183,7 +183,7 @@ Reuters • 10h ago
 
 Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
-CNBC • 38m ago
+CNBC • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 129 • 💬 78 • 23h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 129 • 💬 78 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -289,77 +289,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 7K • 👍 92 • 💬 50 • ⏱️ 16:31 • 1d ago
-
----
-
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
-
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
-
-📺 AI Revolution
-
-👁️ 51K • 👍 1K • 💬 115 • ⏱️ 12:48 • 1d ago
-
----
-
-**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
-
-Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
-
-📺 Vanessa Wingårdh
-
-👁️ 364K • 👍 19K • 💬 4K • ⏱️ 10:08 • 23h ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 72K • 👍 799 • 💬 456 • ⏱️ 6:52 • 2d ago
-
----
-
-**[Google DeepMind CEO on state of the AI race, push towards AGI and AI impact on jobs](https://www.youtube.com/watch?v=uVPdYqiULTo)**
-
-Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss the evolution of Gemini in the AI tech race, ...
-
-📺 CNBC Television
-
-👁️ 21K • 👍 253 • 💬 74 • ⏱️ 5:34 • 23h ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 20K • 👍 1K • 💬 146 • ⏱️ 28:01 • 10h ago
-
----
-
-**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
-
-A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
-
-📺 Law&Crime Network
-
-👁️ 23K • 👍 514 • 💬 162 • ⏱️ 21:14 • 16h ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 143K • 👍 2K • 💬 397 • ⏱️ 9:36 • 2d ago
+👁️ 7K • 👍 92 • 💬 53 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -369,7 +299,47 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 9K • 👍 415 • 💬 37 • ⏱️ 9:10 • 12h ago
+👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 13h ago
+
+---
+
+**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
+
+Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
+
+📺 AI Revolution
+
+👁️ 52K • 👍 1K • 💬 116 • ⏱️ 12:48 • 1d ago
+
+---
+
+**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
+
+Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
+
+📺 Vanessa Wingårdh
+
+👁️ 377K • 👍 19K • 💬 5K • ⏱️ 10:08 • 1d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 73K • 👍 809 • 💬 456 • ⏱️ 6:52 • 2d ago
+
+---
+
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+
+📺 Matt Wolfe
+
+👁️ 24K • 👍 1K • 💬 167 • ⏱️ 28:01 • 11h ago
 
 ---
 
@@ -379,7 +349,37 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 518K • 👍 2K • 💬 38 • ⏱️ 11:47 • 2d ago
+👁️ 528K • 👍 2K • 💬 40 • ⏱️ 11:47 • 2d ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 145K • 👍 2K • 💬 413 • ⏱️ 9:36 • 2d ago
+
+---
+
+**[Google DeepMind CEO on state of the AI race, push towards AGI and AI impact on jobs](https://www.youtube.com/watch?v=uVPdYqiULTo)**
+
+Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss the evolution of Gemini in the AI tech race, ...
+
+📺 CNBC Television
+
+👁️ 22K • 👍 254 • 💬 76 • ⏱️ 5:34 • 1d ago
+
+---
+
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+
+📺 AI Revolution
+
+👁️ 34K • 👍 1K • 💬 78 • ⏱️ 15:40 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,092 • 3d ago
+⬇️ 279,658 • ❤️ 1,101 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 758 • 1d ago
+⬇️ 22,852 • ❤️ 768 • 1d ago
 
 ---
 
@@ -419,19 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 393 • 2d ago
-
----
-
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
-
-*Unsloth AI*
-
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
-
-`text-generation` `29.9B`
-
-⬇️ 174,230 • ❤️ 292 • 8h ago
+⬇️ 6,967 • ❤️ 398 • 2d ago
 
 ---
 
@@ -443,7 +431,19 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 287 • 1d ago
+⬇️ 20,374 • ❤️ 303 • 1d ago
+
+---
+
+**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+
+*Unsloth AI*
+
+GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+
+`text-generation` `29.9B`
+
+⬇️ 174,230 • ❤️ 295 • 9h ago
 
 ---
 
@@ -455,7 +455,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 67,913 • ❤️ 517 • 8d ago
+⬇️ 67,913 • ❤️ 519 • 8d ago
 
 ---
 
@@ -479,7 +479,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 212 • 3d ago
+⬇️ 11,299 • ❤️ 213 • 3d ago
 
 ---
 
@@ -489,7 +489,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 42,118 • ❤️ 452 • 4d ago
+⬇️ 42,118 • ❤️ 455 • 4d ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 542 • 6h ago
+⭐ 10.1k • 🔱 542 • 7h ago
 
 ---
 
@@ -670,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 448 • 2d ago
+⭐ 8.8k • 🔱 450 • 2d ago
 
 ---
 
@@ -680,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 880 • 1d ago
+⭐ 7.4k • 🔱 884 • 1d ago
 
 ---
 
@@ -690,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 9h ago
+⭐ 5.8k • 🔱 1.0k • 10h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.3k • 1h ago
+⭐ 5.1k • 🔱 5.4k • 2h ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.2k • 🔱 446 • 2d ago
+⭐ 4.2k • 🔱 451 • 2d ago
 
 ---
 
@@ -718,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.7k • 🔱 222 • 1d ago
+⭐ 2.7k • 🔱 223 • 1d ago
 
 ---
 
@@ -738,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.1k • 🔱 421 • 17h ago
+⭐ 2.1k • 🔱 431 • 18h ago
 
 ---
 
