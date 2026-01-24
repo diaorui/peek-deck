@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T08:52:09.455388+00:00'
+updated: '2026-01-24T09:22:02.029680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 08:52 UTC  
+**Last Updated:** January 24, 2026 at 09:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Just wondering
 
-1h ago
+2h ago
 
 ---
 
@@ -131,13 +131,13 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-21m ago
+51m ago
 
 ---
 
 **[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 15h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -181,13 +181,13 @@ Fortune • 1d ago
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-wtop.com • 1d ago
+wtop.com • 2d ago
 
 ---
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -217,7 +217,7 @@ CNBC • 2d ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 22K • 👍 381 • 💬 195 • ⏱️ 2:12 • 18h ago
+👁️ 22K • 👍 381 • 💬 195 • ⏱️ 2:12 • 19h ago
 
 ---
 
@@ -350,7 +350,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 1K • 💬 127 • ⏱️ 12:29 • 18h ago
+👁️ 38K • 👍 1K • 💬 127 • ⏱️ 12:29 • 19h ago
 
 ---
 
@@ -370,7 +370,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 438 • 💬 60 • ⏱️ 1:04:53 • 13h ago
+👁️ 9K • 👍 438 • 💬 60 • ⏱️ 1:04:53 • 14h ago
 
 ---
 
@@ -380,7 +380,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 15:16 • 9h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 15:16 • 10h ago
 
 ---
 
@@ -410,7 +410,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 132 • 💬 34 • ⏱️ 1:26 • 17h ago
+👁️ 3K • 👍 132 • 💬 34 • ⏱️ 1:26 • 18h ago
 
 ---
 

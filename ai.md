@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T08:52:09.446956+00:00'
+updated: '2026-01-24T09:22:02.019225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 08:52 UTC  
+**Last Updated:** January 24, 2026 at 09:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 10h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 16h ago
+WIRED • 17h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 2h ago
 
 **[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
 
-weforum.org • 16h ago
+weforum.org • 17h ago
 
 ---
 
@@ -161,7 +161,7 @@ weforum.org • 16h ago
 
 Leaders want AI to drive productivity and have aims for adults to get free training on how to use it.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ blog.google • 1d ago
 
 **[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -183,7 +183,7 @@ The New York Times • 22h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -307,7 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 13K • 👍 1K • 💬 160 • ⏱️ 15:27 • 9h ago
+👁️ 13K • 👍 1K • 💬 160 • ⏱️ 15:27 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 350K • 👍 18K • 💬 4K • ⏱️ 10:08 • 19h ago
+👁️ 350K • 👍 18K • 💬 4K • ⏱️ 10:08 • 20h ago
 
 ---
 
@@ -377,7 +377,7 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 250 • 💬 74 • ⏱️ 5:34 • 19h ago
+👁️ 21K • 👍 250 • 💬 74 • ⏱️ 5:34 • 20h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 5h ago
+⭐ 5.8k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.3k • 1h ago
+⭐ 5.0k • 🔱 5.3k • 2h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 415 • 13h ago
+⭐ 2.0k • 🔱 415 • 14h ago
 
 ---
 

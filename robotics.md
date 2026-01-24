@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T08:52:09.464733+00:00'
+updated: '2026-01-24T09:22:02.038913+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 08:52 UTC  
+**Last Updated:** January 24, 2026 at 09:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-7m ago
+37m ago
 
 ---
 
@@ -62,7 +62,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 https://marvelmind.com/3d_vertical_map/
 
-23m ago
+53m ago
 
 ---
 
@@ -94,7 +94,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
 
-9h ago
+10h ago
 
 ---
 
@@ -216,7 +216,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 39 • 💬 12 • ⏱️ 6:39 • 3h ago
+👁️ 1K • 👍 39 • 💬 12 • ⏱️ 6:39 • 4h ago
 
 ---
 
