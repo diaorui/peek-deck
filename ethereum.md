@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T07:20:42.136912+00:00'
+updated: '2026-01-24T07:41:00.611297+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 07:20 UTC  
+**Last Updated:** January 24, 2026 at 07:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -9.8%  
-**30d:** +1.0%  
-**90d:** -28.1%  
-**1y:** -10.7%  
+**24h:** +1.0%  
+**7d:** -9.9%  
+**30d:** +0.9%  
+**90d:** -28.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -104,7 +104,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 5h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 6h ago
 
 ---
 
@@ -176,11 +176,11 @@ CoinDesk • 1h ago
 
 ---
 
-**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
 
-Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView — Track All Markets • 18h ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 1K • 👍 69 • 💬 34 • ⏱️ 24:38 • 14h ago
+👁️ 1K • 👍 69 • 💬 34 • ⏱️ 24:38 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 356 • 👍 10 • 💬 1 • ⏱️ 6:07 • 11h ago
+👁️ 356 • 👍 10 • 💬 1 • ⏱️ 6:07 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 7 • ⏱️ 4:35 • 15h ago
+👁️ 1K • 👍 83 • 💬 7 • ⏱️ 4:35 • 16h ago
 
 ---
 

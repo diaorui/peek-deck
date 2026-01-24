@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T07:20:42.130656+00:00'
+updated: '2026-01-24T07:41:00.606060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 07:20 UTC  
+**Last Updated:** January 24, 2026 at 07:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,758.77
+### $89,636.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -4.3%  
-**30d:** +2.7%  
-**90d:** -21.5%  
-**1y:** -14.4%  
+**24h:** +0.4%  
+**7d:** -4.4%  
+**30d:** +2.6%  
+**90d:** -21.6%  
+**1y:** -14.5%  
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
+**[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-19h ago
+6h ago
 
 ---
 
-**[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
+**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-5h ago
+19h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-12h ago
+13h ago
 
 ---
 
@@ -115,9 +115,11 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 ---
 
-**[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
+**[How long do you think this boring phase will last?](https://www.reddit.com/r/Bitcoin/comments/1qlg3yc/how_long_do_you_think_this_boring_phase_will_last/)**
 
-1h ago
+Just wondering
+
+42m ago
 
 ---
 
@@ -129,17 +131,17 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 ---
 
+**[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
+
+1h ago
+
+---
+
 **[IBIT](https://www.reddit.com/r/Bitcoin/comments/1ql6kc3/ibit/)**
 
 Is holding IBIT the same as real bitcoin? I really believe in crypto and want to hold for the long run and buy everyday. Would buying Ibit be much different?
 
-7h ago
-
----
-
-**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -187,7 +189,7 @@ The Motley Fool • 21h ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqfm3tuK5lsLBZMgjvPQFkw7mvQqzuFIwP-iVnOOUr0bSulSvgzD6QlA&gaa_ts=69746b43&gaa_sig=j5fYfmZd6byXrgGQ2TMD3iuj0xaxjbxwjK8Kp30fi3fpWfiNI_-6AW1DeYxbkiSY2sSRP9kPozeNp1obgLSntA%3D%3D)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqecx267DbFyVKfdR0LuNoR7H5evhQ19OMypkiIOUKcnTLlaLttSRjZz&gaa_ts=69747ada&gaa_sig=uc74aJrp6mWkauU1FEfHpOk9fnDZkzDTZbeRjwuy_HgiRMeMhRN0hpi2DYXSPFfkFPYg7iV7U8UKO7HbmuKgzQ%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -213,13 +215,13 @@ wtop.com • 1d ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
-**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
+**[Bitcoin struggles to regain momentum amid persistent overhead supply: Glassnode](https://www.theblock.co/post/386680/bitcoin-struggles-to-regain-momentum-amid-persistent-overhead-supply-glassnode)**
 
-The Block • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -342,7 +344,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 174 • ⏱️ 8:40 • 9h ago
+👁️ 30K • 👍 2K • 💬 174 • ⏱️ 8:40 • 10h ago
 
 ---
 
@@ -392,7 +394,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 15h ago
+👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 16h ago
 
 ---
 
