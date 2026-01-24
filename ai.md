@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T10:22:52.712431+00:00'
+updated: '2026-01-24T10:45:34.234597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 10:22 UTC  
+**Last Updated:** January 24, 2026 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-20h ago
+21h ago
 
 ---
 
@@ -81,7 +81,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 21h ago
 
 ---
 
@@ -113,7 +113,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 11h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -243,7 +243,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 181 • 💬 167 • 15h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 181 • 💬 167 • 16h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -289,7 +289,7 @@ Qwen3 TTS review & installation tutorial. How to run Qwen3 TTS on ComfyUI. Best 
 
 📺 AI Search
 
-👁️ 15K • 👍 1K • 💬 301 • ⏱️ 26:18 • 6h ago
+👁️ 15K • 👍 1K • 💬 301 • ⏱️ 26:18 • 7h ago
 
 ---
 
@@ -339,7 +339,7 @@ A shopping trip to a Florida Home Depot turned chaotic when a content creator's 
 
 📺 Law&Crime Network
 
-👁️ 23K • 👍 504 • 💬 160 • ⏱️ 21:14 • 13h ago
+👁️ 23K • 👍 504 • 💬 160 • ⏱️ 21:14 • 14h ago
 
 ---
 
@@ -349,7 +349,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 829 • 💬 117 • ⏱️ 28:01 • 7h ago
+👁️ 13K • 👍 829 • 💬 117 • ⏱️ 28:01 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ Try your own Zapier workflow today and see how much time you can save — click 
 
 📺 WorldofAI
 
-👁️ 4K • 👍 256 • 💬 8 • ⏱️ 10:09 • 6h ago
+👁️ 4K • 👍 256 • 💬 8 • ⏱️ 10:09 • 7h ago
 
 ---
 
@@ -489,7 +489,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 207 • 2d ago
+⬇️ 11,299 • ❤️ 207 • 3d ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 5h ago
+⭐ 9.6k • 🔱 1.3k • 6h ago
 
 ---
 

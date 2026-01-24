@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T10:22:52.720756+00:00'
+updated: '2026-01-24T10:45:34.242993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 10:22 UTC  
+**Last Updated:** January 24, 2026 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ what do you think guys?
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ ProPublica • 1d ago
 
 Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg • 1d ago
 
 This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 23h ago
 
 More than $700M flowed out of US spot Bitcoin ETFs in a single day this week, marking the sharpest pullback in two months. Let’s dive into why is crypto crashing? According to Bloomberg’s latest report on January 21, investors pulled roughly $709M from spot Bitcoin ETFs listed in the US. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 1h ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -334,7 +334,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 12h ago
+👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 13h ago
 
 ---
 
@@ -364,7 +364,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 18h ago
+👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 19h ago
 
 ---
 

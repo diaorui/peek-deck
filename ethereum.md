@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T10:22:52.726817+00:00'
+updated: '2026-01-24T10:45:34.249027+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 10:22 UTC  
+**Last Updated:** January 24, 2026 at 10:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 8h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 9h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 1d ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 398 • 👍 11 • 💬 1 • ⏱️ 6:07 • 14h ago
+👁️ 398 • 👍 11 • 💬 1 • ⏱️ 6:07 • 15h ago
 
 ---
 
