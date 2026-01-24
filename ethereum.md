@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T11:18:59.214411+00:00'
+updated: '2026-01-24T11:40:00.570519+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 11:18 UTC  
+**Last Updated:** January 24, 2026 at 11:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,959.14
+### $2,964.58
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.8%  
 **7d:** -9.8%  
 **30d:** +1.0%  
 **90d:** -28.1%  
@@ -112,7 +112,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 9h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 10h ago
 
 ---
 
@@ -176,17 +176,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-CCN.com • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://finance.yahoo.com/news/ethereum-price-exceed-12-000-100216272.html)**
 
-Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+JPMorgan urges caution on Ethereum’s growth. Bullish forecasts remain sharply divided. Technical signals point to near-term risk. Ethereum’s rally narrative is facing fresh scrutiny after ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Foundation makes post quantum security a top priority as new team forms](https://www.coindesk.com/tech/2026/01/24/ethereum-foundation-makes-post-quantum-security-a-top-priority-as-new-team-forms)**
+
+EF researcher Justin Drake says a new post quantum team will drive wallet safety upgrades, research prizes and test networks as quantum timelines shorten.
+
+CoinDesk • 5h ago
+
+---
+
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -195,12 +209,6 @@ Yahoo Finance • 1d ago
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
 TradingView — Track All Markets • 22h ago
-
----
-
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
-
-The Block • 1d ago
 
 ---
 
@@ -217,14 +225,6 @@ CryptoPotato • 15h ago
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
 Finance Magnates • 2d ago
-
----
-
-**[$2.3 Billion in Bitcoin and Ethereum Options Set to Expire—Is a Volatility Shock Looming?](https://beincrypto.com/bitcoin-ethereum-options-expiry-2026-3/)**
-
-Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
-
-BeInCrypto • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 444 • 👍 12 • 💬 1 • ⏱️ 6:07 • 15h ago
+👁️ 444 • 👍 12 • 💬 1 • ⏱️ 6:07 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 2K • 👍 87 • 💬 31 • ⏱️ 24:38 • 18h ago
+👁️ 2K • 👍 87 • 💬 31 • ⏱️ 24:38 • 19h ago
 
 ---
 

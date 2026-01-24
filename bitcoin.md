@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T11:18:59.208400+00:00'
+updated: '2026-01-24T11:40:00.564488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 11:18 UTC  
+**Last Updated:** January 24, 2026 at 11:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.3%  
 **7d:** -4.4%  
-**30d:** +2.6%  
+**30d:** +2.7%  
 **90d:** -21.5%  
 **1y:** -14.4%  
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
-
-9h ago
-
----
-
 **[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
@@ -97,7 +91,19 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
+**[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
+
+9h ago
+
+---
+
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+
+4h ago
+
+---
+
+**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
 3h ago
 
@@ -109,9 +115,19 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
+**[Bitcoin Undervalued & Gold Overvalued](https://www.reddit.com/r/Bitcoin/comments/1qlii2x/bitcoin_undervalued_gold_overvalued/)**
 
-3h ago
+what do you think guys?
+
+2h ago
+
+---
+
+**[Bitcoin will have the last laugh](https://www.reddit.com/r/Bitcoin/comments/1qliuwc/bitcoin_will_have_the_last_laugh/)**
+
+Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
+
+1h ago
 
 ---
 
@@ -123,23 +139,9 @@ Just wondering
 
 ---
 
-**[My bitcoin position](https://www.reddit.com/r/Bitcoin/comments/1qlifgl/my_bitcoin_position/)**
+**[I made the ultimate physical bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qlhyt9/i_made_the_ultimate_physical_bitcoin/)**
 
-I transferred BTC from kraken, cash app, river, coin base for the 3% Robinhood gave me so my position is not accurate because Robinhood couldn’t accurately price it. My average is around 116-118. I’m down around 5k but still happy because I believe in BTC long term 😊
-
-2h ago
-
----
-
-**[Bitcoin Undervalued & Gold Overvalued](https://www.reddit.com/r/Bitcoin/comments/1qlii2x/bitcoin_undervalued_gold_overvalued/)**
-
-what do you think guys?
-
-1h ago
-
----
-
-**[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
+I've frequently found myself gifting small amounts of bitcoin to friends and family, and wanted an end-all-be-all solution to it. Having them register an exchange or brokerage account for a casual gift is absurd, as is the cost and intense knowledge and preparation necessary to manage a software or hardware wallet. I wanted something that was as easy as handing them cash, a gold bar, or a gift card, so I made these cards! All existing solutions for a bearer-like instrument I found lacking in some way. I wanted it to be: Fireproof Not prone to flash-memory failure Tamper Evident Show it's denomination Show a verifiable address & QR code Explicitly state it contains bitcoin and is analogous to cash / gold bar, so it's not mistaken as a novelty product, and provides an analogy and some information for those unfamiliar with bitcoin Store a recovery phrase, not a private key (extremely easy electrum import and no risk of losing change funds while sweeping) I had a lot of fun with this! I went with braille because it encodes text with the least amount of engraving and I didn't feel like investing in a proper CNC for such a small initial batch lol. I would love one day for there to be a physical bitcoin market as large as physical gold and silver, and buying them as seamless as buying a 1oz gold bar on JM Bullion. I want to enable bitcoin believers to onboard their friends and family, including those not experienced with technology, with as little effort as possible. Handing someone a bar and saying "hey, you own bitcoin!" is so cool, and undoubtedly gets them thinking about it's potential as a store of value.
 
 2h ago
 
@@ -157,14 +159,6 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
-
-Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
-
-CoinDesk • 19h ago
-
----
-
 **[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
@@ -173,23 +167,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
 
-The Block • 15h ago
+Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
----
-
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
-
-Bloomberg • 1d ago
+CoinDesk • 17h ago
 
 ---
 
-**[Four-day U.S. BTC ETF outflows are largest since November, tend to mark local price bottoms](https://www.coindesk.com/markets/2026/01/23/u-s-bitcoin-etf-outflows-largest-since-november-may-signal-imminent-price-rebound)**
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
 
-This week's redemptions reached the highest level since November, a signal that often marks a local bottom in the price of bitcoin.
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 21h ago
+
+---
+
+**[Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies](https://www.reuters.com/business/bitwise-proficio-capital-partners-etf-targets-gold-metals-bitcoin-alternative-2026-01-23/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -197,7 +193,15 @@ CoinDesk • 1d ago
 
 More than $700M flowed out of US spot Bitcoin ETFs in a single day this week, marking the sharpest pullback in two months. Let’s dive into why is crypto crashing? According to Bloomberg’s latest report on January 21, investors pulled roughly $709M from spot Bitcoin ETFs listed in the US. ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2026/01/24/better-crypto-buy-bitcoin-vs-xrp/)**
+
+The cryptocurrency market can be volatile, but recent value declines could offer a buying opportunity.
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -209,19 +213,19 @@ Forbes • 18h ago
 
 ---
 
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
+
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
+
+wtop.com • 2d ago
+
+---
+
 **[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 1d ago
-
----
-
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
-
-Some fear massive consequences for financial markets.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -334,7 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 13h ago
+👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 14h ago
 
 ---
 
