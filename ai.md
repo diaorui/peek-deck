@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T05:44:52.902489+00:00'
+updated: '2026-01-24T06:33:56.817345+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 05:44 UTC  
+**Last Updated:** January 24, 2026 at 06:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,15 +57,23 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-6h ago
+7h ago
 
 ---
 
-**[AI makes humans useless](https://www.reddit.com/r/artificial/comments/1qldruh/ai_makes_humans_useless/)**
+**[Built a Sandbox for Agents](https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/)**
 
-People who say AI makes humans useless are missing the point. Real data from Anthropic’s AI usage research shows the opposite, that users with higher skills and more education tend to get way better results from AI because they know how to ask better questions and guide the model instead of just copying outputs. That’s why in wealthier countries with higher AI literacy, Claude usage is more productive and focused on work tasks, while in places with lower resources it’s mostly basic help, and the productivity gap widens accordingly. The report suggests AI augments human ability and doesn’t replace it, but only if users have the skills to work with it intelligently. If you just treat AI like a magic answer machine, you’re the one who gets useless results, not the tool.
+Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-50m ago
+59m ago
+
+---
+
+**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
+
+Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
+
+1h ago
 
 ---
 
@@ -73,15 +81,7 @@ People who say AI makes humans useless are missing the point. Real data from Ant
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-6h ago
-
----
-
-**[I don’t think using AI for surveillance of kids in school is a good idea](https://www.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/)**
-
-I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
-
-19h ago
+7h ago
 
 ---
 
@@ -93,11 +93,19 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 ---
 
+**[I don’t think using AI for surveillance of kids in school is a good idea](https://www.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/)**
+
+I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
+
+19h ago
+
+---
+
 **[YouTube Says Creators Can Use AI-generated Likenesses in Shorts](https://www.reddit.com/r/artificial/comments/1qks4oh/youtube_says_creators_can_use_aigenerated/)**
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 15h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 16h ago
 
 ---
 
@@ -105,15 +113,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 11h ago
-
----
-
-**[Incredibly detailed isometric map of NYC (made with Qwen-Image-Edit)](https://www.reddit.com/r/artificial/comments/1qk9pqe/incredibly_detailed_isometric_map_of_nyc_made/)**
-
-You can read more about how this was made here.
-
-🔗 [cannoneyed.com](https://cannoneyed.com/isometric-nyc/) • 1d ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 12h ago
 
 ---
 
@@ -125,7 +125,7 @@ You can read more about how this was made here.
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -133,13 +133,43 @@ BBC • 7h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 13h ago
+WIRED • 14h ago
 
 ---
 
-**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
+**[Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/)**
 
-The New York Times • 5h ago
+Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.
+
+TechCrunch • 13h ago
+
+---
+
+**[Meta halts teens' access to AI characters globally](https://www.reuters.com/business/meta-halts-teens-access-ai-characters-globally-2026-01-23/)**
+
+Reuters • 9h ago
+
+---
+
+**[Meta to suspend teens’ access to AI characters amid safety overhaul](https://www.foxbusiness.com/technology/meta-suspend-teens-access-ai-characters-amid-safety-overhaul)**
+
+Meta said it will suspend access to AI characters for teenagers across its apps while new safety features are developed.
+
+Fox Business • 1h ago
+
+---
+
+**[Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/)**
+
+Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.
+
+TechCrunch • 1h ago
+
+---
+
+**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
+
+The New York Times • 20h ago
 
 ---
 
@@ -153,43 +183,13 @@ blog.google • 1d ago
 
 **[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Bloomberg • 11h ago
+Bloomberg • 12h ago
 
 ---
 
-**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqcvNQcBcO-9bzU0HYsQWJgGIsBV7miNiwVZrJCOw4DiDWNrRwAEh48u&gaa_ts=69745420&gaa_sig=7GYxXvgNQc3qrpsmO9CRI6qsG5jHXrZpodVfVOUSDA4nI2RGHGmBCjzAW8APkKQAYYZwo1INyglS8WV-lqM9HA%3D%3D)**
+**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqf8M0bKKzyyuCpaYqZpU5gndRN-29rLsxVFE6aLTvcMShsbHF_Nu9y1&gaa_ts=69746b41&gaa_sig=Lqq2eNmR61bQm1xdQ4tcuuWilX3gcwpknK3zZWaKv9zo2YKvy3ukOpGLVqOkCfXadguxzYT3VeCWOlvMJrH7tA%3D%3D)**
 
-The Wall Street Journal • 13h ago
-
----
-
-**[Like digging ‘your own professional grave’: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)**
-
-While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
-
-CNN • 18h ago
-
----
-
-**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
-
-Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
-
-The Guardian • 10h ago
-
----
-
-**[Job Applicants Sue to Open ‘Black Box’ of A.I. Hiring Decisions](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
-
-The New York Times • 2d ago
-
----
-
-**[AI anxiety is so widespread that veteran Microsoft researchers are having panic attacks because they're making themselves obsolete](https://fortune.com/2026/01/23/ai-anxiety-widespread-panic-attack-microsoft-researcher-dario-amodei/)**
-
-"My 52-year-old body had one of those moments when I saw a future where I wasn’t involved," Chris Brockett told Cade Metz for his book on AI.
-
-Fortune • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -209,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 487 • 💬 348 • 22h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 493 • 💬 350 • 23h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 473 • 💬 252 • 19h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 476 • 💬 254 • 20h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -249,7 +249,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 177 • 💬 159 • 11h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 179 • 💬 162 • 11h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -257,7 +257,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 151 • 💬 202 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 152 • 💬 202 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -273,7 +273,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 123 • 💬 77 • 16h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 126 • 💬 77 • 17h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -287,7 +287,17 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 7K • 👍 88 • 💬 45 • ⏱️ 16:31 • 1d ago
+👁️ 7K • 👍 89 • 💬 45 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+
+📺 Matt Wolfe
+
+👁️ 8K • 👍 563 • 💬 74 • ⏱️ 28:01 • 4h ago
 
 ---
 
@@ -297,47 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 6K • 👍 860 • 💬 107 • ⏱️ 15:27 • 6h ago
-
----
-
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
-
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 1K • 💬 108 • ⏱️ 12:48 • 1d ago
-
----
-
-**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
-
-YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
-
-📺 Deep Humor
-
-👁️ 22K • 👍 2K • 💬 533 • ⏱️ 9:46 • 1d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 69K • 👍 773 • 💬 446 • ⏱️ 6:52 • 2d ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 131K • 👍 2K • 💬 361 • ⏱️ 9:36 • 2d ago
+👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 7h ago
 
 ---
 
@@ -347,37 +317,67 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 322K • 👍 17K • 💬 4K • ⏱️ 10:08 • 16h ago
+👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 17h ago
 
 ---
 
-**[How I Make AI Animation Videos For Free](https://www.youtube.com/watch?v=iUngM0oOAYg)**
+**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
 
-Build Your First Successful Channel - https://www.skool.com/scalable-creator-os-4776 Prompts and tools here ...
+A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
 
-📺 BigStepsMedia
+📺 Law&Crime Network
 
-👁️ 5K • 👍 229 • 💬 12 • ⏱️ 8:40 • 1d ago
-
----
-
-**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
-
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
-
-📺 Parker Prompts
-
-👁️ 29K • 💬 23 • ⏱️ 10:12 • 2d ago
+👁️ 21K • 👍 492 • 💬 151 • ⏱️ 21:14 • 10h ago
 
 ---
 
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
 
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
 
-📺 Love And Peace
+📺 AI Revolution
 
-👁️ 484K • 👍 2K • 💬 30 • ⏱️ 11:47 • 2d ago
+👁️ 48K • 👍 1K • 💬 109 • ⏱️ 12:48 • 1d ago
+
+---
+
+**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
+
+YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
+
+📺 Deep Humor
+
+👁️ 22K • 👍 2K • 💬 539 • ⏱️ 9:46 • 1d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 70K • 👍 788 • 💬 449 • ⏱️ 6:52 • 2d ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 136K • 👍 2K • 💬 379 • ⏱️ 9:36 • 2d ago
+
+---
+
+**[Google DeepMind CEO on state of the AI race, push towards AGI and AI impact on jobs](https://www.youtube.com/watch?v=uVPdYqiULTo)**
+
+Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss the evolution of Gemini in the AI tech race, ...
+
+📺 CNBC Television
+
+👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,077 • 3d ago
+⬇️ 199,346 • ❤️ 1,082 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 725 • 1d ago
+⬇️ 17,010 • ❤️ 742 • 1d ago
 
 ---
 
@@ -417,7 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 376 • 2d ago
+⬇️ 4,644 • ❤️ 386 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 514 • 8d ago
+⬇️ 60,736 • ❤️ 515 • 8d ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 284 • 1h ago
+⬇️ 145,992 • ❤️ 287 • 2h ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 247 • 1d ago
+⬇️ 4,244 • ❤️ 261 • 1d ago
 
 ---
 
@@ -465,19 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 436 • ❤️ 218 • 3d ago
-
----
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 11,681 • ❤️ 967 • 8d ago
+⬇️ 436 • ❤️ 220 • 3d ago
 
 ---
 
@@ -487,7 +475,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 447 • 4d ago
+⬇️ 40,447 • ❤️ 448 • 4d ago
 
 ---
 
@@ -499,7 +487,19 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 289 • 1d ago
+⬇️ 35,694 • ❤️ 292 • 1d ago
+
+---
+
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
+
+*Z.ai*
+
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
+
+`text-to-image`
+
+⬇️ 11,681 • ❤️ 968 • 8d ago
 
 ---
 
@@ -515,9 +515,23 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 20 • 💬 1 • ⭐ 2,193 • 2d ago
+▲ 21 • 💬 1 • ⭐ 2,193 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 143 • 💬 6 • ⭐ 21,322 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -527,7 +541,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 35 • 💬 4 • ⭐ 1,686 • 8d ago
+▲ 35 • 💬 4 • ⭐ 1,746 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -567,23 +581,9 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 42 • 💬 2 • ⭐ 228 • 3d ago
+▲ 42 • 💬 2 • ⭐ 232 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 143 • 💬 6 • ⭐ 21,137 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -599,20 +599,6 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 ---
 
-**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
-
-*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
-
-🏢 University of Illinois at Urbana-Champaign
-
-Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
-
-▲ 159 • 💬 4 • ⭐ 266 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -623,6 +609,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 32 • 💬 1 • ⭐ 68,358 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
+
+*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
+
+🏢 University of Illinois at Urbana-Champaign
+
+Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
+
+▲ 159 • 💬 5 • ⭐ 305 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 533 • 5h ago
+⭐ 10.0k • 🔱 536 • 46m ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 3h ago
+⭐ 9.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 874 • 1d ago
+⭐ 7.3k • 🔱 875 • 1d ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 2h ago
+⭐ 5.8k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 18h ago
+⭐ 5.0k • 🔱 5.2k • 19h ago
 
 ---
 
@@ -708,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.1k • 🔱 442 • 2d ago
+⭐ 4.1k • 🔱 444 • 2d ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 408 • 10h ago
+⭐ 2.0k • 🔱 411 • 11h ago
 
 ---
 

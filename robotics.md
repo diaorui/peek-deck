@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T05:44:52.920388+00:00'
+updated: '2026-01-24T06:33:56.835039+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 05:44 UTC  
+**Last Updated:** January 24, 2026 at 06:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-7h ago
+8h ago
 
 ---
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-23h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 22h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 23h ago
 
 ---
 
@@ -78,7 +78,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked our first ever regional ROSCon in South Korea!                Our ROS social calendar has filled back up again. There is a Gazebo Community Meeting on Forest3D next Wednesday and ROS By-The-Bay with Main Street Autonomy and @skye.galaxy next Thursday. The following week there is a robotics Dev room at FOSDEM and a Dronecode Meetup in Leuven, Belgium. This week we also announced a ROS Singapore Meetup...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 10h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked 
 
 I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ I have a fairly solid understanding of the theory behind robotics, both in terms
 
 LTDR; this is a geometric kernel for measuring constraint-induced force distribution collapse in redundant systems. This is not novel in robotics, but I would like some feedback. It is usable, it uses the stock walking gait model in OpenSim so the lowerbody is muscle actuated and the upper body and torso are coordinate / torque actuated. Each frame will read out feasible or infeasible(the configuration/pose). If infeasible you can diagnose the infeasibility (gravity scaling/DoF masking/joint specific actuation, constraint switches) If feasible, then you get the effective dimensions of the polytope(so far I’ve seen up to 70% reduction of the dimensions). This creates a near unique equilibrium solution as a consequence of “optionality”(or lack of). Btw this is quasi static analysis. #Readme# Force Pathway Measurement Theory (FPMT) applies feasible wrench polytope methods from robotics to quantify constraint-induced force distribution collapse in redundant musculoskeletal systems. Rather than selecting a single solution via optimization, FPMT computes the entire admissible set of internal forces satisfying equilibrium and geometric constraints. This allows for measuring "optionality" (the feasible set size) and determining when force distributions become deterministic due to constraints. FPMT computes the full admissible set of internal forces and reports optionality metrics (Chebyshev clearance, CCI, effective dimension) instead of selecting a single solution via optimization. —— I’ve had engineers try to poke holes already, the big ask really is the math. Here is the GitHub for my project: https://github.com/mechanist01/FPMT Here’s the paper that inspired it: https://arxiv.org/pdf/2110.06790
 
-12h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 8h ago
+Microsoft • 2h ago
 
 ---
 
@@ -150,11 +150,27 @@ The Robot Report • 2d ago
 
 ---
 
-**[Serve Robotics CEO details bringing Moxi robots to hospitals](https://www.foxbusiness.com/video/6388183805112)**
+**[Sea, Space, & Sky: 3 Frontier Robotics Stocks Under $20](https://finance.yahoo.com/news/sea-space-sky-3-frontier-224400689.html)**
 
-Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help support nurses on ‘The Claman Countdown.’
+Frontier robotics stocks are capturing investor attention as they transition from research concepts to essential infrastructure for space and defense economies.
 
-Fox Business • 7h ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+
+TechCrunch • 3d ago
+
+---
+
+**[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
+
+Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
+
+Fox Business • 1d ago
 
 ---
 
@@ -166,27 +182,11 @@ CBS News • 1d ago
 
 ---
 
-**[Elon Musk says humanoid robots will outnumber humans](https://finance.yahoo.com/video/elon-musk-says-humanoid-robots-173000912.html)**
+**[Elon Musk: Humanoid robots will be sold by 'end of next year'](https://finance.yahoo.com/video/elon-musk-humanoid-robots-sold-190041670.html)**
 
-Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
+Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Elon Musk Says Optimus Robots Are Coming Your Way. That Has Tesla Stock on the Rise.](https://www.investopedia.com/elon-musk-says-optimus-robots-are-coming-your-way-that-has-tesla-stock-on-the-rise-tsla-11890730)**
-
-The Tesla chief said the company plans to sell Optimus robots by the end of 2027 at the World Economic Forum in Davos, Switzerland.
-
-Investopedia • 1d ago
-
----
-
-**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
-
-SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,33 +194,13 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
+**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
 
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
+XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
 
-📺 CNBC Television
+📺 The AI Nexus
 
-👁️ 7K • 👍 69 • 💬 52 • ⏱️ 2:47 • 1d ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 442K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
-
----
-
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
-
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
-
-📺 Fox News
-
-👁️ 43K • 👍 1K • 💬 229 • ⏱️ 0:49 • 1d ago
+👁️ 1K • 👍 78 • 💬 10 • ⏱️ 18:41 • 6h ago
 
 ---
 
@@ -234,51 +214,43 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
 
-📺 Bernie Sanders
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
 
-👁️ 23K • 👍 2K • 💬 103 • ⏱️ 1:13 • 1d ago
+📺 CNBC Television
 
----
-
-**[NEW Robot AMMIT takes over War Robots now! (FULL REVIEW)](https://www.youtube.com/watch?v=D9OQisokKgU)**
-
-War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #warrobotsgameplay #wr My Best-Of-War ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 681 • 💬 149 • ⏱️ 28:24 • 16h ago
+👁️ 7K • 👍 70 • 💬 52 • ⏱️ 2:47 • 1d ago
 
 ---
 
-**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+**[Most Humanlike AI Robot at CES 2026 Will Make You UNCOMFORTABLE](https://www.youtube.com/watch?v=nGJ6u_5RkOw)**
 
-Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+CES 2026 just unveiled the most humanlike AI robot ever created — and it's making everyone deeply uncomfortable. Standing ...
 
-📺 Fox Business Clips
+📺 The AI Nexus
 
-👁️ 8K • 👍 172 • 💬 69 • ⏱️ 3:39 • 11h ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 8K • 👍 81 • 💬 74 • ⏱️ 10:15 • 1d ago
+👁️ 3K • 👍 95 • 💬 19 • ⏱️ 26:30 • 4d ago
 
 ---
 
-**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
+**[This is the &#39;problem&#39; with robotics for the last seven decades: Skild AI CEO](https://www.youtube.com/watch?v=8em2F0kqO90)**
 
-About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
+Skild AI co-founder and CEO Deepak Pathak explains how robots are trained by watching humans perform tasks and more on ...
+
+📺 Fox Business
+
+👁️ 14K • 👍 231 • 💬 47 • ⏱️ 5:12 • 5d ago
+
+---
+
+**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
+
+Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
 
 📺 Yahoo Finance
 
-👁️ 15K • 👍 165 • 💬 12 • ⏱️ 0:47 • 1d ago
+👁️ 471 • 👍 24 • 💬 6 • ⏱️ 6:39 • 1h ago
 
 ---
 
@@ -289,6 +261,34 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 📺 KhanFlicks
 
 👁️ 79K • 💬 36 • ⏱️ 12:09 • 6d ago
+
+---
+
+**[Which Robot has the Best Fall Recovery? China Robot Vs USA Robot #robot #robotics](https://www.youtube.com/watch?v=KkMdPRka1qE)**
+
+📺 Chris Wabs
+
+👁️ 16K • 👍 114 • 💬 29 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[Build The Deadliest Robot, Win $1,000!](https://www.youtube.com/watch?v=82QfRP6PSko)**
+
+We built extreme robots and fought them in an actual arena! The deadliest robot wins $1000! BUY THE MERCH!
+
+📺 Stay Wild
+
+👁️ 3.9M • 👍 39K • 💬 2K • ⏱️ 33:05 • 5d ago
+
+---
+
+**[NEW Robot AMMIT takes over War Robots now! (FULL REVIEW)](https://www.youtube.com/watch?v=D9OQisokKgU)**
+
+War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 718 • 💬 161 • ⏱️ 28:24 • 16h ago
 
 ---
 

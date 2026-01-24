@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T05:44:52.911004+00:00'
+updated: '2026-01-24T06:33:56.825756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 05:44 UTC  
+**Last Updated:** January 24, 2026 at 06:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,829.00
+### $89,758.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -4.2%  
-**30d:** +2.8%  
-**90d:** -21.4%  
-**1y:** -14.2%  
+**24h:** +0.1%  
+**7d:** -4.3%  
+**30d:** +2.7%  
+**90d:** -21.5%  
+**1y:** -14.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.72B
+**Market Cap:** $1788.60B
 Rank #1
 
-**Circulating Supply:** 19,979,981 BTC
+**Circulating Supply:** 19,979,990 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.0%
 
 **All-Time Low:** $67.81
-+132179.9%
++131927.7%
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
 4h ago
-
----
-
-**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
-
-13h ago
 
 ---
 
@@ -109,11 +103,29 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 ---
 
+**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
+
+14h ago
+
+---
+
+**[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
+
+2h ago
+
+---
+
+**[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
+
+14m ago
+
+---
+
 **[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-22h ago
+23h ago
 
 ---
 
@@ -121,19 +133,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Is holding IBIT the same as real bitcoin? I really believe in crypto and want to hold for the long run and buy everyday. Would buying Ibit be much different?
 
-6h ago
-
----
-
-**[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
-
-1h ago
-
----
-
-**[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
-
-15h ago
+7h ago
 
 ---
 
@@ -155,11 +155,19 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-Forbes • 13h ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin’s weakness versus gold and equities puts quantum computing fears back in focus](https://www.coindesk.com/markets/2026/01/23/bitcoin-s-weakness-versus-gold-and-equities-puts-quantum-computing-fears-back-in-focus)**
+
+Some investors have revived concerns that quantum computing could threaten bitcoin, but analysts and developers say recent price weakness reflects market structure.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -167,15 +175,7 @@ Forbes • 13h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
-
-Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
-
-CoinDesk • 10h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -183,11 +183,11 @@ CoinDesk • 10h ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdTWFDxydkfxegaN9vz8MtjQENyvBn8-PVrvv5ptWaVq5ULaC4-009N&gaa_ts=69745421&gaa_sig=mOQrcdGqxh_MDSOXScW4N9PpFYNAC9At7q2r1UWsbiqFC1sJqK01ur6kPAH8Ax8a639tEChqlZCDAfbDjY-pwA%3D%3D)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqfm3tuK5lsLBZMgjvPQFkw7mvQqzuFIwP-iVnOOUr0bSulSvgzD6QlA&gaa_ts=69746b43&gaa_sig=j5fYfmZd6byXrgGQ2TMD3iuj0xaxjbxwjK8Kp30fi3fpWfiNI_-6AW1DeYxbkiSY2sSRP9kPozeNp1obgLSntA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -209,15 +209,17 @@ wtop.com • 1d ago
 
 ---
 
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
 
-The Block • 9h ago
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 13h ago
 
 ---
 
-**[CHART OF THE DAY: Bitcoin Is Not "Digital Gold"](https://app.hedgeye.com/insights/177014-chart-of-the-day-bitcoin-is-not-digital-gold?type=macro%2Cmarket-insights)**
+**[Cathie Wood's Ark Invest projects bitcoin's market cap at $16 trillion by 2030](https://www.theblock.co/post/386560/cathie-wood-ark-invest-bitcoin-crypto-2030)**
 
-Hedgeye • 17h ago
+The Block • 2d ago
 
 ---
 
@@ -306,7 +308,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 2h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 3h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -320,7 +322,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 15h ago
+👁️ 19K • 👍 343 • 💬 190 • ⏱️ 2:12 • 16h ago
 
 ---
 
@@ -330,17 +332,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 166 • ⏱️ 32:17 • 14h ago
-
----
-
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
-
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
-
-📺 Swan Bitcoin
-
-👁️ 34K • 👍 1K • 💬 128 • ⏱️ 12:29 • 15h ago
+👁️ 23K • 👍 1K • 💬 167 • ⏱️ 32:17 • 14h ago
 
 ---
 
@@ -350,17 +342,17 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 137 • ⏱️ 8:40 • 8h ago
+👁️ 30K • 👍 2K • 💬 174 • ⏱️ 8:40 • 9h ago
 
 ---
 
-**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
 
-Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 8K • 👍 411 • 💬 58 • ⏱️ 1:04:53 • 10h ago
+👁️ 36K • 👍 1K • 💬 127 • ⏱️ 12:29 • 16h ago
 
 ---
 
@@ -370,7 +362,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 90 • ⏱️ 15:16 • 6h ago
+👁️ 12K • 👍 1K • 💬 97 • ⏱️ 15:16 • 7h ago
 
 ---
 
@@ -380,7 +372,17 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 60K • 👍 2K • 💬 294 • ⏱️ 16:21 • 1d ago
+👁️ 61K • 👍 2K • 💬 298 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
+
+Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 424 • 💬 59 • ⏱️ 1:04:53 • 11h ago
 
 ---
 
@@ -390,7 +392,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 14h ago
+👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 15h ago
 
 ---
 
@@ -400,17 +402,17 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 276 • 💬 89 • ⏱️ 10:27 • 1d ago
+👁️ 13K • 👍 279 • 💬 91 • ⏱️ 10:27 • 1d ago
 
 ---
 
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
 
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
 
-📺 Simply Bitcoin
+📺 The Sat Stacker Show
 
-👁️ 32K • 👍 3K • 💬 388 • ⏱️ 23:49 • 1d ago
+👁️ 5K • 👍 286 • 💬 84 • ⏱️ 14:22 • 1d ago
 
 ---
 

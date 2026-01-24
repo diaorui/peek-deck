@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T05:44:52.917107+00:00'
+updated: '2026-01-24T06:33:56.831820+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 05:44 UTC  
+**Last Updated:** January 24, 2026 at 06:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** +0.5%  
 **7d:** -9.8%  
 **30d:** +1.0%  
 **90d:** -28.1%  
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.26B
+**Market Cap:** $356.83B
 Rank #2
 
 **Circulating Supply:** 120,694,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.2%
 
 **All-Time Low:** $0.43
-+683704.5%
++682729.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 24, 2026](https://www.reddit.com/r/ethereum/comments/1qlf2ht/daily_general_discussion_january_24_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+32m ago
+
+---
+
 **[Cypherpunk and institutions](https://www.reddit.com/r/ethereum/comments/1ql4owb/cypherpunk_and_institutions/)**
 
 The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +88,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,15 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 1h ago
-
----
-
-**[AMA: BTCS, The Oldest Publicly Traded Blockchain Company](https://www.reddit.com/r/ethereum/comments/1qkudny/ama_btcs_the_oldest_publicly_traded_blockchain/)**
-
-We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
-
-13h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 2h ago
 
 ---
 
@@ -108,11 +108,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[AMA: BTCS, The Oldest Publicly Traded Blockchain Company](https://www.reddit.com/r/ethereum/comments/1qkudny/ama_btcs_the_oldest_publicly_traded_blockchain/)**
+
+We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
+
+14h ago
+
+---
+
 **[Ethereal news weekly #8 | NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized](https://www.reddit.com/r/ethereum/comments/1qkoxmy/ethereal_news_weekly_8_nyse_tokenized_securities/)**
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 17h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 18h ago
 
 ---
 
@@ -128,21 +136,13 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
 **[Native ETH swaps with no bridges or KYC?](https://www.reddit.com/r/ethereum/comments/1qjqnt6/native_eth_swaps_with_no_bridges_or_kyc/)**
 
 I keep running into the same problem when trying to move ETH across chains. I want to swap real ETH, not wrapped versions, and I do not want to use centralized bridges. I am also looking for something very simple and fast, with no accounts and no long verification steps. Does anything like this actually exist, or is it all still theory?
-
-1d ago
-
----
-
-**[What’s your prediction for Web3 hacks in 2026?](https://www.reddit.com/r/ethereum/comments/1qjx4xe/whats_your_prediction_for_web3_hacks_in_2026/)**
-
-2025 saw billions lost and a shift away from “smart contract bugs only” toward access control, infrastructure, and operational failures. Looking ahead to 2026, do you think the number of hacks will increase, decrease, or just change shape? Will better tooling and awareness actually reduce losses, or will attackers just move up the stack targeting keys, infra, bridges, and governance instead of contracts? Curious how others here see the threat landscape evolving next year.
 
 1d ago
 
@@ -168,25 +168,33 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Foundation makes post quantum security a top priority as new team forms](https://www.coindesk.com/tech/2026/01/24/ethereum-foundation-makes-post-quantum-security-a-top-priority-as-new-team-forms)**
+
+EF researcher Justin Drake says a new post quantum team will drive wallet safety upgrades, research prizes and test networks as quantum timelines shorten.
+
+CoinDesk • 44m ago
+
+---
+
+**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+
+Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
 
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
-TradingView — Track All Markets • 16h ago
-
----
-
-**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
-
-Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
-
-Yahoo Finance • 2d ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -220,17 +228,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Expert Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/expert-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices/)**
-
-Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
-
-Coinpedia Fintech News • 14h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Open Short Confirmed for Bitcoin &amp; Ethereum 💀](https://www.youtube.com/watch?v=7Ts5NoR5CuQ)**
+
+Bitcoin failed to close above previously lost support again, and also printed a TBO Open Short yesterday. ETH did the same as ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 2K • 👍 226 • 💬 34 • ⏱️ 41:58 • 3h ago
+
+---
 
 **[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=f3_Zl4xYkwo)**
 
@@ -238,7 +248,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 988 • 💬 128 • ⏱️ 17:24 • 1d ago
+👁️ 29K • 👍 998 • 💬 128 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -248,37 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 166 • 💬 46 • ⏱️ 8:10 • 22h ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 36K • 👍 2K • 💬 199 • ⏱️ 19:54 • 1d ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING: IT&#39;S A TRAP (again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=U-b6zQ2Y7kk)**
-
-BITCOIN & CRYPTO WARNING: IT'S A TRAP (again)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 209 • 💬 130 • ⏱️ 21:53 • 9h ago
-
----
-
-**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
-
-📺 Trade Confident
-
-👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 10h ago
+👁️ 4K • 👍 169 • 💬 46 • ⏱️ 8:10 • 23h ago
 
 ---
 
@@ -288,7 +268,27 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 886 • 👍 53 • 💬 34 • ⏱️ 24:38 • 13h ago
+👁️ 1K • 👍 69 • 💬 34 • ⏱️ 24:38 • 14h ago
+
+---
+
+**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
+
+📺 Trade Confident
+
+👁️ 356 • 👍 10 • 💬 1 • ⏱️ 6:07 • 10h ago
+
+---
+
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+
+📺 Coin Bureau
+
+👁️ 36K • 👍 2K • 💬 200 • ⏱️ 19:54 • 1d ago
 
 ---
 
@@ -302,13 +302,13 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[BITCOIN: 90% Will Fall for This Trap! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Zay0bDVBu-A)**
+**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
 
-📺 BitcoinHyper
+📺 Discover Crypto
 
-👁️ 8K • 👍 494 • 💬 41 • ⏱️ 16:24 • 17h ago
+👁️ 11K • 👍 388 • 💬 92 • ⏱️ 8:24 • 2d ago
 
 ---
 
@@ -318,17 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 14h ago
+👁️ 1K • 👍 83 • 💬 7 • ⏱️ 4:35 • 15h ago
 
 ---
 
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+**[BITCOIN: 90% Will Fall for This Trap! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Zay0bDVBu-A)**
 
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Discover Crypto
+📺 BitcoinHyper
 
-👁️ 11K • 👍 387 • 💬 92 • ⏱️ 8:24 • 2d ago
+👁️ 8K • 👍 506 • 💬 42 • ⏱️ 16:24 • 18h ago
 
 ---
 
