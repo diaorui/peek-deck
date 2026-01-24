@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T15:21:39.370442+00:00'
+updated: '2026-01-24T15:42:32.977361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 15:21 UTC  
+**Last Updated:** January 24, 2026 at 15:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 4h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -141,7 +141,7 @@ WIRED • 23h ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 46m ago
+CNBC • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 46m ago
 
 Participants in the MIT-led study were unable to distinguish between AI-generated and doctor-written medical advice and expressed a preference for the bots instructions regardless of accuracy.
 
-New York Post • 47m ago
+New York Post • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fox News • 1h ago
 
 AI chip stocks still have a lot of upside from here.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 3h ago
 
 Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -293,7 +293,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 7K • 👍 92 • 💬 53 • ⏱️ 16:31 • 1d ago
+👁️ 7K • 👍 95 • 💬 56 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 15h ago
+👁️ 11K • 👍 465 • 💬 41 • ⏱️ 9:10 • 15h ago
 
 ---
 
@@ -313,17 +313,17 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 116 • ⏱️ 12:48 • 1d ago
+👁️ 53K • 👍 1K • 💬 120 • ⏱️ 12:48 • 1d ago
 
 ---
 
-**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
+**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
 
-Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
+YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
 
-📺 Vanessa Wingårdh
+📺 Deep Humor
 
-👁️ 377K • 👍 19K • 💬 5K • ⏱️ 10:08 • 1d ago
+👁️ 23K • 👍 2K • 💬 552 • ⏱️ 9:46 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 73K • 👍 809 • 💬 456 • ⏱️ 6:52 • 2d ago
+👁️ 73K • 👍 820 • 💬 459 • ⏱️ 6:52 • 2d ago
 
 ---
 
@@ -343,27 +343,17 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 24K • 👍 1K • 💬 167 • ⏱️ 28:01 • 12h ago
+👁️ 28K • 👍 1K • 💬 199 • ⏱️ 28:01 • 13h ago
 
 ---
 
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+**[White House defends AI image showing arrested MN protester](https://www.youtube.com/watch?v=L0DtqjFGBms)**
 
-Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+The White House is responding after using an altered photo showing an arrested Minnesota protester crying. President Trump's ...
 
-📺 Love And Peace
+📺 LiveNOW from FOX
 
-👁️ 528K • 👍 2K • 💬 40 • ⏱️ 11:47 • 3d ago
-
----
-
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
-
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
-
-📺 Mint
-
-👁️ 145K • 👍 2K • 💬 413 • ⏱️ 9:36 • 3d ago
+👁️ 189K • 👍 2K • 💬 1K • ⏱️ 3:44 • 20h ago
 
 ---
 
@@ -373,17 +363,27 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 22K • 👍 254 • 💬 76 • ⏱️ 5:34 • 1d ago
+👁️ 22K • 👍 257 • 💬 76 • ⏱️ 5:34 • 1d ago
 
 ---
 
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+**[It&#39;s Official..Ai Songs Have Taken OVER](https://www.youtube.com/watch?v=7LStLP5liII)**
 
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+ai songs are getting more popular Instagram: https://www.instagram.com/liamdonovanmusic/ Subreddit: ...
 
-📺 AI Revolution
+📺 Liam Donovan
 
-👁️ 34K • 👍 1K • 💬 78 • ⏱️ 15:40 • 2d ago
+👁️ 16K • 👍 2K • 💬 281 • ⏱️ 11:54 • 20h ago
+
+---
+
+**[Lawsuit Accuses NVIDIA Of Using Illegal Piracy To Train AI...](https://www.youtube.com/watch?v=-2gPTS7noFw)**
+
+SOURCES 1: https://torrentfreak.com/authors-sue-nvidia-for-training-ai-on-pirated-books-240311/ 2: ...
+
+📺 YongYea
+
+👁️ 92K • 👍 5K • 💬 1K • ⏱️ 21:02 • 16h ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,101 • 4d ago
+⬇️ 279,658 • ❤️ 1,103 • 4d ago
 
 ---
 
@@ -411,7 +411,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 768 • 1d ago
+⬇️ 22,852 • ❤️ 789 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 398 • 2d ago
+⬇️ 6,967 • ❤️ 407 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 303 • 1d ago
+⬇️ 20,374 • ❤️ 315 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 295 • 11h ago
+⬇️ 174,230 • ❤️ 297 • 11h ago
 
 ---
 
@@ -459,7 +459,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 67,913 • ❤️ 519 • 9d ago
+⬇️ 67,913 • ❤️ 520 • 9d ago
 
 ---
 
@@ -471,7 +471,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 584 • ❤️ 223 • 4d ago
+⬇️ 584 • ❤️ 226 • 4d ago
 
 ---
 
@@ -483,7 +483,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 213 • 3d ago
+⬇️ 11,299 • ❤️ 216 • 3d ago
 
 ---
 
@@ -493,7 +493,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 42,118 • ❤️ 455 • 5d ago
+⬇️ 42,118 • ❤️ 457 • 5d ago
 
 ---
 
@@ -505,7 +505,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 42,008 • ❤️ 295 • 1d ago
+⬇️ 42,008 • ❤️ 296 • 1d ago
 
 ---
 
@@ -527,6 +527,20 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 143 • 💬 6 • ⭐ 21,490 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
 
 *Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
@@ -536,20 +550,6 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 ▲ 0 • 💬 0 • ⭐ 3,216 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 143 • 💬 6 • ⭐ 21,322 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -573,7 +573,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 16 • 💬 2 • ⭐ 335 • 8d ago
+▲ 17 • 💬 2 • ⭐ 335 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -599,23 +599,9 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 43 • 💬 2 • ⭐ 232 • 4d ago
+▲ 44 • 💬 2 • ⭐ 239 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
-
----
-
-**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
-
-*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
-
-🏢 University of Illinois at Urbana-Champaign
-
-Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
-
-▲ 163 • 💬 5 • ⭐ 305 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 ---
 
@@ -629,6 +615,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 32 • 💬 1 • ⭐ 68,401 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
+
+*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
+
+🏢 University of Illinois at Urbana-Champaign
+
+Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
+
+▲ 163 • 💬 5 • ⭐ 349 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 542 • 9h ago
+⭐ 10.1k • 🔱 544 • 9h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 10h ago
+⭐ 9.7k • 🔱 1.3k • 11h ago
 
 ---
 
@@ -674,7 +674,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 450 • 2d ago
+⭐ 8.8k • 🔱 453 • 2d ago
 
 ---
 
@@ -684,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 884 • 1d ago
+⭐ 7.4k • 🔱 885 • 1d ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.1k • 🔱 5.4k • 4h ago
+⭐ 5.1k • 🔱 5.4k • 27m ago
 
 ---
 
@@ -714,7 +714,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.2k • 🔱 451 • 2d ago
+⭐ 4.3k • 🔱 456 • 2d ago
 
 ---
 
@@ -732,7 +732,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 337 • 1d ago
+⭐ 2.4k • 🔱 336 • 1d ago
 
 ---
 
@@ -742,7 +742,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.1k • 🔱 431 • 20h ago
+⭐ 2.2k • 🔱 440 • 20h ago
 
 ---
 

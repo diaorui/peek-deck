@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T15:21:39.379054+00:00'
+updated: '2026-01-24T15:42:32.985896+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 15:21 UTC  
+**Last Updated:** January 24, 2026 at 15:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.99B
+**Market Cap:** $1782.64B
 Rank #1
 
-**Circulating Supply:** 19,980,096 BTC
+**Circulating Supply:** 19,980,125 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.2%
 
 **All-Time Low:** $67.81
-+131722.7%
++131469.1%
 
 ---
 
@@ -101,7 +101,7 @@ what do you think guys?
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ what do you think guys?
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
 
-3h ago
+4h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 3h ago
 
 ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 18h ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 26K • 👍 432 • 💬 209 • ⏱️ 2:12 • 1d ago
+👁️ 28K • 👍 447 • 💬 213 • ⏱️ 2:12 • 1d ago
 
 ---
 
@@ -338,37 +338,17 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 224 • ⏱️ 8:40 • 17h ago
+👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 18h ago
 
 ---
 
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
+**[&quot;Bitcoin’s 2026 Rally Has A MAJOR Problem &amp; No One’s Talking About It!&quot; | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo)**
 
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
+Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung w/ CryptosRUs to dive deep into why the ...
 
-📺 Swan Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 64K • 👍 2K • 💬 302 • ⏱️ 16:21 • 1d ago
-
----
-
-**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
-
-Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 455 • 💬 60 • ⏱️ 1:04:53 • 20h ago
-
----
-
-**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 23h ago
+👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 1h ago
 
 ---
 
@@ -378,27 +358,27 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 40K • 👍 2K • 💬 132 • ⏱️ 12:29 • 1d ago
+👁️ 41K • 👍 2K • 💬 138 • ⏱️ 12:29 • 1d ago
 
 ---
 
-**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
 
-How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Brad Long
+📺 CryptosRUs
 
-👁️ 7K • 👍 741 • 💬 104 • ⏱️ 14:05 • 18h ago
+👁️ 24K • 👍 1K • 💬 167 • ⏱️ 32:17 • 1d ago
 
 ---
 
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
 
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 32K • 👍 3K • 💬 395 • ⏱️ 23:49 • 1d ago
+👁️ 66K • 👍 2K • 💬 302 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -408,7 +388,27 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 288 • 💬 213 • ⏱️ 9:52 • 14h ago
+👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 15h ago
+
+---
+
+**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
+
+Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 20h ago
+
+---
+
+**[VERY BAD NEWS FOR BITCOIN NEXT WEEK](https://www.youtube.com/watch?v=QA0G7TuOrvw)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themoon.co/blofin9400 9400 Real ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 4h ago
 
 ---
 
@@ -418,7 +418,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 117 • ⏱️ 15:16 • 16h ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 16h ago
 
 ---
 

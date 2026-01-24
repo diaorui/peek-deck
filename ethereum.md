@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T15:21:39.385963+00:00'
+updated: '2026-01-24T15:42:32.991951+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 15:21 UTC  
+**Last Updated:** January 24, 2026 at 15:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.74B
+**Market Cap:** $356.83B
 Rank #2
 
 **Circulating Supply:** 120,694,449 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.2%
 
 **All-Time Low:** $0.43
-+682487.4%
++682591.3%
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 13h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 14h ago
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 2d ago
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-The Motley Fool • 43m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 3h ago
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -238,27 +238,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 31K • 👍 1K • 💬 122 • ⏱️ 17:24 • 2d ago
-
----
-
-**[Open Short Confirmed for Bitcoin &amp; Ethereum 💀](https://www.youtube.com/watch?v=7Ts5NoR5CuQ)**
-
-Bitcoin failed to close above previously lost support again, and also printed a TBO Open Short yesterday. ETH did the same as ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 5K • 👍 390 • 💬 60 • ⏱️ 41:58 • 12h ago
-
----
-
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 4K • 👍 175 • 💬 46 • ⏱️ 8:10 • 1d ago
+👁️ 31K • 👍 1K • 💬 123 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -268,27 +248,17 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 38K • 👍 2K • 💬 206 • ⏱️ 19:54 • 1d ago
+👁️ 39K • 👍 2K • 💬 207 • ⏱️ 19:54 • 1d ago
 
 ---
 
-**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
+**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Jamie Tree 
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 67 • 💬 6 • ⏱️ 18:28 • 1d ago
-
----
-
-**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
-
-📺 Trade Confident
-
-👁️ 453 • 👍 12 • 💬 1 • ⏱️ 6:07 • 19h ago
+👁️ 5K • 👍 176 • 💬 46 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -298,7 +268,17 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 3K • 👍 99 • 💬 31 • ⏱️ 24:38 • 22h ago
+👁️ 3K • 👍 119 • 💬 32 • ⏱️ 24:38 • 23h ago
+
+---
+
+**[Open Short Confirmed for Bitcoin &amp; Ethereum 💀](https://www.youtube.com/watch?v=7Ts5NoR5CuQ)**
+
+Bitcoin failed to close above previously lost support again, and also printed a TBO Open Short yesterday. ETH did the same as ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 6K • 👍 421 • 💬 64 • ⏱️ 41:58 • 12h ago
 
 ---
 
@@ -312,23 +292,43 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 ---
 
-**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
-
-The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
-
-📺 Gareth Soloway
-
-👁️ 45K • 👍 3K • 💬 249 • ⏱️ 9:51 • 1d ago
-
----
-
 **[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
 
 Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 390 • 💬 90 • ⏱️ 8:24 • 2d ago
+👁️ 11K • 👍 392 • 💬 90 • ⏱️ 8:24 • 2d ago
+
+---
+
+**[MAJOR VOLATILITY WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=XqCffzn5cNU)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 144 • 👍 13 • 💬 2 • ⏱️ 5:25 • 5h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Bear Flag Alert: Is a Massive Flush Imminent?](https://www.youtube.com/watch?v=i3Dk1xdYDFU)**
+
+The crypto market is sitting on a razor's edge. Chief Market Strategist Gareth Soloway reveals that Bitcoin and Ethereum are ...
+
+📺 Gareth Soloway
+
+👁️ 45K • 👍 3K • 💬 252 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[CRYPTO SUPERCYCLE COMING SAYS CZ BINANCE! UBS BANK BITCOIN &amp; ETHEREUM TRADING!](https://www.youtube.com/watch?v=YO0d6iiRN7k)**
+
+Crypto News: Binance Founder CZ predicts Bitcoin will enter a supercycle this year. UBS weighing crypto trading for private ...
+
+📺 Thinking Crypto
+
+👁️ 4K • 👍 488 • 💬 72 • ⏱️ 15:01 • 11h ago
 
 ---
 

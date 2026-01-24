@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T15:21:39.389447+00:00'
+updated: '2026-01-24T15:42:32.995416+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 15:21 UTC  
+**Last Updated:** January 24, 2026 at 15:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 https://marvelmind.com/3d_vertical_map/
 
-6h ago
+7h ago
 
 ---
 
@@ -170,7 +170,7 @@ CBS News • 1d ago
 
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -192,23 +192,33 @@ vox.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+
+📺 MarketBeat
+
+👁️ 35K • 👍 1K • 💬 98 • ⏱️ 17:39 • 16h ago
+
+---
+
 **[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
 
 XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 108 • 💬 16 • ⏱️ 18:41 • 15h ago
+👁️ 3K • 👍 112 • 💬 16 • ⏱️ 18:41 • 16h ago
 
 ---
 
-**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
 
-Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
 
-📺 Yahoo Finance
+📺 CNBC Television
 
-👁️ 2K • 👍 58 • 💬 16 • ⏱️ 6:39 • 10h ago
+👁️ 8K • 👍 74 • 💬 55 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -228,7 +238,7 @@ In a wide-ranging conversation at the World Economic Forum, tech billionaire Elo
 
 📺 DRM News
 
-👁️ 469K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
+👁️ 474K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
 
 ---
 
@@ -242,31 +252,21 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
+**[NEW Flying Robot ANAKSOR – War Robots Test Server Gameplay WR](https://www.youtube.com/watch?v=3srQgYe8arE)**
+
+War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator Link: https://wr.my.games/manni Code is ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 439 • 💬 131 • ⏱️ 15:13 • 5h ago
+
+---
+
 **[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
 
 📺 Bernie Sanders
 
-👁️ 23K • 👍 2K • 💬 107 • ⏱️ 1:13 • 1d ago
-
----
-
-**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
-
-Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
-
-📺 Rowan Cheung
-
-👁️ 6K • 👍 441 • 💬 3 • ⏱️ 1:13 • 18h ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 10K • 👍 91 • 💬 83 • ⏱️ 10:15 • 1d ago
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -280,13 +280,13 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 ---
 
-**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
+**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
 
-About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
+Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
 
-📺 Yahoo Finance
+📺 Rowan Cheung
 
-👁️ 16K • 👍 180 • 💬 12 • ⏱️ 0:47 • 1d ago
+👁️ 7K • 👍 532 • 💬 4 • ⏱️ 1:13 • 19h ago
 
 ---
 
