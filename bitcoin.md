@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T09:22:02.029680+00:00'
+updated: '2026-01-24T09:42:34.048173+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 09:22 UTC  
+**Last Updated:** January 24, 2026 at 09:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Just wondering
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -201,7 +201,7 @@ MarketWatch • 1d ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 11h ago
+👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 12h ago
 
 ---
 
@@ -360,7 +360,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 17h ago
+👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 18h ago
 
 ---
 

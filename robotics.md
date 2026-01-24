@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T09:22:02.038913+00:00'
+updated: '2026-01-24T09:42:34.057732+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 09:22 UTC  
+**Last Updated:** January 24, 2026 at 09:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-37m ago
+58m ago
 
 ---
 
@@ -62,7 +62,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 https://marvelmind.com/3d_vertical_map/
 
-53m ago
+1h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 **[Dr. Oz: AI and robots can already provide medical care](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
 
-Axios • 21h ago
+Axios • 22h ago
 
 ---
 
@@ -196,7 +196,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 90 • 💬 16 • ⏱️ 18:41 • 9h ago
+👁️ 2K • 👍 90 • 💬 16 • ⏱️ 18:41 • 10h ago
 
 ---
 
