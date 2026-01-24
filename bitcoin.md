@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T17:42:20.188845+00:00'
+updated: '2026-01-24T18:31:57.657152+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 17:42 UTC  
+**Last Updated:** January 24, 2026 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.64B
+**Market Cap:** $1783.34B
 Rank #1
 
-**Circulating Supply:** 19,980,125 BTC
+**Circulating Supply:** 19,980,178 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.2%
 
 **All-Time Low:** $67.81
-+131469.1%
++131560.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Where do people even find that kind of courage?
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -115,7 +115,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -131,13 +131,13 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-1h ago
+2h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1d ago
 
 While blockchain data confirms the movement to Coinbase Prime, the transfer could also mean internal asset management or custody.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 1h ago
 
 ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 14h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 15h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -322,13 +322,13 @@ When our first child was born, we used a free app - one that had even been celeb
 
 ## YouTube Videos: "bitcoin"
 
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
 
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
 
-📺 CNBC Television
+📺 Anthony Pompliano
 
-👁️ 28K • 👍 447 • 💬 213 • ⏱️ 2:12 • 1d ago
+👁️ 16K • 👍 1K • 💬 65 • ⏱️ 47:21 • 4h ago
 
 ---
 
@@ -338,47 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 20h ago
-
----
-
-**[&quot;Bitcoin’s 2026 Rally Has A MAJOR Problem &amp; No One’s Talking About It!&quot; | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo)**
-
-Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung w/ CryptosRUs to dive deep into why the ...
-
-📺 The Wolf Of All Streets
-
-👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 3h ago
-
----
-
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
-
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
-
-📺 Swan Bitcoin
-
-👁️ 41K • 👍 2K • 💬 138 • ⏱️ 12:29 • 1d ago
-
----
-
-**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 167 • ⏱️ 32:17 • 1d ago
-
----
-
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 66K • 👍 2K • 💬 302 • ⏱️ 16:21 • 1d ago
+👁️ 51K • 👍 3K • 💬 258 • ⏱️ 8:40 • 21h ago
 
 ---
 
@@ -388,17 +348,27 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 17h ago
+👁️ 5K • 👍 311 • 💬 223 • ⏱️ 9:52 • 18h ago
 
 ---
 
-**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
+**[&quot;Bitcoin’s 2026 Rally Has A MAJOR Problem &amp; No One’s Talking About It!&quot; | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo)**
 
-Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
+Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung w/ CryptosRUs to dive deep into why the ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 22h ago
+👁️ 4K • 👍 381 • 💬 156 • ⏱️ 41:20 • 4h ago
+
+---
+
+**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
+
+Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
+
+📺 CNBC Television
+
+👁️ 30K • 👍 456 • 💬 217 • ⏱️ 2:12 • 1d ago
 
 ---
 
@@ -408,17 +378,47 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 6h ago
+👁️ 8K • 👍 573 • 💬 149 • ⏱️ 4:57 • 7h ago
 
 ---
 
-**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+**[When You Stopped Caring About Crypto, They Paid Attention!](https://www.youtube.com/watch?v=zToZ0hQjOJA)**
 
-Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+Most people have tuned out crypto. Volumes are quiet, attention is gone, and sentiment feels flat. But behind the scenes, ...
 
-📺 Simply Bitcoin
+📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 18h ago
+👁️ 4K • 👍 265 • 💬 38 • ⏱️ 53:25 • 9h ago
+
+---
+
+**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
+
+Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
+
+📺 Swan Bitcoin
+
+👁️ 5K • 👍 185 • 💬 34 • ⏱️ 1:26 • 1d ago
+
+---
+
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future. In this ...
+
+📺 Swan Bitcoin
+
+👁️ 42K • 👍 2K • 💬 147 • ⏱️ 12:29 • 1d ago
+
+---
+
+**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 25K • 👍 1K • 💬 170 • ⏱️ 32:17 • 1d ago
 
 ---
 

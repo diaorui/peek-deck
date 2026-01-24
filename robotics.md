@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T17:42:20.197980+00:00'
+updated: '2026-01-24T18:31:57.666639+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 17:42 UTC  
+**Last Updated:** January 24, 2026 at 18:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-5h ago
+6h ago
 
 ---
 
@@ -50,13 +50,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-8h ago
+9h ago
 
 ---
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 https://marvelmind.com/3d_vertical_map/
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ https://marvelmind.com/3d_vertical_map/
 
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. I’ve been exploring whether satellite imagery can be used as a practical GNSS fallback for drones. I built a visual localization pipeline that estimates position using only a downward-facing camera and satellite maps, and I got it working on the UAV-VisLoc dataset. The pipeline handles non-nadir views by compensating for camera tilt using attitude data, and it keeps matching efficiently by limiting the satellite search area based on motion. I’ve shared the full setup and results, so anyone can reproduce the experiments and run their own tests. I’ve also noticed that many startups are tackling GNSS-denied navigation from different directions — magnetometer-based localization, VIO + visual place recognition (VPR), or IMU odometry fused with VPR. My work focuses on satellite-based matching, but I see it as complementary, and potentially much stronger when combined with these approaches. If you’re curious about the details, feel free to check out the repo and ask questions. Feedback is very welcome, and a ⭐ honestly helps. https://github.com/hamitbugrabayram/SatelliteLocalization
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 this was an interesting project. let me know what u think, thanks
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=2PpVsDZFNqM) • 57m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=2PpVsDZFNqM) • 1h ago
 
 ---
 
@@ -102,7 +102,7 @@ this was an interesting project. let me know what u think, thanks
 
 https://www.science.org/doi/10.1126/scirobotics.ady7233 Living architectures, such as beehives and ant bridges, adapt continuously to their environments through self-organization of swarming agents. In contrast, most human-made architecture remains static, unable to respond to changing climates or occupant needs. Despite advances in biomimicry within architecture, architectural systems still lack the self-organizing dynamics found in natural swarms. In this work, we introduce the concept of architectural swarms: systems that integrate swarm intelligence and robotics into modular architectural façades to enable responsiveness to environmental conditions and human preferences. We present the Swarm Garden, a proof of concept composed of robotic modules called SGbots. Each SGbot features buckling-sheet actuation, sensing, computation, and wireless communication. SGbots can be networked into reconfigurable spatial systems that exhibit collective behavior, forming a testbed for exploring architectural swarm applications. We demonstrate two application case studies. The first explores adaptive shading using self-organization, where SGbots respond to sunlight using a swarm controller based on opinion dynamics. In a 16-SGbot deployment on an office window, the system adapted effectively to sunlight, showing robustness to sensor failures and different climates. Simulations demonstrated scalability and tunability in larger spaces. The second study explores creative expression in interior design, with 36 SGbots responding to human interaction during a public exhibition, including a live dance performance mediated by a wearable device. Results show that the system was engaging and visually compelling, with 96% positive attendee sentiments. The Swarm Garden exemplifies how architectural swarms can transform the built environment, enabling “living-like” architecture for functional and creative applications.
 
-1h ago
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://www.science.org/doi/10.1126/scirobotics.ady7233 Living architectures, su
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 4h ago
+Microsoft • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ Microsoft • 4h ago
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
-AgFunderNews • 1d ago
+AgFunderNews • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 3d ago
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-wbay.com • 17h ago
+wbay.com • 18h ago
 
 ---
 
@@ -200,17 +200,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 35K • 👍 1K • 💬 98 • ⏱️ 17:39 • 18h ago
+👁️ 43K • 👍 1K • 💬 103 • ⏱️ 17:39 • 19h ago
 
 ---
 
-**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
 
-XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
 
-📺 The AI Nexus
+📺 Yahoo Finance
 
-👁️ 3K • 👍 112 • 💬 16 • ⏱️ 18:41 • 18h ago
+👁️ 3K • 👍 72 • 💬 30 • ⏱️ 6:39 • 13h ago
 
 ---
 
@@ -220,7 +220,27 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 74 • 💬 55 • ⏱️ 2:47 • 2d ago
+👁️ 8K • 👍 74 • 💬 56 • ⏱️ 2:47 • 2d ago
+
+---
+
+**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+
+XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 118 • 💬 17 • ⏱️ 18:41 • 18h ago
+
+---
+
+**[These robots can help ‘tend to patients’ with nursing shortage, says Serve Robotics CEO](https://www.youtube.com/watch?v=weGhIXOyBj8)**
+
+Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help ...
+
+📺 Fox Business
+
+👁️ 3K • 👍 99 • 💬 37 • ⏱️ 5:44 • 7h ago
 
 ---
 
@@ -230,17 +250,7 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 237 • 💬 21 • ⏱️ 19:35 • 5d ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 474K • 👍 8K • 💬 2K • ⏱️ 32:01 • 2d ago
+👁️ 8K • 👍 238 • 💬 21 • ⏱️ 19:35 • 5d ago
 
 ---
 
@@ -250,7 +260,25 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 45K • 👍 1K • 💬 231 • ⏱️ 0:49 • 1d ago
+👁️ 46K • 👍 1K • 💬 244 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[NEW Anaksor Spider Robot Is Here... Flying &#39;Sirocco Field&#39; Ability | War Robots](https://www.youtube.com/watch?v=LTNzcyX7BT8)**
+
+New Anaksor robot has just arrived! This is a flying spider robot and it's ability is pretty unique. 1 heavy, 2 medium weapons ...
+
+📺 PREDATOR WR
+
+👁️ 5K • 👍 290 • 💬 62 • ⏱️ 14:48 • 6h ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 24K • 👍 2K • 💬 111 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -260,35 +288,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 439 • 💬 131 • ⏱️ 15:13 • 7h ago
-
----
-
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 23K • 👍 2K • 💬 108 • ⏱️ 1:13 • 1d ago
-
----
-
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
-
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
-
-📺 KhanFlicks
-
-👁️ 79K • 💬 36 • ⏱️ 12:09 • 7d ago
-
----
-
-**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
-
-Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
-
-📺 Rowan Cheung
-
-👁️ 7K • 👍 532 • 💬 4 • ⏱️ 1:13 • 21h ago
+👁️ 9K • 👍 567 • 💬 171 • ⏱️ 15:13 • 7h ago
 
 ---
 
