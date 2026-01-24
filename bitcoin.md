@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T16:49:08.958279+00:00'
+updated: '2026-01-24T17:18:47.753232+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 16:49 UTC  
+**Last Updated:** January 24, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-7h ago
+8h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -107,7 +107,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -129,13 +129,13 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 Where do people even find that kind of courage?
 
-28m ago
+58m ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ Where do people even find that kind of courage?
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 2d ago
 
 While blockchain data confirms the movement to Coinbase Prime, the transfer could also mean internal asset management or custody.
 
-CoinDesk • 59m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ Stargate UI
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 3d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 4d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 2h ago
+👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 3h ago
 
 ---
 
@@ -396,7 +396,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 21h ago
+👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 22h ago
 
 ---
 
@@ -406,7 +406,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 5h ago
+👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 6h ago
 
 ---
 
@@ -416,7 +416,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 17h ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 18h ago
 
 ---
 

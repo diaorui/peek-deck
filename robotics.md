@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T16:49:08.966250+00:00'
+updated: '2026-01-24T17:18:47.762531+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 16:49 UTC  
+**Last Updated:** January 24, 2026 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 Collaborative robots are being used across modern manufacturing as flexible automation tools rather than strictly fence-free systems. While cobots are designed to operate alongside people, many real-world deployments include added guarding or sensors for safety, particularly in palletizing, welding, and other head- or eye-level tasks. Collaboration in this context refers more to ease of programming, deployment, and adaptability than constant human proximity. Cobots are increasingly applied in areas such as machine tending, inspection, logistics, agriculture, and additive manufacturing. Advances in vision systems, AI, and machine learning enable adaptive path planning, precision inspection, and selective handling of variable parts. In inspection applications, cobots equipped with scanning tools can dramatically reduce cycle times while improving accuracy. Pre-engineered solutions for common tasks like palletizing and welding are also expanding access to automation for teams without deep robotics expertise. The article places these developments within the broader shift from Industry 4.0 to Industry 5.0, emphasizing human-robot collaboration where automation handles repetitive or hazardous work and human workers focus on oversight and higher-value tasks. Mobile manipulators, higher-payload cobots, and plug-and-play systems are expanding use cases across industries facing labor shortages, including welding, agriculture, and logistics. Continued progress in AI, vision, and business models such as leasing is expected to further broaden cobot adoption across manufacturing and beyond.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/cobot-applications-modern-manufacturing) • 46m ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/cobot-applications-modern-manufacturing) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Collaborative robots are being used across modern manufacturing as flexible auto
 
 Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. I’ve been exploring whether satellite imagery can be used as a practical GNSS fallback for drones. I built a visual localization pipeline that estimates position using only a downward-facing camera and satellite maps, and I got it working on the UAV-VisLoc dataset. The pipeline handles non-nadir views by compensating for camera tilt using attitude data, and it keeps matching efficiently by limiting the satellite search area based on motion. I’ve shared the full setup and results, so anyone can reproduce the experiments and run their own tests. I’ve also noticed that many startups are tackling GNSS-denied navigation from different directions — magnetometer-based localization, VIO + visual place recognition (VPR), or IMU odometry fused with VPR. My work focuses on satellite-based matching, but I see it as complementary, and potentially much stronger when combined with these approaches. If you’re curious about the details, feel free to check out the repo and ask questions. Feedback is very welcome, and a ⭐ honestly helps. https://github.com/hamitbugrabayram/SatelliteLocalization
 
-3h ago
+4h ago
 
 ---
 
@@ -114,7 +114,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 3h ago
+Microsoft • 4h ago
 
 ---
 

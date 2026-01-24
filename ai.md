@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T16:49:08.950909+00:00'
+updated: '2026-01-24T17:18:47.744762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 16:49 UTC  
+**Last Updated:** January 24, 2026 at 17:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 5h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
 
-🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 59m ago
+🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ A new survey found that people who spend more time with chatbots for social inte
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 22h ago
 
 Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 4h ago
 
 After a week of geopolitical chaos that appeared to put Greenland to rest, the White House revived President Donald Trump’s fixation with an AI-generated colonial fantasy. The image, posted to the White House’s official X account, shows Trump marching across a frozen landscape toward Greenland, accompanied by a penguin inexplicably carrying an American flag. The image’s execution appears as confused as the message. The penguin—a creature not found anywhere in the Northern Hemisphere, let alone G
 
-Yahoo • 13h ago
+Yahoo • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ WIRED • 18h ago
 
 **[S.F.’s hottest singles are AI engineers](https://www.sfchronicle.com/tech/article/ai-engineers-dating-21207918.php)**
 
-sfchronicle.com • 4h ago
+sfchronicle.com • 5h ago
 
 ---
 
@@ -187,13 +187,13 @@ Scientific American • 21h ago
 
 Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -299,7 +299,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 11K • 👍 465 • 💬 41 • ⏱️ 9:10 • 16h ago
+👁️ 11K • 👍 465 • 💬 41 • ⏱️ 9:10 • 17h ago
 
 ---
 
@@ -349,7 +349,7 @@ The White House is responding after using an altered photo showing an arrested M
 
 📺 LiveNOW from FOX
 
-👁️ 189K • 👍 2K • 💬 1K • ⏱️ 3:44 • 21h ago
+👁️ 189K • 👍 2K • 💬 1K • ⏱️ 3:44 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ ai songs are getting more popular Instagram: https://www.instagram.com/liamdonov
 
 📺 Liam Donovan
 
-👁️ 16K • 👍 2K • 💬 281 • ⏱️ 11:54 • 21h ago
+👁️ 16K • 👍 2K • 💬 281 • ⏱️ 11:54 • 22h ago
 
 ---
 
@@ -690,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 13h ago
+⭐ 5.8k • 🔱 1.0k • 14h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.1k • 🔱 5.4k • 1h ago
+⭐ 5.1k • 🔱 5.4k • 2h ago
 
 ---
 
