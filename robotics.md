@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T23:20:44.520766+00:00'
+updated: '2026-01-24T23:41:25.073933+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 23:20 UTC  
+**Last Updated:** January 24, 2026 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 https://marvelmind.com/3d_vertical_map/
 
-14h ago
+15h ago
 
 ---
 
@@ -146,7 +146,7 @@ AgFunderNews • 2d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 5h ago
+USA Today • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 51K • 👍 2K • 💬 106 • ⏱️ 17:39 • 23h ago
+👁️ 51K • 👍 2K • 💬 106 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 123 • 💬 17 • ⏱️ 18:41 • 23h ago
+👁️ 3K • 👍 123 • 💬 17 • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item
 
 📺 サハ SAHA
 
-👁️ 5K • 👍 210 • 💬 25 • ⏱️ 12:25 • 9h ago
+👁️ 5K • 👍 210 • 💬 25 • ⏱️ 12:25 • 10h ago
 
 ---
 

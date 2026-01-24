@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T23:20:44.517538+00:00'
+updated: '2026-01-24T23:41:25.070705+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 23:20 UTC  
+**Last Updated:** January 24, 2026 at 23:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 21h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 22h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 1d ago
 
 **[Ethereum Classic: Buy, sell, or hold in 2026?](https://www.msn.com/en-us/money/markets/ethereum-classic-buy-sell-or-hold-in-2026/ar-AA1UTp0e?ocid=finance-verthp-feeds)**
 
-MSN • 7h ago
+MSN • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 253 • 💬 84 • ⏱️ 7:22 • 6h ago
+👁️ 3K • 👍 253 • 💬 84 • ⏱️ 7:22 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 71 • 💬 9 • ⏱️ 4:34 • 5h ago
+👁️ 1K • 👍 71 • 💬 9 • ⏱️ 4:34 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 1K • 💬 16 • ⏱️ 12:01 • 4h ago
+👁️ 7K • 👍 1K • 💬 16 • ⏱️ 12:01 • 5h ago
 
 ---
 

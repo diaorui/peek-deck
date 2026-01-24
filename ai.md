@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T23:20:44.503175+00:00'
+updated: '2026-01-24T23:41:25.056132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 23:20 UTC  
+**Last Updated:** January 24, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 **[The AI Delusion Epidemic](https://www.reddit.com/r/artificial/comments/1qlusy9/the_ai_delusion_epidemic/)**
 
-🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 4h ago
+🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-17h ago
+18h ago
 
 ---
 
@@ -131,13 +131,13 @@ BBC • 1d ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
 **[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -177,7 +177,7 @@ blog.google • 2d ago
 
 AI chip stocks still have a lot of upside from here.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -265,7 +265,7 @@ Helping you make informed decisions about your health by combining the latest re
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 67 • 💬 26 • 20h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 67 • 💬 26 • 21h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
 
 ---
 
@@ -355,7 +355,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 39K • 👍 2K • 💬 272 • ⏱️ 28:01 • 20h ago
+👁️ 39K • 👍 2K • 💬 272 • ⏱️ 28:01 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ DeepSeek may have just exposed its next flagship model on GitHub — and the sig
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 78 • ⏱️ 15:40 • 2d ago
+👁️ 35K • 👍 1K • 💬 78 • ⏱️ 15:40 • 3d ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 18h ago
+⭐ 9.7k • 🔱 1.3k • 19h ago
 
 ---
 

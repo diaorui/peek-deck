@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T23:20:44.511522+00:00'
+updated: '2026-01-24T23:41:25.064707+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 23:20 UTC  
+**Last Updated:** January 24, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Bitcoin is down significantly over the past week.  Investors cashed out of US exchange-traded funds, pushing the asset’s price down. Geopolitical headwinds have rocked all markets in January.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -346,7 +346,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 10K • 👍 805 • 💬 104 • ⏱️ 12:07 • 7h ago
+👁️ 10K • 👍 805 • 💬 104 • ⏱️ 12:07 • 8h ago
 
 ---
 
@@ -356,7 +356,7 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 318 • 💬 259 • ⏱️ 9:52 • 22h ago
+👁️ 5K • 👍 318 • 💬 259 • ⏱️ 9:52 • 23h ago
 
 ---
 
