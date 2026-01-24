@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T22:44:23.023446+00:00'
+updated: '2026-01-24T23:20:44.511522+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 22:44 UTC  
+**Last Updated:** January 24, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Where do people even find that kind of courage?
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,13 +139,13 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-8h ago
+9h ago
 
 ---
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -179,7 +179,7 @@ dlnews.com • 3h ago
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,13 +187,13 @@ CoinDesk • 1h ago
 
 Bitcoin holders are in the red for the first time since October 2023, new data shows. A new report says the market is mirroring the previous bull-to-bear transition.  Market observers are torn on where the leading cryptocurrency will go in 2026.
 
-dlnews.com • 49m ago
+dlnews.com • 1h ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 11h ago
+Binance • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 19h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 20h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -326,7 +326,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 65 • ⏱️ 47:21 • 8h ago
+👁️ 34K • 👍 2K • 💬 65 • ⏱️ 47:21 • 9h ago
 
 ---
 
@@ -376,7 +376,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 173 • ⏱️ 15:16 • 23h ago
+👁️ 20K • 👍 2K • 💬 173 • ⏱️ 15:16 • 1d ago
 
 ---
 
@@ -396,7 +396,7 @@ Japan's bond market is flashing warning signs as yields surge and debt reaches r
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 172 • 💬 3 • ⏱️ 2:23 • 8h ago
+👁️ 4K • 👍 172 • 💬 3 • ⏱️ 2:23 • 9h ago
 
 ---
 
@@ -416,7 +416,7 @@ Discover the surprisingly tasty candy that's making waves with its unique design
 
 📺 Trulala CANDY Chef
 
-👁️ 2K • 👍 66 • 💬 3 • ⏱️ 1:00 • 44m ago
+👁️ 2K • 👍 66 • 💬 3 • ⏱️ 1:00 • 1h ago
 
 ---
 

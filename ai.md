@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T22:44:23.013654+00:00'
+updated: '2026-01-24T23:20:44.503175+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 22:44 UTC  
+**Last Updated:** January 24, 2026 at 23:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 11h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 12h ago
 
 ---
 
@@ -71,7 +71,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ So im assuming he makes the person ask a long questionnaire that feeds into ai, 
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 1d ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 2d ago
 
 ---
 
@@ -111,7 +111,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-15h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ WIRED • 1d ago
 
 Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 10h ago
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 11h ago
 
 With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 9h ago
 
 Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -295,7 +295,7 @@ Create Your Own Music Videos in OpenArt https://www.openart.ai/home/?ref=isa-25 
 
 📺 Isa does AI
 
-👁️ 9K • 💬 7 • ⏱️ 8:33 • 9h ago
+👁️ 9K • 💬 7 • ⏱️ 8:33 • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 129 • ⏱️ 12:48 • 1d ago
+👁️ 57K • 👍 1K • 💬 129 • ⏱️ 12:48 • 2d ago
 
 ---
 
@@ -335,7 +335,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 14K • 👍 526 • 💬 46 • ⏱️ 9:10 • 22h ago
+👁️ 14K • 👍 526 • 💬 46 • ⏱️ 9:10 • 23h ago
 
 ---
 
@@ -345,7 +345,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 18K • 👍 532 • 💬 95 • ⏱️ 20:22 • 13h ago
+👁️ 18K • 👍 532 • 💬 95 • ⏱️ 20:22 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drif
 
 📺 Ultimate Oddly Satisfying ASMR
 
-👁️ 2K • 👍 372 • 💬 1 • ⏱️ 8:02 • 13h ago
+👁️ 2K • 👍 372 • 💬 1 • ⏱️ 8:02 • 14h ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 307 • 18h ago
+⬇️ 174,230 • ❤️ 307 • 19h ago
 
 ---
 
@@ -513,7 +513,7 @@ Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 26 • 💬 1 • ⭐ 3,286 • 2d ago
+▲ 26 • 💬 1 • ⭐ 3,286 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 550 • 16h ago
+⭐ 10.2k • 🔱 550 • 17h ago
 
 ---
 
@@ -700,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.9k • 🔱 1.0k • 19h ago
+⭐ 5.9k • 🔱 1.0k • 20h ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 7h ago
+⭐ 5.2k • 🔱 5.4k • 8h ago
 
 ---
 
@@ -720,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.4k • 🔱 469 • 27m ago
+⭐ 4.4k • 🔱 469 • 1h ago
 
 ---
 
@@ -748,7 +748,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.3k • 🔱 483 • 2h ago
+⭐ 2.3k • 🔱 483 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T22:44:23.030035+00:00'
+updated: '2026-01-24T23:20:44.517538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 22:44 UTC  
+**Last Updated:** January 24, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 18h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 2d ago
 
 These two innovative ETFs offer exposure to the crypto market, but one in particular provides more direct exposure to one of the world's biggest digital tokens.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 2K • 👍 241 • 💬 29 • ⏱️ 29:47 • 1h ago
+👁️ 2K • 👍 241 • 💬 29 • ⏱️ 29:47 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Winifred Kal
 
-👁️ 10K • 👍 460 • 8h ago
+👁️ 10K • 👍 460 • 9h ago
 
 ---
 
