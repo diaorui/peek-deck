@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T07:41:00.606060+00:00'
+updated: '2026-01-24T08:28:36.630596+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 07:41 UTC  
+**Last Updated:** January 24, 2026 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -105,13 +105,13 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-15h ago
+16h ago
 
 ---
 
 **[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Just wondering
 
-42m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 **[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ ProPublica • 1d ago
 
 Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 13h ago
 
 Some investors have revived concerns that quantum computing could threaten bitcoin, but analysts and developers say recent price weakness reflects market structure.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 2h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 20h ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -310,7 +310,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 4h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 5h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -324,7 +324,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 19K • 👍 343 • 💬 190 • ⏱️ 2:12 • 17h ago
+👁️ 19K • 👍 343 • 💬 190 • ⏱️ 2:12 • 18h ago
 
 ---
 
@@ -334,7 +334,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 167 • ⏱️ 32:17 • 15h ago
+👁️ 23K • 👍 1K • 💬 167 • ⏱️ 32:17 • 16h ago
 
 ---
 
@@ -354,7 +354,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 36K • 👍 1K • 💬 127 • ⏱️ 12:29 • 17h ago
+👁️ 36K • 👍 1K • 💬 127 • ⏱️ 12:29 • 18h ago
 
 ---
 
@@ -364,7 +364,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 97 • ⏱️ 15:16 • 8h ago
+👁️ 12K • 👍 1K • 💬 97 • ⏱️ 15:16 • 9h ago
 
 ---
 
@@ -384,7 +384,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 424 • 💬 59 • ⏱️ 1:04:53 • 12h ago
+👁️ 8K • 👍 424 • 💬 59 • ⏱️ 1:04:53 • 13h ago
 
 ---
 
@@ -394,7 +394,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 16h ago
+👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 17h ago
 
 ---
 

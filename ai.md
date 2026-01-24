@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T07:41:00.598545+00:00'
+updated: '2026-01-24T08:28:36.621504+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 07:41 UTC  
+**Last Updated:** January 24, 2026 at 08:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-51m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-30m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 9h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 15h ago
+WIRED • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ blog.google • 1d ago
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg • 13h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fortune • 13h ago
 
 **[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqfjfPGTFxcbRaQGpxlux05t64QOTgN4SDFgeSDDeizXagyvmjXtzm-7&gaa_ts=69747afb&gaa_sig=8KSmlwN0dMhqMmx4_RCi4k7Z8ig0SIzR9-79l-OjOZt0_O9BCSZlYNscVTFh0h33ILouHpKOMRNha4XSuxFTwQ%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Wall Street Journal • 15h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 478 • 💬 254 • 21h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 478 • 💬 254 • 22h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -241,7 +241,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 180 • 💬 163 • 12h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 180 • 💬 163 • 13h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -265,7 +265,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 127 • 💬 78 • 18h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 127 • 💬 78 • 19h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -297,7 +297,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 8K • 👍 563 • 💬 74 • ⏱️ 28:01 • 5h ago
+👁️ 8K • 👍 563 • 💬 74 • ⏱️ 28:01 • 6h ago
 
 ---
 
@@ -307,7 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 8h ago
+👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 18h ago
+👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 19h ago
 
 ---
 
@@ -377,7 +377,7 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 18h ago
+👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 19h ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 287 • 3h ago
+⬇️ 145,992 • ❤️ 287 • 4h ago
 
 ---
 
@@ -465,7 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 436 • ❤️ 220 • 3d ago
+⬇️ 436 • ❤️ 220 • 4d ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 1h ago
+⭐ 10.0k • 🔱 536 • 2h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 4h ago
+⭐ 5.8k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 20h ago
+⭐ 5.0k • 🔱 5.2k • 21h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 411 • 12h ago
+⭐ 2.0k • 🔱 411 • 13h ago
 
 ---
 
