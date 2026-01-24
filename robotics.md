@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T22:20:46.322605+00:00'
+updated: '2026-01-24T22:44:23.033594+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 22:20 UTC  
+**Last Updated:** January 24, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-9h ago
+10h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
 3h ago
+
+---
+
+**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
+
+Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
+
+2h ago
 
 ---
 
@@ -56,15 +64,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-13h ago
-
----
-
-**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
-
-Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
-
-2h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 https://marvelmind.com/3d_vertical_map/
 
-13h ago
+14h ago
 
 ---
 
@@ -126,14 +126,6 @@ ynetnews.com • 6h ago
 
 ---
 
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 4h ago
-
----
-
 **[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
 Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
@@ -150,19 +142,19 @@ AgFunderNews • 2d ago
 
 ---
 
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 5h ago
+
+---
+
 **[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
 Business Insider • 2d ago
-
----
-
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 22h ago
 
 ---
 
@@ -174,19 +166,27 @@ The Robot Report • 3d ago
 
 ---
 
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 22h ago
+
+---
+
+**[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
+
+Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
+
+Fox Business • 2d ago
+
+---
+
 **[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
 CBS News • 2d ago
-
----
-
-**[Elon Musk Says Optimus Robots Are Coming Your Way. That Has Tesla Stock on the Rise.](https://www.investopedia.com/elon-musk-says-optimus-robots-are-coming-your-way-that-has-tesla-stock-on-the-rise-tsla-11890730)**
-
-The Tesla chief said the company plans to sell Optimus robots by the end of 2027 at the World Economic Forum in Davos, Switzerland.
-
-Investopedia • 2d ago
 
 ---
 
@@ -200,7 +200,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 47K • 👍 2K • 💬 106 • ⏱️ 17:39 • 22h ago
+👁️ 51K • 👍 2K • 💬 106 • ⏱️ 17:39 • 23h ago
+
+---
+
+**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
+
+Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
+
+📺 Yahoo Finance
+
+👁️ 4K • 👍 79 • 💬 33 • ⏱️ 6:39 • 17h ago
 
 ---
 
@@ -210,7 +220,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 120 • 💬 17 • ⏱️ 18:41 • 22h ago
+👁️ 3K • 👍 123 • 💬 17 • ⏱️ 18:41 • 23h ago
 
 ---
 
@@ -224,33 +234,13 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
-**[These robots can help ‘tend to patients’ with nursing shortage, says Serve Robotics CEO](https://www.youtube.com/watch?v=weGhIXOyBj8)**
-
-Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help ...
-
-📺 Fox Business
-
-👁️ 4K • 👍 112 • 💬 42 • ⏱️ 5:44 • 11h ago
-
----
-
 **[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
 
 Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
 
 📺 Fox News
 
-👁️ 46K • 👍 1K • 💬 243 • ⏱️ 0:49 • 1d ago
-
----
-
-**[0% survival: Russian soldiers vs Ukrainian robots](https://www.youtube.com/watch?v=_BQ1xQ-o__M)**
-
-Our interactive news map: https://www.rfunews.com/map Subscribe to unlock full access to the map + exclusive strategic ...
-
-📺 RFU News — Strategic Geopolitics
-
-👁️ 137K • 👍 14K • 💬 510 • ⏱️ 5:29 • 2d ago
+👁️ 46K • 👍 1K • 💬 245 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -260,7 +250,25 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 636 • 💬 183 • ⏱️ 15:13 • 11h ago
+👁️ 13K • 👍 688 • 💬 188 • ⏱️ 15:13 • 12h ago
+
+---
+
+**[0% survival: Russian soldiers vs Ukrainian robots](https://www.youtube.com/watch?v=_BQ1xQ-o__M)**
+
+Our interactive news map: https://www.rfunews.com/map Subscribe to unlock full access to the map + exclusive strategic ...
+
+📺 RFU News — Strategic Geopolitics
+
+👁️ 139K • 👍 14K • 💬 514 • ⏱️ 5:29 • 2d ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 24K • 👍 3K • 💬 111 • ⏱️ 1:13 • 2d ago
 
 ---
 
@@ -270,17 +278,7 @@ New Anaksor robot has just arrived! This is a flying spider robot and it's abili
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 328 • 💬 70 • ⏱️ 14:48 • 10h ago
-
----
-
-**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
-
-Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
-
-📺 Fox Business Clips
-
-👁️ 19K • 👍 277 • 💬 114 • ⏱️ 3:39 • 1d ago
+👁️ 7K • 👍 352 • 💬 76 • ⏱️ 14:48 • 11h ago
 
 ---
 
@@ -290,7 +288,7 @@ Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item
 
 📺 サハ SAHA
 
-👁️ 4K • 👍 181 • 💬 22 • ⏱️ 12:25 • 8h ago
+👁️ 5K • 👍 210 • 💬 25 • ⏱️ 12:25 • 9h ago
 
 ---
 

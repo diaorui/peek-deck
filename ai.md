@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T22:20:46.304338+00:00'
+updated: '2026-01-24T22:44:23.013654+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 22:20 UTC  
+**Last Updated:** January 24, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 **[The AI Delusion Epidemic](https://www.reddit.com/r/artificial/comments/1qlusy9/the_ai_delusion_epidemic/)**
 
-🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 3h ago
+🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 11h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 12h ago
 
 ---
 
@@ -103,15 +103,15 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-16h ago
+17h ago
 
 ---
 
-**[Anyone listen to the podcast "Shell Game?"](https://www.reddit.com/r/artificial/comments/1ql64a3/anyone_listen_to_the_podcast_shell_game/)**
+**[Open-source experiment: crowd-driven software development with AI](https://www.reddit.com/r/artificial/comments/1qlgbwj/opensource_experiment_crowddriven_software/)**
 
-In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
+Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-23h ago
+15h ago
 
 ---
 
@@ -123,31 +123,21 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)**
+**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
 
-Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
+Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-The Guardian • 5h ago
-
----
-
-**[Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/)**
-
-There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
-
-TechCrunch • 2h ago
+CNN • 6h ago
 
 ---
 
-**[Google’s AI Detection Tool Can’t Decide if Its Own AI Made Doctored Photo of Crying Activist](https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/)**
+**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-Google’s SynthID AI detection tool flip-flopped when asked if an image posted by the White House was altered by Google's own AI.
-
-The Intercept • 1h ago
+The New York Times • 22h ago
 
 ---
 
@@ -159,25 +149,19 @@ WIRED • 1d ago
 
 ---
 
-**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
+**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
 
-The New York Times • 7h ago
+Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
----
-
-**[Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'](https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html)**
-
-More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
-
-CNBC • 7h ago
+CNBC • 10h ago
 
 ---
 
-**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2026/01/24/what-are-the-3-top-artificial-intelligence-stock/)**
+**[Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)**
 
-AI chip stocks still have a lot of upside from here.
+Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-The Motley Fool • 10h ago
+The Guardian • 5h ago
 
 ---
 
@@ -189,11 +173,27 @@ blog.google • 2d ago
 
 ---
 
-**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
+**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2026/01/24/what-are-the-3-top-artificial-intelligence-stock/)**
 
-Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
+AI chip stocks still have a lot of upside from here.
 
-CNN • 5h ago
+The Motley Fool • 11h ago
+
+---
+
+**[Meta has quietly become an AI infrastructure giant. 'Meta Compute' is Zuckerberg making it official.](https://fortune.com/2026/01/24/meta-compute-zuckerberg-ai-infrastructure-giant-data-center/)**
+
+With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
+
+Fortune • 9h ago
+
+---
+
+**[DeepMind chief Demis Hassabis warns AI investment looks ‘bubble-like’](https://www.ft.com/content/a1f04b0e-73c5-4358-a65e-09e9a6bba857)**
+
+Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
+
+Financial Times • 13h ago
 
 ---
 
@@ -201,19 +201,11 @@ CNN • 5h ago
 
 ## HackerNews: "ai"
 
-**[Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://news.ycombinator.com/item?id=46712678)**
-
-This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
-
-⬆️ 690 • 💬 495 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
-
----
-
 **[Proton spam and the AI consent problem](https://news.ycombinator.com/item?id=46729368)**
 
 The one where I get very annoyed with my email provider
 
-⬆️ 539 • 💬 410 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 539 • 💬 411 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +213,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 496 • 💬 271 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 497 • 💬 271 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -229,7 +221,7 @@ The one where I get very annoyed with my email provider
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 185 • 💬 172 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 185 • 💬 174 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -245,13 +237,13 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 130 • 💬 78 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 131 • 💬 78 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
 **[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
 
-⬆️ 99 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+⬆️ 99 • 💬 46 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 
 ---
 
@@ -267,29 +259,25 @@ A conversation with Graham Granger, whose combination of protest and performance
 
 Helping you make informed decisions about your health by combining the latest research with the supplements available on the market.
 
-⬆️ 87 • 💬 47 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
+⬆️ 88 • 💬 47 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
 
 ---
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 67 • 💬 26 • 19h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 67 • 💬 26 • 20h ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+
+---
+
+**[CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story](https://news.ycombinator.com/item?id=46728781)**
+
+⬆️ 51 • 💬 20 • 1d ago • [wsj.com](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d)
 
 ---
 
 ---
 
 ## YouTube Videos: "ai"
-
-**[From Zero to Your First AI Voice Agent in 18 Minutes (No Coding)](https://www.youtube.com/watch?v=oB7gia1kC_g)**
-
-Grab the voice agent prompt tool & all my AI builder resources on Skool: https://bit.ly/49Ic0Pr Become a Wildly Profitable AI ...
-
-📺 Liam Ottley
-
-👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 13h ago
-
----
 
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
@@ -301,13 +289,13 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 ---
 
-**[I Asked AI if Trump Made the Economy BETTER or WORSE](https://www.youtube.com/watch?v=2QaEhmJMYbo)**
+**[How I Make AI MUSIC VIDEOS for SUNO AI Songs in 2026](https://www.youtube.com/watch?v=EtMyc8HWEGI)**
 
-Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and code 'IAskAI' to get 20% off a Pro plan.
+Create Your Own Music Videos in OpenArt https://www.openart.ai/home/?ref=isa-25 In this video, I walk you through the exact ...
 
-📺 I Ask AI
+📺 Isa does AI
 
-👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 23h ago
+👁️ 9K • 💬 7 • ⏱️ 8:33 • 9h ago
 
 ---
 
@@ -317,7 +305,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 409K • 👍 20K • 💬 5K • ⏱️ 10:08 • 1d ago
+👁️ 418K • 👍 21K • 💬 5K • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -327,27 +315,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 126 • ⏱️ 12:48 • 1d ago
-
----
-
-**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
-
-Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
-
-📺 AI Revolution
-
-👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 22h ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 75K • 👍 842 • 💬 469 • ⏱️ 6:52 • 2d ago
+👁️ 57K • 👍 1K • 💬 129 • ⏱️ 12:48 • 1d ago
 
 ---
 
@@ -357,7 +325,17 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 24K • 👍 267 • 💬 78 • ⏱️ 5:34 • 1d ago
+👁️ 24K • 👍 275 • 💬 78 • ⏱️ 5:34 • 1d ago
+
+---
+
+**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+
+Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+
+📺 AI Revolution
+
+👁️ 14K • 👍 526 • 💬 46 • ⏱️ 9:10 • 22h ago
 
 ---
 
@@ -367,7 +345,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 13h ago
+👁️ 18K • 👍 532 • 💬 95 • ⏱️ 20:22 • 13h ago
 
 ---
 
@@ -377,7 +355,27 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 265 • ⏱️ 28:01 • 19h ago
+👁️ 39K • 👍 2K • 💬 272 • ⏱️ 28:01 • 20h ago
+
+---
+
+**[Crazy AI Beds You’ll Wish Were Real  😱✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=KVVaJZyv8b4)**
+
+Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drift into pure comfort—AI-crafted relaxing beds ...
+
+📺 Ultimate Oddly Satisfying ASMR
+
+👁️ 2K • 👍 372 • 💬 1 • ⏱️ 8:02 • 13h ago
+
+---
+
+**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+
+DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+
+📺 AI Revolution
+
+👁️ 35K • 👍 1K • 💬 78 • ⏱️ 15:40 • 2d ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,107 • 4d ago
+⬇️ 279,658 • ❤️ 1,113 • 4d ago
 
 ---
 
@@ -405,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 808 • 1d ago
+⬇️ 22,852 • ❤️ 819 • 1d ago
 
 ---
 
@@ -417,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 418 • 3d ago
+⬇️ 6,967 • ❤️ 422 • 3d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 334 • 1d ago
+⬇️ 20,374 • ❤️ 340 • 1d ago
 
 ---
 
@@ -441,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 303 • 18h ago
+⬇️ 174,230 • ❤️ 307 • 18h ago
 
 ---
 
@@ -477,7 +475,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 223 • 3d ago
+⬇️ 11,299 • ❤️ 226 • 3d ago
 
 ---
 
@@ -489,7 +487,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 42,008 • ❤️ 302 • 1d ago
+⬇️ 42,008 • ❤️ 303 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 42,118 • ❤️ 459 • 5d ago
+⬇️ 42,118 • ❤️ 460 • 5d ago
 
 ---
 
@@ -620,7 +618,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 164 • 💬 5 • ⭐ 349 • 6d ago
+▲ 165 • 💬 5 • ⭐ 349 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 549 • 16h ago
+⭐ 10.2k • 🔱 550 • 16h ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 17h ago
+⭐ 9.7k • 🔱 1.3k • 18h ago
 
 ---
 
@@ -682,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 456 • 3d ago
+⭐ 8.9k • 🔱 459 • 3d ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 889 • 1d ago
+⭐ 7.5k • 🔱 890 • 1d ago
 
 ---
 
@@ -702,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 19h ago
+⭐ 5.9k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -722,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.4k • 🔱 466 • 3d ago
+⭐ 4.4k • 🔱 469 • 27m ago
 
 ---
 
@@ -730,7 +728,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.8k • 🔱 228 • 1d ago
+⭐ 2.8k • 🔱 230 • 1d ago
 
 ---
 
@@ -750,7 +748,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.3k • 🔱 467 • 2h ago
+⭐ 2.3k • 🔱 483 • 2h ago
 
 ---
 

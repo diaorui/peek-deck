@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T22:20:46.319384+00:00'
+updated: '2026-01-24T22:44:23.030035+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 22:20 UTC  
+**Last Updated:** January 24, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -10.1%  
-**30d:** +0.8%  
-**90d:** -28.3%  
-**1y:** -10.9%  
+**24h:** +0.1%  
+**7d:** -9.9%  
+**30d:** +1.0%  
+**90d:** -28.1%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.31B
+**Market Cap:** $356.81B
 Rank #2
 
 **Circulating Supply:** 120,694,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.2%
 
 **All-Time Low:** $0.43
-+681699.8%
++682468.9%
 
 ---
 
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 20h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 21h ago
 
 ---
 
@@ -160,11 +160,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
 
-What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
-AMBCrypto • 2d ago
+CryptoSlate • 2d ago
+
+---
+
+**[ETHA vs. BITQ: How Does This Ethereum Compare to a Fund Full of Crypto Companies](https://finance.yahoo.com/news/etha-vs-bitq-does-ethereum-220947408.html)**
+
+These two innovative ETFs offer exposure to the crypto market, but one in particular provides more direct exposure to one of the world's biggest digital tokens.
+
+Yahoo Finance • 34m ago
 
 ---
 
@@ -172,27 +180,13 @@ AMBCrypto • 2d ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
 The Block • 2d ago
-
----
-
-**[Ethereum Classic: Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/ethereum-classic-buy-sell-hold-145800985.html)**
-
-Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
-
-CCN.com • 1d ago
 
 ---
 
@@ -204,19 +198,9 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Why Some Long-Term Investors Favor Ethereum Over Other Digital Assets](https://www.fool.com/investing/2026/01/24/why-some-long-term-investors-favor-ethereum-over-o/)**
+**[Ethereum Classic: Buy, sell, or hold in 2026?](https://www.msn.com/en-us/money/markets/ethereum-classic-buy-sell-or-hold-in-2026/ar-AA1UTp0e?ocid=finance-verthp-feeds)**
 
-This asset has utility and a few other useful features.
-
-The Motley Fool • 10h ago
-
----
-
-**[Bitcoin, Ethereum, and the Multi-Year Reset Nobody Saw Coming](https://cryptopotato.com/bitcoin-ethereum-and-the-multi-year-reset-nobody-saw-coming/)**
-
-Weak projects are failing under competition and institutional pressure, while a few native crypto players have emerged as future industry standards.
-
-CryptoPotato • 1d ago
+MSN • 7h ago
 
 ---
 
@@ -225,6 +209,22 @@ CryptoPotato • 1d ago
 Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
 
 Finance Magnates • 3d ago
+
+---
+
+**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
+
+What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
+
+AMBCrypto • 2d ago
+
+---
+
+**[BlackRock singles out ethereum as “beneficiary of growth”](https://sherwood.news/crypto/blackrock-singles-out-ethereum-as-beneficiary-of-growth/)**
+
+In the next era of tokenization, ethereum is poised to dominate the market. It currently commands over 65% of tokenized assets across blockchain...
+
+Sherwood News • 3d ago
 
 ---
 
@@ -238,7 +238,17 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 205 • 💬 95 • ⏱️ 7:22 • 5h ago
+👁️ 3K • 👍 253 • 💬 84 • ⏱️ 7:22 • 6h ago
+
+---
+
+**[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 2K • 👍 241 • 💬 29 • ⏱️ 29:47 • 1h ago
 
 ---
 
@@ -248,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 721 • 👍 54 • 💬 9 • ⏱️ 4:34 • 4h ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:54 • 2d ago
+👁️ 1K • 👍 71 • 💬 9 • ⏱️ 4:34 • 5h ago
 
 ---
 
@@ -272,13 +272,13 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UkjnJ0n2b70)**
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
 
-📺 Winifred Kal
+📺 Coin Bureau
 
-👁️ 10K • 👍 446 • 8h ago
+👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -288,7 +288,17 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 708 • 💬 17 • ⏱️ 12:01 • 3h ago
+👁️ 7K • 👍 1K • 💬 16 • ⏱️ 12:01 • 4h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UkjnJ0n2b70)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Winifred Kal
+
+👁️ 10K • 👍 460 • 8h ago
 
 ---
 
@@ -298,7 +308,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 71 • 💬 6 • ⏱️ 18:28 • 2d ago
+👁️ 2K • 👍 72 • 💬 6 • ⏱️ 18:28 • 2d ago
 
 ---
 
@@ -308,27 +318,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 181 • 💬 48 • ⏱️ 8:10 • 1d ago
+👁️ 5K • 👍 186 • 💬 47 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Open Short Confirmed for Bitcoin &amp; Ethereum 💀](https://www.youtube.com/watch?v=7Ts5NoR5CuQ)**
+**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
 
-Bitcoin failed to close above previously lost support again, and also printed a TBO Open Short yesterday. ETH did the same as ...
+GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 World Liberty Financial
 
-👁️ 7K • 👍 449 • 💬 64 • ⏱️ 41:58 • 19h ago
-
----
-
-**[Is Ethereum Finally Taking Over Wall Street?](https://www.youtube.com/watch?v=enLtQoQ7_F8)**
-
-More and more people think Ethereum is quietly becoming Wall Street's blockchain of choice. It's not just Tom Lee, who now runs ...
-
-📺 Coinage
-
-👁️ 4K • 👍 140 • 💬 42 • ⏱️ 24:38 • 1d ago
+👁️ 6K • 👍 23 • 💬 4 • ⏱️ 1:36 • 1d ago
 
 ---
 
