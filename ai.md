@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T18:31:57.648414+00:00'
+updated: '2026-01-24T19:17:59.628775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 18:31 UTC  
+**Last Updated:** January 24, 2026 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 7h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 8h ago
+
+---
+
+**[The AI Delusion Epidemic](https://www.reddit.com/r/artificial/comments/1qlusy9/the_ai_delusion_epidemic/)**
+
+🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 44m ago
 
 ---
 
@@ -49,7 +55,15 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 7h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 8h ago
+
+---
+
+**[met someone who does ai cloning to "preserve legacy" as in your grandfather ,etc. Would this work?](https://www.reddit.com/r/artificial/comments/1qlvkka/met_someone_who_does_ai_cloning_to_preserve/)**
+
+So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
+
+17m ago
 
 ---
 
@@ -65,7 +79,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +103,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-19h ago
+20h ago
 
 ---
 
@@ -97,23 +111,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-11h ago
-
----
-
-**[Using AI for advice or other personal reasons is linked to depression and anxiety](https://www.reddit.com/r/artificial/comments/1qlqera/using_ai_for_advice_or_other_personal_reasons_is/)**
-
-A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
-
-🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 2h ago
-
----
-
-**[GPT 5.2 Codex is Actually (kind of) Just Special System Instructions](https://www.reddit.com/r/artificial/comments/1qlfr6s/gpt_52_codex_is_actually_kind_of_just_special/)**
-
-https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
-
-11h ago
+12h ago
 
 ---
 
@@ -137,55 +135,27 @@ WIRED • 1d ago
 
 ---
 
+**[Australian journalism ‘sidelined’ in AI-generated news summaries on Copilot, research shows](https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism)**
+
+Exclusive: Experts say AI is likely to create more news deserts, fewer independent voices and threaten the viability of Australian journalism
+
+The Guardian • 15m ago
+
+---
+
+**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
+
+Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
+
+CNN • 2h ago
+
+---
+
 **[Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters](https://fortune.com/2026/01/23/cursor-built-web-browser-with-swarm-ai-agents-powered-openai/)**
 
 Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
 
-Fortune • 23h ago
-
----
-
-**[AI Agents Are Poised to Hit a Mathematical Wall, Study Finds](https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493)**
-
-LLMs have their limits.
-
-Gizmodo • 22h ago
-
----
-
-**[Faster-Drying Paint and Better-Smelling Soap: AI Tries Product Development](https://www.wsj.com/tech/ai/faster-drying-paint-and-better-smelling-soap-ai-tries-product-development-e7a544d7?gaa_at=eafs&gaa_n=AWEtsqfftlWSEwYjP4yOHi2E8amAuhFGhfWPNNY_Rvz0dtzDBQTPitrPKHAk&gaa_ts=697507e8&gaa_sig=WjS2l62Rp1WsaHCkjT0avy0Jw-13IeuD5zUfQ8HaR4X35Tu1TbRAE4NI-YxGFgyvk4xM77DkET2xDf26WeQGNQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/)**
-
-It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.
-
-TechCrunch • 1h ago
-
----
-
-**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
-
-The New York Times • 17h ago
-
----
-
-**[DeepMind chief Demis Hassabis warns AI investment looks ‘bubble-like’](https://www.ft.com/content/a1f04b0e-73c5-4358-a65e-09e9a6bba857)**
-
-Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
-
-Financial Times • 9h ago
-
----
-
-**[Why Apple and OpenAI are reportedly betting on AI hardware in 2026](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/)**
-
-Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
-
-Scientific American • 22h ago
+Fortune • 1d ago
 
 ---
 
@@ -193,7 +163,39 @@ Scientific American • 22h ago
 
 Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Trump, 79, Revives Greenland Fantasy With Absurd AI Post](https://www.yahoo.com/news/articles/trump-79-revives-greenland-fantasy-031138664.html)**
+
+After a week of geopolitical chaos that appeared to put Greenland to rest, the White House revived President Donald Trump’s fixation with an AI-generated colonial fantasy. The image, posted to the White House’s official X account, shows Trump marching across a frozen landscape toward Greenland, accompanied by a penguin inexplicably carrying an American flag. The image’s execution appears as confused as the message. The penguin—a creature not found anywhere in the Northern Hemisphere, let alone G
+
+Yahoo • 16h ago
+
+---
+
+**[‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)**
+
+On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
+
+WIRED • 20h ago
+
+---
+
+**[Why Apple and OpenAI are reportedly betting on AI hardware in 2026](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/)**
+
+Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
+
+Scientific American • 23h ago
+
+---
+
+**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2026/01/24/what-are-the-3-top-artificial-intelligence-stock/)**
+
+AI chip stocks still have a lot of upside from here.
+
+The Motley Fool • 7h ago
 
 ---
 
@@ -205,7 +207,7 @@ CNBC • 6h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 690 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 690 • 💬 495 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -213,7 +215,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 535 • 💬 404 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 537 • 💬 409 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +223,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 494 • 💬 268 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 496 • 💬 269 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -237,7 +239,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 185 • 💬 171 • 23h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 185 • 💬 171 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -289,7 +291,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 21K • 👍 1K • 💬 202 • ⏱️ 15:27 • 19h ago
+👁️ 21K • 👍 1K • 💬 202 • ⏱️ 15:27 • 20h ago
 
 ---
 
@@ -309,7 +311,7 @@ Grab the voice agent prompt tool & all my AI builder resources on Skool: https:/
 
 📺 Liam Ottley
 
-👁️ 7K • 👍 522 • 💬 35 • ⏱️ 18:00 • 9h ago
+👁️ 7K • 👍 522 • 💬 35 • ⏱️ 18:00 • 10h ago
 
 ---
 
@@ -319,7 +321,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 1K • 👍 116 • 💬 18 • ⏱️ 14:50 • 3h ago
+👁️ 1K • 👍 116 • 💬 18 • ⏱️ 14:50 • 4h ago
 
 ---
 
@@ -339,7 +341,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 12K • 👍 439 • 💬 85 • ⏱️ 20:22 • 9h ago
+👁️ 12K • 👍 439 • 💬 85 • ⏱️ 20:22 • 10h ago
 
 ---
 
@@ -379,7 +381,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 12K • 👍 499 • 💬 41 • ⏱️ 9:10 • 18h ago
+👁️ 12K • 👍 499 • 💬 41 • ⏱️ 9:10 • 19h ago
 
 ---
 
@@ -443,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 300 • 14h ago
+⬇️ 174,230 • ❤️ 300 • 15h ago
 
 ---
 
@@ -650,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 547 • 12h ago
+⭐ 10.2k • 🔱 547 • 13h ago
 
 ---
 
@@ -660,7 +662,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 13h ago
+⭐ 9.7k • 🔱 1.3k • 14h ago
 
 ---
 
@@ -690,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 15h ago
+⭐ 5.8k • 🔱 1.0k • 16h ago
 
 ---
 
@@ -700,7 +702,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 3h ago
+⭐ 5.2k • 🔱 5.4k • 4h ago
 
 ---
 

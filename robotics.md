@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T18:31:57.666639+00:00'
+updated: '2026-01-24T19:17:59.646823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 18:31 UTC  
+**Last Updated:** January 24, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,12 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
-
-11h ago
-
----
-
 **[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
@@ -46,17 +40,37 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 ---
 
+**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
+
+12h ago
+
+---
+
 **[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-9h ago
+10h ago
+
+---
+
+**[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
+
+24m ago
 
 ---
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-20h ago
+21h ago
+
+---
+
+**[Visual localization from satellite imagery as a GNSS fallback for drones](https://www.reddit.com/r/robotics/comments/1qlmbjc/visual_localization_from_satellite_imagery_as_a/)**
+
+Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. As part of my final-year project, I built a visual localization pipeline for drones using only open-source datasets and pretrained models. The idea is to explore whether satellite imagery can serve as a practical GNSS fallback, using just a downward-facing camera and publicly available satellite maps. The system was tested on the UAV-VisLoc dataset and is fully reproducible—no proprietary data, no custom foundation model training. Camera tilt is handled using attitude data, and the search space is constrained using motion to keep things efficient. Many approaches exist for GNSS-denied navigation (VIO, VPR, sensor fusion, etc.). This work focuses on satellite-based image matching and is meant to be complementary to those methods. Code, setup, and results are all publicly available. Feedback is welcome, and a ⭐ helps a lot. https://github.com/hamitbugrabayram/SatelliteLocalization
+
+6h ago
 
 ---
 
@@ -72,15 +86,7 @@ https://marvelmind.com/3d_vertical_map/
 
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
-7h ago
-
----
-
-**[Visual localization from satellite imagery as a GNSS fallback for drones](https://www.reddit.com/r/robotics/comments/1qlmbjc/visual_localization_from_satellite_imagery_as_a/)**
-
-Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. I’ve been exploring whether satellite imagery can be used as a practical GNSS fallback for drones. I built a visual localization pipeline that estimates position using only a downward-facing camera and satellite maps, and I got it working on the UAV-VisLoc dataset. The pipeline handles non-nadir views by compensating for camera tilt using attitude data, and it keeps matching efficiently by limiting the satellite search area based on motion. I’ve shared the full setup and results, so anyone can reproduce the experiments and run their own tests. I’ve also noticed that many startups are tackling GNSS-denied navigation from different directions — magnetometer-based localization, VIO + visual place recognition (VPR), or IMU odometry fused with VPR. My work focuses on satellite-based matching, but I see it as complementary, and potentially much stronger when combined with these approaches. If you’re curious about the details, feel free to check out the repo and ask questions. Feedback is very welcome, and a ⭐ honestly helps. https://github.com/hamitbugrabayram/SatelliteLocalization
-
-5h ago
+8h ago
 
 ---
 
@@ -94,15 +100,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 this was an interesting project. let me know what u think, thanks
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=2PpVsDZFNqM) • 1h ago
-
----
-
-**[Architectural swarms for responsive façades and creative expression](https://www.reddit.com/r/robotics/comments/1qlreo9/architectural_swarms_for_responsive_façades_and/)**
-
-https://www.science.org/doi/10.1126/scirobotics.ady7233 Living architectures, such as beehives and ant bridges, adapt continuously to their environments through self-organization of swarming agents. In contrast, most human-made architecture remains static, unable to respond to changing climates or occupant needs. Despite advances in biomimicry within architecture, architectural systems still lack the self-organizing dynamics found in natural swarms. In this work, we introduce the concept of architectural swarms: systems that integrate swarm intelligence and robotics into modular architectural façades to enable responsiveness to environmental conditions and human preferences. We present the Swarm Garden, a proof of concept composed of robotic modules called SGbots. Each SGbot features buckling-sheet actuation, sensing, computation, and wireless communication. SGbots can be networked into reconfigurable spatial systems that exhibit collective behavior, forming a testbed for exploring architectural swarm applications. We demonstrate two application case studies. The first explores adaptive shading using self-organization, where SGbots respond to sunlight using a swarm controller based on opinion dynamics. In a 16-SGbot deployment on an office window, the system adapted effectively to sunlight, showing robustness to sensor failures and different climates. Simulations demonstrated scalability and tunability in larger spaces. The second study explores creative expression in interior design, with 36 SGbots responding to human interaction during a public exhibition, including a live dance performance mediated by a wearable device. Results show that the system was engaging and visually compelling, with 96% positive attendee sentiments. The Swarm Garden exemplifies how architectural swarms can transform the built environment, enabling “living-like” architecture for functional and creative applications.
-
-2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=2PpVsDZFNqM) • 2h ago
 
 ---
 
@@ -114,7 +112,23 @@ https://www.science.org/doi/10.1126/scirobotics.ady7233 Living architectures, su
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 5h ago
+Microsoft • 6h ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 1h ago
+
+---
+
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+
+CNBC • 3d ago
 
 ---
 
@@ -126,11 +140,11 @@ AgFunderNews • 2d ago
 
 ---
 
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+**[From hardware to intelligence: the operating system powering next-generation robotics](https://www.ynetnews.com/tech-and-digital/article/bjkpkuf8we)**
 
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-CNBC • 3d ago
+ynetnews.com • 3h ago
 
 ---
 
@@ -147,14 +161,6 @@ Business Insider • 2d ago
 The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft.
 
 The Robot Report • 3d ago
-
----
-
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 18h ago
 
 ---
 
@@ -182,14 +188,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
-
-SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
-
-Yahoo Finance • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -210,7 +208,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 72 • 💬 30 • ⏱️ 6:39 • 13h ago
+👁️ 3K • 👍 72 • 💬 30 • ⏱️ 6:39 • 14h ago
 
 ---
 
@@ -230,7 +228,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 118 • 💬 17 • ⏱️ 18:41 • 18h ago
+👁️ 3K • 👍 118 • 💬 17 • ⏱️ 18:41 • 19h ago
 
 ---
 
@@ -240,7 +238,7 @@ Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the 
 
 📺 Fox Business
 
-👁️ 3K • 👍 99 • 💬 37 • ⏱️ 5:44 • 7h ago
+👁️ 3K • 👍 99 • 💬 37 • ⏱️ 5:44 • 8h ago
 
 ---
 
@@ -270,7 +268,7 @@ New Anaksor robot has just arrived! This is a flying spider robot and it's abili
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 290 • 💬 62 • ⏱️ 14:48 • 6h ago
+👁️ 5K • 👍 290 • 💬 62 • ⏱️ 14:48 • 7h ago
 
 ---
 
@@ -288,7 +286,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 567 • 💬 171 • ⏱️ 15:13 • 7h ago
+👁️ 9K • 👍 567 • 💬 171 • ⏱️ 15:13 • 8h ago
 
 ---
 
