@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T04:12:12.046712+00:00'
+updated: '2026-01-24T04:55:13.890695+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 04:12 UTC  
+**Last Updated:** January 24, 2026 at 04:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,842.59
+### $89,829.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -4.1%  
-**30d:** +2.9%  
-**90d:** -21.3%  
+**24h:** +0.2%  
+**7d:** -4.2%  
+**30d:** +2.8%  
+**90d:** -21.4%  
 **1y:** -14.2%  
 
 ---
@@ -91,13 +91,13 @@ Rank #1
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,27 +113,7 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-21h ago
-
----
-
-**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
-
-23h ago
-
----
-
-**[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
-
-13h ago
-
----
-
-**[I have 800 euros that I won't need. Should I put it in BTC?](https://www.reddit.com/r/Bitcoin/comments/1qkr97u/i_have_800_euros_that_i_wont_need_should_i_put_it/)**
-
-Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
-
-14h ago
+22h ago
 
 ---
 
@@ -141,7 +121,25 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 Is holding IBIT the same as real bitcoin? I really believe in crypto and want to hold for the long run and buy everyday. Would buying Ibit be much different?
 
-4h ago
+5h ago
+
+---
+
+**[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
+
+43m ago
+
+---
+
+**[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
+
+14h ago
+
+---
+
+**[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
+
+1d ago
 
 ---
 
@@ -157,11 +155,11 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
 
-Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-CoinDesk • 12h ago
+Forbes • 12h ago
 
 ---
 
@@ -173,15 +171,23 @@ Yahoo Finance • 17h ago
 
 ---
 
+**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
+
+Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
+
+CoinDesk • 9h ago
+
+---
+
 **[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqeR0SduOaRQv5EWSqtBQg6r3WEKqNqicFjblMVpGC4P1s2llBfqNpKu&gaa_ts=69743fae&gaa_sig=x_CGrf9RbefbSk_kl0LWDvhGcPIgN7F6_DYheM5hf5an6S_CFedg8laiOj-yqd6EDqCMUkMZRoUWWtRY24koWA%3D%3D)**
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqdTWFDxydkfxegaN9vz8MtjQENyvBn8-PVrvv5ptWaVq5ULaC4-009N&gaa_ts=69745421&gaa_sig=mOQrcdGqxh_MDSOXScW4N9PpFYNAC9At7q2r1UWsbiqFC1sJqK01ur6kPAH8Ax8a639tEChqlZCDAfbDjY-pwA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -195,31 +201,23 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
-Forbes • 10h ago
+wtop.com • 1d ago
+
+---
+
+**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+
+The Block • 9h ago
 
 ---
 
 **[CHART OF THE DAY: Bitcoin Is Not "Digital Gold"](https://app.hedgeye.com/insights/177014-chart-of-the-day-bitcoin-is-not-digital-gold?type=macro%2Cmarket-insights)**
 
-Hedgeye • 15h ago
-
----
-
-**[Bitcoin struggles to regain momentum amid persistent overhead supply: Glassnode](https://www.theblock.co/post/386680/bitcoin-struggles-to-regain-momentum-amid-persistent-overhead-supply-glassnode)**
-
-The Block • 1d ago
-
----
-
-**[Why The Famous Bitcoin 4-Year Cycle Is Officially Dead—And What Comes Next Could Shock You](https://bitcoinmagazine.com/business/epoch-ventures-predicts-bitcoin-hits-150k-in-2026-declares-end-of-4-year-halving-cycle)**
-
-Tired of Bitcoin volatility? Epoch Ventures says the wild cycles are over—expect steady, boring growth that builds to a massive breakout. Their $150K call has Wall Street listening.
-
-Bitcoin Magazine • 14h ago
+Hedgeye • 16h ago
 
 ---
 
@@ -308,7 +306,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 1h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 2h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -322,7 +320,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 13h ago
+👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 14h ago
 
 ---
 
@@ -332,7 +330,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 166 • ⏱️ 32:17 • 12h ago
+👁️ 22K • 👍 1K • 💬 166 • ⏱️ 32:17 • 13h ago
 
 ---
 
@@ -352,7 +350,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 137 • ⏱️ 8:40 • 6h ago
+👁️ 24K • 👍 2K • 💬 137 • ⏱️ 8:40 • 7h ago
 
 ---
 
@@ -362,7 +360,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 411 • 💬 58 • ⏱️ 1:04:53 • 9h ago
+👁️ 8K • 👍 411 • 💬 58 • ⏱️ 1:04:53 • 10h ago
 
 ---
 
@@ -392,7 +390,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 12h ago
+👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 13h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T04:12:12.037795+00:00'
+updated: '2026-01-24T04:55:13.882355+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 04:12 UTC  
+**Last Updated:** January 24, 2026 at 04:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-14h ago
+15h ago
 
 ---
 
@@ -61,6 +61,14 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 ---
 
+**[AI makes humans useless](https://www.reddit.com/r/artificial/comments/1qldruh/ai_makes_humans_useless/)**
+
+People who say AI makes humans useless are missing the point. Real data from Anthropic’s AI usage research shows the opposite, that users with higher skills and more education tend to get way better results from AI because they know how to ask better questions and guide the model instead of just copying outputs. That’s why in wealthier countries with higher AI literacy, Claude usage is more productive and focused on work tasks, while in places with lower resources it’s mostly basic help, and the productivity gap widens accordingly. The report suggests AI augments human ability and doesn’t replace it, but only if users have the skills to work with it intelligently. If you just treat AI like a magic answer machine, you’re the one who gets useless results, not the tool.
+
+just now
+
+---
+
 **[Are there any tools that can upscale and improve audio on old VHS tapes?](https://www.reddit.com/r/artificial/comments/1ql5qoc/are_there_any_tools_that_can_upscale_and_improve/)**
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
@@ -69,19 +77,19 @@ I have some very old tapes that sound and look horrible. I've seen workflows tha
 
 ---
 
-**[Investment executive praises China for using AI to grow industry, pokes fun at the US for making "AI girlfriends"](https://www.reddit.com/r/artificial/comments/1qkr1nt/investment_executive_praises_china_for_using_ai/)**
-
-UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
-
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 14h ago
-
----
-
 **[I don’t think using AI for surveillance of kids in school is a good idea](https://www.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/)**
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-17h ago
+18h ago
+
+---
+
+**[Investment executive praises China for using AI to grow industry, pokes fun at the US for making "AI girlfriends"](https://www.reddit.com/r/artificial/comments/1qkr1nt/investment_executive_praises_china_for_using_ai/)**
+
+UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
+
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 15h ago
 
 ---
 
@@ -89,7 +97,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 13h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 14h ago
 
 ---
 
@@ -97,7 +105,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 11h ago
 
 ---
 
@@ -109,21 +117,29 @@ You can read more about how this was made here.
 
 ---
 
-**[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
+
+The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
+
+BBC • 6h ago
+
+---
 
 **[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
 WIRED • 12h ago
+
+---
+
+**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
+
+The New York Times • 4h ago
 
 ---
 
@@ -135,41 +151,15 @@ blog.google • 1d ago
 
 ---
 
-**["Embrace The Penguin": Trump's Cryptic AI-Generated Post Over Greenland](https://www.ndtv.com/world-news/embrace-the-penguin-president-donald-trump-cryptic-ai-generated-post-over-greenland-nihilist-penguin-meme-white-house-10874286)**
-
-NDTV • 1h ago
-
----
-
-**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
-
-The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
-
-BBC • 5h ago
-
----
-
-**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
-
-The New York Times • 3h ago
-
----
-
-**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqfuN8Hs60JZlARkTD6prdckmo6N57p8dPJZTIJrVc97paS7y-sLwswb&gaa_ts=69743fac&gaa_sig=GlXNQqtTlTyZfC8xn4jmdHBIm_eape4gCMbUEXLFaXwaXMgwupmQThbDqtpQzdJsLOiFofuA6ljgyPypXiCqTA%3D%3D)**
-
-The Wall Street Journal • 11h ago
-
----
-
 **[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Bloomberg.com • 9h ago
+Bloomberg • 10h ago
 
 ---
 
-**[Jim VandeHei's note to his kids: Blunt AI talk](https://www.axios.com/2026/01/23/ai-jim-vandehei-letter-kids)**
+**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqcvNQcBcO-9bzU0HYsQWJgGIsBV7miNiwVZrJCOw4DiDWNrRwAEh48u&gaa_ts=69745420&gaa_sig=7GYxXvgNQc3qrpsmO9CRI6qsG5jHXrZpodVfVOUSDA4nI2RGHGmBCjzAW8APkKQAYYZwo1INyglS8WV-lqM9HA%3D%3D)**
 
-Axios • 23h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -181,11 +171,25 @@ CNN • 17h ago
 
 ---
 
+**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
+
+Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
+
+The Guardian • 9h ago
+
+---
+
+**[Job Applicants Sue to Open ‘Black Box’ of A.I. Hiring Decisions](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)**
+
+The New York Times • 2d ago
+
+---
+
 **[AI anxiety is so widespread that veteran Microsoft researchers are having panic attacks because they're making themselves obsolete](https://fortune.com/2026/01/23/ai-anxiety-widespread-panic-attack-microsoft-researcher-dario-amodei/)**
 
 "My 52-year-old body had one of those moments when I saw a future where I wasn’t involved," Chris Brockett told Cade Metz for his book on AI.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -197,7 +201,7 @@ Fortune • 11h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 684 • 💬 489 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 684 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -205,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 481 • 💬 341 • 21h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 487 • 💬 348 • 21h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -213,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 471 • 💬 250 • 18h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 473 • 💬 252 • 19h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -245,7 +249,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 176 • 💬 157 • 9h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 177 • 💬 159 • 10h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -253,7 +257,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 150 • 💬 201 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 151 • 💬 202 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -261,7 +265,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 The famed convention's organizers have banned AI from the art show.
 
-⬆️ 127 • 💬 163 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 128 • 💬 163 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 
 ---
 
@@ -269,7 +273,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 122 • 💬 77 • 15h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 123 • 💬 77 • 16h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -437,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 284 • 24m ago
+⬇️ 145,992 • ❤️ 284 • 1h ago
 
 ---
 
@@ -449,7 +453,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 247 • 22h ago
+⬇️ 4,244 • ❤️ 247 • 23h ago
 
 ---
 
@@ -644,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 533 • 4h ago
+⭐ 10.0k • 🔱 533 • 5h ago
 
 ---
 
@@ -694,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 16h ago
+⭐ 5.0k • 🔱 5.2k • 17h ago
 
 ---
 
@@ -732,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 408 • 8h ago
+⭐ 2.0k • 🔱 408 • 9h ago
 
 ---
 

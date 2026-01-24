@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T04:12:12.052874+00:00'
+updated: '2026-01-24T04:55:13.896785+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 04:12 UTC  
+**Last Updated:** January 24, 2026 at 04:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -9.6%  
-**30d:** +1.3%  
-**90d:** -27.9%  
-**1y:** -10.5%  
+**24h:** -0.2%  
+**7d:** -9.8%  
+**30d:** +1.0%  
+**90d:** -28.1%  
+**1y:** -10.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
 
-5h ago
+6h ago
 
 ---
 
@@ -84,11 +84,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[137 - GM! FARCASTER - Adrienne & NounishProf](https://www.reddit.com/r/ethereum/comments/1ql9jue/137_gm_farcaster_adrienne_nounishprof/)**
+**[EtherWorld Weekly — Edition 348](https://www.reddit.com/r/ethereum/comments/1qlcsqy/etherworld_weekly_edition_348/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 48m ago
 
 ---
 
@@ -96,7 +96,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
-12h ago
+13h ago
+
+---
+
+**[137 - GM! FARCASTER - Adrienne & NounishProf](https://www.reddit.com/r/ethereum/comments/1ql9jue/137_gm_farcaster_adrienne_nounishprof/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 3h ago
 
 ---
 
@@ -140,14 +148,6 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 ---
 
-**[Ideas for Ethereum logo](https://www.reddit.com/r/ethereum/comments/1qjnc62/ideas_for_ethereum_logo/)**
-
-Hi everyone. I’m making a 50×70 cm (oil) painting of the Ethereum logo as a gift for a friend who just bought a new apartment! The painting will hang in his room, and the wallpaper color is beige, so I want something that looks clean and fits a modern interior. I'm looking for creative ideas, probably, minimal, interesting background and logo. Please help, thanks!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -176,23 +176,23 @@ TradingView — Track All Markets • 15h ago
 
 ---
 
-**[Nasdaq Seeks Removal of Trading Restrictions on Bitcoin and Ethereum ETFs](https://finance.yahoo.com/news/nasdaq-seeks-removal-trading-restrictions-144157841.html)**
+**[Tom Lee’s BitMine Nears 'Alchemy of 5%' Ethereum Goal — Is ETH Price in Trouble?](https://finance.yahoo.com/news/tom-lee-bitmine-nears-alchemy-100215066.html)**
 
-Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
+Tom Lee’s BitMine has accumulated more than 4.2 million ETH, representing 3.48% of supply. Traders are concerned about what will happen to Ethereum when its ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 17h ago
+CCN.com • 18h ago
 
 ---
 
-**[Ethereum reclaims $3,000 amid minor crypto rebound as Trump calls off Greenland tariff threat](https://www.theblock.co/post/386590/ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat)**
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ BeInCrypto • 23h ago
 
 Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
 
-Coinpedia Fintech News • 12h ago
+Coinpedia Fintech News • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 166 • 💬 46 • ⏱️ 8:10 • 20h ago
+👁️ 4K • 👍 166 • 💬 46 • ⏱️ 8:10 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & CRYPTO WARNING: IT'S A TRAP (again)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 209 • 💬 130 • ⏱️ 21:53 • 7h ago
+👁️ 4K • 👍 209 • 💬 130 • ⏱️ 21:53 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 8h ago
+👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 886 • 👍 53 • 💬 34 • ⏱️ 24:38 • 11h ago
+👁️ 886 • 👍 53 • 💬 34 • ⏱️ 24:38 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 494 • 💬 41 • ⏱️ 16:24 • 15h ago
+👁️ 8K • 👍 494 • 💬 41 • ⏱️ 16:24 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 12h ago
+👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 13h ago
 
 ---
 
