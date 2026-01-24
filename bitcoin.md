@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T20:43:37.407548+00:00'
+updated: '2026-01-24T21:19:22.896658+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 20:43 UTC  
+**Last Updated:** January 24, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-11h ago
+12h ago
 
 ---
 
@@ -115,7 +115,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 17h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 18h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -328,7 +328,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 2K • 💬 65 • ⏱️ 47:21 • 6h ago
+👁️ 25K • 👍 2K • 💬 65 • ⏱️ 47:21 • 7h ago
 
 ---
 
@@ -418,7 +418,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 9K • 👍 620 • 💬 122 • ⏱️ 4:57 • 9h ago
+👁️ 9K • 👍 620 • 💬 122 • ⏱️ 4:57 • 10h ago
 
 ---
 

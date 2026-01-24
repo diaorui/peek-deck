@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T20:43:37.399125+00:00'
+updated: '2026-01-24T21:19:22.888176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 20:43 UTC  
+**Last Updated:** January 24, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 57m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 9h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 10h ago
 
 ---
 
@@ -71,7 +71,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-21h ago
+22h ago
 
 ---
 
@@ -139,7 +139,7 @@ WIRED • 1d ago
 
 There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
 
-TechCrunch • 42m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ TechCrunch • 42m ago
 
 Exclusive: Experts say AI is likely to create more news deserts, fewer independent voices and threaten the viability of Australian journalism
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 1d ago
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ Scientific American • 1d ago
 
 Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -229,7 +229,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 331 • 💬 348 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 331 • 💬 348 • 3d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -289,7 +289,7 @@ Grab the voice agent prompt tool & all my AI builder resources on Skool: https:/
 
 📺 Liam Ottley
 
-👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 11h ago
+👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 12h ago
 
 ---
 
@@ -309,7 +309,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 21h ago
+👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 20h ago
+👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 11h ago
+👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 12h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 303 • 16h ago
+⬇️ 174,230 • ❤️ 303 • 17h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 549 • 14h ago
+⭐ 10.2k • 🔱 549 • 15h ago
 
 ---
 
@@ -704,7 +704,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 17h ago
+⭐ 5.8k • 🔱 1.0k • 18h ago
 
 ---
 
@@ -714,7 +714,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 5h ago
+⭐ 5.2k • 🔱 5.4k • 6h ago
 
 ---
 
@@ -752,7 +752,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.3k • 🔱 467 • 35m ago
+⭐ 2.3k • 🔱 467 • 1h ago
 
 ---
 
