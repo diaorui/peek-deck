@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T21:19:22.896658+00:00'
+updated: '2026-01-24T21:40:24.887723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 21:19 UTC  
+**Last Updated:** January 24, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,358.51
+### $89,302.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** -0.4%  
 **7d:** -4.7%  
-**30d:** +2.4%  
-**90d:** -21.7%  
-**1y:** -14.6%  
+**30d:** +2.3%  
+**90d:** -21.8%  
+**1y:** -14.7%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-4h ago
-
----
-
 **[People are severely underestimating Bitcoin scarcity](https://www.reddit.com/r/Bitcoin/comments/1qlun77/people_are_severely_underestimating_bitcoin/)**
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-2h ago
+3h ago
+
+---
+
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
+
+Where do people even find that kind of courage?
+
+5h ago
 
 ---
 
@@ -101,21 +101,9 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[One word for this PENGUIN 🫡](https://www.reddit.com/r/Bitcoin/comments/1qlrqd9/one_word_for_this_penguin/)**
-
-4h ago
-
----
-
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-13h ago
-
----
-
-**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -124,6 +112,12 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
 5h ago
+
+---
+
+**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
+
+1d ago
 
 ---
 
@@ -139,7 +133,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
 
-9h ago
+10h ago
 
 ---
 
@@ -149,13 +143,49 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 ---
 
+**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
+
+13h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
+**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
+
+It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
+
+CoinDesk • 5h ago
+
+---
+
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
 The Block • 1d ago
+
+---
+
+**[Bitcoin price slumps after investors fast cash out of ETFs to avoid risk](https://finance.yahoo.com/news/bitcoin-price-slumps-investors-fast-192323301.html)**
+
+Bitcoin is down significantly over the past week. Investors cashed out of US exchange-traded funds, pushing the asset’s price down. Geopolitical headwinds have rocked all markets in January.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)**
+
+Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
+
+CoinDesk • 38m ago
+
+---
+
+**[Bitcoin Price Prediction: Markets See Low Odds of $100K BTC in Early 2026](https://www.binance.com/en/square/post/01-24-2026-bitcoin-price-prediction-markets-see-low-odds-of-100k-btc-in-early-2026-35513597131490)**
+
+Binance • 10h ago
 
 ---
 
@@ -167,49 +197,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
-
-It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
-
-CoinDesk • 4h ago
-
----
-
-**[Cathie Wood: Bitcoin Is Set To Rally After 'Shallowest Four-Year Cycle Decline'](https://finance.yahoo.com/news/cathie-wood-bitcoin-set-rally-203111814.html)**
-
-ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
-
-The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
-
-CoinDesk • 2d ago
-
----
-
-**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
-
-ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
-
-Bitcoin Magazine • 3d ago
-
----
-
 **[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 2d ago
-
----
-
-**[Crypto News: GameStop Moves Entire Bitcoin Holdings to Coinbase Prime, Sparking Sale Speculation](https://www.binance.com/en/square/post/01-24-2026-crypto-news-gamestop-moves-entire-bitcoin-holdings-to-coinbase-prime-sparking-sale-speculation-35512023315002)**
-
-Binance • 10h ago
 
 ---
 
@@ -226,6 +218,14 @@ wtop.com • 2d ago
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
 ProPublica • 1d ago
+
+---
+
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -338,7 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 303 • ⏱️ 8:40 • 23h ago
+👁️ 53K • 👍 3K • 💬 303 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -348,7 +348,7 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 315 • 💬 279 • ⏱️ 9:52 • 20h ago
+👁️ 5K • 👍 315 • 💬 279 • ⏱️ 9:52 • 21h ago
 
 ---
 
@@ -388,7 +388,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 7K • 👍 672 • 💬 87 • ⏱️ 12:07 • 5h ago
+👁️ 7K • 👍 672 • 💬 87 • ⏱️ 12:07 • 6h ago
 
 ---
 

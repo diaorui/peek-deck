@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T21:19:22.902745+00:00'
+updated: '2026-01-24T21:40:24.893687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 21:19 UTC  
+**Last Updated:** January 24, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -9.9%  
-**30d:** +0.9%  
-**90d:** -28.2%  
-**1y:** -10.8%  
+**24h:** -0.1%  
+**7d:** -10.1%  
+**30d:** +0.8%  
+**90d:** -28.3%  
+**1y:** -10.9%  
 
 ---
 
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 19h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 20h ago
 
 ---
 
@@ -152,23 +152,11 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 ## Google News: "ethereum"
 
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
+**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
-CCN.com • 1d ago
+BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
----
-
-**[BlackRock singles out ethereum as “beneficiary of growth”](https://sherwood.news/crypto/blackrock-singles-out-ethereum-as-beneficiary-of-growth/)**
-
-In the next era of tokenization, ethereum is poised to dominate the market. It currently commands over 65% of tokenized assets across blockchain...
-
-Sherwood News • 3d ago
-
----
-
-**[BlackRock Says Ethereum Is Wall Street’s Tokenization Backbone](https://99bitcoins.com/news/altcoins/blackrock-ethereum-tokenization-wall-street/)**
-
-99Bitcoins • 2d ago
+Decrypt • 2d ago
 
 ---
 
@@ -184,7 +172,7 @@ AMBCrypto • 2d ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -194,11 +182,17 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Classic: Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/01/24/ethereum-classic-buy-sell-or-hold-in-2026/)**
+**[Ethereum Classic: Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/ethereum-classic-buy-sell-hold-145800985.html)**
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-The Motley Fool • 6h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -207,6 +201,14 @@ The Motley Fool • 6h ago
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
 TradingView — Track All Markets • 1d ago
+
+---
+
+**[Why Some Long-Term Investors Favor Ethereum Over Other Digital Assets](https://www.fool.com/investing/2026/01/24/why-some-long-term-investors-favor-ethereum-over-o/)**
+
+This asset has utility and a few other useful features.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -236,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 205 • 💬 95 • ⏱️ 7:22 • 4h ago
+👁️ 2K • 👍 205 • 💬 95 • ⏱️ 7:22 • 5h ago
 
 ---
 
@@ -246,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 721 • 👍 54 • 💬 9 • ⏱️ 4:34 • 3h ago
+👁️ 721 • 👍 54 • 💬 9 • ⏱️ 4:34 • 4h ago
 
 ---
 
@@ -286,7 +288,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 708 • 💬 17 • ⏱️ 12:01 • 2h ago
+👁️ 4K • 👍 708 • 💬 17 • ⏱️ 12:01 • 3h ago
 
 ---
 

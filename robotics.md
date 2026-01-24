@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T21:19:22.906000+00:00'
+updated: '2026-01-24T21:40:24.896868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 21:19 UTC  
+**Last Updated:** January 24, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-8h ago
+9h ago
 
 ---
 
@@ -60,6 +60,14 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 ---
 
+**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
+
+Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
+
+1h ago
+
+---
+
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
 23h ago
@@ -78,7 +86,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 https://marvelmind.com/3d_vertical_map/
 
-12h ago
+13h ago
 
 ---
 
@@ -90,17 +98,11 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 ---
 
-**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
+**[Converting Stepper to Reciprocating arm](https://www.reddit.com/r/robotics/comments/1qlyjmf/converting_stepper_to_reciprocating_arm/)**
 
-Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
+So, i currently have a Nema stepper motor and was curious if there are kits that can convert it into a reciprocating telescopic mechanism like this https://www.walmart.com/ip/Reciprocating-Telescopic-Motor-39mm-Stroke-Linear-Actuator-12V-Reciprocating-Mechanism-Connector-60mm-SuctionCup-US-Plug/13418204016?wmlspartner=wlpa&selectedSellerId=102618572&action=SignIn&rm=true Or, should i just buy the one linked above? Only thing is that I want to hook the whole thing up to an ardunio that will randomize the speed and motion. New to robotics here so thank you in advance for anything!
 
-59m ago
-
----
-
-**[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
-
-1d ago
+48m ago
 
 ---
 
@@ -116,19 +118,19 @@ Microsoft • 5h ago
 
 ---
 
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
-
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
-
-Electrek • 2d ago
-
----
-
 **[From hardware to intelligence: the operating system powering next-generation robotics](https://www.ynetnews.com/tech-and-digital/article/bjkpkuf8we)**
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
 ynetnews.com • 5h ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 4h ago
 
 ---
 
@@ -148,14 +150,6 @@ AgFunderNews • 2d ago
 
 ---
 
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 3h ago
-
----
-
 **[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
@@ -168,7 +162,7 @@ Business Insider • 2d ago
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-wbay.com • 20h ago
+wbay.com • 21h ago
 
 ---
 
@@ -180,11 +174,19 @@ The Robot Report • 3d ago
 
 ---
 
-**[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
+**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
 
-Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
+The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-Fox Business • 1d ago
+CBS News • 2d ago
+
+---
+
+**[Elon Musk Says Optimus Robots Are Coming Your Way. That Has Tesla Stock on the Rise.](https://www.investopedia.com/elon-musk-says-optimus-robots-are-coming-your-way-that-has-tesla-stock-on-the-rise-tsla-11890730)**
+
+The Tesla chief said the company plans to sell Optimus robots by the end of 2027 at the World Economic Forum in Davos, Switzerland.
+
+Investopedia • 2d ago
 
 ---
 
@@ -198,7 +200,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 47K • 👍 2K • 💬 106 • ⏱️ 17:39 • 21h ago
+👁️ 47K • 👍 2K • 💬 106 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -288,7 +290,7 @@ Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item
 
 📺 サハ SAHA
 
-👁️ 4K • 👍 181 • 💬 22 • ⏱️ 12:25 • 7h ago
+👁️ 4K • 👍 181 • 💬 22 • ⏱️ 12:25 • 8h ago
 
 ---
 
