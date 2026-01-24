@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T06:33:56.835039+00:00'
+updated: '2026-01-24T07:20:42.140258+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 06:33 UTC  
+**Last Updated:** January 24, 2026 at 07:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-11h ago
+12h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 23h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 1d ago
 
 ---
 
@@ -78,7 +78,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked our first ever regional ROSCon in South Korea!                Our ROS social calendar has filled back up again. There is a Gazebo Community Meeting on Forest3D next Wednesday and ROS By-The-Bay with Main Street Autonomy and @skye.galaxy next Thursday. The following week there is a robotics Dev room at FOSDEM and a Dronecode Meetup in Leuven, Belgium. This week we also announced a ROS Singapore Meetup...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 10h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-19th-2026/52057) • 11h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked 
 
 I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ I have a fairly solid understanding of the theory behind robotics, both in terms
 
 LTDR; this is a geometric kernel for measuring constraint-induced force distribution collapse in redundant systems. This is not novel in robotics, but I would like some feedback. It is usable, it uses the stock walking gait model in OpenSim so the lowerbody is muscle actuated and the upper body and torso are coordinate / torque actuated. Each frame will read out feasible or infeasible(the configuration/pose). If infeasible you can diagnose the infeasibility (gravity scaling/DoF masking/joint specific actuation, constraint switches) If feasible, then you get the effective dimensions of the polytope(so far I’ve seen up to 70% reduction of the dimensions). This creates a near unique equilibrium solution as a consequence of “optionality”(or lack of). Btw this is quasi static analysis. #Readme# Force Pathway Measurement Theory (FPMT) applies feasible wrench polytope methods from robotics to quantify constraint-induced force distribution collapse in redundant musculoskeletal systems. Rather than selecting a single solution via optimization, FPMT computes the entire admissible set of internal forces satisfying equilibrium and geometric constraints. This allows for measuring "optionality" (the feasible set size) and determining when force distributions become deterministic due to constraints. FPMT computes the full admissible set of internal forces and reports optionality metrics (Chebyshev clearance, CCI, effective dimension) instead of selecting a single solution via optimization. —— I’ve had engineers try to poke holes already, the big ask really is the math. Here is the GitHub for my project: https://github.com/mechanist01/FPMT Here’s the paper that inspired it: https://arxiv.org/pdf/2110.06790
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ LTDR; this is a geometric kernel for measuring constraint-induced force distribu
 
 Planning to get started with a simple robot arm (probably 3Dof first) Already burnt 2 out of the 3 TMCs😅 Can someone suggest things to keep it mind so don’t keep frying my drivers? Thanks
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 2h ago
+Microsoft • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 78 • 💬 10 • ⏱️ 18:41 • 6h ago
+👁️ 1K • 👍 78 • 💬 10 • ⏱️ 18:41 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 471 • 👍 24 • 💬 6 • ⏱️ 6:39 • 1h ago
+👁️ 471 • 👍 24 • 💬 6 • ⏱️ 6:39 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #w
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 718 • 💬 161 • ⏱️ 28:24 • 16h ago
+👁️ 11K • 👍 718 • 💬 161 • ⏱️ 28:24 • 17h ago
 
 ---
 

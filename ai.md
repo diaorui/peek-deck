@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T06:33:56.817345+00:00'
+updated: '2026-01-24T07:20:42.122015+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 06:33 UTC  
+**Last Updated:** January 24, 2026 at 07:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-59m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have some very old tapes that sound and look horrible. I've seen workflows tha
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 16h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 17h ago
 
 ---
 
@@ -97,7 +97,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-19h ago
+20h ago
 
 ---
 
@@ -113,7 +113,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 12h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 13h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 8h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 14h ago
+WIRED • 15h ago
 
 ---
 
@@ -141,13 +141,13 @@ WIRED • 14h ago
 
 Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
 **[Meta halts teens' access to AI characters globally](https://www.reuters.com/business/meta-halts-teens-access-ai-characters-globally-2026-01-23/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 9h ago
 
 Meta said it will suspend access to AI characters for teenagers across its apps while new safety features are developed.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ TechCrunch • 1h ago
 
 **[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg • 12h ago
 
 **[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqf8M0bKKzyyuCpaYqZpU5gndRN-29rLsxVFE6aLTvcMShsbHF_Nu9y1&gaa_ts=69746b41&gaa_sig=Lqq2eNmR61bQm1xdQ4tcuuWilX3gcwpknK3zZWaKv9zo2YKvy3ukOpGLVqOkCfXadguxzYT3VeCWOlvMJrH7tA%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 493 • 💬 350 • 23h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 493 • 💬 350 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 476 • 💬 254 • 20h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 476 • 💬 254 • 21h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -241,7 +241,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 A comprehensive guide to 113 battle-tested agentic patterns for building production AI agents.
 
-⬆️ 207 • 💬 142 • 2d ago • [nibzard](https://www.nibzard.com/agentic-handbook)
+⬆️ 207 • 💬 142 • 3d ago • [nibzard](https://www.nibzard.com/agentic-handbook)
 
 ---
 
@@ -249,7 +249,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 179 • 💬 162 • 11h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 179 • 💬 162 • 12h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -273,7 +273,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 126 • 💬 77 • 17h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 126 • 💬 77 • 18h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -307,7 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 7h ago
+👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 8h ago
 
 ---
 
@@ -317,7 +317,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 17h ago
+👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 18h ago
 
 ---
 
@@ -377,7 +377,7 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 17h ago
+👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 18h ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 287 • 2h ago
+⬇️ 145,992 • ❤️ 287 • 3h ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 46m ago
+⭐ 10.0k • 🔱 536 • 1h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 1h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 3h ago
+⭐ 5.8k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 19h ago
+⭐ 5.0k • 🔱 5.2k • 20h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 411 • 11h ago
+⭐ 2.0k • 🔱 411 • 12h ago
 
 ---
 
