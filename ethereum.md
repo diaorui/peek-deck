@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T03:28:01.226687+00:00'
+updated: '2026-01-24T04:12:12.052874+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 03:28 UTC  
+**Last Updated:** January 24, 2026 at 04:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.15B
+**Market Cap:** $357.26B
 Rank #2
 
 **Circulating Supply:** 120,694,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.1%
 
 **All-Time Low:** $0.43
-+681598.2%
++683704.5%
 
 ---
 
@@ -80,7 +80,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 1h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 16h ago
+CCN.com • 17h ago
 
 ---
 
@@ -216,7 +216,7 @@ AMBCrypto • 1d ago
 
 Nearly $2.3 billion in Bitcoin and Ethereum options expire as traders brace for volatility reset, strike magnets, & post-expiry price swings.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ BeInCrypto • 22h ago
 
 Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
 
-Coinpedia Fintech News • 11h ago
+Coinpedia Fintech News • 12h ago
 
 ---
 
@@ -232,43 +232,13 @@ Coinpedia Fintech News • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
-
-📺 Trade Confident
-
-👁️ 236 • 👍 9 • 💬 1 • ⏱️ 6:07 • 7h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING: IT&#39;S A TRAP (again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=U-b6zQ2Y7kk)**
-
-BITCOIN & CRYPTO WARNING: IT'S A TRAP (again)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 190 • 💬 90 • ⏱️ 21:53 • 7h ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 35K • 👍 2K • 💬 197 • ⏱️ 19:54 • 1d ago
-
----
-
 **[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=f3_Zl4xYkwo)**
 
 Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 978 • 💬 127 • ⏱️ 17:24 • 1d ago
+👁️ 29K • 👍 988 • 💬 128 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -278,17 +248,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 166 • 💬 47 • ⏱️ 8:10 • 20h ago
+👁️ 4K • 👍 166 • 💬 46 • ⏱️ 8:10 • 20h ago
 
 ---
 
-**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
 
-📺 Jamie Tree 
+📺 Coin Bureau
 
-👁️ 2K • 👍 65 • 💬 8 • ⏱️ 18:28 • 1d ago
+👁️ 36K • 👍 2K • 💬 199 • ⏱️ 19:54 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO WARNING: IT&#39;S A TRAP (again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=U-b6zQ2Y7kk)**
+
+BITCOIN & CRYPTO WARNING: IT'S A TRAP (again)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 209 • 💬 130 • ⏱️ 21:53 • 7h ago
+
+---
+
+**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
+
+📺 Trade Confident
+
+👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 8h ago
 
 ---
 
@@ -298,27 +288,27 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 457 • 👍 34 • 💬 58 • ⏱️ 24:38 • 11h ago
+👁️ 886 • 👍 53 • 💬 34 • ⏱️ 24:38 • 11h ago
 
 ---
 
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
 
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 Discover Crypto
+📺 Jamie Tree 
 
-👁️ 11K • 👍 384 • 💬 92 • ⏱️ 8:24 • 2d ago
+👁️ 2K • 👍 66 • 💬 8 • ⏱️ 18:28 • 1d ago
 
 ---
 
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
+**[BITCOIN: 90% Will Fall for This Trap! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Zay0bDVBu-A)**
 
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 World Liberty Financial
+📺 BitcoinHyper
 
-👁️ 6K • 👍 19 • 💬 4 • ⏱️ 1:36 • 1d ago
+👁️ 8K • 👍 494 • 💬 41 • ⏱️ 16:24 • 15h ago
 
 ---
 
@@ -328,7 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 77 • 💬 10 • ⏱️ 4:35 • 11h ago
+👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 12h ago
+
+---
+
+**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
+
+Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 387 • 💬 92 • ⏱️ 8:24 • 2d ago
 
 ---
 

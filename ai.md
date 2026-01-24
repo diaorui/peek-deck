@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T03:28:01.212193+00:00'
+updated: '2026-01-24T04:12:12.037795+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 03:28 UTC  
+**Last Updated:** January 24, 2026 at 04:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ I have some very old tapes that sound and look horrible. I've seen workflows tha
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 13h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ What? YouTube announced that later this year, creators will be able to use their
 
 AMD today released a new version of Ryzen AI Software, the user-space packages for Microsoft Windows and Linux for making use of the Ryzen AI NPUs for various AI software tasks like Stable Diffusion, ONNX, and more.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7) • 10h ago
 
 ---
 
@@ -111,7 +111,7 @@ You can read more about how this was made here.
 
 **[Job Applicants Sue A.I. Recruitment Tool Company. A recently filed lawsuit claims the ratings assigned by A.I. screening software are similar to those of a credit agency and should be subject to the same laws.](https://www.reddit.com/r/artificial/comments/1qjk1us/job_applicants_sue_ai_recruitment_tool_company_a/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 1d ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html?unlocked_article_code=1.GFA.9XQK.n_nH_2Z3omQR) • 2d ago
 
 ---
 
@@ -123,7 +123,7 @@ You can read more about how this was made here.
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
@@ -145,13 +145,13 @@ NDTV • 1h ago
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 11h ago
 
 **[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 23h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNN • 16h ago
 
 "My 52-year-old body had one of those moments when I saw a future where I wasn’t involved," Chris Brockett told Cade Metz for his book on AI.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 481 • 💬 341 • 20h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 481 • 💬 341 • 21h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -213,7 +213,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 471 • 💬 250 • 17h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 471 • 💬 250 • 18h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -245,7 +245,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 176 • 💬 157 • 8h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 176 • 💬 157 • 9h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -269,7 +269,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 122 • 💬 77 • 14h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 122 • 💬 77 • 15h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -283,17 +283,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 6K • 👍 87 • 💬 45 • ⏱️ 16:31 • 1d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 68K • 👍 757 • 💬 439 • ⏱️ 6:52 • 2d ago
+👁️ 7K • 👍 88 • 💬 45 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -303,7 +293,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 3K • 👍 546 • 💬 67 • ⏱️ 15:27 • 4h ago
+👁️ 6K • 👍 860 • 💬 107 • ⏱️ 15:27 • 5h ago
 
 ---
 
@@ -313,7 +303,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 45K • 👍 981 • 💬 106 • ⏱️ 12:48 • 1d ago
+👁️ 46K • 👍 1K • 💬 108 • ⏱️ 12:48 • 1d ago
 
 ---
 
@@ -323,7 +313,17 @@ YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTu
 
 📺 Deep Humor
 
-👁️ 21K • 👍 2K • 💬 531 • ⏱️ 9:46 • 1d ago
+👁️ 22K • 👍 2K • 💬 533 • ⏱️ 9:46 • 1d ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 69K • 👍 773 • 💬 446 • ⏱️ 6:52 • 2d ago
 
 ---
 
@@ -333,17 +333,17 @@ Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Execut
 
 📺 Mint
 
-👁️ 126K • 👍 2K • 💬 351 • ⏱️ 9:36 • 2d ago
+👁️ 131K • 👍 2K • 💬 361 • ⏱️ 9:36 • 2d ago
 
 ---
 
-**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
+**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
 
-In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
+Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
 
-📺 Parker Prompts
+📺 Vanessa Wingårdh
 
-👁️ 28K • 💬 23 • ⏱️ 10:12 • 2d ago
+👁️ 322K • 👍 17K • 💬 4K • ⏱️ 10:08 • 15h ago
 
 ---
 
@@ -353,17 +353,17 @@ Build Your First Successful Channel - https://www.skool.com/scalable-creator-os-
 
 📺 BigStepsMedia
 
-👁️ 5K • 👍 222 • 💬 11 • ⏱️ 8:40 • 1d ago
+👁️ 5K • 👍 229 • 💬 12 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[DeepSeek Leaks MODEL1: New Flagship AI Shocks The Industry](https://www.youtube.com/watch?v=HiFnPNUpLDM)**
+**[EXACTLY How I&#39;d Start Using AI in 2026](https://www.youtube.com/watch?v=ySUvi5CY_Cw)**
 
-DeepSeek may have just exposed its next flagship model on GitHub — and the signals point to something far bigger than a ...
+In this video, I break down the five AI fundamentals that actually matter if you want real results, not wasted months chasing shiny ...
 
-📺 AI Revolution
+📺 Parker Prompts
 
-👁️ 33K • 👍 993 • 💬 76 • ⏱️ 15:40 • 2d ago
+👁️ 29K • 💬 23 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 477K • 👍 1K • 💬 29 • ⏱️ 11:47 • 2d ago
+👁️ 484K • 👍 2K • 💬 30 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,073 • 3d ago
+⬇️ 199,346 • ❤️ 1,077 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 710 • 1d ago
+⬇️ 17,010 • ❤️ 725 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 370 • 2d ago
+⬇️ 4,644 • ❤️ 376 • 2d ago
 
 ---
 
@@ -425,7 +425,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 60,736 • ❤️ 512 • 8d ago
+⬇️ 60,736 • ❤️ 514 • 8d ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 283 • 4h ago
+⬇️ 145,992 • ❤️ 284 • 24m ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 232 • 22h ago
+⬇️ 4,244 • ❤️ 247 • 22h ago
 
 ---
 
@@ -483,7 +483,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 446 • 4d ago
+⬇️ 40,447 • ❤️ 447 • 4d ago
 
 ---
 
@@ -495,7 +495,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 287 • 1d ago
+⬇️ 35,694 • ❤️ 289 • 1d ago
 
 ---
 
@@ -549,7 +549,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 14 • 💬 2 • ⭐ 311 • 7d ago
+▲ 15 • 💬 2 • ⭐ 311 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -603,7 +603,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 158 • 💬 4 • ⭐ 266 • 5d ago
+▲ 159 • 💬 4 • ⭐ 266 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -644,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 530 • 3h ago
+⭐ 10.0k • 🔱 533 • 4h ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 7h ago
+⭐ 9.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -674,7 +674,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 869 • 1d ago
+⭐ 7.3k • 🔱 874 • 1d ago
 
 ---
 
@@ -684,7 +684,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.7k • 🔱 991 • 1h ago
+⭐ 5.8k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 4.9k • 🔱 5.2k • 16h ago
+⭐ 5.0k • 🔱 5.2k • 16h ago
 
 ---
 
@@ -704,7 +704,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.0k • 🔱 440 • 2d ago
+⭐ 4.1k • 🔱 442 • 2d ago
 
 ---
 
@@ -712,7 +712,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 217 • 1d ago
+⭐ 2.6k • 🔱 218 • 1d ago
 
 ---
 
@@ -726,13 +726,13 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 ---
 
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+**[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
 
-Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战
+The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-`JavaScript` `agent` `ai` `coding` `course` `gemini`
+`Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 164 • 18h ago
+⭐ 2.0k • 🔱 408 • 8h ago
 
 ---
 

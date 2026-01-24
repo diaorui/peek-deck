@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T03:28:01.229930+00:00'
+updated: '2026-01-24T04:12:12.056174+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 03:28 UTC  
+**Last Updated:** January 24, 2026 at 04:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-5h ago
+6h ago
 
 ---
 
 **[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to use SLM metal printing and carbon fiber parts appropriately. (I'm a 19-year-old dropout and my dream is to work for a company even if it's an internship!) 😼👍
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
-🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 21h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of January 19th, 2026      🦾 🇰🇷 This week marked 
 
 I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ I have a fairly solid understanding of the theory behind robotics, both in terms
 
 LTDR; this is a geometric kernel for measuring constraint-induced force distribution collapse in redundant systems. This is not novel in robotics, but I would like some feedback. It is usable, it uses the stock walking gait model in OpenSim so the lowerbody is muscle actuated and the upper body and torso are coordinate / torque actuated. Each frame will read out feasible or infeasible(the configuration/pose). If infeasible you can diagnose the infeasibility (gravity scaling/DoF masking/joint specific actuation, constraint switches) If feasible, then you get the effective dimensions of the polytope(so far I’ve seen up to 70% reduction of the dimensions). This creates a near unique equilibrium solution as a consequence of “optionality”(or lack of). Btw this is quasi static analysis. #Readme# Force Pathway Measurement Theory (FPMT) applies feasible wrench polytope methods from robotics to quantify constraint-induced force distribution collapse in redundant musculoskeletal systems. Rather than selecting a single solution via optimization, FPMT computes the entire admissible set of internal forces satisfying equilibrium and geometric constraints. This allows for measuring "optionality" (the feasible set size) and determining when force distributions become deterministic due to constraints. FPMT computes the full admissible set of internal forces and reports optionality metrics (Chebyshev clearance, CCI, effective dimension) instead of selecting a single solution via optimization. —— I’ve had engineers try to poke holes already, the big ask really is the math. Here is the GitHub for my project: https://github.com/mechanist01/FPMT Here’s the paper that inspired it: https://arxiv.org/pdf/2110.06790
 
-10h ago
+11h ago
 
 ---
 
@@ -114,7 +114,7 @@ Planning to get started with a simple robot arm (probably 3Dof first) Already bu
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 8h ago
+Microsoft • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 2d ago
 
 Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help support nurses on ‘The Claman Countdown.’
 
-Fox Business • 5h ago
+Fox Business • 6h ago
 
 ---
 
@@ -182,7 +182,7 @@ Axios • 16h ago
 
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 68 • 💬 52 • ⏱️ 2:47 • 1d ago
+👁️ 7K • 👍 69 • 💬 52 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -206,17 +206,7 @@ In a wide-ranging conversation at the World Economic Forum, tech billionaire Elo
 
 📺 DRM News
 
-👁️ 432K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
-
----
-
-**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
-
-Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 235 • 💬 21 • ⏱️ 19:35 • 5d ago
+👁️ 442K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
 
 ---
 
@@ -226,7 +216,17 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 43K • 👍 1K • 💬 220 • ⏱️ 0:49 • 1d ago
+👁️ 43K • 👍 1K • 💬 229 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+
+Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 236 • 💬 21 • ⏱️ 19:35 • 5d ago
 
 ---
 
@@ -234,17 +234,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 23K • 👍 2K • 💬 102 • ⏱️ 1:13 • 1d ago
-
----
-
-**[Robots Are Addicted to Getting Hit By Trains](https://www.youtube.com/watch?v=IHRo8i-qaeU)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.1M • 👍 48K • 💬 4K • ⏱️ 9:14 • 3d ago
+👁️ 23K • 👍 2K • 💬 103 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -254,7 +244,27 @@ War Robots Gameplay: NEW Robot AMMIT Mk3 - completely taking over! #warrobots #w
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 634 • 💬 141 • ⏱️ 28:24 • 13h ago
+👁️ 10K • 👍 681 • 💬 149 • ⏱️ 28:24 • 14h ago
+
+---
+
+**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+
+Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+
+📺 Fox Business Clips
+
+👁️ 8K • 👍 172 • 💬 69 • ⏱️ 3:39 • 9h ago
+
+---
+
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+
+📺 Global News
+
+👁️ 8K • 👍 81 • 💬 74 • ⏱️ 10:15 • 1d ago
 
 ---
 
@@ -264,7 +274,7 @@ About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date n
 
 📺 Yahoo Finance
 
-👁️ 15K • 👍 162 • 💬 11 • ⏱️ 0:47 • 1d ago
+👁️ 15K • 👍 165 • 💬 12 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -275,16 +285,6 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 📺 KhanFlicks
 
 👁️ 79K • 💬 36 • ⏱️ 12:09 • 6d ago
-
----
-
-**[This Robot is Learning to Disassemble Your Appliances](https://www.youtube.com/watch?v=-xbTJk3EIkQ)**
-
-This robot isn't recycling your appliances — it's learning how to take them apart to reuse the best parts. Panasonic's AI-driven ...
-
-📺 Undecided with Matt Ferrell
-
-👁️ 38K • 👍 2K • 💬 113 • ⏱️ 1:51 • 2d ago
 
 ---
 

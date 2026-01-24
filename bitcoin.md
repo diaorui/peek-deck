@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T03:28:01.220595+00:00'
+updated: '2026-01-24T04:12:12.046712+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 03:28 UTC  
+**Last Updated:** January 24, 2026 at 04:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.26B
+**Market Cap:** $1791.72B
 Rank #1
 
-**Circulating Supply:** 19,979,915 BTC
+**Circulating Supply:** 19,979,981 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-28.9%
 
 **All-Time Low:** $67.81
-+131761.1%
++132179.9%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-8h ago
+9h ago
 
 ---
 
@@ -113,13 +113,13 @@ A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, b
 
 Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
 
-20h ago
+21h ago
 
 ---
 
 **[i’m going all in](https://www.reddit.com/r/Bitcoin/comments/1qkh7e8/im_going_all_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the targe
 
 Hi, for some info I have some stocks that're worth like 4k euros. And I have a dilemma about putting some cash into crypto just to be safe. And I have this idea for like 3 months now. What would you do everyone? :D EDIT: Thank you all for the tips and advice. Especially thank you for the courage to finally buy it. Over time I will buy more using DCA and let it stack.
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi, for some info I have some stocks that're worth like 4k euros. And I have a d
 
 Is holding IBIT the same as real bitcoin? I really believe in crypto and want to hold for the long run and buy everyday. Would buying Ibit be much different?
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ ProPublica • 1d ago
 
 Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 11h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 16h ago
 
 Some fear massive consequences for financial markets.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -199,13 +199,13 @@ CNBC • 2d ago
 
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
 **[CHART OF THE DAY: Bitcoin Is Not "Digital Gold"](https://app.hedgeye.com/insights/177014-chart-of-the-day-bitcoin-is-not-digital-gold?type=macro%2Cmarket-insights)**
 
-Hedgeye • 14h ago
+Hedgeye • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 39m ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 1h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -322,7 +322,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 15K • 👍 301 • 💬 171 • ⏱️ 2:12 • 13h ago
+👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 13h ago
 
 ---
 
@@ -332,67 +332,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 185 • ⏱️ 32:17 • 11h ago
-
----
-
-**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
-
-Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 385 • 💬 84 • ⏱️ 1:04:53 • 8h ago
-
----
-
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 59K • 👍 2K • 💬 290 • ⏱️ 16:21 • 1d ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 16K • 👍 1K • 💬 148 • ⏱️ 8:40 • 5h ago
-
----
-
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
-
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 272 • 💬 89 • ⏱️ 10:27 • 1d ago
-
----
-
-**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
-
-Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 3K • 💬 391 • ⏱️ 23:49 • 1d ago
-
----
-
-**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
-
-Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 103 • 💬 53 • ⏱️ 1:26 • 12h ago
+👁️ 22K • 👍 1K • 💬 166 • ⏱️ 32:17 • 12h ago
 
 ---
 
@@ -402,17 +342,77 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 31K • 👍 1K • 💬 146 • ⏱️ 12:29 • 13h ago
+👁️ 34K • 👍 1K • 💬 128 • ⏱️ 12:29 • 14h ago
 
 ---
 
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
 
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 The Sat Stacker Show
+📺 Altcoin Daily
 
-👁️ 4K • 👍 264 • 💬 81 • ⏱️ 14:22 • 1d ago
+👁️ 24K • 👍 2K • 💬 137 • ⏱️ 8:40 • 6h ago
+
+---
+
+**[Worlds LARGEST Exchange CONFIRMS THE BITCOIN PRICE SUPPRESSION IS OVER?! | EP 1425](https://www.youtube.com/watch?v=wwLOdugu7nM)**
+
+Calls for the end of the 4 year cycle and a supercycle begin again by 2 billionaires - but what are they really saying?
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 411 • 💬 58 • ⏱️ 1:04:53 • 9h ago
+
+---
+
+**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+
+Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 1K • 💬 90 • ⏱️ 15:16 • 5h ago
+
+---
+
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
+
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
+
+📺 Swan Bitcoin
+
+👁️ 60K • 👍 2K • 💬 294 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
+
+Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 12h ago
+
+---
+
+**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
+
+2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 276 • 💬 89 • ⏱️ 10:27 • 1d ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 3K • 💬 388 • ⏱️ 23:49 • 1d ago
 
 ---
 
