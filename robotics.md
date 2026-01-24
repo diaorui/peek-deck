@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T10:45:34.252245+00:00'
+updated: '2026-01-24T11:18:59.217699+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 10:45 UTC  
+**Last Updated:** January 24, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-3h ago
+4h ago
 
 ---
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google G
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 6h ago
+Microsoft • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 90 • 💬 16 • ⏱️ 18:41 • 11h ago
+👁️ 3K • 👍 101 • 💬 16 • ⏱️ 18:41 • 11h ago
 
 ---
 
@@ -208,7 +208,17 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 71 • 💬 52 • ⏱️ 2:47 • 1d ago
+👁️ 8K • 👍 74 • 💬 53 • ⏱️ 2:47 • 1d ago
+
+---
+
+**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+
+Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+
+📺 Fox Business Clips
+
+👁️ 14K • 👍 219 • 💬 82 • ⏱️ 3:39 • 16h ago
 
 ---
 
@@ -218,7 +228,17 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 39 • 💬 12 • ⏱️ 6:39 • 5h ago
+👁️ 2K • 👍 48 • 💬 12 • ⏱️ 6:39 • 6h ago
+
+---
+
+**[0% survival: Russian soldiers vs Ukrainian robots](https://www.youtube.com/watch?v=_BQ1xQ-o__M)**
+
+Our interactive news map: https://www.rfunews.com/map Subscribe to unlock full access to the map + exclusive strategic ...
+
+📺 RFU News — Strategic Geopolitics
+
+👁️ 131K • 👍 14K • 💬 498 • ⏱️ 5:29 • 1d ago
 
 ---
 
@@ -232,13 +252,23 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
+**[Robots Are Addicted to Getting Hit By Trains](https://www.youtube.com/watch?v=IHRo8i-qaeU)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.1M • 👍 48K • 💬 4K • ⏱️ 9:14 • 3d ago
+
+---
+
 **[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
 
 Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
 
 📺 Fox News
 
-👁️ 44K • 👍 1K • 💬 229 • ⏱️ 0:49 • 1d ago
+👁️ 45K • 👍 1K • 💬 230 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -246,47 +276,17 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 23K • 👍 2K • 💬 104 • ⏱️ 1:13 • 1d ago
+👁️ 23K • 👍 2K • 💬 106 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
 
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
 
-📺 Global News
+📺 Rowan Cheung
 
-👁️ 9K • 👍 87 • 💬 75 • ⏱️ 10:15 • 1d ago
-
----
-
-**[This Humanoid Robot Just Gave Me a Massage… | CES 2026 | ROBOTERA L7](https://www.youtube.com/watch?v=6NXerYBsLzQ)**
-
-At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot can safely interact with humans in ways that feel ...
-
-📺 KhanFlicks
-
-👁️ 79K • 💬 36 • ⏱️ 12:09 • 6d ago
-
----
-
-**[Musk predicts future with &quot;more robots than people.&quot; 🤖](https://www.youtube.com/watch?v=WvLVkHApOu0)**
-
-About Yahoo Finance: Yahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, ...
-
-📺 Yahoo Finance
-
-👁️ 16K • 👍 169 • 💬 12 • ⏱️ 0:47 • 1d ago
-
----
-
-**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
-
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
-
-📺 UBTECH Robotics
-
-👁️ 11K • 👍 168 • 💬 32 • ⏱️ 1:56 • 3d ago
+👁️ 5K • 👍 328 • 💬 2 • ⏱️ 1:13 • 14h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T10:45:34.242993+00:00'
+updated: '2026-01-24T11:18:59.208400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 10:45 UTC  
+**Last Updated:** January 24, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.54B
+**Market Cap:** $1787.77B
 Rank #1
 
-**Circulating Supply:** 19,980,009 BTC
+**Circulating Supply:** 19,980,071 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.0%
 
 **All-Time Low:** $67.81
-+131907.1%
++131846.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-1h ago
+2h ago
 
 ---
 
@@ -105,13 +105,13 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-22h ago
+23h ago
 
 ---
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Just wondering
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Just wondering
 
 I transferred BTC from kraken, cash app, river, coin base for the 3% Robinhood gave me so my position is not accurate because Robinhood couldn’t accurately price it. My average is around 116-118. I’m down around 5k but still happy because I believe in BTC long term 😊
 
-1h ago
+2h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 19h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 7h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 8h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -324,7 +324,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 22K • 👍 381 • 💬 195 • ⏱️ 2:12 • 20h ago
+👁️ 24K • 👍 411 • 💬 196 • ⏱️ 2:12 • 21h ago
 
 ---
 
@@ -334,7 +334,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 13h ago
+👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 13h ago
 
 ---
 
@@ -344,7 +344,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 62K • 👍 2K • 💬 299 • ⏱️ 16:21 • 1d ago
+👁️ 63K • 👍 2K • 💬 299 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -354,17 +354,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 1K • 💬 127 • ⏱️ 12:29 • 20h ago
-
----
-
-**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 19h ago
+👁️ 39K • 👍 1K • 💬 125 • ⏱️ 12:29 • 21h ago
 
 ---
 
@@ -374,17 +364,17 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 438 • 💬 60 • ⏱️ 1:04:53 • 15h ago
+👁️ 9K • 👍 448 • 💬 59 • ⏱️ 1:04:53 • 16h ago
 
 ---
 
-**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
 
-Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 15:16 • 11h ago
+👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 19h ago
 
 ---
 
@@ -394,7 +384,17 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 390 • ⏱️ 23:49 • 1d ago
+👁️ 32K • 👍 3K • 💬 389 • ⏱️ 23:49 • 1d ago
+
+---
+
+**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+
+Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 1K • 💬 110 • ⏱️ 15:16 • 12h ago
 
 ---
 
@@ -404,17 +404,17 @@ Davos didn't see this coming. America flexed hard on the world stage while Bitco
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 282 • 💬 91 • ⏱️ 10:27 • 1d ago
+👁️ 14K • 👍 284 • 💬 88 • ⏱️ 10:27 • 1d ago
 
 ---
 
-**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
+**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
 
-Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
+People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
 
-📺 Swan Bitcoin
+📺 The Sat Stacker Show
 
-👁️ 3K • 👍 132 • 💬 34 • ⏱️ 1:26 • 19h ago
+👁️ 5K • 👍 295 • 💬 86 • ⏱️ 14:22 • 1d ago
 
 ---
 

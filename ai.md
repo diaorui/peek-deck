@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T10:45:34.234597+00:00'
+updated: '2026-01-24T11:18:59.199972+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 10:45 UTC  
+**Last Updated:** January 24, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 21h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 2d ago
 
 Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Financial Times • 1h ago
 
 The best AI stocks to buy in 2026 will be a select group that captures sustained artificial intelligence data center growth. Click here to see the top 5 stocks.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -171,13 +171,13 @@ Seeking Alpha • 21h ago
 
 This high-quality business, unfortunately, trades at a lofty valuation.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
 **[Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals](https://www.bloomberg.com/news/articles/2026-01-24/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg • 1h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 18h ago
+WIRED • 19h ago
 
 ---
 
@@ -259,7 +259,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 129 • 💬 78 • 21h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 129 • 💬 78 • 22h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -283,33 +283,13 @@ A conversation with Graham Granger, whose combination of protest and performance
 
 ## YouTube Videos: "ai"
 
-**[This is now the best FREE AI text-to-speech! Voice cloning + emotion control + voice design](https://www.youtube.com/watch?v=eC8mZceIy5k)**
-
-Qwen3 TTS review & installation tutorial. How to run Qwen3 TTS on ComfyUI. Best AI voice cloner. AI voice design, emotion ...
-
-📺 AI Search
-
-👁️ 15K • 👍 1K • 💬 301 • ⏱️ 26:18 • 7h ago
-
----
-
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 7K • 👍 92 • 💬 48 • ⏱️ 16:31 • 1d ago
-
----
-
-**[I Asked AI if Trump Made the Economy BETTER or WORSE](https://www.youtube.com/watch?v=2QaEhmJMYbo)**
-
-Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and code 'IAskAI' to get 20% off a Pro plan.
-
-📺 I Ask AI
-
-👁️ 13K • 👍 1K • 💬 160 • ⏱️ 15:27 • 11h ago
+👁️ 7K • 👍 92 • 💬 50 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -319,7 +299,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 49K • 👍 1K • 💬 114 • ⏱️ 12:48 • 1d ago
+👁️ 51K • 👍 1K • 💬 115 • ⏱️ 12:48 • 1d ago
 
 ---
 
@@ -329,27 +309,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 350K • 👍 18K • 💬 4K • ⏱️ 10:08 • 21h ago
-
----
-
-**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
-
-A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
-
-📺 Law&Crime Network
-
-👁️ 23K • 👍 504 • 💬 160 • ⏱️ 21:14 • 14h ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 13K • 👍 829 • 💬 117 • ⏱️ 28:01 • 8h ago
+👁️ 364K • 👍 19K • 💬 4K • ⏱️ 10:08 • 22h ago
 
 ---
 
@@ -359,17 +319,7 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 71K • 👍 793 • 💬 451 • ⏱️ 6:52 • 2d ago
-
----
-
-**[The Greatest AI Design System I&#39;ve Ever Used! (Pencil.dev)](https://www.youtube.com/watch?v=bUycTrxNas0)**
-
-Try your own Zapier workflow today and see how much time you can save — click the link, start automating, and make your day ...
-
-📺 WorldofAI
-
-👁️ 4K • 👍 256 • 💬 8 • ⏱️ 10:09 • 7h ago
+👁️ 72K • 👍 799 • 💬 456 • ⏱️ 6:52 • 2d ago
 
 ---
 
@@ -379,7 +329,57 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 250 • 💬 74 • ⏱️ 5:34 • 21h ago
+👁️ 21K • 👍 253 • 💬 74 • ⏱️ 5:34 • 22h ago
+
+---
+
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+
+📺 Matt Wolfe
+
+👁️ 20K • 👍 1K • 💬 146 • ⏱️ 28:01 • 8h ago
+
+---
+
+**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
+
+A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
+
+📺 Law&Crime Network
+
+👁️ 23K • 👍 514 • 💬 162 • ⏱️ 21:14 • 14h ago
+
+---
+
+**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+
+Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+
+📺 Mint
+
+👁️ 143K • 👍 2K • 💬 397 • ⏱️ 9:36 • 2d ago
+
+---
+
+**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+
+Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+
+📺 AI Revolution
+
+👁️ 9K • 👍 415 • 💬 37 • ⏱️ 9:10 • 11h ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR Pt.2](https://www.youtube.com/watch?v=Kl7OidH9eTE)**
+
+Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/watch?v=GrgJ30vZgyI Subscribe now to unlock ...
+
+📺 Love And Peace
+
+👁️ 518K • 👍 2K • 💬 38 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,087 • 3d ago
+⬇️ 279,658 • ❤️ 1,092 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 747 • 1d ago
+⬇️ 22,852 • ❤️ 758 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 390 • 2d ago
+⬇️ 6,967 • ❤️ 393 • 2d ago
 
 ---
 
@@ -431,19 +431,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 291 • 6h ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 67,913 • ❤️ 516 • 8d ago
+⬇️ 174,230 • ❤️ 292 • 7h ago
 
 ---
 
@@ -455,7 +443,19 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 274 • 1d ago
+⬇️ 20,374 • ❤️ 287 • 1d ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 67,913 • ❤️ 517 • 8d ago
 
 ---
 
@@ -467,17 +467,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 584 • ❤️ 220 • 4d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 42,118 • ❤️ 450 • 4d ago
+⬇️ 584 • ❤️ 223 • 4d ago
 
 ---
 
@@ -489,7 +479,17 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 207 • 3d ago
+⬇️ 11,299 • ❤️ 212 • 3d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 42,118 • ❤️ 452 • 4d ago
 
 ---
 
@@ -517,9 +517,21 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 24 • 💬 1 • ⭐ 2,789 • 2d ago
+▲ 25 • 💬 1 • ⭐ 2,789 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
+
+*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
+
+UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
+
+▲ 0 • 💬 0 • ⭐ 3,216 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -543,21 +555,9 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 35 • 💬 4 • ⭐ 1,746 • 8d ago
+▲ 35 • 💬 4 • ⭐ 1,746 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 126 • 💬 6 • ⭐ 11,614 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -569,9 +569,21 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 15 • 💬 2 • ⭐ 335 • 8d ago
+▲ 16 • 💬 2 • ⭐ 335 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 126 • 💬 6 • ⭐ 11,627 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -589,18 +601,6 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 ---
 
-**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
-
-*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
-
-UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
-
-▲ 0 • 💬 0 • ⭐ 2,928 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
-
----
-
 **[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
 
 *Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
@@ -609,7 +609,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 161 • 💬 5 • ⭐ 305 • 5d ago
+▲ 163 • 💬 5 • ⭐ 305 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -634,7 +634,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 159 • 💬 3 • ⭐ 4,599 • 6mo ago
+▲ 159 • 💬 3 • ⭐ 4,616 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 537 • 4h ago
+⭐ 10.1k • 🔱 542 • 5h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 6h ago
+⭐ 9.7k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -670,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 448 • 2d ago
+⭐ 8.8k • 🔱 448 • 2d ago
 
 ---
 
@@ -680,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 876 • 1d ago
+⭐ 7.3k • 🔱 880 • 1d ago
 
 ---
 
@@ -690,17 +690,17 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 7h ago
+⭐ 5.8k • 🔱 1.0k • 8h ago
 
 ---
 
 **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
 
-LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.3k • 3h ago
+⭐ 5.0k • 🔱 5.3k • 32m ago
 
 ---
 
@@ -710,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.1k • 🔱 445 • 2d ago
+⭐ 4.2k • 🔱 446 • 2d ago
 
 ---
 
@@ -718,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.7k • 🔱 220 • 1d ago
+⭐ 2.7k • 🔱 222 • 1d ago
 
 ---
 
@@ -738,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 415 • 15h ago
+⭐ 2.1k • 🔱 421 • 16h ago
 
 ---
 
