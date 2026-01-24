@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T04:55:13.890695+00:00'
+updated: '2026-01-24T05:22:45.465953+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 04:55 UTC  
+**Last Updated:** January 24, 2026 at 05:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,13 +127,13 @@ Is holding IBIT the same as real bitcoin? I really believe in crypto and want to
 
 **[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
 
-43m ago
+1h ago
 
 ---
 
 **[Bitcoin giving out discounts while the wallet is still in recovery mode.](https://www.reddit.com/r/Bitcoin/comments/1qkrw1l/bitcoin_giving_out_discounts_while_the_wallet_is/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 12h ago
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 17h ago
 
 Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 14h ago
+👁️ 17K • 👍 316 • 💬 178 • ⏱️ 2:12 • 15h ago
 
 ---
 
@@ -340,7 +340,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 1K • 💬 128 • ⏱️ 12:29 • 14h ago
+👁️ 34K • 👍 1K • 💬 128 • ⏱️ 12:29 • 15h ago
 
 ---
 
@@ -370,7 +370,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 90 • ⏱️ 15:16 • 5h ago
+👁️ 9K • 👍 1K • 💬 90 • ⏱️ 15:16 • 6h ago
 
 ---
 
@@ -390,7 +390,7 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 13h ago
+👁️ 3K • 👍 112 • 💬 34 • ⏱️ 1:26 • 14h ago
 
 ---
 

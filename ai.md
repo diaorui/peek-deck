@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T04:55:13.882355+00:00'
+updated: '2026-01-24T05:22:45.458366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 04:55 UTC  
+**Last Updated:** January 24, 2026 at 05:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 People who say AI makes humans useless are missing the point. Real data from Anthropic’s AI usage research shows the opposite, that users with higher skills and more education tend to get way better results from AI because they know how to ask better questions and guide the model instead of just copying outputs. That’s why in wealthier countries with higher AI literacy, Claude usage is more productive and focused on work tasks, while in places with lower resources it’s mostly basic help, and the productivity gap widens accordingly. The report suggests AI augments human ability and doesn’t replace it, but only if users have the skills to work with it intelligently. If you just treat AI like a magic answer machine, you’re the one who gets useless results, not the tool.
 
-just now
+28m ago
 
 ---
 
@@ -73,7 +73,7 @@ just now
 
 I have some very old tapes that sound and look horrible. I've seen workflows that upscale small images to 4k, but I wager doing a full video might just take too much processing power right now? Is this at all remotely possible, or do I need to revisit this in 5 years? Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 6h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 12h ago
+WIRED • 13h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg • 10h ago
 
 **[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqcvNQcBcO-9bzU0HYsQWJgGIsBV7miNiwVZrJCOw4DiDWNrRwAEh48u&gaa_ts=69745420&gaa_sig=7GYxXvgNQc3qrpsmO9CRI6qsG5jHXrZpodVfVOUSDA4nI2RGHGmBCjzAW8APkKQAYYZwo1INyglS8WV-lqM9HA%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 12h ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNN • 17h ago
 
 Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -209,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 487 • 💬 348 • 21h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 487 • 💬 348 • 22h ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -297,7 +297,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 6K • 👍 860 • 💬 107 • ⏱️ 15:27 • 5h ago
+👁️ 6K • 👍 860 • 💬 107 • ⏱️ 15:27 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 322K • 👍 17K • 💬 4K • ⏱️ 10:08 • 15h ago
+👁️ 322K • 👍 17K • 💬 4K • ⏱️ 10:08 • 16h ago
 
 ---
 
@@ -553,7 +553,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 15 • 💬 2 • ⭐ 311 • 7d ago
+▲ 15 • 💬 2 • ⭐ 311 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 2h ago
+⭐ 9.6k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 1h ago
+⭐ 5.8k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 17h ago
+⭐ 5.0k • 🔱 5.2k • 18h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 408 • 9h ago
+⭐ 2.0k • 🔱 408 • 10h ago
 
 ---
 
