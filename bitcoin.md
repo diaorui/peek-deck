@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T16:26:47.304262+00:00'
+updated: '2026-01-24T16:49:08.958279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 16:26 UTC  
+**Last Updated:** January 24, 2026 at 16:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 Where do people even find that kind of courage?
 
-6m ago
+28m ago
 
 ---
 
@@ -141,7 +141,7 @@ Where do people even find that kind of courage?
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -167,7 +167,7 @@ ProPublica • 1d ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 2d ago
 
 While blockchain data confirms the movement to Coinbase Prime, the transfer could also mean internal asset management or custody.
 
-CoinDesk • 37m ago
+CoinDesk • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 37m ago
 
 ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -312,7 +312,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 13h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 14h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -336,7 +336,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 18h ago
+👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 19h ago
 
 ---
 
@@ -386,7 +386,7 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 15h ago
+👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 16h ago
 
 ---
 

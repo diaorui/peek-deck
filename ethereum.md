@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T16:26:47.310228+00:00'
+updated: '2026-01-24T16:49:08.963469+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 16:26 UTC  
+**Last Updated:** January 24, 2026 at 16:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 14h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 2d ago
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin failed to close above previously lost support again, and also printed a 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 421 • 💬 64 • ⏱️ 41:58 • 13h ago
+👁️ 6K • 👍 421 • 💬 64 • ⏱️ 41:58 • 14h ago
 
 ---
 

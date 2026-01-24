@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T16:26:47.295897+00:00'
+updated: '2026-01-24T16:49:08.950909+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 16:26 UTC  
+**Last Updated:** January 24, 2026 at 16:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 5h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
 
-🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 36m ago
+🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 59m ago
 
 ---
 
@@ -105,7 +105,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -141,7 +141,7 @@ WIRED • 1d ago
 
 Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ sfchronicle.com • 4h ago
 
 Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
 
-Scientific American • 20h ago
+Scientific American • 21h ago
 
 ---
 
@@ -237,7 +237,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 185 • 💬 171 • 21h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 185 • 💬 171 • 22h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -289,7 +289,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 7K • 👍 95 • 💬 56 • ⏱️ 16:31 • 1d ago
+👁️ 7K • 👍 95 • 💬 56 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ SOURCES 1: https://torrentfreak.com/authors-sue-nvidia-for-training-ai-on-pirate
 
 📺 YongYea
 
-👁️ 92K • 👍 5K • 💬 1K • ⏱️ 21:02 • 16h ago
+👁️ 92K • 👍 5K • 💬 1K • ⏱️ 21:02 • 17h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 297 • 12h ago
+⬇️ 174,230 • ❤️ 297 • 13h ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 544 • 10h ago
+⭐ 10.1k • 🔱 544 • 11h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 11h ago
+⭐ 9.7k • 🔱 1.3k • 12h ago
 
 ---
 
