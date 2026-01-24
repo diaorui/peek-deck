@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T19:38:09.387696+00:00'
+updated: '2026-01-24T20:23:32.503146+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 19:38 UTC  
+**Last Updated:** January 24, 2026 at 20:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal](https://www.reddit.com/r/artificial/comments/1qlwt4l/latest_chatgpt_model_uses_elon_musks_grokipedia/)**
+
+Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 36m ago
+
+---
+
 **[South Korea launches landmark laws to regulate artificial intelligence](https://www.reddit.com/r/artificial/comments/1qlk7pz/south_korea_launches_landmark_laws_to_regulate/)**
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 8h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 9h ago
 
 ---
 
@@ -55,7 +63,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 8h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 9h ago
 
 ---
 
@@ -63,7 +71,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-37m ago
+1h ago
 
 ---
 
@@ -79,7 +87,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-12h ago
+13h ago
 
 ---
 
@@ -103,15 +111,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-20h ago
-
----
-
-**[Open-source experiment: crowd-driven software development with AI](https://www.reddit.com/r/artificial/comments/1qlgbwj/opensource_experiment_crowddriven_software/)**
-
-Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
-
-12h ago
+21h ago
 
 ---
 
@@ -135,19 +135,19 @@ WIRED • 1d ago
 
 ---
 
+**[Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/)**
+
+There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
+
+TechCrunch • 22m ago
+
+---
+
 **[Australian journalism ‘sidelined’ in AI-generated news summaries on Copilot, research shows](https://www.theguardian.com/media/2026/jan/25/ai-generated-news-summaries-microsoft-copilot-australian-journalism)**
 
 Exclusive: Experts say AI is likely to create more news deserts, fewer independent voices and threaten the viability of Australian journalism
 
-The Guardian • 36m ago
-
----
-
-**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
-
-Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
-
-CNN • 3h ago
+The Guardian • 1h ago
 
 ---
 
@@ -159,27 +159,25 @@ Fortune • 1d ago
 
 ---
 
-**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
+**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
-
-CNBC • 7h ago
+The New York Times • 5h ago
 
 ---
 
-**[Trump, 79, Revives Greenland Fantasy With Absurd AI Post](https://www.yahoo.com/news/articles/trump-79-revives-greenland-fantasy-031138664.html)**
+**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
 
-After a week of geopolitical chaos that appeared to put Greenland to rest, the White House revived President Donald Trump’s fixation with an AI-generated colonial fantasy. The image, posted to the White House’s official X account, shows Trump marching across a frozen landscape toward Greenland, accompanied by a penguin inexplicably carrying an American flag. The image’s execution appears as confused as the message. The penguin—a creature not found anywhere in the Northern Hemisphere, let alone G
+Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-Yahoo • 16h ago
+CNN • 3h ago
 
 ---
 
-**[‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)**
+**[Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'](https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html)**
 
-On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
+More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-WIRED • 21h ago
+CNBC • 5h ago
 
 ---
 
@@ -187,15 +185,15 @@ WIRED • 21h ago
 
 Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
 
-Scientific American • 23h ago
+Scientific American • 1d ago
 
 ---
 
-**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2026/01/24/what-are-the-3-top-artificial-intelligence-stock/)**
+**[DeepMind chief Demis Hassabis warns AI investment looks ‘bubble-like’](https://www.ft.com/content/a1f04b0e-73c5-4358-a65e-09e9a6bba857)**
 
-AI chip stocks still have a lot of upside from here.
+Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
 
-The Motley Fool • 8h ago
+Financial Times • 11h ago
 
 ---
 
@@ -215,7 +213,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 537 • 💬 409 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 538 • 💬 409 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -223,7 +221,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 496 • 💬 269 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 496 • 💬 270 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -231,7 +229,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 331 • 💬 347 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
+⬆️ 331 • 💬 348 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -247,7 +245,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 157 • 💬 206 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 157 • 💬 207 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -261,7 +259,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 **[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
 
-⬆️ 98 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+⬆️ 99 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 
 ---
 
@@ -269,7 +267,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 97 • 💬 66 • 2d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 97 • 💬 67 • 2d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
 
 ---
 
@@ -291,7 +289,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 21K • 👍 1K • 💬 202 • ⏱️ 15:27 • 20h ago
+👁️ 21K • 👍 1K • 💬 202 • ⏱️ 15:27 • 21h ago
 
 ---
 
@@ -311,7 +309,7 @@ Grab the voice agent prompt tool & all my AI builder resources on Skool: https:/
 
 📺 Liam Ottley
 
-👁️ 7K • 👍 522 • 💬 35 • ⏱️ 18:00 • 10h ago
+👁️ 7K • 👍 522 • 💬 35 • ⏱️ 18:00 • 11h ago
 
 ---
 
@@ -341,7 +339,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 12K • 👍 439 • 💬 85 • ⏱️ 20:22 • 10h ago
+👁️ 12K • 👍 439 • 💬 85 • ⏱️ 20:22 • 11h ago
 
 ---
 
@@ -381,7 +379,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 12K • 👍 499 • 💬 41 • ⏱️ 9:10 • 19h ago
+👁️ 12K • 👍 499 • 💬 41 • ⏱️ 9:10 • 20h ago
 
 ---
 
@@ -445,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 300 • 15h ago
+⬇️ 174,230 • ❤️ 300 • 16h ago
 
 ---
 
@@ -652,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 547 • 13h ago
+⭐ 10.2k • 🔱 547 • 14h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 455 • 2d ago
+⭐ 8.8k • 🔱 455 • 3d ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 16h ago
+⭐ 5.8k • 🔱 1.0k • 17h ago
 
 ---
 
@@ -702,7 +700,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 4h ago
+⭐ 5.2k • 🔱 5.4k • 5h ago
 
 ---
 

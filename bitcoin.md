@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T19:38:09.396384+00:00'
+updated: '2026-01-24T20:23:32.511569+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 19:38 UTC  
+**Last Updated:** January 24, 2026 at 20:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,438.42
+### $89,358.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
+**24h:** +0.0%  
 **7d:** -4.7%  
-**30d:** +2.3%  
-**90d:** -21.8%  
-**1y:** -14.7%  
+**30d:** +2.4%  
+**90d:** -21.7%  
+**1y:** -14.6%  
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-3h ago
-
----
-
-**[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
-
-Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
-
-10h ago
+4h ago
 
 ---
 
@@ -101,7 +93,9 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 ---
 
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+**[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
+
+Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
 11h ago
 
@@ -109,21 +103,19 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 **[One word for this PENGUIN 🫡](https://www.reddit.com/r/Bitcoin/comments/1qlrqd9/one_word_for_this_penguin/)**
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+
+12h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-22h ago
-
----
-
-**[Bitcoin will have the last laugh](https://www.reddit.com/r/Bitcoin/comments/1qliuwc/bitcoin_will_have_the_last_laugh/)**
-
-Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
-
-9h ago
+23h ago
 
 ---
 
@@ -131,7 +123,15 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin will have the last laugh](https://www.reddit.com/r/Bitcoin/comments/1qliuwc/bitcoin_will_have_the_last_laugh/)**
+
+Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
+
+10h ago
 
 ---
 
@@ -143,9 +143,9 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 ---
 
-**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
+**[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
 
-11h ago
+6h ago
 
 ---
 
@@ -155,15 +155,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 **[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
 
-The Block • 23h ago
-
----
-
-**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
-
-It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
-
-CoinDesk • 3h ago
+The Block • 1d ago
 
 ---
 
@@ -175,27 +167,35 @@ Forbes • 1d ago
 
 ---
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
 
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 1d ago
-
----
-
-**[Grant Cardone's Company Adds Nearly $70 Million In Bitcoin As He Hails It As The Only Scarce Minable Asset](https://finance.yahoo.com/news/grant-cardones-company-adds-nearly-173145997.html)**
-
-Real estate guru Grant Cardone has added nearly $70 million worth of Bitcoin in two tranches to his company’s balance sheet. Cardone on Monday announced the purchase of $10 million worth of Bitcoin and 650 BTC, most recently worth $58...
-
-Yahoo Finance • 2h ago
-
----
-
-**[GameStop's $420 million bitcoin move sparks speculation of selling](https://www.coindesk.com/business/2026/01/24/gamestop-s-usd420-million-bitcoin-move-sparks-speculation-of-selling)**
-
-While blockchain data confirms the movement to Coinbase Prime, the transfer could also mean internal asset management or custody.
+It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
 
 CoinDesk • 3h ago
+
+---
+
+**[Cathie Wood: Bitcoin Is Set To Rally After 'Shallowest Four-Year Cycle Decline'](https://finance.yahoo.com/news/cathie-wood-bitcoin-set-rally-203111814.html)**
+
+ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
+
+The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
+
+CoinDesk • 2d ago
+
+---
+
+**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
+
+ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
+
+Bitcoin Magazine • 3d ago
 
 ---
 
@@ -207,6 +207,12 @@ Fortune • 2d ago
 
 ---
 
+**[Crypto News: GameStop Moves Entire Bitcoin Holdings to Coinbase Prime, Sparking Sale Speculation](https://www.binance.com/en/square/post/01-24-2026-crypto-news-gamestop-moves-entire-bitcoin-holdings-to-coinbase-prime-sparking-sale-speculation-35512023315002)**
+
+Binance • 9h ago
+
+---
+
 **[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
 
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
@@ -215,17 +221,11 @@ wtop.com • 2d ago
 
 ---
 
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
-Bloomberg • 2d ago
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
----
-
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
-
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 1d ago
+ProPublica • 1d ago
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 16h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 17h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -328,7 +328,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 1K • 💬 65 • ⏱️ 47:21 • 5h ago
+👁️ 16K • 👍 1K • 💬 65 • ⏱️ 47:21 • 6h ago
 
 ---
 
@@ -358,7 +358,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 381 • 💬 156 • ⏱️ 41:20 • 5h ago
+👁️ 4K • 👍 381 • 💬 156 • ⏱️ 41:20 • 6h ago
 
 ---
 
@@ -378,7 +378,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 8K • 👍 573 • 💬 149 • ⏱️ 4:57 • 8h ago
+👁️ 8K • 👍 573 • 💬 149 • ⏱️ 4:57 • 9h ago
 
 ---
 
@@ -388,7 +388,7 @@ Most people have tuned out crypto. Volumes are quiet, attention is gone, and sen
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 265 • 💬 38 • ⏱️ 53:25 • 10h ago
+👁️ 4K • 👍 265 • 💬 38 • ⏱️ 53:25 • 11h ago
 
 ---
 
