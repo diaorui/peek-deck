@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T05:22:45.458366+00:00'
+updated: '2026-01-24T05:44:52.902489+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 05:22 UTC  
+**Last Updated:** January 24, 2026 at 05:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-15h ago
+16h ago
 
 ---
 
@@ -65,7 +65,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 People who say AI makes humans useless are missing the point. Real data from Anthropic’s AI usage research shows the opposite, that users with higher skills and more education tend to get way better results from AI because they know how to ask better questions and guide the model instead of just copying outputs. That’s why in wealthier countries with higher AI literacy, Claude usage is more productive and focused on work tasks, while in places with lower resources it’s mostly basic help, and the productivity gap widens accordingly. The report suggests AI augments human ability and doesn’t replace it, but only if users have the skills to work with it intelligently. If you just treat AI like a magic answer machine, you’re the one who gets useless results, not the tool.
 
-28m ago
+50m ago
 
 ---
 
@@ -81,7 +81,7 @@ I have some very old tapes that sound and look horrible. I've seen workflows tha
 
 I don’t think using AI for surveillance of kids in school is a good idea There's this post on Linkedin, where they demonstarte an "experiment". This is how they define it: "We tried to build an AI vision model which can tell, in real time, which students are attentive and which ones are distracted in a classroom." "... (this) AI computer vision SaaS originally designed to monitor factories and offices. We tried to use the AI monitoring application inside our classroom. Just for fun, honestly." Notice the words, "just for fun". You just built a system for surveillance of kids in schools.... for FUN. They justify this by highlighting a positive use case: this tech will provide feedback to teachers. This is a great example of tech not being the problem, but how people use it. If they really wanted to use AI to improve education, why not build a AI powered personalized education system. But no, a surveillance system is what came to their minds. School is suffocating enough as it is. Now people are using AI amplify it. If anything, we could do with less of it in schools, make them more open.
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +89,7 @@ I don’t think using AI for surveillance of kids in school is a good idea There
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 15h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 What? YouTube announced that later this year, creators will be able to use their own AI-generated likenesses in Shorts, with new tools to manage and protect their digital identities on the platform. What? This development raises important questions about digital self-ownership, consent, and the power of platforms to shape how creators' identities are used and protected, impacting civil liberties and organizing efforts around digital rights. More: YouTube will soon let creators make Shorts with their own AI likeness | Techcrunch
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 14h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/trump-polling-craters#ai) • 15h ago
 
 ---
 
@@ -125,7 +125,7 @@ You can read more about how this was made here.
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -139,7 +139,7 @@ WIRED • 13h ago
 
 **[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -153,7 +153,7 @@ blog.google • 1d ago
 
 **[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Bloomberg • 10h ago
+Bloomberg • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New York Times • 2d ago
 
 "My 52-year-old body had one of those moments when I saw a future where I wasn’t involved," Chris Brockett told Cade Metz for his book on AI.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -249,7 +249,7 @@ A comprehensive guide to 113 battle-tested agentic patterns for building product
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 177 • 💬 159 • 10h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 177 • 💬 159 • 11h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 247 • 23h ago
+⬇️ 4,244 • ❤️ 247 • 1d ago
 
 ---
 

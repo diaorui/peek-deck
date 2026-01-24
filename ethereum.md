@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T05:22:45.471255+00:00'
+updated: '2026-01-24T05:44:52.917107+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 05:22 UTC  
+**Last Updated:** January 24, 2026 at 05:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -104,7 +104,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 3h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2d ago
 
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
 
-CCN.com • 18h ago
+CCN.com • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ BeInCrypto • 1d ago
 
 Bitcoin is hovering near a crucial technical level, raising the risk of a deeper pullback if support fails, according to market analyst Gareth Soloway,
 
-Coinpedia Fintech News • 13h ago
+Coinpedia Fintech News • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 9h ago
+👁️ 306 • 👍 10 • 💬 1 • ⏱️ 6:07 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 13h ago
+👁️ 1K • 👍 79 • 💬 7 • ⏱️ 4:35 • 14h ago
 
 ---
 
