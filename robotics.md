@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T09:42:34.057732+00:00'
+updated: '2026-01-24T10:22:52.730011+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 09:42 UTC  
+**Last Updated:** January 24, 2026 at 10:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,21 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
-
-11h ago
-
----
-
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-2h ago
+3h ago
 
 ---
 
-**[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
+**[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-20h ago
+12h ago
 
 ---
 
@@ -54,7 +48,7 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-58m ago
+1h ago
 
 ---
 
@@ -66,11 +60,17 @@ https://marvelmind.com/3d_vertical_map/
 
 ---
 
+**[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
+
+20h ago
+
+---
+
 **[We thought the design was locked. Then early testers asked for "Eyes". Now we are conflicted.](https://www.reddit.com/r/robotics/comments/1qkz4i6/we_thought_the_design_was_locked_then_early/)**
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-14h ago
+15h ago
 
 ---
 
@@ -82,19 +82,19 @@ This is my new project 'DEFY'. I plan to make it into a 3D printer and I plan to
 
 ---
 
+**[I know the theory but i don't know how to build a robot](https://www.reddit.com/r/robotics/comments/1ql5xzt/i_know_the_theory_but_i_dont_know_how_to_build_a/)**
+
+I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
+
+11h ago
+
+---
+
 **[Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors](https://www.reddit.com/r/robotics/comments/1qkk6gv/google_gemini_is_taking_control_of_humanoid/)**
 
 The ultimate crossover: Boston Dynamics' electric Atlas robot now has a Google Gemini brain. A new report details how DeepMind is integrating its multimodal AI into the robot, allowing Atlas to understand natural language commands (like 'Find the breaker box'), reason about its environment, and plan complex tasks autonomously. The partnership aims to deploy these 'physically intelligent' humanoids into Hyundai factories by 2026.
 
 🔗 [WIRED](https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/) • 1d ago
-
----
-
-**[I know the theory but i don't know how to build a robot](https://www.reddit.com/r/robotics/comments/1ql5xzt/i_know_the_theory_but_i_dont_know_how_to_build_a/)**
-
-I have a fairly solid understanding of the theory behind robotics, both in terms of kinematics/dynamics and sensors/actuators. During my CS master’s degree I took a robotics course, where I worked extensively with ROS2 and other tools like RViz. However, on the practical side I’ve never really built anything with my hands. Right now I have a Raspberry Pi and access to a 3D printer, and since taking that robotics course a few months ago I’ve become really passionate about the topic and would like to start working on some projects. Given that I already have a strong theoretical background and coding experience, but little hands-on experience with actually assembling a robot, where would you recommend starting?
-
-10h ago
 
 ---
 
@@ -112,7 +112,7 @@ I have a fairly solid understanding of the theory behind robotics, both in terms
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 2h ago
+Microsoft • 6h ago
 
 ---
 
@@ -120,7 +120,7 @@ Microsoft • 2h ago
 
 OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -148,11 +148,19 @@ The Robot Report • 2d ago
 
 ---
 
-**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
+**[Sea, Space, & Sky: 3 Frontier Robotics Stocks Under $20](https://finance.yahoo.com/news/sea-space-sky-3-frontier-224400689.html)**
 
-SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
+Frontier robotics stocks are capturing investor attention as they transition from research concepts to essential infrastructure for space and defense economies.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)**
+
+Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.
+
+TechCrunch • 3d ago
 
 ---
 
@@ -177,12 +185,6 @@ CBS News • 1d ago
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Dr. Oz: AI and robots can already provide medical care](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
-
-Axios • 22h ago
 
 ---
 
@@ -216,7 +218,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 39 • 💬 12 • ⏱️ 6:39 • 4h ago
+👁️ 1K • 👍 39 • 💬 12 • ⏱️ 6:39 • 5h ago
 
 ---
 
