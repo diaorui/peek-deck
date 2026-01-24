@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T15:42:32.995416+00:00'
+updated: '2026-01-24T16:26:47.313453+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 15:42 UTC  
+**Last Updated:** January 24, 2026 at 16:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,13 +42,7 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-6h ago
-
----
-
-**[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
-
-17h ago
+7h ago
 
 ---
 
@@ -57,6 +51,12 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
 3h ago
+
+---
+
+**[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
+
+18h ago
 
 ---
 
@@ -72,7 +72,15 @@ https://marvelmind.com/3d_vertical_map/
 
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
-4h ago
+5h ago
+
+---
+
+**[Are cobots becoming the default entry point to industrial automation?](https://www.reddit.com/r/robotics/comments/1qlqqil/are_cobots_becoming_the_default_entry_point_to/)**
+
+Collaborative robots are being used across modern manufacturing as flexible automation tools rather than strictly fence-free systems. While cobots are designed to operate alongside people, many real-world deployments include added guarding or sensors for safety, particularly in palletizing, welding, and other head- or eye-level tasks. Collaboration in this context refers more to ease of programming, deployment, and adaptability than constant human proximity. Cobots are increasingly applied in areas such as machine tending, inspection, logistics, agriculture, and additive manufacturing. Advances in vision systems, AI, and machine learning enable adaptive path planning, precision inspection, and selective handling of variable parts. In inspection applications, cobots equipped with scanning tools can dramatically reduce cycle times while improving accuracy. Pre-engineered solutions for common tasks like palletizing and welding are also expanding access to automation for teams without deep robotics expertise. The article places these developments within the broader shift from Industry 4.0 to Industry 5.0, emphasizing human-robot collaboration where automation handles repetitive or hazardous work and human workers focus on oversight and higher-value tasks. Mobile manipulators, higher-payload cobots, and plug-and-play systems are expanding use cases across industries facing labor shortages, including welding, agriculture, and logistics. Continued progress in AI, vision, and business models such as leasing is expected to further broaden cobot adoption across manufacturing and beyond.
+
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/cobot-applications-modern-manufacturing) • 24m ago
 
 ---
 
@@ -80,7 +88,7 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. I’ve been exploring whether satellite imagery can be used as a practical GNSS fallback for drones. I built a visual localization pipeline that estimates position using only a downward-facing camera and satellite maps, and I got it working on the UAV-VisLoc dataset. The pipeline handles non-nadir views by compensating for camera tilt using attitude data, and it keeps matching efficiently by limiting the satellite search area based on motion. I’ve shared the full setup and results, so anyone can reproduce the experiments and run their own tests. I’ve also noticed that many startups are tackling GNSS-denied navigation from different directions — magnetometer-based localization, VIO + visual place recognition (VPR), or IMU odometry fused with VPR. My work focuses on satellite-based matching, but I see it as complementary, and potentially much stronger when combined with these approaches. If you’re curious about the details, feel free to check out the repo and ask questions. Feedback is very welcome, and a ⭐ honestly helps. https://github.com/hamitbugrabayram/SatelliteLocalization
 
-2h ago
+3h ago
 
 ---
 
@@ -94,15 +102,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
 
-20h ago
-
----
-
-**[The open-source Stack-chan project is getting an official hardware kit: What are your thoughts on (co-creative) desktop robotics?](https://www.reddit.com/r/robotics/comments/1qlkyof/the_opensource_stackchan_project_is_getting_an/)**
-
-I've been following the Stack-chan project for a while: it's an open-source AI desktop robot originally developed by Shinya Ishikawa that runs on the M5Stack ecosystem. M5Stack just launched an official Kickstarter to make the hardware more accessible, and I'm curious to get this sub's take on the platform. Do you think open-source modular platforms like this are the future for hobbyist robotics, or is the (co-creation) model too fragmented for serious development?
-
-3h ago
+21h ago
 
 ---
 
@@ -114,15 +114,15 @@ I've been following the Stack-chan project for a while: it's an open-source AI d
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 5h ago
+Microsoft • 3h ago
 
 ---
 
-**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
+**[Creepy robotic hand detaches at the wrist before scurrying away to collect objects](https://www.livescience.com/technology/robotics/creepy-robotic-hand-detaches-at-the-wrist-before-scurrying-away-to-collect-objects)**
 
-OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
+EPFL's robotic appendage features fingers that bend both ways and is designed to retrieve objects from spaces too hazardous for human hands.
 
-Business Insider • 2d ago
+Live Science • 2d ago
 
 ---
 
@@ -134,11 +134,19 @@ AgFunderNews • 1d ago
 
 ---
 
-**[Jim Cramer on Serve Robotics: “We’re Not Going to Go Into Robotics Other Than to Say That We Want Tesla”](https://finance.yahoo.com/news/jim-cramer-serve-robotics-not-145951419.html)**
+**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
 
-Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
+Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
 
-Yahoo Finance • 2d ago
+CNBC • 3d ago
+
+---
+
+**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
+
+OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
+
+Business Insider • 2d ago
 
 ---
 
@@ -150,19 +158,19 @@ The Robot Report • 3d ago
 
 ---
 
-**[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
-
-Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
-
-Fox Business • 1d ago
-
----
-
 **[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
 
-CBS News • 1d ago
+CBS News • 2d ago
+
+---
+
+**[Elon Musk Says Optimus Robots Are Coming Your Way. That Has Tesla Stock on the Rise.](https://www.investopedia.com/elon-musk-says-optimus-robots-are-coming-your-way-that-has-tesla-stock-on-the-rise-tsla-11890730)**
+
+The Tesla chief said the company plans to sell Optimus robots by the end of 2027 at the World Economic Forum in Davos, Switzerland.
+
+Investopedia • 1d ago
 
 ---
 
@@ -174,17 +182,11 @@ Yahoo Finance • 22h ago
 
 ---
 
-**[Dr. Oz: AI and robots can already provide medical care](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
+**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
 
-Axios • 1d ago
+SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
 
----
-
-**[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
-
-What’s standing in the way of our robot overlords.
-
-vox.com • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -218,7 +220,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 74 • 💬 55 • ⏱️ 2:47 • 1d ago
+👁️ 8K • 👍 74 • 💬 55 • ⏱️ 2:47 • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ In a wide-ranging conversation at the World Economic Forum, tech billionaire Elo
 
 📺 DRM News
 
-👁️ 474K • 👍 8K • 💬 2K • ⏱️ 32:01 • 1d ago
+👁️ 474K • 👍 8K • 💬 2K • ⏱️ 32:01 • 2d ago
 
 ---
 
@@ -276,7 +278,7 @@ At CES 2026, I didn't expect a humanoid robot to do this… This RobotEra robot 
 
 📺 KhanFlicks
 
-👁️ 79K • 💬 36 • ⏱️ 12:09 • 6d ago
+👁️ 79K • 💬 36 • ⏱️ 12:09 • 7d ago
 
 ---
 

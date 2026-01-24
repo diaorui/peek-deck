@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T15:42:32.985896+00:00'
+updated: '2026-01-24T16:26:47.304262+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 15:42 UTC  
+**Last Updated:** January 24, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -4.6%  
-**30d:** +2.4%  
-**90d:** -21.7%  
-**1y:** -14.6%  
+**24h:** -1.5%  
+**7d:** -4.8%  
+**30d:** +2.2%  
+**90d:** -21.9%  
+**1y:** -14.8%  
 
 ---
 
@@ -81,21 +81,13 @@ Rank #1
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-6h ago
+7h ago
 
 ---
 
 **[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-18h ago
-
----
-
-**[Bitcoin Undervalued & Gold Overvalued](https://www.reddit.com/r/Bitcoin/comments/1qlii2x/bitcoin_undervalued_gold_overvalued/)**
-
-what do you think guys?
-
-6h ago
+19h ago
 
 ---
 
@@ -115,13 +107,7 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 **[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-7h ago
-
----
-
-**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -133,25 +119,41 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 ---
 
-**[How long do you think this boring phase will last?](https://www.reddit.com/r/Bitcoin/comments/1qlg3yc/how_long_do_you_think_this_boring_phase_will_last/)**
+**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-Just wondering
-
-8h ago
+1d ago
 
 ---
 
-**[I made the ultimate physical bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qlhyt9/i_made_the_ultimate_physical_bitcoin/)**
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
 
-I've frequently found myself gifting small amounts of bitcoin to friends and family, and wanted an end-all-be-all solution to it. Having them register an exchange or brokerage account for a casual gift is absurd, as is the cost and intense knowledge and preparation necessary to manage a software or hardware wallet. I wanted something that was as easy as handing them cash, a gold bar, or a gift card, so I made these cards! All existing solutions for a bearer-like instrument I found lacking in some way. I wanted it to be: Fireproof Not prone to flash-memory failure Tamper Evident Show it's denomination Show a verifiable address & QR code Explicitly state it contains bitcoin and is analogous to cash / gold bar, so it's not mistaken as a novelty product, and provides an analogy and some information for those unfamiliar with bitcoin Store a recovery phrase, not a private key (extremely easy electrum import and no risk of losing change funds while sweeping) I had a lot of fun with this! I went with braille because it encodes text with the least amount of engraving and I didn't feel like investing in a proper CNC for such a small initial batch lol. I would love one day for there to be a physical bitcoin market as large as physical gold and silver, and buying them as seamless as buying a 1oz gold bar on JM Bullion. I want to enable bitcoin believers to onboard their friends and family, including those not experienced with technology, with as little effort as possible. Handing someone a bar and saying "hey, you own bitcoin!" is so cool, and undoubtedly gets them thinking about it's potential as a store of value.
+Where do people even find that kind of courage?
 
-6h ago
+6m ago
+
+---
+
+**[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
+
+2h ago
+
+---
+
+**[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
+
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+
+The Block • 20h ago
+
+---
 
 **[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
@@ -161,19 +163,27 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
 
-Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-CoinDesk • 21h ago
+Forbes • 23h ago
 
 ---
 
-**[Will the End of the Rules-Based International Order Help Bitcoin or Hurt It?](https://www.fool.com/investing/2026/01/24/will-the-end-of-the-rules-based-international-orde/)**
+**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
-The world has changed, and everyone will be playing by a new set of geopolitical -- and financial -- rules.
+Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
 
-The Motley Fool • 3h ago
+CNBC • 2d ago
+
+---
+
+**[GME news: GameStop's $420 million bitcoin (BTC) move sparks speculation of selling](https://www.coindesk.com/business/2026/01/24/gamestop-s-usd420-million-bitcoin-move-sparks-speculation-of-selling)**
+
+While blockchain data confirms the movement to Coinbase Prime, the transfer could also mean internal asset management or custody.
+
+CoinDesk • 37m ago
 
 ---
 
@@ -185,11 +195,19 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
 
-Forbes • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[Cathie Wood Says Bitcoin Price Is Nearing End of Down Cycle, Predicts ‘Shallowest Four-Year Decline’](https://bitcoinmagazine.com/markets/cathie-wood-bitcoin-nearing-end-cycle)**
+
+ARK Invest CEO Cathie Wood said she believes bitcoin is nearing the end of its current down cycle.
+
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -206,26 +224,6 @@ Fortune • 2d ago
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
 wtop.com • 2d ago
-
----
-
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
-
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
-
-The Block • 19h ago
-
----
-
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
-
-Binance • 4h ago
 
 ---
 
@@ -314,7 +312,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 12h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 13h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -348,7 +346,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 1h ago
+👁️ 1K • 👍 193 • 💬 43 • ⏱️ 41:20 • 2h ago
 
 ---
 
@@ -398,7 +396,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 20h ago
+👁️ 10K • 👍 464 • 💬 61 • ⏱️ 1:04:53 • 21h ago
 
 ---
 
@@ -408,7 +406,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 4h ago
+👁️ 5K • 👍 476 • 💬 71 • ⏱️ 4:57 • 5h ago
 
 ---
 
@@ -418,7 +416,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 16h ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 15:16 • 17h ago
 
 ---
 
