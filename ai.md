@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T08:28:36.621504+00:00'
+updated: '2026-01-24T08:52:09.446956+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 08:28 UTC  
+**Last Updated:** January 24, 2026 at 08:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-18h ago
+19h ago
+
+---
+
+**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
+
+I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
+
+2h ago
 
 ---
 
@@ -57,15 +65,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-2h ago
-
----
-
-**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
-
-I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
-
-1h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have some very old tapes that sound and look horrible. I've seen workflows tha
 
 UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how the AI race is playing out differently in China and the US.
 
-🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 18h ago
+🔗 [PC Guide](https://www.pcguide.com/news/investment-executive-praises-china-for-using-ai-to-grow-industry-pokes-fun-at-the-us-for-making-ai-girlfriends/) • 19h ago
 
 ---
 
@@ -125,7 +125,7 @@ UBS Global Wealth Management CIO, Mark Haefele, recently shared his view on how 
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -137,6 +137,34 @@ WIRED • 16h ago
 
 ---
 
+**['Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat](https://www.reuters.com/business/davos/jobs-jobs-jobs-ai-mantra-fears-take-back-seat-davos-2026-01-23/)**
+
+Reuters • 6h ago
+
+---
+
+**[I spent the week with tech CEOs. Here's what they're talking about](https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html)**
+
+Four themes were top of mind for tech executives at Davos, and they were all about AI.
+
+CNBC • 2h ago
+
+---
+
+**[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
+
+weforum.org • 16h ago
+
+---
+
+**[How are West Midlands businesses embracing AI?](https://www.bbc.com/news/articles/cx2ej08z45po)**
+
+Leaders want AI to drive productivity and have aims for adults to get free training on how to use it.
+
+BBC • 1h ago
+
+---
+
 **[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
 Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
@@ -145,15 +173,9 @@ blog.google • 1d ago
 
 ---
 
-**[It Makes Sense That People See A.I. as God](https://www.nytimes.com/2026/01/23/style/ai-algorithm-god-religion.html)**
+**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
 The New York Times • 22h ago
-
----
-
-**[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
-
-Bloomberg • 13h ago
 
 ---
 
@@ -165,31 +187,9 @@ The Guardian • 13h ago
 
 ---
 
-**[Cursor used a swarm of AI agents powered by OpenAI to build and run a web browser for a week—with no human help. Here’s why developers are buzzing](https://fortune.com/2026/01/23/cursor-built-web-browser-with-swarm-ai-agents-powered-openai/)**
+**[Star AI Researcher’s New Lab in Talks for $4 Billion Valuation](https://www.bloomberg.com/news/articles/2026-01-23/ai-startup-recursive-in-funding-talks-at-4-billion-valuation)**
 
-Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
-
-Fortune • 13h ago
-
----
-
-**[Like My New Blouse? Thanks, It’s AI](https://www.wsj.com/style/ai-clothing-fashion-alice-olivia-kate-spade-4085b6f6?gaa_at=eafs&gaa_n=AWEtsqfjfPGTFxcbRaQGpxlux05t64QOTgN4SDFgeSDDeizXagyvmjXtzm-7&gaa_ts=69747afb&gaa_sig=8KSmlwN0dMhqMmx4_RCi4k7Z8ig0SIzR9-79l-OjOZt0_O9BCSZlYNscVTFh0h33ILouHpKOMRNha4XSuxFTwQ%3D%3D)**
-
-The Wall Street Journal • 16h ago
-
----
-
-**[Like digging ‘your own professional grave’: The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)**
-
-While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
-
-CNN • 21h ago
-
----
-
-**['Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat](https://www.reuters.com/business/davos/jobs-jobs-jobs-ai-mantra-fears-take-back-seat-davos-2026-01-23/)**
-
-Reuters • 5h ago
+Bloomberg • 14h ago
 
 ---
 
@@ -209,7 +209,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 495 • 💬 354 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 510 • 💬 360 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 478 • 💬 254 • 22h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 482 • 💬 256 • 23h ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -241,7 +241,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 180 • 💬 163 • 13h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 180 • 💬 164 • 14h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -249,7 +249,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 152 • 💬 203 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 153 • 💬 203 • 1d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -265,7 +265,7 @@ The famed convention's organizers have banned AI from the art show.
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 127 • 💬 78 • 19h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 128 • 💬 78 • 20h ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -281,23 +281,23 @@ A conversation with Graham Granger, whose combination of protest and performance
 
 ## YouTube Videos: "ai"
 
+**[This is now the best FREE AI text-to-speech! Voice cloning + emotion control + voice design](https://www.youtube.com/watch?v=eC8mZceIy5k)**
+
+Qwen3 TTS review & installation tutorial. How to run Qwen3 TTS on ComfyUI. Best AI voice cloner. AI voice design, emotion ...
+
+📺 AI Search
+
+👁️ 15K • 👍 1K • 💬 301 • ⏱️ 26:18 • 5h ago
+
+---
+
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 7K • 👍 89 • 💬 45 • ⏱️ 16:31 • 1d ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 8K • 👍 563 • 💬 74 • ⏱️ 28:01 • 6h ago
+👁️ 7K • 👍 92 • 💬 48 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -307,27 +307,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 10K • 👍 1K • 💬 137 • ⏱️ 15:27 • 9h ago
-
----
-
-**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
-
-Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
-
-📺 Vanessa Wingårdh
-
-👁️ 336K • 👍 17K • 💬 4K • ⏱️ 10:08 • 19h ago
-
----
-
-**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
-
-A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
-
-📺 Law&Crime Network
-
-👁️ 21K • 👍 492 • 💬 151 • ⏱️ 21:14 • 11h ago
+👁️ 13K • 👍 1K • 💬 160 • ⏱️ 15:27 • 9h ago
 
 ---
 
@@ -337,17 +317,37 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 48K • 👍 1K • 💬 109 • ⏱️ 12:48 • 1d ago
+👁️ 49K • 👍 1K • 💬 114 • ⏱️ 12:48 • 1d ago
 
 ---
 
-**[YouTube Finally Addresses AI Slop](https://www.youtube.com/watch?v=-FNdlXq8BKg)**
+**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
 
-YouTube CEO Neal Mohan finally addresses AI slop in his open letter to the YouTube community. Neal made a statement about ...
+Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
 
-📺 Deep Humor
+📺 Vanessa Wingårdh
 
-👁️ 22K • 👍 2K • 💬 539 • ⏱️ 9:46 • 1d ago
+👁️ 350K • 👍 18K • 💬 4K • ⏱️ 10:08 • 19h ago
+
+---
+
+**[AI Prankster Busted for Criminal Stunt at Home Depot](https://www.youtube.com/watch?v=PqU9UT_Hp2Q)**
+
+A shopping trip to a Florida Home Depot turned chaotic when a content creator's AI-powered prank spiraled into a police ...
+
+📺 Law&Crime Network
+
+👁️ 23K • 👍 504 • 💬 160 • ⏱️ 21:14 • 12h ago
+
+---
+
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+
+📺 Matt Wolfe
+
+👁️ 13K • 👍 829 • 💬 117 • ⏱️ 28:01 • 6h ago
 
 ---
 
@@ -357,17 +357,17 @@ Tech leaders have taken the stage this week at the World Economic Forum in Davos
 
 📺 CBS News
 
-👁️ 70K • 👍 788 • 💬 449 • ⏱️ 6:52 • 2d ago
+👁️ 71K • 👍 793 • 💬 451 • ⏱️ 6:52 • 2d ago
 
 ---
 
-**[At Davos, Palantir CEO Explains EXACTLY How AI Will Impact Jobs | &#39;Exposing Job&#39;s Real Market Value&#39;](https://www.youtube.com/watch?v=aWCrw2wa3ls)**
+**[The Greatest AI Design System I&#39;ve Ever Used! (Pencil.dev)](https://www.youtube.com/watch?v=bUycTrxNas0)**
 
-Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Executive Officer Alex Karp said he believes that ...
+Try your own Zapier workflow today and see how much time you can save — click the link, start automating, and make your day ...
 
-📺 Mint
+📺 WorldofAI
 
-👁️ 136K • 👍 2K • 💬 379 • ⏱️ 9:36 • 2d ago
+👁️ 4K • 👍 256 • 💬 8 • ⏱️ 10:09 • 5h ago
 
 ---
 
@@ -377,7 +377,7 @@ Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss 
 
 📺 CNBC Television
 
-👁️ 20K • 👍 243 • 💬 74 • ⏱️ 5:34 • 19h ago
+👁️ 21K • 👍 250 • 💬 74 • ⏱️ 5:34 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 199,346 • ❤️ 1,082 • 3d ago
+⬇️ 279,658 • ❤️ 1,087 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 17,010 • ❤️ 742 • 1d ago
+⬇️ 22,852 • ❤️ 747 • 1d ago
 
 ---
 
@@ -417,19 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 4,644 • ❤️ 386 • 2d ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 60,736 • ❤️ 515 • 8d ago
+⬇️ 6,967 • ❤️ 390 • 2d ago
 
 ---
 
@@ -441,7 +429,19 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 145,992 • ❤️ 287 • 4h ago
+⬇️ 174,230 • ❤️ 291 • 5h ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 67,913 • ❤️ 516 • 8d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 4,244 • ❤️ 261 • 1d ago
+⬇️ 20,374 • ❤️ 274 • 1d ago
 
 ---
 
@@ -465,7 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 436 • ❤️ 220 • 4d ago
+⬇️ 584 • ❤️ 220 • 4d ago
 
 ---
 
@@ -475,7 +475,19 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 40,447 • ❤️ 448 • 4d ago
+⬇️ 42,118 • ❤️ 450 • 4d ago
+
+---
+
+**[LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)**
+
+*LightOn AI*
+
+LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model for document OCR, excelling at extracting text from PDFs and images, including tables and forms, with state-of-the-art accuracy and speed.
+
+`image-text-to-text` `1.0B`
+
+⬇️ 11,299 • ❤️ 207 • 2d ago
 
 ---
 
@@ -487,19 +499,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 35,694 • ❤️ 292 • 1d ago
-
----
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 11,681 • ❤️ 968 • 8d ago
+⬇️ 42,008 • ❤️ 295 • 1d ago
 
 ---
 
@@ -515,7 +515,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 21 • 💬 1 • ⭐ 2,193 • 2d ago
+▲ 24 • 💬 1 • ⭐ 2,789 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -553,7 +553,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 125 • 💬 6 • ⭐ 11,614 • 5mo ago
+▲ 126 • 💬 6 • ⭐ 11,614 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -567,7 +567,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 15 • 💬 2 • ⭐ 311 • 8d ago
+▲ 15 • 💬 2 • ⭐ 335 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -581,7 +581,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 42 • 💬 2 • ⭐ 232 • 3d ago
+▲ 43 • 💬 2 • ⭐ 232 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
@@ -599,19 +599,6 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 32 • 💬 1 • ⭐ 68,358 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
 
 *Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
@@ -620,9 +607,22 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 159 • 💬 5 • ⭐ 305 • 5d ago
+▲ 161 • 💬 5 • ⭐ 305 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 32 • 💬 1 • ⭐ 68,401 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 2h ago
+⭐ 10.0k • 🔱 537 • 3h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.6k • 🔱 1.3k • 3h ago
+⭐ 9.6k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -668,7 +668,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 446 • 2d ago
+⭐ 8.7k • 🔱 448 • 2d ago
 
 ---
 
@@ -678,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 875 • 1d ago
+⭐ 7.3k • 🔱 876 • 1d ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H股智能分析器，多数据源行情 + 实时新闻 + Gemini 
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.0k • 🔱 5.2k • 21h ago
+⭐ 5.0k • 🔱 5.3k • 1h ago
 
 ---
 
@@ -708,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.1k • 🔱 444 • 2d ago
+⭐ 4.1k • 🔱 445 • 2d ago
 
 ---
 
@@ -716,7 +716,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.6k • 🔱 218 • 1d ago
+⭐ 2.7k • 🔱 220 • 1d ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.0k • 🔱 411 • 13h ago
+⭐ 2.0k • 🔱 415 • 13h ago
 
 ---
 

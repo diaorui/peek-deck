@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T08:28:36.630596+00:00'
+updated: '2026-01-24T08:52:09.455388+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 08:28 UTC  
+**Last Updated:** January 24, 2026 at 08:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.8%  
 **7d:** -4.4%  
-**30d:** +2.6%  
-**90d:** -21.6%  
-**1y:** -14.5%  
+**30d:** +2.7%  
+**90d:** -21.5%  
+**1y:** -14.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.60B
+**Market Cap:** $1788.54B
 Rank #1
 
-**Circulating Supply:** 19,979,990 BTC
+**Circulating Supply:** 19,980,009 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.0%
 
 **All-Time Low:** $67.81
-+131927.7%
++131907.1%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,23 +95,15 @@ Rank #1
 
 ---
 
-**[I didn’t get rich from crypto. But it quietly fixed my financial anxiety.](https://www.reddit.com/r/Bitcoin/comments/1qkywwq/i_didnt_get_rich_from_crypto_but_it_quietly_fixed/)**
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
-
-13h ago
+1h ago
 
 ---
 
-**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
+**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
-16h ago
-
----
-
-**[I own a few memes coins would it be a good idea to sell and just go all in Bitcoin or wait until they run up? I wanna hit 2 BTC by summer #SatDaddy](https://www.reddit.com/r/Bitcoin/comments/1qlcwm0/i_own_a_few_memes_coins_would_it_be_a_good_idea/)**
-
-4h ago
+45m ago
 
 ---
 
@@ -123,25 +115,29 @@ Just wondering
 
 ---
 
-**[Road to one coin](https://www.reddit.com/r/Bitcoin/comments/1qkjt4n/road_to_one_coin/)**
+**[I didn’t get rich from crypto. But it quietly fixed my financial anxiety.](https://www.reddit.com/r/Bitcoin/comments/1qkywwq/i_didnt_get_rich_from_crypto_but_it_quietly_fixed/)**
 
-Today is payday and stacking continues as usual. 1 Bitcoin is for 2026 the target to be safe for the next 30 years till retirement.
+A few years ago, crypto wasn’t something I took seriously. I wasn’t broke, but I was constantly stressed about money. Rent, bills, unexpected expenses — it always felt like I was one problem away from being stuck. I wasn’t looking for “financial freedom”, I just wanted some breathing room. I first got into crypto the most boring way possible: Not through Twitter, not from YouTube gurus — but because a coworker casually said, “Hey, I put a bit of money into this stuff, just in case.” So I did what most normal people do: I didn’t go all-in. I didn’t trade. I just started putting small amounts in whenever I got paid. Sometimes $50, sometimes $100. And then I forgot about it. For a long time… nothing happened. Prices went up, went down. I didn’t really care. I was more focused on work and life than charts. But something changed quietly. One day I realized I wasn’t panicking about money anymore. When my laptop broke, I didn’t need a loan. When I moved apartments, I didn’t stress about deposits. I wasn’t rich — but I wasn’t trapped either. Eventually I sold part of my holdings, not at the top, not perfectly, but enough to: • Clear a chunk of debt • Build an emergency fund • And sleep better at night That’s when I understood something: Crypto didn’t make me rich. It gave me options. And honestly, that’s more valuable to me than Lambos and screenshots. Now I still buy a small amount every month. Not because I think I’ll “beat the market”, but because I like having a piece of my money that isn’t tied to my job, my country, or my bank. If you’re new and expecting overnight success — you’ll probably be disappointed. But if you’re looking for a slow, quiet way to change your relationship with money… crypto might surprise you the same way it surprised me. I’m curious: Did crypto change your life loudly, or quietly?
 
-1d ago
+14h ago
+
+---
+
+**[Decentralization is the Way](https://www.reddit.com/r/Bitcoin/comments/1qkubld/decentralization_is_the_way/)**
+
+17h ago
+
+---
+
+**[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
+
+21m ago
 
 ---
 
 **[I find it fascinating that retail still thinks gold/silver is form of money nowadays, can you buy a bottle of water with your gold bar?](https://www.reddit.com/r/Bitcoin/comments/1qlfeu2/i_find_it_fascinating_that_retail_still_thinks/)**
 
 2h ago
-
----
-
-**[IBIT](https://www.reddit.com/r/Bitcoin/comments/1ql6kc3/ibit/)**
-
-Is holding IBIT the same as real bitcoin? I really believe in crypto and want to hold for the long run and buy everyday. Would buying Ibit be much different?
-
-8h ago
 
 ---
 
@@ -161,15 +157,7 @@ ProPublica • 1d ago
 
 Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
 
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin’s weakness versus gold and equities puts quantum computing fears back in focus](https://www.coindesk.com/markets/2026/01/23/bitcoin-s-weakness-versus-gold-and-equities-puts-quantum-computing-fears-back-in-focus)**
-
-Some investors have revived concerns that quantum computing could threaten bitcoin, but analysts and developers say recent price weakness reflects market structure.
-
-CoinDesk • 3h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -181,25 +169,11 @@ Yahoo Finance • 21h ago
 
 ---
 
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+**[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
-Some fear massive consequences for financial markets.
+Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
-The Motley Fool • 22h ago
-
----
-
-**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqecx267DbFyVKfdR0LuNoR7H5evhQ19OMypkiIOUKcnTLlaLttSRjZz&gaa_ts=69747ada&gaa_sig=uc74aJrp6mWkauU1FEfHpOk9fnDZkzDTZbeRjwuy_HgiRMeMhRN0hpi2DYXSPFfkFPYg7iV7U8UKO7HbmuKgzQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
-
-Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
-
-CNBC • 2d ago
+Fortune • 1d ago
 
 ---
 
@@ -211,17 +185,39 @@ wtop.com • 1d ago
 
 ---
 
+**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+
+The Block • 12h ago
+
+---
+
+**[Bitcoin sinks below $90K as large investors sell their holdings and haven seekers go elsewhere](https://www.marketwatch.com/story/bitcoin-sinks-below-90k-as-large-investors-sell-their-holdings-and-haven-seekers-go-elsewhere-da97b3c6?gaa_at=eafs&gaa_n=AWEtsqcWA-CmJY7pDCyCOw3CMpZDjQKf9cVCK6bHViWnVyGxH6FBy_EoojKW&gaa_ts=69748ba6&gaa_sig=v3OWjafzl4yHmtKHuQGVqFON1exKK-ZCVaPOUN9yes4SqTNm8whvF9W8xMyY1h3uwawN9f5o1eVAqfLk_dIPRg%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
-**[Bitcoin struggles to regain momentum amid persistent overhead supply: Glassnode](https://www.theblock.co/post/386680/bitcoin-struggles-to-regain-momentum-amid-persistent-overhead-supply-glassnode)**
+**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
 
-The Block • 1d ago
+Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
+
+CNBC • 2d ago
+
+---
+
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+
+Some fear massive consequences for financial markets.
+
+The Motley Fool • 22h ago
 
 ---
 
@@ -310,7 +306,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 5h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 6h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -324,17 +320,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 19K • 👍 343 • 💬 190 • ⏱️ 2:12 • 18h ago
-
----
-
-**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 167 • ⏱️ 32:17 • 16h ago
+👁️ 22K • 👍 381 • 💬 195 • ⏱️ 2:12 • 18h ago
 
 ---
 
@@ -344,27 +330,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 174 • ⏱️ 8:40 • 10h ago
-
----
-
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
-
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
-
-📺 Swan Bitcoin
-
-👁️ 36K • 👍 1K • 💬 127 • ⏱️ 12:29 • 18h ago
-
----
-
-**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
-
-Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 1K • 💬 97 • ⏱️ 15:16 • 9h ago
+👁️ 35K • 👍 2K • 💬 192 • ⏱️ 8:40 • 11h ago
 
 ---
 
@@ -374,7 +340,27 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 61K • 👍 2K • 💬 298 • ⏱️ 16:21 • 1d ago
+👁️ 62K • 👍 2K • 💬 299 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future.
+
+📺 Swan Bitcoin
+
+👁️ 38K • 👍 1K • 💬 127 • ⏱️ 12:29 • 18h ago
+
+---
+
+**[Bitcoin Breakout Is Imminent...](https://www.youtube.com/watch?v=e6IfgaOHUYs)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 168 • ⏱️ 32:17 • 17h ago
 
 ---
 
@@ -384,17 +370,27 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 424 • 💬 59 • ⏱️ 1:04:53 • 13h ago
+👁️ 9K • 👍 438 • 💬 60 • ⏱️ 1:04:53 • 13h ago
 
 ---
 
-**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
+**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
 
-Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
+Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 123 • 💬 34 • ⏱️ 1:26 • 17h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 15:16 • 9h ago
+
+---
+
+**[America Is BACK and Bitcoin Is NO Longer Optional!](https://www.youtube.com/watch?v=zQhqNGgaBhQ)**
+
+Davos didn't see this coming. America flexed hard on the world stage while Bitcoin went from optional to unavoidable.
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 3K • 💬 390 • ⏱️ 23:49 • 1d ago
 
 ---
 
@@ -404,17 +400,17 @@ Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. A
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 279 • 💬 91 • ⏱️ 10:27 • 1d ago
+👁️ 14K • 👍 282 • 💬 91 • ⏱️ 10:27 • 1d ago
 
 ---
 
-**[I’m just gonna tell you what will happen with Bitcoin](https://www.youtube.com/watch?v=nnK_q3RG7UU)**
+**[Why Holding Bitcoin Gets HARDER Over Time](https://www.youtube.com/watch?v=dw3Kd84SBTc)**
 
-People keep asking the same questions about Bitcoin: What should I buy? When should I buy it? How much should I buy?
+Everyone thinks holding Bitcoin gets easier the higher price goes. It doesn't. As Bitcoin grows into generational wealth, volatility ...
 
-📺 The Sat Stacker Show
+📺 Swan Bitcoin
 
-👁️ 5K • 👍 286 • 💬 84 • ⏱️ 14:22 • 1d ago
+👁️ 3K • 👍 132 • 💬 34 • ⏱️ 1:26 • 17h ago
 
 ---
 
