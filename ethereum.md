@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T17:18:47.759262+00:00'
+updated: '2026-01-24T17:42:20.194765+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 17:18 UTC  
+**Last Updated:** January 24, 2026 at 17:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,960.29
+### $2,962.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -10.0%  
-**30d:** +0.8%  
-**90d:** -28.3%  
-**1y:** -10.9%  
+**24h:** -0.5%  
+**7d:** -9.7%  
+**30d:** +1.1%  
+**90d:** -28.0%  
+**1y:** -10.6%  
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 15h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 16h ago
 
 ---
 
@@ -152,11 +152,25 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 ## Google News: "ethereum"
 
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
+
+CCN.com • 1d ago
+
+---
+
 **[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
 Decrypt • 2d ago
+
+---
+
+**[BlackRock singles out ethereum as “beneficiary of growth”](https://sherwood.news/crypto/blackrock-singles-out-ethereum-as-beneficiary-of-growth/)**
+
+In the next era of tokenization, ethereum is poised to dominate the market. It currently commands over 65% of tokenized assets across blockchain...
+
+Sherwood News • 2d ago
 
 ---
 
@@ -168,11 +182,19 @@ AMBCrypto • 2d ago
 
 ---
 
+**[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
+
+ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
+
+CoinDesk • 15m ago
+
+---
+
 **[Ethereum Classic: Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/01/24/ethereum-classic-buy-sell-or-hold-in-2026/)**
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -184,31 +206,9 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
-
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
-
-CoinDesk • 2d ago
-
----
-
 **[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
 The Block • 2d ago
-
----
-
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://finance.yahoo.com/news/ethereum-price-exceed-12-000-100216272.html)**
-
-JPMorgan urges caution on Ethereum’s growth. Bullish forecasts remain sharply divided. Technical signals point to near-term risk. Ethereum’s rally narrative is facing fresh scrutiny after ...
-
-Yahoo Finance • 7h ago
-
----
-
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://www.ccn.com/news/crypto/blackrock-ethereum-signal-traders-speculate-tom-lees-bitmine-buys-eth/)**
-
-CCN.com • 1d ago
 
 ---
 

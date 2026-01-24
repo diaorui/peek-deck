@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T17:18:47.753232+00:00'
+updated: '2026-01-24T17:42:20.188845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 17:18 UTC  
+**Last Updated:** January 24, 2026 at 17:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,478.02
+### $89,404.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -4.8%  
-**30d:** +2.2%  
-**90d:** -21.9%  
-**1y:** -14.8%  
+**24h:** -1.3%  
+**7d:** -4.6%  
+**30d:** +2.4%  
+**90d:** -21.7%  
+**1y:** -14.6%  
 
 ---
 
@@ -77,11 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
+
+Where do people even find that kind of courage?
+
+1h ago
+
+---
+
 **[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
 8h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+
+10h ago
 
 ---
 
@@ -91,17 +105,11 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
-
-9h ago
-
----
-
 **[Bitcoin will have the last laugh](https://www.reddit.com/r/Bitcoin/comments/1qliuwc/bitcoin_will_have_the_last_laugh/)**
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-7h ago
+8h ago
 
 ---
 
@@ -115,21 +123,15 @@ Too many people think precious metals are shining while bitcoin is being ignored
 
 And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
 
-5h ago
+6h ago
 
 ---
 
-**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
+**[500 BTC = $1](https://www.reddit.com/r/Bitcoin/comments/1qlqx6r/500_btc_1/)**
 
-1d ago
+📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
----
-
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-58m ago
+1h ago
 
 ---
 
@@ -139,9 +141,9 @@ Where do people even find that kind of courage?
 
 ---
 
-**[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
+**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
 
-8h ago
+1d ago
 
 ---
 
@@ -163,19 +165,11 @@ ProPublica • 1d ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[Bitcoin price analysis: BTC 'sharpe ratio' sinks to levels last seen during major drawdowns](https://www.coindesk.com/markets/2026/01/23/bitcoin-returns-fail-to-match-risks-just-like-2022)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+The metric highlights weak risk-adjusted performance during periods of volatility, a feature of drawdowns that can persist for months.
 
-Forbes • 1d ago
-
----
-
-**[There's another reason why bitcoin is trailing gold and not acting as a safe haven](https://www.cnbc.com/2026/01/21/theres-another-reason-why-bitcoin-is-trailing-gold-and-not-acting-as-a-safe-haven.html)**
-
-Quantum computing poses a risk to the security of crypto wallets and the Bitcoin network, which could be putting pressure on the oldest cryptocurrency's price.
-
-CNBC • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -191,7 +185,7 @@ CoinDesk • 1h ago
 
 ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -224,6 +218,14 @@ Fortune • 2d ago
 Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
 
 wtop.com • 2d ago
+
+---
+
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -336,7 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 19h ago
+👁️ 47K • 👍 2K • 💬 239 • ⏱️ 8:40 • 20h ago
 
 ---
 
@@ -386,7 +388,7 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 16h ago
+👁️ 5K • 👍 305 • 💬 235 • ⏱️ 9:52 • 17h ago
 
 ---
 

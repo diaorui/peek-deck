@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T17:18:47.762531+00:00'
+updated: '2026-01-24T17:42:20.197980+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 17:18 UTC  
+**Last Updated:** January 24, 2026 at 17:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,19 +38,19 @@ Robotics research and industry news
 
 ---
 
+**[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
+
+Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
+
+5h ago
+
+---
+
 **[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
 8h ago
-
----
-
-**[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
-
-Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
-
-4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 https://marvelmind.com/3d_vertical_map/
 
-8h ago
+9h ago
 
 ---
 
@@ -73,14 +73,6 @@ https://marvelmind.com/3d_vertical_map/
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
 6h ago
-
----
-
-**[Are cobots becoming the default entry point to industrial automation?](https://www.reddit.com/r/robotics/comments/1qlqqil/are_cobots_becoming_the_default_entry_point_to/)**
-
-Collaborative robots are being used across modern manufacturing as flexible automation tools rather than strictly fence-free systems. While cobots are designed to operate alongside people, many real-world deployments include added guarding or sensors for safety, particularly in palletizing, welding, and other head- or eye-level tasks. Collaboration in this context refers more to ease of programming, deployment, and adaptability than constant human proximity. Cobots are increasingly applied in areas such as machine tending, inspection, logistics, agriculture, and additive manufacturing. Advances in vision systems, AI, and machine learning enable adaptive path planning, precision inspection, and selective handling of variable parts. In inspection applications, cobots equipped with scanning tools can dramatically reduce cycle times while improving accuracy. Pre-engineered solutions for common tasks like palletizing and welding are also expanding access to automation for teams without deep robotics expertise. The article places these developments within the broader shift from Industry 4.0 to Industry 5.0, emphasizing human-robot collaboration where automation handles repetitive or hazardous work and human workers focus on oversight and higher-value tasks. Mobile manipulators, higher-payload cobots, and plug-and-play systems are expanding use cases across industries facing labor shortages, including welding, agriculture, and logistics. Continued progress in AI, vision, and business models such as leasing is expected to further broaden cobot adoption across manufacturing and beyond.
-
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/cobot-applications-modern-manufacturing) • 1h ago
 
 ---
 
@@ -98,11 +90,19 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 ---
 
-**[We thought the design was locked. Then early testers asked for "Eyes". Now we are conflicted.](https://www.reddit.com/r/robotics/comments/1qkz4i6/we_thought_the_design_was_locked_then_early/)**
+**[i made a robot that sprays febreze when u fart.](https://www.reddit.com/r/robotics/comments/1qlrumw/i_made_a_robot_that_sprays_febreze_when_u_fart/)**
 
-Quick update post-CES. We thought we had the hardware definition 99% done, but the feedback from our first batch of hands-on users is making us second-guess two major decisions. Need a sanity check from you guys before we commit to the final molds/firmware. **Dilemma 1: Vex (The Pet Bot) - Does it need "Eyes"?** Right now, Vex is a sleek, minimalist sphere. It looks like a piece of high-end audio gear or a giant moving camera lens. But the feedback we keep getting from pet owners is: _"It feels too much like a surveillance tool. Give it eyes so it feels like a companion."_ We are torn. * **Option A (Current):** Keep it clean. It's a robot, not a cartoon character. * **Option B (Change):** Add digital eye expressions (using the existing LED matrix or screen). My worry: Does adding fake digital eyes make it look "friendly", or does it just make it look like a cheap toy? Where is the line? **Dilemma 2: Aura (The AI) - Jarvis vs. Her** We originally tuned Aura's voice to sound crisp, futuristic, and efficient. Think TARS from Interstellar or Jarvis. We wanted it to feel "Smart". But users are telling us it feels cold. They are asking for more "human" imperfections—pauses, mood swings, maybe even sounding tired in the evening. We can re-train the TTS (Text-to-Speech) model, but I'm worried about the "Uncanny Valley". **Do you actually want your desktop robot to sound emotional, or do you just want it to give you the weather report quickly?** If you have a strong opinion on either, let me know. We are literally testing the "Emotional Voice" update in our internal build right now. _(As always, looking for more people to roast these decisions in our discord beta group. Let me know if you want an invite.)_
+this was an interesting project. let me know what u think, thanks
 
-22h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=2PpVsDZFNqM) • 57m ago
+
+---
+
+**[Architectural swarms for responsive façades and creative expression](https://www.reddit.com/r/robotics/comments/1qlreo9/architectural_swarms_for_responsive_façades_and/)**
+
+https://www.science.org/doi/10.1126/scirobotics.ady7233 Living architectures, such as beehives and ant bridges, adapt continuously to their environments through self-organization of swarming agents. In contrast, most human-made architecture remains static, unable to respond to changing climates or occupant needs. Despite advances in biomimicry within architecture, architectural systems still lack the self-organizing dynamics found in natural swarms. In this work, we introduce the concept of architectural swarms: systems that integrate swarm intelligence and robotics into modular architectural façades to enable responsiveness to environmental conditions and human preferences. We present the Swarm Garden, a proof of concept composed of robotic modules called SGbots. Each SGbot features buckling-sheet actuation, sensing, computation, and wireless communication. SGbots can be networked into reconfigurable spatial systems that exhibit collective behavior, forming a testbed for exploring architectural swarm applications. We demonstrate two application case studies. The first explores adaptive shading using self-organization, where SGbots respond to sunlight using a swarm controller based on opinion dynamics. In a 16-SGbot deployment on an office window, the system adapted effectively to sunlight, showing robustness to sensor failures and different climates. Simulations demonstrated scalability and tunability in larger spaces. The second study explores creative expression in interior design, with 36 SGbots responding to human interaction during a public exhibition, including a live dance performance mediated by a wearable device. Results show that the system was engaging and visually compelling, with 96% positive attendee sentiments. The Swarm Garden exemplifies how architectural swarms can transform the built environment, enabling “living-like” architecture for functional and creative applications.
+
+1h ago
 
 ---
 
@@ -115,14 +115,6 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
 Microsoft • 4h ago
-
----
-
-**[Creepy robotic hand detaches at the wrist before scurrying away to collect objects](https://www.livescience.com/technology/robotics/creepy-robotic-hand-detaches-at-the-wrist-before-scurrying-away-to-collect-objects)**
-
-EPFL's robotic appendage features fingers that bend both ways and is designed to retrieve objects from spaces too hazardous for human hands.
-
-Live Science • 2d ago
 
 ---
 
@@ -158,6 +150,14 @@ The Robot Report • 3d ago
 
 ---
 
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 17h ago
+
+---
+
 **[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
 
 The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
@@ -178,7 +178,7 @@ Investopedia • 1d ago
 
 Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 35K • 👍 1K • 💬 98 • ⏱️ 17:39 • 17h ago
+👁️ 35K • 👍 1K • 💬 98 • ⏱️ 17:39 • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 112 • 💬 16 • ⏱️ 18:41 • 17h ago
+👁️ 3K • 👍 112 • 💬 16 • ⏱️ 18:41 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 439 • 💬 131 • ⏱️ 15:13 • 6h ago
+👁️ 6K • 👍 439 • 💬 131 • ⏱️ 15:13 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Will this company be the “picks and shovels” of the robotics industry? Skild
 
 📺 Rowan Cheung
 
-👁️ 7K • 👍 532 • 💬 4 • ⏱️ 1:13 • 20h ago
+👁️ 7K • 👍 532 • 💬 4 • ⏱️ 1:13 • 21h ago
 
 ---
 

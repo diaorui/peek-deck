@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T17:18:47.744762+00:00'
+updated: '2026-01-24T17:42:20.180441+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 17:18 UTC  
+**Last Updated:** January 24, 2026 at 17:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,11 +77,11 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 ---
 
-**[Using AI for advice or other personal reasons is linked to depression and anxiety](https://www.reddit.com/r/artificial/comments/1qlqera/using_ai_for_advice_or_other_personal_reasons_is/)**
+**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
 
-A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
+Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 1h ago
+12h ago
 
 ---
 
@@ -101,17 +101,17 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 ---
 
-**[GPT 5.2 Codex is Actually (kind of) Just Special System Instructions](https://www.reddit.com/r/artificial/comments/1qlfr6s/gpt_52_codex_is_actually_kind_of_just_special/)**
+**[Using AI for advice or other personal reasons is linked to depression and anxiety](https://www.reddit.com/r/artificial/comments/1qlqera/using_ai_for_advice_or_other_personal_reasons_is/)**
 
-https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
+A new survey found that people who spend more time with chatbots for social interactions or emotional support were more likely to report mental health symptoms.
 
-10h ago
+🔗 [NBC News](https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036) • 1h ago
 
 ---
 
-**[Built a Sandbox for Agents](https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/)**
+**[GPT 5.2 Codex is Actually (kind of) Just Special System Instructions](https://www.reddit.com/r/artificial/comments/1qlfr6s/gpt_52_codex_is_actually_kind_of_just_special/)**
 
-Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
+https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
 11h ago
 
@@ -125,7 +125,7 @@ Lately, it feels like the conversation around AI has started to shift. Beyond sm
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -141,45 +141,35 @@ WIRED • 1d ago
 
 Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
+**[AI Agents Are Poised to Hit a Mathematical Wall, Study Finds](https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493)**
 
-Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
+LLMs have their limits.
 
-CNBC • 5h ago
-
----
-
-**[Trump, 79, Revives Greenland Fantasy With Absurd AI Post](https://www.yahoo.com/news/articles/trump-79-revives-greenland-fantasy-031138664.html)**
-
-After a week of geopolitical chaos that appeared to put Greenland to rest, the White House revived President Donald Trump’s fixation with an AI-generated colonial fantasy. The image, posted to the White House’s official X account, shows Trump marching across a frozen landscape toward Greenland, accompanied by a penguin inexplicably carrying an American flag. The image’s execution appears as confused as the message. The penguin—a creature not found anywhere in the Northern Hemisphere, let alone G
-
-Yahoo • 14h ago
+Gizmodo • 21h ago
 
 ---
 
-**[‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)**
+**[Faster-Drying Paint and Better-Smelling Soap: AI Tries Product Development](https://www.wsj.com/tech/ai/faster-drying-paint-and-better-smelling-soap-ai-tries-product-development-e7a544d7?gaa_at=eafs&gaa_n=AWEtsqfftlWSEwYjP4yOHi2E8amAuhFGhfWPNNY_Rvz0dtzDBQTPitrPKHAk&gaa_ts=697507e8&gaa_sig=WjS2l62Rp1WsaHCkjT0avy0Jw-13IeuD5zUfQ8HaR4X35Tu1TbRAE4NI-YxGFgyvk4xM77DkET2xDf26WeQGNQ%3D%3D)**
 
-On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
-
-WIRED • 18h ago
+The Wall Street Journal • 42m ago
 
 ---
 
-**[S.F.’s hottest singles are AI engineers](https://www.sfchronicle.com/tech/article/ai-engineers-dating-21207918.php)**
+**[A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/)**
 
-sfchronicle.com • 5h ago
+It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.
+
+TechCrunch • 42m ago
 
 ---
 
-**[Why Apple and OpenAI are reportedly betting on AI hardware in 2026](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/)**
+**[Five Ways People Are Using Claude Code](https://www.nytimes.com/2026/01/23/technology/claude-code.html)**
 
-Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
-
-Scientific American • 21h ago
+The New York Times • 17h ago
 
 ---
 
@@ -191,9 +181,19 @@ Financial Times • 8h ago
 
 ---
 
-**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
+**[Why Apple and OpenAI are reportedly betting on AI hardware in 2026](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/)**
 
-The New York Times • 2h ago
+Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
+
+Scientific American • 21h ago
+
+---
+
+**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
+
+Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
+
+CNBC • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ The New York Times • 2h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 688 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 690 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -213,7 +213,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 530 • 💬 398 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 535 • 💬 404 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -245,7 +245,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 157 • 💬 205 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 157 • 💬 206 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -275,7 +275,7 @@ A conversation with Graham Granger, whose combination of protest and performance
 
 Helping you make informed decisions about your health by combining the latest research with the supplements available on the market.
 
-⬆️ 86 • 💬 46 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
+⬆️ 87 • 💬 46 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
 
 ---
 
@@ -339,7 +339,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 28K • 👍 1K • 💬 199 • ⏱️ 28:01 • 14h ago
+👁️ 28K • 👍 1K • 💬 199 • ⏱️ 28:01 • 15h ago
 
 ---
 
@@ -379,7 +379,7 @@ SOURCES 1: https://torrentfreak.com/authors-sue-nvidia-for-training-ai-on-pirate
 
 📺 YongYea
 
-👁️ 92K • 👍 5K • 💬 1K • ⏱️ 21:02 • 17h ago
+👁️ 92K • 👍 5K • 💬 1K • ⏱️ 21:02 • 18h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 12h ago
+⭐ 9.7k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -738,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.2k • 🔱 440 • 21h ago
+⭐ 2.2k • 🔱 440 • 22h ago
 
 ---
 
