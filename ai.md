@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T13:31:35.875692+00:00'
+updated: '2026-01-24T14:20:52.285923+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 13:31 UTC  
+**Last Updated:** January 24, 2026 at 14:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 2h ago
-
----
-
-**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
-
-I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
-
-6h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 3h ago
 
 ---
 
@@ -57,7 +49,15 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 2h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 3h ago
+
+---
+
+**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
+
+I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
+
+7h ago
 
 ---
 
@@ -65,15 +65,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-23h ago
-
----
-
-**[How AI is Changing Content Strategy in 2026 ?](https://www.reddit.com/r/artificial/comments/1qljwxz/how_ai_is_changing_content_strategy_in_2026/)**
-
-From blog ideas to SEO optimization, Kitful.ai automates content workflows, delivers outlines, drafts, listicles, optimized meta titles, and helps you rank faster with less effort.
-
-🔗 [kitful.ai](https://kitful.ai/blog/how-ai-is-changing-content-strategy-in-2026) • 2h ago
+1d ago
 
 ---
 
@@ -89,7 +81,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +89,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +97,7 @@ Anyone can submit ideas as GitHub issues, the community votes, and an AI coding 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +105,15 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 Lately, it feels like the conversation around AI has started to shift. Beyond smarter models and better prompts, there is a growing sense that truly independent agents will need something more fundamental underneath them. If agents are expected to run on their own, make decisions, and execute real work, then they need infrastructure that is built for autonomy rather than scripts glued together. That thought eventually turned into Bouvet. It is an experiment in building a simple, opinionated execution layer for agents. One that focuses on how agents run, where they run, and how their execution is isolated and managed over time. The goal was not to compete with existing platforms, but to explore ideas inspired by systems like Blaxel, e2b, Daytona, and Modal, and to understand the design space better by building something end to end. I wrote a short, high level blog post sharing the motivation, ideas, and design philosophy behind the project. The entire thing is built using Firecracker and Rust. If you are curious about the “why,” that is the best place to start. For deeper technical details, trade-offs, and implementation notes, the GitHub repo goes into much more depth. GitHub: https://github.com/vrn21/bouvet If you find the ideas interesting or have thoughts on where this could go, feel free to open an issue or leave a star. I would genuinely love feedback and discussion from people thinking about similar problems.
 
-7h ago
+8h ago
+
+---
+
+**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
+
+Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
+
+8h ago
 
 ---
 
@@ -129,69 +129,71 @@ BBC • 15h ago
 
 ---
 
-**[Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)**
+**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
 
-Kristalina Georgieva says research suggests 60% of jobs in advanced economies will be affected, with many entry-level roles wiped out
+A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-The Guardian • 23h ago
-
----
-
-**[The Real Economics of AI and Jobs](https://time.com/7357476/economics-of-ai-and-jobs/)**
-
-The World Economic Forum's Saadia Zahidi writes about the complex ways AI is transforming the global labor market.
-
-Time Magazine • 15h ago
+WIRED • 22h ago
 
 ---
 
-**[‘Wake up, AI is for real.’ IMF chief warns of an AI ‘tsunami’ coming for young people and entry-level jobs](https://fortune.com/2026/01/23/imf-chief-warns-ai-tsunami-entry-level-jobs-gen-z-middle-class/)**
+**[AI is reshaping police detective work, starting with cold cases](https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases)**
 
-Automation could boost productivity and salaries for some workers but wipe out entry-level jobs.
-
-Fortune • 20h ago
+Axios • 50m ago
 
 ---
 
-**[I was laid off from CrowdStrike and used AI to send 800 applications in a month to land my ideal role](https://www.businessinsider.com/laid-off-from-crowdstrike-used-ai-to-land-ideal-role-2026-1)**
+**[Meta has quietly become an AI infrastructure giant. 'Meta Compute' is Zuckerberg making it official.](https://fortune.com/2026/01/24/meta-compute-zuckerberg-ai-infrastructure-giant-data-center/)**
 
-With the help of an AI platform, one man submitted more than 800 job applications in a month, resulting in 5 interviews and 1 ideal offer.
+With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
 
-Business Insider • 2h ago
-
----
-
-**[Singapore Pours $786 Million Into Race to Become AI Powerhouse](https://www.bloomberg.com/news/articles/2026-01-24/singapore-pours-786-million-into-race-to-become-ai-powerhouse)**
-
-Bloomberg • 1h ago
+Fortune • 1h ago
 
 ---
 
-**[Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it](https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/)**
+**['Mercy' Review: Chris Pratt must prove his innocence to AI judge in forgettable cyber thriller](https://www.foxnews.com/opinion/mercy-review-chris-pratt-must-prove-his-innocence-ai-judge-forgettable-cyber-thriller)**
 
-weforum.org • 21h ago
+Fox News Digital reviews Amazon MGM Studios' cyber thriller "Mercy" starring Chris Pratt and Rebecca Ferguson. Produced and directed by Timur Bekmambetov.
 
----
-
-**['Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat](https://www.reuters.com/business/davos/jobs-jobs-jobs-ai-mantra-fears-take-back-seat-davos-2026-01-23/)**
-
-Reuters • 10h ago
+Fox News • 20m ago
 
 ---
 
-**[Investors came to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
+**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2026/01/24/what-are-the-3-top-artificial-intelligence-stock/)**
+
+AI chip stocks still have a lot of upside from here.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Does the AI Trade Still Have Room to Run?](https://www.morningstar.com/markets/does-ai-trade-still-have-room-run)**
+
+Where Morningstar analysts see opportunities—and where they don’t.
+
+Morningstar • 18h ago
+
+---
+
+**[Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals](https://www.bloomberg.com/news/articles/2026-01-24/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals)**
+
+Bloomberg • 5h ago
+
+---
+
+**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
 
 Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters](https://fortune.com/2026/01/23/cursor-built-web-browser-with-swarm-ai-agents-powered-openai/)**
+**[‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)**
 
-Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
+On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
 
-Fortune • 18h ago
+WIRED • 15h ago
 
 ---
 
@@ -203,7 +205,7 @@ Fortune • 18h ago
 
 This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …
 
-⬆️ 686 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+⬆️ 687 • 💬 494 • 2d ago • [MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 
 ---
 
@@ -211,7 +213,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 523 • 💬 372 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 525 • 💬 383 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -219,7 +221,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 488 • 💬 263 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 488 • 💬 267 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -227,15 +229,7 @@ The one where I get very annoyed with my email provider
 
 eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispute resolution rules in User Agreement update effective Feb. 20, 2026.
 
-⬆️ 329 • 💬 346 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
-
----
-
-**[How AI destroys institutions](https://news.ycombinator.com/item?id=46705606)**
-
-Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy
-
-⬆️ 304 • 💬 270 • 2d ago • [Stanford CIS](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+⬆️ 330 • 💬 347 • 2d ago • [Value Added Resource](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 
 ---
 
@@ -243,7 +237,7 @@ Civic institutions—the rule of law, universities, and a free press—are the b
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 183 • 💬 170 • 18h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 184 • 💬 171 • 19h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -251,7 +245,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 154 • 💬 203 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 156 • 💬 204 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -259,15 +253,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 129 • 💬 78 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
-
----
-
-**[Comic-Con Bans AI Art After Artist Pushback](https://news.ycombinator.com/item?id=46705952)**
-
-The famed convention's organizers have banned AI from the art show.
-
-⬆️ 128 • 💬 163 • 2d ago • [404 Media](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+⬆️ 130 • 💬 78 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -275,7 +261,21 @@ The famed convention's organizers have banned AI from the art show.
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
-⬆️ 97 • 💬 66 • 1d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+⬆️ 97 • 💬 66 • 2d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+
+---
+
+**[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
+
+⬆️ 97 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+
+---
+
+**[Show HN: I've been using AI to analyze every supplement on the market](https://news.ycombinator.com/item?id=46719423)**
+
+Helping you make informed decisions about your health by combining the latest research with the supplements available on the market.
+
+⬆️ 86 • 💬 46 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
 
 ---
 
@@ -299,7 +299,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 13h ago
+👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 14h ago
 
 ---
 
@@ -349,7 +349,7 @@ Missed Part 1? Watch the original "Crazy Beds" here: https://www.youtube.com/wat
 
 📺 Love And Peace
 
-👁️ 528K • 👍 2K • 💬 40 • ⏱️ 11:47 • 2d ago
+👁️ 528K • 👍 2K • 💬 40 • ⏱️ 11:47 • 3d ago
 
 ---
 
@@ -359,7 +359,7 @@ Davos 2026 | World Economic Forum | AI | Tech Palantir Technologies Chief Execut
 
 📺 Mint
 
-👁️ 145K • 👍 2K • 💬 413 • ⏱️ 9:36 • 2d ago
+👁️ 145K • 👍 2K • 💬 413 • ⏱️ 9:36 • 3d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,101 • 3d ago
+⬇️ 279,658 • ❤️ 1,101 • 4d ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 295 • 9h ago
+⬇️ 174,230 • ❤️ 295 • 10h ago
 
 ---
 
@@ -455,7 +455,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 67,913 • ❤️ 519 • 8d ago
+⬇️ 67,913 • ❤️ 519 • 9d ago
 
 ---
 
@@ -489,7 +489,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-⬇️ 42,118 • ❤️ 455 • 4d ago
+⬇️ 42,118 • ❤️ 455 • 5d ago
 
 ---
 
@@ -609,7 +609,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 163 • 💬 5 • ⭐ 305 • 5d ago
+▲ 163 • 💬 5 • ⭐ 305 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 542 • 7h ago
+⭐ 10.1k • 🔱 542 • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 8h ago
+⭐ 9.7k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -690,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 10h ago
+⭐ 5.8k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.1k • 🔱 5.4k • 2h ago
+⭐ 5.1k • 🔱 5.4k • 3h ago
 
 ---
 
@@ -738,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.1k • 🔱 431 • 18h ago
+⭐ 2.1k • 🔱 431 • 19h ago
 
 ---
 
