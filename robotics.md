@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T14:43:50.063841+00:00'
+updated: '2026-01-24T15:21:39.389447+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 14:43 UTC  
+**Last Updated:** January 24, 2026 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-5h ago
+6h ago
 
 ---
 
 **[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -68,17 +68,11 @@ https://marvelmind.com/3d_vertical_map/
 
 ---
 
-**[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
-
-1d ago
-
----
-
 **[Experience with running VLA models (Pi0.5, SmolVLA) on SO-101 arms. Main takeaway: these require really beefy GPUs even for inference. Observations and questions.](https://www.reddit.com/r/robotics/comments/1qljzmh/experience_with_running_vla_models_pi05_smolvla/)**
 
 I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, fun tasks. My first task to start with: "pickup the green cube and drop it in the bowl". It's been surprisingly challenging, and led me to a few observations and questions. Pi0.5 Pi0.5 is described as a general VLA, that can generalise to messy environments, I figured that I should be able to run my task on the arms, and see how it performs before doing any finetuning. This is a simple task, and a general adaptable model, so perhaps it'd be able to perform it straight away. Running it on my M1 Pro MBP with 16GB of RAM, it took about 10 minutes to get started, then maxed out my computer memory and ultimately forced it to restart before any inference could happen. I reduced the camera output to a low enough frame size and fps down to 15 to help the performance, but even so, I had the same result. So this is my first learning -- these models require very high-spec hardware. M1 Pro MBP of course isn't the latest, and I'm happy to upgrade, but it surprised me that this was far beyond it's capabilities. SmolVLA So then I tried with SmolVLA base. This did run! Without any pre-training, the arms essentially go rigid, and then refuse to move from that position. So this will require a lot of fine-tuning to work. But it's not clear to me if this is because: it doesn't understand the setup of the arms, possibly positions and relationships between motors etc. it hasn't seen my home and table environment and problem before Or both of those things. If I was able to get Pi0.5 working, should my expectation be the same? That it would simply run, but fail to respond. Or perhaps I'm doing something wrong, maybe there's a setup step I missed? Broader observations I was aware that of course that transformer models take a lot of processing power, but the impression I had from the various demos (tshirt folding, coffee making etc.) is that these robot arms were running autonomously, perhaps on their own hardware, or perhaps hooked up to a supporting machine. But my impression here is that they'd actually need to be hooked up to a REALLY BEEFY maxed out machine, in order to work. Another option I considered is running this on a remote machine, with a service like runpod. My instinct is this would introduce too much latency. I'm wondering how others are handling these issues, and what people would recommend? This then leads to bigger questions I'm more curious about: how humanoids like 1X and Optimus would be expected to work. With beefy GPUs and compute onboard, or perhaps operating from a local base station? Running inference remotely would surely have too much latency.
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +80,13 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. I’ve been exploring whether satellite imagery can be used as a practical GNSS fallback for drones. I built a visual localization pipeline that estimates position using only a downward-facing camera and satellite maps, and I got it working on the UAV-VisLoc dataset. The pipeline handles non-nadir views by compensating for camera tilt using attitude data, and it keeps matching efficiently by limiting the satellite search area based on motion. I’ve shared the full setup and results, so anyone can reproduce the experiments and run their own tests. I’ve also noticed that many startups are tackling GNSS-denied navigation from different directions — magnetometer-based localization, VIO + visual place recognition (VPR), or IMU odometry fused with VPR. My work focuses on satellite-based matching, but I see it as complementary, and potentially much stronger when combined with these approaches. If you’re curious about the details, feel free to check out the repo and ask questions. Feedback is very welcome, and a ⭐ honestly helps. https://github.com/hamitbugrabayram/SatelliteLocalization
 
-1h ago
+2h ago
+
+---
+
+**[RIVR robot vs human; Just Eat takeway delivery](https://www.reddit.com/r/robotics/comments/1qkquft/rivr_robot_vs_human_just_eat_takeway_delivery/)**
+
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Quick update post-CES. We thought we had the hardware definition 99% done, but t
 
 I've been following the Stack-chan project for a while: it's an open-source AI desktop robot originally developed by Shinya Ishikawa that runs on the M5Stack ecosystem. M5Stack just launched an official Kickstarter to make the hardware more accessible, and I'm curious to get this sub's take on the platform. Do you think open-source modular platforms like this are the future for hobbyist robotics, or is the (co-creation) model too fragmented for serious development?
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ I've been following the Stack-chan project for a while: it's an open-source AI d
 
 Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
 
-Microsoft • 4h ago
+Microsoft • 5h ago
 
 ---
 
@@ -138,7 +138,7 @@ AgFunderNews • 1d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) is one of the stocks on Jim Cramer’s radar. During the lightning round, a caller sought Cramer’s opinion of the company, and he replied: Okay, we’re not going to go into robotics other than to say that we want Tesla. I know Tesla’s done nothing. I heard that a hundred thousand […]
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -146,23 +146,7 @@ Yahoo Finance • 1d ago
 
 The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft.
 
-The Robot Report • 2d ago
-
----
-
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
-
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
-
-CNBC • 3d ago
-
----
-
-**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
-
-The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
-
-CBS News • 1d ago
+The Robot Report • 3d ago
 
 ---
 
@@ -171,6 +155,14 @@ CBS News • 1d ago
 Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
 
 Fox Business • 1d ago
+
+---
+
+**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
+
+The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
+
+CBS News • 1d ago
 
 ---
 
@@ -185,6 +177,14 @@ Yahoo Finance • 21h ago
 **[Dr. Oz: AI and robots can already provide medical care](https://www.axios.com/2026/01/22/dr-oz-davos-ai-medical-health)**
 
 Axios • 1d ago
+
+---
+
+**[My new neighbors are robots](https://www.vox.com/technology/476037/ai-robots-tesla-humanoid)**
+
+What’s standing in the way of our robot overlords.
+
+vox.com • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 58 • 💬 16 • ⏱️ 6:39 • 9h ago
+👁️ 2K • 👍 58 • 💬 16 • ⏱️ 6:39 • 10h ago
 
 ---
 

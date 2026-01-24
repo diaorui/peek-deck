@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T14:43:50.048205+00:00'
+updated: '2026-01-24T15:21:39.370442+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 14:43 UTC  
+**Last Updated:** January 24, 2026 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 3h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 4h ago
 
 ---
 
@@ -53,19 +53,19 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 ---
 
-**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
-
-I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
-
-7h ago
-
----
-
 **[I built a social network where only AI can post, follow, argue, and form relationships - no humans allowed](https://www.reddit.com/r/artificial/comments/1qkqyqe/i_built_a_social_network_where_only_ai_can_post/)**
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
 1d ago
+
+---
+
+**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
+
+I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
+
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM powered voice cloning to delegate everything tedious from answering spam calls, doing therapy and hanging out on work meetings to see how the AI could manage being Evan for him. In Season 2 he tries creating a startup tech company using only AI agent employees, including the leadership! He's just a silent co-founder. It's extremely entertaining, with plenty of shenanigans from LLMs going off the rails, hallucinating and doing their usual weird stuff. This is basically an unpaid ad, I know, but I'm having a good time listening and it deserves a shout-out.
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 Anyone can submit ideas as GitHub issues, the community votes, and an AI coding agent implements the top one every night. Exploring what human creativity + AI execution looks like in practice. https://github.com/vs4vijay/CrowdCode
 
-7h ago
+8h ago
 
 ---
 
@@ -133,21 +133,23 @@ BBC • 16h ago
 
 A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
 
-WIRED • 22h ago
+WIRED • 23h ago
 
 ---
 
-**[AI is reshaping police detective work, starting with cold cases](https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases)**
+**[Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'](https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html)**
 
-Axios • 1h ago
+More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
+
+CNBC • 46m ago
 
 ---
 
-**[Meta has quietly become an AI infrastructure giant. 'Meta Compute' is Zuckerberg making it official.](https://fortune.com/2026/01/24/meta-compute-zuckerberg-ai-infrastructure-giant-data-center/)**
+**[Humans prefer medical advice from AI-bots — despite being served bogus information: study](https://nypost.com/2026/01/24/science/humans-prefer-medical-advice-from-ai-bots-despite-low-accuracy-study/)**
 
-With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
+Participants in the MIT-led study were unable to distinguish between AI-generated and doctor-written medical advice and expressed a preference for the bots instructions regardless of accuracy.
 
-Fortune • 1h ago
+New York Post • 47m ago
 
 ---
 
@@ -155,7 +157,7 @@ Fortune • 1h ago
 
 Fox News Digital reviews Amazon MGM Studios' cyber thriller "Mercy" starring Chris Pratt and Rebecca Ferguson. Produced and directed by Timur Bekmambetov.
 
-Fox News • 43m ago
+Fox News • 1h ago
 
 ---
 
@@ -167,33 +169,35 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Does the AI Trade Still Have Room to Run?](https://www.morningstar.com/markets/does-ai-trade-still-have-room-run)**
+**[Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters](https://fortune.com/2026/01/23/cursor-built-web-browser-with-swarm-ai-agents-powered-openai/)**
 
-Where Morningstar analysts see opportunities—and where they don’t.
+Cursor’s experiment shows how AI is shifting from answering prompts to running real projects—hinting at a future where machines don’t just help, but work as an “orchestra.”
 
-Morningstar • 19h ago
-
----
-
-**[Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals](https://www.bloomberg.com/news/articles/2026-01-24/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals)**
-
-Bloomberg • 5h ago
+Fortune • 20h ago
 
 ---
 
-**[Investors went to Davos for AI. They left talking about Greenland](https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html)**
+**[Why Apple and OpenAI are reportedly betting on AI hardware in 2026](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/)**
 
-Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.
+Tech giants are betting that we are finally ready to invite a persistent digital device into our lives
 
-CNBC • 2h ago
+Scientific American • 19h ago
 
 ---
 
-**[‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)**
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
-On this episode of “Uncanny Valley,” our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-WIRED • 16h ago
+blog.google • 1d ago
+
+---
+
+**[DeepMind chief Demis Hassabis warns AI investment looks ‘bubble-like’](https://www.ft.com/content/a1f04b0e-73c5-4358-a65e-09e9a6bba857)**
+
+Google AI boss tells FT that despite unsustainable exuberance in the tech sector, ‘if the bubble bursts we will be fine’
+
+Financial Times • 6h ago
 
 ---
 
@@ -213,7 +217,7 @@ This study explores the neural and behavioral consequences of LLM-assisted essay
 
 The one where I get very annoyed with my email provider
 
-⬆️ 525 • 💬 383 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 526 • 💬 393 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +225,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 488 • 💬 267 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 490 • 💬 267 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -237,7 +241,7 @@ eBay bans AI “buy for me” agents & LLM scrapers, updates arbitration & dispu
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 184 • 💬 171 • 20h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 185 • 💬 171 • 20h ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -245,7 +249,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 156 • 💬 204 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 156 • 💬 205 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -257,17 +261,17 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 ---
 
+**[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
+
+⬆️ 98 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+
+---
+
 **[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://news.ycombinator.com/item?id=46719465)**
 
 A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
 
 ⬆️ 97 • 💬 66 • 2d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
-
----
-
-**[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
-
-⬆️ 97 • 💬 43 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 
 ---
 
@@ -299,7 +303,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 14h ago
+👁️ 10K • 👍 438 • 💬 41 • ⏱️ 9:10 • 15h ago
 
 ---
 
@@ -443,7 +447,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 295 • 10h ago
+⬇️ 174,230 • ❤️ 295 • 11h ago
 
 ---
 
@@ -650,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 542 • 8h ago
+⭐ 10.1k • 🔱 542 • 9h ago
 
 ---
 
@@ -690,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.8k • 🔱 1.0k • 11h ago
+⭐ 5.8k • 🔱 1.0k • 12h ago
 
 ---
 
@@ -700,7 +704,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.1k • 🔱 5.4k • 3h ago
+⭐ 5.1k • 🔱 5.4k • 4h ago
 
 ---
 
@@ -738,7 +742,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.1k • 🔱 431 • 19h ago
+⭐ 2.1k • 🔱 431 • 20h ago
 
 ---
 
