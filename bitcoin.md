@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T11:40:00.564488+00:00'
+updated: '2026-01-24T12:43:01.687474+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 11:40 UTC  
+**Last Updated:** January 24, 2026 at 12:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,636.04
+### $89,603.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -4.4%  
-**30d:** +2.7%  
-**90d:** -21.5%  
-**1y:** -14.4%  
+**24h:** +0.2%  
+**7d:** -4.5%  
+**30d:** +2.5%  
+**90d:** -21.6%  
+**1y:** -14.5%  
 
 ---
 
@@ -77,49 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
-
-14h ago
-
----
-
 **[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
-
-2h ago
-
----
-
-**[Lol💔😔](https://www.reddit.com/r/Bitcoin/comments/1ql9n3u/lol/)**
-
-9h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
-
-4h ago
-
----
-
-**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
 3h ago
 
 ---
 
-**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
+**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
 
-23h ago
+15h ago
 
 ---
 
-**[Bitcoin Undervalued & Gold Overvalued](https://www.reddit.com/r/Bitcoin/comments/1qlii2x/bitcoin_undervalued_gold_overvalued/)**
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-what do you think guys?
-
-2h ago
+5h ago
 
 ---
 
@@ -127,15 +101,27 @@ what do you think guys?
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-1h ago
+3h ago
 
 ---
 
-**[How long do you think this boring phase will last?](https://www.reddit.com/r/Bitcoin/comments/1qlg3yc/how_long_do_you_think_this_boring_phase_will_last/)**
-
-Just wondering
+**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
 
 4h ago
+
+---
+
+**[Bitcoin’s whitepaper is now displayed on the wall of the New York Stock Exchange](https://www.reddit.com/r/Bitcoin/comments/1qkp3w5/bitcoins_whitepaper_is_now_displayed_on_the_wall/)**
+
+1d ago
+
+---
+
+**[Bitcoin Undervalued & Gold Overvalued](https://www.reddit.com/r/Bitcoin/comments/1qlii2x/bitcoin_undervalued_gold_overvalued/)**
+
+what do you think guys?
+
+3h ago
 
 ---
 
@@ -143,7 +129,21 @@ Just wondering
 
 I've frequently found myself gifting small amounts of bitcoin to friends and family, and wanted an end-all-be-all solution to it. Having them register an exchange or brokerage account for a casual gift is absurd, as is the cost and intense knowledge and preparation necessary to manage a software or hardware wallet. I wanted something that was as easy as handing them cash, a gold bar, or a gift card, so I made these cards! All existing solutions for a bearer-like instrument I found lacking in some way. I wanted it to be: Fireproof Not prone to flash-memory failure Tamper Evident Show it's denomination Show a verifiable address & QR code Explicitly state it contains bitcoin and is analogous to cash / gold bar, so it's not mistaken as a novelty product, and provides an analogy and some information for those unfamiliar with bitcoin Store a recovery phrase, not a private key (extremely easy electrum import and no risk of losing change funds while sweeping) I had a lot of fun with this! I went with braille because it encodes text with the least amount of engraving and I didn't feel like investing in a proper CNC for such a small initial batch lol. I would love one day for there to be a physical bitcoin market as large as physical gold and silver, and buying them as seamless as buying a 1oz gold bar on JM Bullion. I want to enable bitcoin believers to onboard their friends and family, including those not experienced with technology, with as little effort as possible. Handing someone a bar and saying "hey, you own bitcoin!" is so cool, and undoubtedly gets them thinking about it's potential as a store of value.
 
-2h ago
+3h ago
+
+---
+
+**[How long do you think this boring phase will last?](https://www.reddit.com/r/Bitcoin/comments/1qlg3yc/how_long_do_you_think_this_boring_phase_will_last/)**
+
+Just wondering
+
+5h ago
+
+---
+
+**[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
+
+4h ago
 
 ---
 
@@ -159,6 +159,14 @@ ProPublica • 1d ago
 
 ---
 
+**[Bitcoin price news: BTC slump continues as precious metals soar to new highs](https://www.coindesk.com/markets/2026/01/23/bitcoin-slips-back-to-usd88-500-as-silver-tops-usd100-for-first-time-ever-and-gold-eyes-usd5-000)**
+
+Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
+
+CoinDesk • 21h ago
+
+---
+
 **[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
 
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
@@ -167,33 +175,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC rises above $91,000 as yen surges against U.S. dollar](https://www.coindesk.com/markets/2026/01/23/bitcoin-surges-to-usd91-000-showing-signs-of-life-on-suspected-bank-of-japan-intervention)**
+**[Las Vegas Businesses Ditch Credit Card Fees for Bitcoin Payments](https://finance.yahoo.com/news/las-vegas-businesses-ditch-credit-111139665.html)**
 
-Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.
+Las Vegas Valley businesses, from restaurant chains to small juice bars, are embracing Bitcoin payments as mainstream adoption accelerates, with companies avoiding credit card processing fees averaging 2.5% to 3.5% while tapping into a growing customer base actively seeking crypto-friendly merchants. The shift follows Square’s November 2025 decision to enable ...
 
-CoinDesk • 17h ago
-
----
-
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
-
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 21h ago
-
----
-
-**[Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies](https://www.reuters.com/business/bitwise-proficio-capital-partners-etf-targets-gold-metals-bitcoin-alternative-2026-01-23/)**
-
-Reuters • 1d ago
-
----
-
-**[Why Is Crypto Crashing? Record $700M Exits Bitcoin ETFs in Single Day as Wall Street De-Risks Ahead of Trade War](https://finance.yahoo.com/news/why-crypto-crashing-record-700m-083720128.html)**
-
-More than $700M flowed out of US spot Bitcoin ETFs in a single day this week, marking the sharpest pullback in two months. Let’s dive into why is crypto crashing? According to Bloomberg’s latest report on January 21, investors pulled roughly $709M from spot Bitcoin ETFs listed in the US. ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +187,29 @@ Yahoo Finance • 3h ago
 
 The cryptocurrency market can be volatile, but recent value declines could offer a buying opportunity.
 
-The Motley Fool • 10m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
+
+Bitcoin Magazine • 22h ago
+
+---
+
+**[Why Is Crypto Crashing? Record $700M Exits Bitcoin ETFs in Single Day as Wall Street De-Risks Ahead of Trade War](https://finance.yahoo.com/news/why-crypto-crashing-record-700m-083720128.html)**
+
+More than $700M flowed out of US spot Bitcoin ETFs in a single day this week, marking the sharpest pullback in two months. Let’s dive into why is crypto crashing? According to Bloomberg’s latest report on January 21, investors pulled roughly $709M from spot Bitcoin ETFs listed in the US. ...
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -209,15 +217,7 @@ The Motley Fool • 10m ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 18h ago
-
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 2d ago
+Forbes • 20h ago
 
 ---
 
@@ -314,7 +314,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 1 • 💬 0 • 8h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 1 • 💬 0 • 9h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -328,7 +328,7 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 24K • 👍 411 • 💬 196 • ⏱️ 2:12 • 21h ago
+👁️ 24K • 👍 411 • 💬 196 • ⏱️ 2:12 • 22h ago
 
 ---
 
@@ -338,7 +338,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 14h ago
+👁️ 41K • 👍 2K • 💬 207 • ⏱️ 8:40 • 15h ago
 
 ---
 
@@ -358,7 +358,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 39K • 👍 1K • 💬 125 • ⏱️ 12:29 • 21h ago
+👁️ 39K • 👍 1K • 💬 125 • ⏱️ 12:29 • 22h ago
 
 ---
 
@@ -368,7 +368,7 @@ Calls for the end of the 4 year cycle and a supercycle begin again by 2 billiona
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 448 • 💬 59 • ⏱️ 1:04:53 • 16h ago
+👁️ 9K • 👍 448 • 💬 59 • ⏱️ 1:04:53 • 17h ago
 
 ---
 
@@ -378,7 +378,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 19h ago
+👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 21h ago
 
 ---
 
@@ -398,7 +398,7 @@ Davos 2026 just said the quiet part out loud. Globalists, bankers, and central p
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 110 • ⏱️ 15:16 • 12h ago
+👁️ 16K • 👍 1K • 💬 110 • ⏱️ 15:16 • 13h ago
 
 ---
 
