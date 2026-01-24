@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-24T20:23:32.503146+00:00'
+updated: '2026-01-24T20:43:37.399125+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 24, 2026 at 20:23 UTC  
+**Last Updated:** January 24, 2026 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 36m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 57m ago
 
 ---
 
@@ -55,7 +55,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 **[The AI Delusion Epidemic](https://www.reddit.com/r/artificial/comments/1qlusy9/the_ai_delusion_epidemic/)**
 
-🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 1h ago
+🔗 [medium.com](https://medium.com/ai-advances/the-ai-delusion-epidemic-a851e0a4d842?sk=c629df4365a925426dcc5ab851861da2) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 9h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ In Season 1 (2024), journalist Evan Ratliff explored the potential for LLM power
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ WIRED • 1d ago
 
 There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
 
-TechCrunch • 22m ago
+TechCrunch • 42m ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 5h ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNN • 3h ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -283,13 +283,13 @@ Helping you make informed decisions about your health by combining the latest re
 
 ## YouTube Videos: "ai"
 
-**[I Asked AI if Trump Made the Economy BETTER or WORSE](https://www.youtube.com/watch?v=2QaEhmJMYbo)**
+**[From Zero to Your First AI Voice Agent in 18 Minutes (No Coding)](https://www.youtube.com/watch?v=oB7gia1kC_g)**
 
-Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and code 'IAskAI' to get 20% off a Pro plan.
+Grab the voice agent prompt tool & all my AI builder resources on Skool: https://bit.ly/49Ic0Pr Become a Wildly Profitable AI ...
 
-📺 I Ask AI
+📺 Liam Ottley
 
-👁️ 21K • 👍 1K • 💬 202 • ⏱️ 15:27 • 21h ago
+👁️ 8K • 👍 582 • 💬 41 • ⏱️ 18:00 • 11h ago
 
 ---
 
@@ -299,27 +299,17 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 7K • 👍 97 • 💬 56 • ⏱️ 16:31 • 2d ago
+👁️ 8K • 👍 100 • 💬 56 • ⏱️ 16:31 • 2d ago
 
 ---
 
-**[From Zero to Your First AI Voice Agent in 18 Minutes (No Coding)](https://www.youtube.com/watch?v=oB7gia1kC_g)**
+**[I Asked AI if Trump Made the Economy BETTER or WORSE](https://www.youtube.com/watch?v=2QaEhmJMYbo)**
 
-Grab the voice agent prompt tool & all my AI builder resources on Skool: https://bit.ly/49Ic0Pr Become a Wildly Profitable AI ...
+Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and code 'IAskAI' to get 20% off a Pro plan.
 
-📺 Liam Ottley
+📺 I Ask AI
 
-👁️ 7K • 👍 522 • 💬 35 • ⏱️ 18:00 • 11h ago
-
----
-
-**[I Remade a $1M iPhone Ad With AI and $9](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
-
-Can I do it in one day with only $10? Try ElevenLabs today: ...
-
-📺 AI Samson
-
-👁️ 1K • 👍 116 • 💬 18 • ⏱️ 14:50 • 5h ago
+👁️ 22K • 👍 1K • 💬 205 • ⏱️ 15:27 • 21h ago
 
 ---
 
@@ -329,17 +319,7 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 402K • 👍 20K • 💬 5K • ⏱️ 10:08 • 1d ago
-
----
-
-**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
-
-Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
-
-📺 Financial Times
-
-👁️ 12K • 👍 439 • 💬 85 • ⏱️ 20:22 • 11h ago
+👁️ 409K • 👍 20K • 💬 5K • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -349,27 +329,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 124 • ⏱️ 12:48 • 1d ago
-
----
-
-**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
-
-Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
-
-📺 CBS News
-
-👁️ 75K • 👍 834 • 💬 465 • ⏱️ 6:52 • 2d ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 33K • 👍 2K • 💬 240 • ⏱️ 28:01 • 17h ago
+👁️ 56K • 👍 1K • 💬 126 • ⏱️ 12:48 • 1d ago
 
 ---
 
@@ -379,7 +339,47 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 12K • 👍 499 • 💬 41 • ⏱️ 9:10 • 20h ago
+👁️ 13K • 👍 517 • 💬 45 • ⏱️ 9:10 • 20h ago
+
+---
+
+**[Anthropic CEO says AI &quot;6 to 12 months&quot; away from doing software engineers&#39; jobs](https://www.youtube.com/watch?v=J2w9-4sa1_c)**
+
+Tech leaders have taken the stage this week at the World Economic Forum in Davos, Switzerland, to discuss how AI will impact ...
+
+📺 CBS News
+
+👁️ 75K • 👍 842 • 💬 469 • ⏱️ 6:52 • 2d ago
+
+---
+
+**[Google DeepMind CEO on state of the AI race, push towards AGI and AI impact on jobs](https://www.youtube.com/watch?v=uVPdYqiULTo)**
+
+Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss the evolution of Gemini in the AI tech race, ...
+
+📺 CNBC Television
+
+👁️ 24K • 👍 267 • 💬 78 • ⏱️ 5:34 • 1d ago
+
+---
+
+**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
+
+Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
+
+📺 Financial Times
+
+👁️ 16K • 👍 496 • 💬 114 • ⏱️ 20:22 • 11h ago
+
+---
+
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+
+📺 Matt Wolfe
+
+👁️ 36K • 👍 2K • 💬 265 • ⏱️ 28:01 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,103 • 4d ago
+⬇️ 279,658 • ❤️ 1,107 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 801 • 1d ago
+⬇️ 22,852 • ❤️ 808 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 410 • 3d ago
+⬇️ 6,967 • ❤️ 418 • 3d ago
 
 ---
 
@@ -431,7 +431,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 329 • 1d ago
+⬇️ 20,374 • ❤️ 334 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 300 • 16h ago
+⬇️ 174,230 • ❤️ 303 • 16h ago
 
 ---
 
@@ -455,7 +455,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 67,913 • ❤️ 523 • 9d ago
+⬇️ 67,913 • ❤️ 524 • 9d ago
 
 ---
 
@@ -467,7 +467,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 584 • ❤️ 229 • 4d ago
+⬇️ 584 • ❤️ 232 • 4d ago
 
 ---
 
@@ -479,17 +479,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 218 • 3d ago
-
----
-
-**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
-
-*Kyutai*
-
-Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
-
-⬇️ 42,118 • ❤️ 458 • 5d ago
+⬇️ 11,299 • ❤️ 223 • 3d ago
 
 ---
 
@@ -501,7 +491,17 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 42,008 • ❤️ 299 • 1d ago
+⬇️ 42,008 • ❤️ 302 • 1d ago
+
+---
+
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
+
+*Kyutai*
+
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
+
+⬇️ 42,118 • ❤️ 459 • 5d ago
 
 ---
 
@@ -523,6 +523,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
+
+*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
+
+UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
+
+▲ 0 • 💬 0 • ⭐ 3,402 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -534,18 +546,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 143 • 💬 6 • ⭐ 21,490 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
-
-*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
-
-UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
-
-▲ 0 • 💬 0 • ⭐ 3,216 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -567,7 +567,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 126 • 💬 6 • ⭐ 11,627 • 5mo ago
+▲ 126 • 💬 6 • ⭐ 11,659 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -628,15 +628,29 @@ Agentic reasoning redefines large language models as autonomous agents capable o
 
 ---
 
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
 
-*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+*Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
 
-MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+Audio Language Models (ALM) have emerged as the dominant paradigm for speech
+and music generation by representing audio as sequences of discrete tokens.
+Yet, unlike text tokens, which are invertible, audio tokens are extracted from
+lossy codecs with a limited bitrate. As a consequence, increasing audio quality
+requires generating more tokens, which imposes a trade-off between fidelity and
+computational cost. We address this issue by studying Continuous Audio Language
+Models (CALM). These models instantiate a large Transformer backbone that
+produces a contextual embedding at every timestep. This sequential information
+then conditions an MLP that generates the next continuous frame of an audio VAE
+through consistency modeling. By avoiding lossy compression, CALM achieves
+higher quality at lower computational cost than their discrete counterpart.
+Experiments on speech and music demonstrate improved efficiency and fidelity
+over state-of-the-art discrete audio language models, facilitating lightweight,
+high-quality audio generation. Samples are available at
+https://continuous-audio-language-models.github.io
 
-▲ 159 • 💬 3 • ⭐ 4,616 • 6mo ago
+▲ 2 • 💬 0 • ⭐ 2,386 • 4mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+[🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
@@ -650,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 547 • 14h ago
+⭐ 10.2k • 🔱 549 • 14h ago
 
 ---
 
@@ -660,7 +674,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 15h ago
+⭐ 9.7k • 🔱 1.3k • 16h ago
 
 ---
 
@@ -670,7 +684,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 455 • 3d ago
+⭐ 8.9k • 🔱 456 • 3d ago
 
 ---
 
@@ -680,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 888 • 1d ago
+⭐ 7.4k • 🔱 889 • 1d ago
 
 ---
 
@@ -710,7 +724,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.3k • 🔱 464 • 2d ago
+⭐ 4.4k • 🔱 466 • 2d ago
 
 ---
 
@@ -718,7 +732,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.8k • 🔱 226 • 1d ago
+⭐ 2.8k • 🔱 228 • 1d ago
 
 ---
 
@@ -728,7 +742,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 336 • 1d ago
+⭐ 2.4k • 🔱 337 • 1d ago
 
 ---
 
@@ -738,7 +752,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.2k • 🔱 448 • 1d ago
+⭐ 2.3k • 🔱 467 • 35m ago
 
 ---
 

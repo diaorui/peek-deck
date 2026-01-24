@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T20:23:32.517558+00:00'
+updated: '2026-01-24T20:43:37.413526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 20:23 UTC  
+**Last Updated:** January 24, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.03B
+**Market Cap:** $356.31B
 Rank #2
 
 **Circulating Supply:** 120,694,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.3%
 
 **All-Time Low:** $0.43
-+683570.6%
++681699.8%
 
 ---
 
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 18h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ AMBCrypto • 2d ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 2d ago
 
 Ethereum Classic has come nowhere close to replicating the performance of Ethereum over the past decade.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -230,13 +230,13 @@ Finance Magnates • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Discover Crypto, Bitcoin &amp; Altcoin News](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
+**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
 
 📺 Discover Crypto
 
-👁️ 909 • 👍 127 • 💬 28 • ⏱️ 7:22 • 3h ago
+👁️ 2K • 👍 205 • 💬 95 • ⏱️ 7:22 • 4h ago
 
 ---
 
@@ -246,17 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 412 • 👍 44 • 💬 8 • ⏱️ 4:34 • 3h ago
-
----
-
-**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
-
-CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
-
-📺 CryptoWendyO
-
-👁️ 942 • 👍 240 • 💬 5 • ⏱️ 12:01 • 2h ago
+👁️ 721 • 👍 54 • 💬 9 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -266,7 +256,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 2K • 💬 209 • ⏱️ 19:54 • 2d ago
+👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -276,7 +266,37 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 32K • 👍 1K • 💬 129 • ⏱️ 17:24 • 2d ago
+👁️ 33K • 👍 1K • 💬 132 • ⏱️ 17:24 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UkjnJ0n2b70)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Winifred Kal
+
+👁️ 10K • 👍 446 • 6h ago
+
+---
+
+**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
+
+CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 708 • 💬 17 • ⏱️ 12:01 • 2h ago
+
+---
+
+**[Tom Lee Just Left ETH Holders Speechless With His Latest Prediction](https://www.youtube.com/watch?v=Or8Fi_l_zzo)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 71 • 💬 6 • ⏱️ 18:28 • 2d ago
 
 ---
 
@@ -286,47 +306,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 180 • 💬 48 • ⏱️ 8:10 • 1d ago
+👁️ 5K • 👍 181 • 💬 48 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[CRYPTO SUPERCYCLE COMING SAYS CZ BINANCE! UBS BANK BITCOIN &amp; ETHEREUM TRADING!](https://www.youtube.com/watch?v=YO0d6iiRN7k)**
+**[Open Short Confirmed for Bitcoin &amp; Ethereum 💀](https://www.youtube.com/watch?v=7Ts5NoR5CuQ)**
 
-Crypto News: Binance Founder CZ predicts Bitcoin will enter a supercycle this year. UBS weighing crypto trading for private ...
+Bitcoin failed to close above previously lost support again, and also printed a TBO Open Short yesterday. ETH did the same as ...
 
-📺 Thinking Crypto
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 515 • 💬 74 • ⏱️ 15:01 • 16h ago
-
----
-
-**[These Are The Only Ethereum Signals That Matter](https://www.youtube.com/watch?v=kqibgn4fbY0)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members Get 25% Off Their First Month: ...
-
-📺 Trade Confident
-
-👁️ 522 • 👍 12 • 💬 1 • ⏱️ 6:07 • 1d ago
+👁️ 7K • 👍 449 • 💬 64 • ⏱️ 41:58 • 17h ago
 
 ---
 
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
+**[Is Ethereum Finally Taking Over Wall Street?](https://www.youtube.com/watch?v=enLtQoQ7_F8)**
 
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
+More and more people think Ethereum is quietly becoming Wall Street's blockchain of choice. It's not just Tom Lee, who now runs ...
 
-📺 World Liberty Financial
+📺 Coinage
 
-👁️ 6K • 👍 22 • 💬 4 • ⏱️ 1:36 • 1d ago
-
----
-
-**[Why MrBeast Is Going All In On Ethereum (DEAL CONFIRMED)](https://www.youtube.com/watch?v=JiehaUiM2Fw)**
-
-Nick Valdez breaks down the biggest deal in crypto that we may have EVER seen! MRBEAST is going all in on ETH! What is ...
-
-📺 Discover Crypto
-
-👁️ 11K • 👍 392 • 💬 90 • ⏱️ 8:24 • 2d ago
+👁️ 4K • 👍 140 • 💬 42 • ⏱️ 24:38 • 1d ago
 
 ---
 

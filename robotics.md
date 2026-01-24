@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-24T20:23:32.520769+00:00'
+updated: '2026-01-24T20:43:37.416706+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 24, 2026 at 20:23 UTC  
+**Last Updated:** January 24, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 https://marvelmind.com/3d_vertical_map/
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’m exploring VLA models, training my LeRobot SO-101 arms to do some simple, f
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-3m ago
+23m ago
 
 ---
 
@@ -152,7 +152,7 @@ AgFunderNews • 2d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 2h ago
+USA Today • 3h ago
 
 ---
 
@@ -198,27 +198,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 43K • 👍 1K • 💬 103 • ⏱️ 17:39 • 20h ago
-
----
-
-**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
-
-Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
-
-📺 Yahoo Finance
-
-👁️ 3K • 👍 72 • 💬 30 • ⏱️ 6:39 • 15h ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 8K • 👍 74 • 💬 56 • ⏱️ 2:47 • 2d ago
+👁️ 47K • 👍 2K • 💬 106 • ⏱️ 17:39 • 21h ago
 
 ---
 
@@ -228,17 +208,7 @@ XPENG Robotics just changed the game — their new ET1 AI humanoid robot has off
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 118 • 💬 17 • ⏱️ 18:41 • 20h ago
-
----
-
-**[These robots can help ‘tend to patients’ with nursing shortage, says Serve Robotics CEO](https://www.youtube.com/watch?v=weGhIXOyBj8)**
-
-Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help ...
-
-📺 Fox Business
-
-👁️ 3K • 👍 99 • 💬 37 • ⏱️ 5:44 • 9h ago
+👁️ 3K • 👍 120 • 💬 17 • ⏱️ 18:41 • 21h ago
 
 ---
 
@@ -248,7 +218,17 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 238 • 💬 21 • ⏱️ 19:35 • 5d ago
+👁️ 8K • 👍 239 • 💬 21 • ⏱️ 19:35 • 5d ago
+
+---
+
+**[These robots can help ‘tend to patients’ with nursing shortage, says Serve Robotics CEO](https://www.youtube.com/watch?v=weGhIXOyBj8)**
+
+Serve Robotics CEO Ali Kashani discusses the acquisition of the company and the deployment of Moxi robots in hospitals to help ...
+
+📺 Fox Business
+
+👁️ 4K • 👍 112 • 💬 42 • ⏱️ 5:44 • 9h ago
 
 ---
 
@@ -258,25 +238,17 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 46K • 👍 1K • 💬 244 • ⏱️ 0:49 • 1d ago
+👁️ 46K • 👍 1K • 💬 243 • ⏱️ 0:49 • 1d ago
 
 ---
 
-**[NEW Anaksor Spider Robot Is Here... Flying &#39;Sirocco Field&#39; Ability | War Robots](https://www.youtube.com/watch?v=LTNzcyX7BT8)**
+**[0% survival: Russian soldiers vs Ukrainian robots](https://www.youtube.com/watch?v=_BQ1xQ-o__M)**
 
-New Anaksor robot has just arrived! This is a flying spider robot and it's ability is pretty unique. 1 heavy, 2 medium weapons ...
+Our interactive news map: https://www.rfunews.com/map Subscribe to unlock full access to the map + exclusive strategic ...
 
-📺 PREDATOR WR
+📺 RFU News — Strategic Geopolitics
 
-👁️ 5K • 👍 290 • 💬 62 • ⏱️ 14:48 • 8h ago
-
----
-
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 24K • 👍 2K • 💬 111 • ⏱️ 1:13 • 2d ago
+👁️ 137K • 👍 14K • 💬 510 • ⏱️ 5:29 • 2d ago
 
 ---
 
@@ -286,7 +258,37 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 567 • 💬 171 • ⏱️ 15:13 • 9h ago
+👁️ 11K • 👍 636 • 💬 183 • ⏱️ 15:13 • 10h ago
+
+---
+
+**[NEW Anaksor Spider Robot Is Here... Flying &#39;Sirocco Field&#39; Ability | War Robots](https://www.youtube.com/watch?v=LTNzcyX7BT8)**
+
+New Anaksor robot has just arrived! This is a flying spider robot and it's ability is pretty unique. 1 heavy, 2 medium weapons ...
+
+📺 PREDATOR WR
+
+👁️ 6K • 👍 328 • 💬 70 • ⏱️ 14:48 • 9h ago
+
+---
+
+**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+
+Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+
+📺 Fox Business Clips
+
+👁️ 19K • 👍 277 • 💬 114 • ⏱️ 3:39 • 1d ago
+
+---
+
+**[[WR] Ultimate DEVASTATOR Bagliore 1,755,600 Damage Per Shot | War Robots Gameplay](https://www.youtube.com/watch?v=FUYI2eHe4TU)**
+
+Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item in the War Robots Web Shop using the ...
+
+📺 サハ SAHA
+
+👁️ 4K • 👍 181 • 💬 22 • ⏱️ 12:25 • 7h ago
 
 ---
 
