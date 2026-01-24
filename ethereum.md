@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T14:20:52.301221+00:00'
+updated: '2026-01-24T14:43:50.061021+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 14:20 UTC  
+**Last Updated:** January 24, 2026 at 14:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 12h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ CCN.com • 1d ago
 
 Nasdaq has asked that the United States Securities and Exchange Commission (SEC) lift the restrictions on several Bitcoin BTC $89 074 24h volatility: 0.7% Market cap: $1.78 T Vol. 24h: $52.11 B and Ethereum ETH $2 939 24h volatility: 1.4% Market cap: $355.04 B Vol. 24h: $32.03 B ETFs. Precisely, ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 453 • 👍 12 • 💬 1 • ⏱️ 6:07 • 18h ago
+👁️ 453 • 👍 12 • 💬 1 • ⏱️ 6:07 • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ More and more people think Ethereum is quietly becoming Wall Street's blockchain
 
 📺 Coinage
 
-👁️ 3K • 👍 99 • 💬 31 • ⏱️ 24:38 • 21h ago
+👁️ 3K • 👍 99 • 💬 31 • ⏱️ 24:38 • 22h ago
 
 ---
 

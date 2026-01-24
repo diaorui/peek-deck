@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T14:20:52.294318+00:00'
+updated: '2026-01-24T14:43:50.055697+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 14:20 UTC  
+**Last Updated:** January 24, 2026 at 14:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ what do you think guys?
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ what do you think guys?
 
 Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've frequently found myself gifting small amounts of bitcoin to friends and fam
 
 **[Liquidated a bunch of individual stocks and got my average cost below 100k](https://www.reddit.com/r/Bitcoin/comments/1qlhpgr/liquidated_a_bunch_of_individual_stocks_and_got/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 2h ago
 
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ wtop.com • 2d ago
 
 Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -340,7 +340,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 224 • ⏱️ 8:40 • 16h ago
+👁️ 44K • 👍 2K • 💬 224 • ⏱️ 8:40 • 17h ago
 
 ---
 
@@ -370,7 +370,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 22h ago
+👁️ 24K • 👍 1K • 💬 166 • ⏱️ 32:17 • 23h ago
 
 ---
 
@@ -410,7 +410,7 @@ ETF outflows, geopolitical tension, and macro confusion are shaking the market�
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 288 • 💬 213 • ⏱️ 9:52 • 13h ago
+👁️ 4K • 👍 288 • 💬 213 • ⏱️ 9:52 • 14h ago
 
 ---
 
