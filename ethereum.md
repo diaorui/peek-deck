@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T22:45:37.786813+00:00'
+updated: '2026-01-25T23:21:36.661805+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 22:45 UTC  
+**Last Updated:** January 25, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $337.22B
+**Market Cap:** $337.70B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.5%
+-43.4%
 
 **All-Time Low:** $0.43
-+645416.3%
++646896.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-9h ago
+10h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 4h ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 7h ago
 
 For most of the week, the Ethereum price has remained in a range-bound spell, putting in no significant movement outside of the $3,000 and $2,880 price boundaries. Amid rising speculations, an on-chain analysis has recently been put out, which provides an answer to the question. Open Interest Acros…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -234,13 +234,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN: You Need to See This Chart! (massive) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=i6s40KUqU8g)**
+**[BITCOIN &amp; ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=qGnI8xHGp5Q)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 BitcoinHyper
+📺 Crypto World
 
-👁️ 2K • 👍 270 • 5h ago
+👁️ 1K • 👍 103 • 💬 14 • ⏱️ 24:21 • 50m ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 8h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 3:57 • 8h ago
 
 ---
 
@@ -260,17 +260,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 5h ago
-
----
-
-**[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 29:47 • 1d ago
+👁️ 4K • 👍 245 • 💬 12 • ⏱️ 18:21 • 6h ago
 
 ---
 
@@ -280,7 +270,17 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 373 • 💬 98 • ⏱️ 7:22 • 1d ago
+👁️ 7K • 👍 379 • 💬 98 • ⏱️ 7:22 • 1d ago
+
+---
+
+**[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 20K • 👍 1K • 💬 171 • ⏱️ 29:47 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 9h ago
+👁️ 359 • 👍 18 • 💬 8 • ⏱️ 21:54 • 9h ago
 
 ---
 
@@ -300,17 +300,27 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 1d ago
+👁️ 48K • 👍 2K • 💬 261 • ⏱️ 11:14 • 1d ago
 
 ---
 
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
+**[ETHEREUM (ETH) SOLANA (SOL) SUI | Price Prediction: Direct &amp; Massive Sell-Off Ahead !](https://www.youtube.com/watch?v=9KJtbWi9Ddo)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING Join our Safe and Private Discord ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 5K • 👍 189 • 💬 60 • ⏱️ 8:10 • 2d ago
+👁️ 187 • 👍 15 • 💬 5 • ⏱️ 20:04 • 7h ago
+
+---
+
+**[🔴LIVE CRYPTO  TRADING / Bitcoin ,Gold and Eth #cryptotrading #live#gold #livetrading @Tradewithrakhi](https://www.youtube.com/watch?v=zaLpFURWpL8)**
+
+LIVE CRYPTO TRADING / Bitcoin ,Gold and ETH #livetrading #live #gold #cryptotrading @Tradewithrakhi Telegram link ...
+
+📺 Trade With Rakhi
+
+👁️ 2K • 👍 201 • 1h ago
 
 ---
 
@@ -320,17 +330,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 7K • 👍 24 • 💬 4 • ⏱️ 1:36 • 2d ago
-
----
-
-**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
-
-CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
-
-📺 CryptoWendyO
-
-👁️ 15K • 👍 1K • 💬 144 • ⏱️ 12:01 • 1d ago
+👁️ 7K • 👍 28 • 💬 4 • ⏱️ 1:36 • 2d ago
 
 ---
 

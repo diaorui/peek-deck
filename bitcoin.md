@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T22:45:37.776104+00:00'
+updated: '2026-01-25T23:21:36.655837+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 22:45 UTC  
+**Last Updated:** January 25, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1722.97B
+**Market Cap:** $1723.56B
 Rank #1
 
-**Circulating Supply:** 19,980,487 BTC
+**Circulating Supply:** 19,980,543 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.5%
 
 **All-Time Low:** $67.81
-+127055.3%
++127233.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I’ve been in the btc space since 2015. I’ve been a hardcore believer and a net accumulator through every cycle since. I’ve held through 80% drawdowns without flinching because the long term thesis always felt inevitable. But recently, I find myself doubting the future of this space more than ever. It is wild to hear myself say that, considering how entrenched I am, but this time feels different. It feels like we finally "made it"; we got the ETFs, we hit the numbers; but the victory feels . . . meh. The bridge to mass just isn't there. Here is a breakdown of my skepticism: Usability is still a nightmare: self-custody is still terrifying for 99% of the population. The learning curve is too steep. The gap between L1/L2 is a UX mess; managing channels and inbound liquidity is complex. If the answer for the masses is "just use a custodial ETF," then we have just recreated the banking system we tried to escape. The "OGs" sold: The demographics of the market have severely changed. It feels like the early believers distributed their coins to institutions, shifting the ethos from "separation of money and state" to "integration with the state." Institutional adoption feels stagnant beyond just holding "paper Bitcoin" for speculation. Privacy is effectively non existent: With the rise of chain analysis and compliance tools, the ledger has become the ultimate surveillance tool. True privacy is being actively criminalized, and non-KYC coins are becoming nearly impossible to offload. The 100k psychological eiling: Reaching 100k felt like the end of a movie rather than the start of a sequel. With the law of large numbers kicking in, the asymmetry of the bet is gone. Toxic culture & politicization: The community used to be about builders. Now, it feels politicized and dominated by "number go up" influencers. Intellectual honesty is often attacked as FUD. Quantum: not just a theory. Are we going to come to a reasonable solution? I understand that sentiment is down, but this feels structural, not just cyclical. It feels like we were "correct" after all these years, but the ability to move "over the hump" into actual global currency usage/store of value just isn't going to happen. Do you feel the "magic" is gone, or is this just what maturity looks like? Am I overlooking a catalyst that brings the excitement back?
 
-2h ago
+3h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,19 +99,19 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-32m ago
+1h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-13h ago
+14h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 Source: Blossom Social and X
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Source: Blossom Social and X
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 It’s never too late to get btc!
 
-2h ago
+3h ago
 
 ---
 
@@ -302,47 +302,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 11h ago
-
----
-
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 64K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 321 • ⏱️ 8:40 • 2d ago
-
----
-
-**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
-
-How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
-
-📺 Brad Long
-
-👁️ 34K • 👍 2K • 💬 380 • ⏱️ 14:05 • 2d ago
-
----
-
-**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
-
-Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
-
-📺 Fox Business Clips
-
-👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 21h ago
+👁️ 16K • 👍 872 • 💬 152 • ⏱️ 13:23 • 12h ago
 
 ---
 
@@ -352,17 +312,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 3h ago
-
----
-
-**[THE $10,000 BITCOIN WARNING](https://www.youtube.com/watch?v=HvAeod3taJ0)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 8h ago
+👁️ 10K • 👍 323 • 💬 111 • ⏱️ 4:20 • 3h ago
 
 ---
 
@@ -372,7 +322,17 @@ Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin i
 
 📺 Crypto Love
 
-👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 5h ago
+👁️ 3K • 👍 361 • 💬 60 • ⏱️ 8:25 • 6h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 3K • 💬 323 • ⏱️ 8:40 • 2d ago
 
 ---
 
@@ -382,17 +342,57 @@ Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 6h ago
+👁️ 16K • 👍 754 • 💬 121 • ⏱️ 12:50 • 7h ago
 
 ---
 
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
+**[Bitcoin Price Analysis: $BTC Must Hold $86,000 Support Level](https://www.youtube.com/watch?v=_nwdaJ3JY7M)**
 
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
+In this video, we cover technical analysis on Bitcoin (BTC). including key levels, trade setups, and potential price targets for the ...
 
-📺 CNBC Television
+📺 Wicked Stocks
 
-👁️ 40K • 👍 555 • 💬 248 • ⏱️ 2:12 • 2d ago
+👁️ 110 • 👍 9 • ⏱️ 4:02 • 34m ago
+
+---
+
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 67K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+
+---
+
+**[Urgent Update: Bitcoin Dropping Hard !!🚨](https://www.youtube.com/watch?v=eF1Glv7xvLA)**
+
+Best Day Trading Exchange: WEEX: https://www.weex.com/register?vipCode=champs Referral Code: champs Deposit ...
+
+📺 Champs Crypto
+
+👁️ 884 • 👍 57 • 💬 4 • ⏱️ 6:10 • 4h ago
+
+---
+
+**[THE $10,000 BITCOIN WARNING](https://www.youtube.com/watch?v=HvAeod3taJ0)**
+
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+
+📺 The Cryptoviser
+
+👁️ 884 • 👍 78 • 💬 8 • ⏱️ 33:05 • 9h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=_YrGMKjHdys)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 Kolkata Literary Meet
+
+👁️ 6K • 👍 1K • 2h ago
 
 ---
 

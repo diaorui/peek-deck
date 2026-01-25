@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T22:45:37.792521+00:00'
+updated: '2026-01-25T23:21:36.664986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 22:45 UTC  
+**Last Updated:** January 25, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-5h ago
+6h ago
 
 ---
 
@@ -80,13 +80,13 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-7h ago
+8h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -120,7 +120,7 @@ fox11online.com • 1d ago
 
 SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
 
-channel3000.com • 23h ago
+channel3000.com • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Fox Business • 3d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 91 • 💬 40 • ⏱️ 6:39 • 1d ago
+👁️ 6K • 👍 96 • 💬 41 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -208,17 +208,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 78K • 👍 2K • 💬 134 • ⏱️ 17:39 • 1d ago
-
----
-
-**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
-
-To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
-
-📺 PRO ROBOTS
-
-👁️ 7K • 👍 234 • 💬 22 • ⏱️ 14:08 • 4d ago
+👁️ 83K • 👍 2K • 💬 138 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -226,47 +216,27 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 Bernie Sanders
 
-👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
+👁️ 26K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
 
 ---
 
-**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+**[This $12 Robotics Stock is Growing Like Crazy](https://www.youtube.com/watch?v=1FyUs0Ub1TY)**
 
-Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+This drone company is a robotics stock seeing a ton of momentum right now. Text 'YouTube' to 68285 for FREE SMS breaking ...
 
-📺 The AI Nexus
+📺 MarketBeat
 
-👁️ 8K • 👍 242 • 💬 21 • ⏱️ 19:35 • 6d ago
-
----
-
-**[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
-
-Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
-
-📺 Geekazine
-
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 23h ago
+👁️ 4K • 👍 102 • ⏱️ 0:50 • 8h ago
 
 ---
 
-**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
 
-War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
 
-📺 Manni-Gaming
+📺 CNBC Television
 
-👁️ 8K • 👍 512 • 💬 163 • ⏱️ 21:00 • 11h ago
-
----
-
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
-
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
-
-📺 Fox News
-
-👁️ 48K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
+👁️ 9K • 👍 78 • 💬 70 • ⏱️ 2:47 • 3d ago
 
 ---
 
@@ -276,17 +246,47 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 21K • 👍 214 • ⏱️ 7:30 • 5d ago
+👁️ 22K • 👍 218 • ⏱️ 7:30 • 6d ago
 
 ---
 
-**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
+**[This Parking Robot Can Lift &amp; Move Your Car #parkingrobot #robotics #technology #facts](https://www.youtube.com/watch?v=58cNMUgBBj4)**
 
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
+A low-profile autonomous parking/valet robot slides under a car's wheels, locks in, lifts the vehicle, and relocates it with precision ...
 
-📺 UBTECH Robotics
+📺 Amazing Facts Info
 
-👁️ 12K • 👍 191 • 💬 41 • ⏱️ 1:56 • 5d ago
+👁️ 2K • 👍 34 • 💬 1 • ⏱️ 1:01 • 12h ago
+
+---
+
+**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
+
+To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
+
+📺 PRO ROBOTS
+
+👁️ 8K • 👍 235 • 💬 22 • ⏱️ 14:08 • 4d ago
+
+---
+
+**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
+
+War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 565 • 💬 170 • ⏱️ 21:00 • 12h ago
+
+---
+
+**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+
+Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+
+📺 Fox News
+
+👁️ 48K • 👍 1K • 💬 244 • ⏱️ 0:49 • 2d ago
 
 ---
 

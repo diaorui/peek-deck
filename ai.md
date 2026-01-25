@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T22:45:37.761301+00:00'
+updated: '2026-01-25T23:21:36.647440+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 22:45 UTC  
+**Last Updated:** January 25, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 14h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-6m ago
+42m ago
 
 ---
 
@@ -89,7 +89,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg • 9h ago
+Bloomberg • 10h ago
 
 ---
 
@@ -131,13 +131,13 @@ Bloomberg • 9h ago
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
 **[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 8h ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -153,13 +153,13 @@ CNBC • 9h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
 **[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
-Bloomberg • 8h ago
+Bloomberg • 9h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 10h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 565 • 💬 559 • 22h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 565 • 💬 559 • 23h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -247,7 +247,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 83 • 💬 69 • 14h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 83 • 💬 69 • 15h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -275,23 +275,13 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 ## YouTube Videos: "ai"
 
-**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
-
-OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
-
-📺 Stylosa
-
-👁️ 37K • 👍 1K • 💬 500 • ⏱️ 16:18 • 1d ago
-
----
-
 **[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
 
 The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
 📺 Wes Roth
 
-👁️ 15K • 👍 573 • 💬 138 • ⏱️ 12:43 • 16h ago
+👁️ 16K • 👍 618 • 💬 143 • ⏱️ 12:43 • 17h ago
 
 ---
 
@@ -301,7 +291,27 @@ OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tr
 
 📺 Zack Shutt
 
-👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 20h ago
+👁️ 24K • 👍 1K • 💬 354 • ⏱️ 10:14 • 20h ago
+
+---
+
+**[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
+
+The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
+
+📺 AI Revolution
+
+👁️ 46K • 👍 1K • 💬 214 • ⏱️ 12:27 • 23h ago
+
+---
+
+**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
+
+OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
+
+📺 Stylosa
+
+👁️ 38K • 👍 1K • 💬 514 • ⏱️ 16:18 • 1d ago
 
 ---
 
@@ -311,17 +321,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.6M • 👍 87K • 💬 2K • ⏱️ 0:13 • 1d ago
-
----
-
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
-
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
-
-📺 AI Revolution
-
-👁️ 65K • 👍 1K • 💬 132 • ⏱️ 12:48 • 2d ago
+👁️ 2.6M • 👍 88K • 💬 2K • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -331,17 +331,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 34K • 👍 818 • 💬 142 • ⏱️ 20:22 • 1d ago
-
----
-
-**[Top Unreal Goals That Look Like AI 🤖](https://www.youtube.com/watch?v=bu57G3ozgxc)**
-
-Top Unreal Goals That Look Like AI A compilation of Football goals so insane they don't look real Flying volleys, insane ...
-
-📺 FootyRanks
-
-👁️ 773K • 👍 28K • 💬 153 • ⏱️ 0:48 • 14h ago
+👁️ 36K • 👍 842 • 💬 145 • ⏱️ 20:22 • 1d ago
 
 ---
 
@@ -351,17 +341,27 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 19h ago
+👁️ 48K • 👍 2K • 💬 271 • ⏱️ 41:25 • 19h ago
 
 ---
 
-**[AI Met Gala Photos Had Everyone Confused 🤯😱](https://www.youtube.com/watch?v=UH0MM9uPa2Q)**
+**[Top Unreal Goals That Look Like AI 🤖](https://www.youtube.com/watch?v=bu57G3ozgxc)**
 
-AI Met Gala Photos fooled everyone #katyperry #billieeilish #metgala #ai #shorts.
+Top Unreal Goals That Look Like AI A compilation of Football goals so insane they don't look real Flying volleys, insane ...
 
-📺 TRENDY.CELEBS001
+📺 FootyRanks
 
-👁️ 30K • 👍 192 • ⏱️ 0:22 • 1d ago
+👁️ 861K • 👍 30K • 💬 160 • ⏱️ 0:48 • 15h ago
+
+---
+
+**[Agentic Workflows Just Changed AI Automation Forever! (Claude Code)](https://www.youtube.com/watch?v=AO5aW01DKHo)**
+
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
+
+📺 Nate Herk | AI Automation
+
+👁️ 11K • 👍 672 • 💬 74 • ⏱️ 21:40 • 7h ago
 
 ---
 
@@ -371,7 +371,7 @@ CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38
 
 📺 Dylan Curious
 
-👁️ 5K • 👍 330 • 💬 109 • ⏱️ 23:12 • 1d ago
+👁️ 5K • 👍 338 • 💬 113 • ⏱️ 23:12 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,168 • 5d ago
+⬇️ 363,320 • ❤️ 1,172 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 949 • 2d ago
+⬇️ 29,354 • ❤️ 962 • 2d ago
 
 ---
 
@@ -411,7 +411,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 504 • 4d ago
+⬇️ 21,722 • ❤️ 510 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 431 • 2d ago
+⬇️ 42,703 • ❤️ 445 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 320 • 1d ago
+⬇️ 195,744 • ❤️ 322 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 272 • 4d ago
+⬇️ 12,479 • ❤️ 274 • 4d ago
 
 ---
 
@@ -471,7 +471,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 68,552 • ❤️ 531 • 10d ago
+⬇️ 68,552 • ❤️ 532 • 10d ago
 
 ---
 
@@ -483,7 +483,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 215 • 3d ago
+⬇️ 2,743 • ❤️ 217 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 213 • 3d ago
+⬇️ 4,684 • ❤️ 215 • 3d ago
 
 ---
 
@@ -511,7 +511,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 31 • 💬 1 • ⭐ 3,964 • 3d ago
+▲ 32 • 💬 1 • ⭐ 3,964 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -549,7 +549,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 37 • 💬 4 • ⭐ 1,929 • 10d ago
+▲ 37 • 💬 4 • ⭐ 1,988 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -607,17 +607,15 @@ https://continuous-audio-language-models.github.io
 
 ---
 
-**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
 
-*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
 
-🏢 AutoLab
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
+▲ 37 • 💬 3 • ⭐ 2,107 • 20d ago
 
-▲ 44 • 💬 2 • ⭐ 254 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
@@ -634,17 +632,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
+**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
 
-*Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
+*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
 
-🏢 University of Illinois at Urbana-Champaign
+🏢 AutoLab
 
-Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
+RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 170 • 💬 5 • ⭐ 434 • 7d ago
+▲ 46 • 💬 2 • ⭐ 262 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
 ---
 
@@ -658,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 567 • 2h ago
+⭐ 10.5k • 🔱 568 • 1h ago
 
 ---
 
@@ -678,7 +676,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 469 • 3h ago
+⭐ 9.1k • 🔱 471 • 3h ago
 
 ---
 
@@ -688,7 +686,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 908 • 2d ago
+⭐ 7.7k • 🔱 910 • 2d ago
 
 ---
 
@@ -698,7 +696,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.0k • 🔱 1.1k • 6h ago
+⭐ 6.0k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -718,7 +716,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 501 • 1d ago
+⭐ 4.7k • 🔱 503 • 1d ago
 
 ---
 
@@ -726,7 +724,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.0k • 🔱 246 • 2d ago
+⭐ 3.0k • 🔱 247 • 2d ago
 
 ---
 
@@ -736,7 +734,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.9k • 🔱 638 • 3h ago
+⭐ 3.0k • 🔱 655 • 3h ago
 
 ---
 
