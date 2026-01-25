@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T14:20:41.329334+00:00'
+updated: '2026-01-25T14:44:27.557270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 14:20 UTC  
+**Last Updated:** January 25, 2026 at 14:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 I’ve been looking back at the 1993 Wired piece "Crypto Rebels" and it’s a gut punch compared to where we are today. Back then, the movement was a "gathering of those who share a predilection for codes, a passion for privacy, and the gumption to do something about it" It was not about airdrops or "building for exits" It was about building a "Cypherpunks don't care if you don't like the software they write Cypherpunks know that software can't be destroyed Cypherpunks know that a widely dispersed system can't be shut down Cypherpunks will make the networks safe for privacy" The world definitely changed because of crypto but it feels like we lost the plot along the way, most of today's "innovators" are just venture capitalists and money followers and where are the real cypherpunks? Where are the people like Phil Zimmermann who viewed releasing code "like thousands of dandelion seeds blowing in the wind" regardless of the personal risk? I feel like we have traded a tool for human liberation for a high-stakes casino Can a project even survive today without the "venture capital" mindset? Am I the only one who feels like the soul of this movement has been replaced by a spreadsheet? I'd love to hear from anyone else who misses the "mathematical fortress" era If you want to see just how far we have drifted from the original vision, I highly recommend reading this article from 1993 https://www.wired.com/1993/02/crypto-rebels/
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 17h ago
 
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 2h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 12h ago
+👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 13h ago
 
 ---
 
@@ -334,7 +334,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 22h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 23h ago
 
 ---
 
@@ -394,7 +394,7 @@ Every Bitcoin price scenario for 2026. BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 13h ago
+👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 14h ago
 
 ---
 

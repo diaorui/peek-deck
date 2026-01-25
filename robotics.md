@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T14:20:41.338821+00:00'
+updated: '2026-01-25T14:44:27.565435+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 14:20 UTC  
+**Last Updated:** January 25, 2026 at 14:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-3h ago
+4h ago
 
 ---
 
@@ -50,13 +50,13 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 20h ago
+USA Today • 21h ago
 
 ---
 

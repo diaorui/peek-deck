@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T14:20:41.321013+00:00'
+updated: '2026-01-25T14:44:27.549340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 14:20 UTC  
+**Last Updated:** January 25, 2026 at 14:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 13h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 14h ago
 
 ---
 
@@ -137,13 +137,13 @@ The Guardian • 8h ago
 
 **[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
-Bloomberg.com • 20m ago
+Bloomberg.com • 44m ago
 
 ---
 
 **[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 20m ago
+The New York Times • 44m ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 20m ago
 
 Generative AI is being pushed into healthcare – and diagnostic risks may deepen the class divide
 
-The Guardian • 20m ago
+The Guardian • 44m ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 20m ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 23h ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -309,7 +309,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 32K • 👍 2K • 💬 230 • ⏱️ 41:25 • 10h ago
+👁️ 32K • 👍 2K • 💬 230 • ⏱️ 41:25 • 11h ago
 
 ---
 
@@ -666,7 +666,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 47m ago
+⭐ 9.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -706,7 +706,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 50m ago
+⭐ 5.3k • 🔱 5.6k • 1h ago
 
 ---
 
