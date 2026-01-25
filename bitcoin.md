@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T09:23:22.933073+00:00'
+updated: '2026-01-25T09:43:47.766202+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 09:23 UTC  
+**Last Updated:** January 25, 2026 at 09:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -113,7 +113,7 @@ Where do people even find that kind of courage?
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Credits to ChatGPT
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Credits to ChatGPT
 
 I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81K. Now I am planning to deposit $50 every day for DCA. Tried one month with Binance but the Convert function always gives bad rates compared to market rates. I was wondering what kind of apps are out there for DCA with near market rates or minimal charges? I will be converting fiat to USDT via Binance and would like to use that instead of direct deposit. Suggestions pls.
 
-5h ago
+6h ago
 
 ---
 
@@ -336,7 +336,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 17h ago
+👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 18h ago
 
 ---
 
@@ -386,7 +386,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 16h ago
+👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 17h ago
 
 ---
 
@@ -406,7 +406,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 7h ago
+👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T09:23:22.939157+00:00'
+updated: '2026-01-25T09:43:47.772165+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 09:23 UTC  
+**Last Updated:** January 25, 2026 at 09:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -156,7 +156,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -260,7 +260,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 16h ago
+👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 17h ago
 
 ---
 
