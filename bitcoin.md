@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T08:29:11.857176+00:00'
+updated: '2026-01-25T08:52:55.546561+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 08:29 UTC  
+**Last Updated:** January 25, 2026 at 08:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,853.05
+### $88,244.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -4.2%  
-**30d:** +1.0%  
-**90d:** -21.3%  
-**1y:** -13.5%  
+**24h:** -1.5%  
+**7d:** -4.7%  
+**30d:** +0.4%  
+**90d:** -21.8%  
+**1y:** -14.0%  
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-16h ago
-
----
-
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
 4h ago
 
 ---
 
-**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
 
-8h ago
+Where do people even find that kind of courage?
+
+16h ago
 
 ---
 
@@ -103,11 +97,23 @@ Where do people even find that kind of courage?
 
 ---
 
+**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+
+9h ago
+
+---
+
+**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
+
+13h ago
+
+---
+
 **[Bitcoin Car @ Rolex 24](https://www.reddit.com/r/Bitcoin/comments/1qm19ue/bitcoin_car_rolex_24/)**
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-9h ago
+10h ago
 
 ---
 
@@ -119,15 +125,17 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
-
-13h ago
-
----
-
 **[Fiat ship is sinking cartoon](https://www.reddit.com/r/Bitcoin/comments/1qm6twb/fiat_ship_is_sinking_cartoon/)**
 
 Credits to ChatGPT
+
+6h ago
+
+---
+
+**[0.6 BTC and now need a reliable DCA app](https://www.reddit.com/r/Bitcoin/comments/1qm89cg/06_btc_and_now_need_a_reliable_dca_app/)**
+
+I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81K. Now I am planning to deposit $50 every day for DCA. Tried one month with Binance but the Convert function always gives bad rates compared to market rates. I was wondering what kind of apps are out there for DCA with near market rates or minimal charges? I will be converting fiat to USDT via Binance and would like to use that instead of direct deposit. Suggestions pls.
 
 5h ago
 
@@ -138,12 +146,6 @@ Credits to ChatGPT
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
 16h ago
-
----
-
-**[The summary of this cycle](https://www.reddit.com/r/Bitcoin/comments/1qm25oq/the_summary_of_this_cycle/)**
-
-9h ago
 
 ---
 
@@ -164,14 +166,6 @@ CoinDesk • 11h ago
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
 ProPublica • 2d ago
-
----
-
-**[These Two Crypto ETFS Offer Strong Exposure to Bitcoin](https://www.fool.com/coverage/etfs/2026/01/24/these-two-crypto-etfs-offer-strong-exposure-to-bitcoin/)**
-
-Investing in cryptocurrencies can be tricky, but these ETFs may make it simpler for investors to get involved in the booming market.
-
-The Motley Fool • 3h ago
 
 ---
 
@@ -211,19 +205,27 @@ The Block • 1d ago
 
 ---
 
-**[Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire](https://fortune.com/article/eric-trump-donald-trump-american-bitcoin-newest-arm-trump-crypto-empire/)**
-
-The president's son says the company's Bitcoin mining and fast-growing digital asset treasury can help make America "the crypto capital of the world."
-
-Fortune • 3d ago
-
----
-
 **[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
 
 Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
+
+Michael Saylor’s company now holds more than 709,000 Bitcoin.
+
+Fortune • 2d ago
 
 ---
 
@@ -344,7 +346,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 16h ago
+👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 17h ago
 
 ---
 
@@ -354,7 +356,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 6h ago
+👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 7h ago
 
 ---
 

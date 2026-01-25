@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T08:29:11.863191+00:00'
+updated: '2026-01-25T08:52:55.552705+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 08:29 UTC  
+**Last Updated:** January 25, 2026 at 08:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -7.7%  
-**30d:** -0.2%  
-**90d:** -26.1%  
-**1y:** -8.9%  
+**24h:** -1.0%  
+**7d:** -8.1%  
+**30d:** -0.6%  
+**90d:** -26.4%  
+**1y:** -9.3%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-17h ago
+18h ago
 
 ---
 
@@ -184,23 +184,25 @@ CoinDesk • 2d ago
 
 ---
 
+**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+
+A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+
+PYMNTS.com • 2d ago
+
+---
+
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
 CCN.com • 22h ago
 
 ---
 
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
+**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
 
-The Block • 2d ago
+Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
----
-
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
-
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
-
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 15h ago
+👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 16h ago
 
 ---
 
@@ -248,7 +250,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 11h ago
+👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 12h ago
 
 ---
 
@@ -298,7 +300,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 15h ago
+👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 16h ago
 
 ---
 

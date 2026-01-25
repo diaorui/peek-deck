@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T08:29:11.866413+00:00'
+updated: '2026-01-25T08:52:55.556005+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 08:29 UTC  
+**Last Updated:** January 25, 2026 at 08:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -52,17 +52,17 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 ---
 
+**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
+
+5h ago
+
+---
+
 **[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
 20h ago
-
----
-
-**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
-
-5h ago
 
 ---
 
@@ -86,19 +86,19 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 ---
 
-**[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
-
-A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
-
-23h ago
-
----
-
 **[Best servo set up for remote control gimbal head](https://www.reddit.com/r/robotics/comments/1qm4mg3/best_servo_set_up_for_remote_control_gimbal_head/)**
 
 This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
 
 7h ago
+
+---
+
+**[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
+
+A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
+
+1d ago
 
 ---
 
@@ -130,19 +130,19 @@ Financial Times • 3h ago
 
 ---
 
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
-
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
-
-Business Insider • 2d ago
-
----
-
 **[Saga Robotics bets big on US vineyards with new GM, fresh capital](https://agfundernews.com/saga-robotics-bets-big-on-us-vineyards-with-new-gm-fresh-capital-for-uv-c-bots-chemical-free-winegrowing-is-the-holy-grail)**
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
 AgFunderNews • 2d ago
+
+---
+
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
+
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
+
+Business Insider • 2d ago
 
 ---
 
@@ -154,14 +154,6 @@ wbay.com • 1d ago
 
 ---
 
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
-
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
-
-Live Science • 21h ago
-
----
-
 **[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
 
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
@@ -170,19 +162,27 @@ The Robot Report • 1d ago
 
 ---
 
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 14h ago
-
----
-
 **[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
 
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
 
 fox11online.com • 1d ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 15h ago
+
+---
+
+**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
+
+Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
+
+news.cgtn.com • 19h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 21h ago
+👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 22h ago
 
 ---
 
