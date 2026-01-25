@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T22:21:27.622682+00:00'
+updated: '2026-01-25T22:45:37.786813+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 22:21 UTC  
+**Last Updated:** January 25, 2026 at 22:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,819.52
+### $2,802.93
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -5.2%  
-**7d:** -11.9%  
-**30d:** -4.8%  
-**90d:** -29.5%  
-**1y:** -13.1%  
+**7d:** -12.2%  
+**30d:** -5.1%  
+**90d:** -29.7%  
+**1y:** -13.3%  
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-12h ago
+13h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -186,13 +186,7 @@ The Block • 23h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 6h ago
-
----
-
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
-
-CCN.com • 1d ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -220,11 +214,19 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
 
-A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
 
-PYMNTS.com • 2d ago
+Benzinga • 2d ago
+
+---
+
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://finance.yahoo.com/news/ethereum-price-exceed-12-000-100216272.html)**
+
+JPMorgan urges caution on Ethereum’s growth. Bullish forecasts remain sharply divided. Technical signals point to near-term risk. Ethereum’s rally narrative is facing fresh scrutiny after ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 7h ago
+👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 8h ago
 
 ---
 
@@ -288,7 +290,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 8h ago
+👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 9h ago
 
 ---
 

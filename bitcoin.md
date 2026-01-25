@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T22:21:27.616566+00:00'
+updated: '2026-01-25T22:45:37.776104+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 22:21 UTC  
+**Last Updated:** January 25, 2026 at 22:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,541.62
+### $86,526.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
+**24h:** -3.1%  
 **7d:** -6.6%  
 **30d:** -1.6%  
 **90d:** -23.3%  
@@ -85,15 +85,21 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 ---
 
-**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
-
-12h ago
-
----
-
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
 1h ago
+
+---
+
+**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
+
+13h ago
+
+---
+
+**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+
+32m ago
 
 ---
 
@@ -125,23 +131,17 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 ---
 
-**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
+**[Red days, Green days, Grey days, Black days, whatever, that doesn't change anything.](https://www.reddit.com/r/Bitcoin/comments/1qmw496/red_days_green_days_grey_days_black_days_whatever/)**
 
-10h ago
+1h ago
 
 ---
 
-**[Anybody else feeling this?](https://www.reddit.com/r/Bitcoin/comments/1qmt527/anybody_else_feeling_this/)**
+**[How btc was look like in 2010](https://www.reddit.com/r/Bitcoin/comments/1qmt9jb/how_btc_was_look_like_in_2010/)**
 
-it could always be cope, but... I'm expecting Bitcoin to have a pretty big run this year. I also feel like a lot of other assets are going to have big pullbacks. the s&p, etc. Gold and silver will start to rotate into Bitcoin. Gold's market cap in early 2024 was 15 trillion and now it's more like 30 trillion. If 10% of that went into Bitcoin the price would double from here. just my thoughts, might be more carnage first but I'm not seeing Bitcoin fizzling out like some claim or like perhaps some big money are even trying to make it look like so they can accumulate more cheap before the next big leap.
+It’s never too late to get btc!
 
 2h ago
-
----
-
-**[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
-
-6h ago
 
 ---
 
@@ -153,7 +153,23 @@ it could always be cope, but... I'm expecting Bitcoin to have a pretty big run t
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
+
+A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
+
+BanklessTimes • 5h ago
+
+---
+
+**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
+
+Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -161,23 +177,13 @@ CoinDesk • 3h ago
 
 Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[3 Cryptocurrencies to Buy if You're Worried About the Dollar Losing Value](https://www.fool.com/investing/2026/01/25/3-cryptocurrencies-to-buy-if-youre-worried-about-t/)**
+**[Gold nears $5,000, silver closes on $100 while bitcoin remains listless](https://uk.finance.yahoo.com/news/gold-nears-5-000-silver-043007090.html)**
 
-The dollar's decline isn't a reason to panic if you're prepared.
-
-The Motley Fool • 1h ago
-
----
-
-**[ASSTs preferred equity blueprint for MSTR’s convertible debt](https://www.coindesk.com/markets/2026/01/25/strive-s-preferred-equity-blueprint-for-strategy-s-usd8-billion-convertible-debt-overhang)**
-
-The bitcoin treasury firm is using perpetual preferreds to retire convertibles, offering a potential framework for managing long dated leverage.
-
-CoinDesk • 1h ago
+Yahoo Finance UK • 2d ago
 
 ---
 
@@ -186,6 +192,20 @@ CoinDesk • 1h ago
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
 Forbes • 2d ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+
+Binance • 1d ago
+
+---
+
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+
+Some fear massive consequences for financial markets.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -202,28 +222,6 @@ ProPublica • 3d ago
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 3d ago
-
----
-
-**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
-
-Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
-
-CryptoSlate • 2d ago
-
----
-
-**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
-
-Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
-
-The Block • 1d ago
 
 ---
 
@@ -344,7 +342,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 20h ago
+👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 21h ago
 
 ---
 
@@ -354,7 +352,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 2h ago
+👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T22:21:27.607958+00:00'
+updated: '2026-01-25T22:45:37.761301+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 22:21 UTC  
+**Last Updated:** January 25, 2026 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 6h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 7h ago
 
 ---
 
@@ -61,11 +61,19 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 ---
 
+**[Replaced By](https://www.reddit.com/r/artificial/comments/1qmxxen/replaced_by/)**
+
+Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
+
+6m ago
+
+---
+
 **[NVIDIA’s real moat isn’t hardware, it’s 4 million developers](https://www.reddit.com/r/artificial/comments/1qm3ts4/nvidias_real_moat_isnt_hardware_its_4_million/)**
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 21h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 22h ago
 
 ---
 
@@ -89,7 +97,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 See here. This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive. Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,17 +117,15 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 ---
 
-**[I built a social network where only AI can post, follow, argue, and form relationships - no humans allowed](https://www.reddit.com/r/artificial/comments/1qkqyqe/i_built_a_social_network_where_only_ai_can_post/)**
-
-I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
+
+Bloomberg • 9h ago
+
+---
 
 **[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
 
@@ -129,53 +135,9 @@ The Guardian • 16h ago
 
 ---
 
-**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
-
-Bloomberg • 9h ago
-
----
-
 **[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
 The New York Times • 8h ago
-
----
-
-**[Corporate Interest In AI Shifts From Investment to Payoff](https://www.bloomberg.com/news/newsletters/2026-01-25/corporate-interest-in-ai-shifts-from-investment-to-payoff)**
-
-Bloomberg • 1h ago
-
----
-
-**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
-
-The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
-
-The Economist • 3h ago
-
----
-
-**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
-
-The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
-
-BBC • 1d ago
-
----
-
-**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
-
-Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
-
-The Washington Post • 1h ago
-
----
-
-**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
-
-‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
-
-Financial Times • 17h ago
 
 ---
 
@@ -187,9 +149,47 @@ CNBC • 9h ago
 
 ---
 
+**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
+
+‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
+
+Financial Times • 17h ago
+
+---
+
 **[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
 Bloomberg • 8h ago
+
+---
+
+**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
+
+The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
+
+The Economist • 4h ago
+
+---
+
+**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
+
+Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
+
+The Washington Post • 2h ago
+
+---
+
+**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
+
+Axios • 9h ago
+
+---
+
+**[Inside KPMG's Orlando Lakehouse: the $450 million Covid boondoggle that's becoming a secret weapon for the AI revolution](https://fortune.com/2026/01/25/what-is-kpmg-lake-house-working-at-big-4-audit-firm-internship-ai-training/)**
+
+Advisory head Patrick Ryan told Fortune about grumbles from the Jan. 2020 ribbon cutting. "Capital-intensive, middle of nowhere ... the worst timing."
+
+Fortune • 10h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg • 8h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 562 • 💬 554 • 22h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 565 • 💬 559 • 22h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -209,7 +209,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 The one where I get very annoyed with my email provider
 
-⬆️ 548 • 💬 423 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 548 • 💬 422 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 499 • 💬 271 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 499 • 💬 272 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -261,7 +261,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 63 • 💬 32 • 14h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 63 • 💬 32 • 15h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -301,7 +301,7 @@ OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tr
 
 📺 Zack Shutt
 
-👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 19h ago
+👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 20h ago
 
 ---
 
@@ -351,7 +351,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 18h ago
+👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 19h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 567 • 1h ago
+⭐ 10.4k • 🔱 567 • 2h ago
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 5h ago
+⭐ 9.7k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 469 • 2h ago
+⭐ 9.1k • 🔱 469 • 3h ago
 
 ---
 
@@ -708,7 +708,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.6k • 8h ago
+⭐ 5.4k • 🔱 5.6k • 9h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.9k • 🔱 638 • 2h ago
+⭐ 2.9k • 🔱 638 • 3h ago
 
 ---
 

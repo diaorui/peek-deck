@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T22:21:27.625915+00:00'
+updated: '2026-01-25T22:45:37.792521+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 22:21 UTC  
+**Last Updated:** January 25, 2026 at 22:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-11h ago
+12h ago
 
 ---
 
@@ -50,13 +50,13 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-16h ago
+17h ago
 
 ---
 
@@ -108,14 +108,6 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 ## Google News: "robotics"
 
-**[Local robotics team inspires young minds with LEGO demonstration](https://www.news8000.com/news/local-news/sparta/local-robotics-team-inspires-young-minds-with-lego-demonstration/article_010e07fd-8c6c-4f86-bc01-a91d2fc723d6.html)**
-
-The Brief
-
-news8000.com • 23h ago
-
----
-
 **[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
 
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
@@ -124,9 +116,11 @@ fox11online.com • 1d ago
 
 ---
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
+**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
 
-MarketBeat • 2d ago
+SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
+
+channel3000.com • 23h ago
 
 ---
 
@@ -146,19 +140,11 @@ Business Insider • 3d ago
 
 ---
 
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 18h ago
-
----
-
 **[Elon Musk says Tesla will likely sell humanoid robots by end of next year](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)**
 
 Elon Musk said Tesla's Optimus humanoid robots could be available for public purchase by the end of 2027, saying the robots should be reliable, safe and capable of a range of functions.
 
-Fox Business • 2d ago
+Fox Business • 3d ago
 
 ---
 
@@ -178,11 +164,27 @@ Interesting Engineering • 2d ago
 
 ---
 
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+
+Interesting Engineering • 19h ago
+
+---
+
 **[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
 wbay.com • 1d ago
+
+---
+
+**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
+
+Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
+
+The Robot Report • 2d ago
 
 ---
 
