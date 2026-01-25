@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T20:26:05.123390+00:00'
+updated: '2026-01-25T20:46:35.079947+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 20:26 UTC  
+**Last Updated:** January 25, 2026 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.38B
+**Market Cap:** $1722.97B
 Rank #1
 
-**Circulating Supply:** 19,980,478 BTC
+**Circulating Supply:** 19,980,487 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-31.6%
 
 **All-Time Low:** $67.81
-+128808.7%
++127055.3%
 
 ---
 
@@ -127,7 +127,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 **[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -181,7 +181,7 @@ Forbes • 2d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -300,17 +300,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 9h ago
-
----
-
-**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
-
-Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 4h ago
+👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 9h ago
 
 ---
 
@@ -320,37 +310,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 62K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
-
----
-
-**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
-
-How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
-
-📺 Brad Long
-
-👁️ 32K • 👍 2K • 💬 427 • ⏱️ 14:05 • 1d ago
-
----
-
-**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
-
-Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
-
-📺 Fox Business Clips
-
-👁️ 37K • 👍 680 • 💬 307 • ⏱️ 6:22 • 18h ago
-
----
-
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
-
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 20K • 👍 1K • 💬 166 • ⏱️ 12:07 • 1d ago
+👁️ 64K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 
@@ -360,37 +320,77 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 3K • 💬 313 • ⏱️ 8:40 • 1d ago
+👁️ 64K • 👍 3K • 💬 321 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=zIsbjAIG3Ss)**
+**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
 
-📺 Monkey Cubin
+📺 Brad Long
 
-👁️ 3K • 👍 1K • 3h ago
-
----
-
-**[Bitcoin Elliott Wave Update – Direct Sell-Off to $75,000?](https://www.youtube.com/watch?v=XBQHtwffjEw)**
-
-This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 3h ago
+👁️ 34K • 👍 2K • 💬 380 • ⏱️ 14:05 • 1d ago
 
 ---
 
-**[La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? 🤫](https://www.youtube.com/watch?v=Jr6pFHLaAHM)**
+**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
 
-La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? ENLACE BITGET ...
+Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
 
-📺 USACRYPTONOTICIAS
+📺 Fox Business Clips
 
-👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 3h ago
+👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 19h ago
+
+---
+
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
+
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
+
+📺 Fox Business Clips
+
+👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 1h ago
+
+---
+
+**[THE $10,000 BITCOIN WARNING](https://www.youtube.com/watch?v=HvAeod3taJ0)**
+
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+
+📺 The Cryptoviser
+
+👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 6h ago
+
+---
+
+**[Bitcoin vs Gold Just Flashed a Signal That NEVER Misses 😳](https://www.youtube.com/watch?v=08TsgYX4DYE)**
+
+Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin in gold, the picture changes FAST In this video, ...
+
+📺 Crypto Love
+
+👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 3h ago
+
+---
+
+**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
+
+Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 4h ago
+
+---
+
+**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
+
+Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
+
+📺 CNBC Television
+
+👁️ 40K • 👍 555 • 💬 248 • ⏱️ 2:12 • 2d ago
 
 ---
 

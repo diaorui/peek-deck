@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T20:26:05.129484+00:00'
+updated: '2026-01-25T20:46:35.086069+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 20:26 UTC  
+**Last Updated:** January 25, 2026 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $346.37B
+**Market Cap:** $337.22B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.4%
+-43.5%
 
 **All-Time Low:** $0.43
-+658375.4%
++645416.3%
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-10h ago
+11h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 3h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 10h ago
 
 Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
 
-Benzinga • 1d ago
+Benzinga • 2d ago
 
 ---
 
@@ -232,13 +232,23 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN: You Need to See This Chart! (massive) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=i6s40KUqU8g)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 2K • 👍 270 • 3h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ECuJ8ode508)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 994 • 👍 79 • 💬 6 • ⏱️ 3:57 • 5h ago
+👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 6h ago
 
 ---
 
@@ -248,7 +258,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 3h ago
+👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 3h ago
 
 ---
 
@@ -258,7 +268,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 23h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 29:47 • 23h ago
 
 ---
 
@@ -268,27 +278,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 369 • 💬 98 • ⏱️ 7:22 • 1d ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 22h ago
-
----
-
-**[ETHEREUM (ETH) SOLANA (SOL) SUI | Price Prediction: Direct &amp; Massive Sell-Off Ahead !](https://www.youtube.com/watch?v=9KJtbWi9Ddo)**
-
-BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING Join our Safe and Private Discord ...
-
-📺 KG TRADING - Crypto Elliott Waves
-
-👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 4h ago
+👁️ 7K • 👍 373 • 💬 98 • ⏱️ 7:22 • 1d ago
 
 ---
 
@@ -298,7 +288,17 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 6h ago
+👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 7h ago
+
+---
+
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 22h ago
 
 ---
 
@@ -308,17 +308,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 180 • 💬 60 • ⏱️ 8:10 • 2d ago
-
----
-
-**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
-
-CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
-
-📺 CryptoWendyO
-
-👁️ 14K • 👍 1K • 💬 144 • ⏱️ 12:01 • 1d ago
+👁️ 5K • 👍 189 • 💬 60 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -329,6 +319,16 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 📺 World Liberty Financial
 
 👁️ 7K • 👍 24 • 💬 4 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
+
+CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
+
+📺 CryptoWendyO
+
+👁️ 15K • 👍 1K • 💬 144 • ⏱️ 12:01 • 1d ago
 
 ---
 

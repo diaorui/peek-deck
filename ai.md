@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T20:26:05.114878+00:00'
+updated: '2026-01-25T20:46:35.071027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 20:26 UTC  
+**Last Updated:** January 25, 2026 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 4h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 See here. This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive. Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 10h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 1h ago
+The Economist • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Economist • 1h ago
 
 Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
 
-The Washington Post • 24m ago
+The Washington Post • 44m ago
 
 ---
 
@@ -179,7 +179,7 @@ Time Magazine • 8h ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -265,7 +265,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 62 • 💬 32 • 12h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 62 • 💬 32 • 13h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -285,7 +285,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 36K • 👍 1K • 💬 484 • ⏱️ 16:18 • 1d ago
+👁️ 37K • 👍 1K • 💬 500 • ⏱️ 16:18 • 1d ago
 
 ---
 
@@ -295,7 +295,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 13K • 👍 521 • 💬 124 • ⏱️ 12:43 • 14h ago
+👁️ 15K • 👍 573 • 💬 138 • ⏱️ 12:43 • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tr
 
 📺 Zack Shutt
 
-👁️ 16K • 👍 884 • 💬 285 • ⏱️ 10:14 • 17h ago
+👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.5M • 👍 85K • 💬 2K • ⏱️ 0:13 • 1d ago
+👁️ 2.6M • 👍 87K • 💬 2K • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -325,17 +325,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 132 • ⏱️ 12:48 • 2d ago
-
----
-
-**[Top Unreal Goals That Look Like AI 🤖](https://www.youtube.com/watch?v=bu57G3ozgxc)**
-
-Top Unreal Goals That Look Like AI A compilation of Football goals so insane they don't look real Flying volleys, insane ...
-
-📺 FootyRanks
-
-👁️ 690K • 👍 26K • 💬 137 • ⏱️ 0:48 • 12h ago
+👁️ 65K • 👍 1K • 💬 132 • ⏱️ 12:48 • 2d ago
 
 ---
 
@@ -345,17 +335,17 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 32K • 👍 797 • 💬 139 • ⏱️ 20:22 • 1d ago
+👁️ 34K • 👍 818 • 💬 142 • ⏱️ 20:22 • 1d ago
 
 ---
 
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+**[Top Unreal Goals That Look Like AI 🤖](https://www.youtube.com/watch?v=bu57G3ozgxc)**
 
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+Top Unreal Goals That Look Like AI A compilation of Football goals so insane they don't look real Flying volleys, insane ...
 
-📺 Matt Wolfe
+📺 FootyRanks
 
-👁️ 50K • 👍 2K • 💬 308 • ⏱️ 28:01 • 1d ago
+👁️ 773K • 👍 28K • 💬 153 • ⏱️ 0:48 • 12h ago
 
 ---
 
@@ -365,17 +355,27 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 41K • 👍 2K • 💬 258 • ⏱️ 41:25 • 16h ago
+👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 17h ago
 
 ---
 
-**[People UPSET Over Real-Time AI &quot;Art&quot; Generator...](https://www.youtube.com/watch?v=Nd4hdy5SZyM)**
+**[AI Met Gala Photos Had Everyone Confused 🤯😱](https://www.youtube.com/watch?v=UH0MM9uPa2Q)**
 
-Disclaimer: Please do NOT send hate to anyone mentioned in my videos. Everything that is said is alleged and there are always 2 ...
+AI Met Gala Photos fooled everyone #katyperry #billieeilish #metgala #ai #shorts.
 
-📺 kat 'n chat
+📺 TRENDY.CELEBS001
 
-👁️ 29K • 👍 2K • 💬 446 • ⏱️ 9:07 • 1d ago
+👁️ 30K • 👍 192 • ⏱️ 0:22 • 23h ago
+
+---
+
+**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
+
+CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
+
+📺 Dylan Curious
+
+👁️ 5K • 👍 330 • 💬 109 • ⏱️ 23:12 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,162 • 5d ago
+⬇️ 363,320 • ❤️ 1,168 • 5d ago
 
 ---
 
@@ -403,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 914 • 2d ago
+⬇️ 29,354 • ❤️ 949 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 497 • 4d ago
+⬇️ 21,722 • ❤️ 504 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 417 • 2d ago
+⬇️ 42,703 • ❤️ 431 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 319 • 1d ago
+⬇️ 195,744 • ❤️ 320 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 270 • 4d ago
+⬇️ 12,479 • ❤️ 272 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 245 • 5d ago
+⬇️ 634 • ❤️ 247 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 215 • 2d ago
+⬇️ 2,743 • ❤️ 215 • 3d ago
 
 ---
 
@@ -499,7 +499,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 212 • 3d ago
+⬇️ 4,684 • ❤️ 213 • 3d ago
 
 ---
 
@@ -515,7 +515,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 30 • 💬 1 • ⭐ 3,964 • 3d ago
+▲ 31 • 💬 1 • ⭐ 3,964 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -541,7 +541,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 143 • 💬 6 • ⭐ 21,762 • 5mo ago
+▲ 143 • 💬 6 • ⭐ 21,943 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -646,7 +646,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 170 • 💬 5 • ⭐ 403 • 7d ago
+▲ 170 • 💬 5 • ⭐ 434 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 566 • 1h ago
+⭐ 10.4k • 🔱 567 • 20m ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 3h ago
+⭐ 9.7k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -682,7 +682,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 469 • 4d ago
+⭐ 9.1k • 🔱 469 • 1h ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 909 • 2d ago
+⭐ 7.7k • 🔱 908 • 2d ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.6k • 6h ago
+⭐ 5.4k • 🔱 5.6k • 7h ago
 
 ---
 
@@ -722,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 499 • 22h ago
+⭐ 4.6k • 🔱 501 • 22h ago
 
 ---
 
@@ -730,7 +730,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.0k • 🔱 244 • 2d ago
+⭐ 3.0k • 🔱 246 • 2d ago
 
 ---
 
@@ -740,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.9k • 🔱 624 • 1h ago
+⭐ 2.9k • 🔱 638 • 1h ago
 
 ---
 

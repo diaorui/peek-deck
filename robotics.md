@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T20:26:05.132712+00:00'
+updated: '2026-01-25T20:46:35.089364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 20:26 UTC  
+**Last Updated:** January 25, 2026 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-9h ago
+10h ago
 
 ---
 
@@ -50,13 +50,13 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -158,7 +158,7 @@ Business Insider • 3d ago
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 88 • 💬 39 • ⏱️ 6:39 • 1d ago
+👁️ 6K • 👍 91 • 💬 40 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,17 +206,25 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 74K • 👍 2K • 💬 131 • ⏱️ 17:39 • 1d ago
+👁️ 78K • 👍 2K • 💬 134 • ⏱️ 17:39 • 1d ago
 
 ---
 
-**[🤖🌍 A Robot Breaks Protocol… and One Detective Realizes Humanity Isn’t in Control 😱⚙️](https://www.youtube.com/watch?v=gN2m27C5VA0)**
+**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
 
-In a dying, dust-choked future ☀️🌪️, humans survive behind factories and domes 🏚️ while “Pilgrim” robots do the dirty ...
+To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
 
-📺 ClipRift
+📺 PRO ROBOTS
 
-👁️ 8K • 👍 330 • 💬 3 • ⏱️ 0:48 • 10h ago
+👁️ 7K • 👍 234 • 💬 22 • ⏱️ 14:08 • 4d ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
 
 ---
 
@@ -230,16 +238,6 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 535K • 👍 9K • 💬 3K • ⏱️ 32:01 • 3d ago
-
----
-
 **[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
 
 Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
@@ -250,13 +248,23 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 ---
 
-**[Most Humanlike AI Robot at CES 2026 Will Make You UNCOMFORTABLE](https://www.youtube.com/watch?v=nGJ6u_5RkOw)**
+**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
 
-CES 2026 just unveiled the most humanlike AI robot ever created — and it's making everyone deeply uncomfortable. Standing ...
+War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 The AI Nexus
+📺 Manni-Gaming
 
-👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 6d ago
+👁️ 8K • 👍 512 • 💬 163 • ⏱️ 21:00 • 9h ago
+
+---
+
+**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+
+Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+
+📺 Fox News
+
+👁️ 48K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -266,25 +274,17 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 21K • 👍 211 • ⏱️ 7:30 • 5d ago
+👁️ 21K • 👍 214 • ⏱️ 7:30 • 5d ago
 
 ---
 
-**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
+**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
 
-War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
+Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
 
-📺 Manni-Gaming
+📺 UBTECH Robotics
 
-👁️ 6K • 👍 456 • 💬 154 • ⏱️ 21:00 • 9h ago
-
----
-
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
+👁️ 12K • 👍 191 • 💬 41 • ⏱️ 1:56 • 5d ago
 
 ---
 
