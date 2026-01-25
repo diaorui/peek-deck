@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T08:52:55.556005+00:00'
+updated: '2026-01-25T09:23:22.942415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 08:52 UTC  
+**Last Updated:** January 25, 2026 at 09:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-3h ago
+4h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -70,13 +70,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-12h ago
+13h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
 
-7h ago
+8h ago
 
 ---
 
@@ -110,7 +110,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 16h ago
+ynetnews.com • 17h ago
 
 ---
 
@@ -126,7 +126,7 @@ Electrek • 3d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ USA Today • 15h ago
 
 Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
 
-news.cgtn.com • 19h ago
+news.cgtn.com • 20h ago
 
 ---
 
@@ -196,7 +196,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 86 • 💬 34 • ⏱️ 6:39 • 1d ago
+👁️ 5K • 👍 87 • 💬 35 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 61K • 👍 2K • 💬 116 • ⏱️ 17:39 • 1d ago
+👁️ 62K • 👍 2K • 💬 117 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 47K • 👍 1K • 💬 246 • ⏱️ 0:49 • 2d ago
+👁️ 47K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -234,7 +234,17 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Bernie Sanders
 
-👁️ 25K • 👍 3K • 💬 112 • ⏱️ 1:13 • 2d ago
+👁️ 25K • 👍 3K • 💬 113 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+
+📺 Global News
+
+👁️ 24K • 👍 109 • 💬 98 • ⏱️ 10:15 • 2d ago
 
 ---
 
@@ -244,45 +254,37 @@ Will this company be the “picks and shovels” of the robotics industry? Skild
 
 📺 Rowan Cheung
 
-👁️ 10K • 👍 732 • 💬 7 • ⏱️ 1:13 • 1d ago
+👁️ 11K • 👍 753 • 💬 7 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+**[9 1/2 Inch Robot | 5962 Nordic Storm | FTC Snapshot](https://www.youtube.com/watch?v=-ao-ZQBQm2s)**
 
-Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+This video is supported by@StudicaRobotics. Studica structure is composed of anodized T6 aluminum that stays strong during the ...
 
-📺 Fox Business Clips
+📺 FUN Robotics Network
 
-👁️ 22K • 👍 302 • 💬 118 • ⏱️ 3:39 • 1d ago
-
----
-
-**[My gf goes crazy with this tiny robot 😭💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qLPqgWww8wA)**
-
-📺 Romi Pal
-
-👁️ 736K • 👍 12K • 💬 45 • ⏱️ 0:15 • 4d ago
+👁️ 1K • 👍 35 • 💬 1 • ⏱️ 1:27 • 11h ago
 
 ---
 
-**[[WR] Ultimate DEVASTATOR Bagliore 1,755,600 Damage Per Shot | War Robots Gameplay](https://www.youtube.com/watch?v=FUYI2eHe4TU)**
+**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
 
-Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item in the War Robots Web Shop using the ...
+Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
 
-📺 サハ SAHA
+📺 UBTECH Robotics
 
-👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 19h ago
+👁️ 12K • 👍 183 • 💬 38 • ⏱️ 1:56 • 4d ago
 
 ---
 
-**[NEW Flying Robot ANAKSOR – War Robots Test Server Gameplay WR](https://www.youtube.com/watch?v=3srQgYe8arE)**
+**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
 
-War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator Link: https://wr.my.games/manni Code is ...
+My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
 
-📺 Manni-Gaming
+📺 Old Forge Creations
 
-👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 22h ago
+👁️ 127K • 👍 3K • 💬 41 • ⏱️ 1:20 • 16h ago
 
 ---
 

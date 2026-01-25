@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T08:52:55.546561+00:00'
+updated: '2026-01-25T09:23:22.933073+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 08:52 UTC  
+**Last Updated:** January 25, 2026 at 09:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.26B
+**Market Cap:** $1762.67B
 Rank #1
 
 **Circulating Supply:** 19,980,325 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-30.0%
 
 **All-Time Low:** $67.81
-+130565.1%
++130018.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-16h ago
+17h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Where do people even find that kind of courage?
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -173,13 +173,13 @@ ProPublica • 2d ago
 
 Forget what happened in 2025.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 21h ago
+Binance • 22h ago
 
 ---
 
@@ -326,17 +326,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 65 • ⏱️ 47:21 • 18h ago
-
----
-
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
-
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
-
-📺 CNBC Television
-
-👁️ 35K • 👍 482 • 💬 219 • ⏱️ 2:12 • 1d ago
+👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 19h ago
 
 ---
 
@@ -346,47 +336,27 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 17h ago
+👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 17h ago
 
 ---
 
-**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
+**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
 
-Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
+Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
 
-📺 Fox Business Clips
+📺 CNBC Television
 
-👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 7h ago
-
----
-
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 76K • 👍 3K • 💬 362 • ⏱️ 16:21 • 2d ago
+👁️ 36K • 👍 485 • 💬 219 • ⏱️ 2:12 • 1d ago
 
 ---
 
-**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Brad Long
+📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 327 • ⏱️ 14:05 • 1d ago
-
----
-
-**[&quot;Bitcoin’s 2026 Rally Has One MAJOR Problem!&quot; | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo)**
-
-Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung w/ CryptosRUs to dive deep into why the ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 622 • 💬 288 • ⏱️ 41:20 • 18h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 11h ago
 
 ---
 
@@ -400,23 +370,53 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 ---
 
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
 
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future. In this ...
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
 
 📺 Swan Bitcoin
 
-👁️ 48K • 👍 2K • 💬 158 • ⏱️ 12:29 • 1d ago
+👁️ 77K • 👍 3K • 💬 365 • ⏱️ 16:21 • 2d ago
 
 ---
 
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+**[“Banks Are Going All-In — Bitcoin’s 2026 Supercycle Has Begun” - CZ &amp; Brian Armstrong](https://www.youtube.com/watch?v=yz39qSOVui0)**
 
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Altcoin Daily
+📺 Savvy Finance
 
-👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 10h ago
+👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 16h ago
+
+---
+
+**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 9h ago
+
+---
+
+**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
+
+Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
+
+📺 Fox Business Clips
+
+👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 7h ago
+
+---
+
+**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+
+How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+
+📺 Brad Long
+
+👁️ 26K • 👍 2K • 💬 331 • ⏱️ 14:05 • 1d ago
 
 ---
 

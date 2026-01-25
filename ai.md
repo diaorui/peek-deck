@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T08:52:55.538040+00:00'
+updated: '2026-01-25T09:23:22.924518+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 08:52 UTC  
+**Last Updated:** January 25, 2026 at 09:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 35m ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 21h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 22h ago
 
 ---
 
@@ -97,7 +97,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 18h ago
 
 **[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Times • 9h ago
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 344 • 💬 269 • 8h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 344 • 💬 269 • 9h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 25K • 👍 1K • 💬 368 • ⏱️ 16:18 • 12h ago
+👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 13h ago
 
 ---
 
@@ -297,27 +297,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 8K • 👍 103 • 💬 56 • ⏱️ 16:31 • 2d ago
-
----
-
-**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
-
-Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
-
-📺 Financial Times
-
-👁️ 24K • 👍 631 • 💬 111 • ⏱️ 20:22 • 23h ago
-
----
-
-**[Art Student Eats AI Art in Protest #art #artstudent #peacefulprotest  #creativeresistance](https://www.youtube.com/watch?v=e3RHmBOQm-Y)**
-
-An art student at the University of Alaska Fairbanks protested the use of AI generated art by damaging an exhibition displayed in a ...
-
-📺 Anora
-
-👁️ 1.8M • 👍 69K • 💬 2K • ⏱️ 0:13 • 23h ago
+👁️ 8K • 👍 107 • 💬 56 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -327,7 +307,17 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 130 • ⏱️ 12:48 • 2d ago
+👁️ 62K • 👍 1K • 💬 128 • ⏱️ 12:48 • 2d ago
+
+---
+
+**[Art Student Eats AI Art in Protest #art #artstudent #peacefulprotest  #creativeresistance](https://www.youtube.com/watch?v=e3RHmBOQm-Y)**
+
+An art student at the University of Alaska Fairbanks protested the use of AI generated art by damaging an exhibition displayed in a ...
+
+📺 Anora
+
+👁️ 2.1M • 👍 76K • 💬 2K • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -337,37 +327,37 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 436K • 👍 21K • 💬 5K • ⏱️ 10:08 • 1d ago
+👁️ 440K • 👍 22K • 💬 5K • ⏱️ 10:08 • 1d ago
 
 ---
 
-**[I Remade a $1M iPhone Ad With AI and $9](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
+**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
 
-Can I do it in one day with only $10? Try ElevenLabs today: ...
+Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
 
-📺 AI Samson
+📺 Financial Times
 
-👁️ 5K • 👍 259 • 💬 30 • ⏱️ 14:50 • 18h ago
-
----
-
-**[The Alarming Rise of REALISTIC AI Content](https://www.youtube.com/watch?v=MV9Ro8F_bqI)**
-
-Thank you to Mint Mobile for partnering with us on this video! And for a limited time, you can get 50% off an unlimited premium ...
-
-📺 Visual Venture
-
-👁️ 198K • 👍 10K • 💬 1K • ⏱️ 27:38 • 16h ago
+👁️ 25K • 👍 647 • 💬 112 • ⏱️ 20:22 • 1d ago
 
 ---
 
-**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
+**[Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](https://www.youtube.com/watch?v=BYPlfLQm0CQ)**
 
-CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
+HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo ...
 
-📺 Dylan Curious
+📺 AI Search
 
-👁️ 4K • 👍 278 • 💬 99 • ⏱️ 23:12 • 18h ago
+👁️ 17K • 👍 1K • 💬 171 • ⏱️ 41:25 • 5h ago
+
+---
+
+**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+
+Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+
+📺 AI Revolution
+
+👁️ 15K • 👍 560 • 💬 54 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -377,7 +367,17 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 45K • 👍 2K • 💬 290 • ⏱️ 28:01 • 1d ago
+👁️ 46K • 👍 2K • 💬 294 • ⏱️ 28:01 • 1d ago
+
+---
+
+**[I Remade a $1M iPhone Ad With AI and $9](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
+
+Can I do it in one day with only $10? Try ElevenLabs today: ...
+
+📺 AI Samson
+
+👁️ 5K • 👍 271 • 💬 34 • ⏱️ 14:50 • 18h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,135 • 4d ago
+⬇️ 363,320 • ❤️ 1,138 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 855 • 2d ago
+⬇️ 29,354 • ❤️ 865 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 453 • 3d ago
+⬇️ 21,722 • ❤️ 460 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 375 • 2d ago
+⬇️ 42,703 • ❤️ 384 • 2d ago
 
 ---
 
@@ -441,19 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 313 • 1d ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 68,552 • ❤️ 527 • 9d ago
+⬇️ 195,744 • ❤️ 314 • 1d ago
 
 ---
 
@@ -465,7 +453,19 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 242 • 3d ago
+⬇️ 12,479 • ❤️ 251 • 3d ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 68,552 • ❤️ 530 • 9d ago
 
 ---
 
@@ -477,19 +477,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 241 • 5d ago
-
----
-
-**[Step3-VL-10B](https://huggingface.co/stepfun-ai/Step3-VL-10B)**
-
-*StepFun*
-
-STEP3-VL-10B is a 10B parameter vision-language model excelling in visual perception and complex reasoning, outperforming larger models through unified pre-training and parallel reasoning techniques. Its primary use cases include advanced multimodal understanding and generation tasks.
-
-`image-text-to-text` `10.2B`
-
-⬇️ 45,492 • ❤️ 308 • 2d ago
+⬇️ 634 • ❤️ 243 • 5d ago
 
 ---
 
@@ -501,7 +489,19 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 202 • 2d ago
+⬇️ 2,743 • ❤️ 206 • 2d ago
+
+---
+
+**[Step3-VL-10B](https://huggingface.co/stepfun-ai/Step3-VL-10B)**
+
+*StepFun*
+
+STEP3-VL-10B is a 10B parameter vision-language model excelling in visual perception and complex reasoning, outperforming larger models through unified pre-training and parallel reasoning techniques. Its primary use cases include advanced multimodal understanding and generation tasks.
+
+`image-text-to-text` `10.2B`
+
+⬇️ 45,492 • ❤️ 309 • 2d ago
 
 ---
 
@@ -523,6 +523,20 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 143 • 💬 6 • ⭐ 21,762 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
 
 *Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
@@ -532,20 +546,6 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 ▲ 0 • 💬 0 • ⭐ 3,549 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 143 • 💬 6 • ⭐ 21,633 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -648,7 +648,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 168 • 💬 5 • ⭐ 372 • 6d ago
+▲ 170 • 💬 5 • ⭐ 372 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 553 • 2h ago
+⭐ 10.3k • 🔱 555 • 3h ago
 
 ---
 
@@ -674,7 +674,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 3h ago
+⭐ 9.7k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -684,7 +684,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 463 • 3d ago
+⭐ 9.0k • 🔱 464 • 3d ago
 
 ---
 
@@ -694,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 898 • 2d ago
+⭐ 7.5k • 🔱 900 • 2d ago
 
 ---
 
@@ -704,7 +704,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 5.9k • 🔱 1.0k • 1d ago
+⭐ 6.0k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -714,7 +714,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.5k • 1h ago
+⭐ 5.3k • 🔱 5.5k • 3m ago
 
 ---
 
@@ -724,7 +724,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 481 • 10h ago
+⭐ 4.5k • 🔱 482 • 11h ago
 
 ---
 
@@ -732,7 +732,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.8k • 🔱 234 • 2d ago
+⭐ 2.9k • 🔱 234 • 2d ago
 
 ---
 
@@ -742,7 +742,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.5k • 🔱 529 • 1h ago
+⭐ 2.5k • 🔱 536 • 2h ago
 
 ---
 

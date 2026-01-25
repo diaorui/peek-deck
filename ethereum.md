@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T08:52:55.552705+00:00'
+updated: '2026-01-25T09:23:22.939157+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 08:52 UTC  
+**Last Updated:** January 25, 2026 at 09:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.30B
+**Market Cap:** $353.35B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677734.3%
++676115.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 15h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -194,7 +194,7 @@ PYMNTS.com • 2d ago
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-CCN.com • 22h ago
+CCN.com • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView — Track All Markets • 1d ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -234,23 +234,13 @@ Bitcoinist.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
-
-Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 16h ago
-
----
-
 **[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
 
 BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
 📺 Tevis
 
-👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 12h ago
+👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 12h ago
 
 ---
 
@@ -260,7 +250,17 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 10h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 11h ago
+
+---
+
+**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
+
+Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 35K • 👍 1K • 💬 134 • ⏱️ 17:24 • 2d ago
+👁️ 35K • 👍 1K • 💬 135 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -280,37 +280,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 43K • 👍 2K • 💬 212 • ⏱️ 19:54 • 2d ago
-
----
-
-**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
-
-CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 14h ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HN1KadyVdRk)**
-
-BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 16h ago
-
----
-
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
-
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
-
-📺 World Liberty Financial
-
-👁️ 6K • 👍 27 • 💬 4 • ⏱️ 1:36 • 2d ago
+👁️ 43K • 👍 2K • 💬 209 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -320,7 +290,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 89 • 💬 9 • ⏱️ 4:34 • 15h ago
+👁️ 2K • 👍 91 • 💬 9 • ⏱️ 4:34 • 16h ago
+
+---
+
+**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
+
+CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
+
+📺 CryptoWendyO
+
+👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 15h ago
+
+---
+
+**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
+
+GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
+
+📺 World Liberty Financial
+
+👁️ 7K • 👍 23 • 💬 4 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -331,6 +321,16 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 5K • 👍 188 • 💬 47 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[🚨 URGENT TOP PREMIER CRYPTO ASSETS TO BUY NOW! #xrp #eth #bitcoin](https://www.youtube.com/watch?v=pa0ncwv1U44)**
+
+Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-powered tool instantly compares tokens using ...
+
+📺 Zach Humphries
+
+👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 7h ago
 
 ---
 
