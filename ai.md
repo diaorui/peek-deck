@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T04:57:09.213464+00:00'
+updated: '2026-01-25T05:32:48.563257+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 04:57 UTC  
+**Last Updated:** January 25, 2026 at 05:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 4h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 17h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 18h ago
 
 ---
 
@@ -69,14 +69,6 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 ---
 
-**[met someone who does ai cloning to "preserve legacy" as in your grandfather ,etc. Would this work?](https://www.reddit.com/r/artificial/comments/1qlvkka/met_someone_who_does_ai_cloning_to_preserve/)**
-
-So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
-
-9h ago
-
----
-
 **[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
@@ -93,6 +85,14 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
+**[met someone who does ai cloning to "preserve legacy" as in your grandfather ,etc. Would this work?](https://www.reddit.com/r/artificial/comments/1qlvkka/met_someone_who_does_ai_cloning_to_preserve/)**
+
+So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
+
+10h ago
+
+---
+
 **[White House posts digitally altered image of woman arrested after ICE protest](https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/)**
 
 Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
@@ -105,7 +105,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-23h ago
+1d ago
 
 ---
 
@@ -135,9 +135,57 @@ BBC • 1d ago
 
 ---
 
-**[China Trains AI-Controlled Weapons With Learning From Hawks, Coyotes](https://www.wsj.com/world/china/china-ai-weapons-hawks-wolves-2fcb58bb?gaa_at=eafs&gaa_n=AWEtsqflBeth4OaGVSRiuMrM5NaokFgn6SQZbT8Peuty5ALfrSZLOv7GfCe1&gaa_ts=697598b0&gaa_sig=BZ-_1x8AuW5SNydlHYY_Q-SlTuveAut3o6L029-VGIHeFs8C1No8lSy29-FA0niPwU8eCUNBu8fE7RnIWI9XdA%3D%3D)**
+**[New UCLA AI tool targets Alzheimer's cases often missed in early diagnosis](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/)**
 
-The Wall Street Journal • 2h ago
+Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
+
+abc7.com • 25m ago
+
+---
+
+**[Pope Leo urging caution of "overly affectionate" AI chatbots](https://www.cbsnews.com/chicago/video/pope-leo-urging-caution-of-overly-affectionate-ai-chatbots/)**
+
+The pope said because chatbots are always present and available they can become hidden architects of our emotional states and invade our intimate spheres.
+
+CBS News • 12m ago
+
+---
+
+**[Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals](https://www.bloomberg.com/news/articles/2026-01-24/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Bill Gates Issues Warning on AI Investment Hype, Urges Caution](https://www.investopedia.com/bill-gates-issues-warning-on-ai-investment-hype-urges-caution-11890826)**
+
+Bill Gates on Wednesday warned the AI industry will be "hypercompetitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
+
+Investopedia • 9h ago
+
+---
+
+**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
+
+‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
+
+Financial Times • 31m ago
+
+---
+
+**[Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'](https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html)**
+
+More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
+
+CNBC • 14h ago
+
+---
+
+**[Meta has quietly become an AI infrastructure giant. 'Meta Compute' is Zuckerberg making it official.](https://fortune.com/2026/01/24/meta-compute-zuckerberg-ai-infrastructure-giant-data-center/)**
+
+With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
+
+Fortune • 16h ago
 
 ---
 
@@ -149,52 +197,6 @@ WIRED • 1d ago
 
 ---
 
-**[Meta has quietly become an AI infrastructure giant. 'Meta Compute' is Zuckerberg making it official.](https://fortune.com/2026/01/24/meta-compute-zuckerberg-ai-infrastructure-giant-data-center/)**
-
-With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
-
-Fortune • 15h ago
-
----
-
-**[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
-
-The Washington Post • 10h ago
-
----
-
-**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
-
-Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
-
-CNN • 12h ago
-
----
-
-**[Mike Rowe warns AI will hit white-collar workers hardest — welders are safe for now](https://www.foxbusiness.com/media/mike-rowe-warns-ai-will-hit-white-collar-workers-hardest-welders-safe-for-now)**
-
-Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
-
-Fox Business • 15h ago
-
----
-
-**[Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)**
-
-Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
-
-The Guardian • 11h ago
-
----
-
-**[Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/)**
-
-There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
-
-TechCrunch • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +205,7 @@ TechCrunch • 8h ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 542 • 💬 414 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 544 • 💬 414 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -215,6 +217,14 @@ The one where I get very annoyed with my email provider
 
 ---
 
+**[Adoption of EVs tied to real-world reductions in air pollution: study](https://news.ycombinator.com/item?id=46749198)**
+
+Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
+
+⬆️ 234 • 💬 181 • 5h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+
+---
+
 **[Auto-compact not triggering on Claude.ai despite being marked as fixed](https://news.ycombinator.com/item?id=46736091)**
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
@@ -223,19 +233,11 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 ---
 
-**[Adoption of EVs tied to real-world reductions in air pollution: study](https://news.ycombinator.com/item?id=46749198)**
-
-Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
-
-⬆️ 162 • 💬 114 • 4h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
-
----
-
 **[Satya Nadella: "We need to find something useful for AI"](https://news.ycombinator.com/item?id=46718485)**
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 158 • 💬 208 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 159 • 💬 208 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -243,7 +245,7 @@ Workers should learn AI skills and companies should use it because it's a "cogni
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-⬆️ 132 • 💬 79 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+⬆️ 133 • 💬 79 • 1d ago • [BBC News](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 
 ---
 
@@ -271,7 +273,7 @@ Helping you make informed decisions about your health by combining the latest re
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 68 • 💬 26 • 1d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 69 • 💬 26 • 1d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
 
 ---
 
@@ -285,7 +287,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 22K • 👍 918 • 💬 333 • ⏱️ 16:18 • 8h ago
+👁️ 22K • 👍 918 • 💬 333 • ⏱️ 16:18 • 9h ago
 
 ---
 
@@ -315,7 +317,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 1.5M • 👍 59K • 💬 2K • ⏱️ 0:13 • 19h ago
+👁️ 1.5M • 👍 59K • 💬 2K • ⏱️ 0:13 • 20h ago
 
 ---
 
@@ -325,7 +327,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 23K • 👍 608 • 💬 104 • ⏱️ 20:22 • 19h ago
+👁️ 23K • 👍 608 • 💬 104 • ⏱️ 20:22 • 20h ago
 
 ---
 
@@ -345,7 +347,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 5K • 👍 248 • 💬 28 • ⏱️ 14:50 • 14h ago
+👁️ 5K • 👍 248 • 💬 28 • ⏱️ 14:50 • 15h ago
 
 ---
 
@@ -427,7 +429,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 364 • 1d ago
+⬇️ 20,374 • ❤️ 364 • 2d ago
 
 ---
 
@@ -577,7 +579,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 17 • 💬 3 • ⭐ 366 • 8d ago
+▲ 17 • 💬 3 • ⭐ 366 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -670,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 4m ago
+⭐ 9.7k • 🔱 1.3k • 39m ago
 
 ---
 
@@ -720,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 478 • 6h ago
+⭐ 4.5k • 🔱 478 • 7h ago
 
 ---
 
@@ -738,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.4k • 🔱 523 • 8h ago
+⭐ 2.4k • 🔱 523 • 9h ago
 
 ---
 

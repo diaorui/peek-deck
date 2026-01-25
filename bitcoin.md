@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T04:57:09.221767+00:00'
+updated: '2026-01-25T05:32:48.571547+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 04:57 UTC  
+**Last Updated:** January 25, 2026 at 05:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,838.26
+### $89,079.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -4.0%  
+**24h:** -0.8%  
+**7d:** -3.9%  
 **30d:** +1.2%  
 **90d:** -21.2%  
 **1y:** -13.3%  
@@ -81,7 +81,7 @@ Rank #1
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,13 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-12h ago
+13h ago
+
+---
+
+**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
+
+1h ago
 
 ---
 
@@ -99,11 +105,17 @@ Where do people even find that kind of courage?
 
 ---
 
+**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+
+2h ago
+
+---
+
 **[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-19h ago
+20h ago
 
 ---
 
@@ -117,13 +129,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-9h ago
-
----
-
-**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
-
-1h ago
+10h ago
 
 ---
 
@@ -131,19 +137,15 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-12h ago
+13h ago
 
 ---
 
-**[Hahahahaha](https://www.reddit.com/r/Bitcoin/comments/1qm34rq/hahahahaha/)**
+**[Fiat ship is sinking cartoon](https://www.reddit.com/r/Bitcoin/comments/1qm6twb/fiat_ship_is_sinking_cartoon/)**
 
-5h ago
+Credits to ChatGPT
 
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
-
-21h ago
+2h ago
 
 ---
 
@@ -155,7 +157,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -185,7 +187,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 17h ago
+Binance • 18h ago
 
 ---
 
@@ -324,7 +326,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 14h ago
+👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 15h ago
 
 ---
 
@@ -334,7 +336,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 13h ago
+👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 14h ago
 
 ---
 
@@ -364,7 +366,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 6h ago
+👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 7h ago
 
 ---
 
@@ -404,7 +406,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 14h ago
+👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 15h ago
 
 ---
 

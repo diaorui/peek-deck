@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T04:57:09.230962+00:00'
+updated: '2026-01-25T05:32:48.580775+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 04:57 UTC  
+**Last Updated:** January 25, 2026 at 05:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,13 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-16h ago
+17h ago
+
+---
+
+**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
+
+2h ago
 
 ---
 
@@ -56,25 +62,19 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-8h ago
-
----
-
-**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
-
-21h ago
-
----
-
-**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
-
-1h ago
+9h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-3h ago
+4h ago
+
+---
+
+**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
+
+22h ago
 
 ---
 
@@ -86,17 +86,19 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 ---
 
-**[First field test of 'Papaya Pathfinder', my 3D-printed Rocker-Bogie rover. Checking suspension geometry and motor torque on uneven terrain.](https://www.reddit.com/r/robotics/comments/1ql44r0/first_field_test_of_papaya_pathfinder_my/)**
+**[Best servo set up for remote control gimbal head](https://www.reddit.com/r/robotics/comments/1qm4mg3/best_servo_set_up_for_remote_control_gimbal_head/)**
 
-1d ago
+This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
+
+4h ago
 
 ---
 
-**[Visual localization from satellite imagery as a GNSS fallback for drones](https://www.reddit.com/r/robotics/comments/1qlmbjc/visual_localization_from_satellite_imagery_as_a/)**
+**[Swarm Robotics: 90 Mobile "Robots" Tracked At Once](https://www.reddit.com/r/robotics/comments/1qma8s2/swarm_robotics_90_mobile_robots_tracked_at_once/)**
 
-Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. As part of my final-year project, I built a visual localization pipeline for drones using only open-source datasets and pretrained models. The idea is to explore whether satellite imagery can serve as a practical GNSS fallback, using just a downward-facing camera and publicly available satellite maps. The system was tested on the UAV-VisLoc dataset and is fully reproducible—no proprietary data, no custom foundation model training. Camera tilt is handled using attitude data, and the search space is constrained using motion to keep things efficient. Many approaches exist for GNSS-denied navigation (VIO, VPR, sensor fusion, etc.). This work focuses on satellite-based image matching and is meant to be complementary to those methods. Code, setup, and results are all publicly available. Feedback is welcome, and a ⭐ helps a lot. https://github.com/hamitbugrabayram/SatelliteLocalization
+Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-15h ago
+10m ago
 
 ---
 
@@ -108,7 +110,7 @@ Hey guys, I recently graduated in Astronautical Engineering and wanted to share 
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 12h ago
+ynetnews.com • 13h ago
 
 ---
 
@@ -120,19 +122,19 @@ Electrek • 3d ago
 
 ---
 
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+
+Financial Times • 32m ago
+
+---
+
 **[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
 
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
 
 fox11online.com • 1d ago
-
----
-
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
-
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
-
-Business Insider • 2d ago
 
 ---
 
@@ -144,6 +146,14 @@ AgFunderNews • 2d ago
 
 ---
 
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
+
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
+
+Business Insider • 2d ago
+
+---
+
 **[New magnetic polymer design boosts force and stretch in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
@@ -152,27 +162,19 @@ Interesting Engineering • 1h ago
 
 ---
 
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+
+Live Science • 18h ago
+
+---
+
 **[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
 wbay.com • 1d ago
-
----
-
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
-
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
-
-Live Science • 17h ago
-
----
-
-**[Serve Enters Healthcare With Diligent Robotics Acquisition](https://finance.yahoo.com/news/serve-enters-healthcare-diligent-robotics-161400132.html)**
-
-SERV enters healthcare with a $29M stock deal for Diligent Robotics, adding Moxi hospital robots and expanding its platform into indoor environments.
-
-Yahoo Finance • 3d ago
 
 ---
 
@@ -194,7 +196,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 86 • 💬 34 • ⏱️ 6:39 • 23h ago
+👁️ 4K • 👍 86 • 💬 34 • ⏱️ 6:39 • 1d ago
 
 ---
 
