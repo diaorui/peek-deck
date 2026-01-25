@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T05:32:48.580775+00:00'
+updated: '2026-01-25T06:34:38.046174+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 05:32 UTC  
+**Last Updated:** January 25, 2026 at 06:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-3h ago
+4h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,49 +48,13 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-17h ago
+18h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-2h ago
-
----
-
-**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
-
-Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
-
-9h ago
-
----
-
-**[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
-
-4h ago
-
----
-
-**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
-
-22h ago
-
----
-
-**[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
-
-A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
-
-20h ago
-
----
-
-**[Best servo set up for remote control gimbal head](https://www.reddit.com/r/robotics/comments/1qm4mg3/best_servo_set_up_for_remote_control_gimbal_head/)**
-
-This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
-
-4h ago
+3h ago
 
 ---
 
@@ -98,7 +62,43 @@ This a is photo of my current set up it’s a spraying machine for mosquitos tha
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-10m ago
+1h ago
+
+---
+
+**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
+
+Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
+
+10h ago
+
+---
+
+**[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
+
+5h ago
+
+---
+
+**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
+
+23h ago
+
+---
+
+**[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
+
+A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
+
+21h ago
+
+---
+
+**[Best servo set up for remote control gimbal head](https://www.reddit.com/r/robotics/comments/1qm4mg3/best_servo_set_up_for_remote_control_gimbal_head/)**
+
+This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
+
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 13h ago
+ynetnews.com • 14h ago
 
 ---
 
@@ -122,19 +122,11 @@ Electrek • 3d ago
 
 ---
 
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
 
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
 
-Financial Times • 32m ago
-
----
-
-**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
-
-The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
-
-fox11online.com • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -146,30 +138,6 @@ AgFunderNews • 2d ago
 
 ---
 
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
-
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
-
-Business Insider • 2d ago
-
----
-
-**[New magnetic polymer design boosts force and stretch in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1h ago
-
----
-
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
-
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
-
-Live Science • 18h ago
-
----
-
 **[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
@@ -178,11 +146,43 @@ wbay.com • 1d ago
 
 ---
 
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+
+Live Science • 19h ago
+
+---
+
 **[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
 
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
 The Robot Report • 1d ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 12h ago
+
+---
+
+**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+
+The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+
+fox11online.com • 1d ago
+
+---
+
+**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
+
+Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
+
+news.cgtn.com • 17h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome to the future of football! ⚽   In this video, an advanced AI Robot Goa
 
 📺 Aww Ranking
 
-👁️ 20K • 👍 88 • ⏱️ 0:19 • 20h ago
+👁️ 20K • 👍 88 • ⏱️ 0:19 • 21h ago
 
 ---
 

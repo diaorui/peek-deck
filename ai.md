@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T05:32:48.563257+00:00'
+updated: '2026-01-25T06:34:38.030761+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 05:32 UTC  
+**Last Updated:** January 25, 2026 at 06:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 5h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 18h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 18h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-22h ago
+23h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -135,41 +135,17 @@ BBC • 1d ago
 
 ---
 
-**[New UCLA AI tool targets Alzheimer's cases often missed in early diagnosis](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/)**
+**[AI-generated British schoolgirl becomes far-right social media meme](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
 
-Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
+Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-abc7.com • 25m ago
-
----
-
-**[Pope Leo urging caution of "overly affectionate" AI chatbots](https://www.cbsnews.com/chicago/video/pope-leo-urging-caution-of-overly-affectionate-ai-chatbots/)**
-
-The pope said because chatbots are always present and available they can become hidden architects of our emotional states and invade our intimate spheres.
-
-CBS News • 12m ago
+The Guardian • 34m ago
 
 ---
 
-**[Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals](https://www.bloomberg.com/news/articles/2026-01-24/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals)**
+**[AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/25/all)**
 
-Bloomberg.com • 20h ago
-
----
-
-**[Bill Gates Issues Warning on AI Investment Hype, Urges Caution](https://www.investopedia.com/bill-gates-issues-warning-on-ai-investment-hype-urges-caution-11890826)**
-
-Bill Gates on Wednesday warned the AI industry will be "hypercompetitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
-
-Investopedia • 9h ago
-
----
-
-**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
-
-‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
-
-Financial Times • 31m ago
+The Guardian • 25m ago
 
 ---
 
@@ -177,7 +153,7 @@ Financial Times • 31m ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -185,7 +161,7 @@ CNBC • 14h ago
 
 With Meta Compute, Mark Zuckerberg is turning data centers, chips, and power into what may be the company’s next great strategic weapon.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -197,6 +173,28 @@ WIRED • 1d ago
 
 ---
 
+**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
+
+Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
+
+CNN • 14h ago
+
+---
+
+**[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
+
+The Washington Post • 12h ago
+
+---
+
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+
+blog.google • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +203,7 @@ WIRED • 1d ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 544 • 💬 414 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 545 • 💬 414 • 1d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +219,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 234 • 💬 181 • 5h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 254 • 💬 210 • 6h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -251,7 +249,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 **[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
 
-⬆️ 99 • 💬 47 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+⬆️ 100 • 💬 47 • 1d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 
 ---
 
@@ -287,7 +285,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 22K • 👍 918 • 💬 333 • ⏱️ 16:18 • 9h ago
+👁️ 22K • 👍 918 • 💬 333 • ⏱️ 16:18 • 10h ago
 
 ---
 
@@ -307,7 +305,7 @@ AI Filmmaking is now easier than ever with Nano Banana & Kling AI Try out Artlis
 
 📺 Dan Kieft
 
-👁️ 20K • 💬 18 • ⏱️ 16:14 • 16h ago
+👁️ 20K • 💬 18 • ⏱️ 16:14 • 17h ago
 
 ---
 
@@ -317,7 +315,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 1.5M • 👍 59K • 💬 2K • ⏱️ 0:13 • 20h ago
+👁️ 1.5M • 👍 59K • 💬 2K • ⏱️ 0:13 • 21h ago
 
 ---
 
@@ -327,7 +325,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 23K • 👍 608 • 💬 104 • ⏱️ 20:22 • 20h ago
+👁️ 23K • 👍 608 • 💬 104 • ⏱️ 20:22 • 21h ago
 
 ---
 
@@ -347,7 +345,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 5K • 👍 248 • 💬 28 • ⏱️ 14:50 • 15h ago
+👁️ 5K • 👍 248 • 💬 28 • ⏱️ 14:50 • 16h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 553 • 23h ago
+⭐ 10.2k • 🔱 553 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 39m ago
+⭐ 9.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -712,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.5k • 1h ago
+⭐ 5.2k • 🔱 5.5k • 2h ago
 
 ---
 
@@ -722,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 478 • 7h ago
+⭐ 4.5k • 🔱 478 • 8h ago
 
 ---
 
@@ -740,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.4k • 🔱 523 • 9h ago
+⭐ 2.4k • 🔱 523 • 10h ago
 
 ---
 

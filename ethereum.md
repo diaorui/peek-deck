@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T05:32:48.577557+00:00'
+updated: '2026-01-25T06:34:38.043416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 05:32 UTC  
+**Last Updated:** January 25, 2026 at 06:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,939.52
+### $2,939.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -7.5%  
-**30d:** -0.1%  
-**90d:** -25.9%  
-**1y:** -8.7%  
+**24h:** -0.6%  
+**7d:** -7.8%  
+**30d:** -0.3%  
+**90d:** -26.1%  
+**1y:** -9.0%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 25, 2026](https://www.reddit.com/r/ethereum/comments/1qmaztv/daily_general_discussion_january_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+33m ago
+
+---
+
 **[Daily General Discussion January 24, 2026](https://www.reddit.com/r/ethereum/comments/1qlf2ht/daily_general_discussion_january_24_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ---
 
-**[Daily General Discussion January 22, 2026](https://www.reddit.com/r/ethereum/comments/1qjmmhb/daily_general_discussion_january_22_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 2d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 318 • 💬 80 • ⏱️ 7:22 • 13h ago
+👁️ 5K • 👍 318 • 💬 80 • ⏱️ 7:22 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 10K • 👍 650 • 💬 94 • ⏱️ 29:47 • 8h ago
+👁️ 10K • 👍 650 • 💬 94 • ⏱️ 29:47 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 7h ago
+👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-p
 
 📺 Zach Humphries
 
-👁️ 746 • 👍 16 • 💬 25 • ⏱️ 0:54 • 3h ago
+👁️ 746 • 👍 16 • 💬 25 • ⏱️ 0:54 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 1K • 💬 22 • ⏱️ 12:01 • 11h ago
+👁️ 12K • 👍 1K • 💬 22 • ⏱️ 12:01 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 84 • 💬 9 • ⏱️ 4:34 • 12h ago
+👁️ 1K • 👍 84 • 💬 9 • ⏱️ 4:34 • 13h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T05:32:48.571547+00:00'
+updated: '2026-01-25T06:34:38.038184+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 05:32 UTC  
+**Last Updated:** January 25, 2026 at 06:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,079.71
+### $88,853.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -3.9%  
-**30d:** +1.2%  
-**90d:** -21.2%  
-**1y:** -13.3%  
+**24h:** -0.9%  
+**7d:** -4.1%  
+**30d:** +1.0%  
+**90d:** -21.3%  
+**1y:** -13.4%  
 
 ---
 
@@ -77,45 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People are severely underestimating Bitcoin scarcity](https://www.reddit.com/r/Bitcoin/comments/1qlun77/people_are_severely_underestimating_bitcoin/)**
-
-As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
-
-11h ago
-
----
-
 **[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
 
 Where do people even find that kind of courage?
 
-13h ago
+14h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-5h ago
+6h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-2h ago
-
----
-
-**[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
-
-Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
-
-20h ago
+3h ago
 
 ---
 
@@ -123,13 +107,21 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-6h ago
+7h ago
+
+---
+
+**[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
+
+Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
+
+21h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +129,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +137,13 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Credits to ChatGPT
 
-2h ago
+3h ago
+
+---
+
+**[The summary of this cycle](https://www.reddit.com/r/Bitcoin/comments/1qm25oq/the_summary_of_this_cycle/)**
+
+7h ago
 
 ---
 
@@ -157,7 +155,7 @@ Credits to ChatGPT
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,11 +167,25 @@ ProPublica • 2d ago
 
 ---
 
+**[These Two Crypto ETFS Offer Strong Exposure to Bitcoin](https://www.fool.com/coverage/etfs/2026/01/24/these-two-crypto-etfs-offer-strong-exposure-to-bitcoin/)**
+
+Investing in cryptocurrencies can be tricky, but these ETFs may make it simpler for investors to get involved in the booming market.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Bitcoin underperformed gold, but the golden age of the crypto economy has just begun.](https://news.futunn.com/en/post/67862517/bitcoin-underperformed-gold-but-the-golden-age-of-the-crypto)**
 
 Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the crypto economy is at its most crucial transition point in eight years. This article delves into how the market has 'soft-landed' from the excessive expectations of 2021 and gradually built a valuation framework based on cash flow and real use cases. The author explains the past four years of growing pains through the 'Red Queen Effect' and points out that with the easing of U.S. regulations and the explosion of enterprise-level applications, crypto assets are shifting from cyclical speculation to long-term trend growth. Facing a global trust crisis and currency devaluation, this is not only an industry
 
-富途资讯 • 2h ago
+富途资讯 • 3h ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+
+Binance • 19h ago
 
 ---
 
@@ -182,20 +194,6 @@ Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the cryp
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
-
-Binance • 18h ago
-
----
-
-**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
-
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
-
-Forbes • 1d ago
 
 ---
 
@@ -213,19 +211,19 @@ Fortune • 3d ago
 
 ---
 
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
-
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
 
 Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 1d ago
 
 ---
 
@@ -326,7 +324,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 15h ago
+👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 16h ago
 
 ---
 
@@ -336,7 +334,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 14h ago
+👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 15h ago
 
 ---
 
@@ -366,7 +364,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 7h ago
+👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 8h ago
 
 ---
 
@@ -376,7 +374,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 453 • 💬 149 • ⏱️ 8:27 • 5h ago
+👁️ 4K • 👍 453 • 💬 149 • ⏱️ 8:27 • 6h ago
 
 ---
 
@@ -406,7 +404,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 15h ago
+👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 16h ago
 
 ---
 
