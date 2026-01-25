@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T09:43:47.757886+00:00'
+updated: '2026-01-25T10:23:48.616930+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 09:43 UTC  
+**Last Updated:** January 25, 2026 at 10:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 1h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 22h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 23h ago
 
 ---
 
@@ -65,7 +65,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-14h ago
+15h ago
 
 ---
 
@@ -121,17 +121,47 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 ## Google News: "ai"
 
-**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
+**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
 
-The New York Times • 18h ago
+Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
+
+The Guardian • 4h ago
 
 ---
 
-**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
+**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
+The New York Times • 19h ago
 
-WIRED • 1d ago
+---
+
+**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
+
+‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
+
+Financial Times • 5h ago
+
+---
+
+**[Bill Gates Issues Warning on AI Investment Hype, Urges Caution](https://www.investopedia.com/bill-gates-issues-warning-on-ai-investment-hype-urges-caution-11890826)**
+
+Bill Gates on Wednesday warned the AI industry will be "hypercompetitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
+
+Investopedia • 13h ago
+
+---
+
+**[Goldman Reaffirms Preference for Nvidia (NVDA) in AI Compute Ecosystem](https://finance.yahoo.com/news/goldman-reaffirms-preference-nvidia-nvda-091353958.html)**
+
+NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks Analysts are Watching. On January 20, Goldman Sachs reaffirmed its preference for Broadcom and Nvidia, highlighting that it continues to prefer both names within the compute ecosystem. The firm developed an “investment cost curve” to compare the economies of different chipmakers’ AI solutions and their […]
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
+
+The New York Times • 21m ago
 
 ---
 
@@ -143,41 +173,17 @@ CNBC • 19h ago
 
 ---
 
+**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
+
+A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
+
+WIRED • 1d ago
+
+---
+
 **[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
 
-The Washington Post • 15h ago
-
----
-
-**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
-
-The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
-
-BBC • 1d ago
-
----
-
-**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
-
-Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
-
-CNN • 17h ago
-
----
-
-**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqfWsUeTjdfbKkHXtuIPo-7vpRhiOO-xQOhD4Gopu1MzeeyIdoLyvIZ7&gaa_ts=6975dd58&gaa_sig=x8qpZMtqhll-scvRrOc5cxW-OCit1R0wUHHq_dgmgXjZun7OKfN50qhKT8Ik4NdsGeWsRoqaaOC66qArGBx0KQ%3D%3D)**
-
-In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
-
-The Times • 10h ago
-
----
-
-**[AI-generated British schoolgirl becomes far-right social media meme](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
-
-Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
-
-The Guardian • 3h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -185,15 +191,7 @@ The Guardian • 3h ago
 
 Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
 
-Fox Business • 19h ago
-
----
-
-**[Google’s AI Detection Tool Can’t Decide if Its Own AI Made Doctored Photo of Crying Activist](https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/)**
-
-Google’s SynthID AI detection tool flip-flopped when asked if an image posted by the White House was altered by Google's own AI.
-
-The Intercept • 6h ago
+Fox Business • 20h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Intercept • 6h ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 545 • 💬 416 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 546 • 💬 417 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -213,7 +211,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 499 • 💬 272 • 1d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 499 • 💬 272 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -221,7 +219,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 344 • 💬 269 • 9h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 385 • 💬 323 • 10h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -287,7 +285,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 13h ago
+👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 14h ago
 
 ---
 
@@ -664,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 555 • 3h ago
+⭐ 10.3k • 🔱 555 • 4h ago
 
 ---
 
@@ -674,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 4h ago
+⭐ 9.7k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -714,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.5k • 23m ago
+⭐ 5.3k • 🔱 5.5k • 1h ago
 
 ---
 
@@ -724,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 482 • 11h ago
+⭐ 4.5k • 🔱 482 • 12h ago
 
 ---
 
@@ -742,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.5k • 🔱 536 • 2h ago
+⭐ 2.5k • 🔱 536 • 3h ago
 
 ---
 

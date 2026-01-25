@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T09:43:47.775389+00:00'
+updated: '2026-01-25T10:23:48.634488+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 09:43 UTC  
+**Last Updated:** January 25, 2026 at 10:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-4h ago
+5h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -70,13 +70,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-13h ago
+14h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
 
-8h ago
+9h ago
 
 ---
 
@@ -110,7 +110,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 17h ago
+ynetnews.com • 18h ago
 
 ---
 
@@ -122,11 +122,11 @@ Electrek • 3d ago
 
 ---
 
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
 
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
 
-Financial Times • 4h ago
+Business Insider • 2d ago
 
 ---
 
@@ -138,11 +138,11 @@ AgFunderNews • 2d ago
 
 ---
 
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Business Insider • 2d ago
+Financial Times • 5h ago
 
 ---
 
@@ -162,14 +162,6 @@ The Robot Report • 1d ago
 
 ---
 
-**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
-
-The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
-
-fox11online.com • 1d ago
-
----
-
 **[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
@@ -182,7 +174,15 @@ USA Today • 16h ago
 
 Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
 
-news.cgtn.com • 20h ago
+news.cgtn.com • 21h ago
+
+---
+
+**[Elon Musk: Humanoid robots will be sold by 'end of next year'](https://finance.yahoo.com/video/elon-musk-humanoid-robots-sold-190041670.html)**
+
+Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
+
+Yahoo Finance • 2d ago
 
 ---
 

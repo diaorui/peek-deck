@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T09:43:47.766202+00:00'
+updated: '2026-01-25T10:23:48.625360+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 09:43 UTC  
+**Last Updated:** January 25, 2026 at 10:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,244.42
+### $88,549.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -4.7%  
-**30d:** +0.4%  
-**90d:** -21.8%  
-**1y:** -14.0%  
+**24h:** -1.2%  
+**7d:** -4.4%  
+**30d:** +0.7%  
+**90d:** -21.6%  
+**1y:** -13.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,25 +87,43 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-17h ago
+18h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-9h ago
+10h ago
+
+---
+
+**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
+
+58m ago
+
+---
+
+**[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
+
+1h ago
+
+---
+
+**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
+
+1h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,30 +143,6 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[Fiat ship is sinking cartoon](https://www.reddit.com/r/Bitcoin/comments/1qm6twb/fiat_ship_is_sinking_cartoon/)**
-
-Credits to ChatGPT
-
-7h ago
-
----
-
-**[0.6 BTC and now need a reliable DCA app](https://www.reddit.com/r/Bitcoin/comments/1qm89cg/06_btc_and_now_need_a_reliable_dca_app/)**
-
-I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81K. Now I am planning to deposit $50 every day for DCA. Tried one month with Binance but the Convert function always gives bad rates compared to market rates. I was wondering what kind of apps are out there for DCA with near market rates or minimal charges? I will be converting fiat to USDT via Binance and would like to use that instead of direct deposit. Suggestions pls.
-
-6h ago
-
----
-
-**[500 BTC = $1](https://www.reddit.com/r/Bitcoin/comments/1qlqx6r/500_btc_1/)**
-
-📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
-
-17h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,7 +151,7 @@ I have 0.6 BTC and some are even purchased at 112K. Nevertheless averaging to 81
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,31 +163,31 @@ ProPublica • 2d ago
 
 ---
 
+**[Proposal to Temporarily Cap Bitcoin Transaction Data Gains Support From 583 Nodes](https://finance.yahoo.com/news/proposal-temporarily-cap-bitcoin-transaction-085200521.html)**
+
+Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
+
+Binance • 1h ago
+
+---
+
 **[These 3 Cryptocurrencies Could Skyrocket in 2026](https://www.fool.com/investing/2026/01/25/these-3-cryptocurrencies-could-skyrocket-in-2026/)**
 
 Forget what happened in 2025.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
 
-Binance • 22h ago
-
----
-
-**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
-
-Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
-
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
 Forbes • 1d ago
 
@@ -213,11 +207,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
 
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 1d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -254,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 5d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 6d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -326,7 +318,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 19h ago
+👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 20h ago
 
 ---
 
@@ -356,7 +348,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 11h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 12h ago
 
 ---
 
@@ -396,7 +388,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 9h ago
+👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 10h ago
 
 ---
 

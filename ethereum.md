@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T09:43:47.772165+00:00'
+updated: '2026-01-25T10:23:48.631295+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 09:43 UTC  
+**Last Updated:** January 25, 2026 at 10:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,939.31
+### $2,927.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -8.1%  
-**30d:** -0.6%  
-**90d:** -26.4%  
-**1y:** -9.3%  
+**24h:** -0.7%  
+**7d:** -7.8%  
+**30d:** -0.3%  
+**90d:** -26.1%  
+**1y:** -9.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
+
+---
+
+**[Most Web3 losses don’t start with a smart contract bug](https://www.reddit.com/r/ethereum/comments/1qmemlb/most_web3_losses_dont_start_with_a_smart_contract/)**
+
+A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
+
+57m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-18h ago
+19h ago
 
 ---
 
@@ -140,14 +148,6 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ---
 
-**[Taking back lost ground in computing self-sovereignty, beyond Ethereum](https://www.reddit.com/r/ethereum/comments/1qk7u95/taking_back_lost_ground_in_computing/)**
-
-2026 is the year we take back lost ground in computing self-sovereignty. But this applies far beyond the blockchain world. In 2025, I made two major changes to the software I use: Switched almost fully to https://fileverse.io/ (open source encrypted decentralized docs) Switched decisively to Signal as primary messenger (away from Telegram). Also installed Simplex and Session. This year changes I've made are: Google Maps -> OpenStreetMap https://www.openstreetmap.org/, OrganicMaps https://organicmaps.app/ is the best mobile app I've seen for it. Not just open source but also privacy-preserving because local, which is important because it's good to reduce the number of apps/places/people who know anything about your physical location Gmail -> Protonmail (though ultimately, the best thing is to use proper encrypted messengers outright) Prioritizing decentralized social media (see my previous post) Also continuing to explore local LLM setups. This is one area that still needs a lot of work in "the last mile": lots of amazing local models, including CPU and even phone-friendly ones, exist, but they're not well-integrated, eg. there isn't a good "google translate equivalent" UI that plugs into local LLMs, transcription / audio input, search over personal docs, comfyui is great but we need photoshop-style UX (I'm sure for each of those items people will link me to various github repos in the replies, but the whole problem is that it's "various github repos" and not one-stop-shop). Also I don't want to keep ollama always running because that makes my laptop consume 35 W. So still a way to go, but it's made huge progress - a year ago even most of the local models did not yet exist! Ideally we push as far as we can with local LLMs, using specialized fine-tuned models to make up for small param count where possible, and then for the heavy-usage stuff we can stack (i) per-query zkp payment, (ii) TEEs, (iii) local query filtering (eg. have a small model automatically remove sensitive details from docs before you push them up to big models), basically combine all the imperfect things to do a best-effort, though ultimately ideally we figure out ultra-efficient FHE. Sending all your data to third party centralized services is unnecessary. We have the tools to do much less of that. We should continue to build and improve, and much more actively use them. (btw I really think @SimpleXChat should lowercase the X in their name. An N-dimensional triangle is a much cooler thing to be named after than "simple twitter")
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ CoinDesk • 16h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -184,25 +184,29 @@ CoinDesk • 2d ago
 
 ---
 
-**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
-
-PYMNTS.com • 2d ago
+The Block • 2d ago
 
 ---
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
-**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
+The Block • 11h ago
 
-TradingView — Track All Markets • 1d ago
+---
+
+**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
+
+A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
+
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -210,7 +214,7 @@ TradingView — Track All Markets • 1d ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -219,14 +223,6 @@ The Motley Fool • 21h ago
 BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
 CryptoSlate • 2d ago
-
----
-
-**[Ethereum Whales’s $15 Million Move, Is This Another Insider Trader? | Bitcoinist.com](https://bitcoinist.com/ethereum-whaless-15-million/)**
-
-An inactive Ethereum whale has just re-entered the trading scene, withdrawing over $15 million worth of ETH in just a single day.
-
-Bitcoinist.com • 1d ago
 
 ---
 
@@ -240,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 12h ago
+👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 13h ago
 
 ---
 
@@ -250,7 +246,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 11h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 12h ago
 
 ---
 
@@ -290,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 91 • 💬 9 • ⏱️ 4:34 • 16h ago
+👁️ 2K • 👍 91 • 💬 9 • ⏱️ 4:34 • 17h ago
 
 ---
 
@@ -300,7 +296,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 15h ago
+👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 16h ago
 
 ---
 
@@ -330,7 +326,7 @@ Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-p
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 7h ago
+👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 8h ago
 
 ---
 
