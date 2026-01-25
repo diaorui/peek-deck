@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T07:42:36.664605+00:00'
+updated: '2026-01-25T08:29:11.863191+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 07:42 UTC  
+**Last Updated:** January 25, 2026 at 08:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 14h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-CCN.com • 21h ago
+CCN.com • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 2d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 6h ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 10h ago
+👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 9h ago
+👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 13h ago
+👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 14h ago
+👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 15h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 89 • 💬 9 • ⏱️ 4:34 • 14h ago
+👁️ 2K • 👍 89 • 💬 9 • ⏱️ 4:34 • 15h ago
 
 ---
 

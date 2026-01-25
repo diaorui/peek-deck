@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T07:42:36.667846+00:00'
+updated: '2026-01-25T08:29:11.866413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 07:42 UTC  
+**Last Updated:** January 25, 2026 at 08:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-2h ago
+3h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,13 +56,13 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-19h ago
+20h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,13 +70,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-11h ago
+12h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
 
-6h ago
+7h ago
 
 ---
 
@@ -110,7 +110,7 @@ This a is photo of my current set up it’s a spraying machine for mosquitos tha
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 15h ago
+ynetnews.com • 16h ago
 
 ---
 
@@ -126,7 +126,7 @@ Electrek • 3d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -158,7 +158,7 @@ wbay.com • 1d ago
 
 Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
 
-Live Science • 20h ago
+Live Science • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item
 
 📺 サハ SAHA
 
-👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 18h ago
+👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 19h ago
 
 ---
 

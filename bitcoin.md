@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T07:42:36.658549+00:00'
+updated: '2026-01-25T08:29:11.857176+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 07:42 UTC  
+**Last Updated:** January 25, 2026 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,25 +81,25 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-15h ago
+16h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-7h ago
+8h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -115,13 +115,13 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-22h ago
+23h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -137,13 +137,13 @@ Credits to ChatGPT
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-15h ago
+16h ago
 
 ---
 
 **[The summary of this cycle](https://www.reddit.com/r/Bitcoin/comments/1qm25oq/the_summary_of_this_cycle/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ Credits to ChatGPT
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ ProPublica • 2d ago
 
 Investing in cryptocurrencies can be tricky, but these ETFs may make it simpler for investors to get involved in the booming market.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Motley Fool • 2h ago
 
 Forget what happened in 2025.
 
-The Motley Fool • 29m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 20h ago
+Binance • 21h ago
 
 ---
 
@@ -324,7 +324,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 65 • ⏱️ 47:21 • 17h ago
+👁️ 51K • 👍 2K • 💬 65 • ⏱️ 47:21 • 18h ago
 
 ---
 
@@ -384,7 +384,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 622 • 💬 288 • ⏱️ 41:20 • 17h ago
+👁️ 12K • 👍 622 • 💬 288 • ⏱️ 41:20 • 18h ago
 
 ---
 
@@ -414,7 +414,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 9h ago
+👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T07:42:36.649872+00:00'
+updated: '2026-01-25T08:29:11.848594+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 07:42 UTC  
+**Last Updated:** January 25, 2026 at 08:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 7h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 20h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -139,13 +139,13 @@ WIRED • 1d ago
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/25/all)**
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 17h ago
 
 **[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Washington Post • 13h ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -191,7 +191,7 @@ blog.google • 2d ago
 
 Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
 
-Fox Business • 17h ago
+Fox Business • 18h ago
 
 ---
 
@@ -219,7 +219,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 287 • 💬 234 • 7h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 287 • 💬 234 • 8h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -285,7 +285,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 25K • 👍 1K • 💬 368 • ⏱️ 16:18 • 11h ago
+👁️ 25K • 👍 1K • 💬 368 • ⏱️ 16:18 • 12h ago
 
 ---
 
@@ -305,7 +305,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 24K • 👍 631 • 💬 111 • ⏱️ 20:22 • 22h ago
+👁️ 24K • 👍 631 • 💬 111 • ⏱️ 20:22 • 23h ago
 
 ---
 
@@ -315,7 +315,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 1.8M • 👍 69K • 💬 2K • ⏱️ 0:13 • 22h ago
+👁️ 1.8M • 👍 69K • 💬 2K • ⏱️ 0:13 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Thank you to Mint Mobile for partnering with us on this video! And for a limited
 
 📺 Visual Venture
 
-👁️ 198K • 👍 10K • 💬 1K • ⏱️ 27:38 • 15h ago
+👁️ 198K • 👍 10K • 💬 1K • ⏱️ 27:38 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38
 
 📺 Dylan Curious
 
-👁️ 4K • 👍 278 • 💬 99 • ⏱️ 23:12 • 16h ago
+👁️ 4K • 👍 278 • 💬 99 • ⏱️ 23:12 • 17h ago
 
 ---
 
@@ -475,7 +475,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 241 • 4d ago
+⬇️ 634 • ❤️ 241 • 5d ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 553 • 1h ago
+⭐ 10.3k • 🔱 553 • 2h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 2h ago
+⭐ 9.7k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.5k • 39m ago
+⭐ 5.2k • 🔱 5.5k • 1h ago
 
 ---
 
@@ -722,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 481 • 9h ago
+⭐ 4.5k • 🔱 481 • 10h ago
 
 ---
 
@@ -740,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.5k • 🔱 529 • 24m ago
+⭐ 2.5k • 🔱 529 • 1h ago
 
 ---
 
