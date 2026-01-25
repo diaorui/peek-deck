@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T10:46:54.413301+00:00'
+updated: '2026-01-25T11:18:41.278895+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 10:46 UTC  
+**Last Updated:** January 25, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 2h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 23h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 1d ago
 
 ---
 
@@ -65,7 +65,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-15h ago
+16h ago
 
 ---
 
@@ -125,13 +125,13 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 19h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -155,13 +155,13 @@ Investopedia • 14h ago
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks Analysts are Watching. On January 20, Goldman Sachs reaffirmed its preference for Broadcom and Nvidia, highlighting that it continues to prefer both names within the compute ecosystem. The firm developed an “investment cost curve” to compare the economies of different chipmakers’ AI solutions and their […]
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
 
-The New York Times • 44m ago
+The New York Times • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ WIRED • 1d ago
 
 **[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
 
-The Washington Post • 16h ago
+The Washington Post • 17h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 16h ago
 
 Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
 
-Fox Business • 20h ago
+Fox Business • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 385 • 💬 323 • 10h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 385 • 💬 323 • 11h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -285,7 +285,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 14h ago
+👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 15h ago
 
 ---
 
@@ -553,7 +553,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 36 • 💬 4 • ⭐ 1,868 • 9d ago
+▲ 36 • 💬 4 • ⭐ 1,868 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 555 • 4h ago
+⭐ 10.3k • 🔱 555 • 5h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 5h ago
+⭐ 9.7k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -722,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 482 • 12h ago
+⭐ 4.5k • 🔱 482 • 13h ago
 
 ---
 
@@ -740,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.5k • 🔱 536 • 3h ago
+⭐ 2.5k • 🔱 536 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T10:46:54.427686+00:00'
+updated: '2026-01-25T11:18:41.293367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 10:46 UTC  
+**Last Updated:** January 25, 2026 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-19h ago
+20h ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 1d ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Block • 11h ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView — Track All Markets • 9h ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 13h ago
+👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 12h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-p
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 8h ago
+👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 9h ago
 
 ---
 

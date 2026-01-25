@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T10:46:54.421690+00:00'
+updated: '2026-01-25T11:18:41.287247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 10:46 UTC  
+**Last Updated:** January 25, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,13 +93,13 @@ Where do people even find that kind of courage?
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,19 +111,19 @@ Where do people even find that kind of courage?
 
 **[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
 
-1h ago
+2h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-1h ago
+2h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -167,13 +167,13 @@ ProPublica • 2d ago
 
 Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Binance • 1h ago
 
 Forget what happened in 2025.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 20h ago
+👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 21h ago
 
 ---
 
@@ -348,7 +348,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 12h ago
+👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 13h ago
 
 ---
 
@@ -388,7 +388,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 10h ago
+👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 11h ago
 
 ---
 
