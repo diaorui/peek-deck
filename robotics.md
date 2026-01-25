@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T11:40:13.986472+00:00'
+updated: '2026-01-25T12:45:00.424112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 11:40 UTC  
+**Last Updated:** January 25, 2026 at 12:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,27 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-1h ago
+2h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-9h ago
+11h ago
+
+---
+
+**[Balance test for the bipedal robot TRON1 on the bed of a moving truck (a little old,7 months ago)](https://www.reddit.com/r/robotics/comments/1qmhj31/balance_test_for_the_bipedal_robot_tron1_on_the/)**
+
+From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
+
+33m ago
+
+---
+
+**[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
+
+2h ago
 
 ---
 
@@ -50,25 +64,19 @@ I don't have much information, but it's a bit viral on X
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-6h ago
-
----
-
-**[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
-
-58m ago
+7h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +84,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-23h ago
+1d ago
 
 ---
 
@@ -84,21 +92,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-15h ago
-
----
-
-**[RSS: Robotics Science and System - [Discussion thread]](https://www.reddit.com/r/robotics/comments/1qmgjb0/rss_robotics_science_and_system_discussion_thread/)**
-
-The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
-
-22m ago
+16h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -110,7 +110,7 @@ The abstract deadlines for RSS Conference is over. I submitted pretty last minut
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 19h ago
+ynetnews.com • 20h ago
 
 ---
 
@@ -119,14 +119,6 @@ ynetnews.com • 19h ago
 Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
 
 Interesting Engineering • 1d ago
-
----
-
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 1d ago
 
 ---
 
@@ -152,27 +144,19 @@ MarketBeat • 1d ago
 
 ---
 
-**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
-
-The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
-
-fox11online.com • 1d ago
-
----
-
 **[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
-**[From LEGOs to the World Championship: East Grand Rapids girls win big in robotics](https://www.fox17online.com/news/local-news/east-grand-rapids-forest-hills-cascade/from-legos-to-the-world-championship-east-grand-rapids-girls-win-big-in-robotics)**
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
-Five fifth-grade girls from East Grand Rapids have turned LEGOs into a state championship in a robotics competition and a chance to compete on the World Championship.
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-fox17online.com • 1d ago
+wbay.com • 1d ago
 
 ---
 
@@ -181,6 +165,22 @@ fox17online.com • 1d ago
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
 The Robot Report • 1d ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 19h ago
+
+---
+
+**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
+
+Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
+
+news.cgtn.com • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 UBTECH Robotics
 
-👁️ 12K • 👍 185 • 💬 39 • ⏱️ 1:56 • 4d ago
+👁️ 12K • 👍 185 • 💬 39 • ⏱️ 1:56 • 5d ago
 
 ---
 

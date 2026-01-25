@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T11:40:13.977198+00:00'
+updated: '2026-01-25T12:45:00.414891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 11:40 UTC  
+**Last Updated:** January 25, 2026 at 12:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -4.3%  
+**24h:** -0.8%  
+**7d:** -4.2%  
 **30d:** +0.9%  
 **90d:** -21.4%  
 **1y:** -13.6%  
@@ -79,19 +79,25 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-2h ago
+3h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-7h ago
+8h ago
+
+---
+
+**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
+
+3h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,45 +105,39 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-19h ago
-
----
-
-**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
-
-2h ago
+20h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-11h ago
+12h ago
 
 ---
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-14m ago
+1h ago
+
+---
+
+**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
+
+37m ago
+
+---
+
+**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
+
+So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
+
+1h ago
 
 ---
 
 **[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
 
-2h ago
-
----
-
-**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
-
-16h ago
-
----
-
-**[Bitcoin Car @ Rolex 24](https://www.reddit.com/r/Bitcoin/comments/1qm19ue/bitcoin_car_rolex_24/)**
-
-Meyer Shank running the bitcoin car at Daytona 24 hour race.
-
-13h ago
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -161,25 +161,25 @@ ProPublica • 2d ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
-
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-The Motley Fool • 1h ago
-
----
-
 **[Proposal to Temporarily Cap Bitcoin Transaction Data Gains Support From 583 Nodes](https://finance.yahoo.com/news/proposal-temporarily-cap-bitcoin-transaction-085200521.html)**
 
 Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+The Motley Fool • 2h ago
 
 ---
 
 **[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -197,19 +197,19 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
-
-Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
-
-CryptoSlate • 1d ago
-
----
-
 **[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 2d ago
+
+---
+
+**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
+
+Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 21h ago
+👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 22h ago
 
 ---
 
@@ -308,7 +308,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 20h ago
+👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 21h ago
 
 ---
 
@@ -338,7 +338,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 13h ago
+👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 14h ago
 
 ---
 
@@ -348,7 +348,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 10h ago
+👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 11h ago
 
 ---
 
@@ -368,7 +368,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 322 • 💬 29 • ⏱️ 15:04 • 19h ago
+👁️ 6K • 👍 322 • 💬 29 • ⏱️ 15:04 • 20h ago
 
 ---
 
@@ -388,7 +388,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 11h ago
+👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 12h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T11:40:13.968857+00:00'
+updated: '2026-01-25T12:45:00.406527+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 11:40 UTC  
+**Last Updated:** January 25, 2026 at 12:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 3h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 11h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-7h ago
+8h ago
 
 ---
 
@@ -93,14 +93,6 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
-**[met someone who does ai cloning to "preserve legacy" as in your grandfather ,etc. Would this work?](https://www.reddit.com/r/artificial/comments/1qlvkka/met_someone_who_does_ai_cloning_to_preserve/)**
-
-So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
-
-16h ago
-
----
-
 **[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
@@ -117,13 +109,21 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 ---
 
+**[White House posts digitally altered image of woman arrested after ICE protest](https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/)**
+
+Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -135,27 +135,25 @@ BBC • 1d ago
 
 ---
 
-**[I helped create Alexa, then quit Amazon. Here's why, despite being proud of what we built.](https://www.businessinsider.com/alexa-co-creator-why-i-quit-amazon-launch-ai-startup-2026-1)**
-
-William Tunstall-Pedoe co-founded Evi, which became Amazon Alexa. Here's why he decided to leave the tech giant and launch a startup.
-
-Business Insider • 43m ago
-
----
-
 **[AI needs to augment rather than replace humans or the workplace is doomed | Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)**
 
 Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
 
-The Guardian • 14m ago
+The Guardian • 1h ago
 
 ---
 
-**[The Motley Fool: Powering artificial intelligence](https://www.dallasnews.com/business/2026/01/25/the-motley-fool-powering-artificial-intelligence/)**
+**[I helped create Alexa, then quit Amazon. Here's why, despite being proud of what we built.](https://www.businessinsider.com/alexa-co-creator-why-i-quit-amazon-launch-ai-startup-2026-1)**
 
-Nvidia’s early entrance into the AI market gave it a huge advantage, and its focus on innovation has kept it in the top spot.
+William Tunstall-Pedoe co-founded Evi, which became Amazon Alexa. Here's why he decided to leave the tech giant and launch a startup.
 
-dallasnews.com • 37m ago
+Business Insider • 1h ago
+
+---
+
+**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
+
+Axios • 14m ago
 
 ---
 
@@ -163,23 +161,7 @@ dallasnews.com • 37m ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 21h ago
-
----
-
-**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqdkqPTxKfOATzwNtKkHO-S16MBut6BbpfIG9GlYcdffdSDP9oppBnUo&gaa_ts=69760485&gaa_sig=Xf_UOaemPzVeRaDUadmReZD1sHILR7B_gEgq55tlzLtRI49C99T3OOS6J4M-K0dSFFSWHgkjBrHS7oeDjD3nZw%3D%3D)**
-
-In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
-
-The Times • 12h ago
-
----
-
-**[The Math on AI Agents Doesn’t Add Up](https://www.wired.com/story/ai-agents-math-doesnt-add-up/)**
-
-A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.
-
-WIRED • 1d ago
+CNBC • 22h ago
 
 ---
 
@@ -187,15 +169,29 @@ WIRED • 1d ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
-**[Mike Rowe warns AI will hit white-collar workers hardest — welders are safe for now](https://www.foxbusiness.com/media/mike-rowe-warns-ai-will-hit-white-collar-workers-hardest-welders-safe-for-now)**
+**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqdbgpVus6l9zqN9pKpi-0F32wb6TjszVrvCarxMutNh-POvI4Ah95Z1&gaa_ts=697613b9&gaa_sig=hks8akRLQDJUkrKbqzE5V1edpMI0WPASIaF3Yp__GA0Xj2TkvGtpCTxUVCLeno5A3OtVcTQ-p3SKkcGyNlsIVQ%3D%3D)**
 
-Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
+In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
 
-Fox Business • 21h ago
+The Times • 13h ago
+
+---
+
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+
+blog.google • 2d ago
+
+---
+
+**[Singapore Pours $786 Million Into Race to Become AI Powerhouse](https://www.bloomberg.com/news/articles/2026-01-24/singapore-pours-786-million-into-race-to-become-ai-powerhouse)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -207,7 +203,7 @@ Fox Business • 21h ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 547 • 💬 418 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 548 • 💬 418 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -223,7 +219,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 411 • 💬 352 • 11h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 426 • 💬 371 • 12h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -232,14 +228,6 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
 ⬆️ 185 • 💬 175 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
-
----
-
-**[Satya Nadella: "We need to find something useful for AI"](https://news.ycombinator.com/item?id=46718485)**
-
-Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
-
-⬆️ 160 • 💬 209 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -279,6 +267,14 @@ Helping you make informed decisions about your health by combining the latest re
 
 ---
 
+**[Like digging 'your own grave': The translators grappling with losing work to AI](https://news.ycombinator.com/item?id=46751835)**
+
+While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
+
+⬆️ 62 • 💬 55 • 4h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -299,7 +295,7 @@ CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38
 
 📺 Dylan Curious
 
-👁️ 5K • 👍 297 • 💬 105 • ⏱️ 23:12 • 20h ago
+👁️ 5K • 👍 297 • 💬 105 • ⏱️ 23:12 • 21h ago
 
 ---
 
@@ -309,7 +305,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 6K • 👍 299 • 💬 85 • ⏱️ 12:43 • 5h ago
+👁️ 6K • 👍 299 • 💬 85 • ⏱️ 12:43 • 6h ago
 
 ---
 
@@ -329,7 +325,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 25K • 👍 2K • 💬 205 • ⏱️ 41:25 • 8h ago
+👁️ 25K • 👍 2K • 💬 205 • ⏱️ 41:25 • 9h ago
 
 ---
 
@@ -359,7 +355,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 6K • 👍 284 • 💬 38 • ⏱️ 14:50 • 21h ago
+👁️ 6K • 👍 284 • 💬 38 • ⏱️ 14:50 • 22h ago
 
 ---
 
@@ -623,7 +619,7 @@ https://continuous-audio-language-models.github.io
 
 RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
 
-▲ 44 • 💬 2 • ⭐ 254 • 4d ago
+▲ 44 • 💬 2 • ⭐ 254 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
@@ -666,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 559 • 5h ago
+⭐ 10.3k • 🔱 559 • 6h ago
 
 ---
 
@@ -676,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 6h ago
+⭐ 9.7k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -716,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 33m ago
+⭐ 5.3k • 🔱 5.6k • 1h ago
 
 ---
 
@@ -726,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 484 • 13h ago
+⭐ 4.5k • 🔱 484 • 14h ago
 
 ---
 
@@ -744,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.6k • 🔱 551 • 4h ago
+⭐ 2.6k • 🔱 551 • 5h ago
 
 ---
 

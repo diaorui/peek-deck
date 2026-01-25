@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T11:40:13.983219+00:00'
+updated: '2026-01-25T12:45:00.420894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 11:40 UTC  
+**Last Updated:** January 25, 2026 at 12:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
+**24h:** -0.4%  
 **7d:** -7.8%  
 **30d:** -0.4%  
 **90d:** -26.2%  
-**1y:** -9.1%  
+**1y:** -9.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-20h ago
+21h ago
 
 ---
 
@@ -144,7 +144,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 1d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 18h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -176,9 +176,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
 
-CCN.com • 1d ago
+The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -188,11 +190,9 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
-
-CoinDesk • 2d ago
+CCN.com • 1d ago
 
 ---
 
@@ -200,13 +200,13 @@ CoinDesk • 2d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView — Track All Markets • 10h ago
+TradingView • 11h ago
 
 ---
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -214,15 +214,15 @@ The Block • 12h ago
 
 This asset has utility and a few other useful features.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
 
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
 
-CryptoSlate • 2d ago
+Benzinga • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 14K • 👍 850 • 💬 121 • ⏱️ 29:47 • 14h ago
+👁️ 14K • 👍 850 • 💬 121 • ⏱️ 29:47 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 13h ago
+👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 14h ago
 
 ---
 
@@ -256,7 +256,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 345 • 💬 97 • ⏱️ 7:22 • 19h ago
+👁️ 6K • 👍 345 • 💬 97 • ⏱️ 7:22 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 1K • 💬 25 • ⏱️ 12:01 • 17h ago
+👁️ 13K • 👍 1K • 💬 25 • ⏱️ 12:01 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 96 • 💬 9 • ⏱️ 4:34 • 18h ago
+👁️ 2K • 👍 96 • 💬 9 • ⏱️ 4:34 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Crossroads
 
-👁️ 4K • 👍 215 • 💬 94 • ⏱️ 16:54 • 16h ago
+👁️ 4K • 👍 215 • 💬 94 • ⏱️ 16:54 • 17h ago
 
 ---
 
