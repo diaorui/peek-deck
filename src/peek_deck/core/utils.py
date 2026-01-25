@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlparse, quote
 from typing import Optional
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 
@@ -294,7 +294,7 @@ def resolve_google_news_url(google_rss_url: str, timeout: float = 10.0) -> str:
 
     try:
         # Step 1: Fetch Google News page to extract data-p attribute
-        resp = requests.get(google_rss_url, timeout=timeout)
+        resp = requests.get(google_rss_url, timeout=timeout, impersonate="chrome110")
         soup = BeautifulSoup(resp.text, 'html.parser')
         c_wiz = soup.select_one('c-wiz[data-p]')
 
@@ -319,7 +319,7 @@ def resolve_google_news_url(google_rss_url: str, timeout: float = 10.0) -> str:
 
     url = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
     try:
-        response = requests.post(url, headers=headers, data=payload, timeout=timeout)
+        response = requests.post(url, headers=headers, data=payload, timeout=timeout, impersonate="chrome110")
         array_string = json.loads(response.text.replace(")]}'", ""))[0][2]
         article_url = json.loads(array_string)[1]
         return article_url

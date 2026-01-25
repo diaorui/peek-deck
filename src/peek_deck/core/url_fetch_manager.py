@@ -2,7 +2,7 @@
 
 import hashlib
 import json
-import requests
+from curl_cffi import requests
 import time
 from datetime import datetime, timezone, timedelta
 from threading import Lock, Semaphore
@@ -177,12 +177,13 @@ class URLFetchManager:
         # Use default timeout if not specified
         final_timeout = timeout or self.default_timeout
 
-        # Make request
+        # Make request using curl-cffi with browser impersonation
         response = requests.get(
             url,
             params=params,
             headers=final_headers,
-            timeout=final_timeout
+            timeout=final_timeout,
+            impersonate="chrome110"  # Mimic Chrome browser to avoid bot detection
         )
         response.raise_for_status()
 
@@ -214,7 +215,7 @@ class URLFetchManager:
             Parsed response data based on response_type
 
         Raises:
-            requests.exceptions.RequestException: On HTTP errors after retries
+            requests.exceptions.RequestException: On HTTP errors after retries (from curl-cffi)
             json.JSONDecodeError: If response_type="json" but response is not valid JSON
         """
         # 1. Generate cache key
