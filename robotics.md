@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T04:00:02.142854+00:00'
+updated: '2026-01-25T04:57:09.230962+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 04:00 UTC  
+**Last Updated:** January 25, 2026 at 04:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-2h ago
+3h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-15h ago
+16h ago
 
 ---
 
@@ -56,25 +56,25 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-7h ago
+8h ago
 
 ---
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-39m ago
+1h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-19h ago
+20h ago
 
 ---
 
@@ -148,7 +148,7 @@ AgFunderNews • 2d ago
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-Interesting Engineering • 24m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -188,23 +188,23 @@ The Robot Report • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 56K • 👍 2K • 💬 108 • ⏱️ 17:39 • 1d ago
-
----
-
 **[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
 
 Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 84 • 💬 58 • ⏱️ 6:39 • 22h ago
+👁️ 4K • 👍 86 • 💬 34 • ⏱️ 6:39 • 23h ago
+
+---
+
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+
+📺 MarketBeat
+
+👁️ 59K • 👍 2K • 💬 116 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 240 • 💬 21 • ⏱️ 19:35 • 6d ago
+👁️ 8K • 👍 241 • 💬 21 • ⏱️ 19:35 • 6d ago
 
 ---
 
@@ -228,21 +228,21 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 25K • 👍 3K • 💬 112 • ⏱️ 1:13 • 2d ago
+
+---
+
 **[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
 
 Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
 
 📺 Global News
 
-👁️ 18K • 👍 106 • 💬 95 • ⏱️ 10:15 • 2d ago
-
----
-
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 24K • 👍 3K • 💬 112 • ⏱️ 1:13 • 2d ago
+👁️ 21K • 👍 107 • 💬 97 • ⏱️ 10:15 • 2d ago
 
 ---
 
@@ -252,27 +252,17 @@ Will this company be the “picks and shovels” of the robotics industry? Skild
 
 📺 Rowan Cheung
 
-👁️ 10K • 👍 689 • 💬 4 • ⏱️ 1:13 • 1d ago
+👁️ 10K • 👍 715 • 💬 4 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[NEW Flying Robot ANAKSOR – War Robots Test Server Gameplay WR](https://www.youtube.com/watch?v=3srQgYe8arE)**
+**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
 
-War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator Link: https://wr.my.games/manni Code is ...
+Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
 
-📺 Manni-Gaming
+📺 Fox Business Clips
 
-👁️ 14K • 👍 726 • 💬 195 • ⏱️ 15:13 • 17h ago
-
----
-
-**[9 1/2 Inch Robot | 5962 Nordic Storm | FTC Snapshot](https://www.youtube.com/watch?v=-ao-ZQBQm2s)**
-
-This video is supported by@StudicaRobotics. Studica structure is composed of anodized T6 aluminum that stays strong during the ...
-
-📺 FUN Robotics Network
-
-👁️ 512 • 👍 22 • 💬 1 • ⏱️ 1:27 • 6h ago
+👁️ 21K • 👍 296 • 💬 118 • ⏱️ 3:39 • 1d ago
 
 ---
 
@@ -282,7 +272,15 @@ Welcome to the future of football! ⚽   In this video, an advanced AI Robot Goa
 
 📺 Aww Ranking
 
-👁️ 15K • 👍 78 • ⏱️ 0:19 • 19h ago
+👁️ 20K • 👍 88 • ⏱️ 0:19 • 20h ago
+
+---
+
+**[My gf goes crazy with this tiny robot 😭💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qLPqgWww8wA)**
+
+📺 Romi Pal
+
+👁️ 732K • 👍 11K • 💬 45 • ⏱️ 0:15 • 4d ago
 
 ---
 

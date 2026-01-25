@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T04:00:02.133540+00:00'
+updated: '2026-01-25T04:57:09.221767+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 04:00 UTC  
+**Last Updated:** January 25, 2026 at 04:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.59B
+**Market Cap:** $1776.87B
 Rank #1
 
 **Circulating Supply:** 19,980,253 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.5%
 
 **All-Time Low:** $67.81
-+131194.8%
++131038.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,13 +89,13 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-11h ago
+12h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -111,19 +111,19 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-5h ago
+6h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-8h ago
+9h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -131,19 +131,19 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-11h ago
+12h ago
 
 ---
 
 **[Hahahahaha](https://www.reddit.com/r/Bitcoin/comments/1qm34rq/hahahahaha/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -155,7 +155,7 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ ProPublica • 2d ago
 
 Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the crypto economy is at its most crucial transition point in eight years. This article delves into how the market has 'soft-landed' from the excessive expectations of 2021 and gradually built a valuation framework based on cash flow and real use cases. The author explains the past four years of growing pains through the 'Red Queen Effect' and points out that with the easing of U.S. regulations and the explosion of enterprise-level applications, crypto assets are shifting from cyclical speculation to long-term trend growth. Facing a global trust crisis and currency devaluation, this is not only an industry
 
-富途资讯 • 1h ago
+富途资讯 • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 16h ago
+Binance • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 65 • ⏱️ 47:21 • 13h ago
+👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 14h ago
 
 ---
 
@@ -334,7 +334,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 14K • 👍 919 • 💬 121 • ⏱️ 12:07 • 12h ago
+👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 13h ago
 
 ---
 
@@ -344,7 +344,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 314 • ⏱️ 8:40 • 1d ago
+👁️ 58K • 👍 3K • 💬 302 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -354,17 +354,27 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 34K • 👍 472 • 💬 219 • ⏱️ 2:12 • 1d ago
+👁️ 35K • 👍 479 • 💬 218 • ⏱️ 2:12 • 1d ago
 
 ---
 
-**[Why I Sold All My Bitcoin For Physical Silver (And You Should Too)](https://www.youtube.com/watch?v=ywd7Q4J0fGI)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-I finally did it—I sold every single Bitcoin I owned to buy physical Silver. In this video, I explain the "why" behind this massive ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 LeeAG Finance
+📺 Altcoin Daily
 
-👁️ 1K • 👍 91 • 💬 41 • ⏱️ 19:27 • 16h ago
+👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 6h ago
+
+---
+
+**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 4K • 👍 453 • 💬 149 • ⏱️ 8:27 • 5h ago
 
 ---
 
@@ -374,17 +384,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 73K • 👍 3K • 💬 329 • ⏱️ 16:21 • 2d ago
-
----
-
-**[Why Japan’s Bond Crisis Could Hit Bitcoin First](https://www.youtube.com/watch?v=gahVHqTuRAA)**
-
-Japan's bond market is flashing warning signs as yields surge and debt reaches record levels. In this quick breakdown, Professor ...
-
-📺 Swan Bitcoin
-
-👁️ 5K • 👍 212 • 💬 24 • ⏱️ 2:23 • 13h ago
+👁️ 75K • 👍 3K • 💬 355 • ⏱️ 16:21 • 2d ago
 
 ---
 
@@ -394,7 +394,7 @@ Japan's bond market is flashing warning signs as yields surge and debt reaches r
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 346 • 💬 94 • ⏱️ 10:27 • 2d ago
+👁️ 16K • 👍 353 • 💬 95 • ⏱️ 10:27 • 2d ago
 
 ---
 
@@ -404,7 +404,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 579 • 💬 207 • ⏱️ 41:20 • 13h ago
+👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 14h ago
 
 ---
 
@@ -414,7 +414,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 156 • ⏱️ 12:29 • 1d ago
+👁️ 47K • 👍 2K • 💬 157 • ⏱️ 12:29 • 1d ago
 
 ---
 

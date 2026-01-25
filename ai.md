@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T04:00:02.124831+00:00'
+updated: '2026-01-25T04:57:09.213464+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 04:00 UTC  
+**Last Updated:** January 25, 2026 at 04:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 3h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 16h ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-7m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 17h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 So im assuming he makes the person ask a long questionnaire that feeds into ai, and then talks to ai to get a sense of a person. The question is does this actually make the AI have this persons personality where it can be thought of as asking your grandfather. Because that seems wild to me. you never know if your grandfathers prejudices were hidden. thoughts ?
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ So im assuming he makes the person ask a long questionnaire that feeds into ai, 
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Washington Post • 10h ago
 
 Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNN • 11h ago
 
 Economic shift underway as AI targets coders but can't replace welders. Mike Rowe explains why skilled trades offer stability amid workplace disruption.
 
-Fox Business • 14h ago
+Fox Business • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fox Business • 14h ago
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Guardian • 10h ago
 
 There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -227,7 +227,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 162 • 💬 114 • 3h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 162 • 💬 114 • 4h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -279,13 +279,43 @@ Helping you make informed decisions about your health by combining the latest re
 
 ## YouTube Videos: "ai"
 
+**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
+
+OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
+
+📺 Stylosa
+
+👁️ 22K • 👍 918 • 💬 333 • ⏱️ 16:18 • 8h ago
+
+---
+
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 8K • 👍 101 • 💬 56 • ⏱️ 16:31 • 2d ago
+👁️ 8K • 👍 102 • 💬 56 • ⏱️ 16:31 • 2d ago
+
+---
+
+**[How Nano Banana Pro &amp; Kling Changed AI FIlmmaking](https://www.youtube.com/watch?v=dA_jfm38ejw)**
+
+AI Filmmaking is now easier than ever with Nano Banana & Kling AI Try out Artlist ...
+
+📺 Dan Kieft
+
+👁️ 20K • 💬 18 • ⏱️ 16:14 • 16h ago
+
+---
+
+**[Art Student Eats AI Art in Protest #art #artstudent #peacefulprotest  #creativeresistance](https://www.youtube.com/watch?v=e3RHmBOQm-Y)**
+
+An art student at the University of Alaska Fairbanks protested the use of AI generated art by damaging an exhibition displayed in a ...
+
+📺 Anora
+
+👁️ 1.5M • 👍 59K • 💬 2K • ⏱️ 0:13 • 19h ago
 
 ---
 
@@ -295,27 +325,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 21K • 👍 574 • 💬 130 • ⏱️ 20:22 • 18h ago
-
----
-
-**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
-
-OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
-
-📺 Stylosa
-
-👁️ 14K • 👍 740 • 💬 258 • ⏱️ 16:18 • 7h ago
-
----
-
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
-
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
-
-📺 AI Revolution
-
-👁️ 59K • 👍 1K • 💬 131 • ⏱️ 12:48 • 2d ago
+👁️ 23K • 👍 608 • 💬 104 • ⏱️ 20:22 • 19h ago
 
 ---
 
@@ -325,7 +335,27 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 427K • 👍 21K • 💬 5K • ⏱️ 10:08 • 1d ago
+👁️ 432K • 👍 21K • 💬 5K • ⏱️ 10:08 • 1d ago
+
+---
+
+**[I Remade a $1M iPhone Ad With AI and $9](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
+
+Can I do it in one day with only $10? Try ElevenLabs today: ...
+
+📺 AI Samson
+
+👁️ 5K • 👍 248 • 💬 28 • ⏱️ 14:50 • 14h ago
+
+---
+
+**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
+
+Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
+
+📺 AI Revolution
+
+👁️ 60K • 👍 1K • 💬 130 • ⏱️ 12:48 • 2d ago
 
 ---
 
@@ -335,17 +365,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 42K • 👍 2K • 💬 282 • ⏱️ 28:01 • 1d ago
-
----
-
-**[Google DeepMind CEO on state of the AI race, push towards AGI and AI impact on jobs](https://www.youtube.com/watch?v=uVPdYqiULTo)**
-
-Google DeepMind co-founder and CEO Demis Hassabis joins 'Squawk Box' to discuss the evolution of Gemini in the AI tech race, ...
-
-📺 CNBC Television
-
-👁️ 25K • 👍 275 • 💬 78 • ⏱️ 5:34 • 1d ago
+👁️ 44K • 👍 2K • 💬 286 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -355,27 +375,7 @@ Abacus AI just announced DeepAgent — an AI agent built for the new software er
 
 📺 AI Revolution
 
-👁️ 14K • 👍 545 • 💬 48 • ⏱️ 9:10 • 1d ago
-
----
-
-**[It&#39;s Official..Ai Songs Have Taken OVER](https://www.youtube.com/watch?v=7LStLP5liII)**
-
-ai songs are getting more popular Instagram: https://www.instagram.com/liamdonovanmusic/ Subreddit: ...
-
-📺 Liam Donovan
-
-👁️ 20K • 👍 2K • 💬 318 • ⏱️ 11:54 • 1d ago
-
----
-
-**[$10,000 Mac Studio vs. $10 AI Agent](https://www.youtube.com/watch?v=hxDe1j_IcSQ)**
-
-I used my $10000 512GB Mac Studio to see if local AI can finally beat a $10/month cloud coding agent—and the result was way ...
-
-📺 Alex Ziskind
-
-👁️ 31K • 👍 1K • 💬 149 • ⏱️ 16:40 • 8h ago
+👁️ 15K • 👍 550 • 💬 49 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 279,658 • ❤️ 1,120 • 4d ago
+⬇️ 279,658 • ❤️ 1,129 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 22,852 • ❤️ 830 • 2d ago
+⬇️ 22,852 • ❤️ 839 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 6,967 • ❤️ 429 • 3d ago
+⬇️ 6,967 • ❤️ 445 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 20,374 • ❤️ 358 • 1d ago
+⬇️ 20,374 • ❤️ 364 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 174,230 • ❤️ 308 • 1d ago
+⬇️ 174,230 • ❤️ 311 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 67,913 • ❤️ 525 • 9d ago
+⬇️ 67,913 • ❤️ 526 • 9d ago
 
 ---
 
@@ -463,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 584 • ❤️ 236 • 4d ago
+⬇️ 584 • ❤️ 239 • 4d ago
 
 ---
 
@@ -475,7 +475,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 11,299 • ❤️ 229 • 3d ago
+⬇️ 11,299 • ❤️ 234 • 3d ago
 
 ---
 
@@ -487,19 +487,17 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 `image-text-to-text` `10.2B`
 
-⬇️ 42,008 • ❤️ 306 • 2d ago
+⬇️ 42,008 • ❤️ 308 • 2d ago
 
 ---
 
-**[sweep-next-edit-1.5B](https://huggingface.co/sweepai/sweep-next-edit-1.5B)**
+**[pocket-tts](https://huggingface.co/kyutai/pocket-tts)**
 
-*Sweep AI*
+*Kyutai*
 
-Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion, running locally in under 500ms and outperforming larger models on benchmarks. It predicts code edits based on file context and recent diffs, primarily used for enhancing developer productivity via local code assistance.
+Pocket TTS is a lightweight, CPU-efficient text-to-speech model (100M parameters) offering low-latency audio generation (~200ms) and voice cloning capabilities. It's ideal for applications requiring fast, on-device speech synthesis without GPU dependencies, supporting Python API and CLI integration.
 
-`1.4B`
-
-⬇️ 2,434 • ❤️ 199 • 2d ago
+⬇️ 42,118 • ❤️ 464 • 5d ago
 
 ---
 
@@ -515,7 +513,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 26 • 💬 1 • ⭐ 3,286 • 3d ago
+▲ 26 • 💬 1 • ⭐ 3,625 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -553,7 +551,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 36 • 💬 4 • ⭐ 1,823 • 9d ago
+▲ 36 • 💬 4 • ⭐ 1,868 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -579,7 +577,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 17 • 💬 3 • ⭐ 360 • 8d ago
+▲ 17 • 💬 3 • ⭐ 366 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -606,7 +604,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 32 • 💬 1 • ⭐ 68,448 • 28mo ago
+▲ 32 • 💬 1 • ⭐ 68,480 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.2k • 🔱 553 • 22h ago
+⭐ 10.2k • 🔱 553 • 23h ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 23h ago
+⭐ 9.7k • 🔱 1.3k • 4m ago
 
 ---
 
@@ -682,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 461 • 3d ago
+⭐ 9.0k • 🔱 462 • 3d ago
 
 ---
 
@@ -692,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 893 • 2d ago
+⭐ 7.5k • 🔱 896 • 2d ago
 
 ---
 
@@ -712,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.2k • 🔱 5.4k • 12h ago
+⭐ 5.2k • 🔱 5.5k • 1h ago
 
 ---
 
@@ -722,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 472 • 5h ago
+⭐ 4.5k • 🔱 478 • 6h ago
 
 ---
 
@@ -730,7 +728,17 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.8k • 🔱 231 • 2d ago
+⭐ 2.8k • 🔱 233 • 2d ago
+
+---
+
+**[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
+
+The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+
+`Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
+
+⭐ 2.4k • 🔱 523 • 8h ago
 
 ---
 
@@ -741,16 +749,6 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 `TypeScript`
 
 ⭐ 2.4k • 🔱 340 • 2d ago
-
----
-
-**[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
-
-The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-
-`Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
-
-⭐ 2.4k • 🔱 502 • 7h ago
 
 ---
 
