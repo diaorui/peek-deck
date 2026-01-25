@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T10:23:48.625360+00:00'
+updated: '2026-01-25T10:46:54.421690+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 10:23 UTC  
+**Last Updated:** January 25, 2026 at 10:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ Where do people even find that kind of courage?
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Where do people even find that kind of courage?
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-11h ago
+12h ago
 
 ---
 
@@ -328,7 +328,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 18h ago
+👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 19h ago
 
 ---
 
@@ -378,7 +378,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 17h ago
+👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 18h ago
 
 ---
 
@@ -398,7 +398,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 8h ago
+👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T10:23:48.631295+00:00'
+updated: '2026-01-25T10:46:54.427686+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 10:23 UTC  
+**Last Updated:** January 25, 2026 at 10:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-57m ago
+1h ago
 
 ---
 
@@ -156,7 +156,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 14h ago
 
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 17h ago
+👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T10:23:48.634488+00:00'
+updated: '2026-01-25T10:46:54.430875+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 10:23 UTC  
+**Last Updated:** January 25, 2026 at 10:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-21h ago
+22h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 16h ago
+USA Today • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video is supported by@StudicaRobotics. Studica structure is composed of ano
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 35 • 💬 1 • ⏱️ 1:27 • 12h ago
+👁️ 1K • 👍 35 • 💬 1 • ⏱️ 1:27 • 13h ago
 
 ---
 
@@ -284,7 +284,7 @@ My latest 3D printing and slipcasting project, a fully 3D printed mould system f
 
 📺 Old Forge Creations
 
-👁️ 127K • 👍 3K • 💬 41 • ⏱️ 1:20 • 17h ago
+👁️ 127K • 👍 3K • 💬 41 • ⏱️ 1:20 • 18h ago
 
 ---
 

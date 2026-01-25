@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T10:23:48.616930+00:00'
+updated: '2026-01-25T10:46:54.413301+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 10:23 UTC  
+**Last Updated:** January 25, 2026 at 10:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 9h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 23h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 1d ago
 
 ---
 
@@ -147,7 +147,7 @@ Financial Times • 5h ago
 
 Bill Gates on Wednesday warned the AI industry will be "hypercompetitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
 
-Investopedia • 13h ago
+Investopedia • 14h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 1h ago
 
 **[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
 
-The New York Times • 21m ago
+The New York Times • 44m ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 21m ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 17K • 👍 1K • 💬 171 • ⏱️ 41:25 • 6h ago
+👁️ 17K • 👍 1K • 💬 171 • ⏱️ 41:25 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 5K • 👍 271 • 💬 34 • ⏱️ 14:50 • 19h ago
+👁️ 5K • 👍 271 • 💬 34 • ⏱️ 14:50 • 20h ago
 
 ---
 
@@ -451,7 +451,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 251 • 3d ago
+⬇️ 12,479 • ❤️ 251 • 4d ago
 
 ---
 
