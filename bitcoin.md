@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T23:21:36.655837+00:00'
+updated: '2026-01-25T23:42:25.565991+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 23:21 UTC  
+**Last Updated:** January 25, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 **[Red days, Green days, Grey days, Black days, whatever, that doesn't change anything.](https://www.reddit.com/r/Bitcoin/comments/1qmw496/red_days_green_days_grey_days_black_days_whatever/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ It’s never too late to get btc!
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 4h ago
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 5h ago
+BanklessTimes • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 2d ago
 
 Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -312,7 +312,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 10K • 👍 323 • 💬 111 • ⏱️ 4:20 • 3h ago
+👁️ 10K • 👍 323 • 💬 111 • ⏱️ 4:20 • 4h ago
 
 ---
 
@@ -352,7 +352,7 @@ In this video, we cover technical analysis on Bitcoin (BTC). including key level
 
 📺 Wicked Stocks
 
-👁️ 110 • 👍 9 • ⏱️ 4:02 • 34m ago
+👁️ 110 • 👍 9 • ⏱️ 4:02 • 55m ago
 
 ---
 
@@ -372,7 +372,7 @@ Best Day Trading Exchange: WEEX: https://www.weex.com/register?vipCode=champs Re
 
 📺 Champs Crypto
 
-👁️ 884 • 👍 57 • 💬 4 • ⏱️ 6:10 • 4h ago
+👁️ 884 • 👍 57 • 💬 4 • ⏱️ 6:10 • 5h ago
 
 ---
 

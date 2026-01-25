@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T23:21:36.661805+00:00'
+updated: '2026-01-25T23:42:25.572031+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 23:21 UTC  
+**Last Updated:** January 25, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-13h ago
+14h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 1d ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 1K • 👍 103 • 💬 14 • ⏱️ 24:21 • 50m ago
+👁️ 1K • 👍 103 • 💬 14 • ⏱️ 24:21 • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 3:57 • 8h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 3:57 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 359 • 👍 18 • 💬 8 • ⏱️ 21:54 • 9h ago
+👁️ 359 • 👍 18 • 💬 8 • ⏱️ 21:54 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 7K • 👍 28 • 💬 4 • ⏱️ 1:36 • 2d ago
+👁️ 7K • 👍 28 • 💬 4 • ⏱️ 1:36 • 3d ago
 
 ---
 

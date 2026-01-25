@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T23:21:36.664986+00:00'
+updated: '2026-01-25T23:42:25.575223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 23:21 UTC  
+**Last Updated:** January 25, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-17h ago
+18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Interesting Engineering • 2d ago
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 83K • 👍 2K • 💬 138 • ⏱️ 17:39 • 1d ago
+👁️ 83K • 👍 2K • 💬 138 • ⏱️ 17:39 • 2d ago
 
 ---
 
