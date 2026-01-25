@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T17:19:00.999719+00:00'
+updated: '2026-01-25T17:43:04.765925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 17:19 UTC  
+**Last Updated:** January 25, 2026 at 17:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,964.84
+### $87,917.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -5.1%  
-**30d:** -0.0%  
+**24h:** -1.6%  
+**7d:** -5.0%  
+**30d:** +0.0%  
 **90d:** -22.1%  
 **1y:** -14.3%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -95,17 +95,17 @@ Rank #1
 
 ---
 
-**[LATEST: Despite banning crypto, China is only 4,012 $BTC away from flipping the USA as the government with the largest Bitcoin holding.](https://www.reddit.com/r/Bitcoin/comments/1qmjmk5/latest_despite_banning_crypto_china_is_only_4012/)**
+**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-Source: Cointelegraph
-
-3h ago
+6h ago
 
 ---
 
-**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
+**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
 
-5h ago
+So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
+
+6h ago
 
 ---
 
@@ -121,11 +121,9 @@ Source: Cointelegraph
 
 ---
 
-**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
+**[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
-
-6h ago
+1h ago
 
 ---
 
@@ -155,11 +153,19 @@ CoinDesk • 20h ago
 
 ---
 
-**[The Fed Is Suddenly Hurtling Toward A $34 Trillion BlackRock Gold And Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/25/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-Forbes • 5h ago
+ProPublica • 2d ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 177% in 2026, According to Cardano Founder Charles Hoskinson](https://www.fool.com/investing/2026/01/25/1-top-cryptocurrency-to-buy-before-it-soars-177-in/)**
+
+As institutional demand for Bitcoin continues to soar, so should its price.
+
+The Motley Fool • 28m ago
 
 ---
 
@@ -171,33 +177,25 @@ Comethfounder Jerome de Tychey is applying DeFi lending and borrowing on platfor
 
 ---
 
-**[Bitcoin Price Prediction: Markets See Low Odds of $100K BTC in Early 2026](https://www.binance.com/en/square/post/01-24-2026-bitcoin-price-prediction-markets-see-low-odds-of-100k-btc-in-early-2026-35513597131490)**
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
 Binance • 1d ago
 
 ---
 
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
+**[Cathie Wood: Bitcoin Is Set To Rally After 'Shallowest Four-Year Cycle Decline'](https://finance.yahoo.com/news/cathie-wood-bitcoin-set-rally-203111814.html)**
 
-Some fear massive consequences for financial markets.
+ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
 
-The Motley Fool • 2d ago
-
----
-
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 2d ago
-
----
-
-**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
-
-Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -320,7 +318,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 15h ago
+👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 16h ago
 
 ---
 

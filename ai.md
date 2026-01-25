@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T17:19:00.991376+00:00'
+updated: '2026-01-25T17:43:04.758340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 17:19 UTC  
+**Last Updated:** January 25, 2026 at 17:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 16h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 17h ago
 
 ---
 
@@ -74,6 +74,14 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
 13h ago
+
+---
+
+**[Case study of Luddite psychology - the "TESCREAL" bundle.](https://www.reddit.com/r/artificial/comments/1qmnumi/case_study_of_luddite_psychology_the_tescreal/)**
+
+See here. This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive. Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.
+
+1h ago
 
 ---
 
@@ -109,14 +117,6 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 ---
 
-**[White House posts digitally altered image of woman arrested after ICE protest](https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/)**
-
-Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
-
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -132,14 +132,6 @@ The Guardian • 11h ago
 **[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
 
 The New York Times • 7h ago
-
----
-
-**[More than a quarter of Britons say they fear losing jobs to AI in next five years](https://www.theguardian.com/business/2026/jan/25/more-than-quarter-britons-fear-losing-jobs-ai-next-five-years)**
-
-Survey reveals ‘mismatched AI expectations’ between views of employers and staff over impact on careers
-
-The Guardian • 2h ago
 
 ---
 
@@ -175,17 +167,25 @@ CTech • 1d ago
 
 ---
 
-**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
+**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
 
-Axios • 4h ago
+Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
+
+CNBC • 4h ago
 
 ---
 
-**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqesfCPHHFYCdzvV5VvCOSh2rumMdMSlnL9Mk4SDy9LEYAcGhGPkhAyt&gaa_ts=697647f4&gaa_sig=glKWe7XfAUmBV-khuZ5iKXwOlwgh4TbWG5_JAWyoz0WxaUpQIu3CxRjS9zv3CUjZrZ2eYFy-hvooryw5AXsYbA%3D%3D)**
+**[AI has arrived in Gmail. Here’s how to make it work for you](https://www.seattletimes.com/business/ai-has-arrived-in-gmail-heres-how-to-make-it-work-for-you/)**
+
+seattletimes.com • 3h ago
+
+---
+
+**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqddc8GV6i3EWq555q3uYZEfQ5ibiGYenkg38O8gg9CO7nT_zcihtcR3&gaa_ts=69765996&gaa_sig=WUL8eOrfoDIcpB9qSrOxlGvfE-ytCA-e2djdl_d96vIbf3nl0nEuXl6xqEu6vfPwaXk3BKmpu_yhkcfgiJj02w%3D%3D)**
 
 In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
 
-The Times • 17h ago
+The Times • 18h ago
 
 ---
 
@@ -209,19 +209,19 @@ The one where I get very annoyed with my email provider
 
 ---
 
+**[Adoption of EVs tied to real-world reductions in air pollution: study](https://news.ycombinator.com/item?id=46749198)**
+
+Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
+
+⬆️ 514 • 💬 493 • 17h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+
+---
+
 **[AI Usage Policy](https://news.ycombinator.com/item?id=46730504)**
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
 ⬆️ 499 • 💬 272 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
-
----
-
-**[Adoption of EVs tied to real-world reductions in air pollution: study](https://news.ycombinator.com/item?id=46749198)**
-
-Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
-
-⬆️ 489 • 💬 457 • 17h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -251,7 +251,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 76 • 💬 63 • 9h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 79 • 💬 66 • 9h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -265,7 +265,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 55 • 💬 23 • 9h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 60 • 💬 29 • 10h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -315,7 +315,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 251 • ⏱️ 41:25 • 13h ago
+👁️ 37K • 👍 2K • 💬 251 • ⏱️ 41:25 • 14h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 565 • 1h ago
+⭐ 10.4k • 🔱 565 • 2h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 3h ago
+⭐ 9.7k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 3h ago
+⭐ 5.3k • 🔱 5.6k • 4h ago
 
 ---
 

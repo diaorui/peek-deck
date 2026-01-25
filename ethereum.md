@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T17:19:01.005802+00:00'
+updated: '2026-01-25T17:43:04.771193+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 17:19 UTC  
+**Last Updated:** January 25, 2026 at 17:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.6%  
-**7d:** -9.4%  
-**30d:** -2.1%  
+**7d:** -9.5%  
+**30d:** -2.2%  
 **90d:** -27.5%  
-**1y:** -10.6%  
+**1y:** -10.7%  
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-7h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 23h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 20h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -206,25 +206,23 @@ PYMNTS.com • 2d ago
 
 ---
 
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
-
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
-
-TradingView • 16h ago
-
----
-
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
 The Block • 18h ago
 
 ---
 
-**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
+**[What drove Ethereum's 11% decline this past week?](https://www.msn.com/en-us/money/savingandinvesting/what-drove-ethereum-s-11-decline-this-past-week/ar-AA1UWcHI?ocid=finance-verthp-feeds)**
 
-Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
+MSN • 1h ago
 
-Benzinga • 1d ago
+---
+
+**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
+
+A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
+
+TradingView • 16h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 495 • 👍 52 • 💬 4 • ⏱️ 3:57 • 2h ago
+👁️ 495 • 👍 52 • 💬 4 • ⏱️ 3:57 • 3h ago
 
 ---
 
@@ -278,7 +276,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 22h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 23h ago
 
 ---
 
@@ -288,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 573 • 1h ago
+👁️ 4K • 👍 573 • 2h ago
 
 ---
 
@@ -328,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 9 • ⏱️ 4:34 • 23h ago
+👁️ 2K • 👍 98 • 💬 9 • ⏱️ 4:34 • 1d ago
 
 ---
 
