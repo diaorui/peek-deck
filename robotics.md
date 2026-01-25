@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T15:21:50.255564+00:00'
+updated: '2026-01-25T15:42:29.641807+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 15:21 UTC  
+**Last Updated:** January 25, 2026 at 15:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-9h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-2m ago
+23m ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all! I'm an undergrad student working on an independent robotics project (nat
 
 **[Welcome everyone. Let's build India's robotics ecosystem 🇮🇳](https://www.reddit.com/r/robotics/comments/1qmle4o/welcome_everyone_lets_build_indias_robotics/)**
 
-18m ago
+39m ago
 
 ---
 
@@ -164,7 +164,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 21h ago
+USA Today • 22h ago
 
 ---
 

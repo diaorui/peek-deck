@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T15:21:50.246415+00:00'
+updated: '2026-01-25T15:42:29.629609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 15:21 UTC  
+**Last Updated:** January 25, 2026 at 15:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[New purchases…](https://www.reddit.com/r/Bitcoin/comments/1qml038/new_purchases/)**
 
-33m ago
+54m ago
 
 ---
 
@@ -117,7 +117,7 @@ Source: Cointelegraph
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 18h ago
 
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 13h ago
+👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 23h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -388,7 +388,7 @@ Every Bitcoin price scenario for 2026. BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 14h ago
+👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 15h ago
 
 ---
 

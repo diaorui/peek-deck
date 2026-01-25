@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T15:21:50.252350+00:00'
+updated: '2026-01-25T15:42:29.637525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 15:21 UTC  
+**Last Updated:** January 25, 2026 at 15:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 351 • 💬 97 • ⏱️ 7:22 • 22h ago
+👁️ 6K • 👍 351 • 💬 97 • ⏱️ 7:22 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 20h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 54 • 👍 8 • 💬 1 • ⏱️ 21:54 • 1h ago
+👁️ 54 • 👍 8 • 💬 1 • ⏱️ 21:54 • 2h ago
 
 ---
 
