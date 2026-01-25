@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T18:31:57.825826+00:00'
+updated: '2026-01-25T19:18:33.803961+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 18:31 UTC  
+**Last Updated:** January 25, 2026 at 19:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-7h ago
+8h ago
 
 ---
 
@@ -44,19 +44,19 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-6h ago
+7h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -72,7 +72,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,19 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 Hey everyone, I just released a new open-source simulation platform that might be interesting for robotics, drone, and autonomous systems developers 👇 📌 GitHub: https://github.com/ismailtsdln/AeroSimX 🛠️ What is AeroSimX? AeroSimX is a next-generation modular simulation framework designed for building, testing, and researching autonomous systems — including drones, ground vehicles, and robotics platforms. It combines a high-performance C++ core with intuitive Python bindings to support both high-speed simulation and flexible experimentation. ✨ Core Features 🔹 Physics & Dynamics Realistic rigid-body dynamics with collision detection and multi-vehicle support. 🔹 Multi-Vehicle Simulation Support for multirotors, ground vehicles, and easy extensibility for custom types. 🔹 Rich Sensor Suite Simulate Lidar (configurable channels), cameras (RGB, depth), IMU, GPS, radar, and more — with noise and distortion models. 🔹 Python API Control simulations, spawn vehicles, attach sensors, and fetch data through a clean Python interface. 🔹 Training & Data Export Export datasets in COCO, KITTI, and ROS bag formats, and use the platform for reinforcement learning or perception model training. 🔹 ROS2 Integration & Plugins Native integration with ROS2 and plugin system for custom modules. 📦 Quick Start Build from source (C++): git clone https://github.com/ismailtsdln/AeroSimX.git cd AeroSimX mkdir build && cd build cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_EXAMPLES=ON -DBUILD_PYTHON_BINDINGS=ON cmake --build . -j$(nproc) Python example: from pyaerosimx import AeroSimXClient, Lidar, Camera client = AeroSimXClient() client.connect() drone = client.spawn_multirotor("drone1", position=(0,0,1)) drone.attach_sensor(Lidar("lidar", channels=32)) drone.attach_sensor(Camera("camera", width=1280, height=720)) drone.takeoff(altitude=10) client.step(5000) client.disconnect() 💡 Why AeroSimX? ✔ Performance-oriented and extensible for research ✔ Great for robotics, autonomous vehicle development, and ML/AI experimentation ✔ Open-source with Python scripting for rapid prototyping ✔ Integrated data export for training and evaluation workflows 📌 Learn More & Contribute Check out the repo, docs, and examples — and feel free to contribute features or improvements! The project welcomes contributions on simulations, sensors, vehicle models, and more. 🔗 https://github.com/ismailtsdln/AeroSimX
 
-1h ago
+2h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-23h ago
+1d ago
+
+---
+
+**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
+
+15h ago
 
 ---
 
@@ -95,12 +101,6 @@ Hey everyone, I just released a new open-source simulation platform that might b
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
 3h ago
-
----
-
-**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
-
-15h ago
 
 ---
 
@@ -116,19 +116,19 @@ ynetnews.com • 1d ago
 
 ---
 
-**[China’s new humanoid robot floats, swims, flies, and navigates tight spaces effortlessly](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
-
-Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
 
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
 
 fox11online.com • 1d ago
+
+---
+
+**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
+
+SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
+
+channel3000.com • 20h ago
 
 ---
 
@@ -140,6 +140,12 @@ AgFunderNews • 3d ago
 
 ---
 
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
+
+MarketBeat • 2d ago
+
+---
+
 **[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
 
 Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
@@ -148,17 +154,11 @@ Business Insider • 3d ago
 
 ---
 
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-channel3000.com • 19h ago
-
----
-
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
-
-MarketBeat • 2d ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -166,15 +166,7 @@ MarketBeat • 2d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 13h ago
-
----
-
-**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
-
-Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
-
-The Robot Report • 2d ago
+Financial Times • 14h ago
 
 ---
 
@@ -183,6 +175,14 @@ The Robot Report • 2d ago
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
 wbay.com • 1d ago
+
+---
+
+**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
+
+Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ In a dying, dust-choked future ☀️🌪️, humans survive behind factories an
 
 📺 ClipRift
 
-👁️ 8K • 👍 330 • 💬 3 • ⏱️ 0:48 • 8h ago
+👁️ 8K • 👍 330 • 💬 3 • ⏱️ 0:48 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 19h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 456 • 💬 154 • ⏱️ 21:00 • 7h ago
+👁️ 6K • 👍 456 • 💬 154 • ⏱️ 21:00 • 8h ago
 
 ---
 

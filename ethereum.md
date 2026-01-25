@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T18:31:57.822492+00:00'
+updated: '2026-01-25T19:18:33.800721+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 18:31 UTC  
+**Last Updated:** January 25, 2026 at 19:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,899.17
+### $2,847.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** -9.5%  
-**30d:** -2.2%  
-**90d:** -27.5%  
-**1y:** -10.7%  
+**24h:** -3.9%  
+**7d:** -10.9%  
+**30d:** -3.7%  
+**90d:** -28.6%  
+**1y:** -12.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 1d ago
+CoinDesk • 23h ago
 
 ---
 
@@ -176,6 +176,42 @@ The Motley Fool • 3h ago
 
 ---
 
+**[Robert Kiyosaki Not Worried by Bitcoin and Ethereum Price Fluctuations](https://finance.yahoo.com/news/robert-kiyosaki-not-worried-bitcoin-183151754.html)**
+
+Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
+
+Yahoo Finance • 46m ago
+
+---
+
+**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://finance.yahoo.com/news/sharplink-aims-most-focused-disciplined-170103918.html)**
+
+Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+
+CCN.com • 1d ago
+
+---
+
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+
+The Block • 20h ago
+
+---
+
+**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
+
+Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
+
+TradingView • 2d ago
+
+---
+
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
 
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
@@ -184,45 +220,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
 
-A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
-CoinDesk • 2d ago
-
----
-
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
-
-The Block • 3d ago
-
----
-
-**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
-
-A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
-
-PYMNTS.com • 2d ago
-
----
-
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
-
-The Block • 19h ago
-
----
-
-**[What drove Ethereum's 11% decline this past week?](https://www.msn.com/en-us/money/savingandinvesting/what-drove-ethereum-s-11-decline-this-past-week/ar-AA1UWcHI?ocid=finance-verthp-feeds)**
-
-MSN • 2h ago
-
----
-
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
-
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
-
-TradingView • 17h ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -246,7 +248,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 1h ago
+👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 2h ago
 
 ---
 
@@ -256,7 +258,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 21h ago
+👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 22h ago
 
 ---
 
@@ -276,7 +278,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 20h ago
+👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 21h ago
 
 ---
 
@@ -286,7 +288,7 @@ BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING J
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 2h ago
+👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 3h ago
 
 ---
 
@@ -296,7 +298,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 4h ago
+👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 5h ago
 
 ---
 

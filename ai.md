@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T18:31:57.807361+00:00'
+updated: '2026-01-25T19:18:33.786211+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 18:31 UTC  
+**Last Updated:** January 25, 2026 at 19:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 10h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-14h ago
+15h ago
 
 ---
 
@@ -81,7 +81,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 See here. This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive. Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.
 
-1h ago
+2h ago
 
 ---
 
@@ -121,17 +121,55 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 ## Google News: "ai"
 
-**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
+**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
-
-The Guardian • 12h ago
+Bloomberg.com • 6h ago
 
 ---
 
 **[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**[Coursiv Reviews AI Skills Becoming “Silent Requirements,” Even When Job Listings Don’t Say AI](https://www.usatoday.com/story/special/contributor-content/2026/01/25/coursiv-reviews-ai-skills-becoming-silent-requirements-even-when-job-listings-dont-say-ai/88350751007/)**
+
+There’s now a bigger gap between formal credentials and what jobs actually require.
+
+USA Today • 1h ago
+
+---
+
+**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
+
+The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
+
+The Economist • 36m ago
+
+---
+
+**[Alabama can lead on AI accountability by protecting women and children: op-ed](https://www.al.com/politics/2026/01/alabama-can-lead-on-ai-accountability-by-protecting-women-and-children-op-ed.html)**
+
+On platforms like GrokAI, artificial intelligence is now being used to create explicit, pornographic images from real photos of women and children. These images may be fake, but the harm is real.
+
+al.com • 1h ago
+
+---
+
+**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
+
+Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
+
+The Guardian • 13h ago
+
+---
+
+**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
+
+Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
+
+CNBC • 6h ago
 
 ---
 
@@ -143,14 +181,6 @@ WIRED • 2d ago
 
 ---
 
-**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
-
-Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
-
-CNN • 1d ago
-
----
-
 **[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
@@ -159,41 +189,9 @@ BBC • 1d ago
 
 ---
 
-**[Wix plans to let AI write most code, leaving engineers to redefine their role](https://www.calcalistech.com/ctechnews/article/r1u0ydglzg)**
+**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
 
-The company acknowledges uncertainty around how the shift will reshape careers.
-
-CTech • 1d ago
-
----
-
-**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
-
-Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
-
-CNBC • 5h ago
-
----
-
-**[AI has arrived in Gmail. Here’s how to make it work for you](https://www.seattletimes.com/business/ai-has-arrived-in-gmail-heres-how-to-make-it-work-for-you/)**
-
-seattletimes.com • 4h ago
-
----
-
-**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqddc8GV6i3EWq555q3uYZEfQ5ibiGYenkg38O8gg9CO7nT_zcihtcR3&gaa_ts=69765996&gaa_sig=WUL8eOrfoDIcpB9qSrOxlGvfE-ytCA-e2djdl_d96vIbf3nl0nEuXl6xqEu6vfPwaXk3BKmpu_yhkcfgiJj02w%3D%3D)**
-
-In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
-
-The Times • 19h ago
-
----
-
-**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
-
-‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
-
-Financial Times • 13h ago
+Axios • 5h ago
 
 ---
 
@@ -213,7 +211,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 514 • 💬 493 • 18h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 535 • 💬 516 • 19h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -229,7 +227,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 187 • 💬 176 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 187 • 💬 176 • 2d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -251,7 +249,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 79 • 💬 66 • 10h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 82 • 💬 67 • 11h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -265,7 +263,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 60 • 💬 29 • 10h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 61 • 💬 30 • 11h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -285,7 +283,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 36K • 👍 1K • 💬 484 • ⏱️ 16:18 • 22h ago
+👁️ 36K • 👍 1K • 💬 484 • ⏱️ 16:18 • 23h ago
 
 ---
 
@@ -295,7 +293,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 13K • 👍 521 • 💬 124 • ⏱️ 12:43 • 12h ago
+👁️ 13K • 👍 521 • 💬 124 • ⏱️ 12:43 • 13h ago
 
 ---
 
@@ -305,7 +303,7 @@ OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tr
 
 📺 Zack Shutt
 
-👁️ 16K • 👍 884 • 💬 285 • ⏱️ 10:14 • 15h ago
+👁️ 16K • 👍 884 • 💬 285 • ⏱️ 10:14 • 16h ago
 
 ---
 
@@ -335,7 +333,7 @@ Top Unreal Goals That Look Like AI A compilation of Football goals so insane the
 
 📺 FootyRanks
 
-👁️ 690K • 👍 26K • 💬 137 • ⏱️ 0:48 • 10h ago
+👁️ 690K • 👍 26K • 💬 137 • ⏱️ 0:48 • 11h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 566 • 2m ago
+⭐ 10.4k • 🔱 566 • 49m ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 1h ago
+⭐ 9.7k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -702,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.0k • 🔱 1.1k • 2h ago
+⭐ 6.0k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -722,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 499 • 20h ago
+⭐ 4.6k • 🔱 499 • 21h ago
 
 ---
 
@@ -740,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.9k • 🔱 624 • 1m ago
+⭐ 2.9k • 🔱 624 • 47m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T18:31:57.816185+00:00'
+updated: '2026-01-25T19:18:33.794685+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 18:31 UTC  
+**Last Updated:** January 25, 2026 at 19:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,917.31
+### $87,310.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -5.0%  
-**30d:** +0.0%  
-**90d:** -22.1%  
-**1y:** -14.3%  
+**24h:** -2.5%  
+**7d:** -5.9%  
+**30d:** -0.9%  
+**90d:** -22.8%  
+**1y:** -15.1%  
 
 ---
 
@@ -85,13 +85,21 @@ Rank #1
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-6h ago
+7h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-9h ago
+10h ago
+
+---
+
+**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
+
+So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
+
+8h ago
 
 ---
 
@@ -101,43 +109,35 @@ Rank #1
 
 ---
 
-**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
-
-So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
-
-7h ago
-
----
-
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
-
-14h ago
-
----
-
-**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
 15h ago
 
 ---
 
+**[Who is buying the dip??](https://www.reddit.com/r/Bitcoin/comments/1qmrrus/who_is_buying_the_dip/)**
+
+Source: Blossom Social and X
+
+24m ago
+
+---
+
+**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+
+16h ago
+
+---
+
 **[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-18h ago
-
----
-
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-1d ago
+19h ago
 
 ---
 
@@ -145,35 +145,11 @@ Where do people even find that kind of courage?
 
 ## Google News: "bitcoin"
 
-**[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)**
+**[From Tesla shares to bitcoin: The new secret to getting a credit line without a bank](https://www.coindesk.com/business/2026/01/25/how-the-ultra-wealthy-are-using-bitcoin-to-fund-their-yacht-upgrades-and-cannes-trips)**
 
-Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
+Cometh founder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
 
-CoinDesk • 21h ago
-
----
-
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 2d ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars 177% in 2026, According to Cardano Founder Charles Hoskinson](https://www.fool.com/investing/2026/01/25/1-top-cryptocurrency-to-buy-before-it-soars-177-in/)**
-
-As institutional demand for Bitcoin continues to soar, so should its price.
-
-The Motley Fool • 1h ago
-
----
-
-**[How the Ultra-wealthy Are Using Bitcoin to Fund Their Yacht Upgrades and Cannes Trips](https://news.futunn.com/en/post/67867432/how-the-ultra-wealthy-are-using-bitcoin-to-fund-their)**
-
-Comethfounder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
-
-富途资讯 • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,17 +161,57 @@ Forbes • 2d ago
 
 ---
 
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
+
+It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
+
+CoinDesk • 1d ago
+
+---
+
+**[Robert Kiyosaki Not Worried by Bitcoin and Ethereum Price Fluctuations](https://finance.yahoo.com/news/robert-kiyosaki-not-worried-bitcoin-183151754.html)**
+
+Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
+
+Yahoo Finance • 46m ago
+
+---
+
+**[Bitcoin price news: BTC under $88,000 ahead of Fed week and Big Tech earnings](https://www.coindesk.com/markets/2026/01/25/bitcoin-slips-below-usd88-000-ahead-of-fed-week-and-big-tech-earnings)**
+
+Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
+
+CoinDesk • 56m ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 177% in 2026, According to Cardano Founder Charles Hoskinson](https://www.fool.com/investing/2026/01/25/1-top-cryptocurrency-to-buy-before-it-soars-177-in/)**
+
+As institutional demand for Bitcoin continues to soar, so should its price.
+
+The Motley Fool • 2h ago
+
+---
+
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
 Binance • 1d ago
 
 ---
 
-**[Cathie Wood: Bitcoin Is Set To Rally After 'Shallowest Four-Year Cycle Decline'](https://finance.yahoo.com/news/cathie-wood-bitcoin-set-rally-203111814.html)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
-ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-Yahoo Finance • 1d ago
+ProPublica • 2d ago
 
 ---
 
@@ -204,20 +220,6 @@ Yahoo Finance • 1d ago
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 3d ago
-
----
-
-**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
-
-The Block • 21h ago
-
----
-
-**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
-
-Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -298,7 +300,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 7h ago
+👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 8h ago
 
 ---
 
@@ -308,7 +310,7 @@ Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 2h ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 3h ago
 
 ---
 
@@ -368,7 +370,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Monkey Cubin
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 
@@ -378,7 +380,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 1h ago
+👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 2h ago
 
 ---
 
@@ -388,7 +390,7 @@ La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? EN
 
 📺 USACRYPTONOTICIAS
 
-👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 1h ago
+👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 2h ago
 
 ---
 
