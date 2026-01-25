@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T11:18:41.293367+00:00'
+updated: '2026-01-25T11:40:13.983219+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 11:18 UTC  
+**Last Updated:** January 25, 2026 at 11:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
+**24h:** -0.8%  
 **7d:** -7.8%  
-**30d:** -0.3%  
-**90d:** -26.1%  
-**1y:** -9.0%  
+**30d:** -0.4%  
+**90d:** -26.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.35B
+**Market Cap:** $354.73B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.6%
 
 **All-Time Low:** $0.43
-+676115.2%
++678166.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 17h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -176,11 +176,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
-
-CoinDesk • 2d ago
+CCN.com • 1d ago
 
 ---
 
@@ -190,15 +188,11 @@ The Block • 2d ago
 
 ---
 
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
 
-CCN.com • 1d ago
+A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
----
-
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
-
-The Block • 12h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -207,6 +201,12 @@ The Block • 12h ago
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
 TradingView — Track All Markets • 10h ago
+
+---
+
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+
+The Block • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 13K • 👍 808 • 💬 117 • ⏱️ 29:47 • 14h ago
+👁️ 14K • 👍 850 • 💬 121 • ⏱️ 29:47 • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 13h ago
+👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 13h ago
 
 ---
 
@@ -256,7 +256,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 339 • 💬 95 • ⏱️ 7:22 • 18h ago
+👁️ 6K • 👍 345 • 💬 97 • ⏱️ 7:22 • 19h ago
 
 ---
 
@@ -266,37 +266,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 35K • 👍 1K • 💬 135 • ⏱️ 17:24 • 2d ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 43K • 👍 2K • 💬 209 • ⏱️ 19:54 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8WVDmNSl0Wc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 91 • 💬 9 • ⏱️ 4:34 • 17h ago
-
----
-
-**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
-
-CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 16h ago
+👁️ 36K • 👍 1K • 💬 135 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -310,23 +280,53 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 ---
 
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+
+📺 Coin Bureau
+
+👁️ 43K • 👍 2K • 💬 213 • ⏱️ 19:54 • 2d ago
+
+---
+
+**[CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY STORM](https://www.youtube.com/watch?v=QbtW7kOrIEE)**
+
+CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BILL DELAYED BY ...
+
+📺 CryptoWendyO
+
+👁️ 13K • 👍 1K • 💬 25 • ⏱️ 12:01 • 17h ago
+
+---
+
 **[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 188 • 💬 47 • ⏱️ 8:10 • 2d ago
+👁️ 5K • 👍 180 • 💬 47 • ⏱️ 8:10 • 2d ago
 
 ---
 
-**[🚨 URGENT TOP PREMIER CRYPTO ASSETS TO BUY NOW! #xrp #eth #bitcoin](https://www.youtube.com/watch?v=pa0ncwv1U44)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8WVDmNSl0Wc)**
 
-Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-powered tool instantly compares tokens using ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Zach Humphries
+📺 More Crypto Online
 
-👁️ 1K • 👍 22 • 💬 25 • ⏱️ 0:54 • 9h ago
+👁️ 2K • 👍 96 • 💬 9 • ⏱️ 4:34 • 18h ago
+
+---
+
+**[Is the Bitmine / Ethereum Thesis in Trouble? (BMNR Stock)](https://www.youtube.com/watch?v=JN2hrXT6GEg)**
+
+15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy Thoughts on Mr. Beast / Beast ...
+
+📺 Crossroads
+
+👁️ 4K • 👍 215 • 💬 94 • ⏱️ 16:54 • 16h ago
 
 ---
 

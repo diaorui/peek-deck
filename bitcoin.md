@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T11:18:41.287247+00:00'
+updated: '2026-01-25T11:40:13.977198+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 11:18 UTC  
+**Last Updated:** January 25, 2026 at 11:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,549.14
+### $88,593.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -4.4%  
-**30d:** +0.7%  
-**90d:** -21.6%  
-**1y:** -13.7%  
+**24h:** -0.9%  
+**7d:** -4.3%  
+**30d:** +0.9%  
+**90d:** -21.4%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.67B
+**Market Cap:** $1769.31B
 Rank #1
 
-**Circulating Supply:** 19,980,325 BTC
+**Circulating Supply:** 19,980,365 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.8%
 
 **All-Time Low:** $67.81
-+130018.0%
++130427.9%
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
+**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-7h ago
+2h ago
 
 ---
 
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
+**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-Where do people even find that kind of courage?
-
-18h ago
+7h ago
 
 ---
 
@@ -97,25 +95,33 @@ Where do people even find that kind of courage?
 
 ---
 
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
+
+Where do people even find that kind of courage?
+
+19h ago
+
+---
+
+**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
+
+2h ago
+
+---
+
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
 11h ago
 
 ---
 
-**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
+**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-1h ago
+14m ago
 
 ---
 
 **[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
-
-2h ago
-
----
-
-**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
 2h ago
 
@@ -131,15 +137,7 @@ Where do people even find that kind of courage?
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-12h ago
-
----
-
-**[Batman Logic](https://www.reddit.com/r/Bitcoin/comments/1qli5sc/batman_logic/)**
-
-Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
-
-1d ago
+13h ago
 
 ---
 
@@ -163,6 +161,14 @@ ProPublica • 2d ago
 
 ---
 
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Proposal to Temporarily Cap Bitcoin Transaction Data Gains Support From 583 Nodes](https://finance.yahoo.com/news/proposal-temporarily-cap-bitcoin-transaction-085200521.html)**
 
 Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
@@ -174,14 +180,6 @@ Yahoo Finance • 2h ago
 **[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
 
 Binance • 2h ago
-
----
-
-**[These 3 Cryptocurrencies Could Skyrocket in 2026](https://www.fool.com/investing/2026/01/25/these-3-cryptocurrencies-could-skyrocket-in-2026/)**
-
-Forget what happened in 2025.
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -207,17 +205,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
-
-Bloomberg • 2d ago
-
----
-
 **[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 2d ago
+
+---
+
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -288,26 +288,6 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Ditching Flickr for Immich, Protecting My Kids](https://news.ycombinator.com/item?id=46740583)**
-
-This is the story of how I ended up building a private, family-first photo sharing system after years of duct-taping existing tools together.
-
-
-
-
-
-When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
-
-⬆️ 2 • 💬 0 • 1d ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
-
----
-
-**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46706668)**
-
-⬆️ 67 • 💬 31 • 3d ago • [dashboard.infracost.io](https://dashboard.infracost.io/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -318,7 +298,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 65 • ⏱️ 47:21 • 21h ago
+👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 21h ago
 
 ---
 
@@ -328,27 +308,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 1K • 💬 143 • ⏱️ 12:07 • 19h ago
-
----
-
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
-
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
-
-📺 CNBC Television
-
-👁️ 36K • 👍 485 • 💬 219 • ⏱️ 2:12 • 1d ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 235 • ⏱️ 11:14 • 13h ago
+👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 20h ago
 
 ---
 
@@ -358,37 +318,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 303 • ⏱️ 8:40 • 1d ago
+👁️ 60K • 👍 3K • 💬 303 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
+**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
 
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
+Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
 
-📺 Swan Bitcoin
+📺 CNBC Television
 
-👁️ 77K • 👍 3K • 💬 365 • ⏱️ 16:21 • 2d ago
-
----
-
-**[“Banks Are Going All-In — Bitcoin’s 2026 Supercycle Has Begun” - CZ &amp; Brian Armstrong](https://www.youtube.com/watch?v=yz39qSOVui0)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 305 • 💬 29 • ⏱️ 15:04 • 18h ago
+👁️ 36K • 👍 490 • 💬 220 • ⏱️ 2:12 • 1d ago
 
 ---
 
-**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Crypto Kid
+📺 Altcoin Daily
 
-👁️ 7K • 👍 623 • 💬 178 • ⏱️ 8:27 • 11h ago
+👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 13h ago
 
 ---
 
@@ -398,17 +348,47 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 18K • 👍 396 • 💬 189 • ⏱️ 6:22 • 9h ago
+👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 10h ago
 
 ---
 
-**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+**[Why I Sold All My Bitcoin For Physical Silver (And You Should Too)](https://www.youtube.com/watch?v=ywd7Q4J0fGI)**
 
-How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+I finally did it—I sold every single Bitcoin I owned to buy physical Silver. In this video, I explain the "why" behind this massive ...
 
-📺 Brad Long
+📺 LeeAG Finance
 
-👁️ 26K • 👍 2K • 💬 331 • ⏱️ 14:05 • 1d ago
+👁️ 1K • 👍 94 • 💬 61 • ⏱️ 19:27 • 1d ago
+
+---
+
+**[“Banks Are Going All-In — Bitcoin’s 2026 Supercycle Has Begun” - CZ &amp; Brian Armstrong](https://www.youtube.com/watch?v=yz39qSOVui0)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 322 • 💬 29 • ⏱️ 15:04 • 19h ago
+
+---
+
+**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
+
+Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
+
+📺 Swan Bitcoin
+
+👁️ 78K • 👍 3K • 💬 367 • ⏱️ 16:21 • 2d ago
+
+---
+
+**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+
+📺 Crypto Kid
+
+👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 11h ago
 
 ---
 

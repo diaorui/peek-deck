@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T11:18:41.278895+00:00'
+updated: '2026-01-25T11:40:13.968857+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 11:18 UTC  
+**Last Updated:** January 25, 2026 at 11:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 10h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 11h ago
 
 ---
 
@@ -101,6 +101,14 @@ So im assuming he makes the person ask a long questionnaire that feeds into ai, 
 
 ---
 
+**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
+
+Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
+
+1d ago
+
+---
+
 **[GPT 5.2 Codex is Actually (kind of) Just Special System Instructions](https://www.reddit.com/r/artificial/comments/1qlfr6s/gpt_52_codex_is_actually_kind_of_just_special/)**
 
 https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this article explaining Codex, I found this snippet interesting: In Codex, the instructions field is read from the >model_instructions_file⁠(opens in a new window) in ~/.codex/>config.toml, if specified; otherwise, the base_instructions >associated with a model⁠(opens in a new window) are >used. Model->specific instructions live in the Codex repo and are bundled into the >CLI (e.g., gpt-5.2->codex_prompt.md⁠(opens in a new window)). As you can see, the order of the first three items in the prompt is determined by the server, not the client. That >said, of those three items, only the content of the system message is also controlled by the server, as the tools and >instructions are determined by the client. These are followed by the input from the JSON payload to complete the >prompt. So essentially it's just the system instruction sits on Openai's servers and that actually changes the behavior of gpt-5.2. This whole article is actually pretty fascinating and I recommend it for a good read if you're interested in learning agentic ai (and how that might help you use Cursor more efficiently) and the usage of tools for agentic ai.
@@ -109,25 +117,9 @@ https://openai.com/index/unrolling-the-codex-agent-loop/ Drawing from this artic
 
 ---
 
-**[White House posts digitally altered image of woman arrested after ICE protest](https://www.reddit.com/r/artificial/comments/1qk9x1y/white_house_posts_digitally_altered_image_of/)**
-
-Guardian analysis shows images are the same, with Nekima Levy Armstrong looking composed in original but sobbing after alteration
-
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/jan/22/white-house-ice-protest-arrest-altered-image) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
-
-Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
-
-The Guardian • 5h ago
-
----
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
@@ -135,33 +127,35 @@ The New York Times • 20h ago
 
 ---
 
-**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
+**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
 
-‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
+The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-Financial Times • 6h ago
-
----
-
-**[Bill Gates Issues Warning on AI Investment Hype, Urges Caution](https://www.investopedia.com/bill-gates-issues-warning-on-ai-investment-hype-urges-caution-11890826)**
-
-Bill Gates on Wednesday warned the AI industry will be "hypercompetitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
-
-Investopedia • 14h ago
+BBC • 1d ago
 
 ---
 
-**[Goldman Reaffirms Preference for Nvidia (NVDA) in AI Compute Ecosystem](https://finance.yahoo.com/news/goldman-reaffirms-preference-nvidia-nvda-091353958.html)**
+**[I helped create Alexa, then quit Amazon. Here's why, despite being proud of what we built.](https://www.businessinsider.com/alexa-co-creator-why-i-quit-amazon-launch-ai-startup-2026-1)**
 
-NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks Analysts are Watching. On January 20, Goldman Sachs reaffirmed its preference for Broadcom and Nvidia, highlighting that it continues to prefer both names within the compute ecosystem. The firm developed an “investment cost curve” to compare the economies of different chipmakers’ AI solutions and their […]
+William Tunstall-Pedoe co-founded Evi, which became Amazon Alexa. Here's why he decided to leave the tech giant and launch a startup.
 
-Yahoo Finance • 2h ago
+Business Insider • 43m ago
 
 ---
 
-**[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
+**[AI needs to augment rather than replace humans or the workplace is doomed | Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)**
 
-The New York Times • 1h ago
+Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
+
+The Guardian • 14m ago
+
+---
+
+**[The Motley Fool: Powering artificial intelligence](https://www.dallasnews.com/business/2026/01/25/the-motley-fool-powering-artificial-intelligence/)**
+
+Nvidia’s early entrance into the AI market gave it a huge advantage, and its focus on innovation has kept it in the top spot.
+
+dallasnews.com • 37m ago
 
 ---
 
@@ -169,7 +163,15 @@ The New York Times • 1h ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 20h ago
+CNBC • 21h ago
+
+---
+
+**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqdkqPTxKfOATzwNtKkHO-S16MBut6BbpfIG9GlYcdffdSDP9oppBnUo&gaa_ts=69760485&gaa_sig=Xf_UOaemPzVeRaDUadmReZD1sHILR7B_gEgq55tlzLtRI49C99T3OOS6J4M-K0dSFFSWHgkjBrHS7oeDjD3nZw%3D%3D)**
+
+In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
+
+The Times • 12h ago
 
 ---
 
@@ -181,9 +183,11 @@ WIRED • 1d ago
 
 ---
 
-**[As massive winter storm hits, NWS has been using new AI-powered forecasts](https://www.washingtonpost.com/weather/2026/01/24/winter-storm-ai-forecasts/)**
+**[Pope Leo warns of ‘overly affectionate’ AI chatbots](https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl)**
 
-The Washington Post • 17h ago
+Beware of the AI chatbot that becomes more than just a friend, or worse, an emotional crutch. Pope Leo XIV has warned about overly “affectionate” chatbots, urging regulation to prevent humans from forming serious emotional bonds with their AI companions.
+
+CNN • 19h ago
 
 ---
 
@@ -203,7 +207,7 @@ Fox Business • 21h ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 546 • 💬 417 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 547 • 💬 418 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -219,7 +223,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 385 • 💬 323 • 11h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 411 • 💬 352 • 11h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -235,7 +239,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Workers should learn AI skills and companies should use it because it's a "cognitive amplifier," claims Satya Nadella.
 
-⬆️ 159 • 💬 209 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+⬆️ 160 • 💬 209 • 2d ago • [PC Gamer](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
 
 ---
 
@@ -279,53 +283,33 @@ Helping you make informed decisions about your health by combining the latest re
 
 ## YouTube Videos: "ai"
 
-**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
-
-OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
-
-📺 Stylosa
-
-👁️ 28K • 👍 1K • 💬 392 • ⏱️ 16:18 • 15h ago
-
----
-
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 8K • 👍 107 • 💬 56 • ⏱️ 16:31 • 2d ago
+👁️ 8K • 👍 107 • 💬 55 • ⏱️ 16:31 • 2d ago
 
 ---
 
-**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
+**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
 
-Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
+CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
 
-📺 AI Revolution
+📺 Dylan Curious
 
-👁️ 62K • 👍 1K • 💬 128 • ⏱️ 12:48 • 2d ago
-
----
-
-**[Art Student Eats AI Art in Protest #art #artstudent #peacefulprotest  #creativeresistance](https://www.youtube.com/watch?v=e3RHmBOQm-Y)**
-
-An art student at the University of Alaska Fairbanks protested the use of AI generated art by damaging an exhibition displayed in a ...
-
-📺 Anora
-
-👁️ 2.1M • 👍 76K • 💬 2K • ⏱️ 0:13 • 1d ago
+👁️ 5K • 👍 297 • 💬 105 • ⏱️ 23:12 • 20h ago
 
 ---
 
-**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
+**[my predictions for 2026... AI will never be the same](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
 
-Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 Vanessa Wingårdh
+📺 Wes Roth
 
-👁️ 440K • 👍 22K • 💬 5K • ⏱️ 10:08 • 1d ago
+👁️ 6K • 👍 299 • 💬 85 • ⏱️ 12:43 • 5h ago
 
 ---
 
@@ -335,7 +319,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 25K • 👍 647 • 💬 112 • ⏱️ 20:22 • 1d ago
+👁️ 27K • 👍 691 • 💬 117 • ⏱️ 20:22 • 1d ago
 
 ---
 
@@ -345,27 +329,27 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 17K • 👍 1K • 💬 171 • ⏱️ 41:25 • 7h ago
+👁️ 25K • 👍 2K • 💬 205 • ⏱️ 41:25 • 8h ago
 
 ---
 
-**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+**[Art Student Eats AI Art in Protest #art #artstudent #peacefulprotest  #creativeresistance](https://www.youtube.com/watch?v=e3RHmBOQm-Y)**
 
-Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+An art student at the University of Alaska Fairbanks protested the use of AI generated art by damaging an exhibition displayed in a ...
+
+📺 Anora
+
+👁️ 2.3M • 👍 78K • 💬 2K • ⏱️ 0:13 • 1d ago
+
+---
+
+**[Apple Just Shocked Everyone: Introducing APPLE AI PIN](https://www.youtube.com/watch?v=iddMn6wAn3U)**
+
+Apple is working on a new AI pin designed to live on your clothing and understand the world around you. Microsoft is pushing ...
 
 📺 AI Revolution
 
-👁️ 15K • 👍 560 • 💬 54 • ⏱️ 9:10 • 1d ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 46K • 👍 2K • 💬 294 • ⏱️ 28:01 • 1d ago
+👁️ 63K • 👍 1K • 💬 128 • ⏱️ 12:48 • 2d ago
 
 ---
 
@@ -375,7 +359,27 @@ Can I do it in one day with only $10? Try ElevenLabs today: ...
 
 📺 AI Samson
 
-👁️ 5K • 👍 271 • 💬 34 • ⏱️ 14:50 • 20h ago
+👁️ 6K • 👍 284 • 💬 38 • ⏱️ 14:50 • 21h ago
+
+---
+
+**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
+
+Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
+
+📺 Vanessa Wingårdh
+
+👁️ 446K • 👍 22K • 💬 5K • ⏱️ 10:08 • 1d ago
+
+---
+
+**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+
+Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+
+📺 AI Revolution
+
+👁️ 15K • 👍 565 • 💬 55 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -391,7 +395,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,138 • 4d ago
+⬇️ 363,320 • ❤️ 1,147 • 4d ago
 
 ---
 
@@ -403,7 +407,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 865 • 2d ago
+⬇️ 29,354 • ❤️ 882 • 2d ago
 
 ---
 
@@ -415,7 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 460 • 3d ago
+⬇️ 21,722 • ❤️ 472 • 3d ago
 
 ---
 
@@ -427,7 +431,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 384 • 2d ago
+⬇️ 42,703 • ❤️ 389 • 2d ago
 
 ---
 
@@ -451,7 +455,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 251 • 4d ago
+⬇️ 12,479 • ❤️ 255 • 4d ago
 
 ---
 
@@ -475,7 +479,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 243 • 5d ago
+⬇️ 634 • ❤️ 244 • 5d ago
 
 ---
 
@@ -487,19 +491,19 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 206 • 2d ago
+⬇️ 2,743 • ❤️ 208 • 2d ago
 
 ---
 
-**[Step3-VL-10B](https://huggingface.co/stepfun-ai/Step3-VL-10B)**
+**[Chroma-4B](https://huggingface.co/FlashLabs/Chroma-4B)**
 
-*StepFun*
+*FlashLabs*
 
-STEP3-VL-10B is a 10B parameter vision-language model excelling in visual perception and complex reasoning, outperforming larger models through unified pre-training and parallel reasoning techniques. Its primary use cases include advanced multimodal understanding and generation tasks.
+Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech understanding, multimodal generation (text and speech), and personalized voice cloning using reference audio. It's built on Qwen2.5-Omni-3B and Llama3, targeting applications like voice agents and virtual humans.
 
-`image-text-to-text` `10.2B`
+`any-to-any` `5.9B`
 
-⬇️ 45,492 • ❤️ 309 • 2d ago
+⬇️ 4,684 • ❤️ 206 • 3d ago
 
 ---
 
@@ -515,7 +519,7 @@ STEP3-VL-10B is a 10B parameter vision-language model excelling in visual percep
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 28 • 💬 1 • ⭐ 3,625 • 3d ago
+▲ 29 • 💬 1 • ⭐ 3,625 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -541,7 +545,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 0 • 💬 0 • ⭐ 3,549 • 10mo ago
+▲ 1 • 💬 0 • ⭐ 3,549 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -553,7 +557,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 36 • 💬 4 • ⭐ 1,868 • 10d ago
+▲ 37 • 💬 4 • ⭐ 1,868 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -565,7 +569,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 126 • 💬 6 • ⭐ 11,677 • 5mo ago
+▲ 125 • 💬 6 • ⭐ 11,677 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -579,23 +583,9 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 17 • 💬 3 • ⭐ 366 • 9d ago
+▲ 18 • 💬 3 • ⭐ 366 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
-
----
-
-**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
-
-*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
-
-🏢 AutoLab
-
-RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
-
-▲ 44 • 💬 2 • ⭐ 239 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
 
 ---
 
@@ -625,6 +615,20 @@ https://continuous-audio-language-models.github.io
 
 ---
 
+**[Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171)**
+
+*Qianli Ma, Chang Guo, Zhiheng Tian et al. (7 authors)*
+
+🏢 AutoLab
+
+RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review.
+
+▲ 44 • 💬 2 • ⭐ 254 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.14171) • [💻 code](https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal) • [🔗 project](https://mqleet.github.io/Paper2Rebuttal_ProjectPage/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -646,7 +650,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 170 • 💬 5 • ⭐ 372 • 6d ago
+▲ 170 • 💬 5 • ⭐ 403 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -662,7 +666,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 555 • 5h ago
+⭐ 10.3k • 🔱 559 • 5h ago
 
 ---
 
@@ -682,7 +686,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 464 • 3d ago
+⭐ 9.0k • 🔱 466 • 3d ago
 
 ---
 
@@ -692,7 +696,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 900 • 2d ago
+⭐ 7.6k • 🔱 903 • 2d ago
 
 ---
 
@@ -712,7 +716,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.5k • 1h ago
+⭐ 5.3k • 🔱 5.6k • 33m ago
 
 ---
 
@@ -722,7 +726,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 482 • 13h ago
+⭐ 4.5k • 🔱 484 • 13h ago
 
 ---
 
@@ -730,7 +734,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.9k • 🔱 234 • 2d ago
+⭐ 2.9k • 🔱 235 • 2d ago
 
 ---
 
@@ -740,7 +744,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.5k • 🔱 536 • 4h ago
+⭐ 2.6k • 🔱 551 • 4h ago
 
 ---
 

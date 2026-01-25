@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T11:18:41.296604+00:00'
+updated: '2026-01-25T11:40:13.986472+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 11:18 UTC  
+**Last Updated:** January 25, 2026 at 11:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[An AI powered robotic wheelchair from China can navigate uneven ground and even climb stairs using sensors and adaptive control.](https://www.reddit.com/r/robotics/comments/1qmfviq/an_ai_powered_robotic_wheelchair_from_china_can/)**
+
+I don't have much information, but it's a bit viral on X
+
+1h ago
+
+---
+
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
 9h ago
@@ -42,7 +50,13 @@ Robotics research and industry news
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-5h ago
+6h ago
+
+---
+
+**[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
+
+58m ago
 
 ---
 
@@ -54,7 +68,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -62,7 +76,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-22h ago
+23h ago
 
 ---
 
@@ -70,35 +84,21 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-14h ago
+15h ago
+
+---
+
+**[RSS: Robotics Science and System - [Discussion thread]](https://www.reddit.com/r/robotics/comments/1qmgjb0/rss_robotics_science_and_system_discussion_thread/)**
+
+The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
+
+22m ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
 10h ago
-
----
-
-**[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
-
-1d ago
-
----
-
-**[Best servo set up for remote control gimbal head](https://www.reddit.com/r/robotics/comments/1qm4mg3/best_servo_set_up_for_remote_control_gimbal_head/)**
-
-This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
-
-10h ago
-
----
-
-**[Instructions for my cycloidal drive are now available](https://www.reddit.com/r/robotics/comments/1qlhx97/instructions_for_my_cycloidal_drive_are_now/)**
-
-A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
-
-1d ago
 
 ---
 
@@ -114,11 +114,19 @@ ynetnews.com • 19h ago
 
 ---
 
-**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
 
-Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
 
-Electrek • 3d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 1d ago
 
 ---
 
@@ -138,6 +146,20 @@ AgFunderNews • 2d ago
 
 ---
 
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
+
+MarketBeat • 1d ago
+
+---
+
+**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+
+The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+
+fox11online.com • 1d ago
+
+---
+
 **[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
@@ -146,11 +168,11 @@ Financial Times • 6h ago
 
 ---
 
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+**[From LEGOs to the World Championship: East Grand Rapids girls win big in robotics](https://www.fox17online.com/news/local-news/east-grand-rapids-forest-hills-cascade/from-legos-to-the-world-championship-east-grand-rapids-girls-win-big-in-robotics)**
 
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+Five fifth-grade girls from East Grand Rapids have turned LEGOs into a state championship in a robotics competition and a chance to compete on the World Championship.
 
-wbay.com • 1d ago
+fox17online.com • 1d ago
 
 ---
 
@@ -159,30 +181,6 @@ wbay.com • 1d ago
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
 The Robot Report • 1d ago
-
----
-
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 17h ago
-
----
-
-**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
-
-Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
-
-news.cgtn.com • 22h ago
-
----
-
-**[Elon Musk: Humanoid robots will be sold by 'end of next year'](https://finance.yahoo.com/video/elon-musk-humanoid-robots-sold-190041670.html)**
-
-Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk sat down for an interview at the 2026 World Economic Forum (WEF) in Davos, Switzerland, on Thursday. Watch the video above to hear Musk's updates on humanoid robots. Watch Musk's full World Economic Forum address. More from Davos: Watch President Trump's full World Economic Forum address. Watch Nvidia CEO Jensen Huang's conversation with BlackRock CEO Larry Fink. For more expert insight and the latest market action, click&nbsp;here.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 87 • 💬 35 • ⏱️ 6:39 • 1d ago
+👁️ 5K • 👍 88 • 💬 36 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 62K • 👍 2K • 💬 117 • ⏱️ 17:39 • 1d ago
+👁️ 64K • 👍 2K • 💬 119 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -230,21 +228,31 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 25K • 👍 3K • 💬 113 • ⏱️ 1:13 • 2d ago
-
----
-
 **[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
 
 Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
 
 📺 Global News
 
-👁️ 24K • 👍 109 • 💬 98 • ⏱️ 10:15 • 2d ago
+👁️ 24K • 👍 110 • 💬 98 • ⏱️ 10:15 • 2d ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 25K • 👍 3K • 💬 114 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+
+📺 CBC News: The National
+
+👁️ 21K • 👍 211 • ⏱️ 7:30 • 5d ago
 
 ---
 
@@ -254,17 +262,17 @@ Will this company be the “picks and shovels” of the robotics industry? Skild
 
 📺 Rowan Cheung
 
-👁️ 11K • 👍 753 • 💬 7 • ⏱️ 1:13 • 1d ago
+👁️ 11K • 👍 775 • 💬 7 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[9 1/2 Inch Robot | 5962 Nordic Storm | FTC Snapshot](https://www.youtube.com/watch?v=-ao-ZQBQm2s)**
+**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
 
-This video is supported by@StudicaRobotics. Studica structure is composed of anodized T6 aluminum that stays strong during the ...
+XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
 
-📺 FUN Robotics Network
+📺 The AI Nexus
 
-👁️ 1K • 👍 35 • 💬 1 • ⏱️ 1:27 • 13h ago
+👁️ 4K • 👍 133 • 💬 17 • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -274,17 +282,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 UBTECH Robotics
 
-👁️ 12K • 👍 183 • 💬 38 • ⏱️ 1:56 • 4d ago
-
----
-
-**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
-
-My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
-
-📺 Old Forge Creations
-
-👁️ 127K • 👍 3K • 💬 41 • ⏱️ 1:20 • 18h ago
+👁️ 12K • 👍 185 • 💬 39 • ⏱️ 1:56 • 4d ago
 
 ---
 
