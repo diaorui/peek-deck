@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T06:34:38.043416+00:00'
+updated: '2026-01-25T07:22:44.165322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 06:34 UTC  
+**Last Updated:** January 25, 2026 at 07:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.15B
+**Market Cap:** $354.30B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.7%
 
 **All-Time Low:** $0.43
-+679397.2%
++677734.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-33m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-15h ago
+16h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 2d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 318 • 💬 80 • ⏱️ 7:22 • 14h ago
+👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 10K • 👍 650 • 💬 94 • ⏱️ 29:47 • 9h ago
+👁️ 12K • 👍 747 • 💬 98 • ⏱️ 29:47 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 8h ago
+👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 34K • 👍 1K • 💬 133 • ⏱️ 17:24 • 2d ago
+👁️ 35K • 👍 1K • 💬 134 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -278,17 +278,7 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 42K • 👍 2K • 💬 212 • ⏱️ 19:54 • 2d ago
-
----
-
-**[🚨 URGENT TOP PREMIER CRYPTO ASSETS TO BUY NOW! #xrp #eth #bitcoin](https://www.youtube.com/watch?v=pa0ncwv1U44)**
-
-Top assets that could be great buys right now in crypto! CoinDuel AI - This AI-powered tool instantly compares tokens using ...
-
-📺 Zach Humphries
-
-👁️ 746 • 👍 16 • 💬 25 • ⏱️ 0:54 • 4h ago
+👁️ 43K • 👍 2K • 💬 212 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -298,17 +288,17 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 1K • 💬 22 • ⏱️ 12:01 • 12h ago
+👁️ 13K • 👍 1K • 💬 24 • ⏱️ 12:01 • 13h ago
 
 ---
 
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
+**[BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HN1KadyVdRk)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+BITCOIN JUST REVEALED THE NEXT PRICE TARGET (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto World
 
-👁️ 5K • 👍 188 • 💬 47 • ⏱️ 8:10 • 1d ago
+👁️ 8K • 👍 328 • 💬 245 • ⏱️ 19:33 • 14h ago
 
 ---
 
@@ -318,7 +308,7 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 📺 World Liberty Financial
 
-👁️ 6K • 👍 23 • 💬 4 • ⏱️ 1:36 • 2d ago
+👁️ 6K • 👍 27 • 💬 4 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -328,7 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 84 • 💬 9 • ⏱️ 4:34 • 13h ago
+👁️ 2K • 👍 89 • 💬 9 • ⏱️ 4:34 • 14h ago
+
+---
+
+**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 188 • 💬 47 • ⏱️ 8:10 • 2d ago
 
 ---
 

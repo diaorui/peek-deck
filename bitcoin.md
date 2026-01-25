@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T06:34:38.038184+00:00'
+updated: '2026-01-25T07:22:44.159188+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 06:34 UTC  
+**Last Updated:** January 25, 2026 at 07:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.87B
+**Market Cap:** $1770.26B
 Rank #1
 
-**Circulating Supply:** 19,980,253 BTC
+**Circulating Supply:** 19,980,325 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.7%
 
 **All-Time Low:** $67.81
-+131038.5%
++130565.1%
 
 ---
 
@@ -81,25 +81,25 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-14h ago
+15h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-6h ago
+7h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Where do people even find that kind of courage?
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-7h ago
+8h ago
 
 ---
 
@@ -115,13 +115,13 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-21h ago
+22h ago
 
 ---
 
 **[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-14h ago
+15h ago
 
 ---
 
@@ -137,13 +137,13 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Credits to ChatGPT
 
-3h ago
+4h ago
 
 ---
 
 **[The summary of this cycle](https://www.reddit.com/r/Bitcoin/comments/1qm25oq/the_summary_of_this_cycle/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Credits to ChatGPT
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ ProPublica • 2d ago
 
 Investing in cryptocurrencies can be tricky, but these ETFs may make it simpler for investors to get involved in the booming market.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Motley Fool • 1h ago
 
 Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the crypto economy is at its most crucial transition point in eight years. This article delves into how the market has 'soft-landed' from the excessive expectations of 2021 and gradually built a valuation framework based on cash flow and real use cases. The author explains the past four years of growing pains through the 'Red Queen Effect' and points out that with the easing of U.S. regulations and the explosion of enterprise-level applications, crypto assets are shifting from cyclical speculation to long-term trend growth. Facing a global trust crisis and currency devaluation, this is not only an industry
 
-富途资讯 • 3h ago
+富途资讯 • 4h ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 19h ago
+Binance • 20h ago
 
 ---
 
@@ -324,27 +324,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 65 • ⏱️ 47:21 • 16h ago
-
----
-
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
-
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 971 • 💬 134 • ⏱️ 12:07 • 15h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 302 • ⏱️ 8:40 • 1d ago
+👁️ 51K • 👍 2K • 💬 65 • ⏱️ 47:21 • 17h ago
 
 ---
 
@@ -354,27 +334,27 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 35K • 👍 479 • 💬 218 • ⏱️ 2:12 • 1d ago
+👁️ 35K • 👍 482 • 💬 219 • ⏱️ 2:12 • 1d ago
 
 ---
 
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
 
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Altcoin Daily
+📺 Lark Davis
 
-👁️ 25K • 👍 2K • 💬 196 • ⏱️ 11:14 • 8h ago
+👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 15h ago
 
 ---
 
-**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
 
-📺 Crypto Kid
+📺 Fox Business Clips
 
-👁️ 4K • 👍 453 • 💬 149 • ⏱️ 8:27 • 6h ago
+👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 5h ago
 
 ---
 
@@ -384,17 +364,17 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 75K • 👍 3K • 💬 355 • ⏱️ 16:21 • 2d ago
+👁️ 76K • 👍 3K • 💬 362 • ⏱️ 16:21 • 2d ago
 
 ---
 
-**[Strategy CEO defends bitcoin buys, still bullish on the cryptocurrency in 2026](https://www.youtube.com/watch?v=lHETS13W9p8)**
+**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
 
-2026 will be a big year for both bitcoin and Strategy (MSTR), CEO and president Phong Le says. He spoke with Market Catalysts ...
+How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
 
-📺 Yahoo Finance
+📺 Brad Long
 
-👁️ 16K • 👍 353 • 💬 95 • ⏱️ 10:27 • 2d ago
+👁️ 25K • 👍 2K • 💬 327 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -404,7 +384,17 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 610 • 💬 222 • ⏱️ 41:20 • 16h ago
+👁️ 12K • 👍 622 • 💬 288 • ⏱️ 41:20 • 17h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 59K • 👍 3K • 💬 303 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -414,7 +404,17 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 157 • ⏱️ 12:29 • 1d ago
+👁️ 48K • 👍 2K • 💬 158 • ⏱️ 12:29 • 1d ago
+
+---
+
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 234 • ⏱️ 11:14 • 9h ago
 
 ---
 

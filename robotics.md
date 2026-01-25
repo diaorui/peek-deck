@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T06:34:38.046174+00:00'
+updated: '2026-01-25T07:22:44.168634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 06:34 UTC  
+**Last Updated:** January 25, 2026 at 07:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -54,7 +54,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -62,7 +62,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-1h ago
+2h ago
 
 ---
 
@@ -70,19 +70,19 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-10h ago
+11h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-21h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 This a is photo of my current set up it’s a spraying machine for mosquitos that is all remote control. I need a better heavy duty servo set up to hold up better to the 200mph blower wind that is on the tube. Right now I have one servo that turns the piece of plastic and another that tilts the head up and down. Current issue with the set up is the set screw comes loose all the time on the side to side rotation servo and then a lot of pressure is on the servo horn so it strips the teeth out about once a month so I keep having to replace. Both do about 180 degrees. Looking for 24v system PWM servo. Who has ideas ? Better handling of the weight
 
-5h ago
+6h ago
 
 ---
 
@@ -110,7 +110,7 @@ This a is photo of my current set up it’s a spraying machine for mosquitos tha
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 14h ago
+ynetnews.com • 15h ago
 
 ---
 
@@ -150,7 +150,7 @@ wbay.com • 1d ago
 
 Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
 
-Live Science • 19h ago
+Live Science • 20h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 12h ago
+USA Today • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ fox11online.com • 1d ago
 
 Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
 
-news.cgtn.com • 17h ago
+news.cgtn.com • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 86 • 💬 34 • ⏱️ 6:39 • 1d ago
+👁️ 5K • 👍 86 • 💬 34 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 59K • 👍 2K • 💬 116 • ⏱️ 17:39 • 1d ago
+👁️ 61K • 👍 2K • 💬 116 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 47K • 👍 1K • 💬 245 • ⏱️ 0:49 • 2d ago
+👁️ 47K • 👍 1K • 💬 246 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -238,23 +238,13 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 21K • 👍 107 • 💬 97 • ⏱️ 10:15 • 2d ago
-
----
-
 **[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
 
 Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
 
 📺 Rowan Cheung
 
-👁️ 10K • 👍 715 • 💬 4 • ⏱️ 1:13 • 1d ago
+👁️ 10K • 👍 732 • 💬 7 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -264,17 +254,7 @@ Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the 
 
 📺 Fox Business Clips
 
-👁️ 21K • 👍 296 • 💬 118 • ⏱️ 3:39 • 1d ago
-
----
-
-**[This AI Robot Goalkeeper is UNBEATABLE! 😱⚽ #shorts #gaol](https://www.youtube.com/watch?v=lPcM3px1kZM)**
-
-Welcome to the future of football! ⚽   In this video, an advanced AI Robot Goalkeeper takes on powerful shots to test its speed, ...
-
-📺 Aww Ranking
-
-👁️ 20K • 👍 88 • ⏱️ 0:19 • 21h ago
+👁️ 22K • 👍 302 • 💬 118 • ⏱️ 3:39 • 1d ago
 
 ---
 
@@ -282,7 +262,27 @@ Welcome to the future of football! ⚽   In this video, an advanced AI Robot Goa
 
 📺 Romi Pal
 
-👁️ 732K • 👍 11K • 💬 45 • ⏱️ 0:15 • 4d ago
+👁️ 736K • 👍 12K • 💬 45 • ⏱️ 0:15 • 4d ago
+
+---
+
+**[[WR] Ultimate DEVASTATOR Bagliore 1,755,600 Damage Per Shot | War Robots Gameplay](https://www.youtube.com/watch?v=FUYI2eHe4TU)**
+
+Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item in the War Robots Web Shop using the ...
+
+📺 サハ SAHA
+
+👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 17h ago
+
+---
+
+**[NEW Flying Robot ANAKSOR – War Robots Test Server Gameplay WR](https://www.youtube.com/watch?v=3srQgYe8arE)**
+
+War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator Link: https://wr.my.games/manni Code is ...
+
+📺 Manni-Gaming
+
+👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 20h ago
 
 ---
 
