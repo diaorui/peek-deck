@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T14:44:27.562656+00:00'
+updated: '2026-01-25T15:21:50.252350+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 14:44 UTC  
+**Last Updated:** January 25, 2026 at 15:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,927.70
+### $2,930.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -7.9%  
-**30d:** -0.4%  
-**90d:** -26.2%  
-**1y:** -9.1%  
+**24h:** -0.9%  
+**7d:** -8.0%  
+**30d:** -0.6%  
+**90d:** -26.4%  
+**1y:** -9.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-23h ago
+1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 21h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -186,13 +186,13 @@ CCN.com • 1d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 16K • 👍 905 • 💬 151 • ⏱️ 29:47 • 17h ago
+👁️ 16K • 👍 905 • 💬 151 • ⏱️ 29:47 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 16h ago
+👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 36K • 👍 1K • 💬 138 • ⏱️ 17:24 • 2d ago
+👁️ 36K • 👍 1K • 💬 138 • ⏱️ 17:24 • 3d ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 9 • ⏱️ 4:34 • 21h ago
+👁️ 2K • 👍 97 • 💬 9 • ⏱️ 4:34 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T14:44:27.565435+00:00'
+updated: '2026-01-25T15:21:50.255564+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 14:44 UTC  
+**Last Updated:** January 25, 2026 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-2h ago
+3h ago
 
 ---
 
@@ -70,13 +70,27 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-19h ago
+20h ago
+
+---
+
+**[Where to publish first robotics paper](https://www.reddit.com/r/robotics/comments/1qmlt5y/where_to_publish_first_robotics_paper/)**
+
+Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
+
+2m ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-11h ago
+12h ago
+
+---
+
+**[Welcome everyone. Let's build India's robotics ecosystem 🇮🇳](https://www.reddit.com/r/robotics/comments/1qmle4o/welcome_everyone_lets_build_indias_robotics/)**
+
+18m ago
 
 ---
 
@@ -88,20 +102,6 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 ---
 
-**[Open Source Robotics — a curated collection](https://www.reddit.com/r/robotics/comments/1qlxp0h/open_source_robotics_a_curated_collection/)**
-
-Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
-
-18h ago
-
----
-
-**[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
-
-13h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -110,15 +110,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 22h ago
-
----
-
-**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
-
-Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
-
-Interesting Engineering • 1d ago
+ynetnews.com • 23h ago
 
 ---
 
@@ -134,7 +126,7 @@ AgFunderNews • 2d ago
 
 Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
 
-Business Insider • 2d ago
+Business Insider • 3d ago
 
 ---
 
@@ -144,19 +136,19 @@ MarketBeat • 1d ago
 
 ---
 
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
-
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
-
-Financial Times • 9h ago
-
----
-
 **[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
 wbay.com • 1d ago
+
+---
+
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+
+Financial Times • 10h ago
 
 ---
 
@@ -173,6 +165,14 @@ The Robot Report • 1d ago
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
 USA Today • 21h ago
+
+---
+
+**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+
+The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+
+fox11online.com • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 15h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 16h ago
 
 ---
 

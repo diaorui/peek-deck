@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T14:44:27.549340+00:00'
+updated: '2026-01-25T15:21:50.238074+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 14:44 UTC  
+**Last Updated:** January 25, 2026 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 6h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-10h ago
+11h ago
 
 ---
 
@@ -121,37 +121,29 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 ## Google News: "ai"
 
-**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
-
-The New York Times • 23h ago
-
----
-
 **[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 8h ago
+The Guardian • 9h ago
+
+---
+
+**[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
+
+The New York Times • 1d ago
 
 ---
 
 **[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
-Bloomberg.com • 44m ago
+Bloomberg • 1h ago
 
 ---
 
-**[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
+**[AI’s Messy Human Drama](https://www.wsj.com/tech/ais-messy-human-drama-4f7f488b?gaa_at=eafs&gaa_n=AWEtsqentlrzF7uxx0ELCLCmIpWi8mAODWyHRFFh9nAWSHh_5VWPbWJzqUyN&gaa_ts=6976387c&gaa_sig=0M1BtCA37zklk7muXY2fXa6mjl9emZlcqOnrCh4B_qJxw8DjZpA_dy0_VhImG0Su43G_072kIWujL0hYqelInA%3D%3D)**
 
-The New York Times • 44m ago
-
----
-
-**[We must not let AI ‘pull the doctor out of the visit’ for low-income patients](https://www.theguardian.com/commentisfree/2026/jan/25/ai-healthcare-risks-low-income-people)**
-
-Generative AI is being pushed into healthcare – and diagnostic risks may deepen the class divide
-
-The Guardian • 44m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -171,6 +163,12 @@ CNN • 22h ago
 
 ---
 
+**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
+
+Axios • 2h ago
+
+---
+
 **[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
@@ -179,9 +177,11 @@ BBC • 1d ago
 
 ---
 
-**[AI is reshaping police detective work, starting with cold cases](https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases)**
+**[Memory stocks soar as investors hunt for new AI winners](https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc)**
 
-Axios • 23h ago
+‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
+
+Financial Times • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 23h ago
 
 Robin Li spoke to TIME about the AI ambitions of Baidu and China.
 
-Time Magazine • 2h ago
+Time Magazine • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Time Magazine • 2h ago
 
 The one where I get very annoyed with my email provider
 
-⬆️ 548 • 💬 418 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 548 • 💬 420 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -217,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 454 • 💬 391 • 14h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 473 • 💬 435 • 15h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -247,7 +247,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 70 • 💬 58 • 6h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 73 • 💬 61 • 7h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -263,9 +263,11 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 ---
 
-**[What Will You Do When AI runs Out of Money and Disappear?](https://news.ycombinator.com/item?id=46730995)**
+**[Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://news.ycombinator.com/item?id=46751675)**
 
-⬆️ 48 • 💬 46 • 2d ago • [louwrentius.com](https://louwrentius.com/what-will-you-do-when-ai-will-run-out-of-money-and-disappear.html)
+Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
+
+⬆️ 51 • 💬 20 • 7h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -279,7 +281,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 9K • 👍 384 • 💬 100 • ⏱️ 12:43 • 8h ago
+👁️ 9K • 👍 384 • 💬 100 • ⏱️ 12:43 • 9h ago
 
 ---
 
@@ -289,7 +291,7 @@ OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content 
 
 📺 Stylosa
 
-👁️ 33K • 👍 1K • 💬 459 • ⏱️ 16:18 • 18h ago
+👁️ 33K • 👍 1K • 💬 459 • ⏱️ 16:18 • 19h ago
 
 ---
 
@@ -329,7 +331,7 @@ CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38
 
 📺 Dylan Curious
 
-👁️ 5K • 👍 310 • 💬 107 • ⏱️ 23:12 • 23h ago
+👁️ 5K • 👍 310 • 💬 107 • ⏱️ 23:12 • 1d ago
 
 ---
 
@@ -656,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 561 • 8h ago
+⭐ 10.4k • 🔱 561 • 9h ago
 
 ---
 
@@ -716,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 489 • 16h ago
+⭐ 4.6k • 🔱 489 • 17h ago
 
 ---
 
@@ -734,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.7k • 🔱 583 • 7h ago
+⭐ 2.7k • 🔱 583 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T14:44:27.557270+00:00'
+updated: '2026-01-25T15:21:50.246415+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 14:44 UTC  
+**Last Updated:** January 25, 2026 at 15:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,593.90
+### $88,659.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -4.1%  
-**30d:** +1.1%  
-**90d:** -21.3%  
-**1y:** -13.4%  
+**24h:** -0.7%  
+**7d:** -4.3%  
+**30d:** +0.8%  
+**90d:** -21.4%  
+**1y:** -13.6%  
 
 ---
 
@@ -85,19 +85,33 @@ Rank #1
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-2h ago
+3h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-5h ago
+6h ago
+
+---
+
+**[New purchases…](https://www.reddit.com/r/Bitcoin/comments/1qml038/new_purchases/)**
+
+33m ago
+
+---
+
+**[LATEST: Despite banning crypto, China is only 4,012 $BTC away from flipping the USA as the government with the largest Bitcoin holding.](https://www.reddit.com/r/Bitcoin/comments/1qmjmk5/latest_despite_banning_crypto_china_is_only_4012/)**
+
+Source: Cointelegraph
+
+1h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,21 +123,7 @@ Rank #1
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-11h ago
-
----
-
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-22h ago
-
----
-
-**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
-
-14h ago
+12h ago
 
 ---
 
@@ -131,15 +131,15 @@ Where do people even find that kind of courage?
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-3h ago
+4h ago
 
 ---
 
-**[Whatever happened to the "Cypherpunks"? Our industry has traded its soul for VC funding](https://www.reddit.com/r/Bitcoin/comments/1qmfrl6/whatever_happened_to_the_cypherpunks_our_industry/)**
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
 
-I’ve been looking back at the 1993 Wired piece "Crypto Rebels" and it’s a gut punch compared to where we are today. Back then, the movement was a "gathering of those who share a predilection for codes, a passion for privacy, and the gumption to do something about it" It was not about airdrops or "building for exits" It was about building a "Cypherpunks don't care if you don't like the software they write Cypherpunks know that software can't be destroyed Cypherpunks know that a widely dispersed system can't be shut down Cypherpunks will make the networks safe for privacy" The world definitely changed because of crypto but it feels like we lost the plot along the way, most of today's "innovators" are just venture capitalists and money followers and where are the real cypherpunks? Where are the people like Phil Zimmermann who viewed releasing code "like thousands of dandelion seeds blowing in the wind" regardless of the personal risk? I feel like we have traded a tool for human liberation for a high-stakes casino Can a project even survive today without the "venture capital" mindset? Am I the only one who feels like the soul of this movement has been replaced by a spreadsheet? I'd love to hear from anyone else who misses the "mathematical fortress" era If you want to see just how far we have drifted from the original vision, I highly recommend reading this article from 1993 https://www.wired.com/1993/02/crypto-rebels/
+Where do people even find that kind of courage?
 
-4h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ I’ve been looking back at the 1993 Wired piece "Crypto Rebels" and it’s a gu
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -163,37 +163,17 @@ Forbes • 3h ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
-
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-The Motley Fool • 4h ago
-
----
-
-**[Strategy Bitcoin Bet Grows As Preferred Funding And Stream Challenges Mount](https://simplywall.st/stocks/us/software/nasdaq-mstr/strategy/news/strategy-bitcoin-bet-grows-as-preferred-funding-and-stream-c)**
-
-Strategy, listed as NasdaqGS:MSTR, purchased 22,305 Bitcoins for about US$2.13b, its largest weekly buy since 2024.
-The company is leaning further into preferred equity funding, including a uniquely structured capital stack.
-Its non U.S. Stream (STRE) perpetual preferred product has struggled to gain traction and was removed from the company dashboard.
-
-At a share price of US$163.11, NasdaqGS:MSTR sits after a 3 year return that is very large, and a 5 year return of 164.2%. More recently,...
-
-simplywall.st • 2h ago
-
----
-
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+**[Bitcoin Price Prediction: Markets See Low Odds of $100K BTC in Early 2026](https://www.binance.com/en/square/post/01-24-2026-bitcoin-price-prediction-markets-see-low-odds-of-100k-btc-in-early-2026-35513597131490)**
 
 Binance • 1d ago
 
 ---
 
-**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
-Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
+Some fear massive consequences for financial markets.
 
-Yahoo Finance • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -205,11 +185,25 @@ ProPublica • 2d ago
 
 ---
 
+**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
+
+Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Why Strategy bought another $2 billion in Bitcoin despite a slumping crypto market](https://fortune.com/2026/01/22/why-strategy-bought-another-2-billion-in-bitcoin/)**
 
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
-Fortune • 2d ago
+Fortune • 3d ago
+
+---
+
+**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+
+The Block • 18h ago
 
 ---
 
@@ -221,9 +215,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Binance founder Changpeng Zhao reflects on prison, Trump and potential bitcoin supercycle after pardon](https://www.theblock.co/post/386854/binance-founder-cz-reflects-prison-politics-potential-bitcoin-supercycle-pardon)**
+**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
 
-The Block • 1d ago
+Bloomberg • 3d ago
 
 ---
 
@@ -290,7 +284,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 1 • 4d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 5d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
@@ -324,7 +318,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 16h ago
+👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 17h ago
 
 ---
 
