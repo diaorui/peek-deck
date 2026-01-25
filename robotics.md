@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T16:50:51.725825+00:00'
+updated: '2026-01-25T17:19:01.009022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 16:50 UTC  
+**Last Updated:** January 25, 2026 at 17:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -78,7 +78,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ wbay.com • 1d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ In a dying, dust-choked future ☀️🌪️, humans survive behind factories an
 
 📺 ClipRift
 
-👁️ 6K • 👍 141 • 💬 1 • ⏱️ 0:48 • 6h ago
+👁️ 6K • 👍 141 • 💬 1 • ⏱️ 0:48 • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ War Robots Test Server News: Huge 11.2 Rebalance is not that bad! My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 371 • 💬 106 • ⏱️ 21:00 • 5h ago
+👁️ 4K • 👍 371 • 💬 106 • ⏱️ 21:00 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 17h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 18h ago
 
 ---
 
