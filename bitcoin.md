@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T07:22:44.159188+00:00'
+updated: '2026-01-25T07:42:36.658549+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 07:22 UTC  
+**Last Updated:** January 25, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -4.1%  
+**24h:** -1.0%  
+**7d:** -4.2%  
 **30d:** +1.0%  
 **90d:** -21.3%  
-**1y:** -13.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -107,7 +107,7 @@ Where do people even find that kind of courage?
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,19 +125,19 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
+**[Fiat ship is sinking cartoon](https://www.reddit.com/r/Bitcoin/comments/1qm6twb/fiat_ship_is_sinking_cartoon/)**
+
+Credits to ChatGPT
+
+5h ago
+
+---
+
 **[500 BTC = $1](https://www.reddit.com/r/Bitcoin/comments/1qlqx6r/500_btc_1/)**
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
 15h ago
-
----
-
-**[Fiat ship is sinking cartoon](https://www.reddit.com/r/Bitcoin/comments/1qm6twb/fiat_ship_is_sinking_cartoon/)**
-
-Credits to ChatGPT
-
-4h ago
 
 ---
 
@@ -175,11 +175,11 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin underperformed gold, but the golden age of the crypto economy has just begun.](https://news.futunn.com/en/post/67862517/bitcoin-underperformed-gold-but-the-golden-age-of-the-crypto)**
+**[These 3 Cryptocurrencies Could Skyrocket in 2026](https://www.fool.com/investing/2026/01/25/these-3-cryptocurrencies-could-skyrocket-in-2026/)**
 
-Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the crypto economy is at its most crucial transition point in eight years. This article delves into how the market has 'soft-landed' from the excessive expectations of 2021 and gradually built a valuation framework based on cash flow and real use cases. The author explains the past four years of growing pains through the 'Red Queen Effect' and points out that with the easing of U.S. regulations and the explosion of enterprise-level applications, crypto assets are shifting from cyclical speculation to long-term trend growth. Facing a global trust crisis and currency devaluation, this is not only an industry
+Forget what happened in 2025.
 
-富途资讯 • 4h ago
+The Motley Fool • 29m ago
 
 ---
 
@@ -194,6 +194,14 @@ Binance • 20h ago
 Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+
+Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+
+Forbes • 1d ago
 
 ---
 
@@ -216,14 +224,6 @@ Fortune • 3d ago
 Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
 CryptoSlate • 1d ago
-
----
-
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
-
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
-
-Forbes • 1d ago
 
 ---
 
@@ -344,7 +344,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 15h ago
+👁️ 16K • 👍 1K • 💬 140 • ⏱️ 12:07 • 16h ago
 
 ---
 
@@ -354,7 +354,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 5h ago
+👁️ 11K • 👍 309 • 💬 102 • ⏱️ 6:22 • 6h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T07:22:44.168634+00:00'
+updated: '2026-01-25T07:42:36.667846+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 07:22 UTC  
+**Last Updated:** January 25, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,6 +38,14 @@ Robotics research and industry news
 
 ---
 
+**[Swarm Robotics: 90 Mobile "Robots" Tracked At Once](https://www.reddit.com/r/robotics/comments/1qma8s2/swarm_robotics_90_mobile_robots_tracked_at_once/)**
+
+Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
+
+2h ago
+
+---
+
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
 12h ago
@@ -48,21 +56,13 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-18h ago
+19h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
 4h ago
-
----
-
-**[Swarm Robotics: 90 Mobile "Robots" Tracked At Once](https://www.reddit.com/r/robotics/comments/1qma8s2/swarm_robotics_90_mobile_robots_tracked_at_once/)**
-
-Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
-
-2h ago
 
 ---
 
@@ -122,6 +122,14 @@ Electrek • 3d ago
 
 ---
 
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+
+Financial Times • 2h ago
+
+---
+
 **[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
 
 Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
@@ -166,7 +174,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 13h ago
+USA Today • 14h ago
 
 ---
 
@@ -175,14 +183,6 @@ USA Today • 13h ago
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
 
 fox11online.com • 1d ago
-
----
-
-**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
-
-Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
-
-news.cgtn.com • 18h ago
 
 ---
 
@@ -272,7 +272,7 @@ Use the code SAHA here ➤ https://wr.my.games/SAHA_WR When you purchase an item
 
 📺 サハ SAHA
 
-👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 17h ago
+👁️ 8K • 👍 279 • 💬 33 • ⏱️ 12:25 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 20h ago
+👁️ 16K • 👍 782 • 💬 204 • ⏱️ 15:13 • 21h ago
 
 ---
 

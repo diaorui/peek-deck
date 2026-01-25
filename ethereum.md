@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T07:22:44.165322+00:00'
+updated: '2026-01-25T07:42:36.664605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 07:22 UTC  
+**Last Updated:** January 25, 2026 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.6%  
-**7d:** -7.8%  
-**30d:** -0.3%  
+**7d:** -7.7%  
+**30d:** -0.2%  
 **90d:** -26.1%  
-**1y:** -9.0%  
+**1y:** -8.9%  
 
 ---
 
@@ -84,19 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Cypherpunk and institutions](https://www.reddit.com/r/ethereum/comments/1ql4owb/cypherpunk_and_institutions/)**
-
-The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
-
-1d ago
-
----
-
 **[Really? Safe Mobile (formerly Gnosis Safe) no longer generates keys on-device, only imports seed phrases](https://www.reddit.com/r/ethereum/comments/1qlou3u/really_safe_mobile_formerly_gnosis_safe_no_longer/)**
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
 16h ago
+
+---
+
+**[Cypherpunk and institutions](https://www.reddit.com/r/ethereum/comments/1ql4owb/cypherpunk_and_institutions/)**
+
+The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
+
+1d ago
 
 ---
 
@@ -156,15 +156,15 @@ NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
-**[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
+**[Ethereum Foundation Forms Post-Quantum Team as Security Concerns Mount](https://decrypt.co/355798/ethereum-foundation-forms-post-quantum-team-security-concerns-mount)**
 
-BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
+Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 3d ago
+Decrypt • 11h ago
 
 ---
 
@@ -204,19 +204,19 @@ TradingView — Track All Markets • 6h ago
 
 ---
 
+**[Why Some Long-Term Investors Favor Ethereum Over Other Digital Assets](https://www.fool.com/investing/2026/01/24/why-some-long-term-investors-favor-ethereum-over-o/)**
+
+This asset has utility and a few other useful features.
+
+The Motley Fool • 19h ago
+
+---
+
 **[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
 
 BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
 
 CryptoSlate • 2d ago
-
----
-
-**[BlackRock singles out ethereum as “beneficiary of growth”](https://sherwood.news/crypto/blackrock-singles-out-ethereum-as-beneficiary-of-growth/)**
-
-In the next era of tokenization, ethereum is poised to dominate the market. It currently commands over 65% of tokenized assets across blockchain...
-
-Sherwood News • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 14h ago
+👁️ 6K • 👍 334 • 💬 85 • ⏱️ 7:22 • 15h ago
 
 ---
 
