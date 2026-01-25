@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T19:39:03.651122+00:00'
+updated: '2026-01-25T20:26:05.129484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 19:39 UTC  
+**Last Updated:** January 25, 2026 at 20:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,847.51
+### $2,793.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** -10.9%  
-**30d:** -3.7%  
-**90d:** -28.6%  
-**1y:** -12.0%  
+**24h:** -5.5%  
+**7d:** -12.4%  
+**30d:** -5.3%  
+**90d:** -29.8%  
+**1y:** -13.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,15 +164,7 @@ CoinDesk • 23h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 23h ago
-
----
-
-**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
-
-A good week it was not for the world's second-largest cryptocurrency.
-
-The Motley Fool • 4h ago
+Decrypt • 1d ago
 
 ---
 
@@ -188,7 +180,15 @@ Yahoo Finance • 1h ago
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
+
+A good week it was not for the world's second-largest cryptocurrency.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -200,15 +200,23 @@ CCN.com • 1d ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
-**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
+**[Ethereum Open Interest Declines Across Exchanges, Binance Stands Out — Details](https://www.tradingview.com/news/newsbtc:8526629e8094b:0-ethereum-open-interest-declines-across-exchanges-binance-stands-out-details/)**
 
-Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
+For most of the week, the Ethereum price has remained in a range-bound spell, putting in no significant movement outside of the $3,000 and $2,880 price boundaries. Amid rising speculations, an on-chain analysis has recently been put out, which provides an answer to the question. Open Interest Acros…
 
-TradingView • 2d ago
+TradingView • 10h ago
+
+---
+
+**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
+
+Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
+
+Benzinga • 1d ago
 
 ---
 
@@ -217,14 +225,6 @@ TradingView • 2d ago
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
 
 Yahoo Finance • 2d ago
-
----
-
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
-
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 2h ago
+👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 22h ago
+👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 21h ago
+👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 22h ago
 
 ---
 
@@ -288,7 +288,7 @@ BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING J
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 3h ago
+👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 5h ago
+👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 6h ago
 
 ---
 

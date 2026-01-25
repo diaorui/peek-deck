@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T19:39:03.645068+00:00'
+updated: '2026-01-25T20:26:05.123390+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 19:39 UTC  
+**Last Updated:** January 25, 2026 at 20:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,310.24
+### $86,429.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -5.9%  
-**30d:** -0.9%  
-**90d:** -22.8%  
-**1y:** -15.1%  
+**24h:** -3.3%  
+**7d:** -6.7%  
+**30d:** -1.7%  
+**90d:** -23.4%  
+**1y:** -15.8%  
 
 ---
 
@@ -79,39 +79,19 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-10h ago
+11h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-7h ago
+8h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-10h ago
-
----
-
-**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
-
-So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
-
-8h ago
-
----
-
-**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
-
-8h ago
-
----
-
-**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
-
-15h ago
+11h ago
 
 ---
 
@@ -119,25 +99,47 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Source: Blossom Social and X
 
-44m ago
+1h ago
 
 ---
 
-**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+**[Why invest in bitcoin instead of gold right now?](https://www.reddit.com/r/Bitcoin/comments/1qmseyv/why_invest_in_bitcoin_instead_of_gold_right_now/)**
 
-16h ago
+I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
+
+1h ago
+
+---
+
+**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
+
+So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
+
+9h ago
+
+---
+
+**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
+
+9h ago
 
 ---
 
 **[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-19h ago
+16h ago
+
+---
+
+**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+
+17h ago
 
 ---
 
@@ -149,7 +151,21 @@ Source: Blossom Social and X
 
 Cometh founder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+
+Binance • 1d ago
 
 ---
 
@@ -161,22 +177,6 @@ Forbes • 2d ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
-
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
-
-It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
-
-CoinDesk • 1d ago
-
----
-
 **[Robert Kiyosaki Not Worried by Bitcoin and Ethereum Price Fluctuations](https://finance.yahoo.com/news/robert-kiyosaki-not-worried-bitcoin-183151754.html)**
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
@@ -185,25 +185,11 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price news: BTC under $88,000 ahead of Fed week and Big Tech earnings](https://www.coindesk.com/markets/2026/01/25/bitcoin-slips-below-usd88-000-ahead-of-fed-week-and-big-tech-earnings)**
+**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
-Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
+Some fear massive consequences for financial markets.
 
-CoinDesk • 1h ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars 177% in 2026, According to Cardano Founder Charles Hoskinson](https://www.fool.com/investing/2026/01/25/1-top-cryptocurrency-to-buy-before-it-soars-177-in/)**
-
-As institutional demand for Bitcoin continues to soar, so should its price.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
-
-Binance • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -220,6 +206,20 @@ ProPublica • 2d ago
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 3d ago
+
+---
+
+**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+
+The Block • 23h ago
+
+---
+
+**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
+
+Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 5 • 4d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 5 • 5d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -300,7 +300,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 8h ago
+👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 3h ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 4h ago
 
 ---
 
@@ -370,7 +370,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Monkey Cubin
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 3K • 👍 1K • 3h ago
 
 ---
 
@@ -390,7 +390,7 @@ La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? EN
 
 📺 USACRYPTONOTICIAS
 
-👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 2h ago
+👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 3h ago
 
 ---
 
