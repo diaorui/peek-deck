@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T13:32:44.952697+00:00'
+updated: '2026-01-25T14:20:41.321013+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 13:32 UTC  
+**Last Updated:** January 25, 2026 at 14:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 5h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
 
-1d ago
+2d ago
 
 ---
 
@@ -123,37 +123,35 @@ Guardian analysis shows images are the same, with Nekima Levy Armstrong looking 
 
 **[Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.](https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
+**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
 
-The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
+Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-BBC • 1d ago
-
----
-
-**[AI needs to augment rather than replace humans or the workplace is doomed | Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)**
-
-Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
-
-The Guardian • 1h ago
+The Guardian • 8h ago
 
 ---
 
-**[I helped create Alexa, then quit Amazon. Here's why, despite being proud of what we built.](https://www.businessinsider.com/alexa-co-creator-why-i-quit-amazon-launch-ai-startup-2026-1)**
+**[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
-William Tunstall-Pedoe co-founded Evi, which became Amazon Alexa. Here's why he decided to leave the tech giant and launch a startup.
-
-Business Insider • 2h ago
+Bloomberg.com • 20m ago
 
 ---
 
-**[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
+**[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-Axios • 1h ago
+The New York Times • 20m ago
+
+---
+
+**[We must not let AI ‘pull the doctor out of the visit’ for low-income patients](https://www.theguardian.com/commentisfree/2026/jan/25/ai-healthcare-risks-low-income-people)**
+
+Generative AI is being pushed into healthcare – and diagnostic risks may deepen the class divide
+
+The Guardian • 20m ago
 
 ---
 
@@ -161,7 +159,7 @@ Axios • 1h ago
 
 More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -173,25 +171,25 @@ CNN • 21h ago
 
 ---
 
-**[Welcome to post-Darwinism: AI fires silver bullet for creating new life](https://www.thetimes.com/uk/science/article/ai-scientists-new-life-genyro-h5lt0ttzk?gaa_at=eafs&gaa_n=AWEtsqdbgpVus6l9zqN9pKpi-0F32wb6TjszVrvCarxMutNh-POvI4Ah95Z1&gaa_ts=697613b9&gaa_sig=hks8akRLQDJUkrKbqzE5V1edpMI0WPASIaF3Yp__GA0Xj2TkvGtpCTxUVCLeno5A3OtVcTQ-p3SKkcGyNlsIVQ%3D%3D)**
+**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
 
-In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
+The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-The Times • 14h ago
-
----
-
-**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
-
-Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
-
-blog.google • 2d ago
+BBC • 1d ago
 
 ---
 
-**[Singapore Pours $786 Million Into Race to Become AI Powerhouse](https://www.bloomberg.com/news/articles/2026-01-24/singapore-pours-786-million-into-race-to-become-ai-powerhouse)**
+**[AI is reshaping police detective work, starting with cold cases](https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases)**
 
-Bloomberg • 1d ago
+Axios • 23h ago
+
+---
+
+**[‘We’re Not That Far Behind.’ Baidu’s Robin Li on China’s Push to Diffuse AI Throughout Society](https://time.com/7357630/robin-li-baidu-interview/)**
+
+Robin Li spoke to TIME about the AI ambitions of Baidu and China.
+
+Time Magazine • 2h ago
 
 ---
 
@@ -219,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 426 • 💬 371 • 13h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 454 • 💬 391 • 14h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -227,7 +225,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 185 • 💬 175 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 185 • 💬 176 • 1d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -241,23 +239,15 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 **[The state of modern AI text to speech systems for screen reader users](https://news.ycombinator.com/item?id=46730346)**
 
-⬆️ 100 • 💬 47 • 2d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+⬆️ 101 • 💬 47 • 2d ago • [stuff.interfree.ca](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 
 ---
 
-**[Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://news.ycombinator.com/item?id=46719465)**
+**[Like digging 'your own grave': The translators grappling with losing work to AI](https://news.ycombinator.com/item?id=46751835)**
 
-A conversation with Graham Granger, whose combination of protest and performance art spread beyond campus. “AI chews up and spits out art made by other people.”
+While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 97 • 💬 68 • 2d ago • [The Nation](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
-
----
-
-**[Show HN: I've been using AI to analyze every supplement on the market](https://news.ycombinator.com/item?id=46719423)**
-
-Helping you make informed decisions about your health by combining the latest research with the supplements available on the market.
-
-⬆️ 90 • 💬 47 • 2d ago • [Supplement Research and Comparison Website](https://pillser.com/)
+⬆️ 70 • 💬 58 • 6h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -267,11 +257,15 @@ Helping you make informed decisions about your health by combining the latest re
 
 ---
 
-**[Like digging 'your own grave': The translators grappling with losing work to AI](https://news.ycombinator.com/item?id=46751835)**
+**[CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story](https://news.ycombinator.com/item?id=46728781)**
 
-While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
+⬆️ 52 • 💬 20 • 2d ago • [wsj.com](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d)
 
-⬆️ 62 • 💬 55 • 5h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+---
+
+**[What Will You Do When AI runs Out of Money and Disappear?](https://news.ycombinator.com/item?id=46730995)**
+
+⬆️ 48 • 💬 46 • 2d ago • [louwrentius.com](https://louwrentius.com/what-will-you-do-when-ai-will-run-out-of-money-and-disappear.html)
 
 ---
 
@@ -279,43 +273,33 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 ## YouTube Videos: "ai"
 
+**[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 9K • 👍 384 • 💬 100 • ⏱️ 12:43 • 8h ago
+
+---
+
+**[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
+
+OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
+
+📺 Stylosa
+
+👁️ 33K • 👍 1K • 💬 459 • ⏱️ 16:18 • 18h ago
+
+---
+
 **[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
 
 Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
 
 📺 DRM News
 
-👁️ 8K • 👍 107 • 💬 55 • ⏱️ 16:31 • 2d ago
-
----
-
-**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
-
-CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
-
-📺 Dylan Curious
-
-👁️ 5K • 👍 297 • 💬 105 • ⏱️ 23:12 • 22h ago
-
----
-
-**[my predictions for 2026... AI will never be the same](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 6K • 👍 299 • 💬 85 • ⏱️ 12:43 • 7h ago
-
----
-
-**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
-
-Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
-
-📺 Financial Times
-
-👁️ 27K • 👍 691 • 💬 117 • ⏱️ 20:22 • 1d ago
+👁️ 8K • 👍 109 • 💬 55 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -325,7 +309,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 25K • 👍 2K • 💬 205 • ⏱️ 41:25 • 10h ago
+👁️ 32K • 👍 2K • 💬 230 • ⏱️ 41:25 • 10h ago
 
 ---
 
@@ -335,7 +319,27 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.3M • 👍 78K • 💬 2K • ⏱️ 0:13 • 1d ago
+👁️ 2.4M • 👍 81K • 💬 2K • ⏱️ 0:13 • 1d ago
+
+---
+
+**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
+
+CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
+
+📺 Dylan Curious
+
+👁️ 5K • 👍 310 • 💬 107 • ⏱️ 23:12 • 23h ago
+
+---
+
+**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
+
+Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
+
+📺 Financial Times
+
+👁️ 29K • 👍 738 • 💬 125 • ⏱️ 20:22 • 1d ago
 
 ---
 
@@ -345,17 +349,7 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 63K • 👍 1K • 💬 128 • ⏱️ 12:48 • 2d ago
-
----
-
-**[I Remade a $1M iPhone Ad With AI and $9](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
-
-Can I do it in one day with only $10? Try ElevenLabs today: ...
-
-📺 AI Samson
-
-👁️ 6K • 👍 284 • 💬 38 • ⏱️ 14:50 • 23h ago
+👁️ 63K • 👍 1K • 💬 131 • ⏱️ 12:48 • 2d ago
 
 ---
 
@@ -365,17 +359,17 @@ Sam Altman said ads in ChatGPT would be a “last resort.” That was just over 
 
 📺 Vanessa Wingårdh
 
-👁️ 446K • 👍 22K • 💬 5K • ⏱️ 10:08 • 2d ago
+👁️ 453K • 👍 22K • 💬 5K • ⏱️ 10:08 • 2d ago
 
 ---
 
-**[Automated QA Might Be The Biggest AI Breakthrough of 2026](https://www.youtube.com/watch?v=MEtDwwi7bEU)**
+**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
 
-Abacus AI just announced DeepAgent — an AI agent built for the new software era where code is cheap and change is constant.
+Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
 
-📺 AI Revolution
+📺 Matt Wolfe
 
-👁️ 15K • 👍 565 • 💬 55 • ⏱️ 9:10 • 1d ago
+👁️ 48K • 👍 2K • 💬 302 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -391,7 +385,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,147 • 4d ago
+⬇️ 363,320 • ❤️ 1,151 • 5d ago
 
 ---
 
@@ -403,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 882 • 2d ago
+⬇️ 29,354 • ❤️ 893 • 2d ago
 
 ---
 
@@ -415,7 +409,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 472 • 3d ago
+⬇️ 21,722 • ❤️ 483 • 3d ago
 
 ---
 
@@ -427,7 +421,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 389 • 2d ago
+⬇️ 42,703 • ❤️ 400 • 2d ago
 
 ---
 
@@ -439,7 +433,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 314 • 1d ago
+⬇️ 195,744 • ❤️ 316 • 1d ago
 
 ---
 
@@ -451,19 +445,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 255 • 4d ago
-
----
-
-**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
-
-*Google*
-
-TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
-
-`image-text-to-text` `5.0B`
-
-⬇️ 68,552 • ❤️ 530 • 9d ago
+⬇️ 12,479 • ❤️ 262 • 4d ago
 
 ---
 
@@ -475,7 +457,19 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 244 • 5d ago
+⬇️ 634 • ❤️ 245 • 5d ago
+
+---
+
+**[translategemma-4b-it](https://huggingface.co/google/translategemma-4b-it)**
+
+*Google*
+
+TranslateGemma-4b-it is a lightweight, open translation model supporting 55 languages, capable of translating text or extracting text from images. It's designed for resource-constrained environments, enabling state-of-the-art translation on local infrastructure.
+
+`image-text-to-text` `5.0B`
+
+⬇️ 68,552 • ❤️ 530 • 10d ago
 
 ---
 
@@ -487,7 +481,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 208 • 2d ago
+⬇️ 2,743 • ❤️ 211 • 2d ago
 
 ---
 
@@ -499,7 +493,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 206 • 3d ago
+⬇️ 4,684 • ❤️ 208 • 3d ago
 
 ---
 
@@ -515,7 +509,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 29 • 💬 1 • ⭐ 3,625 • 3d ago
+▲ 29 • 💬 1 • ⭐ 3,964 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -553,7 +547,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 37 • 💬 4 • ⭐ 1,868 • 10d ago
+▲ 37 • 💬 4 • ⭐ 1,929 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -579,7 +573,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 18 • 💬 3 • ⭐ 366 • 9d ago
+▲ 18 • 💬 3 • ⭐ 380 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -632,7 +626,7 @@ RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 32 • 💬 1 • ⭐ 68,480 • 28mo ago
+▲ 32 • 💬 1 • ⭐ 68,525 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -646,7 +640,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 170 • 💬 5 • ⭐ 403 • 6d ago
+▲ 170 • 💬 5 • ⭐ 403 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -662,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.3k • 🔱 559 • 7h ago
+⭐ 10.4k • 🔱 561 • 8h ago
 
 ---
 
@@ -672,7 +666,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 8h ago
+⭐ 9.7k • 🔱 1.3k • 47m ago
 
 ---
 
@@ -682,7 +676,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 466 • 3d ago
+⭐ 9.0k • 🔱 467 • 3d ago
 
 ---
 
@@ -692,7 +686,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 903 • 2d ago
+⭐ 7.6k • 🔱 904 • 2d ago
 
 ---
 
@@ -712,7 +706,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 2h ago
+⭐ 5.3k • 🔱 5.6k • 50m ago
 
 ---
 
@@ -722,7 +716,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.5k • 🔱 484 • 15h ago
+⭐ 4.6k • 🔱 489 • 16h ago
 
 ---
 
@@ -730,7 +724,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.9k • 🔱 235 • 2d ago
+⭐ 2.9k • 🔱 240 • 2d ago
 
 ---
 
@@ -740,7 +734,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.6k • 🔱 551 • 6h ago
+⭐ 2.7k • 🔱 583 • 7h ago
 
 ---
 
@@ -750,7 +744,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 341 • 2d ago
+⭐ 2.4k • 🔱 342 • 2d ago
 
 ---
 

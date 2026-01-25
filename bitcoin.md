@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T13:32:44.961246+00:00'
+updated: '2026-01-25T14:20:41.329334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 13:32 UTC  
+**Last Updated:** January 25, 2026 at 14:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -4.2%  
-**30d:** +0.9%  
-**90d:** -21.4%  
-**1y:** -13.6%  
+**24h:** -0.5%  
+**7d:** -4.1%  
+**30d:** +1.1%  
+**90d:** -21.3%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.31B
+**Market Cap:** $1773.54B
 Rank #1
 
-**Circulating Supply:** 19,980,365 BTC
+**Circulating Supply:** 19,980,406 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.6%
 
 **All-Time Low:** $67.81
-+130427.9%
++130774.5%
 
 ---
 
@@ -83,35 +83,21 @@ Rank #1
 
 ---
 
-**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
+**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-9h ago
+2h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-4h ago
+5h ago
 
 ---
 
-**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
 10h ago
-
----
-
-**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
-
-Where do people even find that kind of courage?
-
-21h ago
-
----
-
-**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
-
-13h ago
 
 ---
 
@@ -121,9 +107,23 @@ Where do people even find that kind of courage?
 
 ---
 
-**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
+**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-1h ago
+11h ago
+
+---
+
+**[Eight years ago, someone here (an idiot) took out a $325,000 mortgage to buy 191 BTC. Today, that “idiot” would be sitting on generational wealth (if they didn’t sell too early).](https://www.reddit.com/r/Bitcoin/comments/1qlr7tp/eight_years_ago_someone_here_an_idiot_took_out_a/)**
+
+Where do people even find that kind of courage?
+
+22h ago
+
+---
+
+**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+
+14h ago
 
 ---
 
@@ -131,13 +131,15 @@ Where do people even find that kind of courage?
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-2h ago
+3h ago
 
 ---
 
-**[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
+**[Whatever happened to the "Cypherpunks"? Our industry has traded its soul for VC funding](https://www.reddit.com/r/Bitcoin/comments/1qmfrl6/whatever_happened_to_the_cypherpunks_our_industry/)**
 
-4h ago
+I’ve been looking back at the 1993 Wired piece "Crypto Rebels" and it’s a gut punch compared to where we are today. Back then, the movement was a "gathering of those who share a predilection for codes, a passion for privacy, and the gumption to do something about it" It was not about airdrops or "building for exits" It was about building a "Cypherpunks don't care if you don't like the software they write Cypherpunks know that software can't be destroyed Cypherpunks know that a widely dispersed system can't be shut down Cypherpunks will make the networks safe for privacy" The world definitely changed because of crypto but it feels like we lost the plot along the way, most of today's "innovators" are just venture capitalists and money followers and where are the real cypherpunks? Where are the people like Phil Zimmermann who viewed releasing code "like thousands of dandelion seeds blowing in the wind" regardless of the personal risk? I feel like we have traded a tool for human liberation for a high-stakes casino Can a project even survive today without the "venture capital" mindset? Am I the only one who feels like the soul of this movement has been replaced by a spreadsheet? I'd love to hear from anyone else who misses the "mathematical fortress" era If you want to see just how far we have drifted from the original vision, I highly recommend reading this article from 1993 https://www.wired.com/1993/02/crypto-rebels/
+
+3h ago
 
 ---
 
@@ -149,23 +151,15 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+**[The Fed Is Suddenly Hurtling Toward A $34 Trillion BlackRock Gold And Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/25/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
 
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-ProPublica • 2d ago
-
----
-
-**[Proposal to Temporarily Cap Bitcoin Transaction Data Gains Support From 583 Nodes](https://finance.yahoo.com/news/proposal-temporarily-cap-bitcoin-transaction-085200521.html)**
-
-Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
-
-Yahoo Finance • 4h ago
+Forbes • 2h ago
 
 ---
 
@@ -177,23 +171,37 @@ The Motley Fool • 3h ago
 
 ---
 
-**[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
+**[Strategy Bitcoin Bet Grows As Preferred Funding And Stream Challenges Mount](https://simplywall.st/stocks/us/software/nasdaq-mstr/strategy/news/strategy-bitcoin-bet-grows-as-preferred-funding-and-stream-c)**
 
-Binance • 4h ago
+Strategy, listed as NasdaqGS:MSTR, purchased 22,305 Bitcoins for about US$2.13b, its largest weekly buy since 2024.
+The company is leaning further into preferred equity funding, including a uniquely structured capital stack.
+Its non U.S. Stream (STRE) perpetual preferred product has struggled to gain traction and was removed from the company dashboard.
 
----
+At a share price of US$163.11, NasdaqGS:MSTR sits after a 3 year return that is very large, and a 5 year return of 164.2%. More recently,...
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
-
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
-
-Forbes • 1d ago
+simplywall.st • 2h ago
 
 ---
 
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-The Block • 1d ago
+Binance • 1d ago
+
+---
+
+**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
+
+Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+
+ProPublica • 2d ago
 
 ---
 
@@ -213,11 +221,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
+**[Binance founder Changpeng Zhao reflects on prison, Trump and potential bitcoin supercycle after pardon](https://www.theblock.co/post/386854/binance-founder-cz-reflects-prison-politics-potential-bitcoin-supercycle-pardon)**
 
-Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
-
-Bitcoin Magazine • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -238,7 +244,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 3 • 💬 3 • 2d ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
+⬆️ 3 • 💬 3 • 3d ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -298,47 +304,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 23h ago
-
----
-
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
-
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 22h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 3K • 💬 303 • ⏱️ 8:40 • 1d ago
-
----
-
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
-
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
-
-📺 CNBC Television
-
-👁️ 36K • 👍 490 • 💬 220 • ⏱️ 2:12 • 1d ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 15h ago
+👁️ 58K • 👍 3K • 💬 65 • ⏱️ 47:21 • 1d ago
 
 ---
 
@@ -348,27 +314,67 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 12h ago
+👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 12h ago
 
 ---
 
-**[Why I Sold All My Bitcoin For Physical Silver (And You Should Too)](https://www.youtube.com/watch?v=ywd7Q4J0fGI)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-I finally did it—I sold every single Bitcoin I owned to buy physical Silver. In this video, I explain the "why" behind this massive ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 LeeAG Finance
+📺 Altcoin Daily
 
-👁️ 1K • 👍 94 • 💬 61 • ⏱️ 19:27 • 1d ago
+👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 16h ago
 
 ---
 
-**[“Banks Are Going All-In — Bitcoin’s 2026 Supercycle Has Begun” - CZ &amp; Brian Armstrong](https://www.youtube.com/watch?v=yz39qSOVui0)**
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Savvy Finance
+📺 Lark Davis
 
-👁️ 6K • 👍 322 • 💬 29 • ⏱️ 15:04 • 20h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 22h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 61K • 👍 3K • 💬 305 • ⏱️ 8:40 • 1d ago
+
+---
+
+**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
+
+Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
+
+📺 CNBC Television
+
+👁️ 37K • 👍 517 • 💬 220 • ⏱️ 2:12 • 2d ago
+
+---
+
+**[How I&#39;m Turning 0.21 Bitcoin Into An Infinite Fiat Money Machine (Buy, Borrow, Die Strategy)](https://www.youtube.com/watch?v=m2ErOlf0zAc)**
+
+How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow‑Die” Strategy In this video I break down the ...
+
+📺 Brad Long
+
+👁️ 28K • 👍 2K • 💬 341 • ⏱️ 14:05 • 1d ago
+
+---
+
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future. In this ...
+
+📺 Swan Bitcoin
+
+👁️ 49K • 👍 2K • 💬 159 • ⏱️ 12:29 • 2d ago
 
 ---
 
@@ -378,17 +384,17 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 78K • 👍 3K • 💬 367 • ⏱️ 16:21 • 2d ago
+👁️ 79K • 👍 3K • 💬 369 • ⏱️ 16:21 • 2d ago
 
 ---
 
-**[BITCOIN: THIS IS GREAT!!!!!!!](https://www.youtube.com/watch?v=C5rA8-d1V7I)**
+**[Every Possible Scenario for Bitcoin in 2026](https://www.youtube.com/watch?v=c6bjqzAmR_s)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://cryptokid.io/TradingCompetition ...
+Every Bitcoin price scenario for 2026. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Kid
+📺 Lark Davis
 
-👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 13h ago
+👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 13h ago
 
 ---
 

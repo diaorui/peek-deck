@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T13:32:44.967239+00:00'
+updated: '2026-01-25T14:20:41.335330+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 13:32 UTC  
+**Last Updated:** January 25, 2026 at 14:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -7.8%  
+**24h:** -0.6%  
+**7d:** -7.9%  
 **30d:** -0.4%  
 **90d:** -26.2%  
-**1y:** -9.0%  
+**1y:** -9.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.73B
+**Market Cap:** $354.17B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.7%
 
 **All-Time Low:** $0.43
-+678166.2%
++677089.9%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[Has anyone actually bought digital gift cards with cryptocurrency?](https://www.reddit.com/r/ethereum/comments/1qmiimm/has_anyone_actually_bought_digital_gift_cards/)**
+
+I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
+
+1h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
 
-22h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ---
 
-**[Ethereal news weekly #8 | NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized](https://www.reddit.com/r/ethereum/comments/1qkoxmy/ethereal_news_weekly_8_nyse_tokenized_securities/)**
-
-NYSE tokenized securities platform, Neynar new steward of Farcaster, Glamsterdam upgrade Considered for Inclusion scope finalized
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-8/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -176,20 +176,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
-
-The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
-
-CoinDesk • 2d ago
-
----
-
-**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
-
-The Block • 2d ago
-
----
-
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
 CCN.com • 1d ago
@@ -200,13 +186,13 @@ CCN.com • 1d ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -226,6 +212,22 @@ Benzinga • 1d ago
 
 ---
 
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+
+A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+
+PYMNTS.com • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 14K • 👍 850 • 💬 121 • ⏱️ 29:47 • 16h ago
+👁️ 16K • 👍 905 • 💬 151 • ⏱️ 29:47 • 17h ago
 
 ---
 
@@ -246,7 +248,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 15h ago
+👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 16h ago
 
 ---
 
@@ -256,7 +258,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 345 • 💬 97 • ⏱️ 7:22 • 21h ago
+👁️ 6K • 👍 351 • 💬 97 • ⏱️ 7:22 • 21h ago
 
 ---
 
@@ -266,27 +268,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 36K • 👍 1K • 💬 135 • ⏱️ 17:24 • 2d ago
-
----
-
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
-
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
-
-📺 World Liberty Financial
-
-👁️ 7K • 👍 23 • 💬 4 • ⏱️ 1:36 • 2d ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 43K • 👍 2K • 💬 213 • ⏱️ 19:54 • 2d ago
+👁️ 36K • 👍 1K • 💬 138 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -296,7 +278,17 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 1K • 💬 25 • ⏱️ 12:01 • 19h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 19h ago
+
+---
+
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+
+📺 Coin Bureau
+
+👁️ 43K • 👍 2K • 💬 214 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -306,7 +298,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 180 • 💬 47 • ⏱️ 8:10 • 2d ago
+👁️ 5K • 👍 180 • 💬 58 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
+
+GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
+
+📺 World Liberty Financial
+
+👁️ 7K • 👍 24 • 💬 4 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[Ethereum Is The Most Valuable Commodity of the 21st Century. (Here is the Proof). BlackRock!?](https://www.youtube.com/watch?v=XiZ-1vHKS0U)**
+
+Silver is the energy of the industrial world. Ethereum is the energy of the financial world. Larry Fink has made his choice—have ...
+
+📺 Boring Metals
+
+👁️ 54 • 👍 8 • 💬 1 • ⏱️ 21:54 • 41m ago
 
 ---
 
@@ -316,17 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 96 • 💬 9 • ⏱️ 4:34 • 20h ago
-
----
-
-**[Is the Bitmine / Ethereum Thesis in Trouble? (BMNR Stock)](https://www.youtube.com/watch?v=JN2hrXT6GEg)**
-
-15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy Thoughts on Mr. Beast / Beast ...
-
-📺 Crossroads
-
-👁️ 4K • 👍 215 • 💬 94 • ⏱️ 16:54 • 18h ago
+👁️ 2K • 👍 97 • 💬 9 • ⏱️ 4:34 • 20h ago
 
 ---
 

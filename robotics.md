@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T13:32:44.970475+00:00'
+updated: '2026-01-25T14:20:41.338821+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 13:32 UTC  
+**Last Updated:** January 25, 2026 at 14:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-2h ago
-
----
-
-**[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
-
-11h ago
+3h ago
 
 ---
 
@@ -50,13 +44,19 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-1h ago
+2h ago
+
+---
+
+**[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
+
+12h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -92,13 +92,13 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-17h ago
+18h ago
 
 ---
 
 **[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 21h ago
+ynetnews.com • 22h ago
 
 ---
 
@@ -122,19 +122,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
-
-Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
-
-Business Insider • 2d ago
-
----
-
 **[Saga Robotics bets big on US vineyards with new GM, fresh capital](https://agfundernews.com/saga-robotics-bets-big-on-us-vineyards-with-new-gm-fresh-capital-for-uv-c-bots-chemical-free-winegrowing-is-the-holy-grail)**
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
 AgFunderNews • 2d ago
+
+---
+
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
+
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
+
+Business Insider • 2d ago
 
 ---
 
@@ -148,7 +148,7 @@ MarketBeat • 1d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 19h ago
+USA Today • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 88 • 💬 36 • ⏱️ 6:39 • 1d ago
+👁️ 5K • 👍 86 • 💬 37 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -204,17 +204,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 64K • 👍 2K • 💬 119 • ⏱️ 17:39 • 1d ago
+👁️ 66K • 👍 2K • 💬 122 • ⏱️ 17:39 • 1d ago
 
 ---
 
-**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+**[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
 
-Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
 
-📺 The AI Nexus
+📺 Geekazine
 
-👁️ 8K • 👍 241 • 💬 21 • ⏱️ 19:35 • 6d ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 15h ago
 
 ---
 
@@ -224,7 +224,17 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 47K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
+👁️ 48K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
+
+---
+
+**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
+
+📺 EmortalMarcus
+
+👁️ 251K • 👍 13K • 💬 1K • ⏱️ 35:38 • 3d ago
 
 ---
 
@@ -234,15 +244,7 @@ Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the
 
 📺 Global News
 
-👁️ 24K • 👍 110 • 💬 98 • ⏱️ 10:15 • 2d ago
-
----
-
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 25K • 👍 3K • 💬 114 • ⏱️ 1:13 • 2d ago
+👁️ 25K • 👍 111 • 💬 98 • ⏱️ 10:15 • 2d ago
 
 ---
 
@@ -256,33 +258,31 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 25K • 👍 3K • 💬 115 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+
+Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 241 • 💬 21 • ⏱️ 19:35 • 6d ago
+
+---
+
 **[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
 
 Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
 
 📺 Rowan Cheung
 
-👁️ 11K • 👍 775 • 💬 7 • ⏱️ 1:13 • 1d ago
-
----
-
-**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
-
-XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
-
-📺 The AI Nexus
-
-👁️ 4K • 👍 133 • 💬 17 • ⏱️ 18:41 • 1d ago
-
----
-
-**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
-
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
-
-📺 UBTECH Robotics
-
-👁️ 12K • 👍 185 • 💬 39 • ⏱️ 1:56 • 5d ago
+👁️ 11K • 👍 788 • 💬 7 • ⏱️ 1:13 • 1d ago
 
 ---
 
