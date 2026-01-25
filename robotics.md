@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T21:41:46.136272+00:00'
+updated: '2026-01-25T22:21:27.625915+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 21:41 UTC  
+**Last Updated:** January 25, 2026 at 22:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,19 +44,19 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-9h ago
+10h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-6h ago
+7h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 The Brief
 
-news8000.com • 22h ago
+news8000.com • 23h ago
 
 ---
 
@@ -166,7 +166,7 @@ Fox Business • 2d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 22h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 512 • 💬 163 • ⏱️ 21:00 • 10h ago
+👁️ 8K • 👍 512 • 💬 163 • ⏱️ 21:00 • 11h ago
 
 ---
 

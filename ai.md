@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T21:41:46.118655+00:00'
+updated: '2026-01-25T22:21:27.607958+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 21:41 UTC  
+**Last Updated:** January 25, 2026 at 22:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 44m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 13h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-17h ago
+18h ago
 
 ---
 
@@ -125,25 +125,25 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg • 8h ago
+Bloomberg • 9h ago
 
 ---
 
 **[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Corporate Interest In AI Shifts From Investment to Payoff](https://www.bloomberg.com/news/newsletters/2026-01-25/corporate-interest-in-ai-shifts-from-investment-to-payoff)**
 
-Bloomberg • 41m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Washington Post • 1h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -183,13 +183,13 @@ Financial Times • 16h ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[Big Tech Earnings Land With 2026’s AI Winners Still In Question](https://www.bloomberg.com/news/articles/2026-01-25/big-tech-earnings-land-with-2026-s-ai-winners-still-in-question)**
 
-Bloomberg • 7h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg • 7h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 562 • 💬 554 • 21h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 562 • 💬 554 • 22h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -247,7 +247,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 83 • 💬 69 • 13h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 83 • 💬 69 • 14h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -291,7 +291,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 15K • 👍 573 • 💬 138 • ⏱️ 12:43 • 15h ago
+👁️ 15K • 👍 573 • 💬 138 • ⏱️ 12:43 • 16h ago
 
 ---
 
@@ -301,7 +301,7 @@ OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tr
 
 📺 Zack Shutt
 
-👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 18h ago
+👁️ 20K • 👍 1K • 💬 325 • ⏱️ 10:14 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ Top Unreal Goals That Look Like AI A compilation of Football goals so insane the
 
 📺 FootyRanks
 
-👁️ 773K • 👍 28K • 💬 153 • ⏱️ 0:48 • 13h ago
+👁️ 773K • 👍 28K • 💬 153 • ⏱️ 0:48 • 14h ago
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 4h ago
+⭐ 9.7k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.0k • 🔱 1.1k • 5h ago
+⭐ 6.0k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -718,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 501 • 23h ago
+⭐ 4.6k • 🔱 501 • 1d ago
 
 ---
 

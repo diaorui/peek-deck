@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T21:41:46.127043+00:00'
+updated: '2026-01-25T22:21:27.616566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 21:41 UTC  
+**Last Updated:** January 25, 2026 at 22:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I’ve been in the btc space since 2015. I’ve been a hardcore believer and a net accumulator through every cycle since. I’ve held through 80% drawdowns without flinching because the long term thesis always felt inevitable. But recently, I find myself doubting the future of this space more than ever. It is wild to hear myself say that, considering how entrenched I am, but this time feels different. It feels like we finally "made it"; we got the ETFs, we hit the numbers; but the victory feels . . . meh. The bridge to mass just isn't there. Here is a breakdown of my skepticism: Usability is still a nightmare: self-custody is still terrifying for 99% of the population. The learning curve is too steep. The gap between L1/L2 is a UX mess; managing channels and inbound liquidity is complex. If the answer for the masses is "just use a custodial ETF," then we have just recreated the banking system we tried to escape. The "OGs" sold: The demographics of the market have severely changed. It feels like the early believers distributed their coins to institutions, shifting the ethos from "separation of money and state" to "integration with the state." Institutional adoption feels stagnant beyond just holding "paper Bitcoin" for speculation. Privacy is effectively non existent: With the rise of chain analysis and compliance tools, the ledger has become the ultimate surveillance tool. True privacy is being actively criminalized, and non-KYC coins are becoming nearly impossible to offload. The 100k psychological eiling: Reaching 100k felt like the end of a movie rather than the start of a sequel. With the law of large numbers kicking in, the asymmetry of the bet is gone. Toxic culture & politicization: The community used to be about builders. Now, it feels politicized and dominated by "number go up" influencers. Intellectual honesty is often attacked as FUD. Quantum: not just a theory. Are we going to come to a reasonable solution? I understand that sentiment is down, but this feels structural, not just cyclical. It feels like we were "correct" after all these years, but the ability to move "over the hump" into actual global currency usage/store of value just isn't going to happen. Do you feel the "magic" is gone, or is this just what maturity looks like? Am I overlooking a catalyst that brings the excitement back?
 
-1h ago
+2h ago
 
 ---
 
@@ -93,19 +93,19 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-53m ago
+1h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-12h ago
+13h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 Source: Blossom Social and X
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Source: Blossom Social and X
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-2h ago
+3h ago
 
 ---
 
@@ -135,13 +135,13 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 it could always be cope, but... I'm expecting Bitcoin to have a pretty big run this year. I also feel like a lot of other assets are going to have big pullbacks. the s&p, etc. Gold and silver will start to rotate into Bitcoin. Gold's market cap in early 2024 was 15 trillion and now it's more like 30 trillion. If 10% of that went into Bitcoin the price would double from here. just my thoughts, might be more carnage first but I'm not seeing Bitcoin fizzling out like some claim or like perhaps some big money are even trying to make it look like so they can accumulate more cheap before the next big leap.
 
-1h ago
+2h ago
 
 ---
 
 **[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 20h ago
 
 The dollar's decline isn't a reason to panic if you're prepared.
 
-The Motley Fool • 36m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 36m ago
 
 The bitcoin treasury firm is using perpetual preferreds to retire convertibles, offering a potential framework for managing long dated leverage.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 2d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-ProPublica • 2d ago
+ProPublica • 3d ago
 
 ---
 
@@ -304,7 +304,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 10h ago
+👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 11h ago
 
 ---
 
@@ -364,7 +364,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 7h ago
+👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 8h ago
 
 ---
 
@@ -374,7 +374,7 @@ Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin i
 
 📺 Crypto Love
 
-👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 4h ago
+👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 5h ago
 
 ---
 
@@ -384,7 +384,7 @@ Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 5h ago
+👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 6h ago
 
 ---
 

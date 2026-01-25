@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T21:41:46.133096+00:00'
+updated: '2026-01-25T22:21:27.622682+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 21:41 UTC  
+**Last Updated:** January 25, 2026 at 22:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-8h ago
+9h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all. I am setting up a safe multisig with multiple phones belonging to differ
 
 The relationship between "institutions" and "cypherpunk" is complex and needs to be understood properly. In truth, institutions (both governments and corporations) are neither guaranteed friend nor foe. Exhibit A: https://www.theregister.com/2026/01/11/eu_open_source_consultation/ European Union seeking to aggressively support open source Exhibit B: https://fightchatcontrol.eu/ European Union bureaucrats want Chat Control (mandatory encryption backdoors) Exhibit C: the Patriot Act (which, we must note, neither party now expresses much interest in repealing) Exhibit D: the US government is now famously a user of Signal Basically, the game-theoretic optimum for an institution is to have control over what it can control, but also to resist intrusion by others. In fact, institutions are often staffed by highly sophisticated people, who have a much deeper understanding of these issues than regular people and a much deeper will to do something about them. An important driver of many people's refusal to use data-slurping corposlop software is company policy. Some people have the misperception that my words yesterday about the importance of using tools that maximize your data self-sovereignty are something that will appeal to individual enthusiast communities, but will be rejected as unrealistic by efficiency-minded "serious people". But this is false: "serious people" are often more robustness-minded than retail and many already have policies even stricter than what I advocate. I predict that in this next era, this trend will accelerate: institutions (again, both corporations and governments) will want to more aggressively minimize their external trust dependencies, and have more guarantees over their operations. Again, this does not mean that they want to minimize your dependency on them - that's the thing that we as the Ethereum community must insist on, and build tools to help people achieve. But that's precisely the complexity of the situation. In the stablecoin world, this means: Asset issuers in the EU will want a chain whose governance center of gravity is not overly US-based, and vice versa (same for other pairs of countries) Governments will push for more KYC, but at the same time privacy tools will improve, because cypherpunks are working hard to make them improve. The more realistic equilibrium is that non-KYC'd assets will exist, and ability to use them with strong privacy will grow, but also over the next decade we'll see more attempts at "ZK proof of source of funds". We will see ideological disputes over how to respond to this Institutions will want to control their own wallets, and even their own staking if they stake ETH. This is actually good for ethereum staking decentralization. Of course, they will not proactively work to give you the user a self-sovereign wallet. Doing that in a way that is secure for regular users is the task of Ethereum cypherpunks (see: smart contract wallets, social recovery). Ethereum is the censorship-resistant world computer: we do not have to approve of every activity that happens on the world computer. I did not approve much of three million dollar digital monkeys, I will not approve much of privacy with centralized (including multisig/threshold) decryption backdoors. But the existence of those things is not up to me to decide. What is up to us is to build the world that we want to see on top of Ethereum, and make that world strong, so that it can prosper in the competition, both on the Ethereum chain itself, and against the centralized world. At best, we can interoperate with the non-cypherpunk world to better bootstrap the cypherpunk world. For example, spreads on decentralized stablecoins can decrease if it's easy for people to run arbitrage strategies where they hold positive quantities of a centralized stablecoin and negative quantities of the decentralized one. If we want prediction markets to avoid sliding into sports betting corposlop, we should explore improving their liquidity by helping traditional financial entities use them to hedge against their existing risks. What is a bet from one side is often a purchase of insurance from the other side, and if we want prediction markets to evolve in a healthy way, it may be overall better for the counterparties of the sophisticated traders earning big APYs to be buyers of insurance than to be naive bettors who constantly lose money. Synergies like this should be explored across all domains. This is why I do not believe that cypherpunk requires total hostility to institutions. Instead, I support a policy that institutions are already used to using against each other: openness to win-win cooperation, but aggressively standing up for our own interests. And in this case, our interest is building a financial, social and identity layer that protects people's self-sovereignty and freedom.
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ CCN.com • 1d ago
 
 For most of the week, the Ethereum price has remained in a range-bound spell, putting in no significant movement outside of the $3,000 and $2,880 price boundaries. Amid rising speculations, an on-chain analysis has recently been put out, which provides an answer to the question. Open Interest Acros…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 270 • 4h ago
+👁️ 2K • 👍 270 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 4h ago
+👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 23h ago
+👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 1d ago
 
 ---
 
