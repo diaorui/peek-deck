@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T15:42:29.629609+00:00'
+updated: '2026-01-25T16:27:51.610024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 15:42 UTC  
+**Last Updated:** January 25, 2026 at 16:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,659.93
+### $87,964.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -4.3%  
-**30d:** +0.8%  
-**90d:** -21.4%  
-**1y:** -13.6%  
+**24h:** -1.7%  
+**7d:** -5.1%  
+**30d:** -0.0%  
+**90d:** -22.1%  
+**1y:** -14.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1773.54B
+**Market Cap:** $1753.82B
 Rank #1
 
-**Circulating Supply:** 19,980,406 BTC
+**Circulating Supply:** 19,980,425 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-30.4%
 
 **All-Time Low:** $67.81
-+130774.5%
++129351.4%
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-6h ago
+7h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-3h ago
+4h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-6h ago
-
----
-
-**[New purchases…](https://www.reddit.com/r/Bitcoin/comments/1qml038/new_purchases/)**
-
-54m ago
+7h ago
 
 ---
 
@@ -105,25 +99,25 @@ Rank #1
 
 Source: Cointelegraph
 
-1h ago
-
----
-
-**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
-
-11h ago
+2h ago
 
 ---
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-4h ago
+5h ago
+
+---
+
+**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
+
+12h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +125,13 @@ Source: Cointelegraph
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-4h ago
+5h ago
+
+---
+
+**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Where do people even find that kind of courage?
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Where do people even find that kind of courage?
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -160,6 +160,14 @@ CoinDesk • 18h ago
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
 Forbes • 4h ago
+
+---
+
+**[How the Ultra-wealthy Are Using Bitcoin to Fund Their Yacht Upgrades and Cannes Trips](https://news.futunn.com/en/post/67867432/how-the-ultra-wealthy-are-using-bitcoin-to-fund-their)**
+
+Comethfounder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
+
+富途资讯 • 14m ago
 
 ---
 
@@ -203,7 +211,7 @@ Fortune • 3d ago
 
 **[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -211,13 +219,7 @@ The Block • 18h ago
 
 Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
-CryptoSlate • 1d ago
-
----
-
-**[Bitcoin Funds Shed $700 Million as Crypto Outlook Dims](https://www.bloomberg.com/news/articles/2026-01-22/bitcoin-funds-shed-700-million-as-crypto-market-outlook-dims)**
-
-Bloomberg • 3d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -298,7 +300,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 58K • 👍 3K • 💬 65 • ⏱️ 47:21 • 1d ago
+👁️ 60K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+
+---
+
+**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+
+The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 7K • 👍 567 • 💬 102 • ⏱️ 13:23 • 5h ago
 
 ---
 
@@ -308,27 +320,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 29K • 👍 580 • 💬 280 • ⏱️ 6:22 • 14h ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 17h ago
-
----
-
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
-
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 12:07 • 1d ago
+👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 14h ago
 
 ---
 
@@ -338,7 +330,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 305 • ⏱️ 8:40 • 1d ago
+👁️ 62K • 👍 3K • 💬 308 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -348,7 +340,27 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 37K • 👍 517 • 💬 220 • ⏱️ 2:12 • 2d ago
+👁️ 38K • 👍 531 • 💬 242 • ⏱️ 2:12 • 2d ago
+
+---
+
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 249 • ⏱️ 11:14 • 18h ago
+
+---
+
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
+
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 1K • 💬 165 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -358,7 +370,17 @@ How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow
 
 📺 Brad Long
 
-👁️ 28K • 👍 2K • 💬 341 • ⏱️ 14:05 • 1d ago
+👁️ 30K • 👍 2K • 💬 351 • ⏱️ 14:05 • 1d ago
+
+---
+
+**[He Bought Bitcoin at $1… Then Started Mining More](https://www.youtube.com/watch?v=ujPCghDLYUM)**
+
+How many Bitcoin did Davinci buy when it was only $1? That's the question everyone asks to Davinci — and his answer is ...
+
+📺 Ness Deal Maker
+
+👁️ 5K • 👍 44 • 💬 1 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -368,27 +390,7 @@ The Senate just released a major update to U.S. market structure law — and it 
 
 📺 Swan Bitcoin
 
-👁️ 49K • 👍 2K • 💬 159 • ⏱️ 12:29 • 2d ago
-
----
-
-**[Waiting Patiently for Bitcoin’s First Explosive Move in 5 Years!](https://www.youtube.com/watch?v=36Gwo1grixM)**
-
-Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving investors questioning whether Bitcoin has failed as a ...
-
-📺 Swan Bitcoin
-
-👁️ 79K • 👍 3K • 💬 369 • ⏱️ 16:21 • 2d ago
-
----
-
-**[Every Possible Scenario for Bitcoin in 2026](https://www.youtube.com/watch?v=c6bjqzAmR_s)**
-
-Every Bitcoin price scenario for 2026. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 7K • 👍 458 • 💬 66 • ⏱️ 13:22 • 15h ago
+👁️ 50K • 👍 2K • 💬 157 • ⏱️ 12:29 • 2d ago
 
 ---
 

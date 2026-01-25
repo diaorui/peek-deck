@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T15:42:29.637525+00:00'
+updated: '2026-01-25T16:27:51.615973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 15:42 UTC  
+**Last Updated:** January 25, 2026 at 16:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.37
+### $2,899.17
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -8.0%  
-**30d:** -0.6%  
-**90d:** -26.4%  
-**1y:** -9.2%  
+**24h:** -2.6%  
+**7d:** -9.4%  
+**30d:** -2.1%  
+**90d:** -27.5%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.17B
+**Market Cap:** $349.14B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-41.6%
 
 **All-Time Low:** $0.43
-+677089.9%
++667253.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-6h ago
+7h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over the past decade, we’ve evolved alongside the crypto industry itself, often a step ahead of it. BTCS began as BitcoinShop, an early e-commerce platform that allowed people to buy real-world goods using Bitcoin when that concept was still novel. As the ecosystem matured, we pivoted into Bitcoin mining, becoming the first publicly traded Bitcoin miner. As blockchains transitioned from proof-of-work to proof-of-stake, BTCS evolved into an Ethereum-focused blockchain technology company, operating core infrastructure and capital strategies native to the Ethereum ecosystem. Today, our business is centered entirely on Ethereum and the Ethereum economy. Our core operations span three verticals: Validator Node Operations (NodeOps) Block Building (Builder+) On-chain DeFi Operations (Imperium) Over the years, BTCS has also been a first mover in several areas: One of the first public companies to tokenize its own equity (Series V Preferred Stock, 2023) on Ethereum’s blockchain. The first public company to issue a “Bividend” (blockchain dividend) — paid in Bitcoin (2022) and Ethereum (2025) The first public companies to access capital through decentralized finance borrowing and lending CEO Charles Allen will be answering any questions you have. AMA. https://preview.redd.it/0zszf399e4fg1.png?width=2000&format=png&auto=webp&s=9001059abd0f63bdb85bdb008e2e0f88c6b598ef
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -164,7 +164,15 @@ CoinDesk • 22h ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
+
+---
+
+**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
+
+A good week it was not for the world's second-largest cryptocurrency.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -176,47 +184,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+**[Ethereum news: The network's transaction spike may be a mirage, Citi says](https://www.coindesk.com/markets/2026/01/22/citi-sounds-the-alarm-on-address-poisoning-scams-flooding-the-ethereum-network)**
 
-CCN.com • 1d ago
+A record surge in activity on the Ethereum network is likely being driven by scam-related behavior rather than genuine user growth, according to the bank's analysts.
 
----
-
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
-
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
-
-TradingView • 14h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+**[JPMorgan doubts Ethereum's post-Fusaka upgrade activity surge will be sustained](https://www.theblock.co/post/386744/jpmorgan-doubts-ethereum-fusaka-activity-sustained)**
 
-The Block • 16h ago
-
----
-
-**[Why Some Long-Term Investors Favor Ethereum Over Other Digital Assets](https://www.fool.com/investing/2026/01/24/why-some-long-term-investors-favor-ethereum-over-o/)**
-
-This asset has utility and a few other useful features.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
-
-Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
-
-Benzinga • 1d ago
-
----
-
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
-
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
-
-CryptoSlate • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -228,9 +206,41 @@ PYMNTS.com • 2d ago
 
 ---
 
+**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
+
+A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
+
+TradingView • 15h ago
+
+---
+
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+
+The Block • 17h ago
+
+---
+
+**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
+
+Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
+
+Benzinga • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ECuJ8ode508)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 495 • 👍 52 • 💬 4 • ⏱️ 3:57 • 2h ago
+
+---
 
 **[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
 
@@ -238,17 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 16K • 👍 905 • 💬 151 • ⏱️ 29:47 • 18h ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 2K • 💬 243 • ⏱️ 11:14 • 17h ago
+👁️ 17K • 👍 970 • 💬 155 • ⏱️ 29:47 • 19h ago
 
 ---
 
@@ -258,17 +258,17 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 351 • 💬 97 • ⏱️ 7:22 • 23h ago
+👁️ 7K • 👍 362 • 💬 97 • ⏱️ 7:22 • 23h ago
 
 ---
 
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=f3_Zl4xYkwo)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE Daily 5-Min Crypto Newsletter: ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 36K • 👍 1K • 💬 138 • ⏱️ 17:24 • 3d ago
+👁️ 43K • 👍 2K • 💬 249 • ⏱️ 11:14 • 18h ago
 
 ---
 
@@ -278,27 +278,17 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 21h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 22h ago
 
 ---
 
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+**[CRYPTO LIVE TRADING || 25 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=1UUBoR4-Xa4)**
 
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
 
-📺 Coin Bureau
+📺 Balraj Trading Tech
 
-👁️ 43K • 👍 2K • 💬 214 • ⏱️ 19:54 • 2d ago
-
----
-
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 180 • 💬 58 • ⏱️ 8:10 • 2d ago
+👁️ 4K • 👍 573 • 1h ago
 
 ---
 
@@ -312,13 +302,23 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 
 ---
 
-**[Ethereum Is The Most Valuable Commodity of the 21st Century. (Here is the Proof). BlackRock!?](https://www.youtube.com/watch?v=XiZ-1vHKS0U)**
+**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
 
-Silver is the energy of the industrial world. Ethereum is the energy of the financial world. Larry Fink has made his choice—have ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Boring Metals
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 54 • 👍 8 • 💬 1 • ⏱️ 21:54 • 2h ago
+👁️ 5K • 👍 180 • 💬 58 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
+
+Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
+
+📺 Coin Bureau
+
+👁️ 44K • 👍 2K • 💬 215 • ⏱️ 19:54 • 2d ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 9 • ⏱️ 4:34 • 22h ago
+👁️ 2K • 👍 98 • 💬 9 • ⏱️ 4:34 • 23h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T15:42:29.641807+00:00'
+updated: '2026-01-25T16:27:51.619179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 15:42 UTC  
+**Last Updated:** January 25, 2026 at 16:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-3h ago
+4h ago
 
 ---
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -64,13 +64,13 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-10h ago
+11h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -78,19 +78,13 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-23m ago
+1h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-12h ago
-
----
-
-**[Welcome everyone. Let's build India's robotics ecosystem 🇮🇳](https://www.reddit.com/r/robotics/comments/1qmle4o/welcome_everyone_lets_build_indias_robotics/)**
-
-39m ago
+13h ago
 
 ---
 
@@ -102,6 +96,12 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 ---
 
+**[I added visual Center of Mass editing and a new centralized control dashboard to LinkForge (v1.2.0)](https://www.reddit.com/r/robotics/comments/1qmkz65/i_added_visual_center_of_mass_editing_and_a_new/)**
+
+1h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -110,7 +110,15 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 23h ago
+ynetnews.com • 1d ago
+
+---
+
+**[China’s new humanoid robot floats, swims, flies, and navigates tight spaces effortlessly](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
+
+Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -148,7 +156,7 @@ wbay.com • 1d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -176,14 +184,6 @@ fox11online.com • 1d ago
 
 ---
 
-**[IDC report: China leads the global humanoid robot rise in 2025](https://news.cgtn.com/news/2026-01-24/IDC-report-China-leads-the-global-humanoid-robot-rise-in-2025-1KccOGZyVGM/p.html)**
-
-Global shipments of humanoid robots surged to around 18,000 units in 2025, up 508 percent year on year, with Chinese firms dominating the market share, according to a report released by the International Data Corporation (IDC) on Thursday.&nbsp;Global
-
-news.cgtn.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +194,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 86 • 💬 37 • ⏱️ 6:39 • 1d ago
+👁️ 5K • 👍 87 • 💬 37 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -204,7 +204,37 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 66K • 👍 2K • 💬 122 • ⏱️ 17:39 • 1d ago
+👁️ 69K • 👍 2K • 💬 127 • ⏱️ 17:39 • 1d ago
+
+---
+
+**[🤖🌍 A Robot Breaks Protocol… and One Detective Realizes Humanity Isn’t in Control 😱⚙️](https://www.youtube.com/watch?v=gN2m27C5VA0)**
+
+In a dying, dust-choked future ☀️🌪️, humans survive behind factories and domes 🏚️ while “Pilgrim” robots do the dirty ...
+
+📺 ClipRift
+
+👁️ 6K • 👍 141 • 💬 1 • ⏱️ 0:48 • 6h ago
+
+---
+
+**[NEW Huge War Robots 11.2 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
+
+War Robots Test Server News: Huge 11.2 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 4K • 👍 371 • 💬 106 • ⏱️ 21:00 • 5h ago
+
+---
+
+**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+
+Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 242 • 💬 21 • ⏱️ 19:35 • 6d ago
 
 ---
 
@@ -214,7 +244,7 @@ Walking through the North Hall at CES 2026, and I am wondering if the Robots Tak
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 16h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 17h ago
 
 ---
 
@@ -225,26 +255,6 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 📺 Fox News
 
 👁️ 48K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
-
----
-
-**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
-
-📺 EmortalMarcus
-
-👁️ 251K • 👍 13K • 💬 1K • ⏱️ 35:38 • 3d ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 25K • 👍 111 • 💬 98 • ⏱️ 10:15 • 2d ago
 
 ---
 
@@ -266,23 +276,13 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
-**[Figure&#39;s New AI Robot Runs Like a Real Human... Figure 03’s secret “Fitness Program”](https://www.youtube.com/watch?v=G0xbD8Dwka0)**
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
 
-Figure AI just broke the internet — their new Figure 03 humanoid robot is running like a real human, and the footage looks unreal.
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
 
-📺 The AI Nexus
+📺 Global News
 
-👁️ 8K • 👍 241 • 💬 21 • ⏱️ 19:35 • 6d ago
-
----
-
-**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
-
-Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
-
-📺 Rowan Cheung
-
-👁️ 11K • 👍 788 • 💬 7 • ⏱️ 1:13 • 1d ago
+👁️ 26K • 👍 111 • 💬 98 • ⏱️ 10:15 • 2d ago
 
 ---
 
