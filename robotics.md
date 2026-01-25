@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T17:43:04.774012+00:00'
+updated: '2026-01-25T18:31:57.825826+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 17:43 UTC  
+**Last Updated:** January 25, 2026 at 18:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-30m ago
+1h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 Hey everyone, I just released a new open-source simulation platform that might be interesting for robotics, drone, and autonomous systems developers 👇 📌 GitHub: https://github.com/ismailtsdln/AeroSimX 🛠️ What is AeroSimX? AeroSimX is a next-generation modular simulation framework designed for building, testing, and researching autonomous systems — including drones, ground vehicles, and robotics platforms. It combines a high-performance C++ core with intuitive Python bindings to support both high-speed simulation and flexible experimentation. ✨ Core Features 🔹 Physics & Dynamics Realistic rigid-body dynamics with collision detection and multi-vehicle support. 🔹 Multi-Vehicle Simulation Support for multirotors, ground vehicles, and easy extensibility for custom types. 🔹 Rich Sensor Suite Simulate Lidar (configurable channels), cameras (RGB, depth), IMU, GPS, radar, and more — with noise and distortion models. 🔹 Python API Control simulations, spawn vehicles, attach sensors, and fetch data through a clean Python interface. 🔹 Training & Data Export Export datasets in COCO, KITTI, and ROS bag formats, and use the platform for reinforcement learning or perception model training. 🔹 ROS2 Integration & Plugins Native integration with ROS2 and plugin system for custom modules. 📦 Quick Start Build from source (C++): git clone https://github.com/ismailtsdln/AeroSimX.git cd AeroSimX mkdir build && cd build cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_EXAMPLES=ON -DBUILD_PYTHON_BINDINGS=ON cmake --build . -j$(nproc) Python example: from pyaerosimx import AeroSimXClient, Lidar, Camera client = AeroSimXClient() client.connect() drone = client.spawn_multirotor("drone1", position=(0,0,1)) drone.attach_sensor(Lidar("lidar", channels=32)) drone.attach_sensor(Camera("camera", width=1280, height=720)) drone.takeoff(altitude=10) client.step(5000) client.disconnect() 💡 Why AeroSimX? ✔ Performance-oriented and extensible for research ✔ Great for robotics, autonomous vehicle development, and ML/AI experimentation ✔ Open-source with Python scripting for rapid prototyping ✔ Integrated data export for training and evaluation workflows 📌 Learn More & Contribute Check out the repo, docs, and examples — and feel free to contribute features or improvements! The project welcomes contributions on simulations, sensors, vehicle models, and more. 🔗 https://github.com/ismailtsdln/AeroSimX
 
-39m ago
+1h ago
 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -94,13 +94,13 @@ Hey everyone, I just released a new open-source simulation platform that might b
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-2h ago
+3h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -136,7 +136,7 @@ fox11online.com • 1d ago
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
-AgFunderNews • 2d ago
+AgFunderNews • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Business Insider • 3d ago
 
 SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
 
-channel3000.com • 18h ago
+channel3000.com • 19h ago
 
 ---
 
@@ -166,7 +166,7 @@ MarketBeat • 2d ago
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -174,7 +174,7 @@ Financial Times • 12h ago
 
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 87 • 💬 37 • ⏱️ 6:39 • 1d ago
+👁️ 6K • 👍 88 • 💬 39 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 69K • 👍 2K • 💬 127 • ⏱️ 17:39 • 1d ago
+👁️ 74K • 👍 2K • 💬 131 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -216,17 +216,7 @@ In a dying, dust-choked future ☀️🌪️, humans survive behind factories an
 
 📺 ClipRift
 
-👁️ 6K • 👍 141 • 💬 1 • ⏱️ 0:48 • 7h ago
-
----
-
-**[NEW Huge War Robots 11.2 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
-
-War Robots Test Server News: Huge 11.2 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 371 • 💬 106 • ⏱️ 21:00 • 6h ago
+👁️ 8K • 👍 330 • 💬 3 • ⏱️ 0:48 • 8h ago
 
 ---
 
@@ -240,23 +230,33 @@ Figure AI just broke the internet — their new Figure 03 humanoid robot is runn
 
 ---
 
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
+
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
+
+📺 DRM News
+
+👁️ 535K • 👍 9K • 💬 3K • ⏱️ 32:01 • 3d ago
+
+---
+
 **[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
 
 Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
 
 📺 Geekazine
 
-👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 18h ago
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 19h ago
 
 ---
 
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+**[Most Humanlike AI Robot at CES 2026 Will Make You UNCOMFORTABLE](https://www.youtube.com/watch?v=nGJ6u_5RkOw)**
 
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+CES 2026 just unveiled the most humanlike AI robot ever created — and it's making everyone deeply uncomfortable. Standing ...
 
-📺 Fox News
+📺 The AI Nexus
 
-👁️ 48K • 👍 1K • 💬 247 • ⏱️ 0:49 • 2d ago
+👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 5d ago
 
 ---
 
@@ -270,21 +270,21 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
+**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
+
+War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 456 • 💬 154 • ⏱️ 21:00 • 7h ago
+
+---
+
 **[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
 
 📺 Bernie Sanders
 
-👁️ 25K • 👍 3K • 💬 115 • ⏱️ 1:13 • 2d ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 26K • 👍 111 • 💬 98 • ⏱️ 10:15 • 2d ago
+👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T17:43:04.758340+00:00'
+updated: '2026-01-25T18:31:57.807361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 17:43 UTC  
+**Last Updated:** January 25, 2026 at 18:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 2h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 9h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 17h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,13 @@ Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases 
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
 **[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -171,13 +171,13 @@ CTech • 1d ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[AI has arrived in Gmail. Here’s how to make it work for you](https://www.seattletimes.com/business/ai-has-arrived-in-gmail-heres-how-to-make-it-work-for-you/)**
 
-seattletimes.com • 3h ago
+seattletimes.com • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ seattletimes.com • 3h ago
 
 In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
 
-The Times • 18h ago
+The Times • 19h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Times • 18h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -213,7 +213,7 @@ The one where I get very annoyed with my email provider
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 514 • 💬 493 • 17h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 514 • 💬 493 • 18h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -251,7 +251,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 79 • 💬 66 • 9h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 79 • 💬 66 • 10h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -279,43 +279,33 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 ## YouTube Videos: "ai"
 
-**[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 11K • 👍 466 • 💬 115 • ⏱️ 12:43 • 11h ago
-
----
-
 **[OpenAI is Broke... Nvidia Caught Pirating To Train AI?!](https://www.youtube.com/watch?v=USVZuOafIi4)**
 
 OpenAI's last resort is here... Nvida alegedly using stolen copyrighted content to train AI models, Microsoft is messing up again.
 
 📺 Stylosa
 
-👁️ 35K • 👍 1K • 💬 469 • ⏱️ 16:18 • 21h ago
+👁️ 36K • 👍 1K • 💬 484 • ⏱️ 16:18 • 22h ago
 
 ---
 
-**[Elon Musk Says AI Will Surpass Humanity by 2031 in Explosive Davos Talk With Larry Fink | AI1G](https://www.youtube.com/watch?v=CXUG75IZOLY)**
+**[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
 
-Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide-ranging conversation with Larry Fink at the World ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 DRM News
+📺 Wes Roth
 
-👁️ 8K • 👍 110 • 💬 55 • ⏱️ 16:31 • 3d ago
+👁️ 13K • 👍 521 • 💬 124 • ⏱️ 12:43 • 12h ago
 
 ---
 
-**[Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](https://www.youtube.com/watch?v=BYPlfLQm0CQ)**
+**[Is The AI Bubble Popping?](https://www.youtube.com/watch?v=KUM2z_vit_E)**
 
-HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo ...
+OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tripled. Here's why the AI bubble popping is ...
 
-📺 AI Search
+📺 Zack Shutt
 
-👁️ 37K • 👍 2K • 💬 251 • ⏱️ 41:25 • 14h ago
+👁️ 16K • 👍 884 • 💬 285 • ⏱️ 10:14 • 15h ago
 
 ---
 
@@ -325,7 +315,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.4M • 👍 83K • 💬 2K • ⏱️ 0:13 • 1d ago
+👁️ 2.5M • 👍 85K • 💬 2K • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -335,7 +325,17 @@ Apple is working on a new AI pin designed to live on your clothing and understan
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 131 • ⏱️ 12:48 • 2d ago
+👁️ 64K • 👍 1K • 💬 132 • ⏱️ 12:48 • 2d ago
+
+---
+
+**[Top Unreal Goals That Look Like AI 🤖](https://www.youtube.com/watch?v=bu57G3ozgxc)**
+
+Top Unreal Goals That Look Like AI A compilation of Football goals so insane they don't look real Flying volleys, insane ...
+
+📺 FootyRanks
+
+👁️ 690K • 👍 26K • 💬 137 • ⏱️ 0:48 • 10h ago
 
 ---
 
@@ -345,17 +345,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 31K • 👍 763 • 💬 127 • ⏱️ 20:22 • 1d ago
-
----
-
-**[OpenAI is Broke… and so is everyone else](https://www.youtube.com/watch?v=Y3N9qlPZBc0)**
-
-Sam Altman said ads in ChatGPT would be a “last resort.” That was just over a year ago. Now OpenAI is burning billions monthly, ...
-
-📺 Vanessa Wingårdh
-
-👁️ 461K • 👍 23K • 💬 5K • ⏱️ 10:08 • 2d ago
+👁️ 32K • 👍 797 • 💬 139 • ⏱️ 20:22 • 1d ago
 
 ---
 
@@ -365,17 +355,27 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 306 • ⏱️ 28:01 • 1d ago
+👁️ 50K • 👍 2K • 💬 308 • ⏱️ 28:01 • 1d ago
 
 ---
 
-**[The Most Disturbing Week in AI](https://www.youtube.com/watch?v=bXHkbA3kFAY)**
+**[Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](https://www.youtube.com/watch?v=BYPlfLQm0CQ)**
 
-CHAPTERS ⤵ 00:00 Humanoid Robots That Teach Themselves (AI World Models) 01:38 Game Theory, Consciousness, and the ...
+HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo ...
 
-📺 Dylan Curious
+📺 AI Search
 
-👁️ 5K • 👍 316 • 💬 108 • ⏱️ 23:12 • 1d ago
+👁️ 41K • 👍 2K • 💬 258 • ⏱️ 41:25 • 15h ago
+
+---
+
+**[People UPSET Over Real-Time AI &quot;Art&quot; Generator...](https://www.youtube.com/watch?v=Nd4hdy5SZyM)**
+
+Disclaimer: Please do NOT send hate to anyone mentioned in my videos. Everything that is said is alleged and there are always 2 ...
+
+📺 kat 'n chat
+
+👁️ 29K • 👍 2K • 💬 446 • ⏱️ 9:07 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,159 • 5d ago
+⬇️ 363,320 • ❤️ 1,162 • 5d ago
 
 ---
 
@@ -403,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 905 • 2d ago
+⬇️ 29,354 • ❤️ 914 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 491 • 3d ago
+⬇️ 21,722 • ❤️ 497 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 408 • 2d ago
+⬇️ 42,703 • ❤️ 417 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 318 • 1d ago
+⬇️ 195,744 • ❤️ 319 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 265 • 4d ago
+⬇️ 12,479 • ❤️ 270 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 213 • 2d ago
+⬇️ 2,743 • ❤️ 215 • 2d ago
 
 ---
 
@@ -499,7 +499,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 211 • 3d ago
+⬇️ 4,684 • ❤️ 212 • 3d ago
 
 ---
 
@@ -565,7 +565,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 125 • 💬 6 • ⭐ 11,702 • 5mo ago
+▲ 126 • 💬 6 • ⭐ 11,702 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 565 • 2h ago
+⭐ 10.4k • 🔱 566 • 2m ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 4h ago
+⭐ 9.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -682,7 +682,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 468 • 3d ago
+⭐ 9.1k • 🔱 469 • 3d ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 908 • 2d ago
+⭐ 7.6k • 🔱 909 • 2d ago
 
 ---
 
@@ -702,7 +702,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.0k • 🔱 1.1k • 1h ago
+⭐ 6.0k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 4h ago
+⭐ 5.4k • 🔱 5.6k • 5h ago
 
 ---
 
@@ -722,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.6k • 🔱 492 • 19h ago
+⭐ 4.6k • 🔱 499 • 20h ago
 
 ---
 
@@ -730,7 +730,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 2.9k • 🔱 242 • 2d ago
+⭐ 3.0k • 🔱 244 • 2d ago
 
 ---
 
@@ -740,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.8k • 🔱 611 • 10h ago
+⭐ 2.9k • 🔱 624 • 1m ago
 
 ---
 

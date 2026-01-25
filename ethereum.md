@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T17:43:04.771193+00:00'
+updated: '2026-01-25T18:31:57.822492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 17:43 UTC  
+**Last Updated:** January 25, 2026 at 18:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $349.14B
+**Market Cap:** $346.37B
 Rank #2
 
 **Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.6%
+-42.4%
 
 **All-Time Low:** $0.43
-+667253.4%
++658375.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-8h ago
+9h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 21h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -208,13 +208,13 @@ PYMNTS.com • 2d ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
 **[What drove Ethereum's 11% decline this past week?](https://www.msn.com/en-us/money/savingandinvesting/what-drove-ethereum-s-11-decline-this-past-week/ar-AA1UWcHI?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ MSN • 1h ago
 
 A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -236,7 +236,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 495 • 👍 52 • 💬 4 • ⏱️ 3:57 • 3h ago
+👁️ 994 • 👍 79 • 💬 6 • ⏱️ 3:57 • 4h ago
+
+---
+
+**[BlackRock’s CIO Gets Fed Chair Greenlight!! Huge News for Crypto &amp; Ethereum](https://www.youtube.com/watch?v=QzmMeRSqENo)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 739 • 👍 81 • 💬 3 • ⏱️ 18:21 • 1h ago
 
 ---
 
@@ -246,7 +256,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 17K • 👍 970 • 💬 155 • ⏱️ 29:47 • 20h ago
+👁️ 18K • 👍 1K • 💬 156 • ⏱️ 29:47 • 21h ago
 
 ---
 
@@ -256,7 +266,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 362 • 💬 97 • ⏱️ 7:22 • 1d ago
+👁️ 7K • 👍 369 • 💬 98 • ⏱️ 7:22 • 1d ago
 
 ---
 
@@ -266,7 +276,37 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 249 • ⏱️ 11:14 • 19h ago
+👁️ 44K • 👍 2K • 💬 251 • ⏱️ 11:14 • 20h ago
+
+---
+
+**[ETHEREUM (ETH) SOLANA (SOL) SUI | Price Prediction: Direct &amp; Massive Sell-Off Ahead !](https://www.youtube.com/watch?v=9KJtbWi9Ddo)**
+
+BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING Join our Safe and Private Discord ...
+
+📺 KG TRADING - Crypto Elliott Waves
+
+👁️ 73 • 👍 5 • 💬 1 • ⏱️ 20:04 • 2h ago
+
+---
+
+**[Ethereum Is The Most Valuable Commodity of the 21st Century. (Here is the Proof). BlackRock!?](https://www.youtube.com/watch?v=XiZ-1vHKS0U)**
+
+Silver is the energy of the industrial world. Ethereum is the energy of the financial world. Larry Fink has made his choice—have ...
+
+📺 Boring Metals
+
+👁️ 196 • 👍 13 • 💬 2 • ⏱️ 21:54 • 4h ago
+
+---
+
+**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 180 • 💬 60 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -276,17 +316,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 12:01 • 23h ago
-
----
-
-**[CRYPTO LIVE TRADING || 25 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=1UUBoR4-Xa4)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 573 • 2h ago
+👁️ 14K • 👍 1K • 💬 144 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -297,36 +327,6 @@ GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/
 📺 World Liberty Financial
 
 👁️ 7K • 👍 24 • 💬 4 • ⏱️ 1:36 • 2d ago
-
----
-
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 180 • 💬 58 • ⏱️ 8:10 • 2d ago
-
----
-
-**[What if Ethereum Goes to Zero? [The Terrifying Truth]](https://www.youtube.com/watch?v=8k5lK5Q96r0)**
-
-Everyone knows that Ethereum is the second largest cryptocurrency on the planet. Its robust smart contracts and secure track ...
-
-📺 Coin Bureau
-
-👁️ 44K • 👍 2K • 💬 215 • ⏱️ 19:54 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8WVDmNSl0Wc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 98 • 💬 9 • ⏱️ 4:34 • 1d ago
 
 ---
 

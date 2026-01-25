@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T17:43:04.765925+00:00'
+updated: '2026-01-25T18:31:57.816185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 17:43 UTC  
+**Last Updated:** January 25, 2026 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.82B
+**Market Cap:** $1750.38B
 Rank #1
 
-**Circulating Supply:** 19,980,425 BTC
+**Circulating Supply:** 19,980,478 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.7%
 
 **All-Time Low:** $67.81
-+129351.4%
++128808.7%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-8h ago
+9h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-5h ago
+6h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-8h ago
+9h ago
 
 ---
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,31 +105,31 @@ Rank #1
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-6h ago
+7h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-13h ago
+14h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-14h ago
+15h ago
 
 ---
 
 **[The largest investors in U.S. Bitcoin ETFs](https://www.reddit.com/r/Bitcoin/comments/1qmmif9/the_largest_investors_in_us_bitcoin_etfs/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Where do people even find that kind of courage?
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -165,7 +165,7 @@ ProPublica • 2d ago
 
 As institutional demand for Bitcoin continues to soar, so should its price.
 
-The Motley Fool • 28m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 28m ago
 
 Comethfounder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
 
-富途资讯 • 1h ago
+富途资讯 • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 3d ago
 
 **[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -270,7 +270,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 1 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 1 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -292,73 +292,33 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 60K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
-
----
-
 **[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
 
 The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 567 • 💬 102 • ⏱️ 13:23 • 6h ago
+👁️ 10K • 👍 724 • 💬 124 • ⏱️ 13:23 • 7h ago
 
 ---
 
-**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
+**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
 
-Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
-
-📺 Fox Business Clips
-
-👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 16h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 308 • ⏱️ 8:40 • 1d ago
-
----
-
-**[Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin](https://www.youtube.com/watch?v=Ba6AmOCDsuo)**
-
-Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in prison, President Trump's pardon, future of ...
-
-📺 CNBC Television
-
-👁️ 38K • 👍 531 • 💬 242 • ⏱️ 2:12 • 2d ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 249 • ⏱️ 11:14 • 19h ago
-
----
-
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
-
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
 📺 Lark Davis
 
-👁️ 20K • 👍 1K • 💬 165 • ⏱️ 12:07 • 1d ago
+👁️ 4K • 👍 392 • 💬 58 • ⏱️ 12:50 • 2h ago
+
+---
+
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 62K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 
@@ -368,27 +328,67 @@ How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow
 
 📺 Brad Long
 
-👁️ 30K • 👍 2K • 💬 351 • ⏱️ 14:05 • 1d ago
+👁️ 32K • 👍 2K • 💬 427 • ⏱️ 14:05 • 1d ago
 
 ---
 
-**[He Bought Bitcoin at $1… Then Started Mining More](https://www.youtube.com/watch?v=ujPCghDLYUM)**
+**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
 
-How many Bitcoin did Davinci buy when it was only $1? That's the question everyone asks to Davinci — and his answer is ...
+Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
 
-📺 Ness Deal Maker
+📺 Fox Business Clips
 
-👁️ 5K • 👍 44 • 💬 1 • ⏱️ 0:35 • 1d ago
+👁️ 37K • 👍 680 • 💬 307 • ⏱️ 6:22 • 17h ago
 
 ---
 
-**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
 
-The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future. In this ...
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Swan Bitcoin
+📺 Lark Davis
 
-👁️ 50K • 👍 2K • 💬 157 • ⏱️ 12:29 • 2d ago
+👁️ 20K • 👍 1K • 💬 166 • ⏱️ 12:07 • 1d ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 313 • ⏱️ 8:40 • 1d ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=zIsbjAIG3Ss)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Monkey Cubin
+
+👁️ 3K • 👍 1K • 1h ago
+
+---
+
+**[Bitcoin Elliott Wave Update – Direct Sell-Off to $75,000?](https://www.youtube.com/watch?v=XBQHtwffjEw)**
+
+This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 1h ago
+
+---
+
+**[La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? 🤫](https://www.youtube.com/watch?v=Jr6pFHLaAHM)**
+
+La Amenaza Oculta: Bitcoin Hoy: ¿Por qué el Market Maker está tan CALLADO? ENLACE BITGET ...
+
+📺 USACRYPTONOTICIAS
+
+👁️ 4K • 👍 464 • 💬 19 • ⏱️ 1:41:44 • 1h ago
 
 ---
 
