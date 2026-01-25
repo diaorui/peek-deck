@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-24T23:41:25.070705+00:00'
+updated: '2026-01-25T02:00:37.212660+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 23:41 UTC  
+**Last Updated:** January 25, 2026 at 02:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -9.9%  
-**30d:** +1.0%  
-**90d:** -28.1%  
-**1y:** -10.8%  
+**24h:** -0.3%  
+**7d:** -7.3%  
+**30d:** +0.2%  
+**90d:** -25.8%  
+**1y:** -8.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.81B
+**Market Cap:** $356.00B
 Rank #2
 
-**Circulating Supply:** 120,694,449 ETH
+**Circulating Supply:** 120,694,435 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.4%
 
 **All-Time Low:** $0.43
-+682468.9%
++681277.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 21h ago
 
 ---
 
@@ -96,7 +96,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 22h ago
+🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 1d ago
 
 ---
 
@@ -168,11 +168,19 @@ CryptoSlate • 2d ago
 
 ---
 
-**[ETHA vs. BITQ: How Does This Ethereum Compare to a Fund Full of Crypto Companies](https://finance.yahoo.com/news/etha-vs-bitq-does-ethereum-220947408.html)**
+**[ETHA vs. BITQ: How Does This Ethereum Compare to a Fund Full of Crypto Companies](https://www.fool.com/coverage/etfs/2026/01/24/etha-vs-bitq-how-does-this-ethereum-compare-to-a-fund-full-of-crypto-companies/)**
 
 These two innovative ETFs offer exposure to the crypto market, but one in particular provides more direct exposure to one of the world's biggest digital tokens.
 
-Yahoo Finance • 1h ago
+The Motley Fool • 4h ago
+
+---
+
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
+
+Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,7 +188,15 @@ Yahoo Finance • 1h ago
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
+
+---
+
+**[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
+
+The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -190,33 +206,17 @@ The Block • 2d ago
 
 ---
 
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+
+CCN.com • 15h ago
+
+---
+
 **[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
 
 Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
 
 TradingView — Track All Markets • 1d ago
-
----
-
-**[Ethereum Classic: Buy, sell, or hold in 2026?](https://www.msn.com/en-us/money/markets/ethereum-classic-buy-sell-or-hold-in-2026/ar-AA1UTp0e?ocid=finance-verthp-feeds)**
-
-MSN • 8h ago
-
----
-
-**[Why Crypto Is Going Down Today? XRP, Bitcoin, Ethereum and Dogecoin Prices Fall as $1.7B Gets Rekt](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/)**
-
-Why crypto is going down today? Bitcoin at $88,626, Ethereum $2,920, XRP 7 sessions down. My technical analysis shows $74K BTC, $50K extreme risk.
-
-Finance Magnates • 3d ago
-
----
-
-**[Ethereum’s 2026 pivot – Why Buterin says this is more than just another market cycle](https://ambcrypto.com/ethereums-2026-pivot-why-buterin-says-this-is-more-than-just-another-market-cycle/)**
-
-What if Ethereum’s biggest breakthrough in 2026 doesn’t show up on the price charts at all?
-
-AMBCrypto • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 253 • 💬 84 • ⏱️ 7:22 • 7h ago
+👁️ 5K • 👍 297 • 💬 78 • ⏱️ 7:22 • 9h ago
 
 ---
 
@@ -248,17 +248,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 2K • 👍 241 • 💬 29 • ⏱️ 29:47 • 2h ago
+👁️ 7K • 👍 512 • 💬 67 • ⏱️ 29:47 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8WVDmNSl0Wc)**
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
 
-📺 More Crypto Online
+📺 Altcoin Daily
 
-👁️ 1K • 👍 71 • 💬 9 • ⏱️ 4:34 • 6h ago
+👁️ 16K • 👍 1K • 💬 146 • ⏱️ 11:14 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee: My NEW Prediction For Ethereum & Bitcoin In 2026 (Prepare Now) My FREE 
 
 📺 Crypto Nutshell
 
-👁️ 33K • 👍 1K • 💬 132 • ⏱️ 17:24 • 2d ago
+👁️ 34K • 👍 1K • 💬 132 • ⏱️ 17:24 • 2d ago
 
 ---
 
@@ -278,7 +278,27 @@ Everyone knows that Ethereum is the second largest cryptocurrency on the planet.
 
 📺 Coin Bureau
 
-👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:54 • 2d ago
+👁️ 42K • 👍 2K • 💬 211 • ⏱️ 19:54 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8WVDmNSl0Wc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 82 • 💬 9 • ⏱️ 4:34 • 8h ago
+
+---
+
+**[Is the Bitmine / Ethereum Thesis in Trouble? (BMNR Stock)](https://www.youtube.com/watch?v=JN2hrXT6GEg)**
+
+15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy Thoughts on Mr. Beast / Beast ...
+
+📺 Crossroads
+
+👁️ 2K • 👍 153 • 💬 41 • ⏱️ 16:54 • 6h ago
 
 ---
 
@@ -288,17 +308,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 1K • 💬 16 • ⏱️ 12:01 • 5h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UkjnJ0n2b70)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Winifred Kal
-
-👁️ 10K • 👍 460 • 9h ago
+👁️ 11K • 👍 1K • 💬 20 • ⏱️ 12:01 • 7h ago
 
 ---
 
@@ -308,27 +318,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 72 • 💬 6 • ⏱️ 18:28 • 2d ago
+👁️ 2K • 👍 74 • 💬 6 • ⏱️ 18:28 • 2d ago
 
 ---
 
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
+**[MAJOR VOLATILITY WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=XqCffzn5cNU)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 186 • 💬 47 • ⏱️ 8:10 • 1d ago
-
----
-
-**[GWEI ETHGas Ethereum Airdrop  | Claim Up TO 50,000$ Worth Of $GWEI](https://www.youtube.com/watch?v=JcN2HHMTh9g)**
-
-GWEI ETHGas Airdrop Only Official Claiming Page : https://ethgas-foundatlon.xyz/ The ETHGAS $GWEI token claim is now live for ...
-
-📺 World Liberty Financial
-
-👁️ 6K • 👍 23 • 💬 4 • ⏱️ 1:36 • 1d ago
+👁️ 301 • 👍 17 • 💬 3 • ⏱️ 5:25 • 15h ago
 
 ---
 

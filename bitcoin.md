@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-24T23:41:25.064707+00:00'
+updated: '2026-01-25T02:00:37.206612+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 24, 2026 at 23:41 UTC  
+**Last Updated:** January 25, 2026 at 02:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,303.67
+### $89,145.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -4.7%  
-**30d:** +2.3%  
-**90d:** -21.8%  
-**1y:** -14.7%  
+**24h:** -0.6%  
+**7d:** -3.7%  
+**30d:** +1.4%  
+**90d:** -21.0%  
+**1y:** -13.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.31B
+**Market Cap:** $1778.59B
 Rank #1
 
-**Circulating Supply:** 19,980,215 BTC
+**Circulating Supply:** 19,980,253 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.4%
 
 **All-Time Low:** $67.81
-+131444.0%
++131194.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-5h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-7h ago
+9h ago
 
 ---
 
@@ -97,13 +97,21 @@ Where do people even find that kind of courage?
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-14h ago
+17h ago
 
 ---
 
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-16h ago
+2h ago
+
+---
+
+**[Bitcoin Car @ Rolex 24](https://www.reddit.com/r/Bitcoin/comments/1qm19ue/bitcoin_car_rolex_24/)**
+
+Meyer Shank running the bitcoin car at Daytona 24 hour race.
+
+3h ago
 
 ---
 
@@ -111,7 +119,27 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-7h ago
+9h ago
+
+---
+
+**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
+
+6h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
+
+18h ago
+
+---
+
+**[It was never more accurate than this cycle](https://www.reddit.com/r/Bitcoin/comments/1qlkqgc/it_was_never_more_accurate_than_this_cycle/)**
+
+And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
+
+14h ago
 
 ---
 
@@ -121,79 +149,45 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 ---
 
-**[Bitcoin will have the last laugh](https://www.reddit.com/r/Bitcoin/comments/1qliuwc/bitcoin_will_have_the_last_laugh/)**
-
-Too many people think precious metals are shining while bitcoin is being ignored, and they somehow believe this means metals will keep running higher while bitcoin falls. As Jack Mallers states, metals are just a hedge while bitcoin is the actual solution. At some point something somewhere in the financial system will break, this will trigger central banks to pump unprecedented amounts of money into the system. Risk on assets will benefit from this while metals languish because a return to QE means major risk asset inflation. Central banks would rather cause runaway asset prices and higher inflation rather than risk the collapse of the financial system. Metals are rising now because they are sensing the danger building up, but once the danger actually hits and central banks pump liquidity like never before risk on assets will take off while metals become ignored. Bitcoin will absorb this unprecedented liquidity and rise more than any other asset because in reality bitcoin is the antithesis of global liquidity. Bitcoin is the truth machine which reflects rising global liquidity more than any other asset. Metals have had a great run sensing danger, but bitcoin will outperform all other assets when that danger and inevitable liquidity tsunami hit.
-
-14h ago
-
----
-
-**[It was never more accurate than this cycle](https://www.reddit.com/r/Bitcoin/comments/1qlkqgc/it_was_never_more_accurate_than_this_cycle/)**
-
-And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
-
-12h ago
-
----
-
-**[👀](https://www.reddit.com/r/Bitcoin/comments/1qlnnm7/_/)**
-
-9h ago
-
----
-
-**[When you realize someone bought the top after you 😌](https://www.reddit.com/r/Bitcoin/comments/1qlhb5q/when_you_realize_someone_bought_the_top_after_you/)**
-
-15h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
-
-It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
-
-CoinDesk • 7h ago
-
----
-
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin price slumps after investors fast cash out of ETFs to avoid risk](https://www.dlnews.com/articles/people-culture/bitcoin-etfs-lose-investment-pushing-price-of-coin-down/)**
-
-Bitcoin is down significantly over the past week.  Investors cashed out of US exchange-traded funds, pushing the asset’s price down. Geopolitical headwinds have rocked all markets in January.
-
-dlnews.com • 4h ago
-
----
 
 **[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)**
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin holders slip into losses for first time in years as market signals bull-to-bear transition: report](https://www.dlnews.com/articles/markets/bitcoin-could-be-heading-towards-a-bear-market/)**
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
 
-Bitcoin holders are in the red for the first time since October 2023, new data shows. A new report says the market is mirroring the previous bull-to-bear transition.  Market observers are torn on where the leading cryptocurrency will go in 2026.
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-dlnews.com • 1h ago
+ProPublica • 2d ago
+
+---
+
+**[Bitcoin holders slip into losses for first time in years as market signals bull-to-bear transition: report](https://finance.yahoo.com/news/bitcoin-holders-slip-losses-first-215108242.html)**
+
+Bitcoin holders are in the red for the first time since October 2023, new data shows. A new report says the market is mirroring the previous bull-to-bear transition. Market observers are torn on where the leading cryptocurrency will go in 2026.
+
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 12h ago
+Binance • 14h ago
+
+---
+
+**[Bitcoin ‘Will Take The Place Of Gold’—Fed Suddenly Braced For A $34 Trillion BlackRock Price Surprise](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+
+Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+
+Forbes • 1d ago
 
 ---
 
@@ -205,27 +199,33 @@ Fortune • 3d ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[Nasdaq Moves to Remove Position Limits on Bitcoin ETF Options](https://bitcoinmagazine.com/news/nasdaq-remove-position-limits-bitcoin-etf)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+Nasdaq is moving to scrap position limits on Bitcoin and Ether ETF options, aiming to treat crypto funds like other commodity-based ETFs.
 
-Forbes • 1d ago
-
----
-
-**[Cathie Wood: Bitcoin Is Set To Rally After 'Shallowest Four-Year Cycle Decline'](https://finance.yahoo.com/news/cathie-wood-bitcoin-set-rally-203111814.html)**
-
-ARK Invest CEO Cathie Wood predicts Bitcoin's (CRYPTO: BTC) current four-year cycle drawdown to be the shallowest in its history, setting the stage for another leg higher. Wood Expects Bitcoin To Be "Off Again" Speaking on CNBC on Wednesday, Wood...
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Ark Invest sees bitcoin and tokenization driving the next phase of digital asset growth](https://www.coindesk.com/markets/2026/01/22/ark-invest-sees-bitcoin-and-tokenization-driving-the-next-phase-of-digital-asset-growth)**
+**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
 
-The asset manager said bitcoin’s institutional adoption and asset tokenization are pushing digital assets toward scale, potentially reaching tens of trillions by decade’s end.
+The Block • 4h ago
 
-CoinDesk • 2d ago
+---
+
+**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
+
+Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
+
+wtop.com • 2d ago
+
+---
+
+**[Bitcoin’s $150,000 forecast slash proves the institutional "sure thing" is actually a high-stakes gamble for 2026](https://cryptoslate.com/bitcoins-150000-forecast-slash-proves-the-institutional-sure-thing-is-actually-a-high-stakes-gamble-for-2026/)**
+
+Yet, new data shows $50 billion in ETF inflows could fundamentally break the four-year cycle and trap retail bears.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 2d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 3d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -306,13 +306,13 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 20h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 23h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46706668)**
 
-⬆️ 67 • 💬 30 • 3d ago • [dashboard.infracost.io](https://dashboard.infracost.io/)
+⬆️ 67 • 💬 31 • 3d ago • [dashboard.infracost.io](https://dashboard.infracost.io/)
 
 ---
 
@@ -326,17 +326,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 65 • ⏱️ 47:21 • 9h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 3K • 💬 311 • ⏱️ 8:40 • 1d ago
+👁️ 43K • 👍 2K • 💬 65 • ⏱️ 47:21 • 11h ago
 
 ---
 
@@ -346,17 +336,17 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 10K • 👍 805 • 💬 104 • ⏱️ 12:07 • 8h ago
+👁️ 14K • 👍 919 • 💬 121 • ⏱️ 12:07 • 10h ago
 
 ---
 
-**[Bitcoin’s Next Move Is Closer Than You Think (Don’t Miss It)](https://www.youtube.com/watch?v=TKV0fqSbdZQ)**
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
 
-ETF outflows, geopolitical tension, and macro confusion are shaking the market—but is a breakout coming sooner than you think?
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 CryptosRus Extra
+📺 Altcoin Daily
 
-👁️ 5K • 👍 318 • 💬 259 • ⏱️ 9:52 • 23h ago
+👁️ 57K • 👍 3K • 💬 314 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -366,17 +356,17 @@ Binance founder Changpeng 'CZ' Zhao joins 'Squawk Box' to discuss his time in pr
 
 📺 CNBC Television
 
-👁️ 32K • 👍 465 • 💬 217 • ⏱️ 2:12 • 1d ago
+👁️ 34K • 👍 472 • 💬 219 • ⏱️ 2:12 • 1d ago
 
 ---
 
-**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+**[Why I Sold All My Bitcoin For Physical Silver (And You Should Too)](https://www.youtube.com/watch?v=ywd7Q4J0fGI)**
 
-Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+I finally did it—I sold every single Bitcoin I owned to buy physical Silver. In this video, I explain the "why" behind this massive ...
 
-📺 Simply Bitcoin
+📺 LeeAG Finance
 
-👁️ 20K • 👍 2K • 💬 173 • ⏱️ 15:16 • 1d ago
+👁️ 1K • 👍 91 • 💬 41 • ⏱️ 19:27 • 14h ago
 
 ---
 
@@ -386,7 +376,7 @@ Bitcoin has erased its 2026 gains while gold surges toward $5000, leaving invest
 
 📺 Swan Bitcoin
 
-👁️ 70K • 👍 3K • 💬 317 • ⏱️ 16:21 • 2d ago
+👁️ 73K • 👍 3K • 💬 329 • ⏱️ 16:21 • 2d ago
 
 ---
 
@@ -396,7 +386,7 @@ Japan's bond market is flashing warning signs as yields surge and debt reaches r
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 172 • 💬 3 • ⏱️ 2:23 • 9h ago
+👁️ 5K • 👍 212 • 💬 24 • ⏱️ 2:23 • 11h ago
 
 ---
 
@@ -406,17 +396,27 @@ Japan's bond market is flashing warning signs as yields surge and debt reaches r
 
 📺 Yahoo Finance
 
-👁️ 15K • 👍 339 • 💬 91 • ⏱️ 10:27 • 2d ago
+👁️ 16K • 👍 346 • 💬 94 • ⏱️ 10:27 • 2d ago
 
 ---
 
-**[This Candy Looks Like Bitcoin - Weirdly Delicious! 🤩 #funnyvideo #memes](https://www.youtube.com/watch?v=IhKP3rgd63g)**
+**[&quot;Bitcoin’s 2026 Rally Has One MAJOR Problem!&quot; | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo)**
 
-Discover the surprisingly tasty candy that's making waves with its unique design, resembling the popular cryptocurrency Bitcoin.
+Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung w/ CryptosRUs to dive deep into why the ...
 
-📺 Trulala CANDY Chef
+📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 66 • 💬 3 • ⏱️ 1:00 • 1h ago
+👁️ 10K • 👍 579 • 💬 207 • ⏱️ 41:20 • 11h ago
+
+---
+
+**[Senate’s NEW Crypto Market Bill - Here’s What It Means for Bitcoin!](https://www.youtube.com/watch?v=YELe79beQqY)**
+
+The Senate just released a major update to U.S. market structure law — and it quietly reshapes Bitcoin's regulatory future. In this ...
+
+📺 Swan Bitcoin
+
+👁️ 47K • 👍 2K • 💬 156 • ⏱️ 12:29 • 1d ago
 
 ---
 
