@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T19:18:33.794685+00:00'
+updated: '2026-01-25T19:39:03.645068+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 19:18 UTC  
+**Last Updated:** January 25, 2026 at 19:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Source: Blossom Social and X
 
-24m ago
+44m ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 46m ago
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 56m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -340,7 +340,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 37K • 👍 680 • 💬 307 • ⏱️ 6:22 • 17h ago
+👁️ 37K • 👍 680 • 💬 307 • ⏱️ 6:22 • 18h ago
 
 ---
 
@@ -380,7 +380,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 2h ago
+👁️ 2K • 👍 232 • 💬 7 • ⏱️ 5:05 • 3h ago
 
 ---
 

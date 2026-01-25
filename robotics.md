@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T19:18:33.803961+00:00'
+updated: '2026-01-25T19:39:03.654332+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 19:18 UTC  
+**Last Updated:** January 25, 2026 at 19:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-13h ago
+14h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hey everyone, I just released a new open-source simulation platform that might b
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone, I just released a new open-source simulation platform that might b
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
@@ -158,7 +158,7 @@ Business Insider • 3d ago
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 16h ago
 
 ---
 
@@ -284,7 +284,7 @@ War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots 
 
 📺 Bernie Sanders
 
-👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 2d ago
+👁️ 25K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
 
 ---
 
