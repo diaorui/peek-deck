@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T12:45:00.414891+00:00'
+updated: '2026-01-25T13:32:44.961246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 12:45 UTC  
+**Last Updated:** January 25, 2026 at 13:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-3h ago
+4h ago
 
 ---
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-8h ago
+9h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-3h ago
+4h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,25 +105,25 @@ Rank #1
 
 Where do people even find that kind of courage?
 
-20h ago
+21h ago
 
 ---
 
 **[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
 
-12h ago
+13h ago
 
 ---
 
 **[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
-1h ago
+2h ago
 
 ---
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -131,13 +131,13 @@ Where do people even find that kind of courage?
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-1h ago
+2h ago
 
 ---
 
 **[Coulda, shoulda, woulda](https://www.reddit.com/r/Bitcoin/comments/1qme9nr/coulda_shoulda_woulda/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -165,7 +165,7 @@ ProPublica • 2d ago
 
 Support is growing for a Bitcoin proposal that would temporarily limit the amount of data embedded in transactions, as a debate over network spam and node decentralization intensifies. Key Takeaways: BIP-110 has gained early traction, with 583 Bitcoin nodes signaling support for a temporary cap on transaction data. The proposal ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -173,13 +173,13 @@ Yahoo Finance • 3h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[This Bitcoin Whale Behavior Is Making Bears Nervous Again](https://www.binance.com/fr-AF/square/post/35553579692658)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bitcoin Magazine • 1d ago
 
 She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
 
-⬆️ 4 • 💬 1 • 5d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 4 • 💬 1 • 6d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
 
 ---
 
@@ -298,7 +298,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 22h ago
+👁️ 55K • 👍 3K • 💬 65 • ⏱️ 47:21 • 23h ago
 
 ---
 
@@ -308,7 +308,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 21h ago
+👁️ 18K • 👍 1K • 💬 153 • ⏱️ 12:07 • 22h ago
 
 ---
 
@@ -338,7 +338,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 14h ago
+👁️ 38K • 👍 2K • 💬 239 • ⏱️ 11:14 • 15h ago
 
 ---
 
@@ -348,7 +348,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 11h ago
+👁️ 23K • 👍 462 • 💬 215 • ⏱️ 6:22 • 12h ago
 
 ---
 
@@ -388,7 +388,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 $14000 Competition: https://c
 
 📺 Crypto Kid
 
-👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 12h ago
+👁️ 8K • 👍 692 • 💬 178 • ⏱️ 8:27 • 13h ago
 
 ---
 
