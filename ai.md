@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T16:27:51.601778+00:00'
+updated: '2026-01-25T16:50:51.710587+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 16:27 UTC  
+**Last Updated:** January 25, 2026 at 16:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -177,7 +177,7 @@ CTech • 23h ago
 
 **[AI helps explain why companies aren't hiring — or firing](https://www.axios.com/2026/01/25/ai-jobs-market-hiring-firing)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 3h ago
 
 In a breakthrough experiment, molecular biologists and tech entrepreneurs have teamed up to write the genetic code of a virus that destroys killer bacteria
 
-The Times • 16h ago
+The Times • 17h ago
 
 ---
 
@@ -265,7 +265,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 55 • 💬 23 • 8h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 55 • 💬 23 • 9h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -285,7 +285,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 11K • 👍 466 • 💬 115 • ⏱️ 12:43 • 10h ago
+👁️ 11K • 👍 466 • 💬 115 • ⏱️ 12:43 • 11h ago
 
 ---
 
@@ -305,7 +305,7 @@ Billionaire entrepreneur Elon Musk laid out a bold vision for humanity in a wide
 
 📺 DRM News
 
-👁️ 8K • 👍 110 • 💬 55 • ⏱️ 16:31 • 2d ago
+👁️ 8K • 👍 110 • 💬 55 • ⏱️ 16:31 • 3d ago
 
 ---
 
@@ -315,7 +315,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 251 • ⏱️ 41:25 • 12h ago
+👁️ 37K • 👍 2K • 💬 251 • ⏱️ 41:25 • 13h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 2h ago
+⭐ 9.7k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -702,7 +702,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.0k • 🔱 1.1k • 26m ago
+⭐ 6.0k • 🔱 1.1k • 49m ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.3k • 🔱 5.6k • 2h ago
+⭐ 5.3k • 🔱 5.6k • 3h ago
 
 ---
 

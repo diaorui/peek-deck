@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T16:27:51.610024+00:00'
+updated: '2026-01-25T16:50:51.717919+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 16:27 UTC  
+**Last Updated:** January 25, 2026 at 16:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -159,7 +159,7 @@ CoinDesk • 19h ago
 
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 4h ago
 
 Comethfounder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
 
-富途资讯 • 14m ago
+富途资讯 • 37m ago
 
 ---
 
@@ -320,7 +320,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 14h ago
+👁️ 34K • 👍 635 • 💬 300 • ⏱️ 6:22 • 15h ago
 
 ---
 

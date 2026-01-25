@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T16:27:51.619179+00:00'
+updated: '2026-01-25T16:50:51.725825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 16:27 UTC  
+**Last Updated:** January 25, 2026 at 16:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-5h ago
+6h ago
 
 ---
 
@@ -50,13 +50,13 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 **[I added visual Center of Mass editing and a new centralized control dashboard to LinkForge (v1.2.0)](https://www.reddit.com/r/robotics/comments/1qmkz65/i_added_visual_center_of_mass_editing_and_a_new/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Robot Report • 1d ago
 
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
-USA Today • 22h ago
+USA Today • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T16:27:51.615973+00:00'
+updated: '2026-01-25T16:50:51.723075+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 16:27 UTC  
+**Last Updated:** January 25, 2026 at 16:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -216,7 +216,7 @@ TradingView • 15h ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 362 • 💬 97 • ⏱️ 7:22 • 23h ago
+👁️ 7K • 👍 362 • 💬 97 • ⏱️ 7:22 • 1d ago
 
 ---
 
