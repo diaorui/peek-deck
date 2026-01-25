@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T21:20:08.894724+00:00'
+updated: '2026-01-25T21:41:46.127043+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 21:20 UTC  
+**Last Updated:** January 25, 2026 at 21:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,429.79
+### $86,541.62
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -3.3%  
-**7d:** -6.7%  
-**30d:** -1.7%  
-**90d:** -23.4%  
-**1y:** -15.8%  
+**7d:** -6.6%  
+**30d:** -1.6%  
+**90d:** -23.3%  
+**1y:** -15.7%  
 
 ---
 
@@ -77,21 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
+**[I’ve never been this skeptical, and it feels wild to say that.](https://www.reddit.com/r/Bitcoin/comments/1qmtspv/ive_never_been_this_skeptical_and_it_feels_wild/)**
 
-11h ago
+I’ve been in the btc space since 2015. I’ve been a hardcore believer and a net accumulator through every cycle since. I’ve held through 80% drawdowns without flinching because the long term thesis always felt inevitable. But recently, I find myself doubting the future of this space more than ever. It is wild to hear myself say that, considering how entrenched I am, but this time feels different. It feels like we finally "made it"; we got the ETFs, we hit the numbers; but the victory feels . . . meh. The bridge to mass just isn't there. Here is a breakdown of my skepticism: Usability is still a nightmare: self-custody is still terrifying for 99% of the population. The learning curve is too steep. The gap between L1/L2 is a UX mess; managing channels and inbound liquidity is complex. If the answer for the masses is "just use a custodial ETF," then we have just recreated the banking system we tried to escape. The "OGs" sold: The demographics of the market have severely changed. It feels like the early believers distributed their coins to institutions, shifting the ethos from "separation of money and state" to "integration with the state." Institutional adoption feels stagnant beyond just holding "paper Bitcoin" for speculation. Privacy is effectively non existent: With the rise of chain analysis and compliance tools, the ledger has become the ultimate surveillance tool. True privacy is being actively criminalized, and non-KYC coins are becoming nearly impossible to offload. The 100k psychological eiling: Reaching 100k felt like the end of a movie rather than the start of a sequel. With the law of large numbers kicking in, the asymmetry of the bet is gone. Toxic culture & politicization: The community used to be about builders. Now, it feels politicized and dominated by "number go up" influencers. Intellectual honesty is often attacked as FUD. Quantum: not just a theory. Are we going to come to a reasonable solution? I understand that sentiment is down, but this feels structural, not just cyclical. It feels like we were "correct" after all these years, but the ability to move "over the hump" into actual global currency usage/store of value just isn't going to happen. Do you feel the "magic" is gone, or is this just what maturity looks like? Am I overlooking a catalyst that brings the excitement back?
+
+1h ago
 
 ---
 
-**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
+**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-9h ago
+12h ago
+
+---
+
+**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
+
+53m ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
 12h ago
+
+---
+
+**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
+
+9h ago
 
 ---
 
@@ -111,17 +125,17 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 ---
 
-**[Bitcoin holding his ground pretty good but how long will this continue?](https://www.reddit.com/r/Bitcoin/comments/1qmggms/bitcoin_holding_his_ground_pretty_good_but_how/)**
-
-So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
+**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
 
 10h ago
 
 ---
 
-**[every day the same…](https://www.reddit.com/r/Bitcoin/comments/1qmgohb/every_day_the_same/)**
+**[Anybody else feeling this?](https://www.reddit.com/r/Bitcoin/comments/1qmt527/anybody_else_feeling_this/)**
 
-9h ago
+it could always be cope, but... I'm expecting Bitcoin to have a pretty big run this year. I also feel like a lot of other assets are going to have big pullbacks. the s&p, etc. Gold and silver will start to rotate into Bitcoin. Gold's market cap in early 2024 was 15 trillion and now it's more like 30 trillion. If 10% of that went into Bitcoin the price would double from here. just my thoughts, might be more carnage first but I'm not seeing Bitcoin fizzling out like some claim or like perhaps some big money are even trying to make it look like so they can accumulate more cheap before the next big leap.
+
+1h ago
 
 ---
 
@@ -131,41 +145,39 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 ---
 
-**[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
-
-17h ago
-
----
-
-**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[From Tesla shares to bitcoin: The new secret to getting a credit line without a bank](https://www.coindesk.com/business/2026/01/25/how-the-ultra-wealthy-are-using-bitcoin-to-fund-their-yacht-upgrades-and-cannes-trips)**
+**[Bitcoin price news: BTC under $88,000 ahead of Fed week and Big Tech earnings](https://www.coindesk.com/markets/2026/01/25/bitcoin-slips-below-usd88-000-ahead-of-fed-week-and-big-tech-earnings)**
 
-Cometh founder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
+Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 5h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
-
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-Yahoo Finance • 10h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+**[How Silver Cracked $100 And Added More Than Bitcoin's Entire Market Cap In 3 Months](https://finance.yahoo.com/news/silver-cracked-100-added-more-003147330.html)**
 
-Binance • 1d ago
+Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
+
+Yahoo Finance • 20h ago
+
+---
+
+**[3 Cryptocurrencies to Buy if You're Worried About the Dollar Losing Value](https://www.fool.com/investing/2026/01/25/3-cryptocurrencies-to-buy-if-youre-worried-about-t/)**
+
+The dollar's decline isn't a reason to panic if you're prepared.
+
+The Motley Fool • 36m ago
+
+---
+
+**[ASSTs preferred equity blueprint for MSTR’s convertible debt](https://www.coindesk.com/markets/2026/01/25/strive-s-preferred-equity-blueprint-for-strategy-s-usd8-billion-convertible-debt-overhang)**
+
+The bitcoin treasury firm is using perpetual preferreds to retire convertibles, offering a potential framework for managing long dated leverage.
+
+CoinDesk • 41m ago
 
 ---
 
@@ -174,22 +186,6 @@ Binance • 1d ago
 The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
 
 Forbes • 2d ago
-
----
-
-**[Robert Kiyosaki Not Worried by Bitcoin and Ethereum Price Fluctuations](https://finance.yahoo.com/news/robert-kiyosaki-not-worried-bitcoin-183151754.html)**
-
-Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
-
-Yahoo Finance • 2h ago
-
----
-
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
-
-Some fear massive consequences for financial markets.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -209,9 +205,11 @@ Fortune • 3d ago
 
 ---
 
-**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
 
-The Block • 1d ago
+Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -220,6 +218,12 @@ The Block • 1d ago
 Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+
+The Block • 1d ago
 
 ---
 
@@ -320,7 +324,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 321 • ⏱️ 8:40 • 1d ago
+👁️ 64K • 👍 3K • 💬 321 • ⏱️ 8:40 • 2d ago
 
 ---
 
@@ -340,7 +344,7 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 19h ago
+👁️ 40K • 👍 714 • 💬 333 • ⏱️ 6:22 • 20h ago
 
 ---
 
@@ -350,7 +354,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 1h ago
+👁️ 3K • 👍 112 • 💬 99 • ⏱️ 4:20 • 2h ago
 
 ---
 

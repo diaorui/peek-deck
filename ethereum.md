@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T21:20:08.900753+00:00'
+updated: '2026-01-25T21:41:46.133096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 21:20 UTC  
+**Last Updated:** January 25, 2026 at 21:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,793.04
+### $2,819.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.5%  
-**7d:** -12.4%  
-**30d:** -5.3%  
-**90d:** -29.8%  
-**1y:** -13.5%  
+**24h:** -5.2%  
+**7d:** -11.9%  
+**30d:** -4.8%  
+**90d:** -29.5%  
+**1y:** -13.1%  
 
 ---
 
@@ -88,7 +88,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-11h ago
+12h ago
 
 ---
 
@@ -152,6 +152,14 @@ We’re BTCS Inc., the first publicly traded blockchain company since 2014. Over
 
 ## Google News: "ethereum"
 
+**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://decrypt.co/355733/how-sharplink-most-focused-disciplined-ethereum-treasury-2026)**
+
+Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
+
+Decrypt • 4h ago
+
+---
+
 **[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
@@ -160,27 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation Forms Post-Quantum Team as Security Concerns Mount](https://decrypt.co/355798/ethereum-foundation-forms-post-quantum-team-security-concerns-mount)**
-
-Ethereum researcher Justin Drake said the ecosystem is moving from research to execution as the threat from quantum computing draws closer.
-
-Decrypt • 1d ago
-
----
-
 **[Robert Kiyosaki Not Worried by Bitcoin and Ethereum Price Fluctuations](https://finance.yahoo.com/news/robert-kiyosaki-not-worried-bitcoin-183151754.html)**
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://finance.yahoo.com/news/sharplink-aims-most-focused-disciplined-170103918.html)**
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
-
-Yahoo Finance • 4h ago
+The Block • 22h ago
 
 ---
 
@@ -188,19 +186,13 @@ Yahoo Finance • 4h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
 
 CCN.com • 1d ago
-
----
-
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
-
-The Block • 22h ago
 
 ---
 
@@ -212,19 +204,27 @@ TradingView • 11h ago
 
 ---
 
-**[Bitcoin Sticks To $90,000 As Ethereum, XRP, Dogecoin Hug Key Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50110481/bitcoin-sticks-to-90000-as-ethereum-xrp-dogecoin-hug-key-levels)**
-
-Bitcoin (CRYPTO: BTC) continues to trade around $90,000 as cryptocurrencies remain at key levels.
-
-Benzinga • 2d ago
-
----
-
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
 
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+
+CryptoSlate • 3d ago
+
+---
+
+**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+
+A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+
+PYMNTS.com • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 6h ago
+👁️ 2K • 👍 101 • 💬 7 • ⏱️ 3:57 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Silver is the energy of the industrial world. Ethereum is the energy of the fina
 
 📺 Boring Metals
 
-👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 7h ago
+👁️ 288 • 👍 15 • 💬 6 • ⏱️ 21:54 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-25T21:20:08.886378+00:00'
+updated: '2026-01-25T21:41:46.118655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 25, 2026 at 21:20 UTC  
+**Last Updated:** January 25, 2026 at 21:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 5h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 6h ago
+
+---
+
+**[Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal](https://www.reddit.com/r/artificial/comments/1qmv61y/latest_chatgpt_model_uses_elon_musks_grokipedia/)**
+
+Guardian found OpenAI’s platform cited Grokipedia on topics including Iran and Holocaust deniers
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) • 44m ago
 
 ---
 
@@ -57,7 +65,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis felt important enough to verify. So I dug through SEC filings, earnings reports, and technical benchmarks. What I found: NVIDIA isn't dying. Its $35.1B quarterly revenue is up 94% Yes, market share dropped (90% → 70-80%), but the pie is growing faster Groq and Cerebras have impressive chips, but asterisks everywhere The real moat: 4 million devs can't just abandon 20 years of CUDA tooling Plot twist: the biggest threat is Google/Amazon/Microsoft, not startups Deeper piece with Cerebras and Groq factored in at https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4
 
-🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 20h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/nvidias-real-moat-isn-t-hardware-it-s-4-million-developers-648d6aeb1226?sk=82ee7baf9290da1eb93efd9d34c4c7b4) • 21h ago
 
 ---
 
@@ -81,7 +89,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 See here. This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive. Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,14 +117,6 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
-**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
-
-Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,9 +129,21 @@ The Guardian • 15h ago
 
 ---
 
-**[Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama](https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html)**
+**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-The New York Times • 11h ago
+Bloomberg • 8h ago
+
+---
+
+**[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[Corporate Interest In AI Shifts From Investment to Payoff](https://www.bloomberg.com/news/newsletters/2026-01-25/corporate-interest-in-ai-shifts-from-investment-to-payoff)**
+
+Bloomberg • 41m ago
 
 ---
 
@@ -139,15 +151,7 @@ The New York Times • 11h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 2h ago
-
----
-
-**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
-
-Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
-
-The Washington Post • 1h ago
+The Economist • 3h ago
 
 ---
 
@@ -159,27 +163,11 @@ BBC • 1d ago
 
 ---
 
-**[Behind the Sky-High Valuation of China’s AI IPOs](https://www.theinformation.com/articles/behind-sky-high-valuation-chinas-ai-ipos)**
+**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
 
-China is letting AI and semiconductor startups go public at a furious pace. Since December, two developers of large language models and four designers of graphics processing units have listed on stock exchanges in Hong Kong and Shanghai, raising a total of over $4 billion. At least two more are ...
+Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
 
-The Information • 5h ago
-
----
-
-**[‘We’re Not That Far Behind.’ Baidu’s Robin Li on China’s Push to Diffuse AI Throughout Society](https://time.com/7357630/robin-li-baidu-interview/)**
-
-Robin Li spoke to TIME about the AI ambitions of Baidu and China.
-
-Time Magazine • 9h ago
-
----
-
-**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
-
-Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
-
-CNBC • 8h ago
+The Washington Post • 1h ago
 
 ---
 
@@ -188,6 +176,14 @@ CNBC • 8h ago
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
 Financial Times • 16h ago
+
+---
+
+**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
+
+Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
+
+CNBC • 8h ago
 
 ---
 
@@ -205,7 +201,7 @@ Bloomberg • 7h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 552 • 💬 538 • 21h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 562 • 💬 554 • 21h ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -213,7 +209,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 The one where I get very annoyed with my email provider
 
-⬆️ 548 • 💬 424 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 548 • 💬 423 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -221,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 499 • 💬 272 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 499 • 💬 271 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -251,7 +247,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 83 • 💬 68 • 13h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 83 • 💬 69 • 13h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -265,7 +261,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 62 • 💬 32 • 13h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 63 • 💬 32 • 14h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -355,7 +351,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 17h ago
+👁️ 44K • 👍 2K • 💬 259 • ⏱️ 41:25 • 18h ago
 
 ---
 
@@ -662,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.4k • 🔱 567 • 54m ago
+⭐ 10.4k • 🔱 567 • 1h ago
 
 ---
 
@@ -682,7 +678,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 469 • 1h ago
+⭐ 9.1k • 🔱 469 • 2h ago
 
 ---
 
@@ -712,7 +708,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.6k • 7h ago
+⭐ 5.4k • 🔱 5.6k • 8h ago
 
 ---
 
@@ -740,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 2.9k • 🔱 638 • 1h ago
+⭐ 2.9k • 🔱 638 • 2h ago
 
 ---
 
