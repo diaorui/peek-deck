@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T02:00:37.212660+00:00'
+updated: '2026-01-25T04:00:02.139599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 02:00 UTC  
+**Last Updated:** January 25, 2026 at 04:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,962.95
+### $2,939.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -7.3%  
-**30d:** +0.2%  
-**90d:** -25.8%  
-**1y:** -8.5%  
+**24h:** -0.6%  
+**7d:** -7.7%  
+**30d:** -0.2%  
+**90d:** -26.1%  
+**1y:** -8.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 21h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-348/) • 23h ago
 
 ---
 
@@ -152,27 +152,19 @@ I keep running into the same problem when trying to move ETH across chains. I wa
 
 ## Google News: "ethereum"
 
+**[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
+
+ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
+
+CoinDesk • 10h ago
+
+---
+
 **[BlackRock: Ethereum Is Anchoring Wall Street's Tokenization Race](https://decrypt.co/355341/blackrock-ethereum-anchoring-wall-street-tokenization-race)**
 
 BlackRock recognized Ethereum’s dominance in tokenization, and its ability to capitalize on the trend, in its 2026 thematic outlook.
 
 Decrypt • 3d ago
-
----
-
-**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
-
-BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
-
-CryptoSlate • 2d ago
-
----
-
-**[ETHA vs. BITQ: How Does This Ethereum Compare to a Fund Full of Crypto Companies](https://www.fool.com/coverage/etfs/2026/01/24/etha-vs-bitq-how-does-this-ethereum-compare-to-a-fund-full-of-crypto-companies/)**
-
-These two innovative ETFs offer exposure to the crypto market, but one in particular provides more direct exposure to one of the world's biggest digital tokens.
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -184,19 +176,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
-
-ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
-
-CoinDesk • 8h ago
-
----
-
 **[Ethereum upgrade sparks activity spike, but JPMorgan doubts it will last](https://www.coindesk.com/tech/2026/01/22/ethereum-upgrade-sparks-activity-spike-but-jpmorgan-doubts-it-will-last)**
 
 The Fusaka upgrade raised usage, but pressure from layer-2 networks and rival blockchains continues to cloud Ethereum's long-term growth outlook.
 
 CoinDesk • 2d ago
+
+---
+
+**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+
+CCN.com • 17h ago
 
 ---
 
@@ -206,17 +196,27 @@ The Block • 2d ago
 
 ---
 
-**[Can Ethereum Price Exceed $12,000? JPMorgan Worries Bulls Over Claims Fusaka Boost Won’t Last](https://www.ccn.com/news/crypto/can-ethereum-price-exceed-12000-jpmorgan-worries-bulls-over-claims-fusaka-boost-wont-last/)**
+**[Ethereum Launches $2M Quantum Defense Team as Threat Timeline Accelerates](https://www.tradingview.com/news/cryptonews:583e7a4c2094b:0-ethereum-launches-2m-quantum-defense-team-as-threat-timeline-accelerates/)**
 
-CCN.com • 15h ago
+The Ethereum Foundation has officially elevated quantum resistance to a top strategic priority with the formation of a dedicated Post Quantum team backed by $2 million in funding. The new initiative comes as blockchain networks face mounting pressure to defend against quantum computing threats that…
+
+TradingView — Track All Markets • 13h ago
 
 ---
 
-**[Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard](https://www.tradingview.com/news/newsbtc:154f2074b094b:0-here-s-why-the-bitcoin-ethereum-and-solana-prices-are-still-crashing-hard/)**
+**[ETHA vs. BITQ: How Does This Ethereum Compare to a Fund Full of Crypto Companies](https://www.fool.com/coverage/etfs/2026/01/24/etha-vs-bitq-how-does-this-ethereum-compare-to-a-fund-full-of-crypto-companies/)**
 
-Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still CrashingIn…
+These two innovative ETFs offer exposure to the crypto market, but one in particular provides more direct exposure to one of the world's biggest digital tokens.
 
-TradingView — Track All Markets • 1d ago
+The Motley Fool • 6h ago
+
+---
+
+**[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat](https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/)**
+
+BlackRock’s tokenization slide puts 65%+ of tokenized assets on Ethereum, but newer RWA data shows share can drift.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 297 • 💬 78 • ⏱️ 7:22 • 9h ago
+👁️ 5K • 👍 297 • 💬 78 • ⏱️ 7:22 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 7K • 👍 512 • 💬 67 • ⏱️ 29:47 • 5h ago
+👁️ 7K • 👍 512 • 💬 67 • ⏱️ 29:47 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 146 • ⏱️ 11:14 • 3h ago
+👁️ 16K • 👍 1K • 💬 146 • ⏱️ 11:14 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 9 • ⏱️ 4:34 • 8h ago
+👁️ 1K • 👍 82 • 💬 9 • ⏱️ 4:34 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Crossroads
 
-👁️ 2K • 👍 153 • 💬 41 • ⏱️ 16:54 • 6h ago
+👁️ 2K • 👍 153 • 💬 41 • ⏱️ 16:54 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ CRYPTO MASSACRE! WHALE DUMP ALTCOINS FOR BITCOIN AND ETHEREUM + CRYPTO SENATE BI
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 1K • 💬 20 • ⏱️ 12:01 • 7h ago
+👁️ 11K • 👍 1K • 💬 20 • ⏱️ 12:01 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 301 • 👍 17 • 💬 3 • ⏱️ 5:25 • 15h ago
+👁️ 301 • 👍 17 • 💬 3 • ⏱️ 5:25 • 17h ago
 
 ---
 

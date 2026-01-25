@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T02:00:37.206612+00:00'
+updated: '2026-01-25T04:00:02.133540+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 02:00 UTC  
+**Last Updated:** January 25, 2026 at 04:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,145.95
+### $88,838.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -3.7%  
-**30d:** +1.4%  
-**90d:** -21.0%  
-**1y:** -13.1%  
+**24h:** -0.9%  
+**7d:** -4.0%  
+**30d:** +1.2%  
+**90d:** -21.2%  
+**1y:** -13.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, around 709,715 to be exact. We also have companies like BlackRock and Vanguard buying up the supply for their ETF offerings. In addition to this, governments and nation states are now starting to load up as well. Texas for instance was the first U.S state to start a BTC reserve with a purchase of $10,000,000, and now more states are looking to get in on it as well. Kazakhstan is looking to start a fund worth 100m-1bn USD, there are many other recent stories you can easily find. Prior to the 2024 halving, the cycles and market structure were entirely based on retail, with it being seen more as a swing trade for quicker profits and less as a long-term hold. However, at this point it's clear that BTC is seen as an asset that you buy, hold and never sell. To put this into perspective, Microstrategy has prevented just over 700k people from EVER being whole coiners, 7 million from ever owning .1 and 70 million from owning .01. This particular company will continue to accumulate BTC, taking even more seats for others. This also isn't even factoring in these other big players that are starting to get in on the action. As I'm writing this, the total supply of BTC that has already been mined is at 19.98 million, so 1.02 million remaining. Currently 450 BTC are mined per day, and in just over 2 years from now after the 2028 halving this will drop to 225 per day, where there will be roughly 600-650k BTC left to be mined. By the 2032 halving, there will be approximately 300-350k remaining for miners, etc. It costs close to $10,000 to acquire .1 BTC, which for most working Americans is very difficult to achieve. What's insane to think about was that not too long ago this would have only cost 2-3k, which was/is very doable for the average American. Given the supply and ever increasing demand, we are at a point where in the not too distant future it will be incredibly difficult or even impossible for regular people to buy .1. By the time the average worker who invests into his or her 401k or other tradfi tools understands and wants BTC, getting even .01 may be a difficult task.
 
-7h ago
+9h ago
 
 ---
 
@@ -89,7 +89,13 @@ As I'm writing this, Mircrostrategy now holds a bit more than 700,000 BTC, aroun
 
 Where do people even find that kind of courage?
 
-9h ago
+11h ago
+
+---
+
+**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
+
+4h ago
 
 ---
 
@@ -97,13 +103,7 @@ Where do people even find that kind of courage?
 
 Every year, I took a holiday. I went to Florence, there's this cafe, on the banks of the Arno. Every fine evening, I'd sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I'd see you there, with a wife and maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we'd both know that you'd made it, that you were happy! 🥲
 
-17h ago
-
----
-
-**[Recorded in 2011, understood in 2026](https://www.reddit.com/r/Bitcoin/comments/1qm31ki/recorded_in_2011_understood_in_2026/)**
-
-2h ago
+19h ago
 
 ---
 
@@ -111,7 +111,19 @@ Every year, I took a holiday. I went to Florence, there's this cafe, on the bank
 
 Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
-3h ago
+5h ago
+
+---
+
+**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
+
+8h ago
+
+---
+
+**[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
+
+59m ago
 
 ---
 
@@ -119,33 +131,19 @@ Meyer Shank running the bitcoin car at Daytona 24 hour race.
 
 📅 On January 24, 2010 A Bitcointalk forum user named Sabunir attempted to sell an image for 500 Bitcoin, which at the time was worth around $1 😅 Today? 500 BTC = a legendary fortune 💰🚀 What once seemed worthless has become one of the most valuable assets in the world. Markets always reward those who understand the future early and have the conviction to believe in it.
 
-9h ago
+11h ago
 
 ---
 
-**[I didn’t choose the easiest way. I chose mine.](https://www.reddit.com/r/Bitcoin/comments/1qlvuiy/i_didnt_choose_the_easiest_way_i_chose_mine/)**
+**[Hahahahaha](https://www.reddit.com/r/Bitcoin/comments/1qm34rq/hahahahaha/)**
 
-6h ago
+4h ago
 
 ---
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qlgtq8/bitcoin/)**
 
-18h ago
-
----
-
-**[It was never more accurate than this cycle](https://www.reddit.com/r/Bitcoin/comments/1qlkqgc/it_was_never_more_accurate_than_this_cycle/)**
-
-And, as you can see, we are right now enjoying about 25 % discount price. Thank you Bitcoin CEO!
-
-14h ago
-
----
-
-**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1ql2rnu/12_years_ago_this_guy_bought_50000_worth_of/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -157,7 +155,7 @@ And, as you can see, we are right now enjoying about 25 % discount price. Thank 
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,17 +167,25 @@ ProPublica • 2d ago
 
 ---
 
-**[Bitcoin holders slip into losses for first time in years as market signals bull-to-bear transition: report](https://finance.yahoo.com/news/bitcoin-holders-slip-losses-first-215108242.html)**
+**[Bitcoin underperformed gold, but the golden age of the crypto economy has just begun.](https://news.futunn.com/en/post/67862517/bitcoin-underperformed-gold-but-the-golden-age-of-the-crypto)**
 
-Bitcoin holders are in the red for the first time since October 2023, new data shows. A new report says the market is mirroring the previous bull-to-bear transition. Market observers are torn on where the leading cryptocurrency will go in 2026.
+Author:Ryan Watkins Compiler: Deep Tide TechFlow Introduction: In 2026, the crypto economy is at its most crucial transition point in eight years. This article delves into how the market has 'soft-landed' from the excessive expectations of 2021 and gradually built a valuation framework based on cash flow and real use cases. The author explains the past four years of growing pains through the 'Red Queen Effect' and points out that with the easing of U.S. regulations and the explosion of enterprise-level applications, crypto assets are shifting from cyclical speculation to long-term trend growth. Facing a global trust crisis and currency devaluation, this is not only an industry
 
-Yahoo Finance • 4h ago
+富途资讯 • 1h ago
+
+---
+
+**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
+
+Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 14h ago
+Binance • 16h ago
 
 ---
 
@@ -188,6 +194,12 @@ Binance • 14h ago
 Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
 
 Forbes • 1d ago
+
+---
+
+**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
+
+The Block • 1d ago
 
 ---
 
@@ -207,23 +219,9 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
 
-The Block • 4h ago
-
----
-
-**[A ‘Bitcoin bar’ opened in DC — but what does that mean?](https://wtop.com/food-restaurant/2026/01/a-bitcoin-bar-opened-in-dc-but-what-does-that-mean/)**
-
-Now open in D.C.’s Penn Quarter neighborhood is what some have described as a “Bitcoin bar,” but for PubKey co-founder and CEO Thomas Pacchia, he said it’s much more than that.
-
-wtop.com • 2d ago
-
----
-
-**[Bitcoin’s $150,000 forecast slash proves the institutional "sure thing" is actually a high-stakes gamble for 2026](https://cryptoslate.com/bitcoins-150000-forecast-slash-proves-the-institutional-sure-thing-is-actually-a-high-stakes-gamble-for-2026/)**
-
-Yet, new data shows $50 billion in ETF inflows could fundamentally break the four-year cycle and trap retail bears.
+Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
 CryptoSlate • 1d ago
 
@@ -306,7 +304,7 @@ This is the story of how I ended up building a private, family-first photo shari
 
 When our first child was born, we used a free app - one that had even been celebrated by TechCrunch - to announce the news to our family. Unfortunately,
 
-⬆️ 2 • 💬 0 • 23h ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
+⬆️ 2 • 💬 0 • 1d ago • [Eric Caron](https://ericcaron.com/securing-memories-upgrading-privacy/)
 
 ---
 
@@ -326,7 +324,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 65 • ⏱️ 47:21 • 11h ago
+👁️ 43K • 👍 2K • 💬 65 • ⏱️ 47:21 • 13h ago
 
 ---
 
@@ -336,7 +334,7 @@ The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 14K • 👍 919 • 💬 121 • ⏱️ 12:07 • 10h ago
+👁️ 14K • 👍 919 • 💬 121 • ⏱️ 12:07 • 12h ago
 
 ---
 
@@ -366,7 +364,7 @@ I finally did it—I sold every single Bitcoin I owned to buy physical Silver. I
 
 📺 LeeAG Finance
 
-👁️ 1K • 👍 91 • 💬 41 • ⏱️ 19:27 • 14h ago
+👁️ 1K • 👍 91 • 💬 41 • ⏱️ 19:27 • 16h ago
 
 ---
 
@@ -386,7 +384,7 @@ Japan's bond market is flashing warning signs as yields surge and debt reaches r
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 212 • 💬 24 • ⏱️ 2:23 • 11h ago
+👁️ 5K • 👍 212 • 💬 24 • ⏱️ 2:23 • 13h ago
 
 ---
 
@@ -406,7 +404,7 @@ Bitcoin #Crypto #Finance In this eye-opening episode, we sit down w/ George Tung
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 579 • 💬 207 • ⏱️ 41:20 • 11h ago
+👁️ 10K • 👍 579 • 💬 207 • ⏱️ 41:20 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-25T02:00:37.215946+00:00'
+updated: '2026-01-25T04:00:02.142854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 25, 2026 at 02:00 UTC  
+**Last Updated:** January 25, 2026 at 04:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
+
+2h ago
+
+---
+
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
-13h ago
+15h ago
 
 ---
 
@@ -50,13 +56,25 @@ Typical cases: - Docking of smaller unmanned boats to larger ships - rescue oper
 
 Hey, I've been putting together a curated collection of open source robotics projects, research, and learning resources: https://robotics.growbotics.ai Hardware, software, foundation models, research papers, community content, and suppliers. Some hardware projects also have interactive URDF 3D viewers in the browser. I'm sure I'm missing a lot of good stuff, so suggestions are very welcome. There's a Suggest button on the site if you know a project or resource that should be there.
 
-5h ago
+7h ago
 
 ---
 
 **[Walking robot](https://www.reddit.com/r/robotics/comments/1qlg5di/walking_robot/)**
 
-19h ago
+20h ago
+
+---
+
+**[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
+
+39m ago
+
+---
+
+**[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
+
+2h ago
 
 ---
 
@@ -64,19 +82,7 @@ Hey, I've been putting together a curated collection of open source robotics pro
 
 A while a go I uploaded a post about my diy cycloidal drive I built with the help of JLCCNC. Some of you asked for building instructions. The full building instructions with the bill of materials is now online on Instructables: https://www.instructables.com/Building-a-Custom-Cycloidal-Drive-for-Robotic-Arm/ The gearbox has very little to no backlash and can tolerate very high bearing loads, while beeing realatively inexpensive to build.
 
-17h ago
-
----
-
-**[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
-
-17m ago
-
----
-
-**[update on my robot arm for uni apps! (based on sunday memo's arm)](https://www.reddit.com/r/robotics/comments/1qm4tga/update_on_my_robot_arm_for_uni_apps_based_on/)**
-
-53m ago
+19h ago
 
 ---
 
@@ -90,15 +96,7 @@ A while a go I uploaded a post about my diy cycloidal drive I built with the hel
 
 Hey guys, I recently graduated in Astronautical Engineering and wanted to share my capstone project. As part of my final-year project, I built a visual localization pipeline for drones using only open-source datasets and pretrained models. The idea is to explore whether satellite imagery can serve as a practical GNSS fallback, using just a downward-facing camera and publicly available satellite maps. The system was tested on the UAV-VisLoc dataset and is fully reproducible—no proprietary data, no custom foundation model training. Camera tilt is handled using attitude data, and the search space is constrained using motion to keep things efficient. Many approaches exist for GNSS-denied navigation (VIO, VPR, sensor fusion, etc.). This work focuses on satellite-based image matching and is meant to be complementary to those methods. Code, setup, and results are all publicly available. Feedback is welcome, and a ⭐ helps a lot. https://github.com/hamitbugrabayram/SatelliteLocalization
 
-13h ago
-
----
-
-**[Autonomous Drone Landing Pad](https://www.reddit.com/r/robotics/comments/1qlho6t/autonomous_drone_landing_pad/)**
-
-https://marvelmind.com/3d_vertical_map/
-
-17h ago
+15h ago
 
 ---
 
@@ -106,19 +104,19 @@ https://marvelmind.com/3d_vertical_map/
 
 ## Google News: "robotics"
 
-**[Introducing Rho-alpha, the new robotics model from Microsoft](https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/)**
-
-Rho-alpha, which translates natural language commands into control signals for robotic systems doing bimanual manipulation tasks, aims to make physical systems more adaptable by using physical sensing modalities like touch and continuous learning from human feedback.
-
-Microsoft • 6h ago
-
----
-
 **[From hardware to intelligence: the operating system powering next-generation robotics](https://www.ynetnews.com/tech-and-digital/article/bjkpkuf8we)**
 
 After selling their previous company to Intel, founders Aviv and Matteo Shapira joined forces with Rubi Liani, and Adir Tubi, to build XTEND around a simple idea: software, not hardware, defines modern robotic operations; with a human in the loop approach and a collaboration with Lockheed Martin, XTEND is emerging as a core enabler of complex missions within the US defense ecosystem
 
-ynetnews.com • 10h ago
+ynetnews.com • 12h ago
+
+---
+
+**[Humanoid robots build a new excavator every 6 minutes, RIGHT NOW](https://electrek.co/2026/01/21/humanoid-robots-build-a-new-excavator-every-6-minutes-right-now/)**
+
+Zoomlion is already using robots to power its rapid growth, and they've been churning out a new excavator every 6 minutes for years!
+
+Electrek • 3d ago
 
 ---
 
@@ -126,15 +124,15 @@ ynetnews.com • 10h ago
 
 The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
 
-fox11online.com • 22h ago
+fox11online.com • 1d ago
 
 ---
 
-**[Nvidia's Jensen Huang says AI robotics is a 'once-in-a-generation' opportunity for Europe](https://www.cnbc.com/2026/01/21/nvidia-jensen-huang-robotics-opportunity-europe-.html)**
+**[We spoke to 3 robotics experts at Davos. They said this was the next big challenge for humanoid robots.](https://www.businessinsider.com/humanoid-robots-challenge-experts-davos-gecko-robotics-mech-mind-2026-1)**
 
-Europe's industrial base sets it up well to lead in the physical AI space, Huang told WEF
+Three robotics experts said humanoid robots need to move beyond flashy demos to performing tasks that are actually useful in the real world at scale.
 
-CNBC • 3d ago
+Business Insider • 2d ago
 
 ---
 
@@ -146,19 +144,27 @@ AgFunderNews • 2d ago
 
 ---
 
-**[Inside the OpenAI lab where workers train robotic arms to fold laundry and toast bread](https://www.businessinsider.com/open-ai-robotics-lab-humanoid-robots-2026-1)**
+**[New magnetic polymer design boosts force and stretch in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-OpenAI has rapidly scaled its robotics lab over the past year and plans to open up a second lab, insiders say.
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-Business Insider • 2d ago
+Interesting Engineering • 24m ago
 
 ---
 
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-USA Today • 8h ago
+wbay.com • 1d ago
+
+---
+
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+
+Live Science • 17h ago
 
 ---
 
@@ -175,14 +181,6 @@ Yahoo Finance • 3d ago
 Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
 The Robot Report • 1d ago
-
----
-
-**[Elon Musk says humanoid robots will outnumber humans](https://finance.yahoo.com/video/elon-musk-says-humanoid-robots-173000912.html)**
-
-Tesla (TSLA) CEO and SpaceX (SPAX.PVT) founder Elon Musk said at this year's World Economic Form (WEF) that humanoid robots will eventually outnumber humans. Robinhood chief investment officer Stephanie Guild, Yahoo Finance Senior Reporter Ines Ferré, and Yahoo Finance Senior Reporter Brooke DiPalma joins Opening Bid host Brian Sozzi to discuss Musk's bullish claims on robotics. Check out Musk's comments on humanoid robots and Tesla's robotaxi, and watch his full WEF interview. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 4K • 👍 84 • 💬 58 • ⏱️ 6:39 • 21h ago
+👁️ 4K • 👍 84 • 💬 58 • ⏱️ 6:39 • 22h ago
 
 ---
 
@@ -264,7 +262,7 @@ War Robots Test Server Gameplay: NEW flying robot ANAKSOR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 14K • 👍 726 • 💬 195 • ⏱️ 15:13 • 15h ago
+👁️ 14K • 👍 726 • 💬 195 • ⏱️ 15:13 • 17h ago
 
 ---
 
@@ -274,7 +272,7 @@ This video is supported by@StudicaRobotics. Studica structure is composed of ano
 
 📺 FUN Robotics Network
 
-👁️ 512 • 👍 22 • 💬 1 • ⏱️ 1:27 • 4h ago
+👁️ 512 • 👍 22 • 💬 1 • ⏱️ 1:27 • 6h ago
 
 ---
 
@@ -284,7 +282,7 @@ Welcome to the future of football! ⚽   In this video, an advanced AI Robot Goa
 
 📺 Aww Ranking
 
-👁️ 15K • 👍 78 • ⏱️ 0:19 • 17h ago
+👁️ 15K • 👍 78 • ⏱️ 0:19 • 19h ago
 
 ---
 
