@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T20:46:35.079947+00:00'
+updated: '2026-01-25T21:20:08.894724+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 20:46 UTC  
+**Last Updated:** January 25, 2026 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
 
-8h ago
+9h ago
 
 ---
 
 **[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Source: Blossom Social and X
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Source: Blossom Social and X
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 So as we all know BTC has been around 90k for a long time but how long do we think this will continue? I personally never thought it would hold up this long my calculations where that it would be around 75k by now… I’m pretty off xD
 
-9h ago
+10h ago
 
 ---
 
@@ -133,13 +133,13 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 **[When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.](https://www.reddit.com/r/Bitcoin/comments/1qm8q9f/when_the_whole_world_is_running_towards_a_cliff/)**
 
-16h ago
+17h ago
 
 ---
 
 **[What does this mean?](https://www.reddit.com/r/Bitcoin/comments/1qm7cur/what_does_this_mean/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ So as we all know BTC has been around 90k for a long time but how long do we thi
 
 Cometh founder Jerome de Tychey is applying DeFi lending and borrowing on platforms like Aave, Morpho, and Uniswap to structures that help the ultra-wealthy secure loans against their massive crypto fortunes.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 4h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ Fortune • 3d ago
 
 **[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 9h ago
+👁️ 13K • 👍 813 • 💬 142 • ⏱️ 13:23 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ How to Turn 0.21 BTC Into an Infinite Fiat Money Machine – The “Buy‑Borrow
 
 📺 Brad Long
 
-👁️ 34K • 👍 2K • 💬 380 • ⏱️ 14:05 • 1d ago
+👁️ 34K • 👍 2K • 💬 380 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -360,7 +360,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 6h ago
+👁️ 663 • 👍 69 • 💬 8 • ⏱️ 33:05 • 7h ago
 
 ---
 
@@ -370,7 +370,7 @@ Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin i
 
 📺 Crypto Love
 
-👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 3h ago
+👁️ 2K • 👍 277 • 💬 87 • ⏱️ 8:25 • 4h ago
 
 ---
 
@@ -380,7 +380,7 @@ Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 4h ago
+👁️ 9K • 👍 618 • 💬 116 • ⏱️ 12:50 • 5h ago
 
 ---
 

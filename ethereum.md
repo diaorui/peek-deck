@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-25T20:46:35.086069+00:00'
+updated: '2026-01-25T21:20:08.900753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 20:46 UTC  
+**Last Updated:** January 25, 2026 at 21:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-7h ago
+8h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ CCN.com • 1d ago
 
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 21h ago
 
 For most of the week, the Ethereum price has remained in a range-bound spell, putting in no significant movement outside of the $3,000 and $2,880 price boundaries. Amid rising speculations, an on-chain analysis has recently been put out, which provides an answer to the question. Open Interest Acros…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 270 • 3h ago
+👁️ 2K • 👍 270 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 3h ago
+👁️ 2K • 👍 186 • 💬 9 • ⏱️ 18:21 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 29:47 • 23h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 29:47 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) �
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 22h ago
+👁️ 46K • 👍 2K • 💬 256 • ⏱️ 11:14 • 23h ago
 
 ---
 
