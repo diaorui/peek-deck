@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T10:28:12.434335+00:00'
+updated: '2026-01-26T10:54:48.288104+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 10:28 UTC  
+**Last Updated:** January 26, 2026 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,15 +44,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-23h ago
-
----
-
-**[Balance test for the bipedal robot TRON1 on the bed of a moving truck (a little old,7 months ago)](https://www.reddit.com/r/robotics/comments/1qmhj31/balance_test_for_the_bipedal_robot_tron1_on_the/)**
-
-From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
-
-22h ago
+1d ago
 
 ---
 
@@ -64,9 +56,17 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 ---
 
+**[Balance test for the bipedal robot TRON1 on the bed of a moving truck (a little old,7 months ago)](https://www.reddit.com/r/robotics/comments/1qmhj31/balance_test_for_the_bipedal_robot_tron1_on_the/)**
+
+From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
+
+22h ago
+
+---
+
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -118,11 +118,11 @@ Financial Times • 1d ago
 
 ---
 
-**[China’s Eyou opens world’s first automated line for humanoid robot joints](https://www.scmp.com/tech/big-tech/article/3341229/chinas-eyou-opens-worlds-first-automated-line-humanoid-robot-joints)**
+**[Watch: ALLEX shows how humanoid robots can shake hands safely](https://interestingengineering.com/ai-robotics/korea-allex-humanoid-robot)**
 
-Manufacturer adds line in anticipation of surge in global demand for humanoid robots, with one estimate projecting 100,000 shipments by 2027.
+Meet ALLEX, a humanoid robot built for safe, human-like interaction, combining force sensing, flexible motion, and real-world responsiveness.
 
-South China Morning Post • 1h ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -138,15 +138,7 @@ Live Science • 1d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 14h ago
-
----
-
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1d ago
+TechRadar • 15h ago
 
 ---
 
@@ -158,11 +150,11 @@ channel3000.com • 1d ago
 
 ---
 
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+**[Robotics transforming operations in the oil and gas sector](https://finance.yahoo.com/news/robotics-transforming-operations-oil-gas-120233741.html)**
 
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Repsol, and ADNOC integrate robotics with AI, cloud computing, and advanced sensors.
 
-wbay.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -182,11 +174,19 @@ The Robot Report • 2d ago
 
 ---
 
-**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-fox11online.com • 2d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 2d ago
 
 ---
 

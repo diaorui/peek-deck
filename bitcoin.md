@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T10:28:12.425121+00:00'
+updated: '2026-01-26T10:54:48.278597+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 10:28 UTC  
+**Last Updated:** January 26, 2026 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -0.7%  
-**30d:** +0.1%  
-**90d:** -20.3%  
-**1y:** -14.0%  
+**24h:** -0.7%  
+**7d:** -0.6%  
+**30d:** +0.2%  
+**90d:** -20.2%  
+**1y:** -13.8%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,29 +95,29 @@ Rank #1
 
 ---
 
-**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
-
-13h ago
-
----
-
 **[Better than nothing](https://www.reddit.com/r/Bitcoin/comments/1qn5bla/better_than_nothing/)**
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-6h ago
-
----
-
-**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
-
-11h ago
+7h ago
 
 ---
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-2h ago
+3h ago
+
+---
+
+**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
+
+14h ago
+
+---
+
+**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
+
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-9h ago
+10h ago
 
 ---
 
@@ -159,11 +159,27 @@ The Block • 6h ago
 
 ---
 
-**[Bitcoin Supercycle Coming In 2026, Says CZ, As Analysts Warn Silver Highs May Face Drawbacks](https://finance.yahoo.com/news/bitcoin-supercycle-coming-2026-says-082322957.html)**
+**[Massive US Storm Forces Bitcoin Miners Offline – What Does That Mean for Bitcoin Holders?](https://finance.yahoo.com/news/massive-us-storm-forces-bitcoin-093331559.html)**
 
-Changpeng Zhao said Bitcoin may be breaking from its traditional four-year cycle. Gold and silver have surged to record highs. Demand shifts could cap silver’s ...
+A severe Arctic blast sweeping across the United States has forced Bitcoin miners to take more than 110 exahashes per second of computing power offline, temporarily slowing block production to 12 minutes as operators curtail operations to ease strain on regional power grids, according to The Miner Mag. The widespread ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Mining Faces Weather Shock as Winter Storm Fernan Knocks Out Major Pools Across the US](https://finance.yahoo.com/news/bitcoin-mining-faces-weather-shock-092730513.html)**
+
+Winter Storm Fernan triggered widespread mining curtailments in the U.S., with Foundry USA taking roughly 200 EH/s offline. The sudden hashrate drop pushed Bitcoin block ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Key bitcoin price levels to watch as downward pressure builds](https://www.coindesk.com/markets/2026/01/26/key-bitcoin-price-levels-to-watch-as-downward-pressure-builds)**
+
+As bitcoin remains in a downtrend, several technical and onchain levels stand out as critical areas of support.
+
+CoinDesk • 38m ago
 
 ---
 
@@ -171,7 +187,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -185,21 +201,7 @@ ProPublica • 3d ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg • 7h ago
-
----
-
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
-
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
-
-Binance • 1d ago
+Bloomberg • 8h ago
 
 ---
 
@@ -207,15 +209,13 @@ Binance • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
-**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
-
-BanklessTimes • 6h ago
+Binance • 1d ago
 
 ---
 
@@ -237,14 +237,6 @@ Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
 ⬆️ 3 • 💬 3 • 3d ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
-
----
-
-**[Led by Texas, New Hampshire, U.S. states put Bitcoin on public balance sheet](https://news.ycombinator.com/item?id=46677022)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-⬆️ 2 • 💬 1 • 7d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -282,7 +274,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 3 • 💬 5 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -294,7 +286,15 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 29 • 💬 13 • 9h ago
+⬆️ 32 • 💬 14 • 10h ago
+
+---
+
+**[Show HN: A desktop app that blocks work when you bite your nails](https://news.ycombinator.com/item?id=46759850)**
+
+Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
+
+⬆️ 15 • 💬 4 • 11h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -308,7 +308,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 11h ago
+👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 984 • 💬 363 • ⏱️ 9:36 • 7h ago
+👁️ 17K • 👍 984 • 💬 363 • ⏱️ 9:36 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 37K • 👍 556 • 💬 403 • ⏱️ 4:20 • 14h ago
+👁️ 37K • 👍 556 • 💬 403 • ⏱️ 4:20 • 15h ago
 
 ---
 
