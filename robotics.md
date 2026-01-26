@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T19:44:57.091944+00:00'
+updated: '2026-01-26T20:29:10.432633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 19:44 UTC  
+**Last Updated:** January 26, 2026 at 20:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 11h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 12h ago
 
 ---
 
@@ -64,7 +64,7 @@ I don't have much information, but it's a bit viral on X
 
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 7h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book is an attempt to tell a long-arc story of embodied intelligence — from Da Vinci's Mechanical Knight to modern humanoid like Optimus. I’m less interested in hype or near-term predictions, and more in the underlying ideas and what past successes and failures can teach us. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-59m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
 
-6h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hey everyone, I’m a university student trying to understand something about ro
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Robot Report • 1h ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 52m ago
+thespoon.tech • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ thespoon.tech • 52m ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -230,7 +230,7 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 12h ago
+👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 13h ago
 
 ---
 
@@ -250,7 +250,7 @@ AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
 
 📺 Unstoppable Gadgets
 
-👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 20h ago
+👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 21h ago
 
 ---
 

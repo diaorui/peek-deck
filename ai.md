@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T19:44:57.073836+00:00'
+updated: '2026-01-26T20:29:10.406478+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 19:44 UTC  
+**Last Updated:** January 26, 2026 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 The case, filed in a California court, is the first suit linking the chatbot to murder.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 2h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 2h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 3h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Want to find out more about the new EU rules on algorithm use in the workplace t
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 7h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Can we all just agree to stop using this crap? Tech bros are the worst https://www.youtube.com/watch?v=qnOmUWd-OII
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Can we all just agree to stop using this crap? Tech bros are the worst https://w
 
 Been diving into the latest AI research and wanted to share some findings that aren’t getting enough attention. All from peer-reviewed sources. Study 1 – AI Persuasion (Nature/Science, Dec 2025) • 77,000 participants across US, UK, Canada, Poland • AI chatbots shifted voter opinions 4x more than political ads • Mechanism: information density, not psychological manipulation • Catch: most persuasive models were least accurate Study 2 – AI Sycophancy (Stanford/CMU, Oct 2025) • Tested 11 leading AI models – all were “highly sycophantic” • AI affirms users 50% more than humans do • 1,604 participants: sycophantic AI reduced willingness to repair relationships • But users rated it as more trustworthy Study 3 – Loneliness Paradox (MIT/OpenAI, Mar 2025) • 4-week RCT, n=981, 300K+ messages • Higher chatbot usage = increased loneliness • Also: less real-world social interaction, greater emotional dependence • Individual characteristics (trust in AI) predicted worse outcomes The question I keep thinking about: where does assistance end and influence begin? Not trying to be alarmist. I use AI tools daily and find them useful. But these dynamics seem worth understanding. Has anyone else noticed these patterns in their own usage? Curious what guardrails people are implementing. Sources in comments if anyone wants the papers.
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Been diving into the latest AI research and wanted to share some findings that a
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 11h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 56m ago
 
 PSP Growth Managing Director Momei Qu looks ahead to a big week for tech earnings with Bloomberg's Jonathan Ferro and Annmarie Hordern on 'Surveillance.' (Source: Bloomberg)
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 55m ago
 
 After making her name as a painter, the world's first A.I. robot artist, Ai-Da, is having a go at architecture.
 
-Artnet News • 34m ago
+Artnet News • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Artnet News • 34m ago
 
 We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ BBC • 2h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 3h ago
+The Official Microsoft Blog • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Official Microsoft Blog • 3h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -215,13 +215,13 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 343 • 💬 213 • 19h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 343 • 💬 213 • 20h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 289 • 💬 224 • 3h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 289 • 💬 224 • 4h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -229,7 +229,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 261 • 💬 136 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 261 • 💬 136 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -237,7 +237,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 172 • 💬 250 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 172 • 💬 250 • 6h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -287,7 +287,7 @@ A quick review of the AI narative at Davos 2026. Topics: - AI hype versus realit
 
 📺 Awesome
 
-👁️ 16K • 👍 1K • 💬 337 • ⏱️ 8:03 • 6h ago
+👁️ 16K • 👍 1K • 💬 337 • ⏱️ 8:03 • 7h ago
 
 ---
 
@@ -297,7 +297,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 60K • 👍 1K • 💬 369 • ⏱️ 4:20 • 18h ago
+👁️ 60K • 👍 1K • 💬 369 • ⏱️ 4:20 • 19h ago
 
 ---
 
@@ -327,7 +327,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 154K • 👍 9K • 💬 1K • ⏱️ 12:43 • 20h ago
+👁️ 154K • 👍 9K • 💬 1K • ⏱️ 12:43 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ Why So Serious ??? Korang rasa siapa yang layak.
 
 📺 Alieff Irfan
 
-👁️ 411K • 👍 21K • 💬 4K • ⏱️ 1:36:50 • 7h ago
+👁️ 411K • 👍 21K • 💬 4K • ⏱️ 1:36:50 • 8h ago
 
 ---
 
@@ -465,7 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 259 • 14h ago
+⬇️ 749 • ❤️ 259 • 15h ago
 
 ---
 
@@ -477,7 +477,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 240 • 13h ago
+⬇️ 5,159 • ❤️ 240 • 14h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 590 • 1h ago
+⭐ 10.7k • 🔱 590 • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 14h ago
+⭐ 9.7k • 🔱 1.3k • 15h ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.0k • 6h ago
+⭐ 5.7k • 🔱 6.0k • 7h ago
 
 ---
 
@@ -730,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.7k • 🔱 860 • 1h ago
+⭐ 3.7k • 🔱 860 • 2h ago
 
 ---
 

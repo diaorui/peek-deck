@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T19:44:57.082527+00:00'
+updated: '2026-01-26T20:29:10.416122+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 19:44 UTC  
+**Last Updated:** January 26, 2026 at 20:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-1h ago
+2h ago
 
 ---
 
@@ -127,19 +127,19 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-7h ago
+8h ago
 
 ---
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Michael Burry still thinks bitcoin is worthless. Why hasn't he done the work to figure it out?](https://www.reddit.com/r/Bitcoin/comments/1qnjp3n/michael_burry_still_thinks_bitcoin_is_worthless/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Block • 9h ago
 
 Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 6h ago
 
 Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fortune • 1h ago
 
 Michael Saylor said “ambitious opportunists” pushing Bitcoin protocol changes are the network’s biggest threat, reigniting fights over spam filtering and quantum readiness.
 
-Bitbo • 12h ago
+Bitbo • 13h ago
 
 ---
 
@@ -233,7 +233,7 @@ Forbes • 3d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 16 • 💬 0 • 7h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 16 • 💬 0 • 8h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -274,13 +274,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 5 • 5d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 5 • 6d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -314,7 +314,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 558 • ⏱️ 9:12 • 20h ago
+👁️ 47K • 👍 3K • 💬 558 • ⏱️ 9:12 • 21h ago
 
 ---
 
@@ -334,7 +334,7 @@ Ran critically analyses and questions a long standing Bitcoin narrative as its s
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 1K • 💬 37 • ⏱️ 31:42 • 4h ago
+👁️ 11K • 👍 1K • 💬 37 • ⏱️ 31:42 • 5h ago
 
 ---
 
@@ -344,7 +344,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 357 • 💬 551 • ⏱️ 15:36 • 14h ago
+👁️ 12K • 👍 357 • 💬 551 • ⏱️ 15:36 • 15h ago
 
 ---
 
@@ -364,7 +364,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 318 • ⏱️ 13:42 • 19h ago
+👁️ 23K • 👍 2K • 💬 318 • ⏱️ 13:42 • 20h ago
 
 ---
 
@@ -374,7 +374,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 28K • 👍 2K • 💬 641 • ⏱️ 4:51 • 20h ago
+👁️ 28K • 👍 2K • 💬 641 • ⏱️ 4:51 • 21h ago
 
 ---
 
