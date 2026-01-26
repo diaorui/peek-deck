@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T21:26:03.449436+00:00'
+updated: '2026-01-26T21:47:38.246071+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 21:26 UTC  
+**Last Updated:** January 26, 2026 at 21:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 1h ago
 
 Aura AI pet robot tracks behavior changes to detect when pets feel excited, anxious or relaxed. Tuya Smart's device offers laser play, treat dispensing and voice interaction.
 
-Fox News • 55m ago
+Fox News • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
 
-ProPublica • 10h ago
+ProPublica • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 354 • 💬 299 • 4h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 354 • 💬 299 • 5h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -221,7 +221,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 348 • 💬 214 • 20h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 348 • 💬 214 • 21h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -229,7 +229,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 286 • 💬 149 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 286 • 💬 149 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -243,7 +243,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 120 • 💬 87 • 22h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 120 • 💬 87 • 23h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -275,7 +275,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 79 • 💬 59 • 5h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 79 • 💬 59 • 6h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -702,7 +702,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 6h ago
+⭐ 6.2k • 🔱 1.1k • 7h ago
 
 ---
 

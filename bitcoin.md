@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T21:26:03.456776+00:00'
+updated: '2026-01-26T21:47:38.253578+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 21:26 UTC  
+**Last Updated:** January 26, 2026 at 21:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ Forbes • 1d ago
 
 **[Watch Building Strategy For Bitcoin-Hesitant Investors: Willis](https://www.bloomberg.com/news/videos/2026-01-26/building-strategy-for-bitcoin-hesitant-investors-willis-video)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 8h ago
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 2h ago
 
 MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1h ago
 
 "Gold and silver casually adding an entire bitcoin market cap in a single day," wrote one crypto analyst.
 
-CoinDesk • 37m ago
+CoinDesk • 58m ago
 
 ---
 
@@ -266,7 +266,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 7h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 8h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -292,7 +292,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 34 • 💬 20 • 20h ago
+⬆️ 34 • 💬 20 • 21h ago
 
 ---
 
@@ -300,7 +300,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
 
-⬆️ 16 • 💬 4 • 21h ago • [GitHub](https://github.com/cacoos/trackhands)
+⬆️ 16 • 💬 4 • 22h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -344,7 +344,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 517 • ⏱️ 9:36 • 18h ago
+👁️ 24K • 👍 1K • 💬 517 • ⏱️ 9:36 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T21:26:03.464658+00:00'
+updated: '2026-01-26T21:47:38.261766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 21:26 UTC  
+**Last Updated:** January 26, 2026 at 21:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ I don't have much information, but it's a bit viral on X
 
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-2h ago
+3h ago
 
 ---
 
@@ -144,7 +144,7 @@ markets.businessinsider.com • 7h ago
 
 **[Microsoft debuts Maia 200 AI chip promising 3x inference performance](https://interestingengineering.com/ai-robotics/3x-power-boost-microsoft-launches-maia-200-to-run-ai-inference-faster-and-cheaper)**
 
-Interesting Engineering • 49m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 5K • 👍 308 • 💬 5 • ⏱️ 0:55 • 9h ago
+👁️ 5K • 👍 308 • 💬 5 • ⏱️ 0:55 • 10h ago
 
 ---
 
