@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T07:28:57.982657+00:00'
+updated: '2026-01-26T07:50:40.613497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 07:28 UTC  
+**Last Updated:** January 26, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,922.53
+### $87,908.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
+**24h:** -0.4%  
 **7d:** -0.6%  
 **30d:** +0.2%  
 **90d:** -20.2%  
@@ -77,21 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
+
+4h ago
+
+---
+
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
 9h ago
 
 ---
 
-**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
+**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
 
-3h ago
+1h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +119,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-6h ago
+7h ago
 
 ---
 
@@ -126,12 +132,6 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
 22h ago
-
----
-
-**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
-
-1h ago
 
 ---
 
@@ -159,21 +159,37 @@ CoinDesk • 13h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[GameStop Transfers $420M in Bitcoin to Coinbase, Sparking Exit Speculation](https://finance.yahoo.com/news/gamestop-transfers-420m-bitcoin-coinbase-095700064.html)**
+**[Gold tops $5,000 as bitcoin stalls near $87,000 in widening macro-crypto split: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/26/gold-tops-usd5-000-as-bitcoin-stalls-near-usd87-000-in-widening-macro-crypto-split-asia-morning-briefing)**
 
-GameStop has transferred its entire Bitcoin stash to Coinbase Prime, triggering fresh speculation that the video game retailer may be preparing to unwind its short-lived Bitcoin treasury strategy. Key Takeaways: GameStop moved its entire 4,710 BTC stash to Coinbase Prime, sparking speculation of a potential exit from its Bitcoin treasury. ...
+Bitcoin’s onchain data points to supply overhang and weak participation, while gold’s breakout is priced by markets as a durable macro regime shift.
 
-Yahoo Finance • 21h ago
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin Price Prediction Still Warns of $78,000 Risk — But Tiring Sellers Spark Bounce Hope](https://finance.yahoo.com/news/bitcoin-price-prediction-still-warns-063659366.html)**
+
+Bitcoin price prediction shows downside risk toward $78,000, but fading selling pressure hints at a short-term bounce. What's next for BTC?
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -181,7 +197,7 @@ Bloomberg.com • 4h ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -206,20 +222,6 @@ BanklessTimes • 3h ago
 Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
 
 CryptoSlate • 2d ago
-
----
-
-**[CryptoQuant says bitcoin holders are realizing net losses for the first time since October 2023](https://www.theblock.co/post/386896/cryptoquant-bitcoin-holders-realizing-net-losses)**
-
-The Block • 2d ago
-
----
-
-**[Bitcoin Stuck in Neutral, But This Gaming Token Is Going Parabolic](https://decrypt.co/355742/bitcoin-stuck-neutral-gaming-axie-parabolic)**
-
-While Bitcoin treads water below the death cross, Axie Infinity is exploding this week as GameFi catches fire and whales pile in.
-
-Decrypt • 2d ago
 
 ---
 
@@ -286,7 +288,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 3 • 💬 5 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 5 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -296,11 +298,9 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Show HN: A desktop app that blocks work when you bite your nails](https://news.ycombinator.com/item?id=46759850)**
+**[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
-
-⬆️ 7 • 💬 0 • 7h ago • [GitHub](https://github.com/cacoos/trackhands)
+⬆️ 26 • 💬 11 • 7h ago
 
 ---
 
@@ -324,7 +324,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 4h ago
+👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 5h ago
 
 ---
 
@@ -334,7 +334,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 11h ago
+👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 12h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T07:28:57.991751+00:00'
+updated: '2026-01-26T07:50:40.621772+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 07:28 UTC  
+**Last Updated:** January 26, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -118,11 +118,27 @@ Financial Times • 1d ago
 
 ---
 
+**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
+
+Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+
+Live Science • 1d ago
+
+---
+
 **[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 11h ago
+TechRadar • 12h ago
 
 ---
 
@@ -134,11 +150,11 @@ channel3000.com • 1d ago
 
 ---
 
-**[Anthony ISD robotics team wins award at state](https://www.yahoo.com/news/articles/anthony-isd-robotics-team-wins-032405470.html)**
+**[Robotics transforming operations in the oil and gas sector](https://finance.yahoo.com/news/robotics-transforming-operations-oil-gas-120233741.html)**
 
-EL PASO, Texas (KTSM) — The Anthony Independent School District robotics team — “A-Town” — took their talents to Dallas and represented the school district at the BEST Robotics Texas State Championship. The competition took place Dec. 4-18 and A-Town competed with 99 teams from across Texas. BEST Robotics is an intensive eight-week engineering and […]
+Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Repsol, and ADNOC integrate robotics with AI, cloud computing, and advanced sensors.
 
-Yahoo • 4h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -158,14 +174,6 @@ USA Today • 1d ago
 
 ---
 
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1d ago
-
----
-
 **[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
 The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
@@ -174,17 +182,11 @@ wbay.com • 2d ago
 
 ---
 
-**[Shapeshifting materials could power next generation of soft robots](https://techxplore.com/news/2026-01-shapeshifting-materials-power-generation-soft.html)**
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-Tech Xplore • 2d ago
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
----
-
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
-
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
-
-Live Science • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 

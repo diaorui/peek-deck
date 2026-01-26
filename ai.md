@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T07:28:57.974326+00:00'
+updated: '2026-01-26T07:50:40.605914+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 07:28 UTC  
+**Last Updated:** January 26, 2026 at 07:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,13 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 2h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 3h ago
+
+---
+
+**[Researchers warn of a “slop economy” where AI-generated content may undermine democratic discourse](https://www.reddit.com/r/artificial/comments/1qn9tns/researchers_warn_of_a_slop_economy_where/)**
+
+🔗 [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814) • 1m ago
 
 ---
 
@@ -57,7 +63,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-8h ago
+9h ago
 
 ---
 
@@ -109,14 +115,6 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 ---
 
-**[Be careful of custom tokens in your LLM !!!](https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/)**
-
-LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
-
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -131,7 +129,53 @@ The Guardian • 1d ago
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
+
+The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
+
+The Economist • 13h ago
+
+---
+
+**[Pope Leo XIV sounds alarm over ‘overly affectionate’ AI chatbots, emotional manipulation](https://nypost.com/2026/01/25/world-news/pope-leo-xiv-sounds-alarm-over-overly-affectionate-ai-chatbots/)**
+
+In a message released Saturday, the pontiff cautioned that emotionally responsive AI systems can become “hidden architects of our emotional states.”
+
+New York Post • 7h ago
+
+---
+
+**[Pope Leo's Latest AI Warning: 'Overly Affectionate' Chatbots](https://www.businessinsider.com/pope-leo-ai-warning-overly-affectionate-personalized-chatbots-regulation-2026-1)**
+
+Pope Leo XIV warned against personalized chatbots that can replicate friendly or intimate behaviour.
+
+Business Insider • 1h ago
+
+---
+
+**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
+
+Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
+
+The Washington Post • 11h ago
+
+---
+
+**[AI-altered clip of India defence chief circulates online after Bangladesh-Pakistan meeting](https://www.yahoo.com/news/articles/ai-altered-clip-india-defence-063232963.html)**
+
+India has said it was "keeping a close watch" after the air force chiefs of Bangladesh and Pakistan met in January 2026 following months of tensions in the region, but social media posts falsely shared an altered video of India's defence chief purportedly discussing the geopolitical implications of the meeting. The clip was altered from genuine footage of General Anil Chauhan speaking at a memorial event and bears inconsistencies characteristic of AI-altered videos.
+
+Yahoo • 1h ago
+
+---
+
+**[Nvidia-Backed Synthesia Wants Its Talking AI Avatars to Train, Coach and Recruit](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-backed-synthesia-wants-its-talking-ai-avatars-to-train-coach-and-recruit)**
+
+Bloomberg.com • 50m ago
 
 ---
 
@@ -141,59 +185,11 @@ The New York Times • 17h ago
 
 ---
 
-**[The Future of Hiring — How Swipejobs Has Given Control of AI to the Job-Seeker and Turned the Job Model Upside Down](https://www.cbsnews.com/brandstudio/news/the-future-of-hiring-how-swipejobs-has-given-control-of-ai-to-the-job-seeker-and-turned-the-job-model-upside-down/)**
-
-The Future of Hiring — How Swipejobs has given control of AI to the job-seeker & turned the job model upside down
-
-CBS News • 2h ago
-
----
-
-**[Why people still matter in the AI era](https://www.ft.com/content/6cfe1c0a-03e7-4d77-929a-521fb556ac39)**
-
-As population decline accelerates, the big risk is labour shortages, not mass unemployment
-
-Financial Times • 2h ago
-
----
-
-**[AI systems could use Met Office and National Archives data under UK plans](https://www.theguardian.com/technology/2026/jan/26/ai-systems-met-office-national-archives-data-uk-government-plans)**
-
-Ministers plan to license content from institutions such as National History Museum and National Library of Scotland
-
-The Guardian • 1h ago
-
----
-
 **[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 18h ago
-
----
-
-**[Billionaire David Tepper Sells Oracle, Micron, and Intel, and Buys an AI Stock Up 31,000% Since Its IPO](https://www.fool.com/investing/2026/01/25/billionaire-david-tepper-sells-oracle-micron-intel/)**
-
-This chip stock is another contrarian play from Tepper.
-
-The Motley Fool • 10h ago
-
----
-
-**[Is the AI Bubble About to Burst? Here's How to Profit Either Way](https://www.nasdaq.com/articles/ai-bubble-about-burst-heres-how-profit-either-way)**
-
-Key PointsArtificial intelligence stocks have led the S&P 500 higher as the bull market marches on.
-
-Nasdaq • 12h ago
-
----
-
-**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
-
-The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
-
-The Economist • 12h ago
+CNBC • 19h ago
 
 ---
 
@@ -205,15 +201,7 @@ The Economist • 12h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 578 • 💬 591 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
-
----
-
-**[Proton spam and the AI consent problem](https://news.ycombinator.com/item?id=46729368)**
-
-The one where I get very annoyed with my email provider
-
-⬆️ 551 • 💬 422 • 3d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 579 • 💬 596 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -229,7 +217,7 @@ The one where I get very annoyed with my email provider
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 194 • 💬 129 • 7h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 197 • 💬 137 • 7h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -265,13 +253,21 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 75 • 💬 46 • 8h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 77 • 💬 50 • 9h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
 ⬆️ 71 • 💬 27 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+
+---
+
+**[Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://news.ycombinator.com/item?id=46751675)**
+
+Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
+
+⬆️ 68 • 💬 34 • 1d ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -660,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.6k • 🔱 577 • 55m ago
+⭐ 10.6k • 🔱 577 • 1h ago
 
 ---
 
@@ -680,7 +676,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 477 • 11h ago
+⭐ 9.2k • 🔱 477 • 12h ago
 
 ---
 
@@ -710,7 +706,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.8k • 17h ago
+⭐ 5.4k • 🔱 5.8k • 18h ago
 
 ---
 
