@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T07:50:40.613497+00:00'
+updated: '2026-01-26T08:35:07.108102+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 07:50 UTC  
+**Last Updated:** January 26, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-4h ago
+5h ago
 
 ---
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-3h ago
+4h ago
 
 ---
 
@@ -119,19 +119,19 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-7h ago
+8h ago
 
 ---
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-8h ago
+9h ago
 
 ---
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -139,7 +139,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 21h ago
 
 Bitcoin’s onchain data points to supply overhang and weak participation, while gold’s breakout is priced by markets as a durable macro regime shift.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ ProPublica • 3d ago
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 3h ago
+BanklessTimes • 4h ago
 
 ---
 
@@ -300,7 +300,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 26 • 💬 11 • 7h ago
+⬆️ 26 • 💬 11 • 8h ago
 
 ---
 
@@ -314,7 +314,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 196 • ⏱️ 9:12 • 8h ago
+👁️ 29K • 👍 2K • 💬 196 • ⏱️ 9:12 • 9h ago
 
 ---
 
@@ -324,7 +324,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 5h ago
+👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 6h ago
 
 ---
 
@@ -334,7 +334,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 12h ago
+👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 13h ago
 
 ---
 
@@ -344,7 +344,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 14K • 👍 2K • 💬 360 • ⏱️ 4:51 • 8h ago
+👁️ 14K • 👍 2K • 💬 360 • ⏱️ 4:51 • 9h ago
 
 ---
 
@@ -354,7 +354,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 121 • ⏱️ 13:42 • 7h ago
+👁️ 13K • 👍 1K • 💬 121 • ⏱️ 13:42 • 8h ago
 
 ---
 
@@ -364,7 +364,7 @@ Bitcoin is going through a natural rotation phase as long-term holders take prof
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 161 • 💬 17 • ⏱️ 1:01 • 14h ago
+👁️ 4K • 👍 161 • 💬 17 • ⏱️ 1:01 • 15h ago
 
 ---
 
@@ -384,7 +384,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 18K • 👍 958 • 💬 207 • ⏱️ 13:23 • 20h ago
+👁️ 18K • 👍 958 • 💬 207 • ⏱️ 13:23 • 21h ago
 
 ---
 
@@ -404,7 +404,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 204 • 💬 39 • ⏱️ 6:47 • 9h ago
+👁️ 4K • 👍 204 • 💬 39 • ⏱️ 6:47 • 10h ago
 
 ---
 

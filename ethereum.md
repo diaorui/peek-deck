@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T07:50:40.618881+00:00'
+updated: '2026-01-26T08:35:07.114105+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 07:50 UTC  
+**Last Updated:** January 26, 2026 at 08:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-18h ago
+19h ago
 
 ---
 
@@ -110,7 +110,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2h ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 110 • ⏱️ 26:46 • 4h ago
+👁️ 12K • 👍 1K • 💬 110 • ⏱️ 26:46 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 5 • ⏱️ 5:06 • 8h ago
+👁️ 1K • 👍 90 • 💬 5 • ⏱️ 5:06 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 6K • 👍 265 • 💬 340 • ⏱️ 24:21 • 9h ago
+👁️ 6K • 👍 265 • 💬 340 • ⏱️ 24:21 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 71 • 💬 33 • ⏱️ 17:46 • 16h ago
+👁️ 2K • 👍 71 • 💬 33 • ⏱️ 17:46 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 285 • 💬 16 • ⏱️ 18:21 • 14h ago
+👁️ 6K • 👍 285 • 💬 16 • ⏱️ 18:21 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 8 • ⏱️ 3:57 • 17h ago
+👁️ 2K • 👍 113 • 💬 8 • ⏱️ 3:57 • 18h ago
 
 ---
 

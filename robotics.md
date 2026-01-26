@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T07:50:40.621772+00:00'
+updated: '2026-01-26T08:35:07.117338+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 07:50 UTC  
+**Last Updated:** January 26, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-14h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
 
-20h ago
+21h ago
 
 ---
 
@@ -138,7 +138,7 @@ Live Science • 1d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 12h ago
+TechRadar • 13h ago
 
 ---
 

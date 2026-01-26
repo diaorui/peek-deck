@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T07:50:40.605914+00:00'
+updated: '2026-01-26T08:35:07.099555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 07:50 UTC  
+**Last Updated:** January 26, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 16h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 17h ago
 
 ---
 
@@ -49,13 +49,13 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 3h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 4h ago
 
 ---
 
 **[Researchers warn of a “slop economy” where AI-generated content may undermine democratic discourse](https://www.reddit.com/r/artificial/comments/1qn9tns/researchers_warn_of_a_slop_economy_where/)**
 
-🔗 [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814) • 1m ago
+🔗 [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814) • 46m ago
 
 ---
 
@@ -71,7 +71,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] C
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 23h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 1d ago
 
 ---
 
@@ -145,7 +145,7 @@ The Economist • 13h ago
 
 In a message released Saturday, the pontiff cautioned that emotionally responsive AI systems can become “hidden architects of our emotional states.”
 
-New York Post • 7h ago
+New York Post • 8h ago
 
 ---
 
@@ -153,7 +153,7 @@ New York Post • 7h ago
 
 Pope Leo XIV warned against personalized chatbots that can replicate friendly or intimate behaviour.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Business Insider • 1h ago
 
 Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
 
-The Washington Post • 11h ago
+The Washington Post • 12h ago
 
 ---
 
@@ -169,19 +169,19 @@ The Washington Post • 11h ago
 
 India has said it was "keeping a close watch" after the air force chiefs of Bangladesh and Pakistan met in January 2026 following months of tensions in the region, but social media posts falsely shared an altered video of India's defence chief purportedly discussing the geopolitical implications of the meeting. The clip was altered from genuine footage of General Anil Chauhan speaking at a memorial event and bears inconsistencies characteristic of AI-altered videos.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
 **[Nvidia-Backed Synthesia Wants Its Talking AI Avatars to Train, Coach and Recruit](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-backed-synthesia-wants-its-talking-ai-avatars-to-train-coach-and-recruit)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -217,7 +217,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 197 • 💬 137 • 7h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 197 • 💬 137 • 8h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -247,7 +247,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 84 • 💬 71 • 23h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 84 • 💬 71 • 1d ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -281,7 +281,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 23K • 👍 543 • 💬 155 • ⏱️ 4:20 • 6h ago
+👁️ 23K • 👍 543 • 💬 155 • ⏱️ 4:20 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 100K • 👍 7K • 💬 833 • ⏱️ 12:43 • 8h ago
+👁️ 100K • 👍 7K • 💬 833 • ⏱️ 12:43 • 9h ago
 
 ---
 
@@ -459,7 +459,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 253 • 2h ago
+⬇️ 634 • ❤️ 253 • 3h ago
 
 ---
 
@@ -483,7 +483,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 224 • 1h ago
+⬇️ 4,684 • ❤️ 224 • 2h ago
 
 ---
 
@@ -656,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.6k • 🔱 577 • 1h ago
+⭐ 10.6k • 🔱 577 • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 2h ago
+⭐ 9.7k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -696,7 +696,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 15h ago
+⭐ 6.1k • 🔱 1.1k • 16h ago
 
 ---
 
@@ -706,7 +706,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.8k • 18h ago
+⭐ 5.4k • 🔱 5.8k • 19h ago
 
 ---
 
@@ -726,7 +726,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.3k • 🔱 767 • 12h ago
+⭐ 3.3k • 🔱 767 • 13h ago
 
 ---
 
