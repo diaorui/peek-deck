@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T02:00:09.521207+00:00'
+updated: '2026-01-26T04:02:48.513629+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 02:00 UTC  
+**Last Updated:** January 26, 2026 at 04:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 10h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 12h ago
+
+---
+
+**[ChatGPT Is Using Elon Musk’s Grokipedia as a Source](https://www.reddit.com/r/artificial/comments/1qn3qk2/chatgpt_is_using_elon_musks_grokipedia_as_a_source/)**
+
+ChatGPT’s latest model is pulling answers from Elon Musk’s Grokipedia, raising concerns about AI transparency, accuracy, and source reliability.
+
+🔗 [techputs](https://techputs.com/chatgpt-pulling-answers-from-grokipedia/) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-3h ago
+5h ago
 
 ---
 
@@ -57,7 +65,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 17h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 19h ago
 
 ---
 
@@ -81,7 +89,7 @@ Seoul hopes its new AI Basic Act will position the country as a leader ‍in the
 
 Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
 
-22h ago
+1d ago
 
 ---
 
@@ -109,55 +117,19 @@ I’ve been working on a weird (and slightly unsettling) experiment called AI Fe
 
 ---
 
-**[One-Minute Daily AI News 1/23/2026](https://www.reddit.com/r/artificial/comments/1qlegvs/oneminute_daily_ai_news_1232026/)**
-
-Meta is stopping teens from chatting with its AI characters.[1] GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App.[2] Intel struggles to meet AI data center demand, shares drop 13%.[3] Google Photos’ latest feature lets you meme yourself.[4] Sources: [1] https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version [2] https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/ [3] https://www.reuters.com/business/intel-forecasts-first-quarter-sales-profit-below-estimates-2026-01-22/ [4] https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
+**[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
-
-The Guardian • 20h ago
+The New York Times • 14h ago
 
 ---
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[Opinion | Humans Possess One Thing That A.I. Does Not: Judgment](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
-
-The New York Times • 12h ago
-
----
-
-**[2 AI Stocks to Buy in January and Hold for 5 Years](https://www.fool.com/investing/2026/01/25/2-ai-stocks-to-buy-in-january-and-hold-for-5-years/)**
-
-Artificial intelligence (AI) spending is growing fast, and these blue-chip tech stocks can help you profit from it.
-
-The Motley Fool • 29m ago
-
----
-
-**[Malaysian Ringgit Hits Highest Since 2018 on AI, Growth Optimism](https://www.bloomberg.com/news/articles/2026-01-26/myr-usd-malaysia-ringgit-poised-for-highest-level-since-2018-on-ai-optimism)**
-
-Bloomberg.com • 40m ago
-
----
-
-**[Samsung Nears Nvidia’s Approval for Key HBM4 AI Memory Chips](https://www.bloomberg.com/news/articles/2026-01-26/samsung-nears-nvidia-s-approval-for-key-hbm4-ai-memory-chips)**
-
-Bloomberg.com • 12m ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -165,15 +137,7 @@ Bloomberg.com • 12m ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 7h ago
-
----
-
-**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
-
-Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
-
-CNBC • 13h ago
+The Economist • 9h ago
 
 ---
 
@@ -181,15 +145,55 @@ CNBC • 13h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 20h ago
+Financial Times • 23h ago
 
 ---
 
-**[Researchers tested AI against 100,000 humans on creativity](https://www.sciencedaily.com/releases/2026/01/260125083356.htm)**
+**[Nvidia's 85% GPU Market Share Faces Growing Competition: Is This AI Stock Still a Buy for 2026?](https://www.fool.com/investing/2026/01/25/nvidias-85-gpu-market-share-faces-growing-competit/)**
 
-A massive new study comparing more than 100,000 people with today’s most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. Models like GPT-4 showed strong performance on tasks designed to measure original thinking and idea generation, sometimes outperforming typical human responses. But there’s a clear ceiling. The most creative humans — especially the top 10% — still leave AI well behind, particularly on richer creative work like poetry and storytelling.
+The AI hardware market is heating up with mounting competition. Is Nvidia still the leader of the industry?
 
-ScienceDaily • 11h ago
+The Motley Fool • 7h ago
+
+---
+
+**[China's AI trade is quickly moving from infrastructure to applications. Watch these stocks](https://www.cnbc.com/2026/01/25/chinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html)**
+
+Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
+
+CNBC • 15h ago
+
+---
+
+**[Inside KPMG's Orlando Lakehouse: the $450 million Covid boondoggle that's becoming a secret weapon for the AI revolution](https://fortune.com/2026/01/25/what-is-kpmg-lake-house-working-at-big-4-audit-firm-internship-ai-training/)**
+
+Advisory head Patrick Ryan told Fortune about grumbles from the Jan. 2020 ribbon cutting. "Capital-intensive, middle of nowhere ... the worst timing."
+
+Fortune • 15h ago
+
+---
+
+**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
+
+Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
+
+The Washington Post • 7h ago
+
+---
+
+**[How Americans are using AI at work, according to a new Gallup poll](https://apnews.com/article/ai-workplace-gemini-chatgpt-poll-4934bc61d039508db32bc49f85d63d99)**
+
+A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years.
+
+AP News • 15h ago
+
+---
+
+**[AI needs to augment rather than replace humans or the workplace is doomed | Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)**
+
+Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
+
+The Guardian • 7h ago
 
 ---
 
@@ -201,7 +205,7 @@ ScienceDaily • 11h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 574 • 💬 572 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 577 • 💬 584 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -229,6 +233,14 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 ---
 
+**[Clawdbot - open source personal AI assistant](https://news.ycombinator.com/item?id=46760237)**
+
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+⬆️ 150 • 💬 94 • 3h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+
+---
+
 **[White House defends sharing AI image showing arrested woman crying](https://news.ycombinator.com/item?id=46731865)**
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
@@ -247,21 +259,13 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 83 • 💬 70 • 17h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
-
----
-
-**[Clawdbot - open source personal AI assistant](https://news.ycombinator.com/item?id=46760237)**
-
-Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-⬆️ 73 • 💬 27 • 1h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 84 • 💬 70 • 19h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 69 • 💬 26 • 1d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 69 • 💬 26 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
 
 ---
 
@@ -269,7 +273,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 67 • 💬 34 • 18h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 67 • 💬 34 • 20h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -277,23 +281,23 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 ## YouTube Videos: "ai"
 
+**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+
+NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+
+📺 Fox Business
+
+👁️ 11K • 👍 343 • 💬 99 • ⏱️ 4:20 • 3h ago
+
+---
+
 **[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
 
 The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 214 • ⏱️ 12:27 • 1d ago
-
----
-
-**[This is Why White Collar Workers Should Be Worried #AI](https://www.youtube.com/watch?v=WONNZjBfFes)**
-
-The biggest threat to the us economy isn't a stock market crash but a shift caused by rising refinancing costs and artificial ...
-
-📺 Unbiased Money
-
-👁️ 490 • 👍 4 • 💬 1 • ⏱️ 1:00 • 3h ago
+👁️ 48K • 👍 1K • 💬 218 • ⏱️ 12:27 • 1d ago
 
 ---
 
@@ -303,7 +307,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 18K • 👍 640 • 💬 147 • ⏱️ 12:43 • 20h ago
+👁️ 18K • 👍 654 • 💬 147 • ⏱️ 12:43 • 22h ago
 
 ---
 
@@ -317,23 +321,13 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 ---
 
-**[The Alarming Rise of REALISTIC AI Content](https://www.youtube.com/watch?v=MV9Ro8F_bqI)**
-
-Thank you to Mint Mobile for partnering with us on this video! And for a limited time, you can get 50% off an unlimited premium ...
-
-📺 Visual Venture
-
-👁️ 326K • 👍 15K • 💬 2K • ⏱️ 27:38 • 1d ago
-
----
-
 **[Is The AI Bubble Popping?](https://www.youtube.com/watch?v=KUM2z_vit_E)**
 
 OpenAI just lost $14 billion in 2026 while GPU prices hit $4000 and RAM costs tripled. Here's why the AI bubble popping is ...
 
 📺 Zack Shutt
 
-👁️ 26K • 👍 1K • 💬 368 • ⏱️ 10:14 • 23h ago
+👁️ 28K • 👍 1K • 💬 393 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -343,7 +337,7 @@ Demis Hassabis says the level of investment in some parts of the tech industry h
 
 📺 Financial Times
 
-👁️ 37K • 👍 871 • 💬 148 • ⏱️ 20:22 • 1d ago
+👁️ 38K • 👍 882 • 💬 148 • ⏱️ 20:22 • 1d ago
 
 ---
 
@@ -353,17 +347,17 @@ Top Unreal Goals That Look Like AI A compilation of Football goals so insane the
 
 📺 FootyRanks
 
-👁️ 903K • 👍 30K • 💬 164 • ⏱️ 0:48 • 17h ago
+👁️ 920K • 👍 31K • 💬 166 • ⏱️ 0:48 • 20h ago
 
 ---
 
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
+**[It&#39;s Official..Ai Songs Have Taken OVER](https://www.youtube.com/watch?v=7LStLP5liII)**
 
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
+ai songs are getting more popular Instagram: https://www.instagram.com/liamdonovanmusic/ Subreddit: ...
 
-📺 Matt Wolfe
+📺 Liam Donovan
 
-👁️ 54K • 👍 2K • 💬 320 • ⏱️ 28:01 • 1d ago
+👁️ 26K • 👍 2K • 💬 362 • ⏱️ 11:54 • 2d ago
 
 ---
 
@@ -373,7 +367,15 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 15K • 👍 823 • 💬 79 • ⏱️ 21:40 • 9h ago
+👁️ 18K • 👍 919 • 💬 88 • ⏱️ 21:40 • 12h ago
+
+---
+
+**[REAL OR AI (IMPOSSIBLE!) 😳🤔 #funny #shorts](https://www.youtube.com/watch?v=RC1HBSHbKKE)**
+
+📺 Cadel and Mia
+
+👁️ 1.2M • 👍 30K • 💬 4K • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 363,320 • ❤️ 1,175 • 5d ago
+⬇️ 363,320 • ❤️ 1,179 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 29,354 • ❤️ 971 • 3d ago
+⬇️ 29,354 • ❤️ 978 • 3d ago
 
 ---
 
@@ -413,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 21,722 • ❤️ 515 • 4d ago
+⬇️ 21,722 • ❤️ 520 • 4d ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 454 • 2d ago
+⬇️ 42,703 • ❤️ 463 • 2d ago
 
 ---
 
@@ -437,7 +439,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 195,744 • ❤️ 323 • 1d ago
+⬇️ 195,744 • ❤️ 326 • 2d ago
 
 ---
 
@@ -449,7 +451,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 12,479 • ❤️ 278 • 4d ago
+⬇️ 12,479 • ❤️ 287 • 4d ago
 
 ---
 
@@ -461,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 247 • 5d ago
+⬇️ 634 • ❤️ 252 • 5d ago
 
 ---
 
@@ -473,7 +475,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 68,552 • ❤️ 533 • 10d ago
+⬇️ 68,552 • ❤️ 534 • 10d ago
 
 ---
 
@@ -485,7 +487,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 2,743 • ❤️ 219 • 3d ago
+⬇️ 2,743 • ❤️ 223 • 3d ago
 
 ---
 
@@ -497,7 +499,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 216 • 3d ago
+⬇️ 4,684 • ❤️ 222 • 3d ago
 
 ---
 
@@ -525,7 +527,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 1 • 💬 0 • ⭐ 3,826 • 10mo ago
+▲ 1 • 💬 0 • ⭐ 4,088 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -658,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.5k • 🔱 569 • 56m ago
+⭐ 10.5k • 🔱 574 • 2h ago
 
 ---
 
@@ -668,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 43m ago
+⭐ 9.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -678,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 471 • 6h ago
+⭐ 9.1k • 🔱 475 • 8h ago
 
 ---
 
@@ -688,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 914 • 2d ago
+⭐ 7.7k • 🔱 919 • 3d ago
 
 ---
 
@@ -698,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 9h ago
+⭐ 6.1k • 🔱 1.1k • 12h ago
 
 ---
 
@@ -708,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.7k • 12h ago
+⭐ 5.4k • 🔱 5.7k • 14h ago
 
 ---
 
@@ -718,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.7k • 🔱 507 • 1d ago
+⭐ 4.7k • 🔱 509 • 1d ago
 
 ---
 
@@ -728,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.1k • 🔱 700 • 6h ago
+⭐ 3.2k • 🔱 739 • 8h ago
 
 ---
 
@@ -736,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.0k • 🔱 250 • 2d ago
+⭐ 3.0k • 🔱 252 • 3d ago
 
 ---
 
@@ -746,7 +748,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 342 • 2d ago
+⭐ 2.4k • 🔱 343 • 3d ago
 
 ---
 

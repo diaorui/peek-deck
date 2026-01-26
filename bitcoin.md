@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T02:00:09.528709+00:00'
+updated: '2026-01-26T04:02:48.521250+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 02:00 UTC  
+**Last Updated:** January 26, 2026 at 04:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,598.56
+### $87,200.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -0.9%  
-**30d:** -0.1%  
-**90d:** -20.4%  
-**1y:** -14.1%  
+**24h:** -1.9%  
+**7d:** -1.2%  
+**30d:** -0.4%  
+**90d:** -20.7%  
+**1y:** -14.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.42B
+**Market Cap:** $1740.29B
 Rank #1
 
-**Circulating Supply:** 19,980,568 BTC
+**Circulating Supply:** 19,980,618 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.9%
 
 **All-Time Low:** $67.81
-+128993.1%
++128450.4%
 
 ---
 
@@ -79,39 +79,31 @@ Rank #1
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-3h ago
+5h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-5h ago
+7h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-3h ago
+5h ago
+
+---
+
+**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
+
+28m ago
 
 ---
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-16h ago
-
----
-
-**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
-
-2h ago
-
----
-
-**[Why invest in bitcoin instead of gold right now?](https://www.reddit.com/r/Bitcoin/comments/1qmseyv/why_invest_in_bitcoin_instead_of_gold_right_now/)**
-
-I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
-
-6h ago
+18h ago
 
 ---
 
@@ -119,27 +111,33 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-1h ago
+3h ago
 
 ---
 
-**[Red days, Green days, Grey days, Black days, whatever, that doesn't change anything.](https://www.reddit.com/r/Bitcoin/comments/1qmw496/red_days_green_days_grey_days_black_days_whatever/)**
+**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
 4h ago
 
 ---
 
-**[Who is buying the dip??](https://www.reddit.com/r/Bitcoin/comments/1qmrrus/who_is_buying_the_dip/)**
+**[Why invest in bitcoin instead of gold right now?](https://www.reddit.com/r/Bitcoin/comments/1qmseyv/why_invest_in_bitcoin_instead_of_gold_right_now/)**
 
-Source: Blossom Social and X
+I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-7h ago
+8h ago
 
 ---
 
-**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
+**[Dip got you stressing? BUY MORE](https://www.reddit.com/r/Bitcoin/comments/1qmz8u4/dip_got_you_stressing_buy_more/)**
 
-16h ago
+4h ago
+
+---
+
+**[Red days, Green days, Grey days, Black days, whatever, that doesn't change anything.](https://www.reddit.com/r/Bitcoin/comments/1qmw496/red_days_green_days_grey_days_black_days_whatever/)**
+
+6h ago
 
 ---
 
@@ -151,45 +149,57 @@ Source: Blossom Social and X
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+**[How Silver Cracked $100 And Added More Than Bitcoin's Entire Market Cap In 3 Months](https://finance.yahoo.com/news/silver-cracked-100-added-more-003147330.html)**
 
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
 
-Forbes • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Gold nears $5,000, silver closes on $100 while bitcoin remains listless](https://uk.finance.yahoo.com/news/gold-nears-5-000-silver-043007090.html)**
+
+Yahoo Finance UK • 2d ago
+
+---
+
+**[Gold tops $5,000 as bitcoin stalls near $87,000 in widening macro-crypto split: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/26/gold-tops-usd5-000-as-bitcoin-stalls-near-usd87-000-in-widening-macro-crypto-split-asia-morning-briefing)**
+
+Bitcoin’s onchain data points to supply overhang and weak participation, while gold’s breakout is priced by markets as a durable macro regime shift.
+
+CoinDesk • 1h ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Solana Instead?](https://www.fool.com/investing/2026/01/25/should-you-forget-bitcoin-and-buy-solana-instead/)**
+
+Solana has a lot of growth potential, but Bitcoin is a safer choice.
+
+The Motley Fool • 19h ago
+
+---
+
+**[Bitcoin Price Prediction: Markets See Low Odds of $100K BTC in Early 2026](https://www.binance.com/en/square/post/01-24-2026-bitcoin-price-prediction-markets-see-low-odds-of-100k-btc-in-early-2026-35513597131490)**
 
 Binance • 1d ago
-
----
-
-**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
-
-It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
-
-CoinDesk • 1d ago
-
----
-
-**[GameStop Transfers $420M in Bitcoin to Coinbase, Sparking Exit Speculation](https://finance.yahoo.com/news/gamestop-transfers-420m-bitcoin-coinbase-095700064.html)**
-
-GameStop has transferred its entire Bitcoin stash to Coinbase Prime, triggering fresh speculation that the video game retailer may be preparing to unwind its short-lived Bitcoin treasury strategy. Key Takeaways: GameStop moved its entire 4,710 BTC stash to Coinbase Prime, sparking speculation of a potential exit from its Bitcoin treasury. ...
-
-Yahoo Finance • 16h ago
-
----
-
-**[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
-
-Some fear massive consequences for financial markets.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -197,15 +207,7 @@ The Motley Fool • 2d ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 7h ago
-
----
-
-**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
-
-A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
-
-BanklessTimes • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -214,14 +216,6 @@ BanklessTimes • 8h ago
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 3d ago
-
----
-
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-ProPublica • 3d ago
 
 ---
 
@@ -288,7 +282,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 2 • 💬 5 • 2h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 2 • 💬 5 • 4h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -300,7 +294,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 2 • 💬 2 • 1h ago
+⬆️ 2 • 💬 2 • 3h ago
 
 ---
 
@@ -308,83 +302,23 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
-
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
-
-📺 Fox Business Clips
-
-👁️ 23K • 👍 447 • 💬 237 • ⏱️ 4:20 • 6h ago
-
----
-
 **[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 156 • ⏱️ 9:12 • 3h ago
+👁️ 21K • 👍 2K • 💬 182 • ⏱️ 9:12 • 5h ago
 
 ---
 
-**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
 
-The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
 
-📺 Aaron Bennett
+📺 Fox Business Clips
 
-👁️ 17K • 👍 911 • 💬 181 • ⏱️ 13:23 • 14h ago
-
----
-
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
-
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
-
-📺 Road To $1 Million USD
-
-👁️ 2K • 👍 167 • 💬 27 • ⏱️ 6:47 • 3h ago
-
----
-
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 69K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
-
----
-
-**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
-
-Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 20K • 👍 820 • 💬 134 • ⏱️ 12:50 • 10h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 66K • 👍 3K • 💬 324 • ⏱️ 8:40 • 2d ago
-
----
-
-**[Bitcoin vs Gold Just Flashed a Signal That NEVER Misses 😳](https://www.youtube.com/watch?v=08TsgYX4DYE)**
-
-Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin in gold, the picture changes FAST In this video, ...
-
-📺 Crypto Love
-
-👁️ 5K • 👍 393 • 💬 124 • ⏱️ 8:25 • 9h ago
+👁️ 29K • 👍 488 • 💬 276 • ⏱️ 4:20 • 8h ago
 
 ---
 
@@ -394,17 +328,77 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 6K • 👍 940 • 💬 197 • ⏱️ 4:51 • 2h ago
+👁️ 10K • 👍 1K • 💬 245 • ⏱️ 4:51 • 4h ago
 
 ---
 
-**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
+**[Bitcoin Investors...Get Ready for Another Bumpy Week](https://www.youtube.com/watch?v=JhfdP1l0mYk)**
 
-The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Lark Davis
+📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 169 • ⏱️ 12:07 • 1d ago
+👁️ 5K • 👍 535 • 💬 209 • ⏱️ 9:36 • 1h ago
+
+---
+
+**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
+
+Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 861 • 💬 92 • ⏱️ 13:42 • 3h ago
+
+---
+
+**[Bitcoin Is Rotating — And That’s Healthy](https://www.youtube.com/watch?v=gDsktpagPPQ)**
+
+Bitcoin is going through a natural rotation phase as long-term holders take profits and new buyers step in. In this clip, we explain ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 136 • 💬 16 • ⏱️ 1:01 • 11h ago
+
+---
+
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
+
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 190 • 💬 36 • ⏱️ 6:47 • 5h ago
+
+---
+
+**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+
+The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 18K • 👍 936 • 💬 202 • ⏱️ 13:23 • 16h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 3K • 💬 328 • ⏱️ 8:40 • 2d ago
+
+---
+
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 70K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 

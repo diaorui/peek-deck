@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T02:00:09.536733+00:00'
+updated: '2026-01-26T04:02:48.529416+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 02:00 UTC  
+**Last Updated:** January 26, 2026 at 04:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-15h ago
+17h ago
 
 ---
 
@@ -44,19 +44,13 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-13h ago
+15h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-15h ago
-
----
-
-**[Saw this massive robot on X, anyone know what it is?](https://www.reddit.com/r/robotics/comments/1qm5mdt/saw_this_massive_robot_on_x_anyone_know_what_it_is/)**
-
-1d ago
+17h ago
 
 ---
 
@@ -64,15 +58,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-10h ago
-
----
-
-**[Debugging in ROS2](https://www.reddit.com/r/robotics/comments/1qmoxo8/debugging_in_ros2/)**
-
-Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
-
-8h ago
+12h ago
 
 ---
 
@@ -80,13 +66,21 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-20h ago
+22h ago
+
+---
+
+**[Debugging in ROS2](https://www.reddit.com/r/robotics/comments/1qmoxo8/debugging_in_ros2/)**
+
+Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
+
+10h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -100,7 +94,15 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
 
-14h ago
+16h ago
+
+---
+
+**[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
+
+Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
+
+1d ago
 
 ---
 
@@ -108,27 +110,19 @@ The abstract deadlines for RSS Conference is over. I submitted pretty last minut
 
 ## Google News: "robotics"
 
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
+
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
+
+Financial Times • 23h ago
+
+---
+
 **[Saga Robotics bets big on US vineyards with new GM, fresh capital](https://agfundernews.com/saga-robotics-bets-big-on-us-vineyards-with-new-gm-fresh-capital-for-uv-c-bots-chemical-free-winegrowing-is-the-holy-grail)**
 
 During the 2025 California wine grape season, Saga Robotics increased treated acreage tenfold and expects to nearly triple it again in 2026.
 
 AgFunderNews • 3d ago
-
----
-
-**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
-
-The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
-
-fox11online.com • 1d ago
-
----
-
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
-
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
-
-Financial Times • 20h ago
 
 ---
 
@@ -140,27 +134,11 @@ channel3000.com • 1d ago
 
 ---
 
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-Interesting Engineering • 22h ago
-
----
-
-**[Elon Musk, a fierce Davos critic, tells World Economic Forum that robots will outnumber humans](https://www.cbsnews.com/news/elon-musk-davos-world-economic-forum/)**
-
-The billionaire CEO of Tesla and SpaceX, in his first appearance at Davos, said Tesla could start selling its Optimus robots next year.
-
-CBS News • 3d ago
-
----
-
-**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
-
-Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
-
-The Robot Report • 2d ago
+wbay.com • 2d ago
 
 ---
 
@@ -172,17 +150,41 @@ USA Today • 1d ago
 
 ---
 
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
 
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
 
-wbay.com • 2d ago
+The Robot Report • 2d ago
+
+---
+
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+
+The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+
+fox11online.com • 2d ago
 
 ---
 
 **[Shapeshifting materials could power next generation of soft robots](https://techxplore.com/news/2026-01-shapeshifting-materials-power-generation-soft.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
+
+Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
+
+TechRadar • 8h ago
 
 ---
 
@@ -196,7 +198,7 @@ Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market 
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 96 • 💬 41 • ⏱️ 6:39 • 1d ago
+👁️ 7K • 👍 98 • 💬 43 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -206,7 +208,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 86K • 👍 2K • 💬 141 • ⏱️ 17:39 • 2d ago
+👁️ 89K • 👍 2K • 💬 145 • ⏱️ 17:39 • 2d ago
+
+---
+
+**[This robot has wheels AND legs](https://www.youtube.com/watch?v=gGTtW8VSnvo)**
+
+AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
+
+📺 Unstoppable Gadgets
+
+👁️ 6K • 👍 184 • 💬 3 • ⏱️ 0:20 • 5h ago
 
 ---
 
@@ -216,17 +228,7 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 PRO ROBOTS
 
-👁️ 8K • 👍 236 • 💬 22 • ⏱️ 14:08 • 4d ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 79 • 💬 70 • ⏱️ 2:47 • 3d ago
+👁️ 8K • 👍 237 • 💬 22 • ⏱️ 14:08 • 4d ago
 
 ---
 
@@ -248,43 +250,43 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
-**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
-
-📺 EmortalMarcus
-
-👁️ 271K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
-
----
-
-**[This Parking Robot Can Lift &amp; Move Your Car #parkingrobot #robotics #technology #facts](https://www.youtube.com/watch?v=58cNMUgBBj4)**
-
-A low-profile autonomous parking/valet robot slides under a car's wheels, locks in, lifts the vehicle, and relocates it with precision ...
-
-📺 Amazing Facts Info
-
-👁️ 2K • 👍 42 • 💬 1 • ⏱️ 1:01 • 15h ago
-
----
-
-**[NEW Huge War Robots 11.8 Game REBALANCE did NOT ruin my day!](https://www.youtube.com/watch?v=2Bnl--Cmxio)**
-
-War Robots Test Server News: Huge 11.8 Rebalance is not that bad! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 11K • 👍 598 • 💬 177 • ⏱️ 21:00 • 14h ago
-
----
-
 **[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
 
 Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
 
 📺 CBC News: The National
 
-👁️ 22K • 👍 219 • ⏱️ 7:30 • 6d ago
+👁️ 22K • 👍 222 • ⏱️ 7:30 • 6d ago
+
+---
+
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+
+📺 Global News
+
+👁️ 27K • 👍 114 • 💬 98 • ⏱️ 10:15 • 3d ago
+
+---
+
+**[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
+
+Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
+
+📺 Geekazine
+
+👁️ 1K • 👍 1 • 💬 2 • ⏱️ 22:52 • 1d ago
+
+---
+
+**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
+
+Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
+
+📺 UBTECH Robotics
+
+👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 5d ago
 
 ---
 
