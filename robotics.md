@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T12:52:03.826742+00:00'
+updated: '2026-01-26T13:45:38.656922+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 12:52 UTC  
+**Last Updated:** January 26, 2026 at 13:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ I don't have much information, but it's a bit viral on X
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 4h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 5h ago
 
 ---
 
@@ -74,7 +74,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 35m ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-21h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-19h ago
+20h ago
 
 ---
 
@@ -140,7 +140,7 @@ Live Science • 2d ago
 
 Manufacturer adds line in anticipation of surge in global demand for humanoid robots, with one estimate projecting 100,000 shipments by 2027.
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -148,7 +148,7 @@ South China Morning Post • 3h ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 17h ago
+TechRadar • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 97K • 👍 2K • 💬 152 • ⏱️ 17:39 • 2d ago
+👁️ 98K • 👍 2K • 💬 153 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -210,17 +210,27 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 564 • 👍 278 • 💬 1 • ⏱️ 7:25 • 5h ago
+👁️ 757 • 👍 284 • 💬 1 • ⏱️ 7:25 • 6h ago
 
 ---
 
-**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
 
-To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
 
-📺 PRO ROBOTS
+📺 DRM News
 
-👁️ 8K • 👍 239 • 💬 23 • ⏱️ 14:08 • 4d ago
+👁️ 557K • 👍 10K • 💬 3K • ⏱️ 32:01 • 3d ago
+
+---
+
+**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
+
+Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
+
+📺 CapyEscapes
+
+👁️ 1K • 👍 129 • 💬 5 • ⏱️ 0:55 • 2h ago
 
 ---
 
@@ -230,7 +240,7 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 📺 Fox News
 
-👁️ 49K • 👍 1K • 💬 244 • ⏱️ 0:49 • 3d ago
+👁️ 49K • 👍 1K • 💬 245 • ⏱️ 0:49 • 3d ago
 
 ---
 
@@ -244,51 +254,43 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 26K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 27K • 👍 117 • 💬 99 • ⏱️ 10:15 • 3d ago
-
----
-
 **[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
 
 LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
 
 📺 EmortalMarcus
 
-👁️ 279K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
+👁️ 280K • 👍 14K • 💬 1K • ⏱️ 35:38 • 4d ago
 
 ---
 
-**[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
+**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
 
-Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
+To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
 
-📺 Geekazine
+📺 PRO ROBOTS
 
-👁️ 1K • 👍 2 • 💬 2 • ⏱️ 22:52 • 1d ago
+👁️ 8K • 👍 240 • 💬 23 • ⏱️ 14:08 • 4d ago
 
 ---
 
-**[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
+**[Pudu D5 Jumping Robot](https://www.youtube.com/watch?v=1dMn45wBsGk)**
 
-Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
+Pudu Robotics D5 Series is a rugged quadruped robot that can run, jump, and even perform backflips.
 
-📺 UBTECH Robotics
+📺 Space and Technology
 
-👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 6d ago
+👁️ 631 • 👍 35 • 💬 1 • ⏱️ 0:28 • 3h ago
+
+---
+
+**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
+
+My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
+
+📺 Old Forge Creations
+
+👁️ 478K • 👍 8K • 💬 81 • ⏱️ 1:20 • 1d ago
 
 ---
 
