@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T05:54:34.256409+00:00'
+updated: '2026-01-26T06:39:32.128300+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 05:54 UTC  
+**Last Updated:** January 26, 2026 at 06:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -2.7%  
-**30d:** -3.1%  
-**90d:** -26.8%  
-**1y:** -10.0%  
+**24h:** -2.1%  
+**7d:** -2.0%  
+**30d:** -2.4%  
+**90d:** -26.3%  
+**1y:** -9.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $343.02B
+**Market Cap:** $347.26B
 Rank #2
 
 **Circulating Supply:** 120,694,419 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.4%
+-41.8%
 
 **All-Time Low:** $0.43
-+657437.7%
++664606.6%
 
 ---
 
@@ -72,15 +72,15 @@ No max supply
 
 I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
 
-4h ago
+5h ago
 
 ---
 
-**[Daily General Discussion January 25, 2026](https://www.reddit.com/r/ethereum/comments/1qmaztv/daily_general_discussion_january_25_2026/)**
+**[Daily General Discussion January 26, 2026](https://www.reddit.com/r/ethereum/comments/1qn7wd5/daily_general_discussion_january_26_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+38m ago
 
 ---
 
@@ -90,11 +90,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Daily General Discussion January 25, 2026](https://www.reddit.com/r/ethereum/comments/1qmaztv/daily_general_discussion_january_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
 **[Has anyone actually bought digital gift cards with cryptocurrency?](https://www.reddit.com/r/ethereum/comments/1qmiimm/has_anyone_actually_bought_digital_gift_cards/)**
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +110,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 A lot of major Web3 losses don’t begin with a Solidity vulnerability. They start with systemic weaknesses: > Key mismanagement > Over-privileged or poorly designed access controls > Centralized infrastructure dependencies >Unsafe upgrade paths and admin mechanisms While smart contract bugs often get the spotlight, real-world incidents show a different pattern. Many failures happen around the contracts not inside them. Smart contract security isn’t just about what’s written in Solidity. It’s about how systems are operated, upgraded, and controlled once they’re live. Audits still matter, but security only works when the
 
-20h ago
+21h ago
 
 ---
 
@@ -110,7 +118,7 @@ A lot of major Web3 losses don’t begin with a Solidity vulnerability. They sta
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,14 +146,6 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ---
 
-**[137 - GM! FARCASTER - Adrienne & NounishProf](https://www.reddit.com/r/ethereum/comments/1ql9jue/137_gm_farcaster_adrienne_nounishprof/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/-Ks05nJ42SU) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -216,15 +216,15 @@ CryptoSlate • 3d ago
 
 Reports say the Ethereum Foundation has started a new team to prepare the network for possible quantum computer attacks. These machines could one day break
 
-Bitcoinist.com • 15h ago
+Bitcoinist.com • 16h ago
 
 ---
 
-**[Citi Analysts Say Ethereum Transaction Trends Suggest ‘Address Poisoning’ Scams](https://www.pymnts.com/cryptocurrency/2026/citi-analysts-say-ethereum-transaction-trends-suggest-address-poisoning-scams/)**
+**[Ethereum ETF Outflows Surge as Bitwise’s ETHW Loses 4% of Assets in a Single Session](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-outflows-surge-as-bitwises-ethw-loses-4-of-assets-in-a-single-session)**
 
-A recent pattern of transactions on the decentralized blockchain network ethereum suggests that scammers have launched an “address poisoning” campaign,
+Ethereum Outflows Test Investor Nerves as Bitwise ETF Bleeds 4% of Assets in a Day The Bitwise Ethereum ETF, ETHW, saw a sharp reversal in sentiment on January 23, ...
 
-PYMNTS.com • 3d ago
+TipRanks • 17h ago
 
 ---
 
@@ -232,13 +232,13 @@ PYMNTS.com • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+**[https://www.benjamincowen.com/Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
 
-Ethereum has shown increasing signs of weakness relative to both Bitcoin and the broader crypto market. In this video, we ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 492 • 💬 54 • ⏱️ 26:46 • 3h ago
+👁️ 12K • 👍 1K • 💬 110 • ⏱️ 26:46 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 891 • 👍 73 • 💬 3 • ⏱️ 5:06 • 6h ago
+👁️ 1K • 👍 90 • 💬 5 • ⏱️ 5:06 • 7h ago
 
 ---
 
@@ -258,27 +258,7 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 234 • 💬 118 • ⏱️ 24:21 • 7h ago
-
----
-
-**[BlackRock’s CIO Gets Fed Chair Greenlight!! Huge News for Crypto &amp; Ethereum](https://www.youtube.com/watch?v=QzmMeRSqENo)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 278 • 💬 15 • ⏱️ 18:21 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ECuJ8ode508)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 113 • 💬 7 • ⏱️ 3:57 • 15h ago
+👁️ 6K • 👍 265 • 💬 340 • ⏱️ 24:21 • 8h ago
 
 ---
 
@@ -288,7 +268,57 @@ Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to act
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 385 • 💬 99 • ⏱️ 7:22 • 1d ago
+👁️ 8K • 👍 390 • 💬 99 • ⏱️ 7:22 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 71 • 💬 33 • ⏱️ 17:46 • 15h ago
+
+---
+
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 50K • 👍 2K • 💬 266 • ⏱️ 11:14 • 1d ago
+
+---
+
+**[BlackRock’s CIO Gets Fed Chair Greenlight!! Huge News for Crypto &amp; Ethereum](https://www.youtube.com/watch?v=QzmMeRSqENo)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 285 • 💬 16 • ⏱️ 18:21 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ECuJ8ode508)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 113 • 💬 8 • ⏱️ 3:57 • 16h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 26 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=nlgm9grmDYk)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 5K • 👍 722 • 1h ago
 
 ---
 
@@ -298,37 +328,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 21K • 👍 1K • 💬 179 • ⏱️ 29:47 • 1d ago
-
----
-
-**[Game Over For Ethereum... 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=d9ve76j-NXY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 191 • 💬 60 • ⏱️ 8:10 • 2d ago
-
----
-
-**[ETHEREUM (ETH) SOLANA (SOL) SUI | Price Prediction: Direct &amp; Massive Sell-Off Ahead !](https://www.youtube.com/watch?v=9KJtbWi9Ddo)**
-
-BYDFi Vip 3 + Bonuses: https://partner.bydfi.com/en/register?vipCode=KGTRADING Join our Safe and Private Discord ...
-
-📺 KG TRADING - Crypto Elliott Waves
-
-👁️ 259 • 👍 16 • 💬 5 • ⏱️ 20:04 • 14h ago
-
----
-
-**[Ethereum Is The Most Valuable Commodity of the 21st Century. (Here is the Proof). BlackRock!?](https://www.youtube.com/watch?v=XiZ-1vHKS0U)**
-
-Silver is the energy of the industrial world. Ethereum is the energy of the financial world. Larry Fink has made his choice—have ...
-
-📺 Boring Metals
-
-👁️ 425 • 👍 22 • 💬 8 • ⏱️ 21:54 • 16h ago
+👁️ 22K • 👍 1K • 💬 181 • ⏱️ 29:47 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T05:54:34.250378+00:00'
+updated: '2026-01-26T06:39:32.122295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 05:54 UTC  
+**Last Updated:** January 26, 2026 at 06:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,786.65
+### $87,922.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.8%  
-**30d:** +0.0%  
-**90d:** -20.3%  
-**1y:** -14.0%  
+**24h:** -0.9%  
+**7d:** -0.6%  
+**30d:** +0.2%  
+**90d:** -20.2%  
+**1y:** -13.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.29B
+**Market Cap:** $1754.22B
 Rank #1
 
-**Circulating Supply:** 19,980,618 BTC
+**Circulating Supply:** 19,980,637 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-30.4%
 
 **All-Time Low:** $67.81
-+128450.4%
++129348.5%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-7h ago
-
----
-
-**[Sometimes i think about this...](https://www.reddit.com/r/Bitcoin/comments/1qn52of/sometimes_i_think_about_this/)**
-
-2h ago
+8h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,26 +101,6 @@ Rank #1
 
 ---
 
-**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
-
-Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
-
-5h ago
-
----
-
-**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
-
-20h ago
-
----
-
-**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
-
-6h ago
-
----
-
 **[Better than nothing](https://www.reddit.com/r/Bitcoin/comments/1qn5bla/better_than_nothing/)**
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
@@ -135,11 +109,37 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 ---
 
+**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
+
+Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
+
+6h ago
+
+---
+
+**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
+
+7h ago
+
+---
+
+**[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
+
+21h ago
+
+---
+
+**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
+
+21m ago
+
+---
+
 **[Why invest in bitcoin instead of gold right now?](https://www.reddit.com/r/Bitcoin/comments/1qmseyv/why_invest_in_bitcoin_instead_of_gold_right_now/)**
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-10h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo Finance • 19h ago
 
 GameStop has transferred its entire Bitcoin stash to Coinbase Prime, triggering fresh speculation that the video game retailer may be preparing to unwind its short-lived Bitcoin treasury strategy. Key Takeaways: GameStop moved its entire 4,710 BTC stash to Coinbase Prime, sparking speculation of a potential exit from its Bitcoin treasury. ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg • 3h ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -197,7 +197,7 @@ ProPublica • 3d ago
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 12h ago
+BanklessTimes • 2h ago
 
 ---
 
@@ -296,9 +296,11 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
+**[Show HN: A desktop app that blocks work when you bite your nails](https://news.ycombinator.com/item?id=46759850)**
 
-⬆️ 2 • 💬 2 • 5h ago
+Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
+
+⬆️ 7 • 💬 0 • 7h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -312,27 +314,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 2K • 💬 182 • ⏱️ 9:12 • 7h ago
-
----
-
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
-
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
-
-📺 Fox Business Clips
-
-👁️ 29K • 👍 488 • 💬 276 • ⏱️ 4:20 • 10h ago
-
----
-
-**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
-
-Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
-
-📺 Alessio Rastani
-
-👁️ 10K • 👍 1K • 💬 245 • ⏱️ 4:51 • 6h ago
+👁️ 29K • 👍 2K • 💬 196 • ⏱️ 9:12 • 7h ago
 
 ---
 
@@ -342,7 +324,27 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 535 • 💬 209 • ⏱️ 9:36 • 3h ago
+👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 4h ago
+
+---
+
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
+
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
+
+📺 Fox Business Clips
+
+👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 11h ago
+
+---
+
+**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
+
+Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
+
+📺 Alessio Rastani
+
+👁️ 14K • 👍 2K • 💬 360 • ⏱️ 4:51 • 7h ago
 
 ---
 
@@ -352,7 +354,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 861 • 💬 92 • ⏱️ 13:42 • 5h ago
+👁️ 13K • 👍 1K • 💬 121 • ⏱️ 13:42 • 6h ago
 
 ---
 
@@ -362,37 +364,7 @@ Bitcoin is going through a natural rotation phase as long-term holders take prof
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 136 • 💬 16 • ⏱️ 1:01 • 12h ago
-
----
-
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
-
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 190 • 💬 36 • ⏱️ 6:47 • 7h ago
-
----
-
-**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
-
-The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 18K • 👍 936 • 💬 202 • ⏱️ 13:23 • 18h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 66K • 👍 3K • 💬 328 • ⏱️ 8:40 • 2d ago
+👁️ 4K • 👍 161 • 💬 17 • ⏱️ 1:01 • 13h ago
 
 ---
 
@@ -402,7 +374,37 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 70K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+👁️ 71K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+
+---
+
+**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+
+The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 18K • 👍 958 • 💬 207 • ⏱️ 13:23 • 19h ago
+
+---
+
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 67K • 👍 3K • 💬 328 • ⏱️ 8:40 • 2d ago
+
+---
+
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
+
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 204 • 💬 39 • ⏱️ 6:47 • 8h ago
 
 ---
 
