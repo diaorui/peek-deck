@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T21:47:38.253578+00:00'
+updated: '2026-01-26T22:24:20.614274+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 21:47 UTC  
+**Last Updated:** January 26, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,662.74
+### $88,029.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.8%  
-**30d:** -0.0%  
-**90d:** -20.4%  
-**1y:** -14.0%  
+**24h:** +1.6%  
+**7d:** -0.5%  
+**30d:** +0.3%  
+**90d:** -20.1%  
+**1y:** -13.7%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-3h ago
+4h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,13 +101,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-4h ago
-
----
-
-**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
-
-18h ago
+5h ago
 
 ---
 
@@ -119,9 +113,21 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 ---
 
+**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
+
+18h ago
+
+---
+
+**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
+
+49m ago
+
+---
+
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -133,13 +139,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-23h ago
-
----
-
-**[Michael Burry still thinks bitcoin is worthless. Why hasn't he done the work to figure it out?](https://www.reddit.com/r/Bitcoin/comments/1qnjp3n/michael_burry_still_thinks_bitcoin_is_worthless/)**
-
-5h ago
+1d ago
 
 ---
 
@@ -159,7 +159,15 @@ CoinDesk • 10h ago
 
 Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
 
-TradingView • 6h ago
+TradingView • 7h ago
+
+---
+
+**[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://finance.yahoo.com/news/why-bitcoin-failing-role-safe-210000989.html)**
+
+Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -171,57 +179,47 @@ The Motley Fool • 1d ago
 
 ---
 
-**[The Fed Is Suddenly Hurtling Toward A $34 Trillion BlackRock Gold And Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/25/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+**[Peter Schiff Says Bitcoin Won’t Become the World’s Reserve Currency in Tucker Carlson Interview](https://bitcoinmagazine.com/news/peter-schiff-bitcoin-tucker-carlson)**
 
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Forbes • 1d ago
-
----
-
-**[Watch Building Strategy For Bitcoin-Hesitant Investors: Willis](https://www.bloomberg.com/news/videos/2026-01-26/building-strategy-for-bitcoin-hesitant-investors-willis-video)**
-
-Bloomberg.com • 1h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
+**[Bitcoin Price Fights for $88,000 as Fed Looms and Bearish Technical Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-fights-for-88000)**
 
-Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
+The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
 
-The Block • 8h ago
-
----
-
-**[Strategy buys more Bitcoin—$264 million of it—even as Bitcoin slumps to $87,000](https://fortune.com/2026/01/26/strategy-buys-more-bitcoin-264-million-of-it-even-as-bitcoin-slumps-to-87000/)**
-
-The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
-
-Fortune • 3h ago
+Bitcoin Magazine • 52m ago
 
 ---
 
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
+**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Bitcoin price news: BTC holds near year's low as precious metals continue garnering attention](https://www.coindesk.com/markets/2026/01/26/bitcoin-stuck-near-usd88-000-as-gold-s-and-silver-s-record-breaking-rallies-show-exhaustion-signs)**
+**[BlackRock doubles down on bitcoin fund offerings with income-focused filing](https://www.coindesk.com/markets/2026/01/26/blackrock-doubles-down-on-bitcoin-fund-offerings-with-income-focused-filing)**
 
-"Gold and silver casually adding an entire bitcoin market cap in a single day," wrote one crypto analyst.
+The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
 
-CoinDesk • 58m ago
+CoinDesk • 6h ago
 
 ---
 
-**[Metaplanet sees $680 million in unrealized losses on bitcoin holdings in 2025](https://www.theblock.co/post/386997/metaplanet-680-million-bitcoin-loss)**
+**[BlackRock Files With SEC to Launch iShares Bitcoin Premium Income ETF](https://finance.yahoo.com/news/blackrock-files-sec-launch-ishares-163132104.html)**
 
-Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
+BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
 
-The Block • 11h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[BlackRock files for new bitcoin ETF with covered-call strategy (BLK:NYSE)](https://seekingalpha.com/news/4542617-blackrock-files-for-new-bitcoin-etf-with-covered-call-strategy)**
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -233,7 +231,7 @@ The Block • 11h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 16 • 💬 0 • 9h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 16 • 💬 0 • 10h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -280,7 +278,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 21h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -292,7 +290,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 34 • 💬 20 • 21h ago
+⬆️ 36 • 💬 20 • 21h ago
 
 ---
 
@@ -314,7 +312,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 566 • ⏱️ 9:12 • 22h ago
+👁️ 49K • 👍 3K • 💬 566 • ⏱️ 9:12 • 23h ago
 
 ---
 
@@ -324,7 +322,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 367 • 💬 437 • ⏱️ 15:36 • 16h ago
+👁️ 13K • 👍 367 • 💬 437 • ⏱️ 15:36 • 17h ago
 
 ---
 
@@ -354,7 +352,7 @@ Bitcoin #Crypto #Finance Bitcoin is trading in the shadow of Washington dysfunct
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 947 • 💬 130 • ⏱️ 1:02:59 • 6h ago
+👁️ 16K • 👍 947 • 💬 130 • ⏱️ 1:02:59 • 7h ago
 
 ---
 
@@ -364,7 +362,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 217 • ⏱️ 13:42 • 21h ago
+👁️ 25K • 👍 2K • 💬 217 • ⏱️ 13:42 • 22h ago
 
 ---
 
@@ -374,7 +372,7 @@ Binance Founder Changpeng Zhao (CZ) says 2026 will be a supercycle year for Bitc
 
 📺 Thinking Crypto
 
-👁️ 324 • 👍 19 • 💬 25 • ⏱️ 1:00 • 2h ago
+👁️ 324 • 👍 19 • 💬 25 • ⏱️ 1:00 • 3h ago
 
 ---
 
@@ -394,7 +392,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 29K • 👍 3K • 💬 641 • ⏱️ 4:51 • 22h ago
+👁️ 29K • 👍 3K • 💬 641 • ⏱️ 4:51 • 23h ago
 
 ---
 

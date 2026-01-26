@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T21:47:38.261766+00:00'
+updated: '2026-01-26T22:24:20.623469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 21:47 UTC  
+**Last Updated:** January 26, 2026 at 22:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 13h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 14h ago
 
 ---
 
@@ -62,6 +62,14 @@ I don't have much information, but it's a bit viral on X
 
 ---
 
+**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
+
+In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
+
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 2m ago
+
+---
+
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
 1h ago
@@ -70,7 +78,7 @@ I don't have much information, but it's a bit viral on X
 
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +86,7 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 9h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 10h ago
 
 ---
 
@@ -98,14 +106,6 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ---
 
-**[Feedback on Our Open-Source Animatronics DIY Set!](https://www.reddit.com/r/robotics/comments/1qnfx26/feedback_on_our_opensource_animatronics_diy_set/)**
-
-https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,27 @@ https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
+
+---
+
+**[Scholastic Spotlight: Earlham High earns NASA grant](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spotlight-earlham-high-earns-nasa-grant/)**
+
+who13.com • 9h ago
+
+---
+
+**[Unpredictable movements of autonomous robots can increase human discomfort](https://techxplore.com/news/2026-01-unpredictable-movements-autonomous-robots-human.html)**
+
+Tech Xplore • 1h ago
+
+---
+
+**[Micropolis AI Robotics (MCRP) Reveals Autonomous Logistics Platform at UMEX 2026](https://finance.yahoo.com/news/micropolis-ai-robotics-mcrp-reveals-203000868.html)**
+
+LOS ANGELES, CA - January 26, 2026 (NEWMEDIAWIRE) - Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven security solutions, announced the official reveal of its Autonomous Logistics Platform during the UM...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -130,7 +150,7 @@ kyivpost.com • 1d ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 2h ago
+thespoon.tech • 3h ago
 
 ---
 
@@ -138,13 +158,15 @@ thespoon.tech • 2h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
-**[Microsoft debuts Maia 200 AI chip promising 3x inference performance](https://interestingengineering.com/ai-robotics/3x-power-boost-microsoft-launches-maia-200-to-run-ai-inference-faster-and-cheaper)**
+**[Micropolis AI Robotics (NYSE: MCRP) Reveals Autonomous Logistics Platform at UMEX 2026](https://www.tipranks.com/news/newswire/micropolis-ai-robotics-nyse-mcrp-reveals-autonomous-logistics-platform-at-umex-2026)**
 
-Interesting Engineering • 1h ago
+Austin, Texas, United States, January 26th, 2026, FinanceWire Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven secu...
+
+TipRanks • 4h ago
 
 ---
 
@@ -161,28 +183,6 @@ Financial Times • 1d ago
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
-
-Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
-
-TechRadar • 1d ago
-
----
-
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
-
-MarketBeat • 3d ago
-
----
-
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
-
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
-
-channel3000.com • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
 
 📺 Unstoppable Gadgets
 
-👁️ 23K • 👍 554 • 💬 10 • ⏱️ 0:20 • 22h ago
+👁️ 23K • 👍 554 • 💬 10 • ⏱️ 0:20 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 796 • 👍 285 • 💬 1 • ⏱️ 7:25 • 14h ago
+👁️ 796 • 👍 285 • 💬 1 • ⏱️ 7:25 • 15h ago
 
 ---
 

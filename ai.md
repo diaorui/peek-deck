@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T21:47:38.246071+00:00'
+updated: '2026-01-26T22:24:20.605893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 21:47 UTC  
+**Last Updated:** January 26, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 The case, filed in a California court, is the first suit linking the chatbot to murder.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 4h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 5h ago
+
+---
+
+**[They thought they were making technological breakthroughs. It was an AI-sparked delusion | CNN Business](https://www.reddit.com/r/artificial/comments/1qntez3/they_thought_they_were_making_technological/)**
+
+James, a married father from upstate New York, has always been interested in AI. He works in the technology field and has used ChatGPT since its release for recommendations, “second guessing your doctor” and the like.
+
+🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 1h ago
 
 ---
 
@@ -65,7 +73,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 5h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 6h ago
 
 ---
 
@@ -73,7 +81,23 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 4h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 5h ago
+
+---
+
+**[EPUB + PDFs for Dario Amodei's The Adolescence of Technology](https://www.reddit.com/r/artificial/comments/1qnujpc/epub_pdfs_for_dario_amodeis_the_adolescence_of/)**
+
+I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
+
+21m ago
+
+---
+
+**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
+
+Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 1h ago
 
 ---
 
@@ -81,7 +105,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 A lot of AI discussion still treats intelligence as the core bottleneck. From a research perspective, that assumption is starting to break down. We already know how to produce systems that generate high-quality responses in isolation. The failure modes showing up now are different: degradation across long horizons loss of state consistency uncontrolled policy drift under autonomy weak guarantees once systems leave the sandbox These issues don’t map cleanly to better training or larger models. They map to control theory, systems engineering, and governance. Once an AI system is allowed to act in the world, intelligence alone is insufficient. You need: explicit state models constrained action spaces observability and auditability mechanisms for rollback and correction Human institutions solved this long before machine learning existed. Intelligence never ran organizations. Structure, constraint, and accountability did. From a research angle, this raises questions that feel underexplored compared to model-centric work: What are the right abstractions for long-horizon AI state? How should autonomy be bounded without collapsing usefulness? Where does formal verification realistically fit for AI systems that adapt? Is “alignment” even the right framing once systems are embedded in workflows? Curious how others here think about this shift. Are we nearing the point where the hardest AI problems are no longer ML problems at all, but systems and governance problems disguised as ML?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,31 +113,7 @@ A lot of AI discussion still treats intelligence as the core bottleneck. From a 
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-5h ago
-
----
-
-**[AMA on new EU rules on algorithm use in the workplace Tuesday 27.01 at 2 pm CET](https://www.reddit.com/r/artificial/comments/1qni6u7/ama_on_new_eu_rules_on_algorithm_use_in_the/)**
-
-Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
-
 6h ago
-
----
-
-**[OpenAI wants to be a scientific research partner](https://www.reddit.com/r/artificial/comments/1qnedls/openai_wants_to_be_a_scientific_research_partner/)**
-
-AI is increasingly being used as a research collaborator for mathematicians and scientists.
-
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 9h ago
-
----
-
-**[OpenAI Targeting Watchdogs](https://www.reddit.com/r/artificial/comments/1qnln7f/openai_targeting_watchdogs/)**
-
-Can we all just agree to stop using this crap? Tech bros are the worst https://www.youtube.com/watch?v=qnOmUWd-OII
-
-4h ago
 
 ---
 
@@ -123,7 +123,15 @@ Can we all just agree to stop using this crap? Tech bros are the worst https://w
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
+
+---
+
+**[AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions](https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html)**
+
+The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
+
+CNBC • 3h ago
 
 ---
 
@@ -135,35 +143,41 @@ Axios • 4h ago
 
 ---
 
-**[Scientists launch AI DinoTracker app that identifies dinosaur footprints](https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints)**
+**[Anthropic CEO Dario Amodei's warning from inside the AI boom](https://qz.com/anthropic-dario-amodei-ai-warning-regulation)**
 
-Researchers say artificial intelligence system matches human expert classification about 90% of the time
+Dario Amodei warns that the AI prize is too glittering to restrain — even as his lab races to sell the tech he thinks might break society
 
-The Guardian • 1h ago
-
----
-
-**[AI robot brings emotional care to pets](https://www.foxnews.com/tech/ai-robot-brings-emotional-care-pets)**
-
-Aura AI pet robot tracks behavior changes to detect when pets feel excited, anxious or relaxed. Tuya Smart's device offers laser play, treat dispensing and voice interaction.
-
-Fox News • 1h ago
+qz.com • 1h ago
 
 ---
 
-**[Why AI won’t wipe out white-collar jobs](https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs)**
+**[Anthropic CEO Worries Humanity May Not be ‘Mature’ Enough for Advanced AI](https://gizmodo.com/anthropic-ceo-worries-humanity-may-not-be-mature-enough-for-advanced-ai-2000714187)**
 
-The technology will expand their scope and raise their value
+When has that ever stopped us?
 
-The Economist • 1h ago
+Gizmodo • 13m ago
 
 ---
 
-**[AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions](https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html)**
+**[China AI Hardware Firms Trump Internet Giants in Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-26/china-ai-hardware-firms-trump-internet-giants-in-growth-outlook?srnd=homepage-americas)**
 
-The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
+Bloomberg.com • 24m ago
 
-CNBC • 2h ago
+---
+
+**[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
+
+Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
+
+The Guardian • 13h ago
+
+---
+
+**[WATCH: Jim VandeHei's blunt AI advice](https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice)**
+
+We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
+
+Axios • 12h ago
 
 ---
 
@@ -171,7 +185,7 @@ CNBC • 2h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 5h ago
+The Official Microsoft Blog • 6h ago
 
 ---
 
@@ -179,23 +193,7 @@ The Official Microsoft Blog • 5h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 5h ago
-
----
-
-**[The AI Application Boom: Why Microsoft and Nvidia Will Win Big This Year](https://finance.yahoo.com/news/ai-application-boom-why-microsoft-185000829.html)**
-
-The two tech giants remain the most balanced plays in the booming AI market.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence](https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations)**
-
-The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
-
-ProPublica • 11h ago
+CNBC • 6h ago
 
 ---
 
@@ -207,13 +205,13 @@ ProPublica • 11h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 588 • 💬 619 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 590 • 💬 622 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 354 • 💬 299 • 5h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 408 • 💬 356 • 5h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -221,7 +219,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 348 • 💬 214 • 21h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 359 • 💬 214 • 21h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -229,7 +227,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 286 • 💬 149 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 327 • 💬 175 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -237,13 +235,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 177 • 💬 258 • 7h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
-
----
-
-**[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
-
-⬆️ 120 • 💬 87 • 23h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 181 • 💬 269 • 8h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -251,7 +243,21 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 95 • 💬 34 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 171 • 💬 76 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+
+---
+
+**[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
+
+⬆️ 120 • 💬 88 • 23h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+
+---
+
+**[There is an AI code review bubble](https://news.ycombinator.com/item?id=46766961)**
+
+Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
+
+⬆️ 106 • 💬 78 • 6h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -271,14 +277,6 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 ---
 
-**[There is an AI code review bubble](https://news.ycombinator.com/item?id=46766961)**
-
-Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
-
-⬆️ 79 • 💬 59 • 6h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -289,7 +287,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 20h ago
+👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 21h ago
 
 ---
 
@@ -309,7 +307,7 @@ A quick review of the AI narative at Davos 2026. Topics: - AI hype versus realit
 
 📺 Awesome
 
-👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 8h ago
+👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 9h ago
 
 ---
 
@@ -467,7 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 260 • 16h ago
+⬇️ 749 • ❤️ 260 • 17h ago
 
 ---
 
@@ -479,7 +477,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 243 • 15h ago
+⬇️ 5,159 • ❤️ 243 • 16h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 591 • 1h ago
+⭐ 10.7k • 🔱 591 • 2h ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 16h ago
+⭐ 9.7k • 🔱 1.3k • 17h ago
 
 ---
 
@@ -712,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.0k • 8h ago
+⭐ 5.7k • 🔱 6.0k • 9h ago
 
 ---
 
@@ -722,7 +720,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.8k • 🔱 516 • 1d ago
+⭐ 4.8k • 🔱 516 • 2d ago
 
 ---
 
@@ -732,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.8k • 🔱 866 • 2h ago
+⭐ 3.8k • 🔱 866 • 3h ago
 
 ---
 

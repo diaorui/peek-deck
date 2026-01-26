@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T21:47:38.258951+00:00'
+updated: '2026-01-26T22:24:20.620257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 21:47 UTC  
+**Last Updated:** January 26, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,925.56
+### $2,934.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -1.0%  
-**30d:** -1.5%  
-**90d:** -25.5%  
-**1y:** -8.5%  
+**24h:** +3.6%  
+**7d:** -0.7%  
+**30d:** -1.1%  
+**90d:** -25.2%  
+**1y:** -8.1%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
+
+---
+
+**[Liquity's BOLD stablecoin receives A- rating from Bluechip with perfect scores in Management, Decentralization, and Governance](https://www.reddit.com/r/ethereum/comments/1qnid9x/liquitys_bold_stablecoin_receives_a_rating_from/)**
+
+Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
+
+7h ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
 🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 8h ago
-
----
-
-**[Liquity's BOLD stablecoin receives A- rating from Bluechip with perfect scores in Management, Decentralization, and Governance](https://www.reddit.com/r/ethereum/comments/1qnid9x/liquitys_bold_stablecoin_receives_a_rating_from/)**
-
-Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
-
-6h ago
 
 ---
 
@@ -158,19 +158,11 @@ The Block • 16h ago
 
 ---
 
-**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
+**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
 
-Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
+BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-Yahoo Finance • 3d ago
-
----
-
-**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
-
-The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
-
-TipRanks • 7h ago
+The Block • 7h ago
 
 ---
 
@@ -178,7 +170,15 @@ TipRanks • 7h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
+
+---
+
+**[BitMine, the largest Ethereum treasury firm, makes biggest ether purchase of 2026](https://www.coindesk.com/business/2026/01/26/bitmine-the-largest-ethereum-treasury-makes-biggest-ether-purchase-of-2026)**
+
+The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ Decrypt • 5h ago
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -214,11 +214,11 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
+**[Ethereum Stalls In A Critical Zone As Breakout Structures Wait For Confirmation](https://www.tradingview.com/news/newsbtc:4b389a7b2094b:0-ethereum-stalls-in-a-critical-zone-as-breakout-structures-wait-for-confirmation/)**
 
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
+Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
 
-TradingView • 1d ago
+TradingView • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 33 • ⏱️ 10:51 • 11h ago
+👁️ 13K • 👍 3K • 💬 33 • ⏱️ 10:51 • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 210 • ⏱️ 26:46 • 18h ago
+👁️ 51K • 👍 3K • 💬 210 • ⏱️ 26:46 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 120 • 👍 15 • 💬 5 • ⏱️ 4:37 • 3h ago
+👁️ 120 • 👍 15 • 💬 5 • ⏱️ 4:37 • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 98 • 💬 32 • ⏱️ 20:33 • 1h ago
+👁️ 1K • 👍 98 • 💬 32 • ⏱️ 20:33 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 5 • ⏱️ 5:37 • 8h ago
+👁️ 2K • 👍 132 • 💬 5 • ⏱️ 5:37 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 76 • 👍 19 • 💬 24 • ⏱️ 11:36 • 1h ago
+👁️ 76 • 👍 19 • 💬 24 • ⏱️ 11:36 • 2h ago
 
 ---
 
