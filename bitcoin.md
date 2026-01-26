@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T14:57:25.554015+00:00'
+updated: '2026-01-26T15:36:46.656171+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 14:57 UTC  
+**Last Updated:** January 26, 2026 at 15:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,687.46
+### $88,249.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -0.9%  
-**30d:** -0.1%  
-**90d:** -20.4%  
-**1y:** -14.1%  
+**24h:** +0.2%  
+**7d:** -0.1%  
+**30d:** +0.7%  
+**90d:** -19.8%  
+**1y:** -13.4%  
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-3h ago
+4h ago
 
 ---
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,15 +127,15 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 ---
 
-**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
+**[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
-
-14h ago
+3h ago
 
 ---
 
-**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
+**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
+
+Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
 15h ago
 
@@ -145,17 +145,43 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC under $88,000 ahead of Fed week and Big Tech earnings](https://www.coindesk.com/markets/2026/01/25/bitcoin-slips-below-usd88-000-ahead-of-fed-week-and-big-tech-earnings)**
+**[Bitcoin risks fourth straight monthly loss, a streak not seen since 2018](https://www.coindesk.com/markets/2026/01/26/bitcoin-risks-fourth-straight-monthly-loss-a-streak-not-seen-since-2018)**
 
-Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
+A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 20h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin slides near $87,000 as US government shutdown fears weigh on crypto](https://www.theblock.co/post/386961/bitcoin-slides-us-government-shutdown-fears)**
+**[How Silver Cracked $100 And Added More Than Bitcoin's Entire Market Cap In 3 Months](https://finance.yahoo.com/news/silver-cracked-100-added-more-003147330.html)**
 
-The Block • 10h ago
+Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[The 15 Types Of Bitcoiners You’ll Definitely See At Bitcoin 2026](https://bitcoinmagazine.com/conference/the-15-types-of-bitcoiners-youll-definitely-see-at-bitcoin-2026)**
+
+As Bitcoin rolls into 2026, the ecosystem keeps growing - and so does the cast of characters. Here are the 15 personas you’ll absolutely encounter at Bitcoin 2026, whether you’re there to build, stack, meme, or argue about corporate balance sheets.
+
+Bitcoin Magazine • 14m ago
+
+---
+
+**[Metaplanet sees $680 million in unrealized losses on bitcoin holdings in 2025](https://www.theblock.co/post/386997/metaplanet-680-million-bitcoin-loss)**
+
+Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
+
+The Block • 5h ago
+
+---
+
+**[Bitcoin January 26 daily chart alert - Bears in command](https://www.kitco.com/news/article/2026-01-26/bitcoin-january-26-daily-chart-alert-bears-command)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 5h ago
 
 ---
 
@@ -163,23 +189,7 @@ The Block • 10h ago
 
 Bitcoin developers prefer to be judged by the quality of their work, not by their sex. However, female developers benefit from support as they begin working on Bitcoin.
 
-Forbes • 49m ago
-
----
-
-**[Better Buy in 2026: XRP, Dogecoin, or Bitcoin?](https://finance.yahoo.com/news/better-buy-2026-xrp-dogecoin-121500179.html)**
-
-Which of these top coins is the best way to play the crypto market this year?
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin risks fourth straight monthly loss, a streak not seen since 2018](https://www.coindesk.com/markets/2026/01/26/bitcoin-risks-fourth-straight-monthly-loss-a-streak-not-seen-since-2018)**
-
-A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
-
-CoinDesk • 3h ago
+Forbes • 1h ago
 
 ---
 
@@ -205,19 +215,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Solana Instead?](https://www.fool.com/investing/2026/01/25/should-you-forget-bitcoin-and-buy-solana-instead/)**
+**[Davos Takeaways - Bitcoin Is Not Here To Replace Banks, And That's A Good Thing](https://seekingalpha.com/article/4862574-davos-takeaways-bitcoin-is-not-here-to-replace-banks-and-thats-a-good-thing)**
 
-Solana has a lot of growth potential, but Bitcoin is a safer choice.
+Bitcoin's deflationary nature makes it unsuitable as a global currency but ideal for long-term wealth preservation and institutional adoption. Read more on BTC.
 
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin sells off into weekly close as bulls face $86K BTC price reckoning](https://www.tradingview.com/news/cointelegraph:d6355883e094b:0-bitcoin-sells-off-into-weekly-close-as-bulls-face-86k-btc-price-reckoning/)**
-
-Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
-
-TradingView • 20h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -229,7 +231,7 @@ TradingView • 20h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 11 • 💬 0 • 2h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 12 • 💬 0 • 3h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -270,7 +272,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 1h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 2h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -296,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 33 • 💬 17 • 14h ago
+⬆️ 33 • 💬 17 • 15h ago
 
 ---
 
@@ -320,7 +322,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 455 • ⏱️ 9:36 • 12h ago
+👁️ 21K • 👍 1K • 💬 455 • ⏱️ 9:36 • 13h ago
 
 ---
 
@@ -330,7 +332,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 39K • 👍 572 • 💬 397 • ⏱️ 4:20 • 19h ago
+👁️ 39K • 👍 572 • 💬 397 • ⏱️ 4:20 • 20h ago
 
 ---
 
@@ -340,7 +342,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 276 • 💬 222 • ⏱️ 15:36 • 9h ago
+👁️ 8K • 👍 276 • 💬 222 • ⏱️ 15:36 • 10h ago
 
 ---
 
@@ -350,7 +352,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 24K • 👍 2K • 💬 498 • ⏱️ 4:51 • 15h ago
+👁️ 24K • 👍 2K • 💬 498 • ⏱️ 4:51 • 16h ago
 
 ---
 
@@ -390,7 +392,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 169 • ⏱️ 13:42 • 14h ago
+👁️ 20K • 👍 1K • 💬 169 • ⏱️ 13:42 • 15h ago
 
 ---
 
@@ -400,7 +402,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 229 • 💬 31 • ⏱️ 6:47 • 16h ago
+👁️ 4K • 👍 229 • 💬 31 • ⏱️ 6:47 • 17h ago
 
 ---
 

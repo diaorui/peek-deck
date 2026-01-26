@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T14:57:25.545271+00:00'
+updated: '2026-01-26T15:36:46.647697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 14:57 UTC  
+**Last Updated:** January 26, 2026 at 15:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 23h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 1d ago
 
 ---
 
@@ -49,7 +49,21 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 2h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 3h ago
+
+---
+
+**[How digital forensics could prove what’s real in the age of deepfakes](https://www.reddit.com/r/artificial/comments/1qnir7m/how_digital_forensics_could_prove_whats_real_in/)**
+
+🔗 [scientificamerican.com](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) • 20m ago
+
+---
+
+**[AMA on new EU rules on algorithm use in the workplace Tuesday 27.01 at 2 pm CET](https://www.reddit.com/r/artificial/comments/1qni6u7/ama_on_new_eu_rules_on_algorithm_use_in_the/)**
+
+Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
+
+41m ago
 
 ---
 
@@ -89,7 +103,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 10h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 11h ago
 
 ---
 
@@ -98,22 +112,6 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
 🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 2d ago
-
----
-
-**[One-Minute Daily AI News 1/24/2026](https://www.reddit.com/r/artificial/comments/1qm8ga8/oneminute_daily_ai_news_1242026/)**
-
-Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Handle 60-Minute Long-Form Audio in a Single Pass.[1] At Davos, fears about AI-driven job loss take center stage.[2] Big Tech companies and upcoming startups want to use generative AI to build software and hardware for kids.[3] Graphene material that folds, moves, and senses could power next-gen soft robots.[4] Sources: [1] https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/ [2] https://finance.yahoo.com/news/at-davos-fears-about-ai-driven-job-loss-take-center-stage-124805401.html [3] https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/ [4] https://interestingengineering.com/ai-robotics/mcgill-graphene-oxide-origami-soft-robots
-
-1d ago
-
----
-
-**[Be careful of custom tokens in your LLM !!!](https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/)**
-
-LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
-
-🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 2d ago
 
 ---
 
@@ -129,59 +127,47 @@ The Guardian • 6h ago
 
 ---
 
-**[Elon Musk’s X Faces European Inquiry Over Sexualized A.I. Images](https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html)**
+**[Social media users turn to AI in attempt to 'enhance' US shooting images](https://www.bbc.com/news/live/c86vy97g8zgt)**
 
-The New York Times • 3h ago
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
----
-
-**[EU investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/clye99wg0y8o)**
-
-The Commission will assess whether "manipulated sexually explicit images" have been shown to users in the EU.
-
-BBC • 2h ago
+BBC • 23m ago
 
 ---
 
-**[EU launches inquiry into X over sexually explicit images made by Grok AI](https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai)**
+**[Granite Geek: A.I. allows people’s worst fantasies to become real](https://www.concordmonitor.com/2026/01/26/new-hampshire-ai-case/)**
 
-Investigation comes after Elon Musk’s firm sparked outrage by allowing users to ‘strip’ photos of women and children
-
-The Guardian • 3h ago
+concordmonitor.com • 29m ago
 
 ---
 
-**[Nvidia Launches AI Technologies to Aid Weather Forecasting](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting)**
+**[EGOT winner defends using AI to create new song, first in 13 years](https://www.masslive.com/entertainment/2026/01/egot-winner-defends-using-ai-to-create-new-song-first-in-13-years.html)**
 
-Bloomberg.com • 57m ago
+While she will not allow the AI company to “create, clone or copy my voice,” she did approve of them using “AI arrangements" on the track.
 
----
-
-**[AI frenzy: Business investment has been an unexpected source of strength for the U.S. economy](https://www.marketwatch.com/story/ai-frenzy-business-investment-has-been-an-unexpected-source-of-strength-for-the-u-s-economy-197ff347?gaa_at=eafs&gaa_n=AWEtsqfhA-eaNxfXn1WJ_-pXgcdFI5W_FLNr0T8LrZT0qbGkd5l2T7f7wwPG&gaa_ts=69777dd1&gaa_sig=uvlkAXz1YEGXp96uktPg0r3I0bar7kE5kKBtQRzKSeZLN5wpITtxaCcOEPUpt9otXhNl8vEiaJYzh9Xvk_OGTQ%3D%3D)**
-
-MarketWatch • 59m ago
+masslive.com • 8m ago
 
 ---
 
-**[CoreWeave stock jumps 8% as Nvidia invests $2 billion to expand AI data center capacity](https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html)**
+**[More Data Isn’t Always Better for AI Decisions](https://www.pymnts.com/artificial-intelligence-2/2026/more-data-isnt-always-better-for-ai-decisions/)**
 
-Nvidia purchased CoreWeave Class A common stock at $87.20 per share.
+For decades, the prevailing view in artificial intelligence (AI) and analytics has been “more data is better.” Larger datasets are often associated with
 
-CNBC • 1h ago
-
----
-
-**[NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories](https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories)**
-
-NVIDIA (Nasdaq: NVDA) and CoreWeave, Inc. (Nasdaq: CRWV) today announced an expansion of their long-standing complementary relationship to enable CoreWeave to accelerate the buildout of more than 5 gigawatts of AI factories by 2030 to advance AI adoption at global scale.
-
-NVIDIA Newsroom • 4h ago
+PYMNTS.com • 32m ago
 
 ---
 
-**[Nvidia Expands Its Open-Source AI Weather- and Climate-Tracking Models](https://www.wsj.com/articles/nvidia-expands-its-open-source-ai-weather-and-climate-tracking-models-bace995d?gaa_at=eafs&gaa_n=AWEtsqcn5skwT6yWOh2z03oqHWB_QRgMLjJrH-8NLPo_P38QhCV5E0c830PG&gaa_ts=69777dd1&gaa_sig=q8--nb7JkdO2d0K9VykHOLvkulqzwbxoeuJa2GmAspYfLJHKE6gAUpnAV9dlQqhKw8tutXie_sd8IKptdpU3Eg%3D%3D)**
+**[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The Wall Street Journal • 57m ago
+The New York Times • 5h ago
+
+---
+
+**[Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence](https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations)**
+
+The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
+
+ProPublica • 5h ago
 
 ---
 
@@ -193,6 +179,22 @@ The Economist • 20h ago
 
 ---
 
+**[CoreWeave stock jumps 8% as Nvidia invests $2 billion to expand AI data center capacity](https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html)**
+
+Nvidia purchased CoreWeave Class A common stock at $87.20 per share.
+
+CNBC • 2h ago
+
+---
+
+**[NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories](https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories)**
+
+NVIDIA (Nasdaq: NVDA) and CoreWeave, Inc. (Nasdaq: CRWV) today announced an expansion of their long-standing complementary relationship to enable CoreWeave to accelerate the buildout of more than 5 gigawatts of AI factories by 2030 to advance AI adoption at global scale.
+
+NVIDIA Newsroom • 5h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +203,7 @@ The Economist • 20h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 582 • 💬 606 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 582 • 💬 610 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -209,7 +211,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 307 • 💬 189 • 14h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 324 • 💬 204 • 15h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -223,7 +225,15 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 111 • 💬 74 • 16h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 115 • 💬 76 • 16h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+
+---
+
+**[Apple introduces new AirTag with longer range and improved findability](https://news.ycombinator.com/item?id=46765819)**
+
+Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
+
+⬆️ 107 • 💬 119 • 1h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -231,7 +241,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 87 • 💬 19 • 20h ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 89 • 💬 19 • 21h ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -259,15 +269,7 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 **[AI Tribalism](https://news.ycombinator.com/item?id=46758175)**
 
-⬆️ 57 • 💬 90 • 17h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
-
----
-
-**['Amelia': the AI-generated British schoolgirl, a far-right social media star](https://news.ycombinator.com/item?id=46753364)**
-
-Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
-
-⬆️ 44 • 💬 53 • 1d ago • [the Guardian](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)
+⬆️ 57 • 💬 90 • 18h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 
 ---
 
@@ -281,7 +283,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 43K • 👍 850 • 💬 282 • ⏱️ 4:20 • 13h ago
+👁️ 43K • 👍 850 • 💬 282 • ⏱️ 4:20 • 14h ago
 
 ---
 
@@ -291,7 +293,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 142K • 👍 8K • 💬 1K • ⏱️ 12:43 • 15h ago
+👁️ 142K • 👍 8K • 💬 1K • ⏱️ 12:43 • 16h ago
 
 ---
 
@@ -361,7 +363,7 @@ My site: https://natebjones.com Full Story w/ Prompt: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 24K • 👍 1K • 💬 117 • ⏱️ 21:32 • 19h ago
+👁️ 24K • 👍 1K • 💬 117 • ⏱️ 21:32 • 20h ago
 
 ---
 
@@ -459,7 +461,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 255 • 9h ago
+⬇️ 749 • ❤️ 255 • 10h ago
 
 ---
 
@@ -471,7 +473,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 237 • 8h ago
+⬇️ 5,159 • ❤️ 237 • 9h ago
 
 ---
 
@@ -706,7 +708,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.6k • 🔱 6.0k • 1h ago
+⭐ 5.6k • 🔱 6.0k • 2h ago
 
 ---
 
