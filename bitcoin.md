@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T14:30:04.139835+00:00'
+updated: '2026-01-26T14:57:25.554015+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 14:30 UTC  
+**Last Updated:** January 26, 2026 at 14:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-42m ago
+1h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,19 +111,19 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-10h ago
+11h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-17h ago
+18h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-13h ago
+14h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 10h ago
 
 Bitcoin developers prefer to be judged by the quality of their work, not by their sex. However, female developers benefit from support as they begin working on Bitcoin.
 
-Forbes • 22m ago
+Forbes • 49m ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2h ago
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Motley Fool • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 54m ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 1h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -284,19 +284,19 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 15h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
-⬆️ 1 • 💬 1 • 5d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+⬆️ 1 • 💬 1 • 6d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
 
 ---
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 33 • 💬 17 • 13h ago
+⬆️ 33 • 💬 17 • 14h ago
 
 ---
 
@@ -310,7 +310,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 381 • ⏱️ 9:12 • 15h ago
+👁️ 42K • 👍 3K • 💬 381 • ⏱️ 9:12 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 455 • ⏱️ 9:36 • 11h ago
+👁️ 21K • 👍 1K • 💬 455 • ⏱️ 9:36 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 39K • 👍 572 • 💬 397 • ⏱️ 4:20 • 18h ago
+👁️ 39K • 👍 572 • 💬 397 • ⏱️ 4:20 • 19h ago
 
 ---
 
@@ -370,7 +370,7 @@ Welcome to the Gavin Mehl Channel! In this video, Gavin Mehl shares insights int
 
 📺 Gavin Mehl
 
-👁️ 523 • 👍 44 • 💬 19 • ⏱️ 1:23 • 8h ago
+👁️ 523 • 👍 44 • 💬 19 • ⏱️ 1:23 • 9h ago
 
 ---
 

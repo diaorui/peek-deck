@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T14:30:04.149168+00:00'
+updated: '2026-01-26T14:57:25.563622+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 14:30 UTC  
+**Last Updated:** January 26, 2026 at 14:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,7 +126,7 @@ Financial Times • 1d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 18h ago
+TechRadar • 19h ago
 
 ---
 
@@ -230,7 +230,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 1K • 👍 129 • 💬 5 • ⏱️ 0:55 • 2h ago
+👁️ 1K • 👍 129 • 💬 5 • ⏱️ 0:55 • 3h ago
 
 ---
 

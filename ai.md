@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T14:30:04.131231+00:00'
+updated: '2026-01-26T14:57:25.545271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 14:30 UTC  
+**Last Updated:** January 26, 2026 at 14:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] C
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 9h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 10h ago
 
 ---
 
@@ -125,7 +125,7 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 3h ago
 
 The Commission will assess whether "manipulated sexually explicit images" have been shown to users in the EU.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -153,13 +153,13 @@ The Guardian • 3h ago
 
 **[Nvidia Launches AI Technologies to Aid Weather Forecasting](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting)**
 
-Bloomberg.com • 30m ago
+Bloomberg.com • 57m ago
 
 ---
 
 **[AI frenzy: Business investment has been an unexpected source of strength for the U.S. economy](https://www.marketwatch.com/story/ai-frenzy-business-investment-has-been-an-unexpected-source-of-strength-for-the-u-s-economy-197ff347?gaa_at=eafs&gaa_n=AWEtsqfhA-eaNxfXn1WJ_-pXgcdFI5W_FLNr0T8LrZT0qbGkd5l2T7f7wwPG&gaa_ts=69777dd1&gaa_sig=uvlkAXz1YEGXp96uktPg0r3I0bar7kE5kKBtQRzKSeZLN5wpITtxaCcOEPUpt9otXhNl8vEiaJYzh9Xvk_OGTQ%3D%3D)**
 
-MarketWatch • 32m ago
+MarketWatch • 59m ago
 
 ---
 
@@ -181,7 +181,7 @@ NVIDIA Newsroom • 4h ago
 
 **[Nvidia Expands Its Open-Source AI Weather- and Climate-Tracking Models](https://www.wsj.com/articles/nvidia-expands-its-open-source-ai-weather-and-climate-tracking-models-bace995d?gaa_at=eafs&gaa_n=AWEtsqcn5skwT6yWOh2z03oqHWB_QRgMLjJrH-8NLPo_P38QhCV5E0c830PG&gaa_ts=69777dd1&gaa_sig=q8--nb7JkdO2d0K9VykHOLvkulqzwbxoeuJa2GmAspYfLJHKE6gAUpnAV9dlQqhKw8tutXie_sd8IKptdpU3Eg%3D%3D)**
 
-The Wall Street Journal • 30m ago
+The Wall Street Journal • 57m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Wall Street Journal • 30m ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 19h ago
+The Economist • 20h ago
 
 ---
 
@@ -223,7 +223,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 111 • 💬 74 • 15h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 111 • 💬 74 • 16h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -331,7 +331,7 @@ Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big lea
 
 📺 BitBiasedAI
 
-👁️ 6K • 👍 148 • 💬 10 • ⏱️ 20:33 • 19h ago
+👁️ 6K • 👍 148 • 💬 10 • ⏱️ 20:33 • 20h ago
 
 ---
 
@@ -656,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 585 • 5h ago
+⭐ 10.7k • 🔱 585 • 6h ago
 
 ---
 
@@ -666,7 +666,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 9h ago
+⭐ 9.7k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -676,7 +676,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 484 • 18h ago
+⭐ 9.2k • 🔱 484 • 19h ago
 
 ---
 
@@ -696,7 +696,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 4h ago
+⭐ 6.2k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -726,7 +726,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.6k • 🔱 829 • 6h ago
+⭐ 3.6k • 🔱 829 • 7h ago
 
 ---
 
