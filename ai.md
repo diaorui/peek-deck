@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T20:53:36.513899+00:00'
+updated: '2026-01-26T21:26:03.449436+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 20:53 UTC  
+**Last Updated:** January 26, 2026 at 21:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 The case, filed in a California court, is the first suit linking the chatbot to murder.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 3h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 4h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 A lot of AI discussion still treats intelligence as the core bottleneck. From a research perspective, that assumption is starting to break down. We already know how to produce systems that generate high-quality responses in isolation. The failure modes showing up now are different: degradation across long horizons loss of state consistency uncontrolled policy drift under autonomy weak guarantees once systems leave the sandbox These issues don’t map cleanly to better training or larger models. They map to control theory, systems engineering, and governance. Once an AI system is allowed to act in the world, intelligence alone is insufficient. You need: explicit state models constrained action spaces observability and auditability mechanisms for rollback and correction Human institutions solved this long before machine learning existed. Intelligence never ran organizations. Structure, constraint, and accountability did. From a research angle, this raises questions that feel underexplored compared to model-centric work: What are the right abstractions for long-horizon AI state? How should autonomy be bounded without collapsing usefulness? Where does formal verification realistically fit for AI systems that adapt? Is “alignment” even the right framing once systems are embedded in workflows? Curious how others here think about this shift. Are we nearing the point where the hardest AI problems are no longer ML problems at all, but systems and governance problems disguised as ML?
 
-56m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ A lot of AI discussion still treats intelligence as the core bottleneck. From a 
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Want to find out more about the new EU rules on algorithm use in the workplace t
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 8h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 9h ago
 
 ---
 
@@ -113,7 +113,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Can we all just agree to stop using this crap? Tech bros are the worst https://www.youtube.com/watch?v=qnOmUWd-OII
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Can we all just agree to stop using this crap? Tech bros are the worst https://w
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 10h ago
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 3h ago
 
 Researchers say artificial intelligence system matches human expert classification about 90% of the time
 
-The Guardian • 53m ago
+The Guardian • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 53m ago
 
 Aura AI pet robot tracks behavior changes to detect when pets feel excited, anxious or relaxed. Tuya Smart's device offers laser play, treat dispensing and voice interaction.
 
-Fox News • 23m ago
+Fox News • 55m ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 23m ago
 
 The technology will expand their scope and raise their value
 
-The Economist • 37m ago
+The Economist • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 2h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 4h ago
+The Official Microsoft Blog • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Official Microsoft Blog • 4h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -237,7 +237,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 177 • 💬 258 • 6h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 177 • 💬 258 • 7h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -251,7 +251,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 95 • 💬 34 • 1h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 95 • 💬 34 • 2h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -289,7 +289,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 19h ago
+👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ A quick review of the AI narative at Davos 2026. Topics: - AI hype versus realit
 
 📺 Awesome
 
-👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 7h ago
+👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 8h ago
 
 ---
 
@@ -467,7 +467,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 260 • 15h ago
+⬇️ 749 • ❤️ 260 • 16h ago
 
 ---
 
@@ -479,7 +479,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 243 • 14h ago
+⬇️ 5,159 • ❤️ 243 • 15h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 591 • 44m ago
+⭐ 10.7k • 🔱 591 • 1h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 15h ago
+⭐ 9.7k • 🔱 1.3k • 16h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.0k • 7h ago
+⭐ 5.7k • 🔱 6.0k • 8h ago
 
 ---
 
@@ -732,7 +732,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.8k • 🔱 866 • 1h ago
+⭐ 3.8k • 🔱 866 • 2h ago
 
 ---
 

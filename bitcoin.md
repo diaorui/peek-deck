@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T20:53:36.522295+00:00'
+updated: '2026-01-26T21:26:03.456776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 20:53 UTC  
+**Last Updated:** January 26, 2026 at 21:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-2h ago
+3h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-3h ago
+4h ago
 
 ---
 
@@ -115,13 +115,13 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 9h ago
 
 Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Forbes • 1d ago
 
 **[Watch Building Strategy For Bitcoin-Hesitant Investors: Willis](https://www.bloomberg.com/news/videos/2026-01-26/building-strategy-for-bitcoin-hesitant-investors-willis-video)**
 
-Bloomberg.com • 20m ago
+Bloomberg.com • 52m ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 20m ago
 
 Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1h ago
 
 "Gold and silver casually adding an entire bitcoin market cap in a single day," wrote one crypto analyst.
 
-CoinDesk • 4m ago
+CoinDesk • 37m ago
 
 ---
 
@@ -221,7 +221,7 @@ CoinDesk • 4m ago
 
 Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ The Block • 10h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 16 • 💬 0 • 8h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 16 • 💬 0 • 9h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -314,7 +314,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 566 • ⏱️ 9:12 • 21h ago
+👁️ 49K • 👍 3K • 💬 566 • ⏱️ 9:12 • 22h ago
 
 ---
 
@@ -324,7 +324,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 367 • 💬 437 • ⏱️ 15:36 • 15h ago
+👁️ 13K • 👍 367 • 💬 437 • ⏱️ 15:36 • 16h ago
 
 ---
 
@@ -354,7 +354,7 @@ Bitcoin #Crypto #Finance Bitcoin is trading in the shadow of Washington dysfunct
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 947 • 💬 130 • ⏱️ 1:02:59 • 5h ago
+👁️ 16K • 👍 947 • 💬 130 • ⏱️ 1:02:59 • 6h ago
 
 ---
 
@@ -364,7 +364,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 217 • ⏱️ 13:42 • 20h ago
+👁️ 25K • 👍 2K • 💬 217 • ⏱️ 13:42 • 21h ago
 
 ---
 
@@ -394,7 +394,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 29K • 👍 3K • 💬 641 • ⏱️ 4:51 • 21h ago
+👁️ 29K • 👍 3K • 💬 641 • ⏱️ 4:51 • 22h ago
 
 ---
 
