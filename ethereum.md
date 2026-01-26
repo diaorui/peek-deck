@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T15:36:46.662214+00:00'
+updated: '2026-01-26T16:36:13.716053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 15:36 UTC  
+**Last Updated:** January 26, 2026 at 16:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $350.42B
+**Market Cap:** $350.48B
 Rank #2
 
 **Circulating Supply:** 120,694,419 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.3%
+-41.2%
 
 **All-Time Low:** $0.43
-+670521.4%
++671214.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Hey, I have been holding some ETH for a while and I am looking to swap part of it into XMR. I would rather avoid big centralized exchanges if possible. Privacy matters to me and I like keeping control of my own funds. I have looked at a few decentralized or peer to peer options, but it is hard to know which ones are actually reliable or have enough liquidity. Mostly looking for something that is smooth to use and does not involve heavy KYC. Thanks in advance.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey, I have been holding some ETH for a while and I am looking to swap part of i
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Curated resources by EtherWorld for Glamsterdam Upgrade
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-35m ago
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 **[Ledger Wallet - Ethereum Kiln Staking And/Or Other Ethereum Staking Service Recommendations](https://www.reddit.com/r/ethereum/comments/1qn6e9w/ledger_wallet_ethereum_kiln_staking_andor_other/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -154,7 +154,7 @@ A lot of major Web3 losses don’t begin with a Solidity vulnerability. They sta
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -170,13 +170,13 @@ CoinDesk • 1d ago
 
 Gold smashed past $5,100 as Ethereum falters below $3,000—and prediction market users called it months ago.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1h ago
 
 The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 1d ago
 
 Davos 2026 decoded Taylor Swift style: JPMorgan live on Ethereum, quantum risk for blockchains, Gen Z wanting AI bosses, and why my Swiftie daughter finally cared.
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ Forbes • 2h ago
 
 Robert Kiyosaki, the author of “Rich Dad Poor Dad” and investment guru, is not bothered by the price volatility of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). He maintains his stance of purchasing both cryptocurrencies irrespective of their price movements. Kiyosaki recently displayed interest in Ethereum, the world’s second-largest cryptocurrency. He holds the conviction that Bitcoin is set to reach a valuation of $1 million within the next few years or decade. In a post on X, Kiyosaki re
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -230,13 +230,23 @@ The Block • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
+
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
+
+📺 Thomas Kralow
+
+👁️ 9K • 👍 2K • 💬 49 • ⏱️ 10:51 • 6h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=toa6DVgRoVc)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 314 • 👍 36 • 💬 1 • ⏱️ 5:37 • 2h ago
+👁️ 989 • 👍 104 • 💬 5 • ⏱️ 5:37 • 3h ago
 
 ---
 
@@ -246,27 +256,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 2K • 💬 153 • ⏱️ 26:46 • 12h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 78 • 💬 33 • ⏱️ 17:46 • 1d ago
-
----
-
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
-
-Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 565 • 💬 81 • ⏱️ 14:27 • 1d ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 26:46 • 13h ago
 
 ---
 
@@ -276,7 +266,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 200 • 👍 18 • 💬 2 • ⏱️ 5:00 • 5h ago
+👁️ 291 • 👍 20 • 💬 19 • ⏱️ 5:00 • 6h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 26 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=zLL8Y6uB2Qc)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 656 • 1h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:06 • 16h ago
+👁️ 2K • 👍 107 • 💬 8 • ⏱️ 5:06 • 17h ago
 
 ---
 
@@ -296,17 +296,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 23K • 👍 1K • 💬 204 • ⏱️ 29:47 • 1d ago
-
----
-
-**[BITCOIN: You Need to See This Chart! (massive) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=i6s40KUqU8g)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 578 • 💬 14 • ⏱️ 57:29 • 18h ago
+👁️ 24K • 👍 1K • 💬 227 • ⏱️ 29:47 • 1d ago
 
 ---
 
@@ -316,17 +306,27 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 303 • 💬 341 • ⏱️ 24:21 • 17h ago
+👁️ 9K • 👍 319 • 💬 451 • ⏱️ 24:21 • 18h ago
 
 ---
 
-**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
+**[BITCOIN: You Need to See This Chart! (massive) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=i6s40KUqU8g)**
 
-Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Discover Crypto
+📺 BitcoinHyper
 
-👁️ 8K • 👍 396 • 💬 102 • ⏱️ 7:22 • 1d ago
+👁️ 9K • 👍 575 • 💬 14 • ⏱️ 57:29 • 19h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 80 • 💬 42 • ⏱️ 17:46 • 1d ago
 
 ---
 

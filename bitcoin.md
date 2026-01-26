@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T15:36:46.656171+00:00'
+updated: '2026-01-26T16:36:13.710099+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 15:36 UTC  
+**Last Updated:** January 26, 2026 at 16:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.96B
+**Market Cap:** $1750.03B
 Rank #1
 
-**Circulating Supply:** 19,980,737 BTC
+**Circulating Supply:** 19,980,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.5%
 
 **All-Time Low:** $67.81
-+129550.5%
++129155.3%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-4h ago
+5h ago
 
 ---
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-17h ago
+18h ago
 
 ---
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,25 +111,25 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-11h ago
+12h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-18h ago
+19h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 As Bitcoin rolls into 2026, the ecosystem keeps growing - and so does the cast of characters. Here are the 15 personas you’ll absolutely encounter at Bitcoin 2026, whether you’re there to build, stack, meme, or argue about corporate balance sheets.
 
-Bitcoin Magazine • 14m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bitcoin Magazine • 14m ago
 
 Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 5h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 5h ago
+KITCO • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ KITCO • 5h ago
 
 Bitcoin developers prefer to be judged by the quality of their work, not by their sex. However, female developers benefit from support as they begin working on Bitcoin.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin's deflationary nature makes it unsuitable as a global currency but ideal for long-term wealth preservation and institutional adoption. Read more on BTC.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Seeking Alpha • 2h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 12 • 💬 0 • 3h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 12 • 💬 0 • 4h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -272,7 +272,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 2h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 3h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -286,7 +286,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 15h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 16h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -298,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 33 • 💬 17 • 15h ago
+⬆️ 33 • 💬 17 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 381 • ⏱️ 9:12 • 16h ago
+👁️ 46K • 👍 3K • 💬 475 • ⏱️ 9:12 • 17h ago
 
 ---
 
@@ -322,67 +322,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 455 • ⏱️ 9:36 • 13h ago
-
----
-
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
-
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
-
-📺 Fox Business Clips
-
-👁️ 39K • 👍 572 • 💬 397 • ⏱️ 4:20 • 20h ago
-
----
-
-**[Bitcoin WILL Be Hit The HARDEST | Cathie Wood&#39;s Warning](https://www.youtube.com/watch?v=mxDOwT-HInI)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 8K • 👍 276 • 💬 222 • ⏱️ 15:36 • 10h ago
-
----
-
-**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
-
-Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
-
-📺 Alessio Rastani
-
-👁️ 24K • 👍 2K • 💬 498 • ⏱️ 4:51 • 16h ago
-
----
-
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 75K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
-
----
-
-**[#Bitcoin Flippening: What You Need to Know NOW](https://www.youtube.com/watch?v=IFBIZPlIy5c)**
-
-Welcome to the Gavin Mehl Channel! In this video, Gavin Mehl shares insights into the Great Bitcoin Flippening, an underground ...
-
-📺 Gavin Mehl
-
-👁️ 523 • 👍 44 • 💬 19 • ⏱️ 1:23 • 9h ago
-
----
-
-**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
-
-The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 19K • 👍 1K • 💬 232 • ⏱️ 13:23 • 1d ago
+👁️ 23K • 👍 1K • 💬 571 • ⏱️ 9:36 • 14h ago
 
 ---
 
@@ -392,17 +332,77 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 169 • ⏱️ 13:42 • 15h ago
+👁️ 22K • 👍 2K • 💬 223 • ⏱️ 13:42 • 16h ago
 
 ---
 
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
+**[Bitcoin WILL Be Hit The HARDEST | Cathie Wood&#39;s Warning](https://www.youtube.com/watch?v=mxDOwT-HInI)**
 
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 Road To $1 Million USD
+📺 Library Of Wealth
 
-👁️ 4K • 👍 229 • 💬 31 • ⏱️ 6:47 • 17h ago
+👁️ 11K • 👍 330 • 💬 424 • ⏱️ 15:36 • 11h ago
+
+---
+
+**[Bitcoin Signal Flashing as Fed Injects $8B](https://www.youtube.com/watch?v=pxhHR7EmMdM)**
+
+The Federal Reserve just moved $8B into the system. Is this the liquidity spark we've been waiting for to push BTC toward the ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 229 • 1h ago
+
+---
+
+**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
+
+Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
+
+📺 Alessio Rastani
+
+👁️ 26K • 👍 2K • 💬 555 • ⏱️ 4:51 • 17h ago
+
+---
+
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
+
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
+
+📺 Fox Business Clips
+
+👁️ 40K • 👍 585 • 💬 428 • ⏱️ 4:20 • 21h ago
+
+---
+
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 77K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
+
+---
+
+**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+
+The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 20K • 👍 1K • 💬 233 • ⏱️ 13:23 • 1d ago
+
+---
+
+**[#Bitcoin Flippening: What You Need to Know NOW](https://www.youtube.com/watch?v=IFBIZPlIy5c)**
+
+Welcome to the Gavin Mehl Channel! In this video, Gavin Mehl shares insights into the Great Bitcoin Flippening, an underground ...
+
+📺 Gavin Mehl
+
+👁️ 667 • 👍 48 • 💬 20 • ⏱️ 1:23 • 10h ago
 
 ---
 

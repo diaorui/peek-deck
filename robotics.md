@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T15:36:46.665430+00:00'
+updated: '2026-01-26T16:36:13.719227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 15:36 UTC  
+**Last Updated:** January 26, 2026 at 16:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-7h ago
+8h ago
 
 ---
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ I don't have much information, but it's a bit viral on X
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 7h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 8h ago
 
 ---
 
@@ -66,7 +66,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 3h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 I published a public verification bundle for the transport runtime behind SimpleSocketBridge (SSB). Download: https://github.com/Kranyai/SimpleSocketBridge/releases/tag/v0.1-transport-proof It includes runnable Windows binaries + sample CSV output for measuring: - round-trip latency - sustained throughput - multi-core scaling - ASIO baseline comparison - overnight endurance Transport-only (no CARLA / Unreal adapters). I’m looking for independent runs on other machines or environments and would love feedback.
 
-2h ago
+3h ago
 
 ---
 
@@ -124,7 +124,7 @@ Financial Times • 1d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 20h ago
+TechRadar • 21h ago
 
 ---
 
@@ -192,33 +192,33 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 98K • 👍 2K • 💬 153 • ⏱️ 17:39 • 2d ago
-
----
-
 **[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
 
 Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
 
 📺 Consumer Research Studios
 
-👁️ 757 • 👍 284 • 💬 1 • ⏱️ 7:25 • 8h ago
+👁️ 781 • 👍 284 • 💬 1 • ⏱️ 7:25 • 9h ago
 
 ---
 
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
 
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
 
-📺 DRM News
+📺 CNBC Television
 
-👁️ 557K • 👍 10K • 💬 3K • ⏱️ 32:01 • 3d ago
+👁️ 9K • 👍 79 • 💬 70 • ⏱️ 2:47 • 4d ago
+
+---
+
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+
+📺 MarketBeat
+
+👁️ 100K • 👍 2K • 💬 154 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 1K • 👍 129 • 💬 5 • ⏱️ 0:55 • 4h ago
+👁️ 3K • 👍 258 • 💬 5 • ⏱️ 0:55 • 5h ago
 
 ---
 
@@ -248,17 +248,7 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 22K • 👍 225 • ⏱️ 7:30 • 6d ago
-
----
-
-**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
-
-📺 EmortalMarcus
-
-👁️ 280K • 👍 14K • 💬 1K • ⏱️ 35:38 • 4d ago
+👁️ 22K • 👍 226 • ⏱️ 7:30 • 6d ago
 
 ---
 
@@ -272,23 +262,31 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 26K • 👍 3K • 💬 120 • ⏱️ 1:13 • 3d ago
+
+---
+
+**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
+
+📺 EmortalMarcus
+
+👁️ 282K • 👍 14K • 💬 1K • ⏱️ 35:38 • 4d ago
+
+---
+
 **[Pudu D5 Jumping Robot](https://www.youtube.com/watch?v=1dMn45wBsGk)**
 
 Pudu Robotics D5 Series is a rugged quadruped robot that can run, jump, and even perform backflips.
 
 📺 Space and Technology
 
-👁️ 631 • 👍 35 • 💬 1 • ⏱️ 0:28 • 5h ago
-
----
-
-**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
-
-My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
-
-📺 Old Forge Creations
-
-👁️ 478K • 👍 8K • 💬 81 • ⏱️ 1:20 • 1d ago
+👁️ 1K • 👍 53 • 💬 1 • ⏱️ 0:28 • 6h ago
 
 ---
 
