@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T18:38:20.522924+00:00'
+updated: '2026-01-26T19:24:31.916284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 18:38 UTC  
+**Last Updated:** January 26, 2026 at 19:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 **[Ledger Wallet - Ethereum Kiln Staking And/Or Other Ethereum Staking Service Recommendations](https://www.reddit.com/r/ethereum/comments/1qn6e9w/ledger_wallet_ethereum_kiln_staking_andor_other/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 12h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 2K • 💬 77 • ⏱️ 10:51 • 8h ago
+👁️ 11K • 👍 2K • 💬 77 • ⏱️ 10:51 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 198 • ⏱️ 26:46 • 15h ago
+👁️ 47K • 👍 3K • 💬 198 • ⏱️ 26:46 • 16h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 124 • 💬 5 • ⏱️ 5:37 • 5h ago
+👁️ 1K • 👍 124 • 💬 5 • ⏱️ 5:37 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 363 • 👍 23 • 💬 10 • ⏱️ 5:00 • 8h ago
+👁️ 363 • 👍 23 • 💬 10 • ⏱️ 5:00 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Maryam Hampton
 
-👁️ 2K • 👍 4K • 40m ago
+👁️ 2K • 👍 4K • 1h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 107 • 💬 8 • ⏱️ 5:06 • 19h ago
+👁️ 2K • 👍 107 • 💬 8 • ⏱️ 5:06 • 20h ago
 
 ---
 
@@ -330,7 +330,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 48 • 👍 1 • ⏱️ 1:15 • 1h ago
+👁️ 48 • 👍 1 • ⏱️ 1:15 • 2h ago
 
 ---
 

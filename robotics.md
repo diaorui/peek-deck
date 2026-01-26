@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T18:38:20.526177+00:00'
+updated: '2026-01-26T19:24:31.919431+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 18:38 UTC  
+**Last Updated:** January 26, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 10h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 6h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hey everyone, I’m a university student trying to understand something about robot learning + planning and I would love to hear from people who have actually worked on this. A lot of datasets/imitation learning setups seem great for short-horizon behaviors (pick/place, grasping, reaching, etc.). But I’m more curious about the long-horizon part of real tasks: multi-step sequences, handling “oh noo” moments, recovery and task re-planning. I know that currently VLA models and majority of general purpose robots are failing a lot on long horizon tasks. The question: How useful is human demonstration data when the goal is long-horizon task planning, rather than just low-level control? More specifically, have you seen demos help with things like: deciding what to do next across multiple steps recovery behaviors (failed grasp, object moved, collisions, partial success) learning “when to stop / reset / switch strategy” planning in tasks like sorting, stacking, cleaning, or “kitchen-style” multi-step routines I’m wondering where the real bottleneck is Is it mostly: “the data doesn’t cover the right failure modes / distributions” “planning needs search + world models, demos aren’t enough” “the hard part is evaluation and generalization, not collecting more demos” or “demos actually help a ton, but only if structured/annotated the right way” Also curious: If you’ve tried this (in academia or industry), what ended up being the most valuable format? full trajectories (state → action sequences) subgoals / waypoints / decompositions language or “intent” labels corrections / preference feedback (“this recovery is better than that one”) action traces that include meta-actions like “pause, re-check, adjust plan, reset” Not looking for anything proprietary, I’m mainly trying to build intuition on why this does or doesn’t work in practice. Would appreciate any papers, internal lessons learned, or even “we tried this and it didn’t work at all” stories. Thanks in advance.
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey everyone, I’m a university student trying to understand something about ro
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 19m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -122,7 +122,7 @@ The Robot Report • 19m ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -130,7 +130,7 @@ markets.businessinsider.com • 4h ago
 
 Austin, Texas, United States, January 26th, 2026, FinanceWire Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven secu...
 
-TipRanks • 28m ago
+TipRanks • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 5h ago
 
 Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Financial Times • 1d ago
 
 The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
-bgr.com • 6h ago
+bgr.com • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 PRO ROBOTS
 
-👁️ 8K • 👍 240 • 💬 23 • ⏱️ 14:08 • 4d ago
+👁️ 8K • 👍 240 • 💬 23 • ⏱️ 14:08 • 5d ago
 
 ---
 
@@ -228,7 +228,7 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 11h ago
+👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
 
 📺 Unstoppable Gadgets
 
-👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 19h ago
+👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 20h ago
 
 ---
 

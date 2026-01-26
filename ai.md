@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T18:38:20.508217+00:00'
+updated: '2026-01-26T19:24:31.901913+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 18:38 UTC  
+**Last Updated:** January 26, 2026 at 19:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 The case, filed in a California court, is the first suit linking the chatbot to murder.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 1h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 1h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 2h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 6h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Can we all just agree to stop using this crap? Tech bros are the worst https://www.youtube.com/watch?v=qnOmUWd-OII
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Been diving into the latest AI research and wanted to share some findings that a
 
 **[How digital forensics could prove what’s real in the age of deepfakes](https://www.reddit.com/r/artificial/comments/1qnir7m/how_digital_forensics_could_prove_whats_real_in/)**
 
-🔗 [scientificamerican.com](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) • 3h ago
+🔗 [scientificamerican.com](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) • 4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Been diving into the latest AI research and wanted to share some findings that a
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -135,7 +135,7 @@ BBC • 1h ago
 
 **[Watch AI Startup Baseten Doubles Valuation to $5B in Six Months](https://www.bloomberg.com/news/videos/2026-01-26/ai-startup-baseten-raises-300-million-video)**
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Bloomberg.com • 16m ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 23h ago
+The Economist • 1d ago
 
 ---
 
@@ -151,7 +151,7 @@ The Economist • 23h ago
 
 Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 9h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 2h ago
+The Official Microsoft Blog • 3h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Official Microsoft Blog • 2h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Microsoft rolls out next generation of its AI chips, takes aim at Nvidia's software](https://www.reuters.com/business/microsoft-rolls-out-next-generation-its-ai-chips-takes-aim-nvidias-software-2026-01-26/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 2h ago
 
 We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
 
-⬆️ 187 • 💬 176 • 2d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 187 • 💬 176 • 3d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
 
 ---
 
@@ -239,13 +239,13 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 164 • 💬 235 • 4h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 164 • 💬 235 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 117 • 💬 83 • 19h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 117 • 💬 83 • 20h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -281,7 +281,7 @@ A quick review of the AI narative at Davos 2026. Topics: - AI hype versus realit
 
 📺 Awesome
 
-👁️ 16K • 👍 1K • 💬 337 • ⏱️ 8:03 • 5h ago
+👁️ 16K • 👍 1K • 💬 337 • ⏱️ 8:03 • 6h ago
 
 ---
 
@@ -291,7 +291,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 60K • 👍 1K • 💬 369 • ⏱️ 4:20 • 17h ago
+👁️ 60K • 👍 1K • 💬 369 • ⏱️ 4:20 • 18h ago
 
 ---
 
@@ -301,7 +301,7 @@ Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big lea
 
 📺 BitBiasedAI
 
-👁️ 7K • 👍 156 • 💬 19 • ⏱️ 20:33 • 23h ago
+👁️ 7K • 👍 156 • 💬 19 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 154K • 👍 9K • 💬 1K • ⏱️ 12:43 • 19h ago
+👁️ 154K • 👍 9K • 💬 1K • ⏱️ 12:43 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Why So Serious ??? Korang rasa siapa yang layak.
 
 📺 Alieff Irfan
 
-👁️ 411K • 👍 21K • 💬 4K • ⏱️ 1:36:50 • 6h ago
+👁️ 411K • 👍 21K • 💬 4K • ⏱️ 1:36:50 • 7h ago
 
 ---
 
@@ -459,7 +459,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 259 • 13h ago
+⬇️ 749 • ❤️ 259 • 14h ago
 
 ---
 
@@ -471,7 +471,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 240 • 12h ago
+⬇️ 5,159 • ❤️ 240 • 13h ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 590 • 31m ago
+⭐ 10.7k • 🔱 590 • 1h ago
 
 ---
 
@@ -664,7 +664,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 13h ago
+⭐ 9.7k • 🔱 1.3k • 14h ago
 
 ---
 
@@ -694,7 +694,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 3h ago
+⭐ 6.2k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.0k • 5h ago
+⭐ 5.7k • 🔱 6.0k • 6h ago
 
 ---
 
@@ -724,7 +724,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.7k • 🔱 860 • 9m ago
+⭐ 3.7k • 🔱 860 • 55m ago
 
 ---
 
