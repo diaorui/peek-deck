@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T13:45:38.653743+00:00'
+updated: '2026-01-26T14:30:04.145904+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 13:45 UTC  
+**Last Updated:** January 26, 2026 at 14:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,910.35
+### $2,895.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -1.3%  
-**30d:** -1.7%  
-**90d:** -25.7%  
-**1y:** -8.7%  
+**24h:** -1.3%  
+**7d:** -1.8%  
+**30d:** -2.2%  
+**90d:** -26.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
 
 12h ago
+
+---
+
+**[All you need to know about Ethereum Glamsterdam Upgrade](https://www.reddit.com/r/ethereum/comments/1qngb7l/all_you_need_to_know_about_ethereum_glamsterdam/)**
+
+Curated resources by EtherWorld for Glamsterdam Upgrade
+
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 48m ago
 
 ---
 
@@ -96,7 +104,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 Hey, I have been holding some ETH for a while and I am looking to swap part of it into XMR. I would rather avoid big centralized exchanges if possible. Privacy matters to me and I like keeping control of my own funds. I have looked at a few decentralized or peer to peer options, but it is hard to know which ones are actually reliable or have enough liquidity. Mostly looking for something that is smooth to use and does not involve heavy KYC. Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Really? Safe Mobile (formerly Gnosis Safe) no longer generates keys on-device, only imports seed phrases](https://www.reddit.com/r/ethereum/comments/1qlou3u/really_safe_mobile_formerly_gnosis_safe_no_longer/)**
-
-Hi all. I am setting up a safe multisig with multiple phones belonging to different people as signers. With the former Safe Wallet app it was relatively easy to do, but I see now that since transitioning to the Safe GmbH entity, Safe Wallet is being replaced by the new Safe Mobile app which doesn't allow generating keys anymore. It is only possible to import existing ones by manually typing a seed phrase. I have been, to put it mildly, extremely surprised that securely generating a key on device is not possible anymore. Is one really supposed to generate new keys elsewhere, then import them into the device through their seed phrase? Doesn't this go against all technical and UX security principles? Among all the wallet providers, Safe is the last one I would expect something like this from given their reputation. My immediate reaction was: "I must have installed a fake app which is phishing me for my seed phrases", but I got confirmation from their support team that it's actually by design! I think this is a huge step backwards and I am genuinely out of options now for secure and simple multisig setups. Any advice?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Hi all. I am setting up a safe multisig with multiple phones belonging to differ
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 A good week it was not for the world's second-largest cryptocurrency.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -196,6 +196,14 @@ TradingView • 1d ago
 
 ---
 
+**[Davos, The Taylor Swift Way: Quantum, AI Bosses, JPMorgan On Ethereum](https://www.forbes.com/sites/digital-assets/2026/01/26/davos-the-taylor-swift-way-quantum-ai-bosses-jpmorgan-on-ethereum/)**
+
+Davos 2026 decoded Taylor Swift style: JPMorgan live on Ethereum, quantum risk for blockchains, Gen Z wanting AI bosses, and why my Swiftie daughter finally cared.
+
+Forbes • 1h ago
+
+---
+
 **[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
 
 Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
@@ -204,27 +212,19 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Ethereum Strategy ETF Hit by Heavy Redemptions as Crypto Sentiment Sours](https://www.tipranks.com/news/cryptocurrencies/ethereum-strategy-etf-hit-by-heavy-redemptions-as-crypto-sentiment-sours)**
+
+Ethereum ETF Sees Sharp Outflows as Crypto Volatility Tests Investor Nerves The Bitwise Ethereum Strategy ETF, AETH, recorded significant redemptions on January 22,...
+
+TipRanks • 1h ago
+
+---
+
 **[Ethereum Builds Team To Guard Against Quantum Threat](https://bitcoinist.com/ethereum-builds-team-to-guard-against-quantum-threat/)**
 
 Reports say the Ethereum Foundation has started a new team to prepare the network for possible quantum computer attacks. These machines could one day break
 
-Bitcoinist.com • 23h ago
-
----
-
-**[Ethereum ETF Outflows Surge as Bitwise’s ETHW Loses 4% of Assets in a Single Session](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-outflows-surge-as-bitwises-ethw-loses-4-of-assets-in-a-single-session)**
-
-Ethereum Outflows Test Investor Nerves as Bitwise ETF Bleeds 4% of Assets in a Day The Bitwise Ethereum ETF, ETHW, saw a sharp reversal in sentiment on January 23, ...
-
-TipRanks • 1d ago
-
----
-
-**[Ethereum OG whale wakes up after nine years, deposits 50K ETH into Gemini](https://cryptobriefing.com/ethereum-og-whale-wakes-up-deposits-50-000-eth-gemini/)**
-
-Ethereum whale deposits 50,000 ETH into Gemini after 9 years, signaling strategic profit-taking amid market weakness.
-
-Crypto Briefing • 1h ago
+Bitcoinist.com • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 314 • 👍 36 • 💬 1 • ⏱️ 5:37 • 41m ago
+👁️ 314 • 👍 36 • 💬 1 • ⏱️ 5:37 • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 2K • 💬 153 • ⏱️ 26:46 • 10h ago
+👁️ 36K • 👍 2K • 💬 153 • ⏱️ 26:46 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 78 • 💬 33 • ⏱️ 17:46 • 22h ago
+👁️ 2K • 👍 78 • 💬 33 • ⏱️ 17:46 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Eth
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 565 • 💬 81 • ⏱️ 14:27 • 22h ago
+👁️ 16K • 👍 565 • 💬 81 • ⏱️ 14:27 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 200 • 👍 18 • 💬 2 • ⏱️ 5:00 • 3h ago
+👁️ 200 • 👍 18 • 💬 2 • ⏱️ 5:00 • 4h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:06 • 14h ago
+👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:06 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 578 • 💬 14 • ⏱️ 57:29 • 16h ago
+👁️ 9K • 👍 578 • 💬 14 • ⏱️ 57:29 • 17h ago
 
 ---
 

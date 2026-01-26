@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-26T13:45:38.163548+00:00"
+          "dateModified": "2026-01-26T14:30:03.640101+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -1007,7 +1007,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -1015,13 +1015,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/" target="_blank" onclick="event.stopPropagation();">AI Monk With 2.5M Followers Fully Automated in n8n</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/" target="_blank" onclick="event.stopPropagation();">Be careful of custom tokens in your LLM !!!</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
+                            LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
                         </div>
                         
 
@@ -1030,10 +1030,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769237367.0"></span>
+                                    <span data-timestamp="1769251350.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://challenge.antijection.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>challenge.antijection.com</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1063,7 +1078,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-26T12:51:41.271820+00:00">Updated 2026-01-26T12:51:41.271820+00:00</small>
+        <small data-timestamp="2026-01-26T14:29:34.054186+00:00">Updated 2026-01-26T14:29:34.054186+00:00</small>
     </div>
 </div>
 
@@ -1249,166 +1264,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb" target="_blank" onclick="event.stopPropagation();">Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769345775.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.economist.com/content-assets/images/20260124_WBP503.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age" target="_blank" onclick="event.stopPropagation();">Will the smartphone survive the AI age?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Economist" class="news-favicon">
-                                    <a href="https://www.economist.com" target="_blank" onclick="event.stopPropagation();">The Economist</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769366498.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/26/meta-poised-for-nearly-40percent-upside-on-compelling-ai-and-ad-opportunities-analyst-says.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108094429-1738183646669-gettyimages-2196626977-075a9956_che6igfx.jpeg?v=1769429149&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/26/meta-poised-for-nearly-40percent-upside-on-compelling-ai-and-ad-opportunities-analyst-says.html" target="_blank" onclick="event.stopPropagation();">Meta poised for nearly 40% upside on compelling AI and ad opportunities, analyst says</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            After stalling over the past 12 months, Rothschild & Co Redburn believes that shares of Meta could rally 37% from here.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769430116.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/carolinecastrillon/2026/01/26/ai-can-go-to-meetings-for-you-but-what-are-the-tradeoffs/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69711fd22c6660d472011dac/0x0.jpg?format=jpg&crop=2622,1474,x0,y0,safe&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/carolinecastrillon/2026/01/26/ai-can-go-to-meetings-for-you-but-what-are-the-tradeoffs/" target="_blank" onclick="event.stopPropagation();">AI Can Go To Meetings For You—But What Are The Tradeoffs?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI can go to meetings for you, but is that always the right move? The time savings are real, but so are the tradeoffs.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769430600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/3b18b09c0ec0f30881cf1f8a446df26abc463dd7/435_0_4386_3508/master/4386.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b19e1bcd5a193bde56fbf1a862c0c21');"></div>
@@ -1450,14 +1305,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html" target="_blank" onclick="event.stopPropagation();">Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End</a>
+                            <a href="https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html" target="_blank" onclick="event.stopPropagation();">Elon Musk’s X Faces European Inquiry Over Sexualized A.I. Images</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1479,7 +1334,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769421659.0"></span>
+                                    <span data-timestamp="1769425468.0"></span>
                                 </div>
                                 
                             </div>
@@ -1528,20 +1383,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.oregonlive.com/nation/2026/01/eu-investigates-musks-ai-chatbot-grok-over-sexual-deepfakes.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.oregonlive.com/resizer/v2/7SUQYAIU5ZBTPMGACETLTS4GHM.jpg?auth=8133f4828ce6ae616c9e042e12837aab2fe4e43b6d57c98b01fd3ec28f3dc301&width=1280&smart=true&quality=90');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/db6b7e3474826a20ed6054f9d711bc708d2ed8d4/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68b126b2f270a5256c402511a1fc6bfc');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.oregonlive.com/nation/2026/01/eu-investigates-musks-ai-chatbot-grok-over-sexual-deepfakes.html" target="_blank" onclick="event.stopPropagation();">EU investigates Musk’s AI chatbot Grok over sexual deepfakes</a>
+                            <a href="https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai" target="_blank" onclick="event.stopPropagation();">EU launches inquiry into X over sexually explicit images made by Grok AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Grok sparked backlash by using AI to undress people, including children, in images.
+                            Investigation comes after Elon Musk’s firm sparked outrage by allowing users to ‘strip’ photos of women and children
                         </div>
                         
 
@@ -1551,9 +1406,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.oregonlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="oregonlive.com" class="news-favicon">
-                                    <a href="https://www.oregonlive.com" target="_blank" onclick="event.stopPropagation();">oregonlive.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1561,7 +1416,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769428980.0"></span>
+                                    <span data-timestamp="1769427000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1569,14 +1424,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html" target="_blank" onclick="event.stopPropagation();">Elon Musk’s X Faces European Inquiry Over Sexualized A.I. Images</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting" target="_blank" onclick="event.stopPropagation();">Nvidia Launches AI Technologies to Aid Weather Forecasting</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1588,9 +1443,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1598,7 +1453,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769426817.0"></span>
+                                    <span data-timestamp="1769436000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1606,20 +1461,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/ai-frenzy-business-investment-has-been-an-unexpected-source-of-strength-for-the-u-s-economy-197ff347?gaa_at=eafs&gaa_n=AWEtsqfhA-eaNxfXn1WJ_-pXgcdFI5W_FLNr0T8LrZT0qbGkd5l2T7f7wwPG&gaa_ts=69777dd1&gaa_sig=uvlkAXz1YEGXp96uktPg0r3I0bar7kE5kKBtQRzKSeZLN5wpITtxaCcOEPUpt9otXhNl8vEiaJYzh9Xvk_OGTQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.axios.com/MKsaL9VjEktDXant6qvGOwYeJaY=/0x0:1920x1080/1366x768/2026/01/26/1769389463892.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice" target="_blank" onclick="event.stopPropagation();">WATCH: Jim VandeHei's blunt AI advice</a>
+                            <a href="https://www.marketwatch.com/story/ai-frenzy-business-investment-has-been-an-unexpected-source-of-strength-for-the-u-s-economy-197ff347?gaa_at=eafs&gaa_n=AWEtsqfhA-eaNxfXn1WJ_-pXgcdFI5W_FLNr0T8LrZT0qbGkd5l2T7f7wwPG&gaa_ts=69777dd1&gaa_sig=uvlkAXz1YEGXp96uktPg0r3I0bar7kE5kKBtQRzKSeZLN5wpITtxaCcOEPUpt9otXhNl8vEiaJYzh9Xvk_OGTQ%3D%3D" target="_blank" onclick="event.stopPropagation();">AI frenzy: Business investment has been an unexpected source of strength for the U.S. economy</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MarketWatch" class="news-favicon">
+                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769435880.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108254427-1768930561016-kuGZxrH8.jpg?v=1768930653&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html" target="_blank" onclick="event.stopPropagation();">CoreWeave stock jumps 8% as Nvidia invests $2 billion to expand AI data center capacity</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
+                            Nvidia purchased CoreWeave Class A common stock at $87.20 per share.
                         </div>
                         
 
@@ -1629,9 +1521,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1639,7 +1531,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769421640.0"></span>
+                                    <span data-timestamp="1769433900.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s3.amazonaws.com/cms.ipressroom.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories" target="_blank" onclick="event.stopPropagation();">NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NVIDIA (Nasdaq: NVDA) and CoreWeave, Inc. (Nasdaq: CRWV) today announced an expansion of their long-standing complementary relationship to enable CoreWeave to accelerate the buildout of more than 5 gigawatts of AI factories by 2030 to advance AI adoption at global scale.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NVIDIA Newsroom" class="news-favicon">
+                                    <a href="https://nvidianews.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Newsroom</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769422219.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/articles/nvidia-expands-its-open-source-ai-weather-and-climate-tracking-models-bace995d?gaa_at=eafs&gaa_n=AWEtsqcn5skwT6yWOh2z03oqHWB_QRgMLjJrH-8NLPo_P38QhCV5E0c830PG&gaa_ts=69777dd1&gaa_sig=q8--nb7JkdO2d0K9VykHOLvkulqzwbxoeuJa2GmAspYfLJHKE6gAUpnAV9dlQqhKw8tutXie_sd8IKptdpU3Eg%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/articles/nvidia-expands-its-open-source-ai-weather-and-climate-tracking-models-bace995d?gaa_at=eafs&gaa_n=AWEtsqcn5skwT6yWOh2z03oqHWB_QRgMLjJrH-8NLPo_P38QhCV5E0c830PG&gaa_ts=69777dd1&gaa_sig=q8--nb7JkdO2d0K9VykHOLvkulqzwbxoeuJa2GmAspYfLJHKE6gAUpnAV9dlQqhKw8tutXie_sd8IKptdpU3Eg%3D%3D" target="_blank" onclick="event.stopPropagation();">Nvidia Expands Its Open-Source AI Weather- and Climate-Tracking Models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769436000.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.economist.com/content-assets/images/20260124_WBP503.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age" target="_blank" onclick="event.stopPropagation();">Will the smartphone survive the AI age?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Economist" class="news-favicon">
+                                    <a href="https://www.economist.com" target="_blank" onclick="event.stopPropagation();">The Economist</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769366498.0"></span>
                                 </div>
                                 
                             </div>
@@ -1667,7 +1678,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-26T12:52:02.578581+00:00">Updated 2026-01-26T12:52:02.578581+00:00</small>
+        <small data-timestamp="2026-01-26T14:30:02.847595+00:00">Updated 2026-01-26T14:30:02.847595+00:00</small>
     </div>
 </div>
 
@@ -1892,10 +1903,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 581</span>
+                                    <span class="post-points">▲ 582</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 604</span>
+                                    <span style="color: #9ca3af;">💬 606</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1941,10 +1952,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 273</span>
+                                    <span class="post-points">▲ 307</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 181</span>
+                                    <span style="color: #9ca3af;">💬 189</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2035,10 +2046,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 100</span>
+                                    <span class="post-points">▲ 111</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 64</span>
+                                    <span style="color: #9ca3af;">💬 74</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2055,6 +2066,55 @@
                                             
                                         
                                         <span>tomaszmachnik.pl</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46756427', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46756427" target="_blank" onclick="event.stopPropagation();">Show HN: An interactive map of US lighthouses and navigational aids</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 87</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 19</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-01-25T18:06:26Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.lighthouses.app/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.lighthouses.app/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>lighthouses.app</span>
                                     </a>
                                 </div>
                                 
@@ -2104,55 +2164,6 @@
                                             
                                         
                                         <span>CNN</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46756427', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46756427" target="_blank" onclick="event.stopPropagation();">Show HN: An interactive map of US lighthouses and navigational aids</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 77</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 19</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-25T18:06:26Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.lighthouses.app/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.lighthouses.app/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>lighthouses.app</span>
                                     </a>
                                 </div>
                                 
@@ -2227,7 +2238,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 68</span>
+                                    <span class="post-points">▲ 69</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 34</span>
@@ -2327,7 +2338,7 @@
                                     <span class="post-points">▲ 44</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 52</span>
+                                    <span style="color: #9ca3af;">💬 53</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2372,7 +2383,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-26T12:51:35.798556+00:00">Updated 2026-01-26T12:51:35.798556+00:00</small>
+        <small data-timestamp="2026-01-26T14:29:33.940786+00:00">Updated 2026-01-26T14:29:33.940786+00:00</small>
     </div>
 </div>
 

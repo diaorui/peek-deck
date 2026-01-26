@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T13:45:38.647795+00:00'
+updated: '2026-01-26T14:30:04.139835+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 13:45 UTC  
+**Last Updated:** January 26, 2026 at 14:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,039.67
+### $87,687.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.7%  
-**30d:** +0.0%  
-**90d:** -20.3%  
-**1y:** -14.0%  
+**24h:** -0.9%  
+**7d:** -0.9%  
+**30d:** -0.1%  
+**90d:** -20.4%  
+**1y:** -14.1%  
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
+**[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-7h ago
+42m ago
 
 ---
 
@@ -89,15 +89,15 @@ Rank #1
 
 ---
 
-**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-15h ago
+3h ago
 
 ---
 
-**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
+**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-2h ago
+16h ago
 
 ---
 
@@ -111,19 +111,19 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-9h ago
+10h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-16h ago
+17h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -149,43 +149,67 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
 **[Bitcoin slides near $87,000 as US government shutdown fears weigh on crypto](https://www.theblock.co/post/386961/bitcoin-slides-us-government-shutdown-fears)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
-**[Better Buy in 2026: XRP, Dogecoin, or Bitcoin?](https://www.fool.com/investing/2026/01/26/better-buy-in-2026-xrp-dogecoin-or-bitcoin/)**
+**[Making Space For Female Bitcoin Developers](https://www.forbes.com/sites/frankcorva/2026/01/26/making-space-for-female-bitcoin-developers/)**
+
+Bitcoin developers prefer to be judged by the quality of their work, not by their sex. However, female developers benefit from support as they begin working on Bitcoin.
+
+Forbes • 22m ago
+
+---
+
+**[Better Buy in 2026: XRP, Dogecoin, or Bitcoin?](https://finance.yahoo.com/news/better-buy-2026-xrp-dogecoin-121500179.html)**
 
 Which of these top coins is the best way to play the crypto market this year?
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin Slips Below $88,000, XRP Falls. Why Cryptos Are Under More Pressure.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-government-shutdown-trump-9b2d31ba?gaa_at=eafs&gaa_n=AWEtsqdA-QdaxcXz2Hkytq8ZFM9XQDwBlf67w7nF3P3yWoLeq2QrSVNQJCjh&gaa_ts=697766dc&gaa_sig=vf5lFH1Nt0F9ssZmuU9e1d_nfx3Nvw6rZjgFBl4KjV9K1V6wlb3YiAj9zDJIcdVuiVoJsHIN1R3sRKHr0Zq8_w%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Why Strategy is still betting on bitcoin](https://finance.yahoo.com/video/why-strategy-still-betting-bitcoin-110020189.html)**
-
-Strategy (MSTR, STRC) has purchased more than $3 billion worth of bitcoin (BTC-USD) so far in 2026 as part of its digital asset treasury strategy. The company's CEO and president, Phong Le, speaks with Market Catalysts Anchor Julie Hyman about the company's decision to keep buying bitcoin, despite the cryptocurrency's fall over the past year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[The Fed Is Suddenly Hurtling Toward A $34 Trillion BlackRock Gold And Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/25/bitcoin-will-take-the-place-of-gold-fed-suddenly-braced-for-a-34-trillion-blackrock-price-surprise/)**
+**[Bitcoin risks fourth straight monthly loss, a streak not seen since 2018](https://www.coindesk.com/markets/2026/01/26/bitcoin-risks-fourth-straight-monthly-loss-a-streak-not-seen-since-2018)**
 
-Bitcoin has limped into 2026, flailing in the wake of a gold price boom that’s catapulted it to an eye-watering $34 trillion market capitalization...
+A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-Forbes • 1d ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin price slumps after investors fast cash out of ETFs to avoid risk](https://www.dlnews.com/articles/people-culture/bitcoin-etfs-lose-investment-pushing-price-of-coin-down/)**
+
+Bitcoin is down significantly over the past week.  Investors cashed out of US exchange-traded funds, pushing the asset’s price down. Geopolitical headwinds have rocked all markets in January.
+
+dlnews.com • 1d ago
+
+---
+
+**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
+
+Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Solana Instead?](https://www.fool.com/investing/2026/01/25/should-you-forget-bitcoin-and-buy-solana-instead/)**
+
+Solana has a lot of growth potential, but Bitcoin is a safer choice.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -197,37 +221,15 @@ TradingView • 19h ago
 
 ---
 
-**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
-
-Binance • 2d ago
-
----
-
-**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
-
-A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
-
-BanklessTimes • 9h ago
-
----
-
-**[Bitcoin Stuck in Neutral, But This Gaming Token Is Going Parabolic](https://decrypt.co/355742/bitcoin-stuck-neutral-gaming-axie-parabolic)**
-
-While Bitcoin treads water below the death cross, Axie Infinity is exploding this week as GameFi catches fire and whales pile in.
-
-Decrypt • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
-**[Disclosure of Aliens Could Cause Bitcoin Rush – Former Bank of England Analyst](https://news.ycombinator.com/item?id=46678682)**
+**["Bitcoin Jesus" Avoided Prison, Thanks to One of the "Friends of Trump"](https://news.ycombinator.com/item?id=46764787)**
 
-She warned of "extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence."
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 4 • 💬 1 • 7d ago • [Gizmodo](https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471)
+⬆️ 11 • 💬 0 • 2h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -236,15 +238,7 @@ She warned of "extreme price volatility in financial markets due to catastrophis
 Now that 95 percent of all 21 million Bitcoins already in circulation, the
 rewards for mining operations will dwindle. What happens next?
 
-⬆️ 3 • 💬 3 • 3d ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
-
----
-
-**["Bitcoin Jesus" Avoided Prison, Thanks to One of the "Friends of Trump"](https://news.ycombinator.com/item?id=46764787)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-⬆️ 3 • 💬 0 • 1h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 3 • 💬 3 • 4d ago • [tickerfeed.net](https://tickerfeed.net/articles/ninety-five-percent-of-bitcoin-mined)
 
 ---
 
@@ -272,6 +266,14 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 ---
 
+**[Show HN: Was tired of drowning in HN comments, so I built an AI Chief of Staff](https://news.ycombinator.com/item?id=46765448)**
+
+Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
+
+⬆️ 1 • 💬 0 • 54m ago • [hnsignals.com](https://hnsignals.com/)
+
+---
+
 **['It's Now Happening'–Urgent U.S. Dollar 'Collapse' Warning Issued](https://news.ycombinator.com/item?id=46697289)**
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
@@ -282,7 +284,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -294,7 +296,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 32 • 💬 15 • 13h ago
+⬆️ 33 • 💬 17 • 13h ago
 
 ---
 
@@ -308,7 +310,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 381 • ⏱️ 9:12 • 14h ago
+👁️ 42K • 👍 3K • 💬 381 • ⏱️ 9:12 • 15h ago
 
 ---
 
@@ -338,7 +340,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 276 • 💬 222 • ⏱️ 15:36 • 8h ago
+👁️ 8K • 👍 276 • 💬 222 • ⏱️ 15:36 • 9h ago
 
 ---
 
@@ -348,7 +350,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 24K • 👍 2K • 💬 498 • ⏱️ 4:51 • 14h ago
+👁️ 24K • 👍 2K • 💬 498 • ⏱️ 4:51 • 15h ago
 
 ---
 
@@ -358,7 +360,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 75K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+👁️ 75K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
 
 ---
 
@@ -388,7 +390,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 169 • ⏱️ 13:42 • 13h ago
+👁️ 20K • 👍 1K • 💬 169 • ⏱️ 13:42 • 14h ago
 
 ---
 
@@ -398,7 +400,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 229 • 💬 31 • ⏱️ 6:47 • 15h ago
+👁️ 4K • 👍 229 • 💬 31 • ⏱️ 6:47 • 16h ago
 
 ---
 

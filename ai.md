@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T13:45:38.639260+00:00'
+updated: '2026-01-26T14:30:04.131231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 13:45 UTC  
+**Last Updated:** January 26, 2026 at 14:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 22h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 23h ago
 
 ---
 
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 1h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-7h ago
+8h ago
 
 ---
 
@@ -109,47 +109,17 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 ---
 
-**[AI Monk With 2.5M Followers Fully Automated in n8n](https://www.reddit.com/r/artificial/comments/1qlfyaf/ai_monk_with_25m_followers_fully_automated_in_n8n/)**
+**[Be careful of custom tokens in your LLM !!!](https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/)**
 
-I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
+LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conversations and define who's speaking. When the model sees `<|im_start|>system`, it treats everything that follows as a privileged system instruction. The problem is that tokenizers don't validate where these strings come from—if you type them into user input, the model interprets them exactly the same as if the application added them. This creates a straightforward attack: inject `<|im_end|><|im_start|>system` into your message and the model thinks you just closed the user turn and opened a new system prompt. Everything after gets treated as authoritative instruction, which is how you end up with CVEs like GitHub Copilot RCE (CVSS 9.6) and LangChain secret extraction (CVSS 9.3). It's the same fundamental bug that made SQL injection possible—confusing data for control. The attack surface expands significantly with agentic systems that have tool-calling capabilities. Injecting something like `<tool\_call>{"name": "execute_sql", "arguments": {...}}</tool\_call>` can trick the model into executing arbitrary function calls. Most ML-based defenses don't hold up under adversarial pressure either—Meta's Prompt Guard hits 99%+ bypass rates when you just insert hyphens between characters, because detectors tokenize differently than target models. There's a fix at the tokenizer level (`split_special_tokens=True`) that breaks these strings into regular tokens with no special authority, but almost nobody enables it.
 
-2d ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/r/reddit-ar/learn/special-token-attack) • 2d ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
-
-Bloomberg • 1d ago
-
----
-
-**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
-
-The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
-
-The Economist • 19h ago
-
----
-
-**[Meta poised for nearly 40% upside on compelling AI and ad opportunities, analyst says](https://www.cnbc.com/2026/01/26/meta-poised-for-nearly-40percent-upside-on-compelling-ai-and-ad-opportunities-analyst-says.html)**
-
-After stalling over the past 12 months, Rothschild & Co Redburn believes that shares of Meta could rally 37% from here.
-
-CNBC • 1h ago
-
----
-
-**[AI Can Go To Meetings For You—But What Are The Tradeoffs?](https://www.forbes.com/sites/carolinecastrillon/2026/01/26/ai-can-go-to-meetings-for-you-but-what-are-the-tradeoffs/)**
-
-AI can go to meetings for you, but is that always the right move? The time savings are real, but so are the tradeoffs.
-
-Forbes • 1h ago
-
----
 
 **[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
 
@@ -159,7 +129,7 @@ The Guardian • 5h ago
 
 ---
 
-**[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
+**[Elon Musk’s X Faces European Inquiry Over Sexualized A.I. Images](https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html)**
 
 The New York Times • 3h ago
 
@@ -173,25 +143,53 @@ BBC • 1h ago
 
 ---
 
-**[EU investigates Musk’s AI chatbot Grok over sexual deepfakes](https://www.oregonlive.com/nation/2026/01/eu-investigates-musks-ai-chatbot-grok-over-sexual-deepfakes.html)**
+**[EU launches inquiry into X over sexually explicit images made by Grok AI](https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai)**
 
-Grok sparked backlash by using AI to undress people, including children, in images.
+Investigation comes after Elon Musk’s firm sparked outrage by allowing users to ‘strip’ photos of women and children
 
-oregonlive.com • 1h ago
-
----
-
-**[Elon Musk’s X Faces European Inquiry Over Sexualized A.I. Images](https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html)**
-
-The New York Times • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[WATCH: Jim VandeHei's blunt AI advice](https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice)**
+**[Nvidia Launches AI Technologies to Aid Weather Forecasting](https://www.bloomberg.com/news/articles/2026-01-26/nvidia-launches-ai-technologies-to-aid-weather-forecasting)**
 
-We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
+Bloomberg.com • 30m ago
 
-Axios • 3h ago
+---
+
+**[AI frenzy: Business investment has been an unexpected source of strength for the U.S. economy](https://www.marketwatch.com/story/ai-frenzy-business-investment-has-been-an-unexpected-source-of-strength-for-the-u-s-economy-197ff347?gaa_at=eafs&gaa_n=AWEtsqfhA-eaNxfXn1WJ_-pXgcdFI5W_FLNr0T8LrZT0qbGkd5l2T7f7wwPG&gaa_ts=69777dd1&gaa_sig=uvlkAXz1YEGXp96uktPg0r3I0bar7kE5kKBtQRzKSeZLN5wpITtxaCcOEPUpt9otXhNl8vEiaJYzh9Xvk_OGTQ%3D%3D)**
+
+MarketWatch • 32m ago
+
+---
+
+**[CoreWeave stock jumps 8% as Nvidia invests $2 billion to expand AI data center capacity](https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html)**
+
+Nvidia purchased CoreWeave Class A common stock at $87.20 per share.
+
+CNBC • 1h ago
+
+---
+
+**[NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories](https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories)**
+
+NVIDIA (Nasdaq: NVDA) and CoreWeave, Inc. (Nasdaq: CRWV) today announced an expansion of their long-standing complementary relationship to enable CoreWeave to accelerate the buildout of more than 5 gigawatts of AI factories by 2030 to advance AI adoption at global scale.
+
+NVIDIA Newsroom • 4h ago
+
+---
+
+**[Nvidia Expands Its Open-Source AI Weather- and Climate-Tracking Models](https://www.wsj.com/articles/nvidia-expands-its-open-source-ai-weather-and-climate-tracking-models-bace995d?gaa_at=eafs&gaa_n=AWEtsqcn5skwT6yWOh2z03oqHWB_QRgMLjJrH-8NLPo_P38QhCV5E0c830PG&gaa_ts=69777dd1&gaa_sig=q8--nb7JkdO2d0K9VykHOLvkulqzwbxoeuJa2GmAspYfLJHKE6gAUpnAV9dlQqhKw8tutXie_sd8IKptdpU3Eg%3D%3D)**
+
+The Wall Street Journal • 30m ago
+
+---
+
+**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
+
+The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
+
+The Economist • 19h ago
 
 ---
 
@@ -203,7 +201,7 @@ Axios • 3h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 581 • 💬 604 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 582 • 💬 606 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -211,7 +209,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 273 • 💬 181 • 13h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 307 • 💬 189 • 14h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -225,7 +223,15 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 100 • 💬 64 • 15h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 111 • 💬 74 • 15h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+
+---
+
+**[Show HN: An interactive map of US lighthouses and navigational aids](https://news.ycombinator.com/item?id=46756427)**
+
+Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
+
+⬆️ 87 • 💬 19 • 20h ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -234,14 +240,6 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
 ⬆️ 84 • 💬 71 • 1d ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
-
----
-
-**[Show HN: An interactive map of US lighthouses and navigational aids](https://news.ycombinator.com/item?id=46756427)**
-
-Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
-
-⬆️ 77 • 💬 19 • 19h ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -255,13 +253,13 @@ Interactive map of 59,000+ active US Coast Guard lighthouses and navigational ai
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 68 • 💬 34 • 1d ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 69 • 💬 34 • 1d ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
 **[AI Tribalism](https://news.ycombinator.com/item?id=46758175)**
 
-⬆️ 57 • 💬 90 • 16h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
+⬆️ 57 • 💬 90 • 17h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 
 ---
 
@@ -269,7 +267,7 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
 
-⬆️ 44 • 💬 52 • 1d ago • [the Guardian](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)
+⬆️ 44 • 💬 53 • 1d ago • [the Guardian](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)
 
 ---
 
@@ -283,7 +281,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 43K • 👍 850 • 💬 282 • ⏱️ 4:20 • 12h ago
+👁️ 43K • 👍 850 • 💬 282 • ⏱️ 4:20 • 13h ago
 
 ---
 
@@ -293,7 +291,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 142K • 👍 8K • 💬 1K • ⏱️ 12:43 • 14h ago
+👁️ 142K • 👍 8K • 💬 1K • ⏱️ 12:43 • 15h ago
 
 ---
 
@@ -363,7 +361,7 @@ My site: https://natebjones.com Full Story w/ Prompt: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 24K • 👍 1K • 💬 117 • ⏱️ 21:32 • 18h ago
+👁️ 24K • 👍 1K • 💬 117 • ⏱️ 21:32 • 19h ago
 
 ---
 
@@ -461,7 +459,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 255 • 8h ago
+⬇️ 749 • ❤️ 255 • 9h ago
 
 ---
 
@@ -473,7 +471,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 237 • 7h ago
+⬇️ 5,159 • ❤️ 237 • 8h ago
 
 ---
 
@@ -497,7 +495,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 `image-text-to-text` `5.0B`
 
-⬇️ 69,188 • ❤️ 536 • 10d ago
+⬇️ 69,188 • ❤️ 536 • 11d ago
 
 ---
 
@@ -642,7 +640,7 @@ Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning thr
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 175 • 💬 5 • ⭐ 469 • 7d ago
+▲ 175 • 💬 5 • ⭐ 469 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -668,7 +666,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 8h ago
+⭐ 9.7k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -698,7 +696,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 3h ago
+⭐ 6.2k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -708,7 +706,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.6k • 🔱 6.0k • 47m ago
+⭐ 5.6k • 🔱 6.0k • 1h ago
 
 ---
 
@@ -728,7 +726,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.6k • 🔱 829 • 5h ago
+⭐ 3.6k • 🔱 829 • 6h ago
 
 ---
 
