@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T11:43:38.366254+00:00'
+updated: '2026-01-26T12:52:03.826742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 11:43 UTC  
+**Last Updated:** January 26, 2026 at 12:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ I don't have much information, but it's a bit viral on X
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 3h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 4h ago
 
 ---
 
@@ -60,7 +60,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-23h ago
+1d ago
 
 ---
 
@@ -70,11 +70,19 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ---
 
+**[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
+
+Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
+
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 35m ago
+
+---
+
 **[Where to publish first robotics paper](https://www.reddit.com/r/robotics/comments/1qmlt5y/where_to_publish_first_robotics_paper/)**
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-20h ago
+21h ago
 
 ---
 
@@ -90,17 +98,11 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-18h ago
+19h ago
 
 ---
 
 **[Penality robots](https://www.reddit.com/r/robotics/comments/1qm7sit/penality_robots/)**
-
-1d ago
-
----
-
-**[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
 
 1d ago
 
@@ -118,11 +120,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Watch: ALLEX shows how humanoid robots can shake hands safely](https://interestingengineering.com/ai-robotics/korea-allex-humanoid-robot)**
+**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
 
-Meet ALLEX, a humanoid robot built for safe, human-like interaction, combining force sensing, flexible motion, and real-world responsiveness.
+Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -134,11 +136,33 @@ Live Science • 2d ago
 
 ---
 
+**[China’s Eyou opens world’s first automated line for humanoid robot joints](https://www.scmp.com/tech/big-tech/article/3341229/chinas-eyou-opens-worlds-first-automated-line-humanoid-robot-joints)**
+
+Manufacturer adds line in anticipation of surge in global demand for humanoid robots, with one estimate projecting 100,000 shipments by 2027.
+
+South China Morning Post • 3h ago
+
+---
+
 **[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 16h ago
+TechRadar • 17h ago
+
+---
+
+**[New magnetic polymer design boosts force and stretch in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
+
+MarketBeat • 2d ago
 
 ---
 
@@ -150,11 +174,11 @@ channel3000.com • 1d ago
 
 ---
 
-**[Robotics transforming operations in the oil and gas sector](https://finance.yahoo.com/news/robotics-transforming-operations-oil-gas-120233741.html)**
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
 
-Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Repsol, and ADNOC integrate robotics with AI, cloud computing, and advanced sensors.
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
 
-Yahoo Finance • 2d ago
+wbay.com • 2d ago
 
 ---
 
@@ -163,30 +187,6 @@ Yahoo Finance • 2d ago
 Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
 
 USA Today • 1d ago
-
----
-
-**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
-
-Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
-
-The Robot Report • 2d ago
-
----
-
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1d ago
-
----
-
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 564 • 👍 278 • 💬 1 • ⏱️ 7:25 • 4h ago
+👁️ 564 • 👍 278 • 💬 1 • ⏱️ 7:25 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 
 📺 UBTECH Robotics
 
-👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 5d ago
+👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 6d ago
 
 ---
 
