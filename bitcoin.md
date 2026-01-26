@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T17:31:04.439346+00:00'
+updated: '2026-01-26T18:38:20.516759+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 17:31 UTC  
+**Last Updated:** January 26, 2026 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,415.88
+### $88,169.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.2%  
-**30d:** -0.4%  
-**90d:** -20.7%  
-**1y:** -14.4%  
+**24h:** +1.8%  
+**7d:** -0.3%  
+**30d:** +0.5%  
+**90d:** -20.0%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.03B
+**Market Cap:** $1761.40B
 Rank #1
 
-**Circulating Supply:** 19,980,790 BTC
+**Circulating Supply:** 19,980,831 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.1%
 
 **All-Time Low:** $67.81
-+129155.3%
++129957.5%
 
 ---
 
@@ -79,31 +79,53 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-13h ago
+15h ago
 
 ---
 
-**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+**[Shift to prediction markets](https://www.reddit.com/r/Bitcoin/comments/1qnlxgb/shift_to_prediction_markets/)**
 
-19h ago
+I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
+
+1h ago
 
 ---
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-9h ago
+10h ago
+
+---
+
+**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+
+20h ago
+
+---
+
+**[Found a Little Bitcoin :)](https://www.reddit.com/r/Bitcoin/comments/1qnnjgt/found_a_little_bitcoin/)**
+
+I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
+
+36m ago
+
+---
+
+**[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
+
+6h ago
 
 ---
 
@@ -111,31 +133,13 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-13h ago
-
----
-
-**[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
-
-5h ago
+14h ago
 
 ---
 
 **[Michael Burry still thinks bitcoin is worthless. Why hasn't he done the work to figure it out?](https://www.reddit.com/r/Bitcoin/comments/1qnjp3n/michael_burry_still_thinks_bitcoin_is_worthless/)**
 
-1h ago
-
----
-
-**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
-
-20h ago
-
----
-
-**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
-
-18h ago
+2h ago
 
 ---
 
@@ -147,7 +151,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -163,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -175,35 +179,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[You Don't Need To Code To Join The Bitcoin Revolution – Non-Dev Jobs Up 74% In 2025!](https://bitcoinmagazine.com/business/us-dominates-bitcoin-hiring-in-2025-as-singapore-jumps-158-bitvocation-data-shows)**
-
-Tired of hearing you need to be a developer to work in Bitcoin? Bitvocation's 2025 report proves otherwise – marketing, design, and ops roles are exploding, with 1,801 total jobs up 6% and Bitcoin-only firms leading the charge.
-
-Bitcoin Magazine • 33m ago
-
----
-
-**[Bitcoin Bears Strike Again – What Happens If $84,000 Support Finally Breaks?](https://bitcoinmagazine.com/markets/bitcoin-drops-below-87000-as-bears-target-84000-support-break)**
-
-From bounce hopes to breakdown fears: Bitcoin's MACD turned bearish and $87,000 support vanished. Is this the start of a deeper correction – or a fakeout?
-
-Bitcoin Magazine • 4m ago
-
----
-
-**[Colombia’s Second-Largest Pension to Launch Bitcoin Fund for Qualified Clients](https://bitcoinmagazine.com/news/colombia-pension-to-launch-bitcoin-fund)**
-
-Colombia’s AFP Protección will offer Bitcoin funds to qualified clients in an effort to increase portfolio diversification.
-
-Bitcoin Magazine • 6m ago
-
----
-
 **[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
 
 Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
 
-The Block • 4h ago
+The Block • 5h ago
+
+---
+
+**[Strategy buys more Bitcoin—$264 million of it—even as Bitcoin slumps to $87,000](https://fortune.com/2026/01/26/strategy-buys-more-bitcoin-264-million-of-it-even-as-bitcoin-slumps-to-87000/)**
+
+The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
+
+Fortune • 7m ago
 
 ---
 
@@ -211,15 +199,29 @@ The Block • 4h ago
 
 Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
-**[Strategy Spends $267 Million on Bitcoin, Issues STRC for Third Straight Week](https://decrypt.co/355843/strategy-spends-267-million-bitcoin-issues-strc-third-straight-week)**
+**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Strategy continued buying Bitcoin last week, but the company’s latest acquisition marked a deceleration from the previous two additions.
+Bloomberg.com • 7h ago
 
-Decrypt • 1h ago
+---
+
+**[Metaplanet sees $680 million in unrealized losses on bitcoin holdings in 2025](https://www.theblock.co/post/386997/metaplanet-680-million-bitcoin-loss)**
+
+Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
+
+The Block • 8h ago
+
+---
+
+**[Bitcoin January 26 daily chart alert - Bears in command](https://www.kitco.com/news/article/2026-01-26/bitcoin-january-26-daily-chart-alert-bears-command)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 8h ago
 
 ---
 
@@ -231,7 +233,7 @@ Decrypt • 1h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 14 • 💬 0 • 5h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 16 • 💬 0 • 6h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -260,19 +262,11 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 ---
 
-**[Led by Texas, New Hampshire, states race to prove can –"Bitcoin on bal sheet"](https://news.ycombinator.com/item?id=46682493)**
-
-Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
-
-⬆️ 1 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
-
----
-
 **[Show HN: Was tired of drowning in HN comments, so I built an AI Chief of Staff](https://news.ycombinator.com/item?id=46765448)**
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 3h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 5h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -286,7 +280,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -298,7 +292,15 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 33 • 💬 18 • 16h ago
+⬆️ 34 • 💬 20 • 18h ago
+
+---
+
+**[Show HN: A desktop app that blocks work when you bite your nails](https://news.ycombinator.com/item?id=46759850)**
+
+Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
+
+⬆️ 16 • 💬 4 • 18h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -312,7 +314,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 475 • ⏱️ 9:12 • 18h ago
+👁️ 47K • 👍 3K • 💬 558 • ⏱️ 9:12 • 19h ago
 
 ---
 
@@ -322,17 +324,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 571 • ⏱️ 9:36 • 15h ago
+👁️ 24K • 👍 1K • 💬 635 • ⏱️ 9:36 • 16h ago
 
 ---
 
-**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
+**[The Ugly Truth About Bitcoin.](https://www.youtube.com/watch?v=yfGSax8PGwo)**
 
-Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
+Ran critically analyses and questions a long standing Bitcoin narrative as its structural collapse worsens compared to the ...
 
-📺 Simply Bitcoin
+📺 Crypto Banter
 
-👁️ 22K • 👍 2K • 💬 223 • ⏱️ 13:42 • 17h ago
+👁️ 11K • 👍 1K • 💬 37 • ⏱️ 31:42 • 3h ago
 
 ---
 
@@ -342,27 +344,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 330 • 💬 424 • ⏱️ 15:36 • 12h ago
-
----
-
-**[Bitcoin Signal Flashing as Fed Injects $8B](https://www.youtube.com/watch?v=pxhHR7EmMdM)**
-
-The Federal Reserve just moved $8B into the system. Is this the liquidity spark we've been waiting for to push BTC toward the ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 229 • 2h ago
-
----
-
-**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
-
-Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
-
-📺 Alessio Rastani
-
-👁️ 26K • 👍 2K • 💬 555 • ⏱️ 4:51 • 18h ago
+👁️ 12K • 👍 357 • 💬 551 • ⏱️ 15:36 • 13h ago
 
 ---
 
@@ -372,7 +354,27 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 585 • 💬 428 • ⏱️ 4:20 • 22h ago
+👁️ 41K • 👍 594 • 💬 524 • ⏱️ 4:20 • 23h ago
+
+---
+
+**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
+
+Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 318 • ⏱️ 13:42 • 18h ago
+
+---
+
+**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
+
+Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
+
+📺 Alessio Rastani
+
+👁️ 28K • 👍 2K • 💬 641 • ⏱️ 4:51 • 19h ago
 
 ---
 
@@ -382,7 +384,15 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 77K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
+👁️ 78K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
+
+---
+
+**[“Bitcoin in a bear market in gold terms.” -Luke Gromen](https://www.youtube.com/watch?v=iMMnl5HNMr8)**
+
+📺 Natalie Brunell
+
+👁️ 600 • 👍 32 • 💬 27 • ⏱️ 1:28 • 1h ago
 
 ---
 
@@ -392,17 +402,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 20K • 👍 1K • 💬 233 • ⏱️ 13:23 • 1d ago
-
----
-
-**[#Bitcoin Flippening: What You Need to Know NOW](https://www.youtube.com/watch?v=IFBIZPlIy5c)**
-
-Welcome to the Gavin Mehl Channel! In this video, Gavin Mehl shares insights into the Great Bitcoin Flippening, an underground ...
-
-📺 Gavin Mehl
-
-👁️ 667 • 👍 48 • 💬 20 • ⏱️ 1:23 • 11h ago
+👁️ 20K • 👍 1K • 💬 234 • ⏱️ 13:23 • 1d ago
 
 ---
 

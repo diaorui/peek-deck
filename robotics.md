@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T17:31:04.447929+00:00'
+updated: '2026-01-26T18:38:20.526177+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 17:31 UTC  
+**Last Updated:** January 26, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 9h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 10h ago
 
 ---
 
@@ -66,7 +66,7 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 5h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 6h ago
 
 ---
 
@@ -74,13 +74,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
 
-4h ago
-
----
-
-**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
-
-34m ago
+5h ago
 
 ---
 
@@ -92,11 +86,17 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ---
 
+**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
+
+1h ago
+
+---
+
 **[How useful is “long-horizon” human demonstration data for task planning (not just low-level control)?](https://www.reddit.com/r/robotics/comments/1qnjg2u/how_useful_is_longhorizon_human_demonstration/)**
 
 Hey everyone, I’m a university student trying to understand something about robot learning + planning and I would love to hear from people who have actually worked on this. A lot of datasets/imitation learning setups seem great for short-horizon behaviors (pick/place, grasping, reaching, etc.). But I’m more curious about the long-horizon part of real tasks: multi-step sequences, handling “oh noo” moments, recovery and task re-planning. I know that currently VLA models and majority of general purpose robots are failing a lot on long horizon tasks. The question: How useful is human demonstration data when the goal is long-horizon task planning, rather than just low-level control? More specifically, have you seen demos help with things like: deciding what to do next across multiple steps recovery behaviors (failed grasp, object moved, collisions, partial success) learning “when to stop / reset / switch strategy” planning in tasks like sorting, stacking, cleaning, or “kitchen-style” multi-step routines I’m wondering where the real bottleneck is Is it mostly: “the data doesn’t cover the right failure modes / distributions” “planning needs search + world models, demos aren’t enough” “the hard part is evaluation and generalization, not collecting more demos” or “demos actually help a ton, but only if structured/annotated the right way” Also curious: If you’ve tried this (in academia or industry), what ended up being the most valuable format? full trajectories (state → action sequences) subgoals / waypoints / decompositions language or “intent” labels corrections / preference feedback (“this recovery is better than that one”) action traces that include meta-actions like “pause, re-check, adjust plan, reset” Not looking for anything proprietary, I’m mainly trying to build intuition on why this does or doesn’t work in practice. Would appreciate any papers, internal lessons learned, or even “we tried this and it didn’t work at all” stories. Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -110,11 +110,27 @@ Hey everyone, I’m a university student trying to understand something about ro
 
 ## Google News: "robotics"
 
+**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
+
+State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+
+The Robot Report • 19m ago
+
+---
+
 **[Micropolis Robotics Unveils Autonomous Logistics Platform at UMEX 2026 in Abu Dhabi](https://markets.businessinsider.com/news/stocks/micropolis-robotics-unveils-autonomous-logistics-platform-at-umex-2026-in-abu-dhabi-1035745404)**
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
+
+---
+
+**[Micropolis AI Robotics (NYSE: MCRP) Reveals Autonomous Logistics Platform at UMEX 2026](https://www.tipranks.com/news/newswire/micropolis-ai-robotics-nyse-mcrp-reveals-autonomous-logistics-platform-at-umex-2026)**
+
+Austin, Texas, United States, January 26th, 2026, FinanceWire Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven secu...
+
+TipRanks • 28m ago
 
 ---
 
@@ -122,7 +138,7 @@ markets.businessinsider.com • 3h ago
 
 Lianhe Sowell International Group Ltd (Nasdaq: LHSW) (the "Company"), a provider of industrial machine vision products and solutions in China, today announced its strategic plan to invest in and establish its first Specialized Industry Robotics Industrial Headquarters Base in the United Arab Emirates, ("UAE") marking a significant milestone in the Company's global expansion strategy and the advancement of its artificial intelligence–driven robotics business.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -130,7 +146,7 @@ Yahoo Finance • 4h ago
 
 Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.
 
-Interesting Engineering • 18m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -142,11 +158,11 @@ Financial Times • 1d ago
 
 ---
 
-**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
+**[Robots Are Taking Over The Human Labor Industry, Starting With This Hyundai Facility](https://www.bgr.com/2080363/robots-taking-over-human-labor-industry-hyundai/)**
 
-Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
+The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
-Interesting Engineering • 2d ago
+bgr.com • 6h ago
 
 ---
 
@@ -162,7 +178,7 @@ Live Science • 2d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 21h ago
+TechRadar • 23h ago
 
 ---
 
@@ -172,45 +188,9 @@ MarketBeat • 3d ago
 
 ---
 
-**[New magnetic polymer design boosts force and stretch in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
-
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
-
-channel3000.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
-
-Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
-
-📺 Consumer Research Studios
-
-👁️ 781 • 👍 284 • 💬 1 • ⏱️ 7:25 • 10h ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 79 • 💬 70 • ⏱️ 2:47 • 4d ago
-
----
 
 **[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
 
@@ -218,37 +198,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 100K • 👍 2K • 💬 154 • ⏱️ 17:39 • 2d ago
-
----
-
-**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
-
-Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
-
-📺 CapyEscapes
-
-👁️ 3K • 👍 258 • 💬 5 • ⏱️ 0:55 • 6h ago
-
----
-
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
-
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
-
-📺 Fox News
-
-👁️ 49K • 👍 1K • 💬 245 • ⏱️ 0:49 • 3d ago
-
----
-
-**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
-
-Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
-
-📺 CBC News: The National
-
-👁️ 22K • 👍 226 • ⏱️ 7:30 • 6d ago
+👁️ 101K • 👍 2K • 💬 157 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -262,31 +212,83 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
 
-📺 Bernie Sanders
+Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
 
-👁️ 26K • 👍 3K • 💬 120 • ⏱️ 1:13 • 3d ago
+📺 CNBC Television
 
----
-
-**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
-
-📺 EmortalMarcus
-
-👁️ 282K • 👍 14K • 💬 1K • ⏱️ 35:38 • 4d ago
+👁️ 9K • 👍 79 • 💬 70 • ⏱️ 2:47 • 4d ago
 
 ---
 
-**[Pudu D5 Jumping Robot](https://www.youtube.com/watch?v=1dMn45wBsGk)**
+**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
 
-Pudu Robotics D5 Series is a rugged quadruped robot that can run, jump, and even perform backflips.
+Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
 
-📺 Space and Technology
+📺 Consumer Research Studios
 
-👁️ 1K • 👍 53 • 💬 1 • ⏱️ 0:28 • 7h ago
+👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 11h ago
+
+---
+
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
+
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
+
+📺 DRM News
+
+👁️ 562K • 👍 10K • 💬 3K • ⏱️ 32:01 • 4d ago
+
+---
+
+**[This robot has wheels AND legs](https://www.youtube.com/watch?v=gGTtW8VSnvo)**
+
+AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
+
+📺 Unstoppable Gadgets
+
+👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 19h ago
+
+---
+
+**[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
+
+Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
+
+📺 CBC News: The National
+
+👁️ 23K • 👍 226 • ⏱️ 7:30 • 6d ago
+
+---
+
+**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
+
+Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
+
+📺 CapyEscapes
+
+👁️ 4K • 👍 287 • 💬 5 • ⏱️ 0:55 • 7h ago
+
+---
+
+**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+
+Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+
+📺 Fox News
+
+👁️ 49K • 👍 1K • 💬 245 • ⏱️ 0:49 • 3d ago
+
+---
+
+**[Most Humanlike AI Robot at CES 2026 Will Make You UNCOMFORTABLE](https://www.youtube.com/watch?v=nGJ6u_5RkOw)**
+
+CES 2026 just unveiled the most humanlike AI robot ever created — and it's making everyone deeply uncomfortable. Standing ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 6d ago
 
 ---
 
