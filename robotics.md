@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T16:36:13.719227+00:00'
+updated: '2026-01-26T17:31:04.447929+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 16:36 UTC  
+**Last Updated:** January 26, 2026 at 17:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
+
+2h ago
+
+---
+
 **[Autonomous Indoor Flight with a DJI Drone Using Precise Indoor Positioning](https://www.reddit.com/r/robotics/comments/1qna1ts/autonomous_indoor_flight_with_a_dji_drone_using/)**
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-8h ago
+9h ago
 
 ---
 
-**[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://www.reddit.com/r/robotics/comments/1qnadaq/its_officialchina_deploys_humanoid_robots_at/)**
 
-2h ago
+It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
+
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 9h ago
 
 ---
 
@@ -54,19 +62,11 @@ I don't have much information, but it's a bit viral on X
 
 ---
 
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://www.reddit.com/r/robotics/comments/1qnadaq/its_officialchina_deploys_humanoid_robots_at/)**
-
-It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
-
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 8h ago
-
----
-
 **[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 4h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 5h ago
 
 ---
 
@@ -74,7 +74,13 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
 
-3h ago
+4h ago
+
+---
+
+**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
+
+34m ago
 
 ---
 
@@ -86,23 +92,15 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ---
 
+**[How useful is “long-horizon” human demonstration data for task planning (not just low-level control)?](https://www.reddit.com/r/robotics/comments/1qnjg2u/how_useful_is_longhorizon_human_demonstration/)**
+
+Hey everyone, I’m a university student trying to understand something about robot learning + planning and I would love to hear from people who have actually worked on this. A lot of datasets/imitation learning setups seem great for short-horizon behaviors (pick/place, grasping, reaching, etc.). But I’m more curious about the long-horizon part of real tasks: multi-step sequences, handling “oh noo” moments, recovery and task re-planning. I know that currently VLA models and majority of general purpose robots are failing a lot on long horizon tasks. The question: How useful is human demonstration data when the goal is long-horizon task planning, rather than just low-level control? More specifically, have you seen demos help with things like: deciding what to do next across multiple steps recovery behaviors (failed grasp, object moved, collisions, partial success) learning “when to stop / reset / switch strategy” planning in tasks like sorting, stacking, cleaning, or “kitchen-style” multi-step routines I’m wondering where the real bottleneck is Is it mostly: “the data doesn’t cover the right failure modes / distributions” “planning needs search + world models, demos aren’t enough” “the hard part is evaluation and generalization, not collecting more demos” or “demos actually help a ton, but only if structured/annotated the right way” Also curious: If you’ve tried this (in academia or industry), what ended up being the most valuable format? full trajectories (state → action sequences) subgoals / waypoints / decompositions language or “intent” labels corrections / preference feedback (“this recovery is better than that one”) action traces that include meta-actions like “pause, re-check, adjust plan, reset” Not looking for anything proprietary, I’m mainly trying to build intuition on why this does or doesn’t work in practice. Would appreciate any papers, internal lessons learned, or even “we tried this and it didn’t work at all” stories. Thanks in advance.
+
+1h ago
+
+---
+
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
-
-1d ago
-
----
-
-**[Public transport benchmark release: multi-GB/s localhost RTT harness for robotics sims](https://www.reddit.com/r/robotics/comments/1qnfj6u/public_transport_benchmark_release_multigbs/)**
-
-I published a public verification bundle for the transport runtime behind SimpleSocketBridge (SSB). Download: https://github.com/Kranyai/SimpleSocketBridge/releases/tag/v0.1-transport-proof It includes runnable Windows binaries + sample CSV output for measuring: - round-trip latency - sustained throughput - multi-core scaling - ASIO baseline comparison - overnight endurance Transport-only (no CARLA / Unreal adapters). I’m looking for independent runs on other machines or environments and would love feedback.
-
-3h ago
-
----
-
-**[Where to publish first robotics paper](https://www.reddit.com/r/robotics/comments/1qmlt5y/where_to_publish_first_robotics_paper/)**
-
-Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
 1d ago
 
@@ -112,11 +110,51 @@ Hi all! I'm an undergrad student working on an independent robotics project (nat
 
 ## Google News: "robotics"
 
+**[Micropolis Robotics Unveils Autonomous Logistics Platform at UMEX 2026 in Abu Dhabi](https://markets.businessinsider.com/news/stocks/micropolis-robotics-unveils-autonomous-logistics-platform-at-umex-2026-in-abu-dhabi-1035745404)**
+
+DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
+
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Lianhe Sowell International Group Ltd Announces Strategic Plan to Establish Specialized Industry Robotics Headquarters in the UAE](https://finance.yahoo.com/news/lianhe-sowell-international-group-ltd-133000359.html)**
+
+Lianhe Sowell International Group Ltd (Nasdaq: LHSW) (the "Company"), a provider of industrial machine vision products and solutions in China, today announced its strategic plan to invest in and establish its first Specialized Industry Robotics Industrial Headquarters Base in the United Arab Emirates, ("UAE") marking a significant milestone in the Company's global expansion strategy and the advancement of its artificial intelligence–driven robotics business.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[How to make a film using AI tools in 2026](https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies)**
+
+Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.
+
+Interesting Engineering • 18m ago
+
+---
+
 **[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
 Financial Times • 1d ago
+
+---
+
+**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
+
+Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+
+Live Science • 2d ago
 
 ---
 
@@ -130,7 +168,7 @@ TechRadar • 21h ago
 
 **[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
 
-MarketBeat • 2d ago
+MarketBeat • 3d ago
 
 ---
 
@@ -150,44 +188,6 @@ channel3000.com • 1d ago
 
 ---
 
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 2d ago
-
----
-
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 1d ago
-
----
-
-**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
-
-Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
-
-The Robot Report • 2d ago
-
----
-
-**[Robotics transforming operations in the oil and gas sector](https://finance.yahoo.com/news/robotics-transforming-operations-oil-gas-120233741.html)**
-
-Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Repsol, and ADNOC integrate robotics with AI, cloud computing, and advanced sensors.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Shapeshifting materials could power next generation of soft robots](https://techxplore.com/news/2026-01-shapeshifting-materials-power-generation-soft.html)**
-
-Tech Xplore • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ Litter robot 4 review: testing performance and quality Get Litter Robot ➜ http
 
 📺 Consumer Research Studios
 
-👁️ 781 • 👍 284 • 💬 1 • ⏱️ 7:25 • 9h ago
+👁️ 781 • 👍 284 • 💬 1 • ⏱️ 7:25 • 10h ago
 
 ---
 
@@ -228,7 +228,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 3K • 👍 258 • 💬 5 • ⏱️ 0:55 • 5h ago
+👁️ 3K • 👍 258 • 💬 5 • ⏱️ 0:55 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Pudu Robotics D5 Series is a rugged quadruped robot that can run, jump, and even
 
 📺 Space and Technology
 
-👁️ 1K • 👍 53 • 💬 1 • ⏱️ 0:28 • 6h ago
+👁️ 1K • 👍 53 • 💬 1 • ⏱️ 0:28 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T16:36:13.716053+00:00'
+updated: '2026-01-26T17:31:04.445189+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 16:36 UTC  
+**Last Updated:** January 26, 2026 at 17:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.49
+### $2,899.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.8%  
-**30d:** -1.3%  
-**90d:** -25.4%  
-**1y:** -8.3%  
+**24h:** +1.7%  
+**7d:** -1.5%  
+**30d:** -2.0%  
+**90d:** -25.9%  
+**1y:** -9.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[All you need to know about Ethereum Glamsterdam Upgrade](https://www.reddit.com/r/ethereum/comments/1qngb7l/all_you_need_to_know_about_ethereum_glamsterdam/)**
+
+Curated resources by EtherWorld for Glamsterdam Upgrade
+
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 3h ago
 
 ---
 
@@ -84,27 +92,11 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 ---
 
-**[How to exchange ETH to XMR without KYC?](https://www.reddit.com/r/ethereum/comments/1qndzqt/how_to_exchange_eth_to_xmr_without_kyc/)**
-
-Hey, I have been holding some ETH for a while and I am looking to swap part of it into XMR. I would rather avoid big centralized exchanges if possible. Privacy matters to me and I like keeping control of my own funds. I have looked at a few decentralized or peer to peer options, but it is hard to know which ones are actually reliable or have enough liquidity. Mostly looking for something that is smooth to use and does not involve heavy KYC. Thanks in advance.
-
-4h ago
-
----
-
-**[All you need to know about Ethereum Glamsterdam Upgrade](https://www.reddit.com/r/ethereum/comments/1qngb7l/all_you_need_to_know_about_ethereum_glamsterdam/)**
-
-Curated resources by EtherWorld for Glamsterdam Upgrade
-
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 2h ago
-
----
-
 **[Liquity's BOLD stablecoin receives A- rating from Bluechip with perfect scores in Management, Decentralization, and Governance](https://www.reddit.com/r/ethereum/comments/1qnid9x/liquitys_bold_stablecoin_receives_a_rating_from/)**
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,13 +104,21 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-6h ago
+7h ago
+
+---
+
+**[How to exchange ETH to XMR without KYC?](https://www.reddit.com/r/ethereum/comments/1qndzqt/how_to_exchange_eth_to_xmr_without_kyc/)**
+
+Hey, I have been holding some ETH for a while and I am looking to swap part of it into XMR. I would rather avoid big centralized exchanges if possible. Privacy matters to me and I like keeping control of my own funds. I have looked at a few decentralized or peer to peer options, but it is hard to know which ones are actually reliable or have enough liquidity. Mostly looking for something that is smooth to use and does not involve heavy KYC. Thanks in advance.
+
+5h ago
 
 ---
 
 **[Ledger Wallet - Ethereum Kiln Staking And/Or Other Ethereum Staking Service Recommendations](https://www.reddit.com/r/ethereum/comments/1qn6e9w/ledger_wallet_ethereum_kiln_staking_andor_other/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone actually bought digital gift cards with cryptocurrency?](https://www.reddit.com/r/ethereum/comments/1qmiimm/has_anyone_actually_bought_digital_gift_cards/)**
 
-I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
+I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. I saw sites like aceb.com where you can pay with crypto and instantly get digital gift cards. The idea sounds convenient, especially when cards get blocked or payments fail. I like that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
 1d ago
 
@@ -150,33 +150,19 @@ A lot of major Web3 losses don’t begin with a Solidity vulnerability. They sta
 
 ## Google News: "ethereum"
 
-**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://decrypt.co/355733/how-sharplink-most-focused-disciplined-ethereum-treasury-2026)**
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
 
-Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 23h ago
-
----
-
-**[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
-
-ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
-
-CoinDesk • 1d ago
+Decrypt • 1h ago
 
 ---
 
-**[Gold Beats Ethereum to $5K Milestone, Hitting Record Above $5,100](https://finance.yahoo.com/news/gold-beats-ethereum-5k-milestone-143720459.html)**
+**[Did BlackRock Send an Ethereum Signal? Traders Speculate Over CEO Comments as Tom Lee’s Bitmine Buys More ETH](https://finance.yahoo.com/news/did-blackrock-send-ethereum-signal-103034447.html)**
 
-Gold smashed past $5,100 as Ethereum falters below $3,000—and prediction market users called it months ago.
+Tom Lee’s Bitmine expanded its Ethereum holdings by more than $100 million. Traders are speculating over whether recent comments by BlackRock CEO Larry Fink signal ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy?utm_source=markets.xml&utm_medium=rss)**
-
-The Block • 2h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -184,31 +170,47 @@ The Block • 2h ago
 
 The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
+**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
 
-A good week it was not for the world's second-largest cryptocurrency.
+The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
 
-The Motley Fool • 1d ago
-
----
-
-**[Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean?](https://www.tradingview.com/news/newsbtc:fd9e8f6a0094b:0-analyst-says-you-re-not-bullish-enough-on-ethereum-what-does-he-mean/)**
-
-A growing number of analysts believe Ethereum’s current price action is being misunderstood. Although frustration is growing due to Ethereum’s inability to hold above $3,000, some technical analysts are quick to point out that the structure forming beneath the surface tells a very different story…
-
-TradingView • 1d ago
+TipRanks • 3h ago
 
 ---
 
-**[Davos, The Taylor Swift Way: Quantum, AI Bosses, JPMorgan On Ethereum](https://www.forbes.com/sites/digital-assets/2026/01/26/davos-the-taylor-swift-way-quantum-ai-bosses-jpmorgan-on-ethereum/)**
+**[Tom Lee’s BitMine Stakes Another $500M of Ethereum, Will ETH Price Recover Soon?](https://finance.yahoo.com/news/tom-lee-bitmine-stakes-another-091536912.html)**
 
-Davos 2026 decoded Taylor Swift style: JPMorgan live on Ethereum, quantum risk for blockchains, Gen Z wanting AI bosses, and why my Swiftie daughter finally cared.
+Tom Lee-led Ethereum treasury firm BitMine Technologies (NASDAQ: BMNR) has amped up its ETH ETH $2 933 24h volatility: 1.8% Market cap: $353.74 B Vol. 24h: $22.47 B staking to over $5.71 billion in its latest move. On-chain data shows that the firm has staked an additional 171,264, worth $500 ...
 
-Forbes • 3h ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tom Lee’s BitMine Corners 3.5% of Ethereum Supply as Treasury Tops With 4.24M ETH Buy](https://finance.yahoo.com/news/tom-lee-bitmine-corners-3-163439225.html)**
+
+BitMine Immersion Technologies, a New York–listed company chaired by Fundstrat’s Tom Lee, has quietly built one of the largest concentrated positions in Ethereum ever disclosed by a single entity.In an update published on January 26, BitMine said it now holds 4,243,338 ether, giving the company control of roughly 3.52% of ...
+
+Yahoo Finance • 56m ago
+
+---
+
+**[Ethereum whale resurfaces after nine years, moves $145 million in ETH](https://www.theblock.co/post/386974/ethereum-whale-moves-145-million)**
+
+An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
+
+The Block • 11h ago
 
 ---
 
@@ -220,9 +222,11 @@ Yahoo Finance • 22h ago
 
 ---
 
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
 
-The Block • 1d ago
+A good week it was not for the world's second-largest cryptocurrency.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -236,7 +240,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 49 • ⏱️ 10:51 • 6h ago
+👁️ 9K • 👍 2K • 💬 49 • ⏱️ 10:51 • 7h ago
 
 ---
 
@@ -246,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 989 • 👍 104 • 💬 5 • ⏱️ 5:37 • 3h ago
+👁️ 989 • 👍 104 • 💬 5 • ⏱️ 5:37 • 4h ago
 
 ---
 
@@ -256,7 +260,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 2K • 💬 181 • ⏱️ 26:46 • 13h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 26:46 • 14h ago
 
 ---
 
@@ -266,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 291 • 👍 20 • 💬 19 • ⏱️ 5:00 • 6h ago
+👁️ 291 • 👍 20 • 💬 19 • ⏱️ 5:00 • 7h ago
 
 ---
 
@@ -276,7 +280,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 656 • 1h ago
+👁️ 4K • 👍 656 • 2h ago
 
 ---
 
@@ -286,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 107 • 💬 8 • ⏱️ 5:06 • 17h ago
+👁️ 2K • 👍 107 • 💬 8 • ⏱️ 5:06 • 18h ago
 
 ---
 
@@ -306,7 +310,7 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 9K • 👍 319 • 💬 451 • ⏱️ 24:21 • 18h ago
+👁️ 9K • 👍 319 • 💬 451 • ⏱️ 24:21 • 19h ago
 
 ---
 
@@ -316,7 +320,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 575 • 💬 14 • ⏱️ 57:29 • 19h ago
+👁️ 9K • 👍 575 • 💬 14 • ⏱️ 57:29 • 20h ago
 
 ---
 

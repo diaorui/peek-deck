@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T16:36:13.710099+00:00'
+updated: '2026-01-26T17:31:04.439346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 16:36 UTC  
+**Last Updated:** January 26, 2026 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,249.25
+### $87,415.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.1%  
-**30d:** +0.7%  
-**90d:** -19.8%  
-**1y:** -13.4%  
+**24h:** -0.1%  
+**7d:** -1.2%  
+**30d:** -0.4%  
+**90d:** -20.7%  
+**1y:** -14.4%  
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-2h ago
+3h ago
+
+---
+
+**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
+
+6h ago
 
 ---
 
@@ -89,21 +95,15 @@ Rank #1
 
 ---
 
-**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
-
-5h ago
-
----
-
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-18h ago
+19h ago
 
 ---
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,33 +111,31 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-12h ago
-
----
-
-**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
-
-19h ago
-
----
-
-**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
-
-17h ago
+13h ago
 
 ---
 
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-4h ago
+5h ago
 
 ---
 
-**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
+**[Michael Burry still thinks bitcoin is worthless. Why hasn't he done the work to figure it out?](https://www.reddit.com/r/Bitcoin/comments/1qnjp3n/michael_burry_still_thinks_bitcoin_is_worthless/)**
 
-Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
+1h ago
 
-16h ago
+---
+
+**[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
+
+20h ago
+
+---
+
+**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
+
+18h ago
 
 ---
 
@@ -149,77 +147,79 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[How Silver Cracked $100 And Added More Than Bitcoin's Entire Market Cap In 3 Months](https://finance.yahoo.com/news/silver-cracked-100-added-more-003147330.html)**
+**[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://finance.yahoo.com/news/why-bitcoin-failing-role-safe-210000989.html)**
 
-Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
+Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[The 15 Types Of Bitcoiners You’ll Definitely See At Bitcoin 2026](https://bitcoinmagazine.com/conference/the-15-types-of-bitcoiners-youll-definitely-see-at-bitcoin-2026)**
+**[Gold Hits Record $5K While Bitcoin Struggles To Keep Pace](https://www.tradingview.com/news/newsbtc:6e8a533c2094b:0-gold-hits-record-5k-while-bitcoin-struggles-to-keep-pace/)**
 
-As Bitcoin rolls into 2026, the ecosystem keeps growing - and so does the cast of characters. Here are the 15 personas you’ll absolutely encounter at Bitcoin 2026, whether you’re there to build, stack, meme, or argue about corporate balance sheets.
+Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Metaplanet sees $680 million in unrealized losses on bitcoin holdings in 2025](https://www.theblock.co/post/386997/metaplanet-680-million-bitcoin-loss)**
-
-Despite the losses, Metaplanet raised its 2025 earnings projection on the back of its bitcoin income generation business.
-
-The Block • 6h ago
+TradingView • 2h ago
 
 ---
 
-**[Bitcoin January 26 daily chart alert - Bears in command](https://www.kitco.com/news/article/2026-01-26/bitcoin-january-26-daily-chart-alert-bears-command)**
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-KITCO • 6h ago
-
----
-
-**[Making Space For Female Bitcoin Developers](https://www.forbes.com/sites/frankcorva/2026/01/26/making-space-for-female-bitcoin-developers/)**
-
-Bitcoin developers prefer to be judged by the quality of their work, not by their sex. However, female developers benefit from support as they begin working on Bitcoin.
-
-Forbes • 2h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin price slumps after investors fast cash out of ETFs to avoid risk](https://www.dlnews.com/articles/people-culture/bitcoin-etfs-lose-investment-pushing-price-of-coin-down/)**
+**[You Don't Need To Code To Join The Bitcoin Revolution – Non-Dev Jobs Up 74% In 2025!](https://bitcoinmagazine.com/business/us-dominates-bitcoin-hiring-in-2025-as-singapore-jumps-158-bitvocation-data-shows)**
 
-Bitcoin is down significantly over the past week.  Investors cashed out of US exchange-traded funds, pushing the asset’s price down. Geopolitical headwinds have rocked all markets in January.
+Tired of hearing you need to be a developer to work in Bitcoin? Bitvocation's 2025 report proves otherwise – marketing, design, and ops roles are exploding, with 1,801 total jobs up 6% and Bitcoin-only firms leading the charge.
 
-dlnews.com • 1d ago
-
----
-
-**[Spot bitcoin ETFs post worst week since February 2025 with $1.33 billion in outflows](https://www.theblock.co/post/386935/spot-bitcoin-etfs-post-worst-week-since-february-2025-with-1-33-billion-in-outflows)**
-
-The Block • 1d ago
+Bitcoin Magazine • 33m ago
 
 ---
 
-**[Bitcoin ETFs Bleed $1.62B in Four Days — Are Hedge Funds Dumping BTC?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-1-62b-195351690.html)**
+**[Bitcoin Bears Strike Again – What Happens If $84,000 Support Finally Breaks?](https://bitcoinmagazine.com/markets/bitcoin-drops-below-87000-as-bears-target-84000-support-break)**
 
-Bitcoin spot exchange-traded funds have experienced steep outflows over four trading days, losing a combined total of $1.62 billion. The exit has raised a question on whether hedge funds are withdrawing their Bitcoin exposure as the market conditions change. The withdrawals occur as Bitcoin fails to regain momentum around critical ...
+From bounce hopes to breakdown fears: Bitcoin's MACD turned bearish and $87,000 support vanished. Is this the start of a deeper correction – or a fakeout?
 
-Yahoo Finance • 2d ago
+Bitcoin Magazine • 4m ago
 
 ---
 
-**[Davos Takeaways - Bitcoin Is Not Here To Replace Banks, And That's A Good Thing](https://seekingalpha.com/article/4862574-davos-takeaways-bitcoin-is-not-here-to-replace-banks-and-thats-a-good-thing)**
+**[Colombia’s Second-Largest Pension to Launch Bitcoin Fund for Qualified Clients](https://bitcoinmagazine.com/news/colombia-pension-to-launch-bitcoin-fund)**
 
-Bitcoin's deflationary nature makes it unsuitable as a global currency but ideal for long-term wealth preservation and institutional adoption. Read more on BTC.
+Colombia’s AFP Protección will offer Bitcoin funds to qualified clients in an effort to increase portfolio diversification.
 
-Seeking Alpha • 3h ago
+Bitcoin Magazine • 6m ago
+
+---
+
+**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
+
+Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
+
+The Block • 4h ago
+
+---
+
+**[Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin](https://bitcoinmagazine.com/news/strategy-sells-257-million-to-buy-2932-btc)**
+
+Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
+
+Bitcoin Magazine • 3h ago
+
+---
+
+**[Strategy Spends $267 Million on Bitcoin, Issues STRC for Third Straight Week](https://decrypt.co/355843/strategy-spends-267-million-bitcoin-issues-strc-third-straight-week)**
+
+Strategy continued buying Bitcoin last week, but the company’s latest acquisition marked a deceleration from the previous two additions.
+
+Decrypt • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ Seeking Alpha • 3h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 12 • 💬 0 • 4h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 14 • 💬 0 • 5h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -256,7 +256,7 @@ Stargate UI
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
 
-⬆️ 1 • 💬 0 • 5d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
+⬆️ 1 • 💬 0 • 6d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
 
 ---
 
@@ -286,7 +286,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 16h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -298,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 33 • 💬 17 • 16h ago
+⬆️ 33 • 💬 18 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 475 • ⏱️ 9:12 • 17h ago
+👁️ 46K • 👍 3K • 💬 475 • ⏱️ 9:12 • 18h ago
 
 ---
 
@@ -322,7 +322,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 571 • ⏱️ 9:36 • 14h ago
+👁️ 23K • 👍 1K • 💬 571 • ⏱️ 9:36 • 15h ago
 
 ---
 
@@ -332,7 +332,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 223 • ⏱️ 13:42 • 16h ago
+👁️ 22K • 👍 2K • 💬 223 • ⏱️ 13:42 • 17h ago
 
 ---
 
@@ -342,7 +342,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 330 • 💬 424 • ⏱️ 15:36 • 11h ago
+👁️ 11K • 👍 330 • 💬 424 • ⏱️ 15:36 • 12h ago
 
 ---
 
@@ -352,7 +352,7 @@ The Federal Reserve just moved $8B into the system. Is this the liquidity spark 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 229 • 1h ago
+👁️ 2K • 👍 229 • 2h ago
 
 ---
 
@@ -362,7 +362,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 26K • 👍 2K • 💬 555 • ⏱️ 4:51 • 17h ago
+👁️ 26K • 👍 2K • 💬 555 • ⏱️ 4:51 • 18h ago
 
 ---
 
@@ -372,7 +372,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 585 • 💬 428 • ⏱️ 4:20 • 21h ago
+👁️ 40K • 👍 585 • 💬 428 • ⏱️ 4:20 • 22h ago
 
 ---
 
@@ -402,7 +402,7 @@ Welcome to the Gavin Mehl Channel! In this video, Gavin Mehl shares insights int
 
 📺 Gavin Mehl
 
-👁️ 667 • 👍 48 • 💬 20 • ⏱️ 1:23 • 10h ago
+👁️ 667 • 👍 48 • 💬 20 • ⏱️ 1:23 • 11h ago
 
 ---
 
