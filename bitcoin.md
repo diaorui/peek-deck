@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T11:21:39.799588+00:00'
+updated: '2026-01-26T11:43:38.357023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 11:21 UTC  
+**Last Updated:** January 26, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.60B
+**Market Cap:** $1752.28B
 Rank #1
 
-**Circulating Supply:** 19,980,659 BTC
+**Circulating Supply:** 19,980,693 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129159.7%
++129307.2%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,13 +125,13 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-10h ago
+11h ago
 
 ---
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -149,7 +149,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 7h ago
 
 A severe Arctic blast sweeping across the United States has forced Bitcoin miners to take more than 110 exahashes per second of computing power offline, temporarily slowing block production to 12 minutes as operators curtail operations to ease strain on regional power grids, according to The Miner Mag. The widespread ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Winter Storm Fernan triggered widespread mining curtailments in the U.S., with Foundry USA taking roughly 200 EH/s offline. The sudden hashrate drop pushed Bitcoin block ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ ProPublica • 3d ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg • 8h ago
+Bloomberg • 9h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg • 8h ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -286,7 +286,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 32 • 💬 14 • 10h ago
+⬆️ 32 • 💬 14 • 11h ago
 
 ---
 
@@ -294,7 +294,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
 
-⬆️ 15 • 💬 4 • 11h ago • [GitHub](https://github.com/cacoos/trackhands)
+⬆️ 15 • 💬 4 • 12h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -302,23 +302,23 @@ Detects when your fingers are near your mouth and reminds you to stop. Built wit
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 12h ago
-
----
-
 **[Bitcoin Investors...Get Ready for Another Bumpy Week](https://www.youtube.com/watch?v=JhfdP1l0mYk)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 984 • 💬 363 • ⏱️ 9:36 • 8h ago
+👁️ 19K • 👍 1K • 💬 449 • ⏱️ 9:36 • 9h ago
+
+---
+
+**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 3K • 💬 377 • ⏱️ 9:12 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 37K • 👍 556 • 💬 403 • ⏱️ 4:20 • 15h ago
+👁️ 38K • 👍 560 • 💬 396 • ⏱️ 4:20 • 16h ago
 
 ---
 
@@ -338,17 +338,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 12h ago
-
----
-
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 73K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+👁️ 22K • 👍 2K • 💬 456 • ⏱️ 4:51 • 12h ago
 
 ---
 
@@ -358,7 +348,17 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 1d ago
+👁️ 19K • 👍 1K • 💬 231 • ⏱️ 13:23 • 1d ago
+
+---
+
+**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 74K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 
@@ -368,17 +368,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 11h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 331 • ⏱️ 8:40 • 2d ago
+👁️ 19K • 👍 1K • 💬 164 • ⏱️ 13:42 • 11h ago
 
 ---
 
@@ -388,17 +378,27 @@ Professional Capital Management CEO Anthony Pompliano analyzes the current crypt
 
 📺 Fox Business Clips
 
-👁️ 45K • 👍 768 • 💬 349 • ⏱️ 6:22 • 1d ago
+👁️ 46K • 👍 772 • 💬 349 • ⏱️ 6:22 • 1d ago
 
 ---
 
-**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+**[Bitcoin Is Rotating — And That’s Healthy](https://www.youtube.com/watch?v=gDsktpagPPQ)**
 
-Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+Bitcoin is going through a natural rotation phase as long-term holders take profits and new buyers step in. In this clip, we explain ...
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 23K • 👍 2K • 💬 158 • ⏱️ 15:16 • 2d ago
+👁️ 5K • 👍 181 • 💬 24 • ⏱️ 1:01 • 18h ago
+
+---
+
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
+
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 21K • 👍 1K • 💬 170 • ⏱️ 12:07 • 1d ago
 
 ---
 

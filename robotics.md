@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T11:21:39.808932+00:00'
+updated: '2026-01-26T11:43:38.366254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 11:21 UTC  
+**Last Updated:** January 26, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -138,7 +138,7 @@ Live Science • 2d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 15h ago
+TechRadar • 16h ago
 
 ---
 
@@ -200,7 +200,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 96K • 👍 2K • 💬 151 • ⏱️ 17:39 • 2d ago
+👁️ 97K • 👍 2K • 💬 152 • ⏱️ 17:39 • 2d ago
+
+---
+
+**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
+
+Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
+
+📺 Consumer Research Studios
+
+👁️ 564 • 👍 278 • 💬 1 • ⏱️ 7:25 • 4h ago
 
 ---
 
@@ -224,31 +234,21 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 26K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
-
----
-
-**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
-
-📺 EmortalMarcus
-
-👁️ 278K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
-
----
-
 **[Where are the robots? As AI gets physical, Canada falls behind](https://www.youtube.com/watch?v=QLofuEOE4io)**
 
 Robots are on the cusp of a boom, combining sophisticated hardware with today's AI technology, but as countries like China surge ...
 
 📺 CBC News: The National
 
-👁️ 22K • 👍 223 • ⏱️ 7:30 • 6d ago
+👁️ 22K • 👍 225 • ⏱️ 7:30 • 6d ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 26K • 👍 3K • 💬 118 • ⏱️ 1:13 • 3d ago
 
 ---
 
@@ -258,7 +258,27 @@ Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the
 
 📺 Global News
 
-👁️ 27K • 👍 115 • 💬 98 • ⏱️ 10:15 • 3d ago
+👁️ 27K • 👍 117 • 💬 99 • ⏱️ 10:15 • 3d ago
+
+---
+
+**[The SELF-AWARE ROBOT That Wants To End Mankind | I Made a Self-Aware Robot](https://www.youtube.com/watch?v=F_MES5VHue8)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animated horror series called: I Made a ...
+
+📺 EmortalMarcus
+
+👁️ 279K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
+
+---
+
+**[Did the Robots Take Over North Hall at CES 2026?](https://www.youtube.com/watch?v=zd34tfiVg-s)**
+
+Walking through the North Hall at CES 2026, and I am wondering if the Robots Take over this area? Tons of Robotics in a spot ...
+
+📺 Geekazine
+
+👁️ 1K • 👍 2 • 💬 2 • ⏱️ 22:52 • 1d ago
 
 ---
 
@@ -269,26 +289,6 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 📺 UBTECH Robotics
 
 👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 5d ago
-
----
-
-**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
-
-My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
-
-📺 Old Forge Creations
-
-👁️ 476K • 👍 8K • 💬 80 • ⏱️ 1:20 • 1d ago
-
----
-
-**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
-
-Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
-
-📺 Rowan Cheung
-
-👁️ 13K • 👍 902 • 💬 10 • ⏱️ 1:13 • 2d ago
 
 ---
 

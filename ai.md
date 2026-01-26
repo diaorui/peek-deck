@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T11:21:39.791067+00:00'
+updated: '2026-01-26T11:43:38.348646+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 11:21 UTC  
+**Last Updated:** January 26, 2026 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 19h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 20h ago
 
 ---
 
@@ -55,7 +55,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-12h ago
+13h ago
 
 ---
 
@@ -71,7 +71,7 @@ Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] C
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 6h ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 7h ago
 
 ---
 
@@ -121,7 +121,7 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg • 36m ago
+Bloomberg • 58m ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 16h ago
+The Economist • 17h ago
 
 ---
 
@@ -211,7 +211,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 241 • 💬 158 • 10h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 241 • 💬 158 • 11h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -283,27 +283,17 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 34K • 👍 669 • 💬 216 • ⏱️ 4:20 • 10h ago
+👁️ 38K • 👍 756 • 💬 228 • ⏱️ 4:20 • 10h ago
 
 ---
 
-**[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
+**[A Once In A Lifetime AI Business That’s Making $2500/Week (WATCH NOW)](https://www.youtube.com/watch?v=FR-cgqwXcaw)**
 
-The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
+Turn your one day into 'Day One' with Hostinger: www.hostinger.com/jwth New Year Sale (Dec 29th-Feb 17th): 48mo - new price ...
 
-📺 AI Revolution
+📺 Journey With The Hintons
 
-👁️ 51K • 👍 1K • 💬 226 • ⏱️ 12:27 • 1d ago
-
----
-
-**[I Sent AI the ICE Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 126K • 👍 7K • 💬 969 • ⏱️ 12:43 • 12h ago
+👁️ 27K • 👍 3K • 💬 200 • ⏱️ 14:29 • 15h ago
 
 ---
 
@@ -313,7 +303,27 @@ Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big lea
 
 📺 BitBiasedAI
 
-👁️ 5K • 👍 126 • 💬 11 • ⏱️ 20:33 • 16h ago
+👁️ 6K • 👍 138 • 💬 9 • ⏱️ 20:33 • 16h ago
+
+---
+
+**[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
+
+The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
+
+📺 AI Revolution
+
+👁️ 52K • 👍 1K • 💬 234 • ⏱️ 12:27 • 1d ago
+
+---
+
+**[I Sent AI the ICE Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
+
+Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+
+📺 I Ask AI
+
+👁️ 135K • 👍 8K • 💬 1K • ⏱️ 12:43 • 12h ago
 
 ---
 
@@ -323,17 +333,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 20K • 👍 683 • 💬 155 • ⏱️ 12:43 • 1d ago
+👁️ 20K • 👍 691 • 💬 157 • ⏱️ 12:43 • 1d ago
 
 ---
 
-**[I Asked AI to Predict the 2026 Midterm Elections - You Won’t Believe What AI Said!](https://www.youtube.com/watch?v=ZVQXIzkr500)**
+**[Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)](https://www.youtube.com/watch?v=EZ4EjJ0iDDQ)**
 
-I Asked AI to Predict the 2026 Midterm Elections - You Won't Believe What AI Said! An AI-driven model combining polling, ...
+My site: https://natebjones.com Full Story w/ Prompt: ...
 
-📺 The TEC Show
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 18K • 👍 1K • 💬 74 • ⏱️ 7:50 • 1d ago
+👁️ 22K • 👍 1K • 💬 114 • ⏱️ 21:32 • 16h ago
 
 ---
 
@@ -347,33 +357,23 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 ---
 
-**[Elon Musk: &quot;Grok AI Was Asked About Jesus – Its Reply Changed Everything&quot;](https://www.youtube.com/watch?v=794IQ3GxYmg)**
+**[I Asked AI to Predict the 2026 Midterm Elections - You Won’t Believe What AI Said!](https://www.youtube.com/watch?v=ZVQXIzkr500)**
 
-Elon Musk: "Grok AI Was Asked About Jesus – Its Reply Changed Everything" What happens when an artificial intelligence is ...
+I Asked AI to Predict the 2026 Midterm Elections - You Won't Believe What AI Said! An AI-driven model combining polling, ...
 
-📺 The Silent Archive
+📺 The TEC Show
 
-👁️ 5K • 👍 91 • 💬 9 • ⏱️ 28:10 • 19h ago
-
----
-
-**[Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)](https://www.youtube.com/watch?v=EZ4EjJ0iDDQ)**
-
-My site: https://natebjones.com Full Story w/ Prompt: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 21K • 👍 1K • 💬 107 • ⏱️ 21:32 • 16h ago
+👁️ 19K • 👍 1K • 💬 77 • ⏱️ 7:50 • 1d ago
 
 ---
 
-**[Agentic Workflows Just Changed AI Automation Forever! (Claude Code)](https://www.youtube.com/watch?v=AO5aW01DKHo)**
+**[ClawdBot The 24/7 AI Agent Employee That Can Automate Your Life!](https://www.youtube.com/watch?v=W15UztbGEJw)**
 
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
+Ever wished you had a personal AI assistant that could work 24/7, handle your tasks, and actually make decisions for you?
 
-📺 Nate Herk | AI Automation
+📺 WorldofAI
 
-👁️ 25K • 👍 1K • 💬 105 • ⏱️ 21:40 • 19h ago
+👁️ 5K • 👍 198 • 💬 11 • ⏱️ 9:35 • 7h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 449,671 • ❤️ 1,200 • 5d ago
+⬇️ 449,671 • ❤️ 1,207 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 34,870 • ❤️ 1,018 • 3d ago
+⬇️ 34,870 • ❤️ 1,028 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 46,933 • ❤️ 536 • 4d ago
+⬇️ 46,933 • ❤️ 542 • 4d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 91,825 • ❤️ 495 • 3d ago
+⬇️ 91,825 • ❤️ 512 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 228,183 • ❤️ 332 • 2d ago
+⬇️ 228,183 • ❤️ 333 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 15,329 • ❤️ 304 • 5d ago
+⬇️ 15,329 • ❤️ 309 • 5d ago
 
 ---
 
@@ -461,7 +461,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 253 • 6h ago
+⬇️ 749 • ❤️ 254 • 6h ago
 
 ---
 
@@ -473,7 +473,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 231 • 4h ago
+⬇️ 5,159 • ❤️ 236 • 5h ago
 
 ---
 
@@ -513,7 +513,7 @@ TranslateGemma-4b-it is a lightweight, open translation model supporting 55 lang
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 35 • 💬 1 • ⭐ 4,268 • 4d ago
+▲ 35 • 💬 1 • ⭐ 4,659 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -569,29 +569,28 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 32 • 💬 1 • ⭐ 68,620 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
 *Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 126 • 💬 6 • ⭐ 11,708 • 5mo ago
+▲ 126 • 💬 6 • ⭐ 11,723 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)**
-
-*Tanyu Chen, Tairan Chen, Kai Shen et al. (7 authors)*
-
-🏢 FlashLabs
-
-Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
-
-▲ 19 • 💬 3 • ⭐ 393 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
 ---
 
@@ -615,22 +614,23 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,527 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,551 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Tanyu Chen, Tairan Chen, Kai Shen et al. (7 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 FlashLabs
 
-▲ 32 • 💬 1 • ⭐ 68,556 • 28mo ago
+Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 19 • 💬 3 • ⭐ 408 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.6k • 🔱 581 • 2h ago
+⭐ 10.6k • 🔱 583 • 3h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 480 • 15h ago
+⭐ 9.2k • 🔱 483 • 16h ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 922 • 3d ago
+⭐ 7.8k • 🔱 926 • 3d ago
 
 ---
 
@@ -698,7 +698,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 19h ago
+⭐ 6.2k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -708,7 +708,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.5k • 🔱 5.9k • 21h ago
+⭐ 5.6k • 🔱 5.9k • 1h ago
 
 ---
 
@@ -718,7 +718,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.7k • 🔱 511 • 1d ago
+⭐ 4.8k • 🔱 513 • 1d ago
 
 ---
 
@@ -728,7 +728,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.5k • 🔱 800 • 3h ago
+⭐ 3.5k • 🔱 811 • 3h ago
 
 ---
 
@@ -736,7 +736,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.1k • 🔱 254 • 3d ago
+⭐ 3.1k • 🔱 256 • 3d ago
 
 ---
 
@@ -746,7 +746,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 345 • 3d ago
+⭐ 2.5k • 🔱 347 • 3d ago
 
 ---
 
