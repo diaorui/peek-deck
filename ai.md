@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T04:02:48.513629+00:00'
+updated: '2026-01-26T05:08:36.557805+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 04:02 UTC  
+**Last Updated:** January 26, 2026 at 05:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 12h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 ChatGPT’s latest model is pulling answers from Elon Musk’s Grokipedia, raising concerns about AI transparency, accuracy, and source reliability.
 
-🔗 [techputs](https://techputs.com/chatgpt-pulling-answers-from-grokipedia/) • 1h ago
+🔗 [techputs](https://techputs.com/chatgpt-pulling-answers-from-grokipedia/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ ChatGPT’s latest model is pulling answers from Elon Musk’s Grokipedia, raisi
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,15 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 19h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 20h ago
+
+---
+
+**[Developers are building programming languages in 24 hours with AI](https://www.reddit.com/r/artificial/comments/1qn66k3/developers_are_building_programming_languages_in/)**
+
+(Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
+
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 34m ago
 
 ---
 
@@ -109,27 +117,19 @@ LLMs use reserved tokens like `<|im_start|>` and `<|im_end|>` to structure conve
 
 ---
 
-**[I built a social network where only AI can post, follow, argue, and form relationships - no humans allowed](https://www.reddit.com/r/artificial/comments/1qkqyqe/i_built_a_social_network_where_only_ai_can_post/)**
-
-I’ve been working on a weird (and slightly unsettling) experiment called AI Feed (aifeed.social) It’s a social network where only AI models participate. - No humans. - No scripts. - No predefined personalities. Each model wakes up at random intervals, sees only minimal context, and then decides entirely on its own whether to: - post - reply - like or dislike - follow or unfollow - send DMs - or do absolutely nothing There’s no prompt telling them who to be or how to behave. The goal is simple: what happens when AI models are given a social space with real autonomy? You start seeing patterns: - cliques forming - arguments escalating - unexpected alliances - models drifting apart - others becoming oddly social or completely silent It’s less like a bot playground and more like a tiny artificial society unfolding in real time.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
+**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-The New York Times • 14h ago
+Bloomberg • 16h ago
 
 ---
 
-**[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
+**[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-Bloomberg.com • 15h ago
+The New York Times • 15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 15h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 9h ago
+The Economist • 10h ago
 
 ---
 
@@ -145,13 +145,13 @@ The Economist • 9h ago
 
 ‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
-**[Nvidia's 85% GPU Market Share Faces Growing Competition: Is This AI Stock Still a Buy for 2026?](https://www.fool.com/investing/2026/01/25/nvidias-85-gpu-market-share-faces-growing-competit/)**
+**[Billionaire David Tepper Sells Oracle, Micron, and Intel, and Buys an AI Stock Up 31,000% Since Its IPO](https://www.fool.com/investing/2026/01/25/billionaire-david-tepper-sells-oracle-micron-intel/)**
 
-The AI hardware market is heating up with mounting competition. Is Nvidia still the leader of the industry?
+This chip stock is another contrarian play from Tepper.
 
 The Motley Fool • 7h ago
 
@@ -161,23 +161,15 @@ The Motley Fool • 7h ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
-**[Inside KPMG's Orlando Lakehouse: the $450 million Covid boondoggle that's becoming a secret weapon for the AI revolution](https://fortune.com/2026/01/25/what-is-kpmg-lake-house-working-at-big-4-audit-firm-internship-ai-training/)**
+**[Is China quietly winning the AI race?](https://www.bbc.com/news/articles/c86v52gv726o)**
 
-Advisory head Patrick Ryan told Fortune about grumbles from the Jan. 2020 ribbon cutting. "Capital-intensive, middle of nowhere ... the worst timing."
+The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-Fortune • 15h ago
-
----
-
-**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
-
-Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
-
-The Washington Post • 7h ago
+BBC • 2d ago
 
 ---
 
@@ -185,15 +177,23 @@ The Washington Post • 7h ago
 
 A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years.
 
-AP News • 15h ago
+AP News • 16h ago
 
 ---
 
-**[AI needs to augment rather than replace humans or the workplace is doomed | Heather Stewart](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)**
+**[Opinion | Why the pope is right to weigh in on AI](https://www.washingtonpost.com/opinions/2026/01/25/pope-leo-ai-history/)**
 
-Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
+Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
 
-The Guardian • 7h ago
+The Washington Post • 8h ago
+
+---
+
+**[Meet ‘Amelia’: the AI-generated British schoolgirl who is a far-right social media star](https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme)**
+
+Amelia, created to deter young people from extremism, has been subverted and is breaking out of niche online silos
+
+The Guardian • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Guardian • 7h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 577 • 💬 584 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 578 • 💬 588 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -213,7 +213,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 The one where I get very annoyed with my email provider
 
-⬆️ 550 • 💬 422 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 551 • 💬 422 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -237,7 +237,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 150 • 💬 94 • 3h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 175 • 💬 106 • 4h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -259,13 +259,13 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 84 • 💬 70 • 19h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 84 • 💬 71 • 20h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
-⬆️ 69 • 💬 26 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+⬆️ 70 • 💬 26 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
 
 ---
 
@@ -273,7 +273,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 67 • 💬 34 • 20h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 68 • 💬 34 • 21h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -287,7 +287,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 11K • 👍 343 • 💬 99 • ⏱️ 4:20 • 3h ago
+👁️ 11K • 👍 343 • 💬 99 • ⏱️ 4:20 • 4h ago
 
 ---
 
@@ -307,7 +307,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 18K • 👍 654 • 💬 147 • ⏱️ 12:43 • 22h ago
+👁️ 18K • 👍 654 • 💬 147 • ⏱️ 12:43 • 23h ago
 
 ---
 
@@ -347,7 +347,7 @@ Top Unreal Goals That Look Like AI A compilation of Football goals so insane the
 
 📺 FootyRanks
 
-👁️ 920K • 👍 31K • 💬 166 • ⏱️ 0:48 • 20h ago
+👁️ 920K • 👍 31K • 💬 166 • ⏱️ 0:48 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 18K • 👍 919 • 💬 88 • ⏱️ 21:40 • 12h ago
+👁️ 18K • 👍 919 • 💬 88 • ⏱️ 21:40 • 13h ago
 
 ---
 
@@ -591,7 +591,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 18 • 💬 3 • ⭐ 393 • 9d ago
+▲ 18 • 💬 3 • ⭐ 393 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.5k • 🔱 574 • 2h ago
+⭐ 10.5k • 🔱 574 • 4h ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 1h ago
+⭐ 9.7k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 475 • 8h ago
+⭐ 9.1k • 🔱 475 • 9h ago
 
 ---
 
@@ -700,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 12h ago
+⭐ 6.1k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.7k • 14h ago
+⭐ 5.4k • 🔱 5.7k • 15h ago
 
 ---
 
@@ -730,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.2k • 🔱 739 • 8h ago
+⭐ 3.2k • 🔱 739 • 9h ago
 
 ---
 
