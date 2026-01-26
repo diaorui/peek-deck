@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T05:08:36.557805+00:00'
+updated: '2026-01-26T05:54:34.241948+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 05:08 UTC  
+**Last Updated:** January 26, 2026 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 13h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 ChatGPT’s latest model is pulling answers from Elon Musk’s Grokipedia, raising concerns about AI transparency, accuracy, and source reliability.
 
-🔗 [techputs](https://techputs.com/chatgpt-pulling-answers-from-grokipedia/) • 2h ago
+🔗 [techputs](https://techputs.com/chatgpt-pulling-answers-from-grokipedia/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ ChatGPT’s latest model is pulling answers from Elon Musk’s Grokipedia, raisi
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 20h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ Researchers at UCLA are harnessing the power of artificial intelligence to help 
 
 (Seasoned) developers are using AI to build programming languages at speeds that would've been unthinkable a few years ago. The facts: Bernard Lambeau built Elo (parser, type system, three compilers, stdlib, CLI, docs) in ~24 hours with Claude Steve Klabnik (13-year Rust veteran, co-author of "The Rust Programming Language") wrote 70,000 lines of code for a new language in two weeks. Geoffrey Huntley created Cursed, a language with Gen-Z syntax where functions are declared with slay and booleans are based/cringe. Ola Prøis built Ferrite, a text editor with ~800 GitHub stars, with 100% AI-generated code Key patterns that emerged: All four developers have decades of combined experience Lambeau has a PhD and 30 years of programming under his belt A CodeRabbit study found AI-generated code has 1.7x more issues than human-written code The AI compressed the typing, not the thinking For comparison, Rust took 9 years from conception to 1.0. Go took 2 years with a Google team.
 
-🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 34m ago
+🔗 [medium.com](https://medium.com/@jpcaparas/developers-are-building-programming-languages-in-24-hours-with-ai-153effe39177?sk=6e49dea9f56ed20d5bb010398b4e7a18) • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 15h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 10h ago
+The Economist • 11h ago
 
 ---
 
@@ -153,7 +153,7 @@ Financial Times • 1d ago
 
 This chip stock is another contrarian play from Tepper.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Motley Fool • 7h ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ AP News • 16h ago
 
 Popes throughout history have been the promoters of science but also provided necessary moral guardrails.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -237,7 +237,7 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 175 • 💬 106 • 4h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 175 • 💬 106 • 5h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -259,7 +259,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 84 • 💬 71 • 20h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 84 • 💬 71 • 21h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -273,7 +273,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
 
-⬆️ 68 • 💬 34 • 21h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 68 • 💬 34 • 22h ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -307,7 +307,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 18K • 👍 654 • 💬 147 • ⏱️ 12:43 • 23h ago
+👁️ 18K • 👍 654 • 💬 147 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 42,703 • ❤️ 463 • 2d ago
+⬇️ 42,703 • ❤️ 463 • 3d ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 2h ago
+⭐ 9.7k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 475 • 9h ago
+⭐ 9.1k • 🔱 475 • 10h ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.4k • 🔱 5.7k • 15h ago
+⭐ 5.4k • 🔱 5.7k • 16h ago
 
 ---
 
@@ -730,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.2k • 🔱 739 • 9h ago
+⭐ 3.2k • 🔱 739 • 10h ago
 
 ---
 

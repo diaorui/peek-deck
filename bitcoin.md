@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T05:08:36.566173+00:00'
+updated: '2026-01-26T05:54:34.250378+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 05:08 UTC  
+**Last Updated:** January 26, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,31 +79,31 @@ Rank #1
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Sometimes i think about this...](https://www.reddit.com/r/Bitcoin/comments/1qn52of/sometimes_i_think_about_this/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-1h ago
+2h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-8h ago
+9h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,19 +111,19 @@ Rank #1
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-4h ago
+5h ago
 
 ---
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-9h ago
+10h ago
 
 ---
 
@@ -151,7 +151,7 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 10h ago
 
 Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 19h ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg • 2h ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -197,7 +197,7 @@ ProPublica • 3d ago
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 11h ago
+BanklessTimes • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 3 • 💬 5 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 5 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -298,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 2 • 💬 2 • 4h ago
+⬆️ 2 • 💬 2 • 5h ago
 
 ---
 
@@ -312,7 +312,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 2K • 💬 182 • ⏱️ 9:12 • 6h ago
+👁️ 21K • 👍 2K • 💬 182 • ⏱️ 9:12 • 7h ago
 
 ---
 
@@ -322,7 +322,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 29K • 👍 488 • 💬 276 • ⏱️ 4:20 • 9h ago
+👁️ 29K • 👍 488 • 💬 276 • ⏱️ 4:20 • 10h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 10K • 👍 1K • 💬 245 • ⏱️ 4:51 • 5h ago
+👁️ 10K • 👍 1K • 💬 245 • ⏱️ 4:51 • 6h ago
 
 ---
 
@@ -342,7 +342,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 535 • 💬 209 • ⏱️ 9:36 • 2h ago
+👁️ 5K • 👍 535 • 💬 209 • ⏱️ 9:36 • 3h ago
 
 ---
 
@@ -372,7 +372,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 190 • 💬 36 • ⏱️ 6:47 • 6h ago
+👁️ 3K • 👍 190 • 💬 36 • ⏱️ 6:47 • 7h ago
 
 ---
 
@@ -382,7 +382,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 18K • 👍 936 • 💬 202 • ⏱️ 13:23 • 17h ago
+👁️ 18K • 👍 936 • 💬 202 • ⏱️ 13:23 • 18h ago
 
 ---
 

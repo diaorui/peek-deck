@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T05:08:36.575363+00:00'
+updated: '2026-01-26T05:54:34.259659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 05:08 UTC  
+**Last Updated:** January 26, 2026 at 05:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I don't have much information, but it's a bit viral on X
 
-18h ago
+19h ago
 
 ---
 
@@ -44,13 +44,13 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-16h ago
+17h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all! I'm an undergrad student working on an independent robotics project (nat
 
 Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time Player enabled (but x4..x8 higher latency). The update rate is 6Hz in this demo, but it can be higher. Latency = 1/update rate. Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf: - 2 x stationary beacons (anchors) - 90 x mobile beacons (robots) - 1 x modem (central controller) Each mobile beacon calculates its own position (like in GPS) and streams out its location to its autonomous robot.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 
 The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
 
-17h ago
+18h ago
 
 ---
 
@@ -130,7 +130,7 @@ AgFunderNews • 3d ago
 
 EL PASO, Texas (KTSM) — The Anthony Independent School District robotics team — “A-Town” — took their talents to Dallas and represented the school district at the BEST Robotics Texas State Championship. The competition took place Dec. 4-18 and A-Town competed with 99 teams from across Texas. BEST Robotics is an intensive eight-week engineering and […]
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ wbay.com • 2d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 9h ago
+TechRadar • 10h ago
 
 ---
 
