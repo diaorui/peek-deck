@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T23:24:06.680669+00:00'
+updated: '2026-01-26T23:46:25.667354+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 23:24 UTC  
+**Last Updated:** January 26, 2026 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -70,9 +70,17 @@ In this video, we take a fast but deep tour of Copper, a deterministic robotics 
 
 ---
 
+**[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
+
+Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
+
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 11h ago
+
+---
+
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -82,19 +90,11 @@ In this video, we take a fast but deep tour of Copper, a deterministic robotics 
 
 ---
 
-**[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
-
-Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
-
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 11h ago
-
----
-
 **[Writing a book on embodied intelligence — would love critical input from roboticists here](https://www.reddit.com/r/robotics/comments/1qnovp1/writing_a_book_on_embodied_intelligence_would/)**
 
 Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-4h ago
+5h ago
 
 ---
 
@@ -110,6 +110,14 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ## Google News: "robotics"
 
+**[Unitree Robotics announces ‘encore’ at 2026 Spring Festival Gala after breakout 2025 performance](https://www.globaltimes.cn/page/202601/1354224.shtml)**
+
+Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
+
+Global Times • 9h ago
+
+---
+
 **[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
@@ -118,9 +126,11 @@ The Robot Report • 5h ago
 
 ---
 
-**[Scholastic Spotlight: Earlham High earns NASA grant](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spotlight-earlham-high-earns-nasa-grant/)**
+**[German Company to Provide AI-Powered Robotic Kitchens to Ukrainian Troops](https://www.kyivpost.com/post/68799)**
 
-who13.com • 10h ago
+The kitchens are fully autonomous and can handle everything from picking ingredients to cooking, serving, and cleaning.
+
+kyivpost.com • 46m ago
 
 ---
 
@@ -134,15 +144,7 @@ Tech Xplore • 2h ago
 
 LOS ANGELES, CA - January 26, 2026 (NEWMEDIAWIRE) - Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven security solutions, announced the official reveal of its Autonomous Logistics Platform during the UM...
 
-Yahoo Finance • 2h ago
-
----
-
-**[German Company to Provide AI-Powered Robotic Kitchens to Ukrainian Troops](https://www.kyivpost.com/post/68799)**
-
-The kitchens are fully autonomous and can handle everything from picking ingredients to cooking, serving, and cleaning.
-
-kyivpost.com • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -170,19 +172,19 @@ TipRanks • 5h ago
 
 ---
 
+**[‘FireDrone’ nears real-world use with aerogel shell that withstands 392°F blazes](https://interestingengineering.com/ai-robotics/fire-drone-heat-proof-armor)**
+
+Scientists unveiled an upgraded FireDrone with aerogel insulation to survive 392 degrees Fahrenheit while flying inside burning buildings.
+
+Interesting Engineering • 1h ago
+
+---
+
 **[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
 UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
 Financial Times • 1d ago
-
----
-
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
-
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 106K • 👍 3K • 💬 164 • ⏱️ 17:39 • 2d ago
+👁️ 106K • 👍 3K • 💬 164 • ⏱️ 17:39 • 3d ago
 
 ---
 
@@ -226,7 +228,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 5K • 👍 334 • 💬 5 • ⏱️ 0:55 • 11h ago
+👁️ 5K • 👍 334 • 💬 5 • ⏱️ 0:55 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T23:24:06.672729+00:00'
+updated: '2026-01-26T23:46:25.659366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 23:24 UTC  
+**Last Updated:** January 26, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,029.32
+### $88,595.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -0.5%  
-**30d:** +0.3%  
-**90d:** -20.1%  
-**1y:** -13.7%  
+**24h:** +2.0%  
+**7d:** +0.2%  
+**30d:** +1.0%  
+**90d:** -19.6%  
+**1y:** -13.2%  
 
 ---
 
@@ -91,9 +91,23 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 ---
 
+**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
+
+2h ago
+
+---
+
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
 12h ago
+
+---
+
+**[10k in BTC and forget?](https://www.reddit.com/r/Bitcoin/comments/1qno8ub/10k_in_btc_and_forget/)**
+
+I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
+
+5h ago
 
 ---
 
@@ -105,23 +119,9 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 ---
 
-**[10k in BTC and forget?](https://www.reddit.com/r/Bitcoin/comments/1qno8ub/10k_in_btc_and_forget/)**
-
-I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
-
-4h ago
-
----
-
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-19h ago
-
----
-
-**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
-
-1h ago
+20h ago
 
 ---
 
@@ -133,13 +133,15 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-15h ago
+16h ago
 
 ---
 
-**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+**[Curious about your Bitcoin accumulation strategy](https://www.reddit.com/r/Bitcoin/comments/1qnrw68/curious_about_your_bitcoin_accumulation_strategy/)**
 
-1d ago
+Hi everyone, I have a personal objective of being a wholecoiner by 2035. I know it's a silly thing, but it's a way I found to be happy when the price goes down. I DCA €250 every week and hope the price will not go up too early, otherwise I'll miss my chance. How about you all? Any suggestions on how to make my strategy better?
+
+3h ago
 
 ---
 
@@ -151,23 +153,47 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Gold Hits Record $5K While Bitcoin Struggles To Keep Pace](https://www.tradingview.com/news/newsbtc:6e8a533c2094b:0-gold-hits-record-5k-while-bitcoin-struggles-to-keep-pace/)**
+**[Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin](https://bitcoinmagazine.com/news/strategy-sells-257-million-to-buy-2932-btc)**
 
-Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
+Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
 
-TradingView • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Here’s why bitcoin’s is failing its role as a 'safe haven' versus gold](https://finance.yahoo.com/news/why-bitcoin-failing-role-safe-210000989.html)**
+**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
+Bloomberg.com • 1h ago
 
-Yahoo Finance • 2d ago
+---
+
+**[Bitcoin block time slows as sweeping US winter storm strains power grid, prompting miner curtailments](https://www.theblock.co/post/387019/bitcoin-block-time-slows-us-winter-storm-miner-curtailments)**
+
+The Block • 10h ago
+
+---
+
+**[This is how much it costs to mine one Bitcoin in the U.S.](https://www.neowin.net/news/this-is-how-much-it-costs-to-mine-one-bitcoin-in-the-us/)**
+
+Neowin • 1d ago
+
+---
+
+**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+
+The Block • 1h ago
+
+---
+
+**[GameStop Transfers $420M in Bitcoin to Coinbase, Sparking Exit Speculation](https://finance.yahoo.com/news/gamestop-transfers-420m-bitcoin-coinbase-095700064.html)**
+
+GameStop has transferred its entire Bitcoin stash to Coinbase Prime, triggering fresh speculation that the video game retailer may be preparing to unwind its short-lived Bitcoin treasury strategy. Key Takeaways: GameStop moved its entire 4,710 BTC stash to Coinbase Prime, sparking speculation of a potential exit from its Bitcoin treasury. ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,41 +205,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Peter Schiff Says Bitcoin Won’t Become the World’s Reserve Currency in Tucker Carlson Interview](https://bitcoinmagazine.com/news/peter-schiff-bitcoin-tucker-carlson)**
-
-Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Bitcoin Price Fights for $88,000 as Fed Looms and Bearish Technical Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-fights-for-88000)**
-
-The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
-
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
-
-Bloomberg.com • 12h ago
-
----
-
-**[BlackRock doubles down on bitcoin fund offerings with income-focused filing](https://www.coindesk.com/markets/2026/01/26/blackrock-doubles-down-on-bitcoin-fund-offerings-with-income-focused-filing)**
-
-The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
-
-CoinDesk • 7h ago
-
----
-
 **[BlackRock Files With SEC to Launch iShares Bitcoin Premium Income ETF](https://finance.yahoo.com/news/blackrock-files-sec-launch-ishares-163132104.html)**
 
 BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -231,7 +227,7 @@ Seeking Alpha • 3h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 16 • 💬 0 • 11h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 11h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -264,7 +260,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 9h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 10h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -290,7 +286,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 36 • 💬 20 • 22h ago
+⬆️ 36 • 💬 20 • 23h ago
 
 ---
 
@@ -298,7 +294,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
 
-⬆️ 16 • 💬 4 • 23h ago • [GitHub](https://github.com/cacoos/trackhands)
+⬆️ 16 • 💬 4 • 1d ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -352,7 +348,7 @@ Ran critically analyses and questions a long standing Bitcoin narrative as its s
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 61 • ⏱️ 31:42 • 7h ago
+👁️ 21K • 👍 2K • 💬 61 • ⏱️ 31:42 • 8h ago
 
 ---
 
