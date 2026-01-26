@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T06:39:32.113833+00:00'
+updated: '2026-01-26T07:28:57.974326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 06:39 UTC  
+**Last Updated:** January 26, 2026 at 07:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-43m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] C
 
 Researchers at UCLA are harnessing the power of artificial intelligence to help identify who's at risk of Alzheimer's disease.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 22h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/new-ucla-ai-tool-targets-alzheimers-cases-often-missed-early-diagnosis/18458903/) • 23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Microsoft Releases VibeVoice-ASR: A Unified Speech-to-Text Model Designed to Han
 
 I was curious how some of these newer Instagram pages are scaling so fast, so I spent a bit of time reverse-engineering one that reached ~2.5M followers in a few months. Instead of focusing on growth tactics, I looked at the technical setup behind the content and mapped out the automation end to end — basically how the videos are generated and published without much manual work. Things I looked at: Keeping an AI avatar consistent across videos Generating voiceovers programmatically Wiring everything together with n8n Producing longer talking-head style videos Auto-adding subtitles Posting to Instagram automatically The whole thing is modular, so none of the tools are hard requirements — it’s more about the structure of the pipeline. I recorded the process mostly for my own reference, but if anyone’s experimenting with faceless content or automation and wants to see how one full setup looks in practice, it’s here: https://youtu.be/mws7LL5k3t4?si=A5XuCnq7_fMG8ilj
 
-1d ago
+2d ago
 
 ---
 
@@ -131,13 +131,13 @@ The Guardian • 1d ago
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 16h ago
 
 The Future of Hiring — How Swipejobs has given control of AI to the job-seeker & turned the job model upside down
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ CBS News • 1h ago
 
 As population decline accelerates, the big risk is labour shortages, not mass unemployment
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Financial Times • 1h ago
 
 Ministers plan to license content from institutions such as National History Museum and National Library of Scotland
 
-The Guardian • 39m ago
+The Guardian • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 39m ago
 
 Capital flows from eager mainland China-based investors are flowing into these artificial intelligence plays.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 17h ago
 
 This chip stock is another contrarian play from Tepper.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ Nasdaq • 12h ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 11h ago
+The Economist • 12h ago
 
 ---
 
@@ -213,7 +213,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 The one where I get very annoyed with my email provider
 
-⬆️ 551 • 💬 422 • 2d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
+⬆️ 551 • 💬 422 • 3d ago • [dbushell.com](https://dbushell.com/2026/01/22/proton-spam/)
 
 ---
 
@@ -229,7 +229,7 @@ The one where I get very annoyed with my email provider
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 194 • 💬 129 • 6h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 194 • 💬 129 • 7h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -259,13 +259,13 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-⬆️ 84 • 💬 71 • 22h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
+⬆️ 84 • 💬 71 • 23h ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 75 • 💬 46 • 7h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 75 • 💬 46 • 8h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -285,7 +285,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 23K • 👍 543 • 💬 155 • ⏱️ 4:20 • 5h ago
+👁️ 23K • 👍 543 • 💬 155 • ⏱️ 4:20 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 100K • 👍 7K • 💬 833 • ⏱️ 12:43 • 7h ago
+👁️ 100K • 👍 7K • 💬 833 • ⏱️ 12:43 • 8h ago
 
 ---
 
@@ -463,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 634 • ❤️ 253 • 1h ago
+⬇️ 634 • ❤️ 253 • 2h ago
 
 ---
 
@@ -487,7 +487,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 4,684 • ❤️ 224 • 15m ago
+⬇️ 4,684 • ❤️ 224 • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.6k • 🔱 577 • 6m ago
+⭐ 10.6k • 🔱 577 • 55m ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 1h ago
+⭐ 9.7k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -700,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 14h ago
+⭐ 6.1k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -730,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.3k • 🔱 767 • 11h ago
+⭐ 3.3k • 🔱 767 • 12h ago
 
 ---
 
