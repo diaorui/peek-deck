@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T08:35:07.117338+00:00'
+updated: '2026-01-26T09:36:02.473218+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 08:35 UTC  
+**Last Updated:** January 26, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Autonomous Indoor Flight with a DJI Drone Using Precise Indoor Positioning](https://www.reddit.com/r/robotics/comments/1qna1ts/autonomous_indoor_flight_with_a_dji_drone_using/)**
+
+- 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
+
+1h ago
+
+---
+
 **[An AI powered robotic wheelchair from China can navigate uneven ground and even climb stairs using sensors and adaptive control.](https://www.reddit.com/r/robotics/comments/1qmfviq/an_ai_powered_robotic_wheelchair_from_china_can/)**
 
 I don't have much information, but it's a bit viral on X
 
-21h ago
+22h ago
 
 ---
 
@@ -44,13 +52,21 @@ I don't have much information, but it's a bit viral on X
 
 From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
-20h ago
+21h ago
+
+---
+
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://www.reddit.com/r/robotics/comments/1qnadaq/its_officialchina_deploys_humanoid_robots_at/)**
+
+It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
+
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 1h ago
 
 ---
 
 **[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +74,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hi all! I'm an undergrad student working on an independent robotics project (natural language manipulation using VLM) and I am planning on writing a preprint formalizing my method and work. As I want to prepare for grad school applications and future research work, I thought it may be a good idea to publish (or at least submit) my project somewhere. At first I was thinking RAL, but after some more research it seems more competitive than conferences like ICRA/IROS. Albeit I don't expect an acceptance either way, more so doing it for practice. Based on my line of work, does anyone have any recommendations of realistic/worth while venues to submit to? Thanks in advance!
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +90,7 @@ Typical indoor positioning accuracy is ±2cm. Sub-cm accuracy with the Real-Time
 
 Hey all im fairly new to robotics and im working on a project in Ros. I find it very difficult to debug issues in Ros since i'm unable to use the Python/C++ debugger. Is there any work around for this? Are print statements my only choice left? Thanks.
 
-15h ago
+16h ago
 
 ---
 
@@ -85,22 +101,6 @@ Hey all im fairly new to robotics and im working on a project in Ros. I find it 
 ---
 
 **[I’ve built a building-climbing and cleaning robot.](https://www.reddit.com/r/robotics/comments/1qlvduo/ive_built_a_buildingclimbing_and_cleaning_robot/)**
-
-1d ago
-
----
-
-**[RSS: Robotics Science and System - [Discussion thread]](https://www.reddit.com/r/robotics/comments/1qmgjb0/rss_robotics_science_and_system_discussion_thread/)**
-
-The abstract deadlines for RSS Conference is over. I submitted pretty last minute and my submission number was ~ 700. What about you guys?
-
-21h ago
-
----
-
-**[Precise Positioning For Autonomous Boats Without GPS](https://www.reddit.com/r/robotics/comments/1qllqpd/precise_positioning_for_autonomous_boats_without/)**
-
-Typical cases: - Docking of smaller unmanned boats to larger ships - rescue operations, etc. - Boats indoors - universities, research - Boats with underwater sonars for the floor imaging - GNSSs are intentionally jammed - https://marvelmind.com/solution/boats/
 
 1d ago
 
@@ -118,11 +118,11 @@ Financial Times • 1d ago
 
 ---
 
-**[China's humanoid robot GrowHR floats, swims, flies, and walks on water](https://interestingengineering.com/ai-robotics/china-humanoid-robot-floats-swims-flies)**
+**[China’s Eyou opens world’s first automated line for humanoid robot joints](https://www.scmp.com/tech/big-tech/article/3341229/chinas-eyou-opens-worlds-first-automated-line-humanoid-robot-joints)**
 
-Chinese team unveils GrowHR, a soft humanoid that can shapeshift, float, swim, fly, and walk on water with bone-inspired linkages.
+Manufacturer adds line in anticipation of surge in global demand for humanoid robots, with one estimate projecting 100,000 shipments by 2027.
 
-Interesting Engineering • 2d ago
+South China Morning Post • 35m ago
 
 ---
 
@@ -138,47 +138,7 @@ Live Science • 1d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 13h ago
-
----
-
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
-
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
-
-channel3000.com • 1d ago
-
----
-
-**[Robotics transforming operations in the oil and gas sector](https://finance.yahoo.com/news/robotics-transforming-operations-oil-gas-120233741.html)**
-
-Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Repsol, and ADNOC integrate robotics with AI, cloud computing, and advanced sensors.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
-
-Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
-
-The Robot Report • 2d ago
-
----
-
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 1d ago
-
----
-
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
-
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
-
-wbay.com • 2d ago
+TechRadar • 14h ago
 
 ---
 
@@ -190,19 +150,49 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
+
+SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
+
+channel3000.com • 1d ago
+
+---
+
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 2d ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 1d ago
+
+---
+
+**[Registration opens for Robotics Summit & Expo 2026](https://www.therobotreport.com/registration-opens-for-robotics-summit-expo-2026/)**
+
+Registration is now open for the Robotics Summit & Expo, the world’s leading technical event for commercial robotics developers.
+
+The Robot Report • 2d ago
+
+---
+
+**[Robotics students from across the U.S. show off their skills at Lambeau Field](https://fox11online.com/news/local/robotics-students-from-across-the-united-states-show-off-their-skills-at-lambeau-field-green-bay-wisconsin-teams-vex-competition-push-back-design-program-championship)**
+
+The tournament featured 72 teams of 360 students and mentors battling it out in the VEX Robotics Competition game "Push Back."
+
+fox11online.com • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
-
-Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 99 • 💬 43 • ⏱️ 6:39 • 2d ago
-
----
 
 **[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
 
@@ -210,7 +200,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 93K • 👍 2K • 💬 148 • ⏱️ 17:39 • 2d ago
+👁️ 96K • 👍 2K • 💬 151 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -224,23 +214,13 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 80 • 💬 70 • ⏱️ 2:47 • 3d ago
-
----
-
 **[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
 
 Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
 
 📺 Fox News
 
-👁️ 48K • 👍 1K • 💬 244 • ⏱️ 0:49 • 3d ago
+👁️ 49K • 👍 1K • 💬 244 • ⏱️ 0:49 • 3d ago
 
 ---
 
@@ -258,17 +238,7 @@ LIGHTS ARE OFF Channel: @LIGHTSAREOFF In todays video we jump into a new animate
 
 📺 EmortalMarcus
 
-👁️ 276K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
-
----
-
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
-
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
-
-📺 Global News
-
-👁️ 27K • 👍 115 • 💬 98 • ⏱️ 10:15 • 3d ago
+👁️ 278K • 👍 13K • 💬 1K • ⏱️ 35:38 • 4d ago
 
 ---
 
@@ -282,6 +252,16 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+
+📺 Global News
+
+👁️ 27K • 👍 115 • 💬 98 • ⏱️ 10:15 • 3d ago
+
+---
+
 **[Meet The First Humanoid Robotic Worker at SANY RE!](https://www.youtube.com/watch?v=xXiTvnsi4EI)**
 
 Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart factory, where every move is a step toward a ...
@@ -289,6 +269,26 @@ Watch UBTECH Walker S2 in action at China's first 5G-enabled wind power smart fa
 📺 UBTECH Robotics
 
 👁️ 13K • 👍 194 • 💬 41 • ⏱️ 1:56 • 5d ago
+
+---
+
+**[3D printed mould system to make robot test tiles #ceramics #slipcast #3dprinting](https://www.youtube.com/watch?v=tX49Q1ajl7w)**
+
+My latest 3D printing and slipcasting project, a fully 3D printed mould system for making robot test tiles. I'll give the print files away ...
+
+📺 Old Forge Creations
+
+👁️ 476K • 👍 8K • 💬 80 • ⏱️ 1:20 • 1d ago
+
+---
+
+**[Is this the “picks and shovels” for the robotics industry? #trendingshorts #ai #robotics #tech](https://www.youtube.com/watch?v=J-0cXdGwJ6w)**
+
+Will this company be the “picks and shovels” of the robotics industry? Skild AI, a Pittsburgh-based startup founded in 2023 by ...
+
+📺 Rowan Cheung
+
+👁️ 13K • 👍 902 • 💬 10 • ⏱️ 1:13 • 2d ago
 
 ---
 

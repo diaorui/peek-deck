@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T08:35:07.108102+00:00'
+updated: '2026-01-26T09:36:02.465077+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 08:35 UTC  
+**Last Updated:** January 26, 2026 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,908.82
+### $88,039.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -0.6%  
-**30d:** +0.2%  
-**90d:** -20.2%  
-**1y:** -13.8%  
+**24h:** -1.0%  
+**7d:** -0.7%  
+**30d:** +0.1%  
+**90d:** -20.3%  
+**1y:** -14.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.22B
+**Market Cap:** $1751.60B
 Rank #1
 
-**Circulating Supply:** 19,980,637 BTC
+**Circulating Supply:** 19,980,659 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129348.5%
++129159.7%
 
 ---
 
@@ -77,33 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
+
+3h ago
+
+---
+
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-5h ago
+6h ago
 
 ---
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-10h ago
-
----
-
-**[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
-
-2h ago
+11h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-11h ago
-
----
-
-**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
-
-9h ago
+12h ago
 
 ---
 
@@ -111,7 +105,19 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-4h ago
+5h ago
+
+---
+
+**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
+
+10h ago
+
+---
+
+**[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
+
+1h ago
 
 ---
 
@@ -119,27 +125,19 @@ I was cleaning out old emails and found a receipt from CoinJar dated November 19
 
 Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
 
-8h ago
+9h ago
 
 ---
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-9h ago
+10h ago
 
 ---
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-23h ago
-
----
-
-**[Why invest in bitcoin instead of gold right now?](https://www.reddit.com/r/Bitcoin/comments/1qmseyv/why_invest_in_bitcoin_instead_of_gold_right_now/)**
-
-I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
-
-13h ago
+1d ago
 
 ---
 
@@ -151,53 +149,29 @@ I picked up BTC over the past few years, still up - only slightly though. I'm up
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://finance.yahoo.com/news/better-buy-2026-bitcoin-gold-105000614.html)**
+**[Bitcoin slides near $87,000 as US government shutdown fears weigh on crypto](https://www.theblock.co/post/386961/bitcoin-slides-us-government-shutdown-fears)**
 
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-Yahoo Finance • 21h ago
+The Block • 5h ago
 
 ---
 
-**[Gold tops $5,000 as bitcoin stalls near $87,000 in widening macro-crypto split: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/26/gold-tops-usd5-000-as-bitcoin-stalls-near-usd87-000-in-widening-macro-crypto-split-asia-morning-briefing)**
+**[Bitcoin Supercycle Coming In 2026, Says CZ, As Analysts Warn Silver Highs May Face Drawbacks](https://finance.yahoo.com/news/bitcoin-supercycle-coming-2026-says-082322957.html)**
 
-Bitcoin’s onchain data points to supply overhang and weak participation, while gold’s breakout is priced by markets as a durable macro regime shift.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
-
-The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin Price Prediction Still Warns of $78,000 Risk — But Tiring Sellers Spark Bounce Hope](https://finance.yahoo.com/news/bitcoin-price-prediction-still-warns-063659366.html)**
-
-Bitcoin price prediction shows downside risk toward $78,000, but fading selling pressure hints at a short-term bounce. What's next for BTC?
+Changpeng Zhao said Bitcoin may be breaking from its traditional four-year cycle. Gold and silver have surged to record highs. Demand shifts could cap silver’s ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
 
-Bloomberg.com • 5h ago
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
 
----
-
-**[Bitcoin sells off into weekly close as bulls face $86K BTC price reckoning](https://www.tradingview.com/news/cointelegraph:d6355883e094b:0-bitcoin-sells-off-into-weekly-close-as-bulls-face-86k-btc-price-reckoning/)**
-
-Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
-
-TradingView • 13h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -209,19 +183,39 @@ ProPublica • 3d ago
 
 ---
 
+**[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+
+Bloomberg • 6h ago
+
+---
+
+**[Bitcoin V Gold: The Only Bitcoin Chart You Need To See](https://www.forbes.com/sites/digital-assets/2026/01/23/bitcoin-v-gold-the-only-bitcoin-chart-you-need-to-see/)**
+
+The focus of financial-market meme-chasing has shifted from bitcoin to gold. The FOMO mindset that has driven crypto for so long has landed in the precious metals arena.
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+
+Binance • 1d ago
+
+---
+
+**[Bitcoin sells off into weekly close as bulls face $86K BTC price reckoning](https://www.tradingview.com/news/cointelegraph:d6355883e094b:0-bitcoin-sells-off-into-weekly-close-as-bulls-face-86k-btc-price-reckoning/)**
+
+Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
+
+TradingView • 14h ago
+
+---
+
 **[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 4h ago
-
----
-
-**[Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains](https://cryptoslate.com/bitcoin-regret-is-coming-for-anyone-ignoring-brian-armstrongs-5-rule-as-banks-fight-to-cap-your-gains/)**
-
-Advisors are building caps, rebalancing rules, and drawdown math while crypto execs sell regret avoidance as the new thesis.
-
-CryptoSlate • 2d ago
+BanklessTimes • 5h ago
 
 ---
 
@@ -288,7 +282,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 3 • 💬 5 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 5 • 9h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -300,7 +294,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 26 • 💬 11 • 8h ago
+⬆️ 29 • 💬 13 • 9h ago
 
 ---
 
@@ -314,7 +308,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 196 • ⏱️ 9:12 • 9h ago
+👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 10h ago
 
 ---
 
@@ -324,7 +318,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 834 • 💬 325 • ⏱️ 9:36 • 6h ago
+👁️ 17K • 👍 984 • 💬 363 • ⏱️ 9:36 • 7h ago
 
 ---
 
@@ -334,7 +328,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 34K • 👍 529 • 💬 349 • ⏱️ 4:20 • 13h ago
+👁️ 37K • 👍 556 • 💬 403 • ⏱️ 4:20 • 14h ago
 
 ---
 
@@ -344,27 +338,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 14K • 👍 2K • 💬 360 • ⏱️ 4:51 • 9h ago
-
----
-
-**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
-
-Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 1K • 💬 121 • ⏱️ 13:42 • 8h ago
-
----
-
-**[Bitcoin Is Rotating — And That’s Healthy](https://www.youtube.com/watch?v=gDsktpagPPQ)**
-
-Bitcoin is going through a natural rotation phase as long-term holders take profits and new buyers step in. In this clip, we explain ...
-
-📺 Swan Bitcoin
-
-👁️ 4K • 👍 161 • 💬 17 • ⏱️ 1:01 • 15h ago
+👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 10h ago
 
 ---
 
@@ -374,7 +348,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 71K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+👁️ 73K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 
@@ -384,7 +358,17 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 18K • 👍 958 • 💬 207 • ⏱️ 13:23 • 21h ago
+👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 22h ago
+
+---
+
+**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
+
+Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 9h ago
 
 ---
 
@@ -394,17 +378,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 328 • ⏱️ 8:40 • 2d ago
+👁️ 67K • 👍 3K • 💬 331 • ⏱️ 8:40 • 2d ago
 
 ---
 
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
+**[Strategy is a &#39;levered bet&#39; on bitcoin: Anthony Pompliano](https://www.youtube.com/watch?v=UNvOPs6r5bg)**
 
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+Professional Capital Management CEO Anthony Pompliano analyzes the current cryptocurrency sell-off, noting Bitcoin's recent ...
 
-📺 Road To $1 Million USD
+📺 Fox Business Clips
 
-👁️ 4K • 👍 204 • 💬 39 • ⏱️ 6:47 • 10h ago
+👁️ 45K • 👍 768 • 💬 349 • ⏱️ 6:22 • 1d ago
+
+---
+
+**[Economic Warfare Unleashed at Davos 2026 | Bitcoin vs The Banking System](https://www.youtube.com/watch?v=dWzmG9fgjAA)**
+
+Davos 2026 just said the quiet part out loud. Globalists, bankers, and central planners are admitting their system is broken while ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 158 • ⏱️ 15:16 • 2d ago
 
 ---
 
