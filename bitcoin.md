@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T10:54:48.278597+00:00'
+updated: '2026-01-26T11:21:39.799588+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 10:54 UTC  
+**Last Updated:** January 26, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -155,7 +155,7 @@ CoinDesk • 16h ago
 
 **[Bitcoin slides near $87,000 as US government shutdown fears weigh on crypto](https://www.theblock.co/post/386961/bitcoin-slides-us-government-shutdown-fears)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1h ago
 
 As bitcoin remains in a downtrend, several technical and onchain levels stand out as critical areas of support.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ TradingView • 16h ago
 
 **[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
 
-Binance • 1d ago
+Binance • 2d ago
 
 ---
 
@@ -338,7 +338,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 11h ago
+👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 12h ago
 
 ---
 
@@ -358,7 +358,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 23h ago
+👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -368,7 +368,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 10h ago
+👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 11h ago
 
 ---
 

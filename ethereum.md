@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T10:54:48.284760+00:00'
+updated: '2026-01-26T11:21:39.805668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 10:54 UTC  
+**Last Updated:** January 26, 2026 at 11:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m curious if people are really using crypto to buy digital gift cards, or if it’s more of a niche thing. I’ve been holding some crypto for a while and don’t really want to cash it out to a bank just to spend a small amount. I’m looking for a simple way to use it for normal stuff like food, online shopping, or even travel. The idea of buying a digital gift card sounds convenient, especially when cards get blocked or payments fail. I also like the fact that delivery is instant and there’s no shipping involved. My main concerns are whether it actually works smoothly and if the cards are easy to use afterward. If you’ve done this before, how was the experience? Did the gift cards work as expected, and would you do it again?
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ The relationship between "institutions" and "cypherpunk" is complex and needs to
 
 Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 3d ago
 
 Reports say the Ethereum Foundation has started a new team to prepare the network for possible quantum computer attacks. These machines could one day break
 
-Bitcoinist.com • 20h ago
+Bitcoinist.com • 21h ago
 
 ---
 
@@ -216,7 +216,7 @@ Bitcoinist.com • 20h ago
 
 Ethereum Outflows Test Investor Nerves as Bitwise ETF Bleeds 4% of Assets in a Day The Bitwise Ethereum ETF, ETHW, saw a sharp reversal in sentiment on January 23, ...
 
-TipRanks • 21h ago
+TipRanks • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 74 • 💬 33 • ⏱️ 17:46 • 19h ago
+👁️ 2K • 👍 74 • 💬 33 • ⏱️ 17:46 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 295 • 💬 17 • ⏱️ 18:21 • 17h ago
+👁️ 6K • 👍 295 • 💬 17 • ⏱️ 18:21 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 571 • 💬 16 • ⏱️ 57:29 • 13h ago
+👁️ 9K • 👍 571 • 💬 16 • ⏱️ 57:29 • 14h ago
 
 ---
 

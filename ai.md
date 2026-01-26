@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T10:54:48.269898+00:00'
+updated: '2026-01-26T11:21:39.791067+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 10:54 UTC  
+**Last Updated:** January 26, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ I couldn't stop thinking about Theo's "Why NVIDIA is dying" video. The thesis fe
 
 Seoul hopes its new AI Basic Act will position the country as a leader ‍in the field, taking effect in South Korea sooner than a comparable ‍effort in Europe.
 
-🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 1d ago
+🔗 [The Japan Times](https://www.japantimes.co.jp/business/2026/01/22/tech/south-korea-ai-startups-law/) • 2d ago
 
 ---
 
@@ -121,13 +121,13 @@ I was curious how some of these newer Instagram pages are scaling so fast, so I 
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg • 9m ago
+Bloomberg • 36m ago
 
 ---
 
 **[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 20h ago
 
 A flood of slop has arrived in science, and everyone has to get less lazy. But does 2026 feel like a time when anyone, anywhere, is getting less lazy?
 
-Gizmodo • 54m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Gizmodo • 54m ago
 
 The British AI video company has raised $200 million in fresh funding.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Analysts are much more bullish about these AI stocks than they are about Palantir.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Economist • 16h ago
 
 We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
 
-Axios • 54m ago
+Axios • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Axios • 54m ago
 
 While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
 
-CNN • 2d ago
+CNN • 3d ago
 
 ---
 
@@ -255,7 +255,7 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 71 • 💬 19 • 16h ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 71 • 💬 19 • 17h ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -269,7 +269,7 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 **[AI Tribalism](https://news.ycombinator.com/item?id=46758175)**
 
-⬆️ 57 • 💬 89 • 13h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
+⬆️ 57 • 💬 89 • 14h ago • [nolanlawson.com](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 
 ---
 
@@ -283,7 +283,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 34K • 👍 669 • 💬 216 • ⏱️ 4:20 • 9h ago
+👁️ 34K • 👍 669 • 💬 216 • ⏱️ 4:20 • 10h ago
 
 ---
 
@@ -303,7 +303,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 126K • 👍 7K • 💬 969 • ⏱️ 12:43 • 11h ago
+👁️ 126K • 👍 7K • 💬 969 • ⏱️ 12:43 • 12h ago
 
 ---
 
@@ -353,7 +353,7 @@ Elon Musk: "Grok AI Was Asked About Jesus – Its Reply Changed Everything" What
 
 📺 The Silent Archive
 
-👁️ 5K • 👍 91 • 💬 9 • ⏱️ 28:10 • 18h ago
+👁️ 5K • 👍 91 • 💬 9 • ⏱️ 28:10 • 19h ago
 
 ---
 
@@ -363,7 +363,7 @@ My site: https://natebjones.com Full Story w/ Prompt: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 21K • 👍 1K • 💬 107 • ⏱️ 21:32 • 15h ago
+👁️ 21K • 👍 1K • 💬 107 • ⏱️ 21:32 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 25K • 👍 1K • 💬 105 • ⏱️ 21:40 • 18h ago
+👁️ 25K • 👍 1K • 💬 105 • ⏱️ 21:40 • 19h ago
 
 ---
 
@@ -461,7 +461,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 253 • 5h ago
+⬇️ 749 • ❤️ 253 • 6h ago
 
 ---
 
@@ -551,7 +551,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 37 • 💬 4 • ⭐ 2,035 • 10d ago
+▲ 37 • 💬 4 • ⭐ 2,035 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -668,7 +668,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 5h ago
+⭐ 9.7k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -698,7 +698,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 18h ago
+⭐ 6.1k • 🔱 1.1k • 19h ago
 
 ---
 
