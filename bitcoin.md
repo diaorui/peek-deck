@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-25T23:42:25.565991+00:00'
+updated: '2026-01-26T02:00:09.528709+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 25, 2026 at 23:42 UTC  
+**Last Updated:** January 26, 2026 at 02:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,526.20
+### $87,598.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** -6.6%  
-**30d:** -1.6%  
-**90d:** -23.3%  
-**1y:** -15.7%  
+**24h:** -1.7%  
+**7d:** -0.9%  
+**30d:** -0.1%  
+**90d:** -20.4%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1723.56B
+**Market Cap:** $1750.42B
 Rank #1
 
-**Circulating Supply:** 19,980,543 BTC
+**Circulating Supply:** 19,980,568 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+127233.7%
++128993.1%
 
 ---
 
@@ -77,9 +77,7 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I’ve never been this skeptical, and it feels wild to say that.](https://www.reddit.com/r/Bitcoin/comments/1qmtspv/ive_never_been_this_skeptical_and_it_feels_wild/)**
-
-I’ve been in the btc space since 2015. I’ve been a hardcore believer and a net accumulator through every cycle since. I’ve held through 80% drawdowns without flinching because the long term thesis always felt inevitable. But recently, I find myself doubting the future of this space more than ever. It is wild to hear myself say that, considering how entrenched I am, but this time feels different. It feels like we finally "made it"; we got the ETFs, we hit the numbers; but the victory feels . . . meh. The bridge to mass just isn't there. Here is a breakdown of my skepticism: Usability is still a nightmare: self-custody is still terrifying for 99% of the population. The learning curve is too steep. The gap between L1/L2 is a UX mess; managing channels and inbound liquidity is complex. If the answer for the masses is "just use a custodial ETF," then we have just recreated the banking system we tried to escape. The "OGs" sold: The demographics of the market have severely changed. It feels like the early believers distributed their coins to institutions, shifting the ethos from "separation of money and state" to "integration with the state." Institutional adoption feels stagnant beyond just holding "paper Bitcoin" for speculation. Privacy is effectively non existent: With the rise of chain analysis and compliance tools, the ledger has become the ultimate surveillance tool. True privacy is being actively criminalized, and non-KYC coins are becoming nearly impossible to offload. The 100k psychological eiling: Reaching 100k felt like the end of a movie rather than the start of a sequel. With the law of large numbers kicking in, the asymmetry of the bet is gone. Toxic culture & politicization: The community used to be about builders. Now, it feels politicized and dominated by "number go up" influencers. Intellectual honesty is often attacked as FUD. Quantum: not just a theory. Are we going to come to a reasonable solution? I understand that sentiment is down, but this feels structural, not just cyclical. It feels like we were "correct" after all these years, but the ability to move "over the hump" into actual global currency usage/store of value just isn't going to happen. Do you feel the "magic" is gone, or is this just what maturity looks like? Am I overlooking a catalyst that brings the excitement back?
+**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
 3h ago
 
@@ -87,39 +85,25 @@ I’ve been in the btc space since 2015. I’ve been a hardcore believer and a n
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-2h ago
+5h ago
+
+---
+
+**[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
+
+3h ago
 
 ---
 
 **[BITCOIN STATUS](https://www.reddit.com/r/Bitcoin/comments/1qmelv8/bitcoin_status/)**
 
-14h ago
+16h ago
 
 ---
 
-**[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
+**[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-1h ago
-
----
-
-**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
-
-14h ago
-
----
-
-**[A whale just went long on Bitcoin with a $30M position](https://www.reddit.com/r/Bitcoin/comments/1qmhg06/a_whale_just_went_long_on_bitcoin_with_a_30m/)**
-
-11h ago
-
----
-
-**[Who is buying the dip??](https://www.reddit.com/r/Bitcoin/comments/1qmrrus/who_is_buying_the_dip/)**
-
-Source: Blossom Social and X
-
-4h ago
+2h ago
 
 ---
 
@@ -127,21 +111,35 @@ Source: Blossom Social and X
 
 I picked up BTC over the past few years, still up - only slightly though. I'm up considerably more on gold and even silver that I bought. I thought bitcoin was ''digital gold'' but it doesn't have the reaction that precious metals in times of uncertainty. I still will have a position in BTC but looking out I see gold getting much bigger gains in the next 1-2 years. Thinking of recycling some BTC to gold. Thoughts?
 
-4h ago
+6h ago
+
+---
+
+**[60 million millionaires in the world. Only 21 million Bitcoin ever.](https://www.reddit.com/r/Bitcoin/comments/1qn0qhx/60_million_millionaires_in_the_world_only_21/)**
+
+Do the math, and then stack sats relentlessly. This will be the next base layer of wealth.
+
+1h ago
 
 ---
 
 **[Red days, Green days, Grey days, Black days, whatever, that doesn't change anything.](https://www.reddit.com/r/Bitcoin/comments/1qmw496/red_days_green_days_grey_days_black_days_whatever/)**
 
-2h ago
+4h ago
 
 ---
 
-**[How btc was look like in 2010](https://www.reddit.com/r/Bitcoin/comments/1qmt9jb/how_btc_was_look_like_in_2010/)**
+**[Who is buying the dip??](https://www.reddit.com/r/Bitcoin/comments/1qmrrus/who_is_buying_the_dip/)**
 
-It’s never too late to get btc!
+Source: Blossom Social and X
 
-3h ago
+7h ago
+
+---
+
+**[The most expensive pizzas in human history 🍕](https://www.reddit.com/r/Bitcoin/comments/1qmebl3/the_most_expensive_pizzas_in_human_history/)**
+
+16h ago
 
 ---
 
@@ -153,37 +151,7 @@ It’s never too late to get btc!
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 5h ago
-
----
-
-**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
-
-A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
-
-BanklessTimes • 6h ago
-
----
-
-**[Bitcoin Price Will Crash To $58,000, Claims Famed Trader — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-crash-58-000-110937344.html)**
-
-Veteran trader Peter Brandt warned Bitcoin's price could pull back to the $58,000–$62,000 range. AI models offered cautious support for the downside risk. Technical indicators ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[How Silver Cracked $100 And Added More Than Bitcoin's Entire Market Cap In 3 Months](https://finance.yahoo.com/news/silver-cracked-100-added-more-003147330.html)**
-
-Silver crossed the psychological $100 per ounce Friday, driven by solar panel demand and a historic supply squeeze, while Bitcoin (CRYPTO: BTC) has crashed 30% from its $126,000 peak to $89,000. The Numbers: Silver Added $2.83 Trillion Silver closed October...
-
-Yahoo Finance • 22h ago
-
----
-
-**[Gold nears $5,000, silver closes on $100 while bitcoin remains listless](https://uk.finance.yahoo.com/news/gold-nears-5-000-silver-043007090.html)**
-
-Yahoo Finance UK • 2d ago
+CoinDesk • 7h ago
 
 ---
 
@@ -201,6 +169,22 @@ Binance • 1d ago
 
 ---
 
+**[Bitcoin price analysis: BTC bulls mull price weakness as gold soars near $5,000](https://www.coindesk.com/markets/2026/01/24/here-s-what-bitcoin-bulls-are-saying-as-price-remains-stuck-during-global-rally)**
+
+It's about a lot more than "zooming out." Supply overhangs and investor "muscle memory" regarding gold help explain bitcoin's poor absolute and relative performance.
+
+CoinDesk • 1d ago
+
+---
+
+**[GameStop Transfers $420M in Bitcoin to Coinbase, Sparking Exit Speculation](https://finance.yahoo.com/news/gamestop-transfers-420m-bitcoin-coinbase-095700064.html)**
+
+GameStop has transferred its entire Bitcoin stash to Coinbase Prime, triggering fresh speculation that the video game retailer may be preparing to unwind its short-lived Bitcoin treasury strategy. Key Takeaways: GameStop moved its entire 4,710 BTC stash to Coinbase Prime, sparking speculation of a potential exit from its Bitcoin treasury. ...
+
+Yahoo Finance • 16h ago
+
+---
+
 **[What Could Happen to Bitcoin if the U.S. Treasury Bond Sell-Off Continues?](https://www.fool.com/investing/2026/01/23/what-could-happen-to-bitcoin-if-the-us-treasury-bo/)**
 
 Some fear massive consequences for financial markets.
@@ -209,11 +193,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+**[Bitcoin sells off into weekly close as bulls face $86K BTC price reckoning](https://www.tradingview.com/news/cointelegraph:d6355883e094b:0-bitcoin-sells-off-into-weekly-close-as-bulls-face-86k-btc-price-reckoning/)**
 
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-ProPublica • 3d ago
+TradingView • 7h ago
+
+---
+
+**[Crypto Market Crash: Here’s Why Bitcoin and Altcoins are Going Down Today](https://www.banklesstimes.com/articles/2026/01/25/crypto-market-crash-heres-why-bitcoin-and-altcoins-are-going-down-today/)**
+
+A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
+
+BanklessTimes • 8h ago
 
 ---
 
@@ -222,6 +214,14 @@ ProPublica • 3d ago
 Michael Saylor’s company now holds more than 709,000 Bitcoin.
 
 Fortune • 3d ago
+
+---
+
+**[How “Bitcoin Jesus” Avoided Prison, Thanks to One of the “Friends of Trump”](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)**
+
+Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
+
+ProPublica • 3d ago
 
 ---
 
@@ -258,7 +258,7 @@ Many U.S. states are planning bitcoin strategic reserves, and other forms of cry
 
 Stargate UI
 
-⬆️ 1 • 💬 1 • 3d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
+⬆️ 1 • 💬 1 • 4d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/)
 
 ---
 
@@ -286,9 +286,21 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
+**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
+
+⬆️ 2 • 💬 5 • 2h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+
+---
+
 **[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
 
 ⬆️ 1 • 💬 1 • 5d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
+
+---
+
+**[I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
+
+⬆️ 2 • 💬 2 • 1h ago
 
 ---
 
@@ -296,63 +308,43 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
-
-The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 16K • 👍 872 • 💬 152 • ⏱️ 13:23 • 12h ago
-
----
-
 **[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
 
 ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
 
 📺 Fox Business Clips
 
-👁️ 10K • 👍 323 • 💬 111 • ⏱️ 4:20 • 4h ago
+👁️ 23K • 👍 447 • 💬 237 • ⏱️ 4:20 • 6h ago
 
 ---
 
-**[Bitcoin vs Gold Just Flashed a Signal That NEVER Misses 😳](https://www.youtube.com/watch?v=08TsgYX4DYE)**
-
-Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin in gold, the picture changes FAST In this video, ...
-
-📺 Crypto Love
-
-👁️ 3K • 👍 361 • 💬 60 • ⏱️ 8:25 • 6h ago
-
----
-
-**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
+**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 323 • ⏱️ 8:40 • 2d ago
+👁️ 13K • 👍 1K • 💬 156 • ⏱️ 9:12 • 3h ago
 
 ---
 
-**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
+**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
 
-Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
-📺 Lark Davis
+📺 Aaron Bennett
 
-👁️ 16K • 👍 754 • 💬 121 • ⏱️ 12:50 • 7h ago
+👁️ 17K • 👍 911 • 💬 181 • ⏱️ 13:23 • 14h ago
 
 ---
 
-**[Bitcoin Price Analysis: $BTC Must Hold $86,000 Support Level](https://www.youtube.com/watch?v=_nwdaJ3JY7M)**
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=0bqF8No9gHw)**
 
-In this video, we cover technical analysis on Bitcoin (BTC). including key levels, trade setups, and potential price targets for the ...
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
 
-📺 Wicked Stocks
+📺 Road To $1 Million USD
 
-👁️ 110 • 👍 9 • ⏱️ 4:02 • 55m ago
+👁️ 2K • 👍 167 • 💬 27 • ⏱️ 6:47 • 3h ago
 
 ---
 
@@ -362,37 +354,57 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ma
 
 📺 Anthony Pompliano
 
-👁️ 67K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
+👁️ 69K • 👍 3K • 💬 66 • ⏱️ 47:21 • 1d ago
 
 ---
 
-**[Urgent Update: Bitcoin Dropping Hard !!🚨](https://www.youtube.com/watch?v=eF1Glv7xvLA)**
+**[Don’t Buy Bitcoin in 2026 Until You See This](https://www.youtube.com/watch?v=1LjzUwWSEmE)**
 
-Best Day Trading Exchange: WEEX: https://www.weex.com/register?vipCode=champs Referral Code: champs Deposit ...
+Bitcoin in 2026 is it a winning trade? The truth on crypto now. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Champs Crypto
+📺 Lark Davis
 
-👁️ 884 • 👍 57 • 💬 4 • ⏱️ 6:10 • 5h ago
-
----
-
-**[THE $10,000 BITCOIN WARNING](https://www.youtube.com/watch?v=HvAeod3taJ0)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 884 • 👍 78 • 💬 8 • ⏱️ 33:05 • 9h ago
+👁️ 20K • 👍 820 • 💬 134 • ⏱️ 12:50 • 10h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=_YrGMKjHdys)**
+**[Binance Founder - The Crypto Market Is About To Go F**king Crazy (supercycle)](https://www.youtube.com/watch?v=SFNLuHNS0nk)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
-📺 Kolkata Literary Meet
+📺 Altcoin Daily
 
-👁️ 6K • 👍 1K • 2h ago
+👁️ 66K • 👍 3K • 💬 324 • ⏱️ 8:40 • 2d ago
+
+---
+
+**[Bitcoin vs Gold Just Flashed a Signal That NEVER Misses 😳](https://www.youtube.com/watch?v=08TsgYX4DYE)**
+
+Everyone is watching Bitcoin through a fiat lens… but when you price Bitcoin in gold, the picture changes FAST In this video, ...
+
+📺 Crypto Love
+
+👁️ 5K • 👍 393 • 💬 124 • ⏱️ 8:25 • 9h ago
+
+---
+
+**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
+
+Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
+
+📺 Alessio Rastani
+
+👁️ 6K • 👍 940 • 💬 197 • ⏱️ 4:51 • 2h ago
+
+---
+
+**[Bitcoin Always Moves After This Happens](https://www.youtube.com/watch?v=li3VrAF_Ufc)**
+
+The big Bitcoin money rotation may be closer than you think. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 21K • 👍 1K • 💬 169 • ⏱️ 12:07 • 1d ago
 
 ---
 
