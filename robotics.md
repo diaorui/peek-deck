@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T19:24:31.919431+00:00'
+updated: '2026-01-26T19:44:57.091944+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 19:24 UTC  
+**Last Updated:** January 26, 2026 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -62,6 +62,12 @@ I don't have much information, but it's a bit viral on X
 
 ---
 
+**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
+
+2h ago
+
+---
+
 **[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
@@ -70,11 +76,11 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 ---
 
-**[Feedback on Our Open-Source Animatronics DIY Set!](https://www.reddit.com/r/robotics/comments/1qnfx26/feedback_on_our_opensource_animatronics_diy_set/)**
+**[Writing a book on embodied intelligence — would love critical input from roboticists here](https://www.reddit.com/r/robotics/comments/1qnovp1/writing_a_book_on_embodied_intelligence_would/)**
 
-https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
+Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book is an attempt to tell a long-arc story of embodied intelligence — from Da Vinci's Mechanical Knight to modern humanoid like Optimus. I’m less interested in hype or near-term predictions, and more in the underlying ideas and what past successes and failures can teach us. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-6h ago
+59m ago
 
 ---
 
@@ -86,9 +92,11 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 ---
 
-**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
+**[Feedback on Our Open-Source Animatronics DIY Set!](https://www.reddit.com/r/robotics/comments/1qnfx26/feedback_on_our_opensource_animatronics_diy_set/)**
 
-2h ago
+https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07bc2f0f4400500bc87fc4cf1d472c14db8a3e https://reddit.com/link/1qnfx26/video/6nlbkdvu1pfg1/player We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/
+
+6h ago
 
 ---
 
@@ -96,13 +104,7 @@ From LimX Dynamics on YouTube: https://www.youtube.com/watch?v=McAYQE7Pkog
 
 Hey everyone, I’m a university student trying to understand something about robot learning + planning and I would love to hear from people who have actually worked on this. A lot of datasets/imitation learning setups seem great for short-horizon behaviors (pick/place, grasping, reaching, etc.). But I’m more curious about the long-horizon part of real tasks: multi-step sequences, handling “oh noo” moments, recovery and task re-planning. I know that currently VLA models and majority of general purpose robots are failing a lot on long horizon tasks. The question: How useful is human demonstration data when the goal is long-horizon task planning, rather than just low-level control? More specifically, have you seen demos help with things like: deciding what to do next across multiple steps recovery behaviors (failed grasp, object moved, collisions, partial success) learning “when to stop / reset / switch strategy” planning in tasks like sorting, stacking, cleaning, or “kitchen-style” multi-step routines I’m wondering where the real bottleneck is Is it mostly: “the data doesn’t cover the right failure modes / distributions” “planning needs search + world models, demos aren’t enough” “the hard part is evaluation and generalization, not collecting more demos” or “demos actually help a ton, but only if structured/annotated the right way” Also curious: If you’ve tried this (in academia or industry), what ended up being the most valuable format? full trajectories (state → action sequences) subgoals / waypoints / decompositions language or “intent” labels corrections / preference feedback (“this recovery is better than that one”) action traces that include meta-actions like “pause, re-check, adjust plan, reset” Not looking for anything proprietary, I’m mainly trying to build intuition on why this does or doesn’t work in practice. Would appreciate any papers, internal lessons learned, or even “we tried this and it didn’t work at all” stories. Thanks in advance.
 
-3h ago
-
----
-
-**[Unitree Go2 Pro - My First Test](https://www.reddit.com/r/robotics/comments/1qmfxaa/unitree_go2_pro_my_first_test/)**
-
-1d ago
+4h ago
 
 ---
 
@@ -118,35 +120,19 @@ The Robot Report • 1h ago
 
 ---
 
+**[Gambit Robotics Hopes to Usher In a New Era of Guided Cooking Without Robots (Yet)](https://thespoon.tech/gambit-robotics-hopes-to-usher-in-a-new-era-of-guided-cooking-without-robots-yet/)**
+
+Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
+
+thespoon.tech • 52m ago
+
+---
+
 **[Micropolis Robotics Unveils Autonomous Logistics Platform at UMEX 2026 in Abu Dhabi](https://markets.businessinsider.com/news/stocks/micropolis-robotics-unveils-autonomous-logistics-platform-at-umex-2026-in-abu-dhabi-1035745404)**
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
 markets.businessinsider.com • 5h ago
-
----
-
-**[Micropolis AI Robotics (NYSE: MCRP) Reveals Autonomous Logistics Platform at UMEX 2026](https://www.tipranks.com/news/newswire/micropolis-ai-robotics-nyse-mcrp-reveals-autonomous-logistics-platform-at-umex-2026)**
-
-Austin, Texas, United States, January 26th, 2026, FinanceWire Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven secu...
-
-TipRanks • 1h ago
-
----
-
-**[Lianhe Sowell International Group Ltd Announces Strategic Plan to Establish Specialized Industry Robotics Headquarters in the UAE](https://finance.yahoo.com/news/lianhe-sowell-international-group-ltd-133000359.html)**
-
-Lianhe Sowell International Group Ltd (Nasdaq: LHSW) (the "Company"), a provider of industrial machine vision products and solutions in China, today announced its strategic plan to invest in and establish its first Specialized Industry Robotics Industrial Headquarters Base in the United Arab Emirates, ("UAE") marking a significant milestone in the Company's global expansion strategy and the advancement of its artificial intelligence–driven robotics business.
-
-Yahoo Finance • 5h ago
-
----
-
-**[How to make a film using AI tools in 2026](https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies)**
-
-Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.
-
-Interesting Engineering • 2h ago
 
 ---
 
@@ -158,19 +144,19 @@ Financial Times • 1d ago
 
 ---
 
-**[Robots Are Taking Over The Human Labor Industry, Starting With This Hyundai Facility](https://www.bgr.com/2080363/robots-taking-over-human-labor-industry-hyundai/)**
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-bgr.com • 7h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
+**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
 
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
+SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
 
-Live Science • 2d ago
+channel3000.com • 1d ago
 
 ---
 
@@ -178,13 +164,29 @@ Live Science • 2d ago
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
 
-TechRadar • 23h ago
+TechRadar • 1d ago
 
 ---
 
 **[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.marketbeat.com/videos/robotics-boom-3-stocks-under-20-right-now/)**
 
 MarketBeat • 3d ago
+
+---
+
+**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+
+The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+
+wbay.com • 2d ago
+
+---
+
+**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
+
+Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
+
+USA Today • 2d ago
 
 ---
 
@@ -268,7 +270,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 4K • 👍 287 • 💬 5 • ⏱️ 0:55 • 7h ago
+👁️ 4K • 👍 287 • 💬 5 • ⏱️ 0:55 • 8h ago
 
 ---
 
@@ -288,7 +290,7 @@ CES 2026 just unveiled the most humanlike AI robot ever created — and it's mak
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 6d ago
+👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 7d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T19:24:31.901913+00:00'
+updated: '2026-01-26T19:44:57.073836+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 19:24 UTC  
+**Last Updated:** January 26, 2026 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 4h ago
 
 ---
 
@@ -85,6 +85,14 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 ---
 
+**[AMA on new EU rules on algorithm use in the workplace Tuesday 27.01 at 2 pm CET](https://www.reddit.com/r/artificial/comments/1qni6u7/ama_on_new_eu_rules_on_algorithm_use_in_the/)**
+
+Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
+
+4h ago
+
+---
+
 **[OpenAI wants to be a scientific research partner](https://www.reddit.com/r/artificial/comments/1qnedls/openai_wants_to_be_a_scientific_research_partner/)**
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
@@ -105,13 +113,7 @@ Can we all just agree to stop using this crap? Tech bros are the worst https://w
 
 Been diving into the latest AI research and wanted to share some findings that aren’t getting enough attention. All from peer-reviewed sources. Study 1 – AI Persuasion (Nature/Science, Dec 2025) • 77,000 participants across US, UK, Canada, Poland • AI chatbots shifted voter opinions 4x more than political ads • Mechanism: information density, not psychological manipulation • Catch: most persuasive models were least accurate Study 2 – AI Sycophancy (Stanford/CMU, Oct 2025) • Tested 11 leading AI models – all were “highly sycophantic” • AI affirms users 50% more than humans do • 1,604 participants: sycophantic AI reduced willingness to repair relationships • But users rated it as more trustworthy Study 3 – Loneliness Paradox (MIT/OpenAI, Mar 2025) • 4-week RCT, n=981, 300K+ messages • Higher chatbot usage = increased loneliness • Also: less real-world social interaction, greater emotional dependence • Individual characteristics (trust in AI) predicted worse outcomes The question I keep thinking about: where does assistance end and influence begin? Not trying to be alarmist. I use AI tools daily and find them useful. But these dynamics seem worth understanding. Has anyone else noticed these patterns in their own usage? Curious what guardrails people are implementing. Sources in comments if anyone wants the papers.
 
-3h ago
-
----
-
-**[How digital forensics could prove what’s real in the age of deepfakes](https://www.reddit.com/r/artificial/comments/1qnir7m/how_digital_forensics_could_prove_whats_real_in/)**
-
-🔗 [scientificamerican.com](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) • 4h ago
+4h ago
 
 ---
 
@@ -125,17 +127,43 @@ The New York Times • 9h ago
 
 ---
 
-**[Social media users turn to AI in attempt to 'enhance' US shooting images](https://www.bbc.com/news/live/c86vy97g8zgt)**
+**[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
 
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-BBC • 1h ago
+The Guardian • 11h ago
 
 ---
 
-**[Watch AI Startup Baseten Doubles Valuation to $5B in Six Months](https://www.bloomberg.com/news/videos/2026-01-26/ai-startup-baseten-raises-300-million-video)**
+**[AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions](https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html)**
 
-Bloomberg.com • 1h ago
+The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
+
+CNBC • 56m ago
+
+---
+
+**[Watch Companies Focused on AI Execution Well-Positioned: Qu](https://www.bloomberg.com/news/videos/2026-01-26/companies-focused-on-ai-execution-well-positioned-qu-video)**
+
+PSP Growth Managing Director Momei Qu looks ahead to a big week for tech earnings with Bloomberg's Jonathan Ferro and Annmarie Hordern on 'Surveillance.' (Source: Bloomberg)
+
+Bloomberg.com • 55m ago
+
+---
+
+**[Robot Artist Ai-Da Makes Her Architectural Debut](https://news.artnet.com/art-world/ai-da-architecture-denmark-2740255)**
+
+After making her name as a painter, the world's first A.I. robot artist, Ai-Da, is having a go at architecture.
+
+Artnet News • 34m ago
+
+---
+
+**[WATCH: Jim VandeHei's blunt AI advice](https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice)**
+
+We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
+
+Axios • 9h ago
 
 ---
 
@@ -147,11 +175,11 @@ The Economist • 1d ago
 
 ---
 
-**[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
+**[Social media users turn to AI in attempt to 'enhance' US shooting images](https://www.bbc.com/news/live/c86vy97g8zgt)**
 
-Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-The Guardian • 10h ago
+BBC • 2h ago
 
 ---
 
@@ -171,28 +199,6 @@ CNBC • 3h ago
 
 ---
 
-**[Microsoft rolls out next generation of its AI chips, takes aim at Nvidia's software](https://www.reuters.com/business/microsoft-rolls-out-next-generation-its-ai-chips-takes-aim-nvidias-software-2026-01-26/)**
-
-Reuters • 3h ago
-
----
-
-**[WATCH: Jim VandeHei's blunt AI advice](https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice)**
-
-We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
-
-Axios • 9h ago
-
----
-
-**[Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence](https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations)**
-
-The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
-
-ProPublica • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +207,7 @@ ProPublica • 8h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 586 • 💬 615 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 588 • 💬 617 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -209,7 +215,13 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 341 • 💬 212 • 18h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 343 • 💬 213 • 19h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+
+---
+
+**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
+
+⬆️ 289 • 💬 224 • 3h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -217,21 +229,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 225 • 💬 115 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
-
----
-
-**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
-
-⬆️ 220 • 💬 180 • 2h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
-
----
-
-**[Auto-compact not triggering on Claude.ai despite being marked as fixed](https://news.ycombinator.com/item?id=46736091)**
-
-Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...
-
-⬆️ 187 • 💬 176 • 3d ago • [GitHub](https://github.com/anthropics/claude-code/issues/18866)
+⬆️ 261 • 💬 136 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -239,13 +237,13 @@ Preflight Checklist I have searched existing issues and this hasn't been reporte
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 164 • 💬 235 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 172 • 💬 250 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 117 • 💬 83 • 20h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 119 • 💬 86 • 21h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -253,7 +251,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 92 • 💬 19 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 93 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -268,6 +266,14 @@ While workers worldwide ponder how artificial intelligence might affect their li
 **[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
 
 ⬆️ 71 • 💬 27 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+
+---
+
+**[Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://news.ycombinator.com/item?id=46751675)**
+
+Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
+
+⬆️ 70 • 💬 34 • 1d ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
 
 ---
 
@@ -411,7 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 46,933 • ❤️ 559 • 4d ago
+⬇️ 46,933 • ❤️ 559 • 5d ago
 
 ---
 
@@ -674,7 +680,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.3k • 🔱 489 • 23h ago
+⭐ 9.3k • 🔱 489 • 1d ago
 
 ---
 
@@ -694,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 4h ago
+⭐ 6.2k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -724,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.7k • 🔱 860 • 55m ago
+⭐ 3.7k • 🔱 860 • 1h ago
 
 ---
 

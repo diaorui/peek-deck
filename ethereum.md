@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T19:24:31.916284+00:00'
+updated: '2026-01-26T19:44:57.088652+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 19:24 UTC  
+**Last Updated:** January 26, 2026 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,899.51
+### $2,925.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.9%  
-**7d:** -0.6%  
-**30d:** -1.0%  
+**24h:** +4.2%  
+**7d:** -0.4%  
+**30d:** -0.9%  
 **90d:** -25.1%  
-**1y:** -8.0%  
+**1y:** -7.9%  
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 5h ago
-
----
-
-**[Revisiting the Mountain Man](https://www.reddit.com/r/ethereum/comments/1qn2871/revisiting_the_mountain_man/)**
-
-I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
-
-17h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 6h ago
 
 ---
 
@@ -100,17 +92,25 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 ---
 
+**[Revisiting the Mountain Man](https://www.reddit.com/r/ethereum/comments/1qn2871/revisiting_the_mountain_man/)**
+
+I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
+
+18h ago
+
+---
+
 **[US Spot ETH ETFs recorded $1.5B in net outflows in Q4 2025, the single highest quarter of net outflows for the sector.](https://www.reddit.com/r/ethereum/comments/1qnblvo/us_spot_eth_etfs_recorded_15b_in_net_outflows_in/)**
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-9h ago
+10h ago
 
 ---
 
 **[Ledger Wallet - Ethereum Kiln Staking And/Or Other Ethereum Staking Service Recommendations](https://www.reddit.com/r/ethereum/comments/1qn6e9w/ledger_wallet_ethereum_kiln_staking_andor_other/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
 
-The Block • 13h ago
-
----
-
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Decrypt • 3h ago
+The Block • 14h ago
 
 ---
 
@@ -178,7 +170,15 @@ Yahoo Finance • 3d ago
 
 The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
 
-TipRanks • 4h ago
+TipRanks • 5h ago
+
+---
+
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
+
+Decrypt • 3h ago
 
 ---
 
@@ -198,19 +198,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Whales Fell Into a $4 Billion Bull Trap: What’s Next for ETH Price?](https://beincrypto.com/ethereum-price-analysis-bull-trap/)**
-
-Ethereum price broke out, momentum looked real, and buyers stepped in. Charts now show why that move failed and what risk still lies ahead.
-
-BeInCrypto • 1d ago
-
----
-
 **[Ethereum treasury firm ETHZilla (ETHZ) buys jet engines for $12 million in RWA tokenization push](https://www.coindesk.com/business/2026/01/24/ethereum-treasury-firm-buys-jet-engines-amid-tokenization-push-after-selling-eth)**
 
 ETHZilla is betting on bringing real-world assets on blockchain rails after it sold at least $114.5 million of its ETH stash over the past months.
 
 CoinDesk • 2d ago
+
+---
+
+**[Ethereum Whales Fell Into a $4 Billion Bull Trap: What’s Next for ETH Price?](https://beincrypto.com/ethereum-price-analysis-bull-trap/)**
+
+Ethereum price broke out, momentum looked real, and buyers stepped in. Charts now show why that move failed and what risk still lies ahead.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & ALTCOIN WARNING: TOTAL COLLAPSE (Urgent Update)! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 9K • 👍 326 • 💬 451 • ⏱️ 24:21 • 20h ago
+👁️ 9K • 👍 326 • 💬 451 • ⏱️ 24:21 • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 48 • 👍 1 • ⏱️ 1:15 • 2h ago
+👁️ 48 • 👍 1 • ⏱️ 1:15 • 3h ago
 
 ---
 
