@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T09:36:02.457136+00:00'
+updated: '2026-01-26T10:28:12.416733+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 09:36 UTC  
+**Last Updated:** January 26, 2026 at 10:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 18h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 19h ago
 
 ---
 
 **[Researchers warn of a “slop economy” where AI-generated content may undermine democratic discourse](https://www.reddit.com/r/artificial/comments/1qn9tns/researchers_warn_of_a_slop_economy_where/)**
 
-🔗 [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814) • 1h ago
+🔗 [tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Hey everyone! I wanted to share a project I've been working on called ReplacedBy. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift. If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future). The entire project is open source. You can find the source code on GitHub. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README. There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it. There's a roadmap in the repo if you're curious about what's next. I plan to do monthly posts with how the site has grown and the data collected. Let me know what you think!
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hey everyone! I wanted to share a project I've been working on called ReplacedBy
 
 Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 1d ago
 
 **[Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri](https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb)**
 
-Bloomberg • 2m ago
+Bloomberg • 54m ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg • 2m ago
 
 The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
 
-The Economist • 14h ago
+The Economist • 15h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Economist • 14h ago
 
 The British AI video company has raised $200 million in fresh funding.
 
-CNBC • 30m ago
+CNBC • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ BBC • 1h ago
 
 **[Nvidia-Backed AI Startup Synthesia Raises Funding at $4 Billion Valuation](https://www.wsj.com/business/entrepreneurship/nvidia-backed-ai-startup-synthesia-raises-funding-at-4-billion-valuation-7941abae?gaa_at=eafs&gaa_n=AWEtsqdBYdeXNBHpbqa4jDwrrQQIzNCJ_tAy8hUaqeKRddYubkwenn3JCR3i&gaa_ts=697738ee&gaa_sig=j2ggCvqTjkjlgkQHGYFIArNIRNarU9fiezqYExg3E9UxdG6lJy446mne0f8dCZaw9y01yXu5L6Gd6G1yFQBG6g%3D%3D)**
 
-The Wall Street Journal • 27m ago
+The Wall Street Journal • 1h ago
 
 ---
 
 **[Opinion | Why A.I. Can’t Make Thoughtful Decisions](https://www.nytimes.com/2026/01/25/opinion/ai-human-judgment.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNN • 2d ago
 
 A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years.
 
-AP News • 19h ago
+AP News • 20h ago
 
 ---
 
@@ -189,7 +189,7 @@ AP News • 19h ago
 
 In a message released Saturday, the pontiff cautioned that emotionally responsive AI systems can become “hidden architects of our emotional states.”
 
-New York Post • 9h ago
+New York Post • 10h ago
 
 ---
 
@@ -209,7 +209,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. - ghostty-org/ghostty
 
-⬆️ 499 • 💬 272 • 2d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+⬆️ 499 • 💬 272 • 3d ago • [GitHub](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ---
 
@@ -217,7 +217,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 226 • 💬 146 • 9h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 226 • 💬 146 • 10h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -239,7 +239,7 @@ Latest updates from the BBC's specialists in fact-checking, verifying video and 
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 85 • 💬 53 • 10h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 85 • 💬 53 • 11h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -269,7 +269,7 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 65 • 💬 19 • 15h ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 65 • 💬 19 • 16h ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -283,7 +283,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 34K • 👍 669 • 💬 216 • ⏱️ 4:20 • 8h ago
+👁️ 34K • 👍 669 • 💬 216 • ⏱️ 4:20 • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 126K • 👍 7K • 💬 969 • ⏱️ 12:43 • 10h ago
+👁️ 126K • 👍 7K • 💬 969 • ⏱️ 12:43 • 11h ago
 
 ---
 
@@ -313,7 +313,7 @@ Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big lea
 
 📺 BitBiasedAI
 
-👁️ 5K • 👍 126 • 💬 11 • ⏱️ 20:33 • 14h ago
+👁️ 5K • 👍 126 • 💬 11 • ⏱️ 20:33 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Elon Musk: "Grok AI Was Asked About Jesus – Its Reply Changed Everything" What
 
 📺 The Silent Archive
 
-👁️ 5K • 👍 91 • 💬 9 • ⏱️ 28:10 • 17h ago
+👁️ 5K • 👍 91 • 💬 9 • ⏱️ 28:10 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ My site: https://natebjones.com Full Story w/ Prompt: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 21K • 👍 1K • 💬 107 • ⏱️ 21:32 • 14h ago
+👁️ 21K • 👍 1K • 💬 107 • ⏱️ 21:32 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 25K • 👍 1K • 💬 105 • ⏱️ 21:40 • 17h ago
+👁️ 25K • 👍 1K • 💬 105 • ⏱️ 21:40 • 18h ago
 
 ---
 
@@ -461,7 +461,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 253 • 4h ago
+⬇️ 749 • ❤️ 253 • 5h ago
 
 ---
 
@@ -473,7 +473,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 231 • 3h ago
+⬇️ 5,159 • ❤️ 231 • 4h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.6k • 🔱 581 • 53m ago
+⭐ 10.6k • 🔱 581 • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 4h ago
+⭐ 9.7k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 480 • 13h ago
+⭐ 9.2k • 🔱 480 • 14h ago
 
 ---
 
@@ -698,7 +698,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.1k • 🔱 1.1k • 17h ago
+⭐ 6.1k • 🔱 1.1k • 18h ago
 
 ---
 
@@ -728,7 +728,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.5k • 🔱 800 • 1h ago
+⭐ 3.5k • 🔱 800 • 2h ago
 
 ---
 

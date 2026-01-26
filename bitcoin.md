@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T09:36:02.465077+00:00'
+updated: '2026-01-26T10:28:12.425121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 09:36 UTC  
+**Last Updated:** January 26, 2026 at 10:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Back to the fiat mines](https://www.reddit.com/r/Bitcoin/comments/1qn8863/back_to_the_fiat_mines/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[i don't know how many " buy the dip " i have left in me](https://www.reddit.com/r/Bitcoin/comments/1qmx8m9/i_dont_know_how_many_buy_the_dip_i_have_left_in_me/)**
 
-11h ago
+12h ago
 
 ---
 
 **[True or False?](https://www.reddit.com/r/Bitcoin/comments/1qmuy4i/true_or_false/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 I was cleaning out old emails and found a receipt from CoinJar dated November 19, 2013. I had 0.6 BTC. I was there. I was early. I was literally holding the winning lottery ticket. Did I hold? No. I sold it for peanuts because I was a broke student. But wait, it gets funnier. I also an email fom that same week of staring at a "Confirm Buy" screen for another 1.77 BTC and just... not clicking it. And because I apparently hate money, I kept going. In 2017, I had another 0.17 BTC. Sold it for some fun at a festival. Then, the grand finale: In early 2021, I FOMO'd back in with $800. Then I panicked in March 2022 and sold it for like $690 because I was in between jobs. I literally bought the top and sold the bottom. My financial strategy is apparently "buy high, sell low, repeat until broke." So here I am in 2026, staring at a chart that says my old 0.6 BTC would be worth $76,000 today. But you know what? Screw it. I have exactly $20 to my name that I can invest. I'm doing it. I'm buying the $20. I don't care if it's pathetic. I'm tired of being the guy with the "I almost" story. I'm officially back in the game, even if my stack is dust. Then I'll put in another $20. And then maybe $100. The second best time is now, right?
 
-5h ago
+6h ago
 
 ---
 
 **[EVEN MORE PAIN!!!!](https://www.reddit.com/r/Bitcoin/comments/1qmybz6/even_more_pain/)**
 
-10h ago
+11h ago
 
 ---
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 **[Great times ahead of us](https://www.reddit.com/r/Bitcoin/comments/1qmz27u/great_times_ahead_of_us/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -149,13 +149,13 @@ Do the math, and then stack sats relentlessly. This will be the next base layer 
 
 Bitcoin and major tokens weakened Sunday as markets positioned ahead of the Federal Reserve’s next rate decision and a heavy slate of Magnificent Seven earnings.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
 **[Bitcoin slides near $87,000 as US government shutdown fears weigh on crypto](https://www.theblock.co/post/386961/bitcoin-slides-us-government-shutdown-fears)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 5h ago
 
 Changpeng Zhao said Bitcoin may be breaking from its traditional four-year cycle. Gold and silver have surged to record highs. Demand shifts could cap silver’s ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ ProPublica • 3d ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Binance • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD saw multiday lows into Sunday’s weekly close as bulls faced a week of macro uncertainty.Key points:Bitcoin sags into big macro weekData from TradingView tracked 1.6% losses for BITSTAMP:BTCUSD, which reached $87,471 on Bitstamp. Long positions made up the majority of 24-hour…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -215,7 +215,7 @@ TradingView • 14h ago
 
 A crypto market crash is happening today, January 25, with Bitcoin and most altcoins being in the deep red.
 
-BanklessTimes • 5h ago
+BanklessTimes • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ rewards for mining operations will dwindle. What happens next?
 
 Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.
 
-⬆️ 2 • 💬 1 • 6d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
+⬆️ 2 • 💬 1 • 7d ago • [CNBC](https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html)
 
 ---
 
@@ -282,7 +282,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 3 • 💬 5 • 9h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 5 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -308,7 +308,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 10h ago
+👁️ 36K • 👍 2K • 💬 307 • ⏱️ 9:12 • 11h ago
 
 ---
 
@@ -338,7 +338,7 @@ Bitcoin gets rejected from a key level of resistance at the weekly 21 moving ave
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 10h ago
+👁️ 19K • 👍 2K • 💬 419 • ⏱️ 4:51 • 11h ago
 
 ---
 
@@ -358,7 +358,7 @@ The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Cu
 
 📺 Aaron Bennett
 
-👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 22h ago
+👁️ 19K • 👍 987 • 💬 234 • ⏱️ 13:23 • 23h ago
 
 ---
 
@@ -368,7 +368,7 @@ Silver, gold, and commodities are ripping as central banks lose control and curr
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 9h ago
+👁️ 17K • 👍 1K • 💬 150 • ⏱️ 13:42 • 10h ago
 
 ---
 
