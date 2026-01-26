@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T22:24:20.623469+00:00'
+updated: '2026-01-26T22:48:14.905377+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 22:24 UTC  
+**Last Updated:** January 26, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -66,13 +66,13 @@ I don't have much information, but it's a bit viral on X
 
 In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 2m ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 26m ago
 
 ---
 
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-3h ago
+4h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Robot Report • 4h ago
 
 **[Scholastic Spotlight: Earlham High earns NASA grant](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spotlight-earlham-high-earns-nasa-grant/)**
 
-who13.com • 9h ago
+who13.com • 10h ago
 
 ---
 
@@ -134,7 +134,7 @@ Tech Xplore • 1h ago
 
 LOS ANGELES, CA - January 26, 2026 (NEWMEDIAWIRE) - Micropolis AI Robotics (NYSE American: MCRP), a pioneer in unmanned ground vehicles and AI-driven security solutions, announced the official reveal of its Autonomous Logistics Platform during the UM...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 5K • 👍 308 • 💬 5 • ⏱️ 0:55 • 10h ago
+👁️ 5K • 👍 308 • 💬 5 • ⏱️ 0:55 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 📺 CBC News: The National
 
-👁️ 23K • 👍 226 • ⏱️ 7:30 • 6d ago
+👁️ 23K • 👍 226 • ⏱️ 7:30 • 7d ago
 
 ---
 

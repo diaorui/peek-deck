@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T22:24:20.605893+00:00'
+updated: '2026-01-26T22:48:14.886472+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 22:24 UTC  
+**Last Updated:** January 26, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-21m ago
+44m ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 3h ago
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -155,13 +155,13 @@ qz.com • 1h ago
 
 When has that ever stopped us?
 
-Gizmodo • 13m ago
+Gizmodo • 37m ago
 
 ---
 
 **[China AI Hardware Firms Trump Internet Giants in Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-26/china-ai-hardware-firms-trump-internet-giants-in-growth-outlook?srnd=homepage-americas)**
 
-Bloomberg.com • 24m ago
+Bloomberg.com • 48m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 24m ago
 
 Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 408 • 💬 356 • 5h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 408 • 💬 356 • 6h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -219,7 +219,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 359 • 💬 214 • 21h ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 359 • 💬 214 • 22h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -227,7 +227,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 327 • 💬 175 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 327 • 💬 175 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -249,7 +249,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 120 • 💬 88 • 23h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 120 • 💬 88 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -257,7 +257,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 106 • 💬 78 • 6h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 106 • 💬 78 • 7h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -700,7 +700,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 7h ago
+⭐ 6.2k • 🔱 1.1k • 8h ago
 
 ---
 

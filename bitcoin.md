@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T22:24:20.614274+00:00'
+updated: '2026-01-26T22:48:14.895536+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 22:24 UTC  
+**Last Updated:** January 26, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,19 +109,19 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-3h ago
+4h ago
 
 ---
 
 **[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
 
-49m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[This is why we Bitcoin. They can't print more sats for free.](https://www.reddit.com/r/Bitcoin/comments/1qn9qc5/this_is_why_we_bitcoin_they_cant_print_more_sats/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bitcoin Magazine • 1h ago
 
 The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
 
-Bitcoin Magazine • 52m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 6h ago
 
 BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -264,7 +264,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 8h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 1 • 💬 0 • 9h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -278,7 +278,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 23h ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -290,7 +290,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 36 • 💬 20 • 21h ago
+⬆️ 36 • 💬 20 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
 
-⬆️ 16 • 💬 4 • 22h ago • [GitHub](https://github.com/cacoos/trackhands)
+⬆️ 16 • 💬 4 • 23h ago • [GitHub](https://github.com/cacoos/trackhands)
 
 ---
 
@@ -342,7 +342,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 517 • ⏱️ 9:36 • 19h ago
+👁️ 24K • 👍 1K • 💬 517 • ⏱️ 9:36 • 20h ago
 
 ---
 
