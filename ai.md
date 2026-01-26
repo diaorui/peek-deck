@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T20:29:10.406478+00:00'
+updated: '2026-01-26T20:53:36.513899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 20:29 UTC  
+**Last Updated:** January 26, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 5h ago
 
 ---
 
@@ -61,19 +61,27 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 ---
 
-**[Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.](https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/)**
-
-“Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
-
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 3h ago
-
----
-
 **[Google ties AI Search to Gmail and Photos, raising new privacy questions](https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/)**
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
 🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 4h ago
+
+---
+
+**[Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.](https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/)**
+
+“Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
+
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 4h ago
+
+---
+
+**[Once AI systems act, intelligence stops being the hard problem](https://www.reddit.com/r/artificial/comments/1qnqz3u/once_ai_systems_act_intelligence_stops_being_the/)**
+
+A lot of AI discussion still treats intelligence as the core bottleneck. From a research perspective, that assumption is starting to break down. We already know how to produce systems that generate high-quality responses in isolation. The failure modes showing up now are different: degradation across long horizons loss of state consistency uncontrolled policy drift under autonomy weak guarantees once systems leave the sandbox These issues don’t map cleanly to better training or larger models. They map to control theory, systems engineering, and governance. Once an AI system is allowed to act in the world, intelligence alone is insufficient. You need: explicit state models constrained action spaces observability and auditability mechanisms for rollback and correction Human institutions solved this long before machine learning existed. Intelligence never ran organizations. Structure, constraint, and accountability did. From a research angle, this raises questions that feel underexplored compared to model-centric work: What are the right abstractions for long-horizon AI state? How should autonomy be bounded without collapsing usefulness? Where does formal verification realistically fit for AI systems that adapt? Is “alignment” even the right framing once systems are embedded in workflows? Curious how others here think about this shift. Are we nearing the point where the hardest AI problems are no longer ML problems at all, but systems and governance problems disguised as ML?
+
+56m ago
 
 ---
 
@@ -109,14 +117,6 @@ Can we all just agree to stop using this crap? Tech bros are the worst https://w
 
 ---
 
-**[AI might be changing your mind (and you’d never know)](https://www.reddit.com/r/artificial/comments/1qnj2hp/ai_might_be_changing_your_mind_and_youd_never_know/)**
-
-Been diving into the latest AI research and wanted to share some findings that aren’t getting enough attention. All from peer-reviewed sources. Study 1 – AI Persuasion (Nature/Science, Dec 2025) • 77,000 participants across US, UK, Canada, Poland • AI chatbots shifted voter opinions 4x more than political ads • Mechanism: information density, not psychological manipulation • Catch: most persuasive models were least accurate Study 2 – AI Sycophancy (Stanford/CMU, Oct 2025) • Tested 11 leading AI models – all were “highly sycophantic” • AI affirms users 50% more than humans do • 1,604 participants: sycophantic AI reduced willingness to repair relationships • But users rated it as more trustworthy Study 3 – Loneliness Paradox (MIT/OpenAI, Mar 2025) • 4-week RCT, n=981, 300K+ messages • Higher chatbot usage = increased loneliness • Also: less real-world social interaction, greater emotional dependence • Individual characteristics (trust in AI) predicted worse outcomes The question I keep thinking about: where does assistance end and influence begin? Not trying to be alarmist. I use AI tools daily and find them useful. But these dynamics seem worth understanding. Has anyone else noticed these patterns in their own usage? Curious what guardrails people are implementing. Sources in comments if anyone wants the papers.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,11 +127,35 @@ The New York Times • 10h ago
 
 ---
 
-**[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
+**[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
 
-Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
+"Humanity is about to be handed almost unimaginable power."
 
-The Guardian • 11h ago
+Axios • 3h ago
+
+---
+
+**[Scientists launch AI DinoTracker app that identifies dinosaur footprints](https://www.theguardian.com/science/2026/jan/26/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints)**
+
+Researchers say artificial intelligence system matches human expert classification about 90% of the time
+
+The Guardian • 53m ago
+
+---
+
+**[AI robot brings emotional care to pets](https://www.foxnews.com/tech/ai-robot-brings-emotional-care-pets)**
+
+Aura AI pet robot tracks behavior changes to detect when pets feel excited, anxious or relaxed. Tuya Smart's device offers laser play, treat dispensing and voice interaction.
+
+Fox News • 23m ago
+
+---
+
+**[Why AI won’t wipe out white-collar jobs](https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs)**
+
+The technology will expand their scope and raise their value
+
+The Economist • 37m ago
 
 ---
 
@@ -139,47 +163,7 @@ The Guardian • 11h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 1h ago
-
----
-
-**[Watch Companies Focused on AI Execution Well-Positioned: Qu](https://www.bloomberg.com/news/videos/2026-01-26/companies-focused-on-ai-execution-well-positioned-qu-video)**
-
-PSP Growth Managing Director Momei Qu looks ahead to a big week for tech earnings with Bloomberg's Jonathan Ferro and Annmarie Hordern on 'Surveillance.' (Source: Bloomberg)
-
-Bloomberg.com • 1h ago
-
----
-
-**[Robot Artist Ai-Da Makes Her Architectural Debut](https://news.artnet.com/art-world/ai-da-architecture-denmark-2740255)**
-
-After making her name as a painter, the world's first A.I. robot artist, Ai-Da, is having a go at architecture.
-
-Artnet News • 1h ago
-
----
-
-**[WATCH: Jim VandeHei's blunt AI advice](https://www.axios.com/2026/01/26/new-axios-show-jim-vandehei-blunt-ai-advice)**
-
-We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
-
-Axios • 10h ago
-
----
-
-**[Will the smartphone survive the AI age?](https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age)**
-
-The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon
-
-The Economist • 1d ago
-
----
-
-**[Social media users turn to AI in attempt to 'enhance' US shooting images](https://www.bbc.com/news/live/c86vy97g8zgt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 2h ago
+CNBC • 2h ago
 
 ---
 
@@ -199,6 +183,22 @@ CNBC • 4h ago
 
 ---
 
+**[The AI Application Boom: Why Microsoft and Nvidia Will Win Big This Year](https://finance.yahoo.com/news/ai-application-boom-why-microsoft-185000829.html)**
+
+The two tech giants remain the most balanced plays in the booming AI market.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence](https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations)**
+
+The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
+
+ProPublica • 10h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -207,7 +207,13 @@ CNBC • 4h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 588 • 💬 617 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 588 • 💬 619 • 1d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+
+---
+
+**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
+
+⬆️ 354 • 💬 299 • 4h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -215,13 +221,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 343 • 💬 213 • 20h ago • [GitHub](https://github.com/clawdbot/clawdbot)
-
----
-
-**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
-
-⬆️ 289 • 💬 224 • 4h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 348 • 💬 214 • 20h ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -229,7 +229,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 261 • 💬 136 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 286 • 💬 149 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -237,13 +237,21 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 172 • 💬 250 • 6h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 177 • 💬 258 • 6h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 119 • 💬 86 • 21h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 120 • 💬 87 • 22h ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+
+---
+
+**[When AI 'builds a browser,' check the repo before believing the hype](https://news.ycombinator.com/item?id=46769965)**
+
+Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
+
+⬆️ 95 • 💬 34 • 1h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -251,7 +259,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 93 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 95 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -263,17 +271,11 @@ While workers worldwide ponder how artificial intelligence might affect their li
 
 ---
 
-**[AI can 10x developers in creating tech debt](https://news.ycombinator.com/item?id=46740548)**
+**[There is an AI code review bubble](https://news.ycombinator.com/item?id=46766961)**
 
-⬆️ 71 • 💬 27 • 2d ago • [stackoverflow.blog](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)
+Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
----
-
-**[Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://news.ycombinator.com/item?id=46751675)**
-
-Contribute to divyaprakash0426/autoshorts development by creating an account on GitHub.
-
-⬆️ 70 • 💬 34 • 1d ago • [GitHub](https://github.com/divyaprakash0426/autoshorts)
+⬆️ 79 • 💬 59 • 5h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -281,33 +283,43 @@ Contribute to divyaprakash0426/autoshorts development by creating an account on 
 
 ## YouTube Videos: "ai"
 
-**[AI will replace developers in 6 months. Again...](https://www.youtube.com/watch?v=ZV5Fx4qMDgA)**
-
-A quick review of the AI narative at Davos 2026. Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not ...
-
-📺 Awesome
-
-👁️ 16K • 👍 1K • 💬 337 • ⏱️ 8:03 • 7h ago
-
----
-
 **[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
 
 NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
 
 📺 Fox Business
 
-👁️ 60K • 👍 1K • 💬 369 • ⏱️ 4:20 • 19h ago
+👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 19h ago
 
 ---
 
-**[GPT 5.3 Garlic Explained: What We Know About the Future of AI – Leaks, Rumors &amp; Features!](https://www.youtube.com/watch?v=PEmno49xcY0)**
+**[A Once In A Lifetime AI Business That’s Making $2500/Week (WATCH NOW)](https://www.youtube.com/watch?v=FR-cgqwXcaw)**
 
-Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big leap in AI? While OpenAI hasn't officially confirmed ...
+Turn your one day into 'Day One' with Hostinger: https://www.hostinger.com/jwth New Year Sale (Dec 29th-Feb 17th): 48mo - new ...
 
-📺 BitBiasedAI
+📺 Journey With The Hintons
 
-👁️ 7K • 👍 156 • 💬 19 • ⏱️ 20:33 • 1d ago
+👁️ 37K • 👍 4K • 💬 210 • ⏱️ 14:29 • 1d ago
+
+---
+
+**[AI will replace developers in 6 months. Again...](https://www.youtube.com/watch?v=ZV5Fx4qMDgA)**
+
+A quick review of the AI narative at Davos 2026. Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not ...
+
+📺 Awesome
+
+👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 7h ago
+
+---
+
+**[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
+
+The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
+
+📺 AI Revolution
+
+👁️ 57K • 👍 1K • 💬 245 • ⏱️ 12:27 • 1d ago
 
 ---
 
@@ -317,17 +329,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 22K • 👍 740 • 💬 164 • ⏱️ 12:43 • 1d ago
-
----
-
-**[I Sent AI the Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 154K • 👍 9K • 💬 1K • ⏱️ 12:43 • 21h ago
+👁️ 22K • 👍 754 • 💬 169 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -337,65 +339,53 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.7M • 👍 91K • 💬 2K • ⏱️ 0:13 • 2d ago
+👁️ 2.7M • 👍 91K • 💬 3K • ⏱️ 0:13 • 2d ago
 
 ---
 
-**[Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview](https://www.youtube.com/watch?v=-RPbxvz6sB8)**
+**[GPT 5.3 Garlic Explained: What We Know About the Future of AI – Leaks, Rumors &amp; Features!](https://www.youtube.com/watch?v=PEmno49xcY0)**
 
-Demis Hassabis says the level of investment in some parts of the tech industry had become detached from commercial realities ...
+Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big leap in AI? While OpenAI hasn't officially confirmed ...
 
-📺 Financial Times
+📺 BitBiasedAI
 
-👁️ 46K • 👍 973 • 💬 153 • ⏱️ 20:22 • 2d ago
-
----
-
-**[AI News: Is OpenAI Speed Running Their Downfall?](https://www.youtube.com/watch?v=K5RG8-JvqUY)**
-
-Here's the AI News you probably missed this week. Learn more about Box Extract here: ...
-
-📺 Matt Wolfe
-
-👁️ 59K • 👍 3K • 💬 335 • ⏱️ 28:01 • 2d ago
+👁️ 8K • 👍 161 • 💬 21 • ⏱️ 20:33 • 1d ago
 
 ---
 
-**[DEBAT SIAPA LAYAK JADI TALENT PERMANENT AI TEAM !!! P4NAS P4NAS…](https://www.youtube.com/watch?v=Ugkj3wgs4Do)**
+**[AI Meltdown is Hilarious](https://www.youtube.com/watch?v=_O5KfdA9XiU)**
 
-Why So Serious ??? Korang rasa siapa yang layak.
+AI slop has once again returned. More AI nonsense from Youtube, Tiktok and everything in between. Pokemon Channel ...
 
-📺 Alieff Irfan
+📺 Dolan Darkest
 
-👁️ 411K • 👍 21K • 💬 4K • ⏱️ 1:36:50 • 8h ago
+👁️ 216K • 👍 11K • 💬 2K • ⏱️ 2:28 • 1d ago
 
 ---
 
-**[I Remade a $1M Apple Ad With AI](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
+**[Elon Musk: &quot;Grok AI Was Asked About Jesus – Its Reply Changed Everything&quot;](https://www.youtube.com/watch?v=794IQ3GxYmg)**
 
-Can I do it in one day with only $10? Try ElevenLabs today: ...
+Elon Musk: "Grok AI Was Asked About Jesus – Its Reply Changed Everything" What happens when an artificial intelligence is ...
 
-📺 AI Samson
+📺 The Silent Archive
 
-👁️ 9K • 👍 389 • 💬 57 • ⏱️ 14:50 • 2d ago
+👁️ 7K • 👍 127 • 💬 20 • ⏱️ 28:10 • 1d ago
+
+---
+
+**[Agentic Workflows Just Changed AI Automation Forever! (Claude Code)](https://www.youtube.com/watch?v=AO5aW01DKHo)**
+
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
+
+📺 Nate Herk | AI Automation
+
+👁️ 39K • 👍 2K • 💬 148 • ⏱️ 21:40 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 449,671 • ❤️ 1,228 • 6d ago
-
----
 
 **[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
 
@@ -405,7 +395,19 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 34,870 • ❤️ 1,072 • 3d ago
+⬇️ 34,870 • ❤️ 1,080 • 3d ago
+
+---
+
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 449,671 • ❤️ 1,229 • 6d ago
 
 ---
 
@@ -417,7 +419,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 46,933 • ❤️ 559 • 5d ago
+⬇️ 46,933 • ❤️ 564 • 5d ago
 
 ---
 
@@ -429,7 +431,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 91,825 • ❤️ 543 • 3d ago
+⬇️ 91,825 • ❤️ 555 • 3d ago
 
 ---
 
@@ -441,7 +443,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 228,183 • ❤️ 336 • 2d ago
+⬇️ 228,183 • ❤️ 337 • 2d ago
 
 ---
 
@@ -453,7 +455,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 15,329 • ❤️ 330 • 5d ago
+⬇️ 15,329 • ❤️ 336 • 5d ago
 
 ---
 
@@ -465,7 +467,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 259 • 15h ago
+⬇️ 749 • ❤️ 260 • 15h ago
 
 ---
 
@@ -477,7 +479,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 240 • 14h ago
+⬇️ 5,159 • ❤️ 243 • 14h ago
 
 ---
 
@@ -489,7 +491,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,026 • ❤️ 231 • 3d ago
+⬇️ 3,026 • ❤️ 231 • 4d ago
 
 ---
 
@@ -499,7 +501,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 Qwen3-TTS-12Hz-1.7B-Base is a multilingual text-to-speech model supporting 10 languages, capable of 3-second rapid voice cloning and low-latency streaming generation for real-time applications.
 
-⬇️ 94,396 • ❤️ 207 • 3d ago
+⬇️ 94,396 • ❤️ 208 • 3d ago
 
 ---
 
@@ -515,7 +517,7 @@ Qwen3-TTS-12Hz-1.7B-Base is a multilingual text-to-speech model supporting 10 la
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 37 • 💬 1 • ⭐ 4,659 • 4d ago
+▲ 37 • 💬 1 • ⭐ 4,934 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -571,19 +573,6 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 32 • 💬 1 • ⭐ 68,620 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)**
 
 *Tianxin Wei, Ting-Wei Li, Zhining Liu et al. (29 authors)*
@@ -595,6 +584,19 @@ Agentic reasoning redefines large language models as autonomous agents capable o
 ▲ 176 • 💬 5 • ⭐ 547 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 32 • 💬 1 • ⭐ 68,651 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -630,7 +632,7 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,551 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,585 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
 
@@ -644,7 +646,7 @@ https://continuous-audio-language-models.github.io
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 19 • 💬 3 • ⭐ 408 • 10d ago
+▲ 20 • 💬 3 • ⭐ 421 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -660,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 590 • 2h ago
+⭐ 10.7k • 🔱 591 • 44m ago
 
 ---
 
@@ -700,7 +702,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 5h ago
+⭐ 6.2k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -720,7 +722,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.8k • 🔱 515 • 1d ago
+⭐ 4.8k • 🔱 516 • 1d ago
 
 ---
 
@@ -730,7 +732,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.7k • 🔱 860 • 2h ago
+⭐ 3.8k • 🔱 866 • 1h ago
 
 ---
 
@@ -738,7 +740,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.1k • 🔱 258 • 3d ago
+⭐ 3.2k • 🔱 259 • 3d ago
 
 ---
 

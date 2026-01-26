@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-26T20:29:10.432633+00:00'
+updated: '2026-01-26T20:53:36.531334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 26, 2026 at 20:29 UTC  
+**Last Updated:** January 26, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -62,6 +62,12 @@ I don't have much information, but it's a bit viral on X
 
 ---
 
+**[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
+
+10m ago
+
+---
+
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
 3h ago
@@ -78,9 +84,9 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 **[Writing a book on embodied intelligence — would love critical input from roboticists here](https://www.reddit.com/r/robotics/comments/1qnovp1/writing_a_book_on_embodied_intelligence_would/)**
 
-Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book is an attempt to tell a long-arc story of embodied intelligence — from Da Vinci's Mechanical Knight to modern humanoid like Optimus. I’m less interested in hype or near-term predictions, and more in the underlying ideas and what past successes and failures can teach us. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
+Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-1h ago
+2h ago
 
 ---
 
@@ -100,14 +106,6 @@ https://preview.redd.it/thps03nk1pfg1.png?width=2000&format=png&auto=webp&s=fb07
 
 ---
 
-**[How useful is “long-horizon” human demonstration data for task planning (not just low-level control)?](https://www.reddit.com/r/robotics/comments/1qnjg2u/how_useful_is_longhorizon_human_demonstration/)**
-
-Hey everyone, I’m a university student trying to understand something about robot learning + planning and I would love to hear from people who have actually worked on this. A lot of datasets/imitation learning setups seem great for short-horizon behaviors (pick/place, grasping, reaching, etc.). But I’m more curious about the long-horizon part of real tasks: multi-step sequences, handling “oh noo” moments, recovery and task re-planning. I know that currently VLA models and majority of general purpose robots are failing a lot on long horizon tasks. The question: How useful is human demonstration data when the goal is long-horizon task planning, rather than just low-level control? More specifically, have you seen demos help with things like: deciding what to do next across multiple steps recovery behaviors (failed grasp, object moved, collisions, partial success) learning “when to stop / reset / switch strategy” planning in tasks like sorting, stacking, cleaning, or “kitchen-style” multi-step routines I’m wondering where the real bottleneck is Is it mostly: “the data doesn’t cover the right failure modes / distributions” “planning needs search + world models, demos aren’t enough” “the hard part is evaluation and generalization, not collecting more demos” or “demos actually help a ton, but only if structured/annotated the right way” Also curious: If you’ve tried this (in academia or industry), what ended up being the most valuable format? full trajectories (state → action sequences) subgoals / waypoints / decompositions language or “intent” labels corrections / preference feedback (“this recovery is better than that one”) action traces that include meta-actions like “pause, re-check, adjust plan, reset” Not looking for anything proprietary, I’m mainly trying to build intuition on why this does or doesn’t work in practice. Would appreciate any papers, internal lessons learned, or even “we tried this and it didn’t work at all” stories. Thanks in advance.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,11 +118,19 @@ The Robot Report • 2h ago
 
 ---
 
+**[German Company to Provide AI-Powered Robotic Kitchens to Ukrainian Troops](https://www.kyivpost.com/post/68799)**
+
+The kitchens are fully autonomous and can handle everything from picking ingredients to cooking, serving, and cleaning.
+
+kyivpost.com • 1d ago
+
+---
+
 **[Gambit Robotics Hopes to Usher In a New Era of Guided Cooking Without Robots (Yet)](https://thespoon.tech/gambit-robotics-hopes-to-usher-in-a-new-era-of-guided-cooking-without-robots-yet/)**
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 1h ago
+thespoon.tech • 2h ago
 
 ---
 
@@ -133,6 +139,12 @@ thespoon.tech • 1h ago
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
 markets.businessinsider.com • 6h ago
+
+---
+
+**[Microsoft debuts Maia 200 AI chip promising 3x inference performance](https://interestingengineering.com/ai-robotics/3x-power-boost-microsoft-launches-maia-200-to-run-ai-inference-faster-and-cheaper)**
+
+Interesting Engineering • 16m ago
 
 ---
 
@@ -152,14 +164,6 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
-
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
-
-channel3000.com • 1d ago
-
----
-
 **[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
 
 Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
@@ -174,19 +178,11 @@ MarketBeat • 3d ago
 
 ---
 
-**[High schoolers test their brains in Vex V5 Robotics competition at Lambeau Field](https://www.wbay.com/2026/01/24/high-schoolers-test-their-brains-vex-v5-robotics-competition-lambeau-field/)**
+**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
 
-The goal? To take home first place, of course, but also build valuable skills like teamwork and how to overcome challenges with trial and error.
+SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
 
-wbay.com • 2d ago
-
----
-
-**[ROBOTERA Showcases Human-Scale Dexterous Robotics at CES 2026](https://www.usatoday.com/story/special/contributor-content/2026/01/24/robotera-showcases-human-scale-dexterous-robotics-at-ces-2026/88336971007/)**
-
-Unlike traditional industrial grippers, which are optimized for repetitive, single-purpose tasks, ROBOTERA’s hands are anthropomorphic, five-fingered systems built for varied, unstructured environments.
-
-USA Today • 2d ago
+channel3000.com • 1d ago
 
 ---
 
@@ -200,7 +196,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 101K • 👍 2K • 💬 157 • ⏱️ 17:39 • 2d ago
+👁️ 103K • 👍 3K • 💬 161 • ⏱️ 17:39 • 2d ago
+
+---
+
+**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
+
+The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 81 • 💬 4 • ⏱️ 0:32 • 5d ago
 
 ---
 
@@ -220,27 +226,17 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 79 • 💬 70 • ⏱️ 2:47 • 4d ago
+👁️ 9K • 👍 80 • 💬 70 • ⏱️ 2:47 • 4d ago
 
 ---
 
-**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
+**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
 
-Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
+Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
 
-📺 Consumer Research Studios
+📺 CapyEscapes
 
-👁️ 788 • 👍 284 • 💬 1 • ⏱️ 7:25 • 13h ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 562K • 👍 10K • 💬 3K • ⏱️ 32:01 • 4d ago
+👁️ 5K • 👍 308 • 💬 5 • ⏱️ 0:55 • 9h ago
 
 ---
 
@@ -250,7 +246,7 @@ AUTONOMOUS NAVIGATION AND LOCOMOTION FOR WHEEL-LEG-ROBOTS ...
 
 📺 Unstoppable Gadgets
 
-👁️ 22K • 👍 532 • 💬 10 • ⏱️ 0:20 • 21h ago
+👁️ 23K • 👍 554 • 💬 10 • ⏱️ 0:20 • 21h ago
 
 ---
 
@@ -264,13 +260,23 @@ Robots are on the cusp of a boom, combining sophisticated hardware with today's 
 
 ---
 
-**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
+**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
 
-Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
+In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
 
-📺 CapyEscapes
+📺 DRM News
 
-👁️ 4K • 👍 287 • 💬 5 • ⏱️ 0:55 • 8h ago
+👁️ 565K • 👍 10K • 💬 3K • ⏱️ 32:01 • 4d ago
+
+---
+
+**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
+
+Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
+
+📺 Consumer Research Studios
+
+👁️ 796 • 👍 285 • 💬 1 • ⏱️ 7:25 • 13h ago
 
 ---
 
@@ -281,16 +287,6 @@ Elon Musk says AI and robotics could play a key part in giving everyone around t
 📺 Fox News
 
 👁️ 49K • 👍 1K • 💬 245 • ⏱️ 0:49 • 3d ago
-
----
-
-**[Most Humanlike AI Robot at CES 2026 Will Make You UNCOMFORTABLE](https://www.youtube.com/watch?v=nGJ6u_5RkOw)**
-
-CES 2026 just unveiled the most humanlike AI robot ever created — and it's making everyone deeply uncomfortable. Standing ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 97 • 💬 20 • ⏱️ 26:30 • 7d ago
 
 ---
 
