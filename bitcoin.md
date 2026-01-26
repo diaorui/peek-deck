@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-26T22:48:14.895536+00:00'
+updated: '2026-01-26T23:24:06.672729+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 22:48 UTC  
+**Last Updated:** January 26, 2026 at 23:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.37B
+**Market Cap:** $1762.02B
 Rank #1
 
-**Circulating Supply:** 19,980,871 BTC
+**Circulating Supply:** 19,980,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.1%
 
 **All-Time Low:** $67.81
-+129077.1%
++129942.8%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-4h ago
+5h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 **[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 11h ago
 
 Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide.On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace an…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 1d ago
 
 Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bitcoin Magazine • 1h ago
 
 **[Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bloomberg.com • 11h ago
 
 The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 6h ago
 
 **[BlackRock files for new bitcoin ETF with covered-call strategy (BLK:NYSE)](https://seekingalpha.com/news/4542617-blackrock-files-for-new-bitcoin-etf-with-covered-call-strategy)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Seeking Alpha • 2h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 16 • 💬 0 • 10h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 16 • 💬 0 • 11h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -306,13 +306,33 @@ Detects when your fingers are near your mouth and reminds you to stop. Built wit
 
 ## YouTube Videos: "bitcoin"
 
+**[Gold Rips to $5000: Why That&#39;s Extremely BULLISH for Bitcoin!](https://www.youtube.com/watch?v=HE3sPTb9CCE)**
+
+Gold is surging to historic highs, and many are using it to dunk on Bitcoin. That misses the point. In this clip from Swan Signal Live, ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 181 • 💬 27 • ⏱️ 14:20 • 5h ago
+
+---
+
 **[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 566 • ⏱️ 9:12 • 23h ago
+👁️ 51K • 👍 3K • 💬 567 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
+
+IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 351 • 💬 15 • ⏱️ 3:19 • 1h ago
 
 ---
 
@@ -322,27 +342,17 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 367 • 💬 437 • ⏱️ 15:36 • 17h ago
+👁️ 14K • 👍 376 • 💬 435 • ⏱️ 15:36 • 18h ago
 
 ---
 
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
+**[The Ugly Truth About Bitcoin.](https://www.youtube.com/watch?v=yfGSax8PGwo)**
 
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
+Ran critically analyses and questions a long standing Bitcoin narrative as its structural collapse worsens compared to the ...
 
-📺 Fox Business Clips
+📺 Crypto Banter
 
-👁️ 41K • 👍 600 • 💬 421 • ⏱️ 4:20 • 1d ago
-
----
-
-**[Bitcoin Investors...Get Ready for Another Bumpy Week](https://www.youtube.com/watch?v=JhfdP1l0mYk)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 517 • ⏱️ 9:36 • 20h ago
+👁️ 21K • 👍 2K • 💬 61 • ⏱️ 31:42 • 7h ago
 
 ---
 
@@ -352,17 +362,7 @@ Bitcoin #Crypto #Finance Bitcoin is trading in the shadow of Washington dysfunct
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 947 • 💬 130 • ⏱️ 1:02:59 • 7h ago
-
----
-
-**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
-
-Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 217 • ⏱️ 13:42 • 22h ago
+👁️ 20K • 👍 1K • 💬 200 • ⏱️ 1:02:59 • 8h ago
 
 ---
 
@@ -372,37 +372,37 @@ Binance Founder Changpeng Zhao (CZ) says 2026 will be a supercycle year for Bitc
 
 📺 Thinking Crypto
 
-👁️ 324 • 👍 19 • 💬 25 • ⏱️ 1:00 • 3h ago
+👁️ 867 • 👍 30 • 💬 6 • ⏱️ 1:00 • 4h ago
 
 ---
 
-**[Bitcoin vs Silver: The Ultimate Rotation Is Happening Right Now](https://www.youtube.com/watch?v=uayWSm17LQ8)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=6dXORwUjMcU)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of market experience and the author of the VisserLabs ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Anthony Pompliano
+📺 R-Ranch Adventures 
 
-👁️ 79K • 👍 3K • 💬 66 • ⏱️ 47:21 • 2d ago
-
----
-
-**[Bitcoin Gets REJECTED from Key Level (here&#39;s what it means)](https://www.youtube.com/watch?v=y6WjF4CQfQY)**
-
-Bitcoin gets rejected from a key level of resistance at the weekly 21 moving average. This is not what I wanted to see on bitcoin as ...
-
-📺 Alessio Rastani
-
-👁️ 29K • 👍 3K • 💬 641 • ⏱️ 4:51 • 23h ago
+👁️ 6K • 👍 3K • 3h ago
 
 ---
 
-**[Bitcoin... This Is All Making MUCH More Sense Now](https://www.youtube.com/watch?v=csweDp3i098)**
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
 
-The Bitcoin/Gold chart is telling iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
 
-📺 Aaron Bennett
+📺 Fox Business Clips
 
-👁️ 20K • 👍 1K • 💬 234 • ⏱️ 13:23 • 1d ago
+👁️ 42K • 👍 607 • 💬 428 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[Did Silver’s Breakout Just Confirm a Bitcoin Supercycle in 2026?!](https://www.youtube.com/watch?v=kgKokbzDSLU)**
+
+Silver, gold, and commodities are ripping as central banks lose control and currencies crack. This is what real monetary collapse ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 208 • ⏱️ 13:42 • 23h ago
 
 ---
 

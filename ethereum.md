@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-26T22:48:14.901917+00:00'
+updated: '2026-01-26T23:24:06.677928+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 26, 2026 at 22:48 UTC  
+**Last Updated:** January 26, 2026 at 23:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.32B
+**Market Cap:** $352.39B
 Rank #2
 
 **Circulating Supply:** 120,694,419 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.2%
+-40.9%
 
 **All-Time Low:** $0.43
-+671045.7%
++675246.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-7h ago
+8h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 8h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 8h ago
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 1d ago
 
 Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -234,53 +234,33 @@ Nasdaq • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
-
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
-
-📺 Thomas Kralow
-
-👁️ 13K • 👍 3K • 💬 33 • ⏱️ 10:51 • 12h ago
-
----
-
 **[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
 
 Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 210 • ⏱️ 26:46 • 19h ago
+👁️ 54K • 👍 3K • 💬 217 • ⏱️ 26:46 • 20h ago
 
 ---
 
-**[ETH Ethereum SHAKE OUT: Did You Pass The Test???](https://www.youtube.com/watch?v=budvssxiKYw)**
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
 
-📺 C-Zar Gets Crypto 
+📺 Thomas Kralow
 
-👁️ 120 • 👍 15 • 💬 5 • ⏱️ 4:37 • 4h ago
-
----
-
-**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
-
-BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 98 • 💬 32 • ⏱️ 20:33 • 2h ago
+👁️ 14K • 👍 3K • 💬 36 • ⏱️ 10:51 • 13h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=toa6DVgRoVc)**
+**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
 
-📺 More Crypto Online
+📺 CoinDesk
 
-👁️ 2K • 👍 132 • 💬 5 • ⏱️ 5:37 • 9h ago
+👁️ 2K • 👍 105 • 💬 14 • ⏱️ 23:51 • 3h ago
 
 ---
 
@@ -290,47 +270,67 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 24K • 👍 1K • 💬 228 • ⏱️ 29:47 • 2d ago
+👁️ 25K • 👍 1K • 💬 229 • ⏱️ 29:47 • 2d ago
 
 ---
 
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=toa6DVgRoVc)**
 
-Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 18K • 👍 606 • 💬 90 • ⏱️ 14:27 • 1d ago
-
----
-
-**[Why Ethereum Is About To Make A Full Recovery!](https://www.youtube.com/watch?v=HwG2mSahQiQ)**
-
-VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
-
-📺 High Altitude Investing
-
-👁️ 76 • 👍 19 • 💬 24 • ⏱️ 11:36 • 2h ago
+👁️ 2K • 👍 130 • 💬 5 • ⏱️ 5:37 • 10h ago
 
 ---
 
-**[BITCOIN: You Need to See This Chart! (massive) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=i6s40KUqU8g)**
+**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
 
-📺 BitcoinHyper
+📺 Discover Crypto
 
-👁️ 9K • 👍 578 • 💬 14 • ⏱️ 57:29 • 1d ago
+👁️ 8K • 👍 404 • 💬 102 • ⏱️ 7:22 • 2d ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=62ZnX-dwv9g)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Jamie Tree 
+📺 More Crypto Online
 
-👁️ 2K • 👍 81 • 💬 42 • ⏱️ 17:46 • 1d ago
+👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:06 • 1d ago
+
+---
+
+**[Why XRP Needs All These Catalysts to Reach 3 Digits — When BTC, ETH, SOL Didn’t](https://www.youtube.com/watch?v=FUFhAeek5vM)**
+
+Why does XRP need more catalysts than Bitcoin? BTC has 21M supply versus 100B XRP. ETH and Solana gained from smart ...
+
+📺 Jake Claver
+
+👁️ 26K • 👍 1K • 💬 71 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ECuJ8ode508)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 113 • 💬 9 • ⏱️ 3:57 • 1d ago
+
+---
+
+**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
+
+BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 2K • 💬 242 • ⏱️ 11:14 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-26T22:48:14.886472+00:00'
+updated: '2026-01-26T23:24:06.665347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 26, 2026 at 22:48 UTC  
+**Last Updated:** January 26, 2026 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 The case, filed in a California court, is the first suit linking the chatbot to murder.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 5h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The case, filed in a California court, is the first suit linking the chatbot to 
 
 James, a married father from upstate New York, has always been interested in AI. He works in the technology field and has used ChatGPT since its release for recommendations, “second guessing your doctor” and the like.
 
-🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 1h ago
+🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 6h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 5h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google brings Personal Intelligence to Search AI Mode, letting users connect Gma
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-44m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 1h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Needless to say, a good enough brain emulation would be an artificial general in
 
 A lot of AI discussion still treats intelligence as the core bottleneck. From a research perspective, that assumption is starting to break down. We already know how to produce systems that generate high-quality responses in isolation. The failure modes showing up now are different: degradation across long horizons loss of state consistency uncontrolled policy drift under autonomy weak guarantees once systems leave the sandbox These issues don’t map cleanly to better training or larger models. They map to control theory, systems engineering, and governance. Once an AI system is allowed to act in the world, intelligence alone is insufficient. You need: explicit state models constrained action spaces observability and auditability mechanisms for rollback and correction Human institutions solved this long before machine learning existed. Intelligence never ran organizations. Structure, constraint, and accountability did. From a research angle, this raises questions that feel underexplored compared to model-centric work: What are the right abstractions for long-horizon AI state? How should autonomy be bounded without collapsing usefulness? Where does formal verification realistically fit for AI systems that adapt? Is “alignment” even the right framing once systems are embedded in workflows? Curious how others here think about this shift. Are we nearing the point where the hardest AI problems are no longer ML problems at all, but systems and governance problems disguised as ML?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ A lot of AI discussion still treats intelligence as the core bottleneck. From a 
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 12h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 5h ago
 
 Dario Amodei warns that the AI prize is too glittering to restrain — even as his lab races to sell the tech he thinks might break society
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -155,13 +155,13 @@ qz.com • 1h ago
 
 When has that ever stopped us?
 
-Gizmodo • 37m ago
+Gizmodo • 1h ago
 
 ---
 
 **[China AI Hardware Firms Trump Internet Giants in Growth Outlook](https://www.bloomberg.com/news/articles/2026-01-26/china-ai-hardware-firms-trump-internet-giants-in-growth-outlook?srnd=homepage-americas)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 14h ago
 
 We're rolling out two new Axios shows to build on our popular interview series, "The Axios Show."
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 12h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 6h ago
+The Official Microsoft Blog • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Official Microsoft Blog • 6h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -235,7 +235,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 181 • 💬 269 • 8h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 181 • 💬 269 • 9h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -243,7 +243,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 171 • 💬 76 • 3h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 171 • 💬 76 • 4h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -287,7 +287,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 68K • 👍 1K • 💬 419 • ⏱️ 4:20 • 21h ago
+👁️ 75K • 👍 1K • 💬 436 • ⏱️ 4:20 • 22h ago
 
 ---
 
@@ -297,17 +297,7 @@ Turn your one day into 'Day One' with Hostinger: https://www.hostinger.com/jwth 
 
 📺 Journey With The Hintons
 
-👁️ 37K • 👍 4K • 💬 210 • ⏱️ 14:29 • 1d ago
-
----
-
-**[AI will replace developers in 6 months. Again...](https://www.youtube.com/watch?v=ZV5Fx4qMDgA)**
-
-A quick review of the AI narative at Davos 2026. Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not ...
-
-📺 Awesome
-
-👁️ 22K • 👍 2K • 💬 392 • ⏱️ 8:03 • 9h ago
+👁️ 40K • 👍 4K • 💬 227 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -317,7 +307,17 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 245 • ⏱️ 12:27 • 1d ago
+👁️ 58K • 👍 1K • 💬 248 • ⏱️ 12:27 • 1d ago
+
+---
+
+**[I Sent AI the Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
+
+Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+
+📺 I Ask AI
+
+👁️ 164K • 👍 9K • 💬 1K • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 22K • 👍 754 • 💬 169 • ⏱️ 12:43 • 1d ago
+👁️ 23K • 👍 767 • 💬 173 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -337,37 +337,7 @@ An art student at the University of Alaska Fairbanks protested the use of AI gen
 
 📺 Anora
 
-👁️ 2.7M • 👍 91K • 💬 3K • ⏱️ 0:13 • 2d ago
-
----
-
-**[GPT 5.3 Garlic Explained: What We Know About the Future of AI – Leaks, Rumors &amp; Features!](https://www.youtube.com/watch?v=PEmno49xcY0)**
-
-Link to our newsletter: https://bitbiased.ai/ Is GPT-5.3 Garlic the next big leap in AI? While OpenAI hasn't officially confirmed ...
-
-📺 BitBiasedAI
-
-👁️ 8K • 👍 161 • 💬 21 • ⏱️ 20:33 • 1d ago
-
----
-
-**[AI Meltdown is Hilarious](https://www.youtube.com/watch?v=_O5KfdA9XiU)**
-
-AI slop has once again returned. More AI nonsense from Youtube, Tiktok and everything in between. Pokemon Channel ...
-
-📺 Dolan Darkest
-
-👁️ 216K • 👍 11K • 💬 2K • ⏱️ 2:28 • 1d ago
-
----
-
-**[Elon Musk: &quot;Grok AI Was Asked About Jesus – Its Reply Changed Everything&quot;](https://www.youtube.com/watch?v=794IQ3GxYmg)**
-
-Elon Musk: "Grok AI Was Asked About Jesus – Its Reply Changed Everything" What happens when an artificial intelligence is ...
-
-📺 The Silent Archive
-
-👁️ 7K • 👍 127 • 💬 20 • ⏱️ 28:10 • 1d ago
+👁️ 2.7M • 👍 92K • 💬 3K • ⏱️ 0:13 • 2d ago
 
 ---
 
@@ -377,7 +347,37 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 39K • 👍 2K • 💬 148 • ⏱️ 21:40 • 1d ago
+👁️ 41K • 👍 2K • 💬 153 • ⏱️ 21:40 • 1d ago
+
+---
+
+**[AI + Design Systems in 2026: The Workflow I Actually Use](https://www.youtube.com/watch?v=XfezMs8B-O8)**
+
+In this video, I walk through how I use AI to support a real design system in 2026. This is not about AI replacing design work.
+
+📺 UI Collective
+
+👁️ 1K • 👍 120 • 💬 9 • ⏱️ 31:50 • 9h ago
+
+---
+
+**[I Remade a $1M Apple Ad With AI](https://www.youtube.com/watch?v=XxHTB21uVpQ)**
+
+Can I do it in one day with only $10? Try ElevenLabs today: ...
+
+📺 AI Samson
+
+👁️ 9K • 👍 399 • 💬 57 • ⏱️ 14:50 • 2d ago
+
+---
+
+**[Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](https://www.youtube.com/watch?v=BYPlfLQm0CQ)**
+
+HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo ...
+
+📺 AI Search
+
+👁️ 63K • 👍 3K • 💬 315 • ⏱️ 41:25 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 34,870 • ❤️ 1,080 • 3d ago
+⬇️ 34,870 • ❤️ 1,100 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 449,671 • ❤️ 1,229 • 6d ago
+⬇️ 449,671 • ❤️ 1,230 • 6d ago
 
 ---
 
@@ -417,7 +417,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 46,933 • ❤️ 564 • 5d ago
+⬇️ 46,933 • ❤️ 569 • 5d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 91,825 • ❤️ 555 • 3d ago
+⬇️ 91,825 • ❤️ 568 • 3d ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 228,183 • ❤️ 337 • 2d ago
+⬇️ 228,183 • ❤️ 338 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 15,329 • ❤️ 336 • 5d ago
+⬇️ 15,329 • ❤️ 341 • 5d ago
 
 ---
 
@@ -465,7 +465,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 260 • 17h ago
+⬇️ 749 • ❤️ 261 • 18h ago
 
 ---
 
@@ -477,7 +477,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 243 • 16h ago
+⬇️ 5,159 • ❤️ 244 • 16h ago
 
 ---
 
@@ -489,7 +489,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,026 • ❤️ 231 • 4d ago
+⬇️ 3,026 • ❤️ 234 • 4d ago
 
 ---
 
@@ -499,7 +499,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 Qwen3-TTS-12Hz-1.7B-Base is a multilingual text-to-speech model supporting 10 languages, capable of 3-second rapid voice cloning and low-latency streaming generation for real-time applications.
 
-⬇️ 94,396 • ❤️ 208 • 3d ago
+⬇️ 94,396 • ❤️ 211 • 3d ago
 
 ---
 
@@ -515,7 +515,7 @@ Qwen3-TTS-12Hz-1.7B-Base is a multilingual text-to-speech model supporting 10 la
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 37 • 💬 1 • ⭐ 4,934 • 4d ago
+▲ 38 • 💬 1 • ⭐ 4,934 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -527,7 +527,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 1 • 💬 0 • ⭐ 4,360 • 10mo ago
+▲ 1 • 💬 0 • ⭐ 4,380 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -598,18 +598,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 126 • 💬 6 • ⭐ 11,723 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
 **[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)**
 
 *Rouard Simon, Orsini Manu, Roebel Axel et al. (5 authors)*
@@ -633,6 +621,18 @@ https://continuous-audio-language-models.github.io
 ▲ 2 • 💬 0 • ⭐ 2,585 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 127 • 💬 6 • ⭐ 11,733 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.7k • 🔱 591 • 2h ago
+⭐ 10.8k • 🔱 593 • 2m ago
 
 ---
 
@@ -670,7 +670,7 @@ Browser automation CLI for AI agents
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 9.7k • 🔱 1.3k • 17h ago
+⭐ 9.7k • 🔱 1.3k • 18h ago
 
 ---
 
@@ -690,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 935 • 3d ago
+⭐ 7.9k • 🔱 938 • 3d ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.0k • 9h ago
+⭐ 5.7k • 🔱 6.0k • 10h ago
 
 ---
 
@@ -730,7 +730,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.8k • 🔱 866 • 3h ago
+⭐ 3.8k • 🔱 875 • 4h ago
 
 ---
 
@@ -738,7 +738,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.2k • 🔱 259 • 3d ago
+⭐ 3.2k • 🔱 261 • 3d ago
 
 ---
 
@@ -748,7 +748,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 347 • 3d ago
+⭐ 2.5k • 🔱 348 • 3d ago
 
 ---
 
