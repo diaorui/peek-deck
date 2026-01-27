@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T07:29:05.922793+00:00'
+updated: '2026-01-27T07:50:56.725392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 07:29 UTC  
+**Last Updated:** January 27, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -2.1%  
-**30d:** -0.4%  
+**24h:** +0.6%  
+**7d:** -2.0%  
+**30d:** -0.3%  
 **90d:** -23.0%  
 **1y:** -4.7%  
 
@@ -88,7 +88,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 18h ago
 
 ---
 
@@ -128,7 +128,7 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-21h ago
+22h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Motley Fool • 9h ago
 
 ---
 
-**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en-TR/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
+**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en-ZA/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
 Binance • 2h ago
 
@@ -176,7 +176,7 @@ Binance • 2h ago
 
 Ethereum sees ETF inflows despite heavy institutional outflows, as ETH defends support and traders assess recovery chances near $3,000.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -206,7 +206,7 @@ Decrypt • 15h ago
 
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -218,11 +218,11 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Smart Contracts Reshape Global Trade](https://www.wausaudailyherald.com/story/special/contributor-content/2026/01/26/ethereum-smart-contracts-reshape-global-trade/88363400007/)**
+**[Ethereum Whales Fell Into a $4 Billion Bull Trap: What’s Next for ETH Price?](https://beincrypto.com/ethereum-price-analysis-bull-trap/)**
 
-Companies that use Ethereum to handle international payments are also concerned about keeping an eye on the ETH to USD exchange rate.
+Ethereum price broke out, momentum looked real, and buyers stepped in. Charts now show why that move failed and what risk still lies ahead.
 
-wausaudailyherald.com • 14h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 107 • 💬 7 • ⏱️ 3:42 • 10h ago
+👁️ 2K • 👍 107 • 💬 7 • ⏱️ 3:42 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 337 • 👍 38 • 💬 2 • ⏱️ 4:04 • 1h ago
+👁️ 337 • 👍 38 • 💬 2 • ⏱️ 4:04 • 2h ago
 
 ---
 

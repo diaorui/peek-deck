@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T07:29:05.908471+00:00'
+updated: '2026-01-27T07:50:56.710284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 07:29 UTC  
+**Last Updated:** January 27, 2026 at 07:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 15h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 3h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 4h ago
 
 ---
 
@@ -69,19 +69,19 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 ---
 
+**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
+
+Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 10h ago
+
+---
+
 **[BBC reports that Chinese open models continue to steadily muscle out closed offering from US companies](https://www.reddit.com/r/artificial/comments/1qmm0vd/bbc_reports_that_chinese_open_models_continue_to/)**
 
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 1d ago
-
----
-
-**[How do you get away with tasks which you feel are boring, and 'beneath you'](https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/)**
-
-I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
-
-15h ago
 
 ---
 
@@ -93,11 +93,11 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 ---
 
-**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
+**[How do you get away with tasks which you feel are boring, and 'beneath you'](https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/)**
 
-Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
+I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 10h ago
+15h ago
 
 ---
 
@@ -127,36 +127,6 @@ The New York Times • 21h ago
 
 ---
 
-**[AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions](https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html)**
-
-The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
-
-CNBC • 12h ago
-
----
-
-**[AI supercomputer gets £36m upgrade from government](https://www.bbc.com/news/articles/c79rjg3yqn3o)**
-
-The upgrade to Cambridge University's Dawn computer will help scientists research complex problems.
-
-BBC • 1h ago
-
----
-
-**[Big Tech’s borrowing spree raises fears of AI risks in US bond market](https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78)**
-
-So-called hyperscalers set to dominate US investment-grade corporate credit
-
-Financial Times • 2h ago
-
----
-
-**[Andreessen Horowitz Invests Early in Swedish AI Startup Dentio](https://www.bloomberg.com/news/articles/2026-01-27/andreessen-horowitz-invests-early-in-swedish-ai-startup-dentio)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
@@ -173,25 +143,57 @@ CNBC • 15h ago
 
 ---
 
-**[Microsoft rolls out next generation of its AI chips, takes aim at Nvidia's software](https://www.reuters.com/business/microsoft-rolls-out-next-generation-its-ai-chips-takes-aim-nvidias-software-2026-01-26/)**
+**[The AI Application Boom: Why Microsoft and Nvidia Will Win Big This Year](https://www.fool.com/investing/2026/01/26/the-ai-application-boom-why-microsoft-and-nvidia-w/)**
 
-Reuters • 15h ago
+The two tech giants remain the most balanced plays in the booming AI market.
 
----
-
-**[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
-
-"Humanity is about to be handed almost unimaginable power."
-
-Axios • 14h ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Angry gamers are forcing studios to scrap or rethink new releases](https://www.washingtonpost.com/technology/2026/01/26/gamer-protests-ai-slop-backlash/)**
+**[Big Tech’s AI data center push is spawning a new heat economy](https://www.cnbc.com/2026/01/27/data-centers-ai-district-heating-aws-amazon-ireland.html)**
 
-Gamers suspicious of AI-generated content have forced developers to cancel titles and promise not to use the technology.
+AI’s energy problem may also be its solution, as cities are increasingly exploring opportunities to repurpose excess heat from data centers.
 
-The Washington Post • 13h ago
+CNBC • 1h ago
+
+---
+
+**[Developer confirms plans for AI data center in Weld County](https://www.9news.com/article/news/local/colorado-news/ai-data-center-plans-weld-county/73-0fa40d46-73a7-412a-93f3-5272c02b3b47)**
+
+Global AI is planning a large data center on a former Kodak site in Weld County, with annexation into Greeley or Windsor still undecided.
+
+9news.com • 8h ago
+
+---
+
+**[Georgia leads push to ban datacenters used to power America’s AI boom](https://www.theguardian.com/technology/2026/jan/26/georgia-datacenters-ai-ban)**
+
+Southern state becoming ground zero in fight against rapid growth of facilities using huge amounts of energy and water
+
+The Guardian • 18h ago
+
+---
+
+**[AI supercomputer gets £36m upgrade from government](https://www.bbc.com/news/articles/c79rjg3yqn3o)**
+
+The upgrade to Cambridge University's Dawn computer will help scientists research complex problems.
+
+BBC • 1h ago
+
+---
+
+**[DeepSeek Sent Stocks Plunging Once. Chinese AI Is Still a Threat.](https://www.barrons.com/articles/deepseek-ai-gemini-chatgpt-stocks-ccde892c?gaa_at=eafs&gaa_n=AWEtsqcHo7Q_udN0zrXaNf2Bw9L2XPRJxCYoI5zuGx5YYrlOMwYXp-GBDW6P&gaa_ts=697871cc&gaa_sig=tFMi_pQXKImCmdlc8MBpv32NuTv1oxVP3rprbgLkgvSPir3oRWv2OY1UM-f-Mwtr5eLMHr6YMdZnlfW0fTFxKg%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[‘Humanity needs to wake up’ to dangers of AI, says Anthropic chief](https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2)**
+
+Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful AI in years to come
+
+Financial Times • 9h ago
 
 ---
 
@@ -201,7 +203,7 @@ The Washington Post • 13h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 635 • 💬 507 • 15h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 682 • 💬 534 • 15h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -213,11 +215,19 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 ---
 
+**[Apple introduces new AirTag with longer range and improved findability](https://news.ycombinator.com/item?id=46765819)**
+
+Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
+
+⬆️ 393 • 💬 494 • 17h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+
+---
+
 **[Google AI Overviews cite YouTube more than any medical site for health queries](https://news.ycombinator.com/item?id=46766031)**
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 379 • 💬 200 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 382 • 💬 200 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -225,15 +235,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 367 • 💬 235 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
-
----
-
-**[Apple introduces new AirTag with longer range and improved findability](https://news.ycombinator.com/item?id=46765819)**
-
-Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
-
-⬆️ 365 • 💬 467 • 17h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 369 • 💬 236 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -241,7 +243,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 222 • 💬 155 • 15h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 239 • 💬 162 • 16h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -249,13 +251,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 206 • 💬 125 • 12h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 211 • 💬 125 • 12h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 125 • 💬 77 • 13h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 141 • 💬 80 • 13h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -269,7 +271,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 96 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 97 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -363,7 +365,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 105K • 👍 1K • 💬 171 • ⏱️ 21:00 • 16h ago
+👁️ 105K • 👍 1K • 💬 171 • ⏱️ 21:00 • 17h ago
 
 ---
 
@@ -687,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 27m ago
+⭐ 6.3k • 🔱 1.1k • 49m ago
 
 ---
 
@@ -707,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 520 • 4h ago
+⭐ 4.9k • 🔱 520 • 5h ago
 
 ---
 

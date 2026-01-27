@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T07:29:05.925987+00:00'
+updated: '2026-01-27T07:50:56.728665+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 07:29 UTC  
+**Last Updated:** January 27, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Autonomous Indoor Drone Flight Over Waypoints](https://www.reddit.com/r/robotics/comments/1qo68jo/autonomous_indoor_drone_flight_over_waypoints/)**
+
+Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
+
+1h ago
+
+---
+
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-16h ago
+17h ago
+
+---
+
+**[How do you upgrade robot fleets without breaking things?](https://www.reddit.com/r/robotics/comments/1qo6dnb/how_do_you_upgrade_robot_fleets_without_breaking/)**
+
+When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
+
+1h ago
 
 ---
 
@@ -46,11 +62,11 @@ Robotics research and industry news
 
 ---
 
-**[Autonomous Indoor Drone Flight Over Waypoints](https://www.reddit.com/r/robotics/comments/1qo68jo/autonomous_indoor_drone_flight_over_waypoints/)**
+**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
 
-Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
+In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-57m ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 9h ago
 
 ---
 
@@ -59,14 +75,6 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
 🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 23h ago
-
----
-
-**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
-
-In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
-
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 9h ago
 
 ---
 
@@ -94,13 +102,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-10h ago
-
----
-
-**[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
-
-14h ago
+11h ago
 
 ---
 
@@ -140,6 +142,28 @@ thespoon.tech • 12h ago
 
 ---
 
+**[Shasta High School class gives students hands-on experience in the world of robotics, AI](https://krcrtv.com/news/local/shasta-high-school-class-gives-students-hands-on-experience-in-the-world-of-robotics-ai)**
+
+Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
+
+krcrtv.com • 4h ago
+
+---
+
+**[Ukrainians urges Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
+
+A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
+
+jpost.com • 50m ago
+
+---
+
+**[GigaBite robotics student team seeks community donations](https://southtahoenow.com/01/26/2026/gigabite-robotics-student-team-seeks-community-donations)**
+
+southtahoenow.com • 12h ago
+
+---
+
 **[Micropolis Robotics Unveils Autonomous Logistics Platform at UMEX 2026 in Abu Dhabi](https://markets.businessinsider.com/news/stocks/micropolis-robotics-unveils-autonomous-logistics-platform-at-umex-2026-in-abu-dhabi-1035745404)**
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
@@ -148,43 +172,19 @@ markets.businessinsider.com • 17h ago
 
 ---
 
-**[Shasta High School class gives students hands-on experience in the world of robotics, AI](https://krcrtv.com/news/local/shasta-high-school-class-gives-students-hands-on-experience-in-the-world-of-robotics-ai)**
-
-Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
-
-krcrtv.com • 3h ago
-
----
-
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
-
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
-
-Financial Times • 2d ago
-
----
-
-**[Robots Are Taking Over The Human Labor Industry, Starting With This Hyundai Facility](https://www.bgr.com/2080363/robots-taking-over-human-labor-industry-hyundai/)**
-
-The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
-
-bgr.com • 19h ago
-
----
-
-**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
-
-Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
-
-Live Science • 2d ago
-
----
-
 **[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
 Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Local robotics team inspires young minds with LEGO demonstration](https://www.news8000.com/news/local-news/sparta/local-robotics-team-inspires-young-minds-with-lego-demonstration/article_010e07fd-8c6c-4f86-bc01-a91d2fc723d6.html)**
+
+The Brief
+
+news8000.com • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 7K • 👍 406 • 💬 12 • ⏱️ 0:55 • 19h ago
+👁️ 7K • 👍 406 • 💬 12 • ⏱️ 0:55 • 20h ago
 
 ---
 

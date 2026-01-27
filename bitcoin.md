@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T07:29:05.916815+00:00'
+updated: '2026-01-27T07:50:56.718727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 07:29 UTC  
+**Last Updated:** January 27, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,960.41
+### $88,508.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.5%  
-**30d:** +1.3%  
-**90d:** -18.5%  
-**1y:** -12.9%  
+**24h:** +0.5%  
+**7d:** -1.4%  
+**30d:** +1.4%  
+**90d:** -18.4%  
+**1y:** -12.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,19 +117,19 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 ---
 
-**[Hal Finney's last reddit post was tipping someone a whole Bitcoin. What's the most BTC you've ever seen tipped at once on this site?](https://www.reddit.com/r/Bitcoin/comments/1qo1l60/hal_finneys_last_reddit_post_was_tipping_someone/)**
-
-I was sleuthing around a post two days ago and found Hal Finney's reddit account. His last comment was 13 years ago. Just poking around the old threads he was commenting on and looking at the accounts of people he was talking with is something else. I'm guessing most of the ogs are already aware of it. Can't be sure. Just thought I'd share. "One piece of advice. Research has shown that happiness obtained by buying things is fleeting, because you get used to them. Better to invest in experiences and memories, because they'll be with you always." - Hal Finney
-
-4h ago
-
----
-
 **[Bitcoin for a newbie](https://www.reddit.com/r/Bitcoin/comments/1qo1q6c/bitcoin_for_a_newbie/)**
 
 Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
 
 4h ago
+
+---
+
+**[Hal Finney's last reddit post was tipping someone a whole Bitcoin. What's the most BTC you've ever seen tipped at once on this site?](https://www.reddit.com/r/Bitcoin/comments/1qo1l60/hal_finneys_last_reddit_post_was_tipping_someone/)**
+
+I was sleuthing around a post two days ago and found Hal Finney's reddit account. His last comment was 13 years ago. Just poking around the old threads he was commenting on and looking at the accounts of people he was talking with is something else. I'm guessing most of the ogs are already aware of it. Can't be sure. Just thought I'd share. "One piece of advice. Research has shown that happiness obtained by buying things is fleeting, because you get used to them. Better to invest in experiences and memories, because they'll be with you always." - Hal Finney
+
+5h ago
 
 ---
 
@@ -151,31 +151,39 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 ## Google News: "bitcoin"
 
+**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+
+Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
+
+CoinDesk • 2h ago
+
+---
+
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
 The Block • 9h ago
 
 ---
 
-**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+**[Bitcoin Hashrate Drops to Seven-Month Low as US Winter Storm Disrupts Mining](https://finance.yahoo.com/news/bitcoin-hashrate-drops-seven-month-063048296.html)**
 
-Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin News: 5 Signals That BTC Bottoming Phase May Be Ending](https://finance.yahoo.com/news/bitcoin-news-5-signals-btc-004236720.html)**
-
-Bitcoin news shows signs that its long bottoming phase is fading after months of sideways action. Bitcoin USD hovered near recent highs this week as volatility stayed muted, a pattern traders often see before a larger move. The setup matters because long consolidations often decide whether the next chapter brings ...
+Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
+**[If You Invested $1,000 in Apple vs. Bitcoin in 2015, Here’s Which One Made You Richer](https://finance.yahoo.com/news/invested-1-000-apple-vs-070005240.html)**
 
-Bloomberg.com • 9h ago
+Here's how a $1,000 investment in Apple stock in 2015 compares to Bitcoin and which one would have made you richer.
+
+Yahoo Finance • 50m ago
+
+---
+
+**[Bitcoin Starts Week on Shaky Ground as Uncertainty Lingers](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+
+Bloomberg.com • 20h ago
 
 ---
 
@@ -215,15 +223,7 @@ CoinDesk • 15h ago
 
 “While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
 
-Sherwood News • 15h ago
-
----
-
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
-
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
-
-The Motley Fool • 1d ago
+Sherwood News • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 2 • 💬 2 • 17h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 18h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 258 • 💬 15 • ⏱️ 12:54 • 14h ago
+👁️ 4K • 👍 258 • 💬 15 • ⏱️ 12:54 • 15h ago
 
 ---
 
