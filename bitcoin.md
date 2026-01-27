@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T06:37:47.761055+00:00'
+updated: '2026-01-27T07:29:05.916815+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 06:37 UTC  
+**Last Updated:** January 27, 2026 at 07:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.30B
+**Market Cap:** $1765.72B
 Rank #1
 
 **Circulating Supply:** 19,981,015 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.9%
 
 **All-Time Low:** $67.81
-+130534.1%
++130203.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-16h ago
+17h ago
 
 ---
 
 **[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-12h ago
+13h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -113,7 +113,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 I was sleuthing around a post two days ago and found Hal Finney's reddit account. His last comment was 13 years ago. Just poking around the old threads he was commenting on and looking at the accounts of people he was talking with is something else. I'm guessing most of the ogs are already aware of it. Can't be sure. Just thought I'd share. "One piece of advice. Research has shown that happiness obtained by buying things is fleeting, because you get used to them. Better to invest in experiences and memories, because they'll be with you always." - Hal Finney
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I was sleuthing around a post two days ago and found Hal Finney's reddit account
 
 Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hello I've been wanting to get into crypto currency and I don't really know wher
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +153,7 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 8h ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 59m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 59m ago
 
 Bitcoin news shows signs that its long bottoming phase is fading after months of sideways action. Bitcoin USD hovered near recent highs this week as volatility stayed muted, a pattern traders often see before a larger move. The setup matters because long consolidations often decide whether the next chapter brings ...
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 8h ago
 
 Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bitcoin Magazine • 9h ago
 
 BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ TradingView • 2h ago
 
 BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 9h ago
 
 The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -235,7 +235,7 @@ The Motley Fool • 1d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 18h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 19h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -310,23 +310,23 @@ Detects when your fingers are near your mouth and reminds you to stop. Built wit
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
-
-In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
-
-📺 Anthony Pompliano
-
-👁️ 20K • 👍 1K • 💬 55 • ⏱️ 17:45 • 8h ago
-
----
-
 **[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 1K • 💬 185 • ⏱️ 8:05 • 6h ago
+👁️ 20K • 👍 1K • 💬 197 • ⏱️ 8:05 • 7h ago
+
+---
+
+**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
+
+In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
+
+📺 Anthony Pompliano
+
+👁️ 26K • 👍 1K • 💬 55 • ⏱️ 17:45 • 9h ago
 
 ---
 
@@ -336,7 +336,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 191 • ⏱️ 18:13 • 7h ago
+👁️ 5K • 👍 239 • 💬 2 • ⏱️ 18:13 • 8h ago
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 248 • 💬 9 • ⏱️ 12:54 • 13h ago
+👁️ 4K • 👍 258 • 💬 15 • ⏱️ 12:54 • 14h ago
 
 ---
 
@@ -356,27 +356,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 1K • 💬 40 • ⏱️ 3:19 • 8h ago
-
----
-
-**[Bitcoin WILL Be Hit The HARDEST | Cathie Wood&#39;s Warning](https://www.youtube.com/watch?v=mxDOwT-HInI)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 15K • 👍 389 • 💬 551 • ⏱️ 15:36 • 1d ago
-
----
-
-**[The Ugly Truth About Bitcoin.](https://www.youtube.com/watch?v=yfGSax8PGwo)**
-
-Ran critically analyses and questions a long standing Bitcoin narrative as its structural collapse worsens compared to the ...
-
-📺 Crypto Banter
-
-👁️ 26K • 👍 2K • 💬 78 • ⏱️ 31:42 • 15h ago
+👁️ 23K • 👍 1K • 💬 46 • ⏱️ 3:19 • 9h ago
 
 ---
 
@@ -386,7 +366,37 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 94 • ⏱️ 18:47 • 6h ago
+👁️ 17K • 👍 2K • 💬 106 • ⏱️ 18:47 • 7h ago
+
+---
+
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
+
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
+
+📺 Fox Business Clips
+
+👁️ 44K • 👍 630 • 💬 444 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 568 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[Smart Money Is Loading Up On Bitcoin, Gold and Silver](https://www.youtube.com/watch?v=CUMkGGPTWp8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 15h ago
 
 ---
 
@@ -396,17 +406,7 @@ Gold is surging to historic highs, and many are using it to dunk on Bitcoin. Tha
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 222 • 💬 53 • ⏱️ 14:20 • 12h ago
-
----
-
-**[🚨BITCOIN SUPERCYCLE IN 2026! | BINANCE FOUNDER CZ](https://www.youtube.com/watch?v=jQDqXHR_KYs)**
-
-Binance Founder Changpeng Zhao (CZ) says 2026 will be a supercycle year for Bitcoin and crypto. Get the (Re)Thinking Crypto ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 43 • 💬 9 • ⏱️ 1:00 • 11h ago
+👁️ 5K • 👍 232 • 💬 55 • ⏱️ 14:20 • 13h ago
 
 ---
 

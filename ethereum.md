@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T06:37:47.767141+00:00'
+updated: '2026-01-27T07:29:05.922793+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 06:37 UTC  
+**Last Updated:** January 27, 2026 at 07:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.79B
+**Market Cap:** $353.58B
 Rank #2
 
 **Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.8%
 
 **All-Time Low:** $0.43
-+678727.4%
++676475.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-36m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,13 +162,13 @@ CoinDesk • 10h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en-TR/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Binance • 1h ago
 
 Ethereum sees ETF inflows despite heavy institutional outflows, as ETH defends support and traders assess recovery chances near $3,000.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 14h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -222,7 +222,7 @@ Nasdaq • 2d ago
 
 Companies that use Ethereum to handle international payments are also concerned about keeping an eye on the ETH to USD exchange rate.
 
-wausaudailyherald.com • 13h ago
+wausaudailyherald.com • 14h ago
 
 ---
 
@@ -230,33 +230,23 @@ wausaudailyherald.com • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
-
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
-
-📺 Thomas Kralow
-
-👁️ 15K • 👍 3K • 💬 42 • ⏱️ 10:51 • 20h ago
-
----
-
 **[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
 
 SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
 
 📺 CoinDesk
 
-👁️ 7K • 👍 292 • 💬 44 • ⏱️ 23:51 • 10h ago
+👁️ 9K • 👍 341 • 💬 61 • ⏱️ 23:51 • 11h ago
 
 ---
 
-**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
 
-BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 7K • 👍 264 • 💬 66 • ⏱️ 20:33 • 10h ago
+👁️ 15K • 👍 3K • 💬 43 • ⏱️ 10:51 • 21h ago
 
 ---
 
@@ -266,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 101 • 💬 7 • ⏱️ 3:42 • 10h ago
+👁️ 2K • 👍 107 • 💬 7 • ⏱️ 3:42 • 10h ago
 
 ---
 
@@ -276,7 +266,47 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 58K • 👍 3K • 💬 221 • ⏱️ 26:46 • 1d ago
+👁️ 59K • 👍 3K • 💬 221 • ⏱️ 26:46 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 337 • 👍 38 • 💬 2 • ⏱️ 4:04 • 1h ago
+
+---
+
+**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
+
+BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 274 • 💬 81 • ⏱️ 20:33 • 11h ago
+
+---
+
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
+
+Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 634 • 💬 92 • ⏱️ 14:27 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 85 • 💬 40 • ⏱️ 17:46 • 1d ago
 
 ---
 
@@ -290,43 +320,13 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 ---
 
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
-
-Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 622 • 💬 91 • ⏱️ 14:27 • 1d ago
-
----
-
-**[ETH Ethereum SHAKE OUT: Did You Pass The Test???](https://www.youtube.com/watch?v=budvssxiKYw)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 309 • 👍 25 • 💬 14 • ⏱️ 4:37 • 12h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 83 • 💬 40 • ⏱️ 17:46 • 1d ago
-
----
-
 **[Will Quantum Computing KILL CRYPTO? (What About Ethereum and PulseChain)](https://www.youtube.com/watch?v=D351fZZESM8)**
 
 how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
 
 📺 Crypto Coffee
 
-👁️ 274 • 👍 42 • 💬 32 • ⏱️ 11:06 • 6h ago
+👁️ 409 • 👍 53 • 💬 30 • ⏱️ 11:06 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T06:37:47.770472+00:00'
+updated: '2026-01-27T07:29:05.925987+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 06:37 UTC  
+**Last Updated:** January 27, 2026 at 07:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-6m ago
+57m ago
 
 ---
 
@@ -58,7 +58,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 22h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 23h ago
 
 ---
 
@@ -66,13 +66,13 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 8h ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 9h ago
 
 ---
 
 **[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -88,19 +88,19 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 18h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 19h ago
 
 ---
 
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-9h ago
+10h ago
 
 ---
 
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 12h ago
+The Robot Report • 13h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Robot Report • 12h ago
 
 Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
 
-Global Times • 16h ago
+Global Times • 17h ago
 
 ---
 
@@ -128,7 +128,7 @@ Global Times • 16h ago
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-bgr.com • 16h ago
+bgr.com • 17h ago
 
 ---
 
@@ -136,7 +136,7 @@ bgr.com • 16h ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 11h ago
+thespoon.tech • 12h ago
 
 ---
 
@@ -144,7 +144,7 @@ thespoon.tech • 11h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Financial Times • 2d ago
 
 The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
-bgr.com • 18h ago
+bgr.com • 19h ago
 
 ---
 
@@ -192,13 +192,23 @@ Interesting Engineering • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Japan&#39;s Latest Humanoid: Cinnamon 1 #humanoidrobot #robotics #airobot #japantechnology](https://www.youtube.com/watch?v=thYGwjf8Ya0)**
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
 
-The Japanese startup Donut Robotics just revealed its new bipedal humanoid robot that's designed specifically for noisy work ...
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
 
-📺 Kalil 4.0
+📺 AITECHGADGETS
 
-👁️ 2K • 👍 81 • 💬 4 • ⏱️ 0:32 • 5d ago
+👁️ 146K • 💬 88 • ⏱️ 0:18 • 1d ago
+
+---
+
+**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+
+The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+
+📺 EcoZora
+
+👁️ 252K • 👍 1K • 💬 133 • ⏱️ 0:07 • 22h ago
 
 ---
 
@@ -208,7 +218,37 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 110K • 👍 3K • 💬 167 • ⏱️ 17:39 • 3d ago
+👁️ 112K • 👍 3K • 💬 168 • ⏱️ 17:39 • 3d ago
+
+---
+
+**[🤖🌍 A Robot Breaks Protocol… and One Detective Realizes Humanity Isn’t in Control 😱⚙️](https://www.youtube.com/watch?v=gN2m27C5VA0)**
+
+In a dying, dust-choked future ☀️🌪️, humans survive behind factories and domes 🏚️ while “Pilgrim” robots do the dirty ...
+
+📺 ClipRift
+
+👁️ 23K • 👍 480 • 💬 4 • ⏱️ 0:48 • 1d ago
+
+---
+
+**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
+
+Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
+
+📺 CapyEscapes
+
+👁️ 7K • 👍 406 • 💬 12 • ⏱️ 0:55 • 19h ago
+
+---
+
+**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
+
+Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
+
+📺 Consumer Research Studios
+
+👁️ 825 • 👍 505 • 💬 1 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -222,13 +262,13 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
 
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
 
-📺 EcoZora
+📺 Future Robot Lab
 
-👁️ 220K • 👍 1K • 💬 128 • ⏱️ 0:07 • 21h ago
+👁️ 2K • 👍 41 • 💬 8 • ⏱️ 9:38 • 18h ago
 
 ---
 
@@ -238,47 +278,7 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 81 • 💬 70 • ⏱️ 2:47 • 4d ago
-
----
-
-**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
-
-Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
-
-📺 CapyEscapes
-
-👁️ 7K • 👍 395 • 💬 10 • ⏱️ 0:55 • 19h ago
-
----
-
-**[FULL INTERVIEW: Elon Musk on AI, Robots, Tesla, China, Trump and Mars With Larry Fink at WEF | AI1G](https://www.youtube.com/watch?v=hXb1k59w3M8)**
-
-In a wide-ranging conversation at the World Economic Forum, tech billionaire Elon Musk and BlackRock CEO Larry Fink ...
-
-📺 DRM News
-
-👁️ 573K • 👍 10K • 💬 3K • ⏱️ 32:01 • 4d ago
-
----
-
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
-
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
-
-📺 Fox News
-
-👁️ 49K • 👍 1K • 💬 245 • ⏱️ 0:49 • 4d ago
-
----
-
-**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
-
-We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
-
-📺 Future Robot Lab
-
-👁️ 1K • 👍 30 • 💬 7 • ⏱️ 9:38 • 17h ago
+👁️ 9K • 👍 82 • 💬 71 • ⏱️ 2:47 • 4d ago
 
 ---
 
@@ -288,7 +288,7 @@ Check out ECOVACS' newest products for 2026: https://www.ecovacs.com/global/camp
 
 📺 Freshly Charged
 
-👁️ 751 • 👍 27 • 💬 13 • ⏱️ 7:36 • 10h ago
+👁️ 851 • 👍 30 • 💬 14 • ⏱️ 7:36 • 11h ago
 
 ---
 
