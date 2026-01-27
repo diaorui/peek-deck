@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T03:50:46.495172+00:00'
+updated: '2026-01-27T04:49:11.914729+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 03:50 UTC  
+**Last Updated:** January 27, 2026 at 04:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.57B
+**Market Cap:** $354.79B
 Rank #2
 
-**Circulating Supply:** 120,694,419 ETH
+**Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.6%
 
 **All-Time Low:** $0.43
-+676112.9%
++678727.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-17m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 15h ago
 
 ---
 
@@ -120,13 +120,13 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-18h ago
+19h ago
 
 ---
 
 **[Ledger Wallet - Ethereum Kiln Staking And/Or Other Ethereum Staking Service Recommendations](https://www.reddit.com/r/ethereum/comments/1qn6e9w/ledger_wallet_ethereum_kiln_staking_andor_other/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 7h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 5h ago
 
 Fidelity Wise Origin Bitcoin Fund and iShares Ethereum Trust ETF charge the same fee and offer single-asset crypto exposure, but they are built to benefit from different market dynamics. This comparison explains why that matters for investors focused on long-term upside.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ Decrypt • 1d ago
 
 Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 9h ago
 
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Block • 13h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -234,23 +234,23 @@ Decrypt • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
-
-SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
-
-📺 CoinDesk
-
-👁️ 5K • 👍 206 • 💬 50 • ⏱️ 23:51 • 7h ago
-
----
-
 **[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
 
 These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 3K • 💬 44 • ⏱️ 10:51 • 17h ago
+👁️ 15K • 👍 3K • 💬 42 • ⏱️ 10:51 • 18h ago
+
+---
+
+**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
+
+SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
+
+📺 CoinDesk
+
+👁️ 7K • 👍 292 • 💬 44 • ⏱️ 23:51 • 8h ago
 
 ---
 
@@ -260,27 +260,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 233 • 💬 75 • ⏱️ 20:33 • 7h ago
-
----
-
-**[ETH Ethereum SHAKE OUT: Did You Pass The Test???](https://www.youtube.com/watch?v=budvssxiKYw)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 254 • 👍 24 • 💬 15 • ⏱️ 4:37 • 9h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
-
-Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
-
-📺 Benjamin Cowen
-
-👁️ 56K • 👍 3K • 💬 219 • ⏱️ 26:46 • 1d ago
+👁️ 7K • 👍 264 • 💬 66 • ⏱️ 20:33 • 8h ago
 
 ---
 
@@ -290,7 +270,47 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 96 • 💬 8 • ⏱️ 3:42 • 7h ago
+👁️ 1K • 👍 101 • 💬 7 • ⏱️ 3:42 • 8h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+
+Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
+
+📺 Benjamin Cowen
+
+👁️ 58K • 👍 3K • 💬 221 • ⏱️ 26:46 • 1d ago
+
+---
+
+**[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 26K • 👍 1K • 💬 229 • ⏱️ 29:47 • 2d ago
+
+---
+
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
+
+Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 622 • 💬 91 • ⏱️ 14:27 • 1d ago
+
+---
+
+**[ETH Ethereum SHAKE OUT: Did You Pass The Test???](https://www.youtube.com/watch?v=budvssxiKYw)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 309 • 👍 25 • 💬 14 • ⏱️ 4:37 • 10h ago
 
 ---
 
@@ -300,17 +320,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 81 • 💬 40 • ⏱️ 17:46 • 1d ago
-
----
-
-**[ETHEREUM TRAP (Banks Caught MANIPULATING)](https://www.youtube.com/watch?v=s-MKAKR4Gc8)**
-
-Nick Valdez noticed that JPMorgan couldn't be further apart when it comes to actions versus words. This is a clear-cut example of ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 404 • 💬 102 • ⏱️ 7:22 • 2d ago
+👁️ 2K • 👍 83 • 💬 40 • ⏱️ 17:46 • 1d ago
 
 ---
 
@@ -320,17 +330,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 130 • 👍 25 • 💬 44 • ⏱️ 11:06 • 3h ago
-
----
-
-**[Why BlackRock Is Betting on Ethereum (This Changes Everything)](https://www.youtube.com/watch?v=7CPq9AcLZjk)**
-
-Ethereum isn't just another crypto — it's becoming Wall Street's settlement layer. In this video, we break down why BlackRock ...
-
-📺 Gven Sariol | DeFi  | ARCrypto
-
-👁️ 24 • 👍 9 • 💬 3 • ⏱️ 6:56 • 4h ago
+👁️ 274 • 👍 42 • 💬 32 • ⏱️ 11:06 • 4h ago
 
 ---
 
