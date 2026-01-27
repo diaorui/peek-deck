@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T04:49:11.908188+00:00'
+updated: '2026-01-27T05:28:33.225478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 04:49 UTC  
+**Last Updated:** January 27, 2026 at 05:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,777.00
+### $88,960.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.9%  
-**30d:** +1.9%  
-**90d:** -18.0%  
-**1y:** -12.4%  
+**24h:** +0.7%  
+**7d:** -1.2%  
+**30d:** +1.5%  
+**90d:** -18.3%  
+**1y:** -12.7%  
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
+**[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
 
-7h ago
+4h ago
 
 ---
 
-**[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
+**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
 
-3h ago
+7h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-10h ago
+11h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-11h ago
+12h ago
 
 ---
 
@@ -131,17 +131,19 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 ---
 
+**[Bitcoin for a newbie](https://www.reddit.com/r/Bitcoin/comments/1qo1q6c/bitcoin_for_a_newbie/)**
+
+Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
+
+2h ago
+
+---
+
 **[Curious about your Bitcoin accumulation strategy](https://www.reddit.com/r/Bitcoin/comments/1qnrw68/curious_about_your_bitcoin_accumulation_strategy/)**
 
 Hi everyone, I have a personal objective of being a wholecoiner by 2035. I know it's a silly thing, but it's a way I found to be happy when the price goes down. I DCA €250 every week and hope the price will not go up too early, otherwise I'll miss my chance. How about you all? Any suggestions on how to make my strategy better?
 
-8h ago
-
----
-
-**[Bitcoin first🫡](https://www.reddit.com/r/Bitcoin/comments/1qne298/bitcoin_first/)**
-
-16h ago
+9h ago
 
 ---
 
@@ -151,15 +153,53 @@ Hi everyone, I have a personal objective of being a wholecoiner by 2035. I know 
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[BlackRock looks to bring yield-generation to Bitcoin investments with iShares Bitcoin Premium Income ETF](https://www.theblock.co/post/387089/blackrock-looks-to-bring-yield-generation-to-bitcoin-investments-with-ishares-bitcoin-premium-income-etf)**
+**[Bitcoin Price Fights for $88,000 as Fed Looms and Bearish Technical Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-fights-for-88000)**
 
-The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
+The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
 
-The Block • 10h ago
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Bitcoin Starts Week on Shaky Ground as Uncertainty Lingers](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Peter Schiff Reiterates Anti-Bitcoin Stance In Interview](https://bitcoinmagazine.com/news/peter-schiff-bitcoin-tucker-carlson)**
+
+Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
+
+Bitcoin Magazine • 8h ago
+
+---
+
+**[Stablecoin Outflows Signal Capital Exit as Bitcoin Trades Flat](https://decrypt.co/355982/stablecoin-outflows-signal-capital-exit-bitcoin-flat)**
+
+Top stablecoins have shed $2.2 billion in 10 days, in a sign investors are cashing out to fiat instead of waiting to buy the dip.
+
+Decrypt • 1h ago
+
+---
+
+**[Fears grow that bitcoin is entering a bear market](https://sherwood.news/crypto/fears-grow-that-bitcoin-is-entering-a-bear-market/)**
+
+“While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
+
+Sherwood News • 13h ago
+
+---
+
+**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
+
+BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
+
+TradingView • 1h ago
 
 ---
 
@@ -175,53 +215,15 @@ Yahoo Finance • 12h ago
 
 The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Bleed as Crypto Funds Lose $1.73 Billion, Largest Since November](https://decrypt.co/355848/crypto-funds-shed-1-73b-last-week-largest-figure-since-november)**
+**[Can the gold rally continue? The CEO of this miner says the fuel for the rally hasn't faded yet](https://www.cnbc.com/2026/01/26/agnico-eagle-ceo-gold-prices-bitcoin.html)**
 
-Digital asset investment products saw $1.73 billion in outflows last week as U.S.-led redemptions intensified.
+"The fundamentals that have pushed gold up are still there," Agnico Eagle CEO Ammar Al-Joundi told Jim Cramer.
 
-Decrypt • 11h ago
-
----
-
-**[Bitcoin vs. Ethereum ETFs: Price Upside or Network Growth](https://www.fool.com/coverage/etfs/2026/01/26/bitcoin-vs-ethereum-etfs-price-upside-or-network-growth/)**
-
-Fidelity Wise Origin Bitcoin Fund and iShares Ethereum Trust ETF charge the same fee and offer single-asset crypto exposure, but they are built to benefit from different market dynamics. This comparison explains why that matters for investors focused on long-term upside.
-
-The Motley Fool • 2h ago
-
----
-
-**[The next Bitcoin all-time high has a clear 3 year window but a brutal $1.3 billion exodus changes everything today](https://cryptoslate.com/the-next-bitcoin-all-time-high-comes-within-a-clear-3-year-window-but-a-brutal-1-3-billion-etf-exodus-changes-everything-today/)**
-
-As the Fed prepares its next major policy move, the window for a 2026 breakout is slamming shut for investors.
-
-CryptoSlate • 9h ago
-
----
-
-**[Bitcoin Price Fights for $88,000 as Fed Looms and Bearish Technical Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-fights-for-88000)**
-
-The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
-
-Bitcoin Magazine • 7h ago
-
----
-
-**[Stablecoin Outflows Signal Capital Exit as Bitcoin Trades Flat](https://finance.yahoo.com/news/stablecoin-outflows-signal-capital-exit-032918646.html)**
-
-Top stablecoins have shed $2.2 billion in 10 days, in a sign investors are cashing out to fiat instead of waiting to buy the dip.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
-
-Bloomberg.com • 6h ago
+CNBC • 5h ago
 
 ---
 
@@ -233,7 +235,7 @@ Bloomberg.com • 6h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 16h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 17h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -266,7 +268,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 1 • 💬 0 • 15h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 2 • 💬 0 • 15h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -314,7 +316,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 1K • 💬 55 • ⏱️ 17:45 • 6h ago
+👁️ 20K • 👍 1K • 💬 55 • ⏱️ 17:45 • 7h ago
 
 ---
 
@@ -324,7 +326,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 1K • 💬 185 • ⏱️ 8:05 • 4h ago
+👁️ 13K • 👍 1K • 💬 185 • ⏱️ 8:05 • 5h ago
 
 ---
 
@@ -334,7 +336,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 191 • ⏱️ 18:13 • 5h ago
+👁️ 3K • 👍 191 • ⏱️ 18:13 • 6h ago
 
 ---
 
@@ -354,7 +356,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 1K • 💬 40 • ⏱️ 3:19 • 6h ago
+👁️ 17K • 👍 1K • 💬 40 • ⏱️ 3:19 • 7h ago
 
 ---
 
@@ -364,7 +366,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 15K • 👍 389 • 💬 551 • ⏱️ 15:36 • 23h ago
+👁️ 15K • 👍 389 • 💬 551 • ⏱️ 15:36 • 1d ago
 
 ---
 
@@ -374,7 +376,7 @@ Ran critically analyses and questions a long standing Bitcoin narrative as its s
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 78 • ⏱️ 31:42 • 13h ago
+👁️ 26K • 👍 2K • 💬 78 • ⏱️ 31:42 • 14h ago
 
 ---
 
@@ -384,7 +386,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 94 • ⏱️ 18:47 • 4h ago
+👁️ 12K • 👍 1K • 💬 94 • ⏱️ 18:47 • 5h ago
 
 ---
 
@@ -394,7 +396,7 @@ Gold is surging to historic highs, and many are using it to dunk on Bitcoin. Tha
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 222 • 💬 53 • ⏱️ 14:20 • 10h ago
+👁️ 5K • 👍 222 • 💬 53 • ⏱️ 14:20 • 11h ago
 
 ---
 
@@ -404,7 +406,7 @@ Binance Founder Changpeng Zhao (CZ) says 2026 will be a supercycle year for Bitc
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 43 • 💬 9 • ⏱️ 1:00 • 9h ago
+👁️ 2K • 👍 43 • 💬 9 • ⏱️ 1:00 • 10h ago
 
 ---
 

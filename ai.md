@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T04:49:11.899847+00:00'
+updated: '2026-01-27T05:28:33.217888+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 04:49 UTC  
+**Last Updated:** January 27, 2026 at 05:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,30 +45,6 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 ---
 
-**[They thought they were making technological breakthroughs. It was an AI-sparked delusion | CNN Business](https://www.reddit.com/r/artificial/comments/1qntez3/they_thought_they_were_making_technological/)**
-
-James, a married father from upstate New York, has always been interested in AI. He works in the technology field and has used ChatGPT since its release for recommendations, “second guessing your doctor” and the like.
-
-🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 7h ago
-
----
-
-**[OpenAI sued for allegedly enabling murder-suicide](https://www.reddit.com/r/artificial/comments/1qnlzmo/openai_sued_for_allegedly_enabling_murdersuicide/)**
-
-The case, filed in a California court, is the first suit linking the chatbot to murder.
-
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 11h ago
-
----
-
-**[Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.](https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/)**
-
-“Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
-
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 11h ago
-
----
-
 **[Meta plan to bundle AI tools into premium subscriptions accross its apps](https://www.reddit.com/r/artificial/comments/1qo2yds/meta_plan_to_bundle_ai_tools_into_premium/)**
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
@@ -77,11 +53,11 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 ---
 
-**[Google ties AI Search to Gmail and Photos, raising new privacy questions](https://www.reddit.com/r/artificial/comments/1qnjy4k/google_ties_ai_search_to_gmail_and_photos_raising/)**
+**[Nvidia is bringing the transformer architecture behind large language models (LLMs) to meteorology with two new open-source models.](https://www.reddit.com/r/artificial/comments/1qnlh0z/nvidia_is_bringing_the_transformer_architecture/)**
 
-Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
+“Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 12h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 12h ago
 
 ---
 
@@ -93,11 +69,11 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 ---
 
-**[ChatGPT and the sweatshops powering the digital age](https://www.reddit.com/r/artificial/comments/1qnw9uk/chatgpt_and_the_sweatshops_powering_the_digital/)**
+**[How do you get away with tasks which you feel are boring, and 'beneath you'](https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/)**
 
-The latest ChatGPT revelations are yet another reminder of the pervasive labour exploitation in digital innovation.
+I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-🔗 [Al Jazeera](https://www.aljazeera.com/opinions/2023/1/23/sweatshops-are-making-our-digital-age-work) • 5h ago
+13h ago
 
 ---
 
@@ -105,7 +81,7 @@ The latest ChatGPT revelations are yet another reminder of the pervasive labour 
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +89,31 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 7h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 8h ago
+
+---
+
+**[OpenAI wants to be a scientific research partner](https://www.reddit.com/r/artificial/comments/1qnedls/openai_wants_to_be_a_scientific_research_partner/)**
+
+AI is increasingly being used as a research collaborator for mathematicians and scientists.
+
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 17h ago
+
+---
+
+**[AMA on new EU rules on algorithm use in the workplace Tuesday 27.01 at 2 pm CET](https://www.reddit.com/r/artificial/comments/1qni6u7/ama_on_new_eu_rules_on_algorithm_use_in_the/)**
+
+Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
+
+14h ago
+
+---
+
+**[One-Minute Daily AI News 1/25/2026](https://www.reddit.com/r/artificial/comments/1qn7sy2/oneminute_daily_ai_news_1252026/)**
+
+Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
+
+23h ago
 
 ---
 
@@ -123,7 +123,53 @@ Needless to say, a good enough brain emulation would be an artificial general in
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
+
+---
+
+**[Microsoft reveals second generation of its AI chip in effort to bolster cloud business](https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html)**
+
+With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
+
+CNBC • 13h ago
+
+---
+
+**[Microsoft says its newest AI chip Maia 200 is 3 times more powerful than Google's TPU and Amazon's Trainium processor](https://www.livescience.com/technology/artificial-intelligence/microsoft-says-its-newest-ai-chip-maia-200-is-3-times-more-powerful-than-googles-tpu-and-amazons-trainium-processor)**
+
+The Maia 200 AI chip is described as an inference powerhouse — meaning it could lead AI models to apply their knowledge to real-world situations much faster and more efficiently.
+
+Live Science • 13h ago
+
+---
+
+**[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
+
+Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
+
+The Official Microsoft Blog • 13h ago
+
+---
+
+**[China’s Moonshot Unveils New AI Model Ahead of DeepSeek Release](https://www.bloomberg.com/news/articles/2026-01-27/china-s-moonshot-unveils-new-ai-model-ahead-of-deepseek-release)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Tesla vs. Meta Platforms: Which AI Growth Stock Is a Better Buy in 2026?](https://finance.yahoo.com/news/tesla-vs-meta-platforms-ai-043300755.html)**
+
+One stock looks like a far better investment than the other.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Cloudflare’s Human Native acquisition signals a new content economy for publishers](https://digiday.com/media/cloudflares-human-native-acquisition-signals-a-new-content-economy-for-publishers/)**
+
+This is how Cloudflare plans to help build an infrastructure for the AI content economy, following its acquisition of Human Native.
+
+Digiday • 26m ago
 
 ---
 
@@ -135,57 +181,11 @@ CNBC • 10h ago
 
 ---
 
-**[AI and Affordability Dominate First Day of BloombergNEF Energy Summit](https://www.bloomberg.com/news/articles/2026-01-27/ai-and-affordability-dominate-bloombergnef-san-francisco-energy-summit)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Clickbait and 'AI slop' distort memory of Holocaust](https://www.yahoo.com/news/articles/clickbait-ai-slop-distort-memory-031009694.html)**
-
-An emaciated and apparently blind man stands in the snow at the Nazi concentration camp of Flossenbuerg: the image seems real at first but is part of a wave of AI-generated content about the Holocaust.By distorting history, AI-generated images have "very concrete consequences for how people perceive the Nazi era", says Groschek.
-
-Yahoo • 1h ago
-
----
-
-**[Sam Altman said OpenAI was planning to 'dramatically slow down' its pace of hiring](https://www.businessinsider.com/sam-altman-said-openai-plan-dramatically-slow-down-hiring-ai-2026-1)**
-
-The OpenAI CEO said during a town hall event that OpenAI will "hire more slowly but keep hiring" because AI lets the company do more with less people.
-
-Business Insider • 1h ago
-
----
-
-**[Why AI won’t wipe out white-collar jobs](https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs)**
-
-The technology will expand their scope and raise their value
-
-The Economist • 8h ago
-
----
-
 **[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 9h ago
-
----
-
-**[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
-
-Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
-
-The Official Microsoft Blog • 12h ago
-
----
-
-**[Angry gamers are forcing studios to scrap or rethink new releases](https://www.washingtonpost.com/technology/2026/01/26/gamer-protests-ai-slop-backlash/)**
-
-Gamers suspicious of AI-generated content have forced developers to cancel titles and promise not to use the technology.
-
-The Washington Post • 10h ago
+Axios • 7h ago
 
 ---
 
@@ -201,6 +201,12 @@ The Guardian • 20h ago
 
 ## HackerNews: "ai"
 
+**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
+
+⬆️ 604 • 💬 487 • 13h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+
+---
+
 **[Adoption of EVs tied to real-world reductions in air pollution: study](https://news.ycombinator.com/item?id=46749198)**
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
@@ -209,17 +215,11 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 ---
 
-**[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
-
-⬆️ 564 • 💬 472 • 12h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
-
----
-
 **[Google AI Overviews cite YouTube more than any medical site for health queries](https://news.ycombinator.com/item?id=46766031)**
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 369 • 💬 197 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 375 • 💬 199 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -227,7 +227,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 366 • 💬 221 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 366 • 💬 229 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -235,15 +235,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 306 • 💬 415 • 14h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
-
----
-
-**[When AI 'builds a browser,' check the repo before believing the hype](https://news.ycombinator.com/item?id=46769965)**
-
-Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
-
-⬆️ 199 • 💬 123 • 9h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 342 • 💬 443 • 15h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -251,19 +243,27 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 197 • 💬 141 • 13h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 211 • 💬 148 • 13h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+
+---
+
+**[When AI 'builds a browser,' check the repo before believing the hype](https://news.ycombinator.com/item?id=46769965)**
+
+Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
+
+⬆️ 202 • 💬 125 • 10h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 121 • 💬 90 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 121 • 💬 91 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 103 • 💬 70 • 10h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 113 • 💬 73 • 11h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -285,7 +285,7 @@ Human creativity just ran into a hard limit — and AI crossed it. After testing
 
 📺 AI Revolution
 
-👁️ 7K • 👍 391 • 💬 55 • ⏱️ 10:58 • 5h ago
+👁️ 7K • 👍 391 • 💬 55 • ⏱️ 10:58 • 6h ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 91,825 • ❤️ 582 • 3d ago
+⬇️ 91,825 • ❤️ 582 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 265 • 23h ago
+⬇️ 749 • ❤️ 265 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 251 • 22h ago
+⬇️ 5,159 • ❤️ 251 • 23h ago
 
 ---
 
@@ -497,7 +497,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 Qwen3-TTS-12Hz-1.7B-Base is a multilingual text-to-speech model supporting 10 languages, capable of 3-second rapid voice cloning and low-latency streaming generation for real-time applications.
 
-⬇️ 94,396 • ❤️ 218 • 3d ago
+⬇️ 94,396 • ❤️ 218 • 4d ago
 
 ---
 
@@ -642,7 +642,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling.
 
-▲ 20 • 💬 3 • ⭐ 421 • 10d ago
+▲ 20 • 💬 3 • ⭐ 421 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.11141) • [💻 code](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) • [🔗 project](https://www.flashlabs.ai/flashai-voice-agents)
 
@@ -658,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.8k • 🔱 594 • 4h ago
+⭐ 10.8k • 🔱 594 • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.8k • 🔱 6.3k • 15h ago
+⭐ 5.8k • 🔱 6.3k • 16h ago
 
 ---
 
@@ -718,7 +718,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.9k • 🔱 913 • 9h ago
+⭐ 3.9k • 🔱 913 • 10h ago
 
 ---
 

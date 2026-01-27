@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T04:49:11.914729+00:00'
+updated: '2026-01-27T05:28:33.230872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 04:49 UTC  
+**Last Updated:** January 27, 2026 at 05:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,934.15
+### $2,973.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** -1.5%  
-**30d:** +0.2%  
-**90d:** -22.6%  
-**1y:** -4.2%  
+**24h:** +1.7%  
+**7d:** -1.8%  
+**30d:** -0.1%  
+**90d:** -22.8%  
+**1y:** -4.5%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-2h ago
-
----
-
-**[Daily General Discussion January 26, 2026](https://www.reddit.com/r/ethereum/comments/1qn7wd5/daily_general_discussion_january_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-22h ago
+3h ago
 
 ---
 
@@ -92,11 +84,19 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 ---
 
+**[Daily General Discussion January 26, 2026](https://www.reddit.com/r/ethereum/comments/1qn7wd5/daily_general_discussion_january_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
+
+---
+
 **[Liquity's BOLD stablecoin receives A- rating from Bluechip with perfect scores in Management, Decentralization, and Governance](https://www.reddit.com/r/ethereum/comments/1qnid9x/liquitys_bold_stablecoin_receives_a_rating_from/)**
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ I’m curious if people are really using crypto to buy digital gift cards, or if
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -162,15 +162,7 @@ CoinDesk • 8h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 6h ago
-
----
-
-**[Bitcoin vs. Ethereum ETFs: Price Upside or Network Growth](https://www.fool.com/coverage/etfs/2026/01/26/bitcoin-vs-ethereum-etfs-price-upside-or-network-growth/)**
-
-Fidelity Wise Origin Bitcoin Fund and iShares Ethereum Trust ETF charge the same fee and offer single-asset crypto exposure, but they are built to benefit from different market dynamics. This comparison explains why that matters for investors focused on long-term upside.
-
-The Motley Fool • 2h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -182,11 +174,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum whale resurfaces after nine years, moves $145 million in ETH](https://www.theblock.co/post/386974/ethereum-whale-moves-145-million)**
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
-
-The Block • 23h ago
+The Block • 2d ago
 
 ---
 
@@ -206,11 +196,27 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum Smart Contracts Reshape Global Trade](https://www.wausaudailyherald.com/story/special/contributor-content/2026/01/26/ethereum-smart-contracts-reshape-global-trade/88363400007/)**
+
+Companies that use Ethereum to handle international payments are also concerned about keeping an eye on the ETH to USD exchange rate.
+
+wausaudailyherald.com • 12h ago
+
+---
+
 **[Ethereum Stalls In A Critical Zone As Breakout Structures Wait For Confirmation](https://www.tradingview.com/news/newsbtc:4b389a7b2094b:0-ethereum-stalls-in-a-critical-zone-as-breakout-structures-wait-for-confirmation/)**
 
 Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
 
-TradingView • 10h ago
+TradingView • 11h ago
+
+---
+
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -219,14 +225,6 @@ TradingView • 10h ago
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
 The Block • 14h ago
-
----
-
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Decrypt • 12h ago
 
 ---
 
@@ -240,7 +238,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 3K • 💬 42 • ⏱️ 10:51 • 18h ago
+👁️ 15K • 👍 3K • 💬 42 • ⏱️ 10:51 • 19h ago
 
 ---
 
@@ -250,7 +248,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 7K • 👍 292 • 💬 44 • ⏱️ 23:51 • 8h ago
+👁️ 7K • 👍 292 • 💬 44 • ⏱️ 23:51 • 9h ago
 
 ---
 
@@ -260,7 +258,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 264 • 💬 66 • ⏱️ 20:33 • 8h ago
+👁️ 7K • 👍 264 • 💬 66 • ⏱️ 20:33 • 9h ago
 
 ---
 
@@ -310,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 309 • 👍 25 • 💬 14 • ⏱️ 4:37 • 10h ago
+👁️ 309 • 👍 25 • 💬 14 • ⏱️ 4:37 • 11h ago
 
 ---
 
@@ -330,7 +328,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 274 • 👍 42 • 💬 32 • ⏱️ 11:06 • 4h ago
+👁️ 274 • 👍 42 • 💬 32 • ⏱️ 11:06 • 5h ago
 
 ---
 
