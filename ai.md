@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T20:25:02.102524+00:00'
+updated: '2026-01-27T20:47:56.460819+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - videos
 - news
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 20:25 UTC  
+**Last Updated:** January 27, 2026 at 20:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,11 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 ---
 
-**[Creating an AI commercial ad with consistent products](https://www.reddit.com/r/artificial/comments/1qomiad/creating_an_ai_commercial_ad_with_consistent/)**
+**[What are your top LLM picks in 2026 and why?](https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/)**
 
-https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
+Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-1h ago
+12h ago
 
 ---
 
@@ -65,11 +65,11 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 ---
 
-**[What are your top LLM picks in 2026 and why?](https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/)**
+**[Creating an AI commercial ad with consistent products](https://www.reddit.com/r/artificial/comments/1qomiad/creating_an_ai_commercial_ad_with_consistent/)**
 
-Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
+https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-12h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1h ago
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 7h ago
 
 **[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Motley Fool • 4h ago
 
 **[AI Chip Clock Maker Sets Up After 2,557% Gain](https://www.investors.com/research/ai-stock-chip-sitime-sitm-stock/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investor's Business Daily • 2h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 841 • 💬 725 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 849 • 💬 730 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -223,7 +223,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 580 • 💬 695 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 582 • 💬 698 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -231,7 +231,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 398 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 401 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -239,7 +239,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 385 • 💬 252 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 389 • 💬 252 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -247,7 +247,13 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 332 • 💬 223 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 333 • 💬 223 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+
+---
+
+**[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
+
+⬆️ 231 • 💬 144 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -259,15 +265,9 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 ---
 
-**[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
-
-⬆️ 227 • 💬 140 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-
----
-
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 122 • 💬 93 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 122 • 💬 94 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -289,27 +289,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 1K • 👍 52 • 💬 19 • ⏱️ 18:01 • 4h ago
-
----
-
-**[How to Make Animated Cartoon videos with AI (Full Course)](https://www.youtube.com/watch?v=oEzIrS7cM3M)**
-
-Create Animated Cartoons with OpenArt https://youricreates.com/cartoons In this video, I show you a complete five-step ...
-
-📺 Youri van Hofwegen
-
-👁️ 5K • ⏱️ 15:48 • 4h ago
-
----
-
-**[AI Image Generators Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=_Ow97llH1YE)**
-
-Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this video, I'm ranking the best AI image ...
-
-📺 Roboverse
-
-👁️ 7K • 💬 1 • ⏱️ 13:19 • 6h ago
+👁️ 3K • 👍 101 • 💬 37 • ⏱️ 18:01 • 4h ago
 
 ---
 
@@ -319,7 +299,27 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 114K • 👍 2K • 💬 587 • ⏱️ 4:20 • 1d ago
+👁️ 121K • 👍 2K • 💬 609 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[How to Make Animated Cartoon videos with AI (Full Course)](https://www.youtube.com/watch?v=oEzIrS7cM3M)**
+
+Create Animated Cartoons with OpenArt https://youricreates.com/cartoons In this video, I show you a complete five-step ...
+
+📺 Youri van Hofwegen
+
+👁️ 7K • 💬 7 • ⏱️ 15:48 • 4h ago
+
+---
+
+**[How Corning Invented A New Fiber-Optic Cable For AI And Landed A $6 Billion Meta Deal](https://www.youtube.com/watch?v=Y3KLbc5DlRs)**
+
+Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data centers, in a deal reported first by CNBC. Famous for ...
+
+📺 CNBC
+
+👁️ 31K • 👍 991 • 💬 80 • ⏱️ 17:45 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 66K • 👍 2K • 💬 254 • ⏱️ 12:27 • 2d ago
+👁️ 67K • 👍 2K • 💬 254 • ⏱️ 12:27 • 2d ago
 
 ---
 
@@ -339,7 +339,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 25K • 👍 806 • 💬 177 • ⏱️ 12:43 • 2d ago
+👁️ 25K • 👍 814 • 💬 176 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[AI Image Generators Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=_Ow97llH1YE)**
+
+Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this video, I'm ranking the best AI image ...
+
+📺 Roboverse
+
+👁️ 8K • 💬 9 • ⏱️ 13:19 • 6h ago
 
 ---
 
@@ -349,17 +359,7 @@ Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, desp
 
 📺 The Bitchuation Room (with Francesca Fiorentini)
 
-👁️ 17K • 👍 2K • 💬 278 • ⏱️ 17:08 • 2d ago
-
----
-
-**[This Week Changed AI Forever](https://www.youtube.com/watch?v=yEvr1bmFlOM)**
-
-CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam Footage From Any Angle 05:02 What ...
-
-📺 Dylan Curious
-
-👁️ 6K • 👍 298 • 💬 74 • ⏱️ 27:06 • 1d ago
+👁️ 17K • 👍 2K • 💬 279 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -369,17 +369,17 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 135K • 👍 1K • 💬 189 • ⏱️ 21:00 • 1d ago
+👁️ 143K • 👍 1K • 💬 191 • ⏱️ 21:00 • 1d ago
 
 ---
 
-**[I Tested EVERY AI Video Generator in 2026. Here&#39;s the Best Ones.](https://www.youtube.com/watch?v=jYbdm6aKFas)**
+**[ChatGPT Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=Hm3QR4dUQI4)**
 
-Use Every AI Video Model in OpenArt https://www.openart.ai/home/?ref=isa-26 In this video, I break down the AI video ...
+Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video69 ✓ Design your ...
 
-📺 Isa does AI
+📺 Mikey No Code
 
-👁️ 8K • 💬 1 • ⏱️ 16:20 • 7h ago
+👁️ 12K • 💬 15 • ⏱️ 20:46 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,215 • 4d ago
+⬇️ 43,872 • ❤️ 1,223 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 638 • 7h ago
+⬇️ 76,679 • ❤️ 642 • 7h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 623 • 4d ago
+⬇️ 138,693 • ❤️ 627 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,269 • 7d ago
+⬇️ 532,168 • ❤️ 1,271 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 500 • 8h ago
+⬇️ 10,965 • ❤️ 524 • 8h ago
 
 ---
 
@@ -455,7 +455,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 385 • 6d ago
+⬇️ 19,899 • ❤️ 387 • 6d ago
 
 ---
 
@@ -467,7 +467,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 306 • 9h ago
+⬇️ 0 • ❤️ 317 • 9h ago
 
 ---
 
@@ -483,15 +483,15 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 ---
 
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+**[Z-Image](https://huggingface.co/Tongyi-MAI/Z-Image)**
 
-*Unsloth AI*
+*Tongyi-MAI*
 
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer model. It excels in prompt adherence, aesthetic versatility, and output diversity, making it ideal for professional workflows, LoRA training, and ControlNet applications.
 
-`text-generation` `29.9B`
+`text-to-image`
 
-⬇️ 248,496 • ❤️ 354 • 3d ago
+⬇️ 0 • ❤️ 249 • 4h ago
 
 ---
 
@@ -503,7 +503,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 247 • 4d ago
+⬇️ 3,444 • ❤️ 248 • 5d ago
 
 ---
 
@@ -519,7 +519,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 43 • 💬 1 • ⭐ 5,367 • 5d ago
+▲ 45 • 💬 1 • ⭐ 5,367 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -625,7 +625,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Finite Scalar Quantization with improved activation mapping enables unified modeling of discrete and continuous image generation approaches, revealing optimal representation balance and performance characteristics.
 
-▲ 23 • 💬 1 • ⭐ 48 • 4d ago
+▲ 24 • 💬 1 • ⭐ 48 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17124) • [💻 code](https://github.com/Tencent-Hunyuan/iFSQ)
 
@@ -667,7 +667,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 603 • 4h ago
+⭐ 11.0k • 🔱 605 • 5h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.4k • 🔱 494 • 2d ago
+⭐ 9.4k • 🔱 495 • 2d ago
 
 ---
 
@@ -687,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 950 • 4d ago
+⭐ 8.2k • 🔱 951 • 4d ago
 
 ---
 
@@ -707,7 +707,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.7k • 5h ago
+⭐ 6.2k • 🔱 6.7k • 6h ago
 
 ---
 
@@ -717,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 530 • 17h ago
+⭐ 5.0k • 🔱 530 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 994 • 2h ago
+⭐ 4.3k • 🔱 999 • 3h ago
 
 ---
 
@@ -735,7 +735,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.3k • 🔱 279 • 4d ago
+⭐ 3.3k • 🔱 280 • 4d ago
 
 ---
 

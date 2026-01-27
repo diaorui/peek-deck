@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T20:25:02.117973+00:00'
+updated: '2026-01-27T20:47:56.479572+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 20:25 UTC  
+**Last Updated:** January 27, 2026 at 20:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-9h ago
+10h ago
 
 ---
 
@@ -76,7 +76,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 2h ago
 
 ---
 
@@ -84,13 +84,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-13h ago
+14h ago
 
 ---
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 Hey everyone, I’m currently looking for a fun and interactive robot similar to Cozmo. I really liked how Cozmo had personality, reacted to its environment, and felt more like a small companion than just a regular toy or basic programmable robot. I’ve been browsing different options on Amazon, eBay, and Alibaba, and there seem to be plenty of choices. The problem is figuring out which ones are actually good. Some look affordable but feel gimmicky, while others are quite expensive, and I’m not sure if they really offer the same kind of interaction and character that Cozmo did. I’d really appreciate advice from people here who have experience with modern consumer robots. Are there any robots currently available that feel close to Cozmo in terms of personality and interaction? Which ones are genuinely worth the money, and which should be avoided? I’m open on budget and mainly interested in something engaging and enjoyable to interact with, not just a robot that runs simple scripts. Thanks in advance for any recommendations or insights.
 
-6h ago
+7h ago
 
 ---
 
@@ -158,7 +158,7 @@ bgr.com • 1d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 6h ago
+ABC News • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 197K • 💬 116 • ⏱️ 0:18 • 1d ago
+👁️ 205K • 💬 116 • ⏱️ 0:18 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 PRO ROBOTS
 
-👁️ 8K • 👍 248 • 💬 24 • ⏱️ 14:08 • 6d ago
+👁️ 8K • 👍 249 • 💬 24 • ⏱️ 14:08 • 6d ago
 
 ---
 
@@ -224,7 +224,7 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 318K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
+👁️ 324K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 118K • 👍 3K • 💬 174 • ⏱️ 17:39 • 3d ago
+👁️ 119K • 👍 3K • 💬 176 • ⏱️ 17:39 • 3d ago
 
 ---
 
@@ -244,7 +244,15 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 2K • 👍 42 • 💬 7 • ⏱️ 0:55 • 7h ago
+👁️ 3K • 👍 52 • 💬 7 • ⏱️ 0:55 • 7h ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 27K • 👍 3K • 💬 124 • ⏱️ 1:13 • 5d ago
 
 ---
 
@@ -258,14 +266,6 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
-
-📺 Bernie Sanders
-
-👁️ 27K • 👍 3K • 💬 124 • ⏱️ 1:13 • 5d ago
-
----
-
 **[Inside the $5.6B Startup Building Robot Brains (Physical Intelligence)](https://www.youtube.com/watch?v=b8BDUa-xbyA)**
 
 Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly? This was the first time seeing a robot truly ...
@@ -276,11 +276,13 @@ Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly?
 
 ---
 
-**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+**[War Robots: Is ULTIMATE REVENANT actually worth it?](https://www.youtube.com/watch?v=dqmRmx-N12c)**
 
-📺 Romi Pal
+War Robots Test Server Gameplay: New ULTIMATE Revenant - worth it? My War Robots Creator Link: https://wr.my.games/manni ...
 
-👁️ 267K • 👍 6K • 💬 32 • ⏱️ 0:17 • 3d ago
+📺 Manni-Gaming
+
+👁️ 6K • 👍 364 • 💬 77 • ⏱️ 16:07 • 10h ago
 
 ---
 
@@ -290,7 +292,7 @@ Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the 
 
 📺 Fox Business Clips
 
-👁️ 31K • 👍 378 • 💬 140 • ⏱️ 3:39 • 4d ago
+👁️ 31K • 👍 380 • 💬 140 • ⏱️ 3:39 • 4d ago
 
 ---
 

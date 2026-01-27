@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T20:25:02.109997+00:00'
+updated: '2026-01-27T20:47:56.469756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 20:25 UTC  
+**Last Updated:** January 27, 2026 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,129.68
+### $88,948.53
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.06B
+**Market Cap:** $1775.00B
 Rank #1
 
-**Circulating Supply:** 19,981,218 BTC
+**Circulating Supply:** 19,981,256 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-29.5%
 
 **All-Time Low:** $67.81
-+129223.1%
++130973.6%
 
 ---
 
@@ -83,23 +83,31 @@ Rank #1
 
 ---
 
-**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
-
-6h ago
-
----
-
 **[Me, sold everything to Buy the Dip ..](https://www.reddit.com/r/Bitcoin/comments/1qokd1m/me_sold_everything_to_buy_the_dip/)**
 
 HODL.
 
-2h ago
+3h ago
+
+---
+
+**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
+
+7h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-5h ago
+6h ago
+
+---
+
+**[Big news!](https://www.reddit.com/r/Bitcoin/comments/1qomr5a/big_news/)**
+
+I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
+
+1h ago
 
 ---
 
@@ -107,7 +115,7 @@ HODL.
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-7h ago
+8h ago
 
 ---
 
@@ -117,27 +125,21 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 ---
 
+**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
+
+2h ago
+
+---
+
 **[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
 11h ago
-
----
-
-**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
-
-9h ago
-
----
-
-**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
-
-2h ago
 
 ---
 
@@ -161,7 +163,7 @@ Bloomberg • 22h ago
 
 Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -169,7 +171,7 @@ Decrypt • 7h ago
 
 Hash rate drops sharply as US-based mining pools scale back amid extreme cold and strained power grids.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +195,7 @@ The Block • 1d ago
 
 Bitcoin ETFs saw a modest $6.8 million in net inflows Monday, putting an end to a five-day streak of outflows.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,7 +209,7 @@ Bloomberg • 1h ago
 
 Steak ’n Shake said it increased its Bitcoin exposure by an additional $5 million in notional value today.
 
-Bitcoin Magazine • 54m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -244,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -272,14 +274,6 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ---
 
-**['It's Now Happening'–Urgent U.S. Dollar 'Collapse' Warning Issued](https://news.ycombinator.com/item?id=46697289)**
-
-Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
-
-⬆️ 18 • 💬 5 • 7d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
-
----
-
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
 ⬆️ 4 • 💬 5 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
@@ -289,6 +283,12 @@ Traders are braced for this week’s inflation reading to be higher than previou
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
 ⬆️ 38 • 💬 21 • 1d ago
+
+---
+
+**[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
+
+⬆️ 1 • 💬 0 • 9m ago
 
 ---
 
@@ -308,17 +308,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 4h ago
+👁️ 16K • 👍 966 • 💬 141 • ⏱️ 43:35 • 4h ago
 
 ---
 
-**[Why The F*ck Won’t Crypto Pump?](https://www.youtube.com/watch?v=WvNajd9-Zmo)**
+**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
 
-Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+In this video, Raoul Pal explains why the idea of a 2026 Bitcoin bear market doesn't make sense, given global debt rollovers, ...
 
-📺 Lark Davis
+📺 Savvy Finance
 
-👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 9h ago
+👁️ 3K • 👍 236 • 💬 4 • ⏱️ 19:52 • 3h ago
 
 ---
 
@@ -328,17 +328,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 22h ago
-
----
-
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 20h ago
+👁️ 51K • 👍 2K • 💬 55 • ⏱️ 17:45 • 22h ago
 
 ---
 
@@ -348,7 +338,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 6h ago
+👁️ 23K • 👍 2K • 💬 160 • ⏱️ 15:06 • 6h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Ca4pgbZ03LU)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Sailing Vagabond Epicurean
+
+👁️ 5K • 👍 3K • 1h ago
+
+---
+
+**[Why The F*ck Won’t Crypto Pump?](https://www.youtube.com/watch?v=WvNajd9-Zmo)**
+
+Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 786 • 💬 113 • ⏱️ 14:11 • 9h ago
 
 ---
 
@@ -358,17 +368,27 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 22h ago
+👁️ 31K • 👍 1K • 💬 256 • ⏱️ 3:19 • 22h ago
 
 ---
 
-**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Ivan on Tech
+📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 10h ago
+👁️ 31K • 👍 2K • 💬 358 • ⏱️ 8:05 • 20h ago
+
+---
+
+**[History Is Repeating For Bitcoin &amp; Crypto! [Do This To Make Generational Wealth]](https://www.youtube.com/watch?v=RgO4OJj4nRw)**
+
+In today's video Kyledoops shows a repeat pattern that shows what is next for Bitcoin & Crypto. Join live to find out how history ...
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 1K • 💬 23 • ⏱️ 31:36 • 12h ago
 
 ---
 
@@ -378,27 +398,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 20h ago
-
----
-
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
-
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
-
-📺 Fox Business Clips
-
-👁️ 45K • 👍 658 • 💬 460 • ⏱️ 4:20 • 2d ago
-
----
-
-**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
-
-DISCLAIMER: We may receive a small commission for any purchases made through our affiliate links. Thanks For Watching Our ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 21h ago
+👁️ 29K • 👍 2K • 💬 246 • ⏱️ 18:47 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T20:25:02.115212+00:00'
+updated: '2026-01-27T20:47:56.476160+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 20:25 UTC  
+**Last Updated:** January 27, 2026 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,970.39
+### $3,009.92
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.66B
+**Market Cap:** $361.84B
 Rank #2
 
 **Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-39.3%
 
 **All-Time Low:** $0.43
-+679117.7%
++693407.1%
 
 ---
 
@@ -102,7 +102,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-16h ago
+17h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 3h ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 21h ago
+thedefiant.io • 22h ago
 
 ---
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 14h ago
+Binance • 15h ago
 
 ---
 
@@ -236,17 +236,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 256 • 💬 44 • ⏱️ 14:37 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 434 • 👍 44 • 💬 4 • ⏱️ 4:08 • 2h ago
+👁️ 8K • 👍 374 • 💬 49 • ⏱️ 14:37 • 5h ago
 
 ---
 
@@ -266,7 +256,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 14K • 👍 503 • 💬 121 • ⏱️ 23:51 • 1d ago
+👁️ 16K • 👍 529 • 💬 117 • ⏱️ 23:51 • 1d ago
 
 ---
 
@@ -276,7 +266,17 @@ Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter
 
 📺 Trading Jip
 
-👁️ 354 • 👍 29 • 💬 56 • ⏱️ 6:29 • 11h ago
+👁️ 406 • 👍 30 • 💬 56 • ⏱️ 6:29 • 11h ago
+
+---
+
+**[BlackRocks geheime 10x Ethereum-Prognose!](https://www.youtube.com/watch?v=HjIfdWoxja4)**
+
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+
+📺 Krypto Report
+
+👁️ 3K • 👍 384 • 💬 21 • ⏱️ 17:05 • 3h ago
 
 ---
 
@@ -286,17 +286,17 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 10h ago
+👁️ 19K • 👍 1K • 💬 89 • ⏱️ 59:47 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 95 • 💬 4 • ⏱️ 4:04 • 14h ago
+👁️ 833 • 👍 85 • 💬 4 • ⏱️ 4:08 • 3h ago
 
 ---
 
@@ -306,17 +306,17 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 64K • 👍 3K • 💬 227 • ⏱️ 26:46 • 1d ago
+👁️ 65K • 👍 3K • 💬 229 • ⏱️ 26:46 • 1d ago
 
 ---
 
-**[THIS IS BULLISH NEWS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lPJzRNMxBs0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 220 • 👍 20 • 💬 2 • ⏱️ 4:21 • 10h ago
+👁️ 2K • 👍 96 • 💬 4 • ⏱️ 4:04 • 15h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 10K • 👍 325 • 💬 110 • ⏱️ 20:33 • 1d ago
+👁️ 10K • 👍 329 • 💬 111 • ⏱️ 20:33 • 1d ago
 
 ---
 
