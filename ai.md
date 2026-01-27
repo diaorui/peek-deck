@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T17:29:03.308755+00:00'
+updated: '2026-01-27T17:54:52.246405+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 17:29 UTC  
+**Last Updated:** January 27, 2026 at 17:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
+
+A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
+
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 1h ago
+
+---
+
 **[African Software Developers Using AI to Fight Inequality](https://www.reddit.com/r/artificial/comments/1qod52h/african_software_developers_using_ai_to_fight/)**
 
 Determined to use her skills to fight inequality, South African computer scientist Raesetje Sefala set to work to build algorithms flagging poverty hotspots - developing datasets she hopes will help target aid, new housing or clinics. From crop analysis to medical diagnostics, artificial intelligence (AI) is already used in essential tasks worldwide, but Sefala and a growing number of fellow African developers are pioneering it to tackle their continent's particular challenges, writes Kim Harrisberg for Thomson Reuters Foundation.
@@ -49,11 +57,11 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 ---
 
-**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
+**[What are your top LLM picks in 2026 and why?](https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/)**
 
-A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
+Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 1h ago
+9h ago
 
 ---
 
@@ -62,14 +70,6 @@ A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 1d ago
-
----
-
-**[What are your top LLM picks in 2026 and why?](https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/)**
-
-Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
-
-9h ago
 
 ---
 
@@ -85,7 +85,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hi I am a cs undergrad working on project where I need to search for models whic
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 13h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 14h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Official Microsoft Blog • 1d ago
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
-CNBC • 28m ago
+CNBC • 54m ago
 
 ---
 
@@ -161,7 +161,7 @@ blog.google • 5d ago
 
 The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.
 
-TechCrunch • 29m ago
+TechCrunch • 54m ago
 
 ---
 
@@ -169,7 +169,7 @@ TechCrunch • 29m ago
 
 Google is bringing the conversation right into Search, letting users ask follow-up questions to AI Overviews on mobile.
 
-Business Insider • 28m ago
+Business Insider • 53m ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 4h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 821 • 💬 710 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 834 • 💬 718 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -225,7 +225,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 549 • 💬 652 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 563 • 💬 676 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -233,7 +233,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 395 • 💬 205 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 397 • 💬 206 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -241,7 +241,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 381 • 💬 250 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 382 • 💬 250 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -249,7 +249,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 314 • 💬 212 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 326 • 💬 218 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -257,19 +257,19 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 228 • 💬 136 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 228 • 💬 137 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 221 • 💬 130 • 23h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 224 • 💬 139 • 23h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 122 • 💬 92 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 122 • 💬 93 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -277,7 +277,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 97 • 💬 21 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 98 • 💬 21 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -669,7 +669,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 601 • 1h ago
+⭐ 11.0k • 🔱 601 • 2h ago
 
 ---
 
@@ -699,7 +699,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 7h ago
+⭐ 6.3k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -709,7 +709,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.7k • 2h ago
+⭐ 6.2k • 🔱 6.7k • 3h ago
 
 ---
 
@@ -719,7 +719,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 530 • 14h ago
+⭐ 4.9k • 🔱 530 • 15h ago
 
 ---
 
@@ -729,7 +729,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 981 • 7h ago
+⭐ 4.3k • 🔱 981 • 8h ago
 
 ---
 

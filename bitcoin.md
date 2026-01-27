@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T17:29:03.316486+00:00'
+updated: '2026-01-27T17:54:52.254837+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 17:29 UTC  
+**Last Updated:** January 27, 2026 at 17:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,468.30
+### $87,604.80
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,15 @@ Rank #1
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-4h ago
+5h ago
+
+---
+
+**[Me, sold everything to Buy the Dip ..](https://www.reddit.com/r/Bitcoin/comments/1qokd1m/me_sold_everything_to_buy_the_dip/)**
+
+HODL.
+
+26m ago
 
 ---
 
@@ -111,33 +119,25 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-6h ago
+7h ago
+
+---
+
+**[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
+
+1h ago
+
+---
+
+**[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
+
+2h ago
 
 ---
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
 1d ago
-
----
-
-**[Simple, not easy.](https://www.reddit.com/r/Bitcoin/comments/1qoaue4/simple_not_easy/)**
-
-6h ago
-
----
-
-**[Im Young & Risky](https://www.reddit.com/r/Bitcoin/comments/1qo7q22/im_young_risky/)**
-
-Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
-
-9h ago
-
----
-
-**[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
-
-1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Block • 19h ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 2h ago
 
 Co-founder and CEO Alex Busarov describes the evolution of his product that heats a room, purifies the air, and mines Bitcoin all at the same time.
 
-Forbes • 33m ago
+Forbes • 58m ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 33m ago
 
 While the bitcoin hashrate has crashed, experts say this is a temporary reaction to the weather....
 
-Sherwood News • 5m ago
+Sherwood News • 31m ago
 
 ---
 
@@ -187,7 +187,7 @@ Sherwood News • 5m ago
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -258,14 +258,6 @@ For years, crypto investors have waited for a familiar miracle. Altcoin season. 
 
 ---
 
-**[Show HN: Hayekian BTC Daily – a local-first Bitcoin market snapshot CLI](https://news.ycombinator.com/item?id=46694344)**
-
-What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
-
-⬆️ 1 • 💬 0 • 7d ago • [Gumroad](https://hayekians.gumroad.com/l/hayekian-btc-daily-apple-silicon)
-
----
-
 **[Show HN: Was tired of drowning in HN comments, so I built an AI Chief of Staff](https://news.ycombinator.com/item?id=46765448)**
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
@@ -296,7 +288,15 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[How do you reconstruct what a financial system observed at time T, years later?](https://news.ycombinator.com/item?id=46768778)**
 
-⬆️ 3 • 💬 2 • 23h ago
+⬆️ 3 • 💬 2 • 1d ago
+
+---
+
+**[Meta's exclusive features for social media platforms now include AI Manus](https://news.ycombinator.com/item?id=46780301)**
+
+Social media giant Meta’s AI initiatives are already in the spotlight, including Meta AI and Meta Superintelligence Labs. Building on this momentum, Meta has
+
+⬆️ 1 • 💬 0 • 3h ago • [Altcoin Desk](https://altcoindesk.com/news/metas-exclusive-features-for-social-media-platforms-now-include-ai-manus/article-22350/)
 
 ---
 
@@ -390,7 +390,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Made By Deola
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 4K • 👍 3K • 2h ago
 
 ---
 

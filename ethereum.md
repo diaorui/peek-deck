@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T17:29:03.321740+00:00'
+updated: '2026-01-27T17:54:52.260834+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 17:29 UTC  
+**Last Updated:** January 27, 2026 at 17:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-36m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-13h ago
+14h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 19h ago
 
 Forgotten Runiverse, a free-to-play role-playing game on Ethereum scaling network Ronin, is shutting down its servers until further notice.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 37m ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 18h ago
+thedefiant.io • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 4 • ⏱️ 4:04 • 11h ago
+👁️ 1K • 👍 92 • 💬 4 • ⏱️ 4:04 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 158 • 👍 17 • 💬 2 • ⏱️ 4:21 • 7h ago
+👁️ 158 • 👍 17 • 💬 2 • ⏱️ 4:21 • 8h ago
 
 ---
 
