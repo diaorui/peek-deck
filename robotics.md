@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T10:57:42.954481+00:00'
+updated: '2026-01-27T11:29:01.099823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 10:57 UTC  
+**Last Updated:** January 27, 2026 at 11:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-32m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ When there are many robots in production (industrial, logistics, etc.), how are 
 
 In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 12h ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 13h ago
 
 ---
 
@@ -96,7 +96,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 **[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -116,7 +116,7 @@ I don't have much information, but it's a bit viral on X
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Robot Report • 16h ago
 
 Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
 
-Global Times • 20h ago
+Global Times • 21h ago
 
 ---
 
@@ -132,7 +132,7 @@ Global Times • 20h ago
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-bgr.com • 20h ago
+bgr.com • 21h ago
 
 ---
 
@@ -140,7 +140,7 @@ bgr.com • 20h ago
 
 A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
 
-jpost.com • 3h ago
+jpost.com • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ news-herald.com • 12h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ markets.businessinsider.com • 20h ago
 
 RED LION, PA — Pennsylvania’s top education official visited Red Lion Area School District on Thursday as students from opposite ends of the academic spectrum teamed up for a day …
 
-mychesco.com • 19h ago
+mychesco.com • 20h ago
 
 ---
 
@@ -212,7 +212,7 @@ We are honored to celebrate an important milestone at Future Robot Lab. This vid
 
 📺 Future Robot Lab
 
-👁️ 3K • 👍 50 • 💬 10 • ⏱️ 9:38 • 21h ago
+👁️ 3K • 👍 50 • 💬 10 • ⏱️ 9:38 • 22h ago
 
 ---
 
@@ -242,7 +242,7 @@ War Robots - New flying robot Anaksor on this week's Test Server has the invisib
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 191 • 💬 52 • ⏱️ 20:24 • 20h ago
+👁️ 3K • 👍 191 • 💬 52 • ⏱️ 20:24 • 21h ago
 
 ---
 
