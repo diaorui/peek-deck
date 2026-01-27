@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T19:49:52.893795+00:00'
+updated: '2026-01-27T20:25:02.109997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 19:49 UTC  
+**Last Updated:** January 27, 2026 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -147,13 +147,13 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 21h ago
+Bloomberg • 22h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin Volatility to Start 2026, China Drove Crypto Crime in 2025 | Bloomberg Crypto 1/27/2026](https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video)**
 
-Bloomberg • 57m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg • 57m ago
 
 Steak ’n Shake said it increased its Bitcoin exposure by an additional $5 million in notional value today.
 
-Bitcoin Magazine • 19m ago
+Bitcoin Magazine • 54m ago
 
 ---
 
@@ -244,7 +244,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 2 • 💬 0 • 45m ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -260,7 +260,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 8h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 9h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -276,7 +276,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Traders are braced for this week’s inflation reading to be higher than previously expected—triggering warnings of "unprecedented stagflation"...
 
-⬆️ 18 • 💬 5 • 6d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
+⬆️ 18 • 💬 5 • 7d ago • [Forbes](https://www.forbes.com/sites/digital-assets/2026/01/20/get-ready-us-dollar-collapse-warning-issued-as-markets-brace-for-gold-and-bitcoin-price-shocks/)
 
 ---
 
@@ -308,7 +308,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 3h ago
+👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 8h ago
+👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 21h ago
+👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 22h ago
 
 ---
 
@@ -338,7 +338,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 19h ago
+👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 20h ago
 
 ---
 
@@ -348,7 +348,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 5h ago
+👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 6h ago
 
 ---
 
@@ -358,7 +358,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 21h ago
+👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 22h ago
 
 ---
 
@@ -368,7 +368,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 9h ago
+👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 10h ago
 
 ---
 
@@ -378,7 +378,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 19h ago
+👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 20h ago
 
 ---
 
@@ -398,7 +398,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 20h ago
+👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 21h ago
 
 ---
 

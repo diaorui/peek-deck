@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T19:49:52.901668+00:00'
+updated: '2026-01-27T20:25:02.117973+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 19:49 UTC  
+**Last Updated:** January 27, 2026 at 20:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-20m ago
+55m ago
 
 ---
 
@@ -134,7 +134,7 @@ Global Times • 1d ago
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 5h ago
+Sherwood News • 6h ago
 
 ---
 
@@ -142,7 +142,7 @@ Sherwood News • 5h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 6h ago
+Stock Titan • 7h ago
 
 ---
 
@@ -174,7 +174,7 @@ Nature • 1d ago
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 28m ago
+NASA (.gov) • 1h ago
 
 ---
 
@@ -244,7 +244,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 2K • 👍 42 • 💬 7 • ⏱️ 0:55 • 6h ago
+👁️ 2K • 👍 42 • 💬 7 • ⏱️ 0:55 • 7h ago
 
 ---
 
