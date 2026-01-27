@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T05:28:33.230872+00:00'
+updated: '2026-01-27T05:52:19.640631+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 05:28 UTC  
+**Last Updated:** January 27, 2026 at 05:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 16h ago
 
 ---
 
@@ -120,7 +120,7 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-19h ago
+20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Yahoo Finance • 13h ago
 
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 101 • 💬 7 • ⏱️ 3:42 • 8h ago
+👁️ 1K • 👍 101 • 💬 7 • ⏱️ 3:42 • 9h ago
 
 ---
 

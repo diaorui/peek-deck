@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T05:28:33.217888+00:00'
+updated: '2026-01-27T05:52:19.626364+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 05:28 UTC  
+**Last Updated:** January 27, 2026 at 05:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 13h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 1h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 12h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 13h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 1h ago
 
 One stock looks like a far better investment than the other.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 55m ago
 
 This is how Cloudflare plans to help build an infrastructure for the AI content economy, following its acquisition of Human Native.
 
-Digiday • 26m ago
+Digiday • 50m ago
 
 ---
 
@@ -177,7 +177,7 @@ Digiday • 26m ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Axios • 7h ago
 
 Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -243,7 +243,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 211 • 💬 148 • 13h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 211 • 💬 148 • 14h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -355,7 +355,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 88K • 👍 960 • 💬 159 • ⏱️ 21:00 • 14h ago
+👁️ 88K • 👍 960 • 💬 159 • ⏱️ 21:00 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 24K • 👍 787 • 💬 175 • ⏱️ 12:43 • 1d ago
+👁️ 24K • 👍 787 • 💬 175 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -688,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 14h ago
+⭐ 6.2k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -708,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 517 • 2h ago
+⭐ 4.9k • 🔱 517 • 3h ago
 
 ---
 

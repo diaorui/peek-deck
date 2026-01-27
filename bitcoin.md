@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T05:28:33.225478+00:00'
+updated: '2026-01-27T05:52:19.634682+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 05:28 UTC  
+**Last Updated:** January 27, 2026 at 05:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
-**EXTREME FEAR**
+### 29
+**FEAR**
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 7h ago
 
 The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 8h ago
 
 Top stablecoins have shed $2.2 billion in 10 days, in a sign investors are cashing out to fiat instead of waiting to buy the dip.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Decrypt • 1h ago
 
 “While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
 
-Sherwood News • 13h ago
+Sherwood News • 14h ago
 
 ---
 
@@ -207,7 +207,7 @@ TradingView • 1h ago
 
 BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 2 • 💬 0 • 15h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 2 • 💬 0 • 16h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 248 • 💬 9 • ⏱️ 12:54 • 12h ago
+👁️ 4K • 👍 248 • 💬 9 • ⏱️ 12:54 • 13h ago
 
 ---
 
@@ -406,7 +406,7 @@ Binance Founder Changpeng Zhao (CZ) says 2026 will be a supercycle year for Bitc
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 43 • 💬 9 • ⏱️ 1:00 • 10h ago
+👁️ 2K • 👍 43 • 💬 9 • ⏱️ 1:00 • 11h ago
 
 ---
 

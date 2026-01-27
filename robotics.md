@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T05:28:33.233699+00:00'
+updated: '2026-01-27T05:52:19.643843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 05:28 UTC  
+**Last Updated:** January 27, 2026 at 05:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 **[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
 
-17m ago
+40m ago
 
 ---
 
@@ -80,7 +80,7 @@ I don't have much information, but it's a bit viral on X
 
 Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 **[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -144,7 +144,7 @@ thespoon.tech • 10h ago
 
 Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
 
-krcrtv.com • 1h ago
+krcrtv.com • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Financial Times • 2d ago
 
 The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
-bgr.com • 17h ago
+bgr.com • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 7K • 👍 395 • 💬 10 • ⏱️ 0:55 • 17h ago
+👁️ 7K • 👍 395 • 💬 10 • ⏱️ 0:55 • 18h ago
 
 ---
 
