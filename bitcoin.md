@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T23:24:00.034989+00:00'
+updated: '2026-01-27T23:45:29.682229+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 23:24 UTC  
+**Last Updated:** January 27, 2026 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,093.93
+### $89,325.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.6%  
-**30d:** +2.2%  
-**90d:** -17.7%  
-**1y:** -12.1%  
+**24h:** +1.2%  
+**7d:** -0.2%  
+**30d:** +2.5%  
+**90d:** -17.4%  
+**1y:** -11.8%  
 
 ---
 
@@ -83,17 +83,9 @@ Rank #1
 
 ---
 
-**[Me, sold everything to Buy the Dip ..](https://www.reddit.com/r/Bitcoin/comments/1qokd1m/me_sold_everything_to_buy_the_dip/)**
-
-HODL.
-
-5h ago
-
----
-
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +99,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-8h ago
+9h ago
+
+---
+
+**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
+
+5h ago
 
 ---
 
@@ -115,13 +113,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-10h ago
-
----
-
-**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
-
-5h ago
+11h ago
 
 ---
 
@@ -133,7 +125,13 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-7h ago
+8h ago
+
+---
+
+**[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
+
+1h ago
 
 ---
 
@@ -153,19 +151,19 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin’s Falling Price Puts Miners on Edge](https://decrypt.co/356011/bitcoins-falling-price-puts-miners-on-edge)**
-
-Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
-
-Decrypt • 10h ago
-
----
-
 **[Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal](https://www.coindesk.com/markets/2026/01/26/here-are-the-winners-and-losers-from-nvidia-s-usd2b-coreweave-investment)**
 
 Nvidia’s deepened partnership with CoreWeave raises pressure on bitcoin miners pivoting to AI infrastructure.
 
 CoinDesk • 1d ago
+
+---
+
+**[Bitcoin’s Falling Price Puts Miners on Edge](https://decrypt.co/356011/bitcoins-falling-price-puts-miners-on-edge)**
+
+Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
+
+Decrypt • 11h ago
 
 ---
 
@@ -175,19 +173,27 @@ The Block • 1d ago
 
 ---
 
+**[What is Massachusetts doing to stop Bitcoin ATM scams?](https://www.wcvb.com/article/what-is-massachusetts-doing-to-stop-bitcoin-atm-scams/70094656)**
+
+How one New England state took quick action
+
+wcvb.com • 1h ago
+
+---
+
 **[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Price Nears $90K As Trump Shrugs Off Dollar Concerns](https://bitcoinmagazine.com/markets/bitcoin-price-surges-near-90000)**
+**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
 
-The bitcoin price rallied sharply from intra-day lows of $87,100 into the close on Tuesday, surging above $89,400.
+Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-Bitcoin Magazine • 1h ago
+CNBC • 46m ago
 
 ---
 
@@ -207,19 +213,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+**[Bitcoin (BTC) price rangebound in thin volume as traders rotate into metals: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/27/bitcoin-ether-stall-as-metals-steal-spotlight-in-low-liquidity-trade-crypto-markets-today)**
 
-Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
+Bitcoin and ether trade sideways on weak liquidity as gold and silver rally, highlighting a risk-off rotation that’s also lifting niche crypto tokens.
 
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin Just Passed the $90,000 Mark. Can These 3 Tailwinds Help It Hold That Price?](https://www.fool.com/investing/2026/01/27/bitcoin-just-passed-the-90000-mark-can-these-3-tai/)**
-
-Bitcoin's push above $90,000 may be the start of an extended rally.
-
-The Motley Fool • 3h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -290,7 +288,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 2h ago
+⬆️ 1 • 💬 1 • 3h ago
 
 ---
 
@@ -320,7 +318,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 15K • 👍 1K • 💬 114 • ⏱️ 17:32 • 2h ago
+👁️ 15K • 👍 1K • 💬 114 • ⏱️ 17:32 • 3h ago
 
 ---
 
@@ -380,7 +378,7 @@ In this video, we'll break down exactly what happens to Bitcoin if Trump follows
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 291 • 2h ago
+👁️ 6K • 👍 291 • 3h ago
 
 ---
 

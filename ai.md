@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T23:24:00.026583+00:00'
+updated: '2026-01-27T23:45:29.673868+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 23:24 UTC  
+**Last Updated:** January 27, 2026 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Installed MoltBot locally. Powerful… but I uninstalled it the same day.](https://www.reddit.com/r/artificial/comments/1qot8pk/installed_moltbot_locally_powerful_but_i/)**
+
+Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
+
+1h ago
+
+---
+
 **[Why enterprise AI fails at complex technical work (and how to fix it)](https://www.reddit.com/r/artificial/comments/1qomypk/why_enterprise_ai_fails_at_complex_technical_work/)**
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
 4h ago
+
+---
+
+**[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
+
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 43m ago
 
 ---
 
@@ -53,11 +67,19 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 ---
 
+**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
+
+A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
+
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 7h ago
+
+---
+
 **[Creating an AI commercial ad with consistent products](https://www.reddit.com/r/artificial/comments/1qomiad/creating_an_ai_commercial_ad_with_consistent/)**
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-4h ago
+5h ago
 
 ---
 
@@ -81,14 +103,6 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 ---
 
-**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
-
-A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
-
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 7h ago
-
----
-
 **[Philips unveils first AI-ready advertising boards, digital signage ranging from 32″ to 98″ to be demoed soon](https://www.reddit.com/r/artificial/comments/1qogm84/philips_unveils_first_aiready_advertising_boards/)**
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
@@ -105,22 +119,6 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 ---
 
-**[Looking for help in floor plan ai](https://www.reddit.com/r/artificial/comments/1qoa5cb/looking_for_help_in_floor_plan_ai/)**
-
-Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
-
-13h ago
-
----
-
-**[Meta plan to bundle AI tools into premium subscriptions accross its apps](https://www.reddit.com/r/artificial/comments/1qo2yds/meta_plan_to_bundle_ai_tools_into_premium/)**
-
-Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
-
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 19h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -133,55 +131,9 @@ OpenAI • 6h ago
 
 ---
 
-**[OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)**
-
-OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.
-
-TechCrunch • 5h ago
-
----
-
-**[Foundation AI models trained on physics, not words, are driving scientific discovery](https://techxplore.com/news/2026-01-foundation-ai-physics-words-scientific.html)**
-
-Tech Xplore • 2h ago
-
----
-
-**[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
-
-Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
-
-The Guardian • 3h ago
-
----
-
-**[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
-
-"Humanity is about to be handed almost unimaginable power."
-
-Axios • 1d ago
-
----
-
-**[Dario Amodei warns AI may cause ‘unusually painful’ disruption to jobs](https://www.cnbc.com/2026/01/27/dario-amodei-warns-ai-cause-unusually-painful-disruption-jobs.html)**
-
-"The pace of progress in AI is much faster than for previous technological revolutions," the Antrhopic CEO said in latest comments about AI's impact on jobs.
-
-CNBC • 5h ago
-
----
-
 **[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
 
-Reuters • 6h ago
-
----
-
-**[Pinterest layoffs reveal AI cracks in the job market](https://www.axios.com/2026/01/27/ai-pinterest-layoffs)**
-
-Pinterest announced on Tuesday that it plans to lay off "less than 15%" of its workforce.
-
-Axios • 1h ago
+Reuters • 7h ago
 
 ---
 
@@ -193,11 +145,57 @@ CNBC • 10h ago
 
 ---
 
-**[Some Savvy Wall Streeters Just Named This the Top AI Pick for 2026](https://finance.yahoo.com/news/savvy-wall-streeters-just-named-214300243.html)**
+**[Pinterest layoffs reveal AI cracks in the job market](https://www.axios.com/2026/01/27/ai-pinterest-layoffs)**
 
-Analysts see more upside in artificial intelligence (AI) semiconductor stocks this year.
+Pinterest announced on Tuesday that it plans to lay off "less than 15%" of its workforce.
 
-Yahoo Finance • 1h ago
+Axios • 1h ago
+
+---
+
+**[AI helps preserve Holocaust survivors’ stories for future generations](https://www.cbsnews.com/texas/video/ai-helps-preserve-holocaust-survivors-stories-for-future-generations/)**
+
+On International Holocaust Remembrance Day, new technology is helping keep survivors’ voices alive. A project called Testimony 360 uses artificial intelligence and virtual reality to let students ask a digital version of a survivor questions about her life and walk through recreated locations from her past, including the camps where she was imprisoned as a teenager. The goal is to preserve firsthand accounts long after survivors are gone.
+
+CBS News • 44m ago
+
+---
+
+**[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[People are protesting AI data centers, and it's scrambling political lines](https://www.npr.org/2026/01/25/nx-s1-5684321/trump-ai)**
+
+Data centers used to fuel AI are popping up all over the U.S., and they're becoming a midterm issue for voters that's now drawing White House attention.
+
+NPR • 1d ago
+
+---
+
+**[This university campus is heated by an AI data center. Your home could be next](https://www.cnbc.com/2026/01/27/data-centers-ai-district-heating-aws-amazon-ireland.html)**
+
+AI’s energy problem may also be its solution, as cities are increasingly exploring opportunities to repurpose excess heat from data centers.
+
+CNBC • 17h ago
+
+---
+
+**['AI mirrors' are changing the way blind people see themselves](https://www.bbc.com/future/article/20260126-ai-mirrors-are-changing-the-way-blind-people-see-themselves)**
+
+Artificial intelligence is helping blind people access visual feedback about their bodies, sometimes for the first time. The impact on their mental health is only just emerging.
+
+BBC • 13h ago
+
+---
+
+**[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
+
+Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
+
+The Guardian • 3h ago
 
 ---
 
@@ -207,7 +205,7 @@ Yahoo Finance • 1h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 857 • 💬 738 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 861 • 💬 741 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -223,7 +221,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 585 • 💬 701 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 586 • 💬 702 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -247,13 +245,13 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 335 • 💬 223 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 335 • 💬 224 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 232 • 💬 144 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 233 • 💬 144 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -261,21 +259,21 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 231 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 232 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 122 • 💬 94 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 122 • 💬 95 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
-**[Show HN: An interactive map of US lighthouses and navigational aids](https://news.ycombinator.com/item?id=46756427)**
+**[AI2: Open Coding Agents](https://news.ycombinator.com/item?id=46783017)**
 
-Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
+SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 98 • 💬 21 • 2d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 100 • 💬 17 • 6h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -667,7 +665,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 606 • 7h ago
+⭐ 11.0k • 🔱 606 • 8h ago
 
 ---
 
@@ -717,7 +715,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 530 • 3h ago
+⭐ 5.0k • 🔱 530 • 4h ago
 
 ---
 
@@ -727,7 +725,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.4k • 🔱 1.0k • 5h ago
+⭐ 4.4k • 🔱 1.0k • 6h ago
 
 ---
 
