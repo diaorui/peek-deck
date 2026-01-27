@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T19:27:41.274257+00:00'
+updated: '2026-01-27T19:49:52.898926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 19:27 UTC  
+**Last Updated:** January 27, 2026 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.5%  
-**30d:** +0.2%  
-**90d:** -22.6%  
-**1y:** -4.2%  
+**24h:** +3.0%  
+**7d:** -0.1%  
+**30d:** +1.6%  
+**90d:** -21.5%  
+**1y:** -2.9%  
 
 ---
 
@@ -84,6 +84,12 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 ---
 
+**[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
+
+42m ago
+
+---
+
 **[The scaling hierarchy in blockchains](https://www.reddit.com/r/ethereum/comments/1qo08yq/the_scaling_hierarchy_in_blockchains/)**
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
@@ -96,7 +102,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-15h ago
+16h ago
 
 ---
 
@@ -140,14 +146,6 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 ---
 
-**[US Spot ETH ETFs recorded $1.5B in net outflows in Q4 2025, the single highest quarter of net outflows for the sector.](https://www.reddit.com/r/ethereum/comments/1qnblvo/us_spot_eth_etfs_recorded_15b_in_net_outflows_in/)**
-
-Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -180,7 +178,7 @@ Yahoo Finance • 2h ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 20h ago
+thedefiant.io • 21h ago
 
 ---
 
@@ -248,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 434 • 👍 44 • 💬 4 • ⏱️ 4:08 • 1h ago
+👁️ 434 • 👍 44 • 💬 4 • ⏱️ 4:08 • 2h ago
 
 ---
 
@@ -298,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 95 • 💬 4 • ⏱️ 4:04 • 13h ago
+👁️ 2K • 👍 95 • 💬 4 • ⏱️ 4:04 • 14h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 220 • 👍 20 • 💬 2 • ⏱️ 4:21 • 9h ago
+👁️ 220 • 👍 20 • 💬 2 • ⏱️ 4:21 • 10h ago
 
 ---
 

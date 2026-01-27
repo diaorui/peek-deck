@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T19:27:41.260085+00:00'
+updated: '2026-01-27T19:49:52.886392+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 19:27 UTC  
+**Last Updated:** January 27, 2026 at 19:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-29m ago
+52m ago
 
 ---
 
@@ -49,7 +49,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-45m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi I am a cs undergrad working on project where I need to search for models whic
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 15h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 16h ago
 
 ---
 
@@ -129,15 +129,15 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 5h ago
+The Guardian • 1h ago
 
 ---
 
-**[Anthropic CEO on the risks on unchecked AI development](https://www.nbcnews.com/video/shorts/anthropic-ceo-on-the-risks-on-unchecked-ai-development-256668229989)**
+**[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
 
-Anthropic CEO on the risks on unchecked AI development
+"Humanity is about to be handed almost unimaginable power."
 
-NBC News • 1h ago
+Axios • 9h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 1h ago
 
 ---
 
-**[Pinterest laying off 15% of workforce in push toward AI roles and teams](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html)**
+**[Pinterest laying off 15% of workforce as part of AI push; stock plummets](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html)**
 
 The company said it's "reallocating resources" to roles and teams focused on artificial intelligence.
 
@@ -159,43 +159,45 @@ CNBC • 6h ago
 
 **[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Pinterest to Cut ‘Less Than 15%’ of Staff Amid AI Push](https://www.bloomberg.com/news/articles/2026-01-27/pinterest-to-cut-less-than-15-of-staff-amid-ai-push)**
+**[Pinterest cites artificial intelligence in laying off 15% of workforce](https://www.cbsnews.com/news/pinterest-layoffs-workforce-artificial-intelligence/)**
 
-Bloomberg.com • 2h ago
+Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.
 
----
-
-**[Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)**
-
-Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
-
-TechCrunch • 1h ago
+CBS News • 57m ago
 
 ---
 
-**[Google AI Plus is now available everywhere our AI plans are available, including the U.S.](https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/)**
+**[How porn stars can survive in the age of AI](https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai)**
 
-We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.
+A dispatch from the world’s premier porn conference
 
-blog.google • 1h ago
-
----
-
-**[Google AI Plus is now available in the US for $8 a month](https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html)**
-
-Google AI Plus, the company’s most affordable AI subscription plan, is now rolling out in the US.
-
-Engadget • 1h ago
+The Economist • 56m ago
 
 ---
 
-**[OpenAI Debuts New Tool for Scientists in Push for AI Discovery](https://www.bloomberg.com/news/articles/2026-01-27/openai-debuts-new-tool-for-scientists-in-push-for-ai-discovery)**
+**['Doomsday Clock' Moves Closer to Midnight Than Ever](https://time.com/7358249/doomsday-clock-midnight/)**
 
-Bloomberg.com • 1h ago
+Scientists cited artificial intelligence and how it’s used to supercharge disinformation as a new risk.
+
+Time Magazine • 46m ago
+
+---
+
+**[Nvidia Just Doubled Down on Its Largest AI Holding. Should Investors Follow Suit?](https://www.fool.com/investing/2026/01/27/nvidia-just-doubled-down-on-its-largest-ai-holding/)**
+
+The AI-centric neocloud provider just got a huge vote of confidence.
+
+The Motley Fool • 3h ago
+
+---
+
+**[AI Chip Clock Maker Sets Up After 2,557% Gain](https://www.investors.com/research/ai-stock-chip-sitime-sitm-stock/)**
+
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -287,7 +289,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 1K • 👍 52 • 💬 19 • ⏱️ 18:01 • 3h ago
+👁️ 1K • 👍 52 • 💬 19 • ⏱️ 18:01 • 4h ago
 
 ---
 
@@ -665,7 +667,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 603 • 3h ago
+⭐ 11.0k • 🔱 603 • 4h ago
 
 ---
 
@@ -675,7 +677,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.4k • 🔱 494 • 1d ago
+⭐ 9.4k • 🔱 494 • 2d ago
 
 ---
 
@@ -705,7 +707,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.7k • 4h ago
+⭐ 6.2k • 🔱 6.7k • 5h ago
 
 ---
 
@@ -715,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 530 • 16h ago
+⭐ 5.0k • 🔱 530 • 17h ago
 
 ---
 
@@ -725,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 994 • 1h ago
+⭐ 4.3k • 🔱 994 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T19:27:41.268330+00:00'
+updated: '2026-01-27T19:49:52.893795+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 19:27 UTC  
+**Last Updated:** January 27, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.0%  
-**30d:** +0.7%  
-**90d:** -18.9%  
-**1y:** -13.4%  
+**24h:** +1.0%  
+**7d:** -1.3%  
+**30d:** +1.4%  
+**90d:** -18.3%  
+**1y:** -12.8%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 HODL.
 
-1h ago
+2h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ HODL.
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -151,57 +151,25 @@ The Block • 21h ago
 
 ---
 
-**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
-
-Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
-
-CoinDesk • 13h ago
-
----
-
-**[Fears grow that bitcoin is entering a bear market](https://sherwood.news/crypto/fears-grow-that-bitcoin-is-entering-a-bear-market/)**
-
-“While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
-
-Sherwood News • 1d ago
-
----
-
-**[Heatbit’s New Maxi Launch Turns Home Warmth Into Bitcoin Rewards](https://www.forbes.com/sites/tanyaakim/2026/01/27/heatbits-new-maxi-launch-turns-home-warmth-into-bitcoin-rewards/)**
-
-Co-founder and CEO Alex Busarov describes the evolution of his product that heats a room, purifies the air, and mines Bitcoin all at the same time.
-
-Forbes • 2h ago
-
----
-
-**[Bitcoin miners hit with downgrades, winter storm](https://sherwood.news/crypto/bitcoin-miners-hit-with-downgrades-winter-storm/)**
-
-While the bitcoin hashrate has crashed, experts say this is a temporary reaction to the weather....
-
-Sherwood News • 2h ago
-
----
-
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
-
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
-
-Yahoo Finance • 23h ago
-
----
-
-**[Strategy buys more Bitcoin—$264 million of it—even as Bitcoin slumps to $87,000](https://fortune.com/2026/01/26/strategy-buys-more-bitcoin-264-million-of-it-even-as-bitcoin-slumps-to-87000/)**
-
-The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
-
-Fortune • 1d ago
-
----
-
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg.com • 21h ago
+Bloomberg • 21h ago
+
+---
+
+**[Bitcoin’s Falling Price Puts Miners on Edge](https://decrypt.co/356011/bitcoins-falling-price-puts-miners-on-edge)**
+
+Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
+
+Decrypt • 7h ago
+
+---
+
+**[Arctic Blast Forces US Bitcoin Miners to Cut Operations as Power Costs Surge](https://finance.yahoo.com/news/arctic-blast-forces-us-bitcoin-183440788.html)**
+
+Hash rate drops sharply as US-based mining pools scale back amid extreme cold and strained power grids.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,11 +181,41 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[BlackRock eyes new Bitcoin ETF with premium](https://www.dlnews.com/articles/markets/blackrock-eyes-new-bitcoin-etf-with-premium/)**
+**[BlackRock looks to bring yield-generation to Bitcoin investments with iShares Bitcoin Premium Income ETF](https://www.theblock.co/post/387089/blackrock-looks-to-bring-yield-generation-to-bitcoin-investments-with-ishares-bitcoin-premium-income-etf)**
 
-BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares.  Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
+The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
-dlnews.com • 22h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin ETFs Turn Positive After Five-Day $1.7B Losing Streak](https://finance.yahoo.com/news/bitcoin-etfs-turn-positive-five-183628338.html)**
+
+Bitcoin ETFs saw a modest $6.8 million in net inflows Monday, putting an end to a five-day streak of outflows.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Volatility to Start 2026, China Drove Crypto Crime in 2025 | Bloomberg Crypto 1/27/2026](https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video)**
+
+Bloomberg • 57m ago
+
+---
+
+**[Steak ’n Shake Adds $5 Million in Bitcoin Exposure, Deepening Bitcoin Commitment](https://bitcoinmagazine.com/news/steak-n-shake-adds-5-million-in-bitcoin)**
+
+Steak ’n Shake said it increased its Bitcoin exposure by an additional $5 million in notional value today.
+
+Bitcoin Magazine • 19m ago
+
+---
+
+**[Strategy buys more Bitcoin—$264 million of it—even as Bitcoin slumps to $87,000](https://fortune.com/2026/01/26/strategy-buys-more-bitcoin-264-million-of-it-even-as-bitcoin-slumps-to-87000/)**
+
+The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
+
+Fortune • 1d ago
 
 ---
 
@@ -246,7 +244,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 2 • 💬 0 • 23m ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 2 • 💬 0 • 45m ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -390,7 +388,7 @@ ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and out
 
 📺 Fox Business Clips
 
-👁️ 45K • 👍 658 • 💬 460 • ⏱️ 4:20 • 1d ago
+👁️ 45K • 👍 658 • 💬 460 • ⏱️ 4:20 • 2d ago
 
 ---
 
