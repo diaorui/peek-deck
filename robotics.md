@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T22:47:20.940400+00:00'
+updated: '2026-01-27T23:24:00.044429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 22:47 UTC  
+**Last Updated:** January 27, 2026 at 23:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-13h ago
+14h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hey everyone, I’m currently looking for a fun and interactive robot similar to
 
 Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine. Edit: The issue of having the intermidiate states have all the same orientation was solved. The issue was that the yaw angle was set using state[3] instead of state.yaw(). However, this didn't solve the issue with RRTConnect, as it still has a sharp 180º turn where the branches meet.
 
-7h ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a groun
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 8h ago
+Sherwood News • 9h ago
 
 ---
 
@@ -126,7 +126,7 @@ Sherwood News • 8h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ Global Times • 1d ago
 
 The Center for AI and Robotic Excellence in Medicine (CARE) is designed to advance AI and robotics for medical research, training and care.
 
-jconline.com • 5h ago
+jconline.com • 6h ago
 
 ---
 
@@ -196,13 +196,41 @@ Nature • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Robotics Stocks: RR Richtech Robotics Up 70%! 🔥🚀💰#investingtips #moneytalks](https://www.youtube.com/watch?v=Abc3L3weRx4)**
+
+Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MONEY MOVES" Get All my Stock ...
+
+📺 STOCK UP! with LARRY JONES
+
+👁️ 2K • 👍 122 • 💬 29 • ⏱️ 0:47 • 1h ago
+
+---
+
 **[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
 
 RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
 
 📺 AITECHGADGETS
 
-👁️ 205K • 💬 116 • ⏱️ 0:18 • 1d ago
+👁️ 209K • 💬 119 • ⏱️ 0:18 • 1d ago
+
+---
+
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+
+📺 Romi Pal
+
+👁️ 274K • 👍 6K • 💬 34 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+
+The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+
+📺 EcoZora
+
+👁️ 328K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
 
 ---
 
@@ -216,13 +244,13 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+**[War Robots: Is ULTIMATE REVENANT actually worth it?](https://www.youtube.com/watch?v=dqmRmx-N12c)**
 
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+War Robots Test Server Gameplay: New ULTIMATE Revenant - worth it? My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 EcoZora
+📺 Manni-Gaming
 
-👁️ 324K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
+👁️ 7K • 👍 402 • 💬 88 • ⏱️ 16:07 • 13h ago
 
 ---
 
@@ -232,7 +260,17 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 119K • 👍 3K • 💬 176 • ⏱️ 17:39 • 3d ago
+👁️ 120K • 👍 3K • 💬 176 • ⏱️ 17:39 • 3d ago
+
+---
+
+**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+
+Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+
+📺 Fox News
+
+👁️ 49K • 👍 2K • 💬 239 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -242,7 +280,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 3K • 👍 52 • 💬 7 • ⏱️ 0:55 • 9h ago
+👁️ 4K • 👍 58 • 💬 10 • ⏱️ 0:55 • 10h ago
 
 ---
 
@@ -251,46 +289,6 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 📺 Bernie Sanders
 
 👁️ 27K • 👍 3K • 💬 124 • ⏱️ 1:13 • 5d ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 83 • 💬 73 • ⏱️ 2:47 • 5d ago
-
----
-
-**[Inside the $5.6B Startup Building Robot Brains (Physical Intelligence)](https://www.youtube.com/watch?v=b8BDUa-xbyA)**
-
-Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly? This was the first time seeing a robot truly ...
-
-📺 Sachin and Adam
-
-👁️ 45K • 👍 2K • 💬 110 • ⏱️ 21:39 • 6d ago
-
----
-
-**[War Robots: Is ULTIMATE REVENANT actually worth it?](https://www.youtube.com/watch?v=dqmRmx-N12c)**
-
-War Robots Test Server Gameplay: New ULTIMATE Revenant - worth it? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 364 • 💬 77 • ⏱️ 16:07 • 12h ago
-
----
-
-**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
-
-Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
-
-📺 Fox Business Clips
-
-👁️ 31K • 👍 380 • 💬 140 • ⏱️ 3:39 • 4d ago
 
 ---
 

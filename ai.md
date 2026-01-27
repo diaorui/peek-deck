@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T22:47:20.922757+00:00'
+updated: '2026-01-27T23:24:00.026583+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 22:47 UTC  
+**Last Updated:** January 27, 2026 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-14h ago
+15h ago
 
 ---
 
@@ -77,7 +77,7 @@ Determined to use her skills to fight inequality, South African computer scienti
 
 In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
 
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 9h ago
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 10h ago
 
 ---
 
@@ -85,7 +85,7 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
 
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 6h ago
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 7h ago
 
 ---
 
@@ -93,7 +93,7 @@ A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 7h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 8h ago
 
 ---
 
@@ -101,7 +101,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi I am a cs undergrad working on project where I need to search for models whic
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 18h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 19h ago
 
 ---
 
@@ -129,7 +129,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 5h ago
+OpenAI • 6h ago
 
 ---
 
@@ -137,13 +137,13 @@ OpenAI • 5h ago
 
 OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
 **[Foundation AI models trained on physics, not words, are driving scientific discovery](https://techxplore.com/news/2026-01-foundation-ai-physics-words-scientific.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Tech Xplore • 1h ago
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 1d ago
 
 "The pace of progress in AI is much faster than for previous technological revolutions," the Antrhopic CEO said in latest comments about AI's impact on jobs.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 6h ago
 
 Pinterest announced on Tuesday that it plans to lay off "less than 15%" of its workforce.
 
-Axios • 30m ago
+Axios • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 30m ago
 
 The company said it's "reallocating resources" to roles and teams focused on artificial intelligence.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -289,7 +289,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 3K • 👍 101 • 💬 37 • ⏱️ 18:01 • 6h ago
+👁️ 6K • 👍 170 • 💬 57 • ⏱️ 18:01 • 7h ago
 
 ---
 
@@ -299,37 +299,17 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 121K • 👍 2K • 💬 609 • ⏱️ 4:20 • 1d ago
+👁️ 129K • 👍 2K • 💬 633 • ⏱️ 4:20 • 1d ago
 
 ---
 
-**[How to Make Animated Cartoon videos with AI (Full Course)](https://www.youtube.com/watch?v=oEzIrS7cM3M)**
+**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
 
-Create Animated Cartoons with OpenArt https://youricreates.com/cartoons In this video, I show you a complete five-step ...
+Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
 
-📺 Youri van Hofwegen
+📺 Axios
 
-👁️ 7K • 💬 7 • ⏱️ 15:48 • 6h ago
-
----
-
-**[How Corning Invented A New Fiber-Optic Cable For AI And Landed A $6 Billion Meta Deal](https://www.youtube.com/watch?v=Y3KLbc5DlRs)**
-
-Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data centers, in a deal reported first by CNBC. Famous for ...
-
-📺 CNBC
-
-👁️ 31K • 👍 991 • 💬 80 • ⏱️ 17:45 • 7h ago
-
----
-
-**[OpenAI Went From AGI to ADS Real Fast](https://www.youtube.com/watch?v=Axn3CwrW-nE)**
-
-The AI industry just collided with reality. After years of hype, demos, and unlimited spending, the pressure is finally visible — cash ...
-
-📺 AI Revolution
-
-👁️ 67K • 👍 2K • 💬 254 • ⏱️ 12:27 • 2d ago
+👁️ 8K • 👍 188 • 💬 21 • ⏱️ 5:57 • 1d ago
 
 ---
 
@@ -339,27 +319,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 25K • 👍 814 • 💬 176 • ⏱️ 12:43 • 2d ago
-
----
-
-**[AI Image Generators Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=_Ow97llH1YE)**
-
-Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this video, I'm ranking the best AI image ...
-
-📺 Roboverse
-
-👁️ 8K • 💬 9 • ⏱️ 13:19 • 8h ago
-
----
-
-**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
-
-Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
-
-📺 The Bitchuation Room (with Francesca Fiorentini)
-
-👁️ 17K • 👍 2K • 💬 279 • ⏱️ 17:08 • 2d ago
+👁️ 25K • 👍 820 • 💬 177 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -369,17 +329,57 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 143K • 👍 1K • 💬 191 • ⏱️ 21:00 • 1d ago
+👁️ 153K • 👍 1K • 💬 195 • ⏱️ 21:00 • 1d ago
 
 ---
 
-**[ChatGPT Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=Hm3QR4dUQI4)**
+**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
 
-Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video69 ✓ Design your ...
+Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
 
-📺 Mikey No Code
+📺 The Bitchuation Room (with Francesca Fiorentini)
 
-👁️ 12K • 💬 15 • ⏱️ 20:46 • 8h ago
+👁️ 17K • 👍 2K • 💬 284 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[How Corning Invented A New Fiber-Optic Cable For AI And Landed A $6 Billion Meta Deal](https://www.youtube.com/watch?v=Y3KLbc5DlRs)**
+
+Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data centers, in a deal reported first by CNBC. Famous for ...
+
+📺 CNBC
+
+👁️ 55K • 👍 1K • 💬 131 • ⏱️ 17:45 • 8h ago
+
+---
+
+**[FREE &amp; UNLIMITED: Create Unlimited Ai Videos with NEW Ai; Best AI Video Generator (100% FREE)](https://www.youtube.com/watch?v=WSqkgLWLSmI)**
+
+Try Katalist AI for FREE; ...
+
+📺 howtomoneyai
+
+👁️ 4K • 👍 125 • 💬 16 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[Sick of using 50 different AI tools? This one COMBINES them all (Genspark)](https://www.youtube.com/watch?v=EVSCBOcfBCg)**
+
+Get Unlimited AI Chat & Image Generation with Genspark: ...
+
+📺 Tech With Lucy
+
+👁️ 2K • 👍 75 • 💬 10 • ⏱️ 11:29 • 9h ago
+
+---
+
+**[This Week Changed AI Forever](https://www.youtube.com/watch?v=yEvr1bmFlOM)**
+
+CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam Footage From Any Angle 05:02 What ...
+
+📺 Dylan Curious
+
+👁️ 6K • 👍 305 • 💬 72 • ⏱️ 27:06 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,223 • 4d ago
+⬇️ 43,872 • ❤️ 1,238 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 642 • 9h ago
+⬇️ 76,679 • ❤️ 649 • 10h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 627 • 4d ago
+⬇️ 138,693 • ❤️ 630 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,271 • 7d ago
+⬇️ 532,168 • ❤️ 1,275 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 524 • 10h ago
+⬇️ 10,965 • ❤️ 569 • 11h ago
 
 ---
 
@@ -455,7 +455,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 387 • 6d ago
+⬇️ 19,899 • ❤️ 393 • 6d ago
 
 ---
 
@@ -467,19 +467,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 317 • 11h ago
-
----
-
-**[Chroma-4B](https://huggingface.co/FlashLabs/Chroma-4B)**
-
-*FlashLabs*
-
-Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech understanding, multimodal generation (text and speech), and personalized voice cloning using reference audio. It's built on Qwen2.5-Omni-3B and Llama3, targeting applications like voice agents and virtual humans.
-
-`any-to-any` `5.9B`
-
-⬇️ 5,776 • ❤️ 258 • 1d ago
+⬇️ 0 • ❤️ 333 • 12h ago
 
 ---
 
@@ -491,7 +479,19 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 249 • 6h ago
+⬇️ 0 • ❤️ 302 • 7h ago
+
+---
+
+**[Chroma-4B](https://huggingface.co/FlashLabs/Chroma-4B)**
+
+*FlashLabs*
+
+Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech understanding, multimodal generation (text and speech), and personalized voice cloning using reference audio. It's built on Qwen2.5-Omni-3B and Llama3, targeting applications like voice agents and virtual humans.
+
+`any-to-any` `5.9B`
+
+⬇️ 5,776 • ❤️ 260 • 1d ago
 
 ---
 
@@ -503,7 +503,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 248 • 5d ago
+⬇️ 3,444 • ❤️ 250 • 5d ago
 
 ---
 
@@ -519,7 +519,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 45 • 💬 1 • ⭐ 5,367 • 5d ago
+▲ 45 • 💬 1 • ⭐ 5,367 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -545,7 +545,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 143 • 💬 6 • ⭐ 22,382 • 5mo ago
+▲ 143 • 💬 6 • ⭐ 22,417 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -569,7 +569,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 37 • 💬 3 • ⭐ 2,378 • 22d ago
+▲ 37 • 💬 3 • ⭐ 2,418 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -583,7 +583,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 179 • 💬 6 • ⭐ 670 • 9d ago
+▲ 179 • 💬 6 • ⭐ 704 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -667,7 +667,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 605 • 7h ago
+⭐ 11.0k • 🔱 606 • 7h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.4k • 🔱 495 • 2d ago
+⭐ 9.4k • 🔱 494 • 2d ago
 
 ---
 
@@ -687,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 951 • 4d ago
+⭐ 8.2k • 🔱 952 • 4d ago
 
 ---
 
@@ -697,7 +697,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 12h ago
+⭐ 6.3k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -727,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 999 • 5h ago
+⭐ 4.4k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -735,7 +735,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.3k • 🔱 280 • 4d ago
+⭐ 3.3k • 🔱 281 • 4d ago
 
 ---
 
@@ -755,7 +755,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 1.8k • 🔱 50 • 1d ago
+⭐ 1.8k • 🔱 50 • 2d ago
 
 ---
 

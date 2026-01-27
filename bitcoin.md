@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T22:47:20.931164+00:00'
+updated: '2026-01-27T23:24:00.034989+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 22:47 UTC  
+**Last Updated:** January 27, 2026 at 23:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.00B
+**Market Cap:** $1782.47B
 Rank #1
 
-**Circulating Supply:** 19,981,256 BTC
+**Circulating Supply:** 19,981,300 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.2%
 
 **All-Time Low:** $67.81
-+130973.6%
++131504.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ HODL.
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
 
-4h ago
+5h ago
 
 ---
 
 **[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 17h ago
 
 Bitcoin's push above $90,000 may be the start of an extended rally.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 3h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -264,7 +264,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 11h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 12h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -304,23 +304,33 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 327 • 💬 9 • ⏱️ 19:52 • 6h ago
+
+---
+
+**[Trillion Dollar Comeback into Crypto?📈Market Update](https://www.youtube.com/watch?v=3hqSF6100iE)**
+
+As the stock market witnesses high volatility, experts anticipate potential sharp corrections in the stock market as well as gold and ...
+
+📺 Paul Barron Network
+
+👁️ 15K • 👍 1K • 💬 114 • ⏱️ 17:32 • 2h ago
+
+---
+
 **[Rotation to Gold and Silver is Now...Bitcoin Is Next](https://www.youtube.com/watch?v=QVnjXPwRwR0)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 966 • 💬 141 • ⏱️ 43:35 • 6h ago
-
----
-
-**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
-
-In this video, Raoul Pal explains why the idea of a 2026 Bitcoin bear market doesn't make sense, given global debt rollovers, ...
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 236 • 💬 4 • ⏱️ 19:52 • 5h ago
+👁️ 19K • 👍 1K • 💬 196 • ⏱️ 43:35 • 7h ago
 
 ---
 
@@ -330,7 +340,17 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 55 • ⏱️ 17:45 • 1d ago
+👁️ 58K • 👍 2K • 💬 159 • ⏱️ 17:45 • 1d ago
+
+---
+
+**[99.9% Will F*CK This Up — Bitcoin Is About To Screw Everyone | Guy Swann Warning](https://www.youtube.com/watch?v=3qeLu-tSfWo)**
+
+Guy Swann explains why almost everyone is about to get Bitcoin totally wrong — and how it could come back to wreck them.
+
+📺 Bitcoin Archive w Archie
+
+👁️ 9K • 👍 293 • 💬 180 • ⏱️ 21:44 • 10h ago
 
 ---
 
@@ -340,27 +360,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 23K • 👍 2K • 💬 160 • ⏱️ 15:06 • 8h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Ca4pgbZ03LU)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Sailing Vagabond Epicurean
-
-👁️ 5K • 👍 3K • 3h ago
-
----
-
-**[Why The F*ck Won’t Crypto Pump?](https://www.youtube.com/watch?v=WvNajd9-Zmo)**
-
-Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 786 • 💬 113 • ⏱️ 14:11 • 11h ago
+👁️ 29K • 👍 2K • 💬 179 • ⏱️ 15:06 • 9h ago
 
 ---
 
@@ -370,37 +370,37 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 31K • 👍 1K • 💬 256 • ⏱️ 3:19 • 1d ago
+👁️ 32K • 👍 1K • 💬 257 • ⏱️ 3:19 • 1d ago
 
 ---
 
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
+**[🚨LIVE: Trump ANNOUNCEMENT! (Bitcoin EXPLOSION Inbound?)](https://www.youtube.com/watch?v=IjcnTyl6ELc)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+In this video, we'll break down exactly what happens to Bitcoin if Trump follows through, how it could spark volatility across ...
 
-📺 CryptosRUs
+📺 Discover Crypto
 
-👁️ 31K • 👍 2K • 💬 358 • ⏱️ 8:05 • 22h ago
-
----
-
-**[History Is Repeating For Bitcoin &amp; Crypto! [Do This To Make Generational Wealth]](https://www.youtube.com/watch?v=RgO4OJj4nRw)**
-
-In today's video Kyledoops shows a repeat pattern that shows what is next for Bitcoin & Crypto. Join live to find out how history ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 1K • 💬 23 • ⏱️ 31:36 • 14h ago
+👁️ 6K • 👍 291 • 2h ago
 
 ---
 
-**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
+**[Why The F*ck Won’t Crypto Pump?](https://www.youtube.com/watch?v=WvNajd9-Zmo)**
 
-Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
+Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 29K • 👍 2K • 💬 246 • ⏱️ 18:47 • 22h ago
+👁️ 17K • 👍 828 • 💬 121 • ⏱️ 14:11 • 12h ago
+
+---
+
+**[BITCOIN WON’T BOTTOM WHEN METALS TOP, HERE IS WHY....](https://www.youtube.com/watch?v=zKLVROscsGc)**
+
+TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available, first ...
+
+📺 100XClub
+
+👁️ 9K • 👍 880 • 💬 223 • ⏱️ 10:13 • 13h ago
 
 ---
 
