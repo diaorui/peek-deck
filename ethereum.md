@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T10:29:54.275853+00:00'
+updated: '2026-01-27T10:57:42.951250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 10:29 UTC  
+**Last Updated:** January 27, 2026 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,921.43
+### $2,914.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.7%  
-**30d:** -1.0%  
-**90d:** -23.5%  
-**1y:** -5.3%  
+**24h:** +0.5%  
+**7d:** -2.9%  
+**30d:** -1.2%  
+**90d:** -23.7%  
+**1y:** -5.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 21h ago
 
 ---
 
@@ -158,54 +158,6 @@ CoinDesk • 14h ago
 
 ---
 
-**[Ethereum Stalls In A Critical Zone As Breakout Structures Wait For Confirmation](https://www.tradingview.com/news/newsbtc:4b389a7b2094b:0-ethereum-stalls-in-a-critical-zone-as-breakout-structures-wait-for-confirmation/)**
-
-Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
-
-TradingView • 16h ago
-
----
-
-**[Ethereum Whales Fell Into a $4 Billion Bull Trap: What’s Next for ETH Price?](https://beincrypto.com/ethereum-price-analysis-bull-trap/)**
-
-Ethereum price broke out, momentum looked real, and buyers stepped in. Charts now show why that move failed and what risk still lies ahead.
-
-BeInCrypto • 1d ago
-
----
-
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
-
-BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
-
-The Block • 19h ago
-
----
-
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Decrypt • 18h ago
-
----
-
-**[Fundstrat’s Tom Lee Predicts Bitcoin, Ethereum Surge Once Metals Rally Fades](https://finance.yahoo.com/news/fundstrat-tom-lee-predicts-bitcoin-074556070.html)**
-
-Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Ethereum vs Polkadot: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/26/ethereum-vs-polkadot-which-is-more-likely-to-be-a/)**
 
 Should you invest in the blue chip token or the smaller altcoin?
@@ -214,9 +166,55 @@ The Motley Fool • 12h ago
 
 ---
 
+**[After BlackRock’s Ethereum nod: Tom Lee buys $118m of crypto as price dips](https://finance.yahoo.com/news/blackrock-ethereum-nod-tom-lee-093049481.html)**
+
+Ethereum is still down 40% from all-time high. Digital asset treasury firm Bitmine is buying the dip. Wall Street bets big on Ethereum for tokenisation.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Fundstrat’s Tom Lee Predicts Bitcoin, Ethereum Surge Once Metals Rally Fades](https://finance.yahoo.com/news/fundstrat-tom-lee-predicts-bitcoin-074556070.html)**
+
+Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
 The Block • 2d ago
+
+---
+
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
+
+BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
+
+The Block • 20h ago
+
+---
+
+**[BitMine, the largest Ethereum treasury firm, makes biggest ether purchase of 2026](https://www.coindesk.com/business/2026/01/26/bitmine-the-largest-ethereum-treasury-makes-biggest-ether-purchase-of-2026)**
+
+The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
+
+CoinDesk • 20h ago
+
+---
+
+**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
+
+Binance • 5h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 645 • 👍 63 • 💬 2 • ⏱️ 4:04 • 4h ago
+👁️ 645 • 👍 63 • 💬 2 • ⏱️ 4:04 • 5h ago
 
 ---
 
@@ -268,7 +266,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 2K • 👍 182 • 1h ago
+👁️ 2K • 👍 182 • 2h ago
 
 ---
 
@@ -278,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 7 • ⏱️ 3:42 • 13h ago
+👁️ 2K • 👍 108 • 💬 7 • ⏱️ 3:42 • 14h ago
 
 ---
 

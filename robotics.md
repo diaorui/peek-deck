@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T10:29:54.279075+00:00'
+updated: '2026-01-27T10:57:42.954481+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 10:29 UTC  
+**Last Updated:** January 27, 2026 at 10:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Autonomous Indoor Drone Flight Over Waypoints](https://www.reddit.com/r/robotics/comments/1qo68jo/autonomous_indoor_drone_flight_over_waypoints/)**
-
-Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
-
-3h ago
-
----
-
 **[Open-sourcing Asimov Legs, a bipedal robotic system](https://www.reddit.com/r/robotics/comments/1qo8u7i/opensourcing_asimov_legs_a_bipedal_robotic_system/)**
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
@@ -48,9 +40,19 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 ---
 
-**[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
+**[Autonomous Indoor Drone Flight Over Waypoints](https://www.reddit.com/r/robotics/comments/1qo68jo/autonomous_indoor_drone_flight_over_waypoints/)**
 
-19h ago
+Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
+
+4h ago
+
+---
+
+**[Booster playing soccer in Texas, fully autonomous.](https://www.reddit.com/r/robotics/comments/1qoa6ku/booster_playing_soccer_in_texas_fully_autonomous/)**
+
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
+
+32m ago
 
 ---
 
@@ -58,7 +60,13 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
 
-3h ago
+4h ago
+
+---
+
+**[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
+
+20h ago
 
 ---
 
@@ -96,15 +104,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 I don't have much information, but it's a bit viral on X
 
-1d ago
-
----
-
-**[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
-
-Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
-
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 22h ago
+2d ago
 
 ---
 
@@ -128,14 +128,6 @@ Global Times • 20h ago
 
 ---
 
-**[Ukrainians urge Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
-
-A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
-
-jpost.com • 3h ago
-
----
-
 **[China's Robotics Industry Is Doing A Lot More Than Military Projects](https://www.bgr.com/2080480/china-robotics-industry-more-than-military/)**
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
@@ -144,25 +136,27 @@ bgr.com • 20h ago
 
 ---
 
+**[Ukrainians urge Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
+
+A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
+
+jpost.com • 3h ago
+
+---
+
 **[Gambit Robotics Hopes to Usher In a New Era of Guided Cooking Without Robots (Yet)](https://thespoon.tech/gambit-robotics-hopes-to-usher-in-a-new-era-of-guided-cooking-without-robots-yet/)**
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 15h ago
+thespoon.tech • 16h ago
 
 ---
 
-**[Shasta High School class gives students hands-on experience in the world of robotics, AI](https://krcrtv.com/news/local/shasta-high-school-class-gives-students-hands-on-experience-in-the-world-of-robotics-ai)**
+**[Lakeland Community College receives $341,000 for security, robotics](https://www.news-herald.com/2026/01/26/lakeland-community-college-receives-341000-for-security-robotics/)**
 
-Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
+The Ohio Controlling Board has approved a $341,075 for security system enhancements and robotics equipment at Lakeland Community College. Of the funding, $197,741 comes from the Campus Safety Grant…
 
-krcrtv.com • 6h ago
-
----
-
-**[GigaBite robotics student team seeks community donations](https://southtahoenow.com/01/26/2026/gigabite-robotics-student-team-seeks-community-donations)**
-
-southtahoenow.com • 15h ago
+news-herald.com • 12h ago
 
 ---
 
@@ -174,19 +168,27 @@ markets.businessinsider.com • 20h ago
 
 ---
 
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+**[From Second Grade to Robotics: STEAM Event Showcases State’s Education Push](https://www.mychesco.com/a/news/pennsylvania/from-second-grade-to-robotics-steam-event-showcases-states-education-push/)**
 
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+RED LION, PA — Pennsylvania’s top education official visited Red Lion Area School District on Thursday as students from opposite ends of the academic spectrum teamed up for a day …
 
-Interesting Engineering • 2d ago
+mychesco.com • 19h ago
 
 ---
 
-**[Local robotics team inspires young minds with LEGO demonstration](https://www.news8000.com/news/local-news/sparta/local-robotics-team-inspires-young-minds-with-lego-demonstration/article_010e07fd-8c6c-4f86-bc01-a91d2fc723d6.html)**
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
-The Brief
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-news8000.com • 2d ago
+Financial Times • 2d ago
+
+---
+
+**[Robots Are Taking Over The Human Labor Industry, Starting With This Hyundai Facility](https://www.bgr.com/2080363/robots-taking-over-human-labor-industry-hyundai/)**
+
+The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
+
+bgr.com • 23h ago
 
 ---
 
@@ -280,7 +282,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 7K • 👍 414 • 💬 12 • ⏱️ 0:55 • 22h ago
+👁️ 7K • 👍 414 • 💬 12 • ⏱️ 0:55 • 23h ago
 
 ---
 

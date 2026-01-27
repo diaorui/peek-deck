@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T10:29:54.269817+00:00'
+updated: '2026-01-27T10:57:42.945248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 10:29 UTC  
+**Last Updated:** January 27, 2026 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,014.45
+### $87,891.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.9%  
-**30d:** +0.9%  
-**90d:** -18.8%  
-**1y:** -13.3%  
+**24h:** -0.1%  
+**7d:** -2.0%  
+**30d:** +0.7%  
+**90d:** -18.9%  
+**1y:** -13.4%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
-**[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
+**[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-9h ago
+2h ago
 
 ---
 
@@ -97,12 +97,6 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 ---
 
-**[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
-
-1h ago
-
----
-
 **[Im Young & Risky](https://www.reddit.com/r/Bitcoin/comments/1qo7q22/im_young_risky/)**
 
 Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
@@ -111,17 +105,21 @@ Since i’m super young 21M and this is the only time i can risk everything for 
 
 ---
 
-**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
+**[Keynesian Economy & Fiat saver](https://www.reddit.com/r/Bitcoin/comments/1qo97eu/keynesian_economy_fiat_saver/)**
 
-23h ago
+1h ago
 
 ---
 
-**[10k in BTC and forget?](https://www.reddit.com/r/Bitcoin/comments/1qno8ub/10k_in_btc_and_forget/)**
+**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
+14m ago
 
-16h ago
+---
+
+**[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
+
+23h ago
 
 ---
 
@@ -141,11 +139,11 @@ Bitcoin did not change my life because of its price. It changed my life because 
 
 ---
 
-**[Bitcoin for a newbie](https://www.reddit.com/r/Bitcoin/comments/1qo1q6c/bitcoin_for_a_newbie/)**
+**[10k in BTC and forget?](https://www.reddit.com/r/Bitcoin/comments/1qno8ub/10k_in_btc_and_forget/)**
 
-Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
+I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-7h ago
+16h ago
 
 ---
 
@@ -153,31 +151,61 @@ Hello I've been wanting to get into crypto currency and I don't really know wher
 
 ## Google News: "bitcoin"
 
+**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+
+Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
+
+CoinDesk • 5h ago
+
+---
+
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
 The Block • 12h ago
 
 ---
 
-**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
 
-Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
+MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
 
-CoinDesk • 4h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Fundstrat’s Tom Lee Predicts Bitcoin, Ethereum Surge Once Metals Rally Fades](https://finance.yahoo.com/news/fundstrat-tom-lee-predicts-bitcoin-074556070.html)**
+**[Michael Saylor's Strategy (MSTR) added 2,932 BTC last week](https://www.coindesk.com/markets/2026/01/26/strategy-purchased-usd264-million-in-bitcoin-last-week)**
 
-Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
+The company’s stack now stands at 712,647 BTC, worth about $62 billion at the current price of $87,500.
 
-Yahoo Finance • 2h ago
+CoinDesk • 21h ago
+
+---
+
+**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
+
+Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
+
+The Block • 21h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
 Bloomberg.com • 12h ago
+
+---
+
+**[Bitcoin Hashrate Drops to Seven-Month Low as US Winter Storm Disrupts Mining](https://finance.yahoo.com/news/bitcoin-hashrate-drops-seven-month-063048296.html)**
+
+Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin block time slows as sweeping US winter storm strains power grid, prompting miner curtailments](https://www.theblock.co/post/387019/bitcoin-block-time-slows-us-winter-storm-miner-curtailments)**
+
+The Block • 22h ago
 
 ---
 
@@ -194,38 +222,6 @@ Bitcoin Magazine • 13h ago
 The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
 The Block • 16h ago
-
----
-
-**[BlackRock eyes new Bitcoin ETF with premium](https://finance.yahoo.com/news/blackrock-eyes-bitcoin-etf-premium-212206126.html)**
-
-BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
-
-Yahoo Finance • 13h ago
-
----
-
-**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
-
-BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
-
-TradingView • 6h ago
-
----
-
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
-
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
-
-Yahoo Finance • 14h ago
-
----
-
-**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
-
-Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
-
-The Block • 21h ago
 
 ---
 
@@ -270,7 +266,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 3 • 💬 2 • 20h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 21h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -368,7 +364,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 264 • 💬 15 • ⏱️ 12:54 • 17h ago
+👁️ 4K • 👍 264 • 💬 15 • ⏱️ 12:54 • 18h ago
 
 ---
 
@@ -398,7 +394,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 18h ago
+👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 19h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T10:29:54.261286+00:00'
+updated: '2026-01-27T10:57:42.936797+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 10:29 UTC  
+**Last Updated:** January 27, 2026 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 18h ago
-
----
-
-**[One-Minute Daily AI News 1/26/2026](https://www.reddit.com/r/artificial/comments/1qo5gkh/oneminute_daily_ai_news_1262026/)**
-
-EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
-
-4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 19h ago
 
 ---
 
@@ -61,11 +53,19 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 ---
 
+**[One-Minute Daily AI News 1/26/2026](https://www.reddit.com/r/artificial/comments/1qo5gkh/oneminute_daily_ai_news_1262026/)**
+
+EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
+
+5h ago
+
+---
+
 **[Meta plan to bundle AI tools into premium subscriptions accross its apps](https://www.reddit.com/r/artificial/comments/1qo2yds/meta_plan_to_bundle_ai_tools_into_premium/)**
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 6h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 7h ago
 
 ---
 
@@ -73,15 +73,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 17h ago
-
----
-
-**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
-
-Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 13h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 18h ago
 
 ---
 
@@ -90,6 +82,14 @@ Needless to say, a good enough brain emulation would be an artificial general in
 The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/c86v52gv726o) • 1d ago
+
+---
+
+**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
+
+Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 13h ago
 
 ---
 
@@ -121,12 +121,6 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 ## Google News: "ai"
 
-**[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Why AI won’t wipe out white-collar jobs](https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs)**
 
 The technology will expand their scope and raise their value
@@ -135,29 +129,33 @@ The Economist • 14h ago
 
 ---
 
-**[Models that improve on their own are AI's next big thing](https://www.axios.com/2026/01/27/models-improve-ai)**
+**[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The move could provide fresh acceleration to AI's capabilities, but also introduces new areas of risk.
-
-Axios • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[Honeywell Sees Growing Market for ‘Physical AI’ Use in Buildings](https://www.bloomberg.com/news/articles/2026-01-27/honeywell-sees-growing-market-for-physical-ai-use-in-buildings)**
+**['AI mirrors' are changing the way blind people see themselves](https://www.bbc.com/future/article/20260126-ai-mirrors-are-changing-the-way-blind-people-see-themselves)**
 
-Bloomberg.com • 2h ago
+Artificial intelligence is helping blind people access visual feedback about their bodies, sometimes for the first time. The impact on their mental health is only just emerging.
+
+BBC • 57m ago
 
 ---
 
-**[Three Teens on How AI is Reshaping Their Job Prospects](https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/3c316754-af5d-11f0-b539-5f27f056ff03)**
+**[In China, AI is no longer optional for some kids. It’s part of the curriculum](https://www.npr.org/2026/01/27/nx-s1-5683821/china-ai-schools-curriculum)**
 
-Silicon Valley leaders have said that the jobs poised to be most affected by AI are entry-level positions. What does the next generation of workers think about that? On this episode, three high school students share how they’re planning their futures with AI in mind. Plus, a tech executive shares advice for teens as they approach this changing job market.
+While debate rages in the U.S. about the merits and risks of AI in schools, it's become a state-mandated part of the curriculum in China, as the authorities try to create a pool of AI-savvy professionals.
 
-We’re taking listener questions for upcoming episodes! If you have tech questions or concerns you’d like answered, email us or send us a voice note at CNNTermsOfService@gmail.com.
+NPR • 57m ago
 
-Terms of Service is a CNN Podcasts and Goat Rodeo production. This episode was produced by Jay Venables. At Goat Rodeo, the lead producer is Rebecca Seidel, and the executive producers are Megan Nadolski and Ian Enright. At CNN, Matt Martinez is our Senior Producer and Dan Dzula is our Technical Director. Production support from Sofía Sanchez. Steve Lickteig is the Executive Producer of CNN Audio. Production support from Anna Sturla and Kelly Burns.
+---
 
-CNN • 1h ago
+**[Nokia teams with Blaize to push low-power edge AI across Asia-Pacific](https://www.stocktitan.net/news/BZAI/nokia-strengthens-edge-ai-capabilities-through-strategic-t6gv3ul1dndq.html)**
+
+Non-binding MOU targets smart infrastructure AI in Asia Pacific, pairing Nokia networks with Blaize edge inference for efficient deployments.
+
+Stock Titan • 57m ago
 
 ---
 
@@ -173,7 +171,7 @@ Financial Times • 12h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -193,9 +191,11 @@ CNBC • 18h ago
 
 ---
 
-**[Microsoft rolls out next generation of its AI chips, takes aim at Nvidia's software](https://www.reuters.com/business/microsoft-rolls-out-next-generation-its-ai-chips-takes-aim-nvidias-software-2026-01-26/)**
+**[Microsoft announces powerful new chip for AI inference](https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/)**
 
-Reuters • 18h ago
+Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.
+
+TechCrunch • 18h ago
 
 ---
 
@@ -205,7 +205,7 @@ Reuters • 18h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 718 • 💬 580 • 18h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 744 • 💬 621 • 18h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -213,7 +213,7 @@ Reuters • 18h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 592 • 💬 630 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 592 • 💬 631 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -221,7 +221,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 425 • 💬 518 • 20h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 458 • 💬 538 • 20h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -229,7 +229,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 385 • 💬 200 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 390 • 💬 201 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -237,7 +237,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 371 • 💬 237 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 372 • 💬 239 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -245,7 +245,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 254 • 💬 174 • 18h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 268 • 💬 184 • 19h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -253,13 +253,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 213 • 💬 128 • 15h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 216 • 💬 128 • 15h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 162 • 💬 91 • 16h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 178 • 💬 96 • 16h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -357,7 +357,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 112K • 👍 1K • 💬 177 • ⏱️ 21:00 • 19h ago
+👁️ 112K • 👍 1K • 💬 177 • ⏱️ 21:00 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ It's 2026 and Mr. Newberger's AI Funnies needed a little Trailer overhaul.
 
 📺 Mr. Newberger's AI Funnies
 
-👁️ 2K • 👍 422 • 💬 51 • ⏱️ 1:04 • 12h ago
+👁️ 2K • 👍 422 • 💬 51 • ⏱️ 1:04 • 13h ago
 
 ---
 
@@ -439,7 +439,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 367 • 5d ago
+⬇️ 19,899 • ❤️ 367 • 6d ago
 
 ---
 
@@ -711,7 +711,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 523 • 7h ago
+⭐ 4.9k • 🔱 523 • 8h ago
 
 ---
 
@@ -721,7 +721,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.1k • 🔱 945 • 55m ago
+⭐ 4.1k • 🔱 945 • 1h ago
 
 ---
 
