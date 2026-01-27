@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T12:54:03.642342+00:00'
+updated: '2026-01-27T13:50:21.761500+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 12:54 UTC  
+**Last Updated:** January 27, 2026 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 21h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 22h ago
 
 ---
 
@@ -49,7 +49,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 9h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 15h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Needless to say, a good enough brain emulation would be an artificial general in
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 1d ago
 
 The technology will expand their scope and raise their value
 
-The Economist • 16h ago
+The Economist • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Economist • 16h ago
 
 A tech watchdog organization found 55 nudify apps on Google Play and 47 in the Apple App Store.
 
-CNBC • 54m ago
+CNBC • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNBC • 54m ago
 
 AI tutoring gains traction as ed-tech funding cools.
 
-Axios • 28m ago
+Axios • 1h ago
 
 ---
 
 **[Musk Is Wrong About AI and Retirement: You Still Need to Save](https://www.bloomberg.com/opinion/articles/2026-01-27/musk-is-wrong-about-ai-and-retirement-you-still-need-to-save)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg • 1h ago
 
 Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful AI in years to come
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 14h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 20h ago
+The Official Microsoft Blog • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Official Microsoft Blog • 20h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 20h ago
 
 Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.
 
-TechCrunch • 20h ago
+TechCrunch • 21h ago
 
 ---
 
@@ -193,7 +193,7 @@ TechCrunch • 20h ago
 
 Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -203,7 +203,7 @@ blog.google • 18h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 768 • 💬 673 • 20h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 768 • 💬 673 • 21h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -219,7 +219,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 479 • 💬 569 • 22h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 479 • 💬 569 • 23h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -227,7 +227,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 391 • 💬 203 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 391 • 💬 203 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -243,7 +243,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 281 • 💬 190 • 21h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 281 • 💬 190 • 22h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -251,13 +251,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 221 • 💬 131 • 17h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 221 • 💬 131 • 18h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 200 • 💬 112 • 18h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 200 • 💬 112 • 19h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -279,33 +279,23 @@ Interactive map of 59,000+ active US Coast Guard lighthouses and navigational ai
 
 ## YouTube Videos: "ai"
 
-**[The Alarming Rise of REALISTIC AI Content](https://www.youtube.com/watch?v=MV9Ro8F_bqI)**
-
-Thank you to Mint Mobile for partnering with us on this video! And for a limited time, you can get 50% off an unlimited premium ...
-
-📺 Visual Venture
-
-👁️ 400K • 👍 18K • 💬 2K • ⏱️ 27:38 • 2d ago
-
----
-
 **[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
 
 NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
 
 📺 Fox Business
 
-👁️ 99K • 👍 2K • 💬 501 • ⏱️ 4:20 • 1d ago
+👁️ 103K • 👍 2K • 💬 519 • ⏱️ 4:20 • 1d ago
 
 ---
 
-**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
+**[The Alarming Rise of REALISTIC AI Content](https://www.youtube.com/watch?v=MV9Ro8F_bqI)**
 
-Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
+Thank you to Mint Mobile for partnering with us on this video! And for a limited time, you can get 50% off an unlimited premium ...
 
-📺 The Bitchuation Room (with Francesca Fiorentini)
+📺 Visual Venture
 
-👁️ 16K • 👍 2K • 💬 274 • ⏱️ 17:08 • 1d ago
+👁️ 403K • 👍 18K • 💬 2K • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -315,17 +305,17 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 64K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
+👁️ 65K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
 
 ---
 
-**[I Tested Every Major AI Video Subscription… Here’s the Best One](https://www.youtube.com/watch?v=FiDw4cqVppc)**
+**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
 
-Check out the official Curious Refuge Labs™ ranking here: https://curiousrefuge.com/best-ai-tools Here's a breakdown from the ...
+Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
 
-📺 Curious Refuge
+📺 The Bitchuation Room (with Francesca Fiorentini)
 
-👁️ 7K • 👍 477 • 💬 99 • ⏱️ 22:18 • 17h ago
+👁️ 17K • 👍 2K • 💬 276 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -335,7 +325,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 24K • 👍 794 • 💬 176 • ⏱️ 12:43 • 2d ago
+👁️ 25K • 👍 795 • 💬 176 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[This Week Changed AI Forever](https://www.youtube.com/watch?v=yEvr1bmFlOM)**
+
+CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam Footage From Any Angle 05:02 What ...
+
+📺 Dylan Curious
+
+👁️ 6K • 👍 285 • 💬 74 • ⏱️ 27:06 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 174K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
+👁️ 176K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -355,7 +355,17 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 118K • 👍 1K • 💬 180 • ⏱️ 21:00 • 22h ago
+👁️ 122K • 👍 1K • 💬 182 • ⏱️ 21:00 • 23h ago
+
+---
+
+**[AI will replace developers in 6 months. Again...](https://www.youtube.com/watch?v=ZV5Fx4qMDgA)**
+
+A quick review of the AI narative at Davos 2026. Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not ...
+
+📺 Awesome
+
+👁️ 34K • 👍 2K • 💬 477 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -365,15 +375,7 @@ CNBC's Deirdre Bosa reports on news regarding AI coding.
 
 📺 CNBC Television
 
-👁️ 51K • 👍 642 • 💬 76 • ⏱️ 2:40 • 19h ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=cPEEe8uMyR0)**
-
-📺 Bob Reese
-
-👁️ 1.3M • 👍 30K • 💬 450 • ⏱️ 0:19 • 21h ago
+👁️ 54K • 👍 688 • 💬 77 • ⏱️ 2:40 • 20h ago
 
 ---
 
@@ -389,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,175 • 4d ago
+⬇️ 43,872 • ❤️ 1,190 • 4d ago
 
 ---
 
@@ -401,19 +403,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 615 • 5d ago
-
----
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 532,168 • ❤️ 1,251 • 6d ago
+⬇️ 76,679 • ❤️ 618 • 37m ago
 
 ---
 
@@ -425,19 +415,19 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 603 • 4d ago
+⬇️ 138,693 • ❤️ 613 • 4d ago
 
 ---
 
-**[LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)**
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
 
-*LightOn AI*
+*Z.ai*
 
-LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model for document OCR, excelling at extracting text from PDFs and images, including tables and forms, with state-of-the-art accuracy and speed.
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
 
-`image-text-to-text` `1.0B`
+`text-generation` `31.2B`
 
-⬇️ 19,899 • ❤️ 373 • 6d ago
+⬇️ 532,168 • ❤️ 1,259 • 7d ago
 
 ---
 
@@ -449,7 +439,19 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 314 • 5h ago
+⬇️ 10,965 • ❤️ 376 • 1h ago
+
+---
+
+**[LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)**
+
+*LightOn AI*
+
+LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model for document OCR, excelling at extracting text from PDFs and images, including tables and forms, with state-of-the-art accuracy and speed.
+
+`image-text-to-text` `1.0B`
+
+⬇️ 19,899 • ❤️ 376 • 6d ago
 
 ---
 
@@ -465,18 +467,6 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 ---
 
-**[AgentCPM-Report](https://huggingface.co/openbmb/AgentCPM-Report)**
-
-*OpenBMB*
-
-AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form, deeply insightful reports by performing extensive retrieval and chain-of-thought reasoning. It supports fully offline, local deployment for enhanced data security and can process private knowledge bases using the UltraRAG framework.
-
-`8.2B`
-
-⬇️ 960 • ❤️ 270 • 1d ago
-
----
-
 **[Chroma-4B](https://huggingface.co/FlashLabs/Chroma-4B)**
 
 *FlashLabs*
@@ -485,7 +475,19 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 256 • 1d ago
+⬇️ 5,776 • ❤️ 257 • 1d ago
+
+---
+
+**[DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2)**
+
+*DeepSeek*
+
+DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, excelling at document understanding and OCR with dynamic resolution support for high-fidelity text extraction and conversion to formats like Markdown.
+
+`image-text-to-text` `3.4B`
+
+⬇️ 0 • ❤️ 245 • 2h ago
 
 ---
 
@@ -513,7 +515,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 41 • 💬 1 • ⭐ 5,146 • 5d ago
+▲ 42 • 💬 1 • ⭐ 5,146 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -577,7 +579,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 178 • 💬 5 • ⭐ 610 • 8d ago
+▲ 178 • 💬 5 • ⭐ 670 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -659,7 +661,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.9k • 🔱 597 • 6h ago
+⭐ 10.9k • 🔱 597 • 7h ago
 
 ---
 
@@ -669,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.4k • 🔱 492 • 1d ago
+⭐ 9.4k • 🔱 493 • 1d ago
 
 ---
 
@@ -679,7 +681,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 946 • 4d ago
+⭐ 8.1k • 🔱 947 • 4d ago
 
 ---
 
@@ -699,7 +701,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.1k • 🔱 6.6k • 23h ago
+⭐ 6.1k • 🔱 6.6k • 1d ago
 
 ---
 
@@ -709,7 +711,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 524 • 10h ago
+⭐ 4.9k • 🔱 526 • 11h ago
 
 ---
 
@@ -719,7 +721,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.1k • 🔱 954 • 2h ago
+⭐ 4.2k • 🔱 965 • 3h ago
 
 ---
 
@@ -727,7 +729,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.3k • 🔱 273 • 4d ago
+⭐ 3.3k • 🔱 274 • 4d ago
 
 ---
 
