@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T15:32:29.151973+00:00'
+updated: '2026-01-27T16:32:23.051005+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 15:32 UTC  
+**Last Updated:** January 27, 2026 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,915.23
+### $2,993.24
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.47B
+**Market Cap:** $358.01B
 Rank #2
 
 **Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.2%
+-40.0%
 
 **All-Time Low:** $0.43
-+672078.1%
++685321.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 19h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 17h ago
 
 Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 3h ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 16h ago
+thedefiant.io • 17h ago
 
 ---
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 10h ago
+Binance • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Yahoo Finance • 23h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -230,23 +230,13 @@ Nasdaq • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=OzflL_FbMXA)**
 
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
+Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction] My FREE Daily 5-Min Crypto ...
 
-📺 Thomas Kralow
+📺 Crypto Nutshell
 
-👁️ 16K • 👍 3K • 💬 35 • ⏱️ 10:51 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 86 • 💬 4 • ⏱️ 4:04 • 9h ago
+👁️ 1K • 👍 94 • 💬 68 • ⏱️ 14:37 • 1h ago
 
 ---
 
@@ -256,67 +246,17 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 12K • 👍 422 • 💬 73 • ⏱️ 23:51 • 19h ago
+👁️ 13K • 👍 466 • 💬 135 • ⏱️ 23:51 • 20h ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
 
-Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Benjamin Cowen
+📺 More Crypto Online
 
-👁️ 61K • 👍 3K • 💬 224 • ⏱️ 26:46 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 3K • 👍 86 • 💬 40 • ⏱️ 17:46 • 2d ago
-
----
-
-**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
-
-BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 310 • 💬 100 • ⏱️ 20:33 • 19h ago
-
----
-
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
-
-Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 21K • 👍 646 • 💬 93 • ⏱️ 14:27 • 2d ago
-
----
-
-**[TRUMP: “BlackRock is likely to take over as Fed Chair” (Big Bitcoin &amp; Ethereum News)](https://www.youtube.com/watch?v=xsPBE4yghyA)**
-
-BlackRock is likely to take over as Fed Chair” (Big Bitcoin & Ethereum News) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 235 • ⏱️ 11:14 • 2d ago
-
----
-
-**[Why BlackRock Is Betting on Ethereum (This Changes Everything)](https://www.youtube.com/watch?v=7CPq9AcLZjk)**
-
-Ethereum isn't just another crypto — it's becoming Wall Street's settlement layer. In this video, we break down why BlackRock ...
-
-📺 Gven Sariol | DeFi  | ARCrypto
-
-👁️ 54 • 👍 13 • 💬 5 • ⏱️ 6:56 • 16h ago
+👁️ 1K • 👍 92 • 💬 4 • ⏱️ 4:04 • 10h ago
 
 ---
 
@@ -326,7 +266,67 @@ Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter
 
 📺 Trading Jip
 
-👁️ 245 • 👍 27 • 💬 69 • ⏱️ 6:29 • 6h ago
+👁️ 295 • 👍 28 • 💬 58 • ⏱️ 6:29 • 7h ago
+
+---
+
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
+
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
+
+📺 Thomas Kralow
+
+👁️ 17K • 👍 3K • 💬 35 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 14K • 👍 1K • 💬 81 • ⏱️ 59:47 • 6h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+
+Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
+
+📺 Benjamin Cowen
+
+👁️ 63K • 👍 3K • 💬 226 • ⏱️ 26:46 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 27 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=e76nuFvKsAY)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 665 • 1h ago
+
+---
+
+**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
+
+BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 319 • 💬 110 • ⏱️ 20:33 • 20h ago
+
+---
+
+**[THIS IS BULLISH NEWS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=lPJzRNMxBs0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 158 • 👍 17 • 💬 2 • ⏱️ 4:21 • 6h ago
 
 ---
 

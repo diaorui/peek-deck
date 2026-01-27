@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T15:32:29.146008+00:00'
+updated: '2026-01-27T16:32:23.044909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 15:32 UTC  
+**Last Updated:** January 27, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,039.09
+### $88,468.30
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.70B
+**Market Cap:** $1763.22B
 Rank #1
 
-**Circulating Supply:** 19,981,118 BTC
+**Circulating Supply:** 19,981,203 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.0%
 
 **All-Time Low:** $67.81
-+129504.8%
++130050.4%
 
 ---
 
@@ -79,11 +79,17 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
+
+2h ago
+
+---
+
+**[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
 1h ago
 
@@ -93,25 +99,19 @@ Rank #1
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-2h ago
+3h ago
 
 ---
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-6h ago
-
----
-
-**[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
-
-47m ago
+7h ago
 
 ---
 
 **[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,25 +121,23 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 ---
 
+**[Simple, not easy.](https://www.reddit.com/r/Bitcoin/comments/1qoaue4/simple_not_easy/)**
+
+5h ago
+
+---
+
 **[Im Young & Risky](https://www.reddit.com/r/Bitcoin/comments/1qo7q22/im_young_risky/)**
 
 Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
 
-7h ago
+8h ago
 
 ---
 
-**[Simple, not easy.](https://www.reddit.com/r/Bitcoin/comments/1qoaue4/simple_not_easy/)**
+**[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-4h ago
-
----
-
-**[Found a Little Bitcoin :)](https://www.reddit.com/r/Bitcoin/comments/1qnnjgt/found_a_little_bitcoin/)**
-
-I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
-
-21h ago
+51m ago
 
 ---
 
@@ -149,7 +147,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -157,7 +155,7 @@ The Block • 17h ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -165,7 +163,7 @@ CoinDesk • 9h ago
 
 There are plenty of talking heads in the crypto sector to listen to. Many have long-standing bullish views on certain tokens. And it goes without saying that Bitcoin (CRYPTO:BTC) is among the most closely-watched and most commented on cryptocurrencies in the market. There’s good reason for this. First of all, Bitcoin is the largest digital asset in ... Why Bitcoin Could Surge 184% in 2026, According to This Billionaire Investor
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -173,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Citrea is launching its mainnet in hopes to unlock lending, trading, and other capital market activity directly on the Bitcoin network.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -181,7 +179,7 @@ Bitcoin Magazine • 1h ago
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -189,13 +187,13 @@ CoinDesk • 1h ago
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 17h ago
+Bloomberg • 18h ago
 
 ---
 
@@ -203,7 +201,7 @@ Bloomberg • 17h ago
 
 BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -211,7 +209,7 @@ Yahoo Finance • 18h ago
 
 The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -219,7 +217,7 @@ The Block • 21h ago
 
 BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -256,7 +254,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 4h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 5h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -298,7 +296,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 **[How do you reconstruct what a financial system observed at time T, years later?](https://news.ycombinator.com/item?id=46768778)**
 
-⬆️ 3 • 💬 2 • 21h ago
+⬆️ 3 • 💬 2 • 22h ago
 
 ---
 
@@ -306,23 +304,13 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 27K • 👍 1K • 💬 301 • ⏱️ 8:05 • 15h ago
-
----
-
 **[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
 
 In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 2K • 💬 55 • ⏱️ 17:45 • 17h ago
+👁️ 42K • 👍 2K • 💬 55 • ⏱️ 17:45 • 18h ago
 
 ---
 
@@ -332,27 +320,27 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 4K • 👍 395 • 💬 57 • ⏱️ 14:11 • 4h ago
+👁️ 9K • 👍 614 • 💬 91 • ⏱️ 14:11 • 5h ago
 
 ---
 
-**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
+**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
 
-DISCLAIMER: We may receive a small commission for any purchases made through our affiliate links. Thanks For Watching Our ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Savvy Finance
+📺 CryptosRUs
 
-👁️ 7K • 👍 310 • 💬 21 • ⏱️ 18:13 • 16h ago
+👁️ 29K • 👍 2K • 💬 355 • ⏱️ 8:05 • 16h ago
 
 ---
 
-**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
+**[Is The Bitcoin Bottom CLOSE?! Coffee N Crypto LIVE](https://www.youtube.com/watch?v=Ck-ODXYriCo)**
 
-Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
+A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
 
-📺 Simply Bitcoin
+📺 Crypto Jebb
 
-👁️ 24K • 👍 2K • 💬 166 • ⏱️ 18:47 • 15h ago
+👁️ 771 • 👍 62 • 💬 14 • ⏱️ 49:52 • 21m ago
 
 ---
 
@@ -362,17 +350,47 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 27K • 👍 1K • 💬 152 • ⏱️ 3:19 • 17h ago
+👁️ 28K • 👍 1K • 💬 217 • ⏱️ 3:19 • 18h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=ILcql24_bJQ)**
+**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
+
+DISCLAIMER: We may receive a small commission for any purchases made through our affiliate links. Thanks For Watching Our ...
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 327 • 💬 46 • ⏱️ 18:13 • 17h ago
+
+---
+
+**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
+
+Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 238 • ⏱️ 18:47 • 16h ago
+
+---
+
+**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 14K • 👍 1K • 💬 81 • ⏱️ 59:47 • 6h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=MuZbP7EE2hM)**
 
 BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Chard The Tech Guy
+📺 Made By Deola
 
-👁️ 5K • 👍 5K • 4h ago
+👁️ 4K • 👍 3K • 55m ago
 
 ---
 
@@ -382,27 +400,7 @@ In today's video Kyledoops shows a repeat pattern that shows what is next for Bi
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 15 • ⏱️ 31:36 • 7h ago
-
----
-
-**[Why I&#39;m Shorting When Bitcoin Hits THIS Level (CME Trap!)](https://www.youtube.com/watch?v=hNeBg1_Em-k)**
-
-Bitcoin is close to a key level and in this video, Sheldon breaks down why it could act as a classic CME trap, where liquidity is ...
-
-📺 Crypto Banter
-
-👁️ 4K • 👍 510 • 💬 15 • ⏱️ 34:26 • 4h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=EFeBSHhWsic)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 我是蘇暢 SuChang
-
-👁️ 3K • 👍 2K • 2h ago
+👁️ 15K • 👍 1K • 💬 20 • ⏱️ 31:36 • 8h ago
 
 ---
 

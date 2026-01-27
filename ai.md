@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T15:32:29.137739+00:00'
+updated: '2026-01-27T16:32:23.036048+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 15:32 UTC  
+**Last Updated:** January 27, 2026 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,15 @@ Determined to use her skills to fight inequality, South African computer scienti
 
 In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
 
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 2h ago
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 3h ago
+
+---
+
+**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
+
+A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
+
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 33m ago
 
 ---
 
@@ -53,7 +61,7 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 1d ago
 
 ---
 
@@ -61,7 +69,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-7h ago
+8h ago
 
 ---
 
@@ -69,7 +77,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 15m ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 1h ago
 
 ---
 
@@ -77,7 +85,15 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-9h ago
+10h ago
+
+---
+
+**[Looking for help in floor plan ai](https://www.reddit.com/r/artificial/comments/1qoa5cb/looking_for_help_in_floor_plan_ai/)**
+
+Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
+
+6h ago
 
 ---
 
@@ -85,7 +101,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 11h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 12h ago
 
 ---
 
@@ -93,7 +109,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 22h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 23h ago
 
 ---
 
@@ -105,22 +121,6 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 ---
 
-**[State of Brain Emulation Report 2025](https://www.reddit.com/r/artificial/comments/1qnt44i/state_of_brain_emulation_report_2025/)**
-
-Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 18h ago
-
----
-
-**[How do you get away with tasks which you feel are boring, and 'beneath you'](https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/)**
-
-I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
-
-23h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,7 +129,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 23h ago
+The Official Microsoft Blog • 1d ago
 
 ---
 
@@ -145,13 +145,13 @@ The Official Microsoft Blog • 23h ago
 
 Scout is on the Yahoo Search app and integrates across Mail, News, Finance and Sports.
 
-Axios • 29m ago
+Axios • 1h ago
 
 ---
 
 **[Construction Companies See Promise in AI Agents](https://www.wsj.com/articles/construction-companies-see-promise-in-ai-agents-12dc2d60?gaa_at=eafs&gaa_n=AWEtsqdmCDNlPpSJNgpG1ABTM9-9PSMSgZVgxD43CrzatOq_2TzZqzKXqrw7&gaa_ts=6978ddf7&gaa_sig=4LEScthNi6yum3EwMYBAxsmK8p7veRnxss1Bmhlaq2FXBinCsdQVfFqvqjJNFHuX2WO8NGOqr7mSTVg6VWtUUQ%3D%3D)**
 
-The Wall Street Journal • 32m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Wall Street Journal • 32m ago
 
 Imagine if ChatGPT and Perplexity cared more about the web.
 
-The Verge • 32m ago
+The Verge • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 1d ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ NPR • 1d ago
 
 Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.
 
-blog.google • 21h ago
+blog.google • 22h ago
 
 ---
 
@@ -197,7 +197,7 @@ blog.google • 21h ago
 
 Dario Amodei falls into the same traps he warns about.
 
-Mashable • 3h ago
+Mashable • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Mashable • 3h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 812 • 💬 704 • 23h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 821 • 💬 710 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -223,7 +223,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 529 • 💬 620 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 549 • 💬 652 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -231,7 +231,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 394 • 💬 205 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 395 • 💬 205 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -239,7 +239,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 379 • 💬 245 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 381 • 💬 250 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -247,7 +247,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 307 • 💬 209 • 23h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 314 • 💬 212 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -255,13 +255,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 228 • 💬 133 • 20h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 228 • 💬 136 • 21h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 218 • 💬 128 • 21h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 221 • 💬 130 • 22h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -289,17 +289,17 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 103K • 👍 2K • 💬 519 • ⏱️ 4:20 • 1d ago
+👁️ 108K • 👍 2K • 💬 554 • ⏱️ 4:20 • 1d ago
 
 ---
 
-**[The Alarming Rise of REALISTIC AI Content](https://www.youtube.com/watch?v=MV9Ro8F_bqI)**
+**[AI Image Generators Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=_Ow97llH1YE)**
 
-Thank you to Mint Mobile for partnering with us on this video! And for a limited time, you can get 50% off an unlimited premium ...
+Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this video, I'm ranking the best AI image ...
 
-📺 Visual Venture
+📺 Roboverse
 
-👁️ 403K • 👍 18K • 💬 2K • ⏱️ 27:38 • 2d ago
+👁️ 5K • 💬 1 • ⏱️ 13:19 • 2h ago
 
 ---
 
@@ -309,7 +309,7 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 65K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
+👁️ 66K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
 
 ---
 
@@ -319,7 +319,7 @@ Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, desp
 
 📺 The Bitchuation Room (with Francesca Fiorentini)
 
-👁️ 17K • 👍 2K • 💬 276 • ⏱️ 17:08 • 1d ago
+👁️ 17K • 👍 2K • 💬 276 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -329,7 +329,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 25K • 👍 795 • 💬 176 • ⏱️ 12:43 • 2d ago
+👁️ 25K • 👍 799 • 💬 176 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -339,7 +339,27 @@ CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam 
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 285 • 💬 74 • ⏱️ 27:06 • 1d ago
+👁️ 6K • 👍 294 • 💬 74 • ⏱️ 27:06 • 1d ago
+
+---
+
+**[I Tested EVERY AI Video Generator in 2026. Here&#39;s the Best Ones.](https://www.youtube.com/watch?v=jYbdm6aKFas)**
+
+Use Every AI Video Model in OpenArt https://www.openart.ai/home/?ref=isa-26 In this video, I break down the AI video ...
+
+📺 Isa does AI
+
+👁️ 6K • 💬 1 • ⏱️ 16:20 • 3h ago
+
+---
+
+**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
+
+Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
+
+📺 Axios
+
+👁️ 7K • 👍 173 • 💬 17 • ⏱️ 5:57 • 1d ago
 
 ---
 
@@ -349,7 +369,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 176K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
+👁️ 177K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -359,27 +379,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 122K • 👍 1K • 💬 182 • ⏱️ 21:00 • 1d ago
-
----
-
-**[AI will replace developers in 6 months. Again...](https://www.youtube.com/watch?v=ZV5Fx4qMDgA)**
-
-A quick review of the AI narative at Davos 2026. Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not ...
-
-📺 Awesome
-
-👁️ 34K • 👍 2K • 💬 477 • ⏱️ 8:03 • 1d ago
-
----
-
-**[Anthropic brings AI to finance](https://www.youtube.com/watch?v=vou4HnlfQPk)**
-
-CNBC's Deirdre Bosa reports on news regarding AI coding.
-
-📺 CNBC Television
-
-👁️ 54K • 👍 688 • 💬 77 • ⏱️ 2:40 • 22h ago
+👁️ 127K • 👍 1K • 💬 185 • ⏱️ 21:00 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,190 • 4d ago
+⬇️ 43,872 • ❤️ 1,206 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 618 • 2h ago
+⬇️ 76,679 • ❤️ 635 • 3h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 613 • 4d ago
+⬇️ 138,693 • ❤️ 619 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,259 • 7d ago
+⬇️ 532,168 • ❤️ 1,266 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 376 • 3h ago
+⬇️ 10,965 • ❤️ 453 • 4h ago
 
 ---
 
@@ -455,19 +455,19 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 376 • 6d ago
+⬇️ 19,899 • ❤️ 381 • 6d ago
 
 ---
 
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+**[DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2)**
 
-*Unsloth AI*
+*DeepSeek*
 
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, excelling at document understanding and OCR with dynamic resolution support for high-fidelity text extraction and conversion to formats like Markdown.
 
-`text-generation` `29.9B`
+`image-text-to-text` `3.4B`
 
-⬇️ 248,496 • ❤️ 351 • 3d ago
+⬇️ 0 • ❤️ 282 • 5h ago
 
 ---
 
@@ -483,15 +483,15 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 ---
 
-**[DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2)**
+**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
 
-*DeepSeek*
+*Unsloth AI*
 
-DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, excelling at document understanding and OCR with dynamic resolution support for high-fidelity text extraction and conversion to formats like Markdown.
+GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
 
-`image-text-to-text` `3.4B`
+`text-generation` `29.9B`
 
-⬇️ 0 • ❤️ 245 • 4h ago
+⬇️ 248,496 • ❤️ 353 • 3d ago
 
 ---
 
@@ -503,7 +503,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 243 • 4d ago
+⬇️ 3,444 • ❤️ 246 • 4d ago
 
 ---
 
@@ -519,7 +519,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 42 • 💬 1 • ⭐ 5,146 • 5d ago
+▲ 43 • 💬 1 • ⭐ 5,367 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -557,7 +557,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 38 • 💬 4 • ⭐ 2,119 • 12d ago
+▲ 38 • 💬 4 • ⭐ 2,166 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -569,7 +569,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 37 • 💬 3 • ⭐ 2,323 • 21d ago
+▲ 37 • 💬 3 • ⭐ 2,378 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -583,7 +583,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 178 • 💬 5 • ⭐ 670 • 9d ago
+▲ 178 • 💬 6 • ⭐ 670 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -596,9 +596,38 @@ Agentic reasoning redefines large language models as autonomous agents capable o
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 32 • 💬 1 • ⭐ 68,689 • 28mo ago
+▲ 32 • 💬 1 • ⭐ 68,746 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 136 • 💬 19 • ⭐ 51,215 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[iFSQ: Improving FSQ for Image Generation with 1 Line of Code](https://huggingface.co/papers/2601.17124)**
+
+*Bin Lin, Zongjian Li, Yuwei Niu et al. (12 authors)*
+
+🏢 Tencent Hunyuan
+
+Finite Scalar Quantization with improved activation mapping enables unified modeling of discrete and continuous image generation approaches, revealing optimal representation balance and performance characteristics.
+
+▲ 23 • 💬 1 • ⭐ 48 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.17124) • [💻 code](https://github.com/Tencent-Hunyuan/iFSQ)
 
 ---
 
@@ -622,36 +651,9 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,608 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,632 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 136 • 💬 19 • ⭐ 51,215 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 128 • 💬 6 • ⭐ 11,745 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -665,7 +667,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.9k • 🔱 597 • 9h ago
+⭐ 11.0k • 🔱 601 • 58m ago
 
 ---
 
@@ -685,7 +687,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 947 • 4d ago
+⭐ 8.1k • 🔱 950 • 4d ago
 
 ---
 
@@ -695,7 +697,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 5h ago
+⭐ 6.3k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -705,7 +707,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.1k • 🔱 6.6k • 1d ago
+⭐ 6.2k • 🔱 6.7k • 1h ago
 
 ---
 
@@ -715,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 526 • 12h ago
+⭐ 4.9k • 🔱 530 • 13h ago
 
 ---
 
@@ -725,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.2k • 🔱 965 • 5h ago
+⭐ 4.3k • 🔱 981 • 6h ago
 
 ---
 
@@ -733,7 +735,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.3k • 🔱 274 • 4d ago
+⭐ 3.3k • 🔱 276 • 4d ago
 
 ---
 
@@ -743,7 +745,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 355 • 4d ago
+⭐ 2.5k • 🔱 356 • 4d ago
 
 ---
 
