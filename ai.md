@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T13:50:21.761500+00:00'
+updated: '2026-01-27T14:31:56.432541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 13:50 UTC  
+**Last Updated:** January 27, 2026 at 14:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,18 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[African Software Developers Using AI to Fight Inequality](https://www.reddit.com/r/artificial/comments/1qod52h/african_software_developers_using_ai_to_fight/)**
+
+Determined to use her skills to fight inequality, South African computer scientist Raesetje Sefala set to work to build algorithms flagging poverty hotspots - developing datasets she hopes will help target aid, new housing or clinics. From crop analysis to medical diagnostics, artificial intelligence (AI) is already used in essential tasks worldwide, but Sefala and a growing number of fellow African developers are pioneering it to tackle their continent's particular challenges, writes Kim Harrisberg for Thomson Reuters Foundation.
+
+ 
+
+In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
+
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 1h ago
+
+---
+
 **[Meta blocks teens from AI chatbot characters over safety concerns](https://www.reddit.com/r/artificial/comments/1qnjd7l/meta_blocks_teens_from_ai_chatbot_characters_over/)**
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
@@ -49,7 +61,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +85,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 20h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 21h ago
 
 ---
 
@@ -89,7 +101,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 16h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 17h ago
 
 ---
 
@@ -97,7 +109,7 @@ Needless to say, a good enough brain emulation would be an artificial general in
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-21h ago
+22h ago
 
 ---
 
@@ -105,15 +117,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-15h ago
-
----
-
-**[OpenAI wants to be a scientific research partner](https://www.reddit.com/r/artificial/comments/1qnedls/openai_wants_to_be_a_scientific_research_partner/)**
-
-AI is increasingly being used as a research collaborator for mathematicians and scientists.
-
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 1d ago
+16h ago
 
 ---
 
@@ -121,47 +125,55 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 ## Google News: "ai"
 
+**[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
+
+Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
+
+The Guardian • 37m ago
+
+---
+
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Why AI won’t wipe out white-collar jobs](https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs)**
+**[Pinterest cuts nearly 15% jobs to redirect resources to AI](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
 
-The technology will expand their scope and raise their value
-
-The Economist • 17h ago
+Reuters • 1h ago
 
 ---
 
-**[Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds](https://www.cnbc.com/2026/01/27/apple-google-host-dozens-of-ai-nudify-apps-like-grok-report-finds.html)**
+**[Pinterest to Lay Off 15 Percent of Staff in Pivot to AI](https://www.hollywoodreporter.com/business/digital/pinterest-layoffs-ai-1236485995/)**
 
-A tech watchdog organization found 55 nudify apps on Google Play and 47 in the Apple App Store.
+The company said it is "reallocating resources to AI-focused roles and teams that drive AI adoption and execution."
 
-CNBC • 1h ago
-
----
-
-**[Exclusive: Vimi raises $12M seed for AI K-12 tutoring](https://www.axios.com/pro/all-deals/2026/01/27/vimi-12-million-ai-k-12-tutoring)**
-
-AI tutoring gains traction as ed-tech funding cools.
-
-Axios • 1h ago
+hollywoodreporter.com • 12m ago
 
 ---
 
-**[Musk Is Wrong About AI and Retirement: You Still Need to Save](https://www.bloomberg.com/opinion/articles/2026-01-27/musk-is-wrong-about-ai-and-retirement-you-still-need-to-save)**
+**[Pinterest to reduce workforce by less than 15% as company embraces AI](https://www.11alive.com/article/news/local/pinterest-to-reduce-workforce-as-company-embraces-ai/85-69b2849e-8dde-446d-9601-f4d941f585fd)**
 
-Bloomberg • 2h ago
+The company has an office in Atlanta at Ponce City Market. Right now, there are no details on whether this layout will directly impact the workers in that office.
+
+11alive.com • 22m ago
 
 ---
 
-**[‘Humanity needs to wake up’ to dangers of AI, says Anthropic chief](https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2)**
+**[Property Play: New AI tool from Fundrise brings high-level CRE analysis to the public](https://www.cnbc.com/2026/01/27/new-ai-tool-from-fundrise-brings-high-level-cre-analysis-to-the-public.html)**
 
-Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful AI in years to come
+Fundrise's co-founder and CEO, Ben Miller, says the new tool goes far beyond what more generalized AI, like ChatGPT, can offer.
 
-Financial Times • 15h ago
+CNBC • 31m ago
+
+---
+
+**[Microsoft and Richtech give retail and service robots an AI boost](https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html)**
+
+ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
+
+Stock Titan • 1h ago
 
 ---
 
@@ -169,31 +181,23 @@ Financial Times • 15h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 21h ago
+The Official Microsoft Blog • 22h ago
 
 ---
 
-**[Microsoft reveals second generation of its AI chip in effort to bolster cloud business](https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html)**
+**[In China, AI is no longer optional for some kids. It’s part of the curriculum](https://www.npr.org/2026/01/27/nx-s1-5683821/china-ai-schools-curriculum)**
 
-With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
+While debate rages in the U.S. about the merits and risks of AI in schools, it's become a state-mandated part of the curriculum in China, as the authorities try to create a pool of AI-savvy professionals.
 
-CNBC • 21h ago
-
----
-
-**[Microsoft announces powerful new chip for AI inference](https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/)**
-
-Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.
-
-TechCrunch • 21h ago
+NPR • 4h ago
 
 ---
 
-**[How animators and AI researchers made ‘Dear Upstairs Neighbors’](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/)**
+**[Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence](https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations)**
 
-Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.
+The Transportation Department, which oversees the safety of airplanes, cars and pipelines, plans to use Google Gemini to draft new regulations. “We don’t need the perfect rule,” said DOT’s top lawyer. “We want good enough.”
 
-blog.google • 19h ago
+ProPublica • 1d ago
 
 ---
 
@@ -203,7 +207,7 @@ blog.google • 19h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 768 • 💬 673 • 21h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 801 • 💬 696 • 22h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -211,7 +215,7 @@ blog.google • 19h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 593 • 💬 631 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 593 • 💬 633 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -219,7 +223,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 479 • 💬 569 • 23h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 516 • 💬 600 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -227,7 +231,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 391 • 💬 203 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 392 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -235,7 +239,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 375 • 💬 244 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 379 • 💬 245 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -243,7 +247,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 281 • 💬 190 • 22h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 298 • 💬 203 • 22h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -251,13 +255,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 221 • 💬 131 • 18h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 223 • 💬 132 • 19h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 200 • 💬 112 • 19h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 210 • 💬 125 • 20h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -271,7 +275,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 97 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 97 • 💬 21 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -335,7 +339,7 @@ CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam 
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 285 • 💬 74 • ⏱️ 27:06 • 22h ago
+👁️ 6K • 👍 285 • 💬 74 • ⏱️ 27:06 • 23h ago
 
 ---
 
@@ -355,7 +359,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 122K • 👍 1K • 💬 182 • ⏱️ 21:00 • 23h ago
+👁️ 122K • 👍 1K • 💬 182 • ⏱️ 21:00 • 1d ago
 
 ---
 
@@ -375,7 +379,7 @@ CNBC's Deirdre Bosa reports on news regarding AI coding.
 
 📺 CNBC Television
 
-👁️ 54K • 👍 688 • 💬 77 • ⏱️ 2:40 • 20h ago
+👁️ 54K • 👍 688 • 💬 77 • ⏱️ 2:40 • 21h ago
 
 ---
 
@@ -403,7 +407,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 618 • 37m ago
+⬇️ 76,679 • ❤️ 618 • 1h ago
 
 ---
 
@@ -439,7 +443,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 376 • 1h ago
+⬇️ 10,965 • ❤️ 376 • 2h ago
 
 ---
 
@@ -487,7 +491,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 245 • 2h ago
+⬇️ 0 • ❤️ 245 • 3h ago
 
 ---
 
@@ -579,7 +583,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 178 • 💬 5 • ⭐ 670 • 8d ago
+▲ 178 • 💬 5 • ⭐ 670 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -661,7 +665,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.9k • 🔱 597 • 7h ago
+⭐ 10.9k • 🔱 597 • 8h ago
 
 ---
 
@@ -691,7 +695,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 3h ago
+⭐ 6.3k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -721,7 +725,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.2k • 🔱 965 • 3h ago
+⭐ 4.2k • 🔱 965 • 4h ago
 
 ---
 
