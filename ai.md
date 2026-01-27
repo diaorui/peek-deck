@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T21:19:22.763198+00:00'
+updated: '2026-01-27T21:43:06.490042+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 21:19 UTC  
+**Last Updated:** January 27, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ OpenAI • 4h ago
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 1d ago
 
 Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers. He also wants to see transparency laws and heftier taxes on big AI companies.
 
-ABC News • 5m ago
+ABC News • 29m ago
 
 ---
 
@@ -161,7 +161,7 @@ ABC News • 5m ago
 
 Using a brand new data analysis tool, astronomers identified more than 800 strange and previously undocumented space objects.
 
-Gizmodo • 43m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Gizmodo • 43m ago
 
 There’s a growing gap between AI's potential and how companies actually use it.
 
-Fortune • 16m ago
+Fortune • 40m ago
 
 ---
 
@@ -177,13 +177,13 @@ Fortune • 16m ago
 
 When it comes to AI and the workforce, we should ask a simple question: are we making it easier or harder for someone to start tomorrow what doesn’t exist today?
 
-Cato Institute • 15m ago
+Cato Institute • 39m ago
 
 ---
 
 **[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -669,7 +669,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 605 • 5h ago
+⭐ 11.0k • 🔱 605 • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 530 • 1h ago
+⭐ 5.0k • 🔱 530 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 999 • 3h ago
+⭐ 4.3k • 🔱 999 • 4h ago
 
 ---
 
