@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T11:29:01.096644+00:00'
+updated: '2026-01-27T11:48:35.118305+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 11:29 UTC  
+**Last Updated:** January 27, 2026 at 11:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $350.97B
+**Market Cap:** $351.85B
 Rank #2
 
 **Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.2%
+-41.1%
 
 **All-Time Low:** $0.43
-+671406.0%
++673133.6%
 
 ---
 
@@ -88,7 +88,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-7h ago
+8h ago
 
 ---
 
@@ -112,7 +112,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 21h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 13h ago
 
 Ethereum is still down 40% from all-time high. Digital asset treasury firm Bitmine is buying the dip. Wall Street bets big on Ethereum for tokenisation.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 19h ago
 
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 645 • 👍 63 • 💬 2 • ⏱️ 4:04 • 5h ago
+👁️ 970 • 👍 73 • 💬 3 • ⏱️ 4:04 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 10K • 👍 369 • 💬 62 • ⏱️ 23:51 • 15h ago
+👁️ 11K • 👍 393 • 💬 66 • ⏱️ 23:51 • 15h ago
 
 ---
 
@@ -260,13 +260,13 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 ---
 
-**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
 
-📺 Ivan on Tech
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 182 • 2h ago
+👁️ 61K • 👍 3K • 💬 222 • ⏱️ 26:46 • 1d ago
 
 ---
 
@@ -276,17 +276,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 7 • ⏱️ 3:42 • 14h ago
+👁️ 2K • 👍 108 • 💬 7 • ⏱️ 3:42 • 15h ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+**[Ethereum Price Looks Ready to Pump to $4000! - BTC&amp;ETH Analysis](https://www.youtube.com/watch?v=NdrdF7oVENs)**
 
-Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
+Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter Data Platform: https://brighterdata.com ...
 
-📺 Benjamin Cowen
+📺 Trading Jip
 
-👁️ 60K • 👍 3K • 💬 222 • ⏱️ 26:46 • 1d ago
+👁️ 227 • 👍 25 • 💬 52 • ⏱️ 6:29 • 2h ago
+
+---
+
+**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 6K • 👍 607 • 💬 19 • ⏱️ 59:47 • 1h ago
 
 ---
 
@@ -296,7 +306,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 288 • 💬 98 • ⏱️ 20:33 • 15h ago
+👁️ 9K • 👍 300 • 💬 100 • ⏱️ 20:33 • 15h ago
 
 ---
 
@@ -306,27 +316,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 85 • 💬 40 • ⏱️ 17:46 • 1d ago
+👁️ 3K • 👍 86 • 💬 40 • ⏱️ 17:46 • 1d ago
 
 ---
 
-**[Why BlackRock CEO Thinks ETH is The FUTURE (BMNR RECAP)](https://www.youtube.com/watch?v=_jKWPZt3lYs)**
+**[Why BlackRock Is Betting on Ethereum (This Changes Everything)](https://www.youtube.com/watch?v=7CPq9AcLZjk)**
 
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+Ethereum isn't just another crypto — it's becoming Wall Street's settlement layer. In this video, we break down why BlackRock ...
 
-📺 Tevis
+📺 Gven Sariol | DeFi  | ARCrypto
 
-👁️ 26K • 👍 1K • 💬 229 • ⏱️ 29:47 • 2d ago
-
----
-
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=GHuKIq-EmnQ)**
-
-Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Ethereum Prediction 2026] My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 636 • 💬 93 • ⏱️ 14:27 • 1d ago
+👁️ 54 • 👍 13 • 💬 5 • ⏱️ 6:56 • 12h ago
 
 ---
 

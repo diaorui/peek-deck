@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T11:29:01.082303+00:00'
+updated: '2026-01-27T11:48:35.104061+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 11:29 UTC  
+**Last Updated:** January 27, 2026 at 11:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 13h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -245,7 +245,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 268 • 💬 184 • 19h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 268 • 💬 184 • 20h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -287,7 +287,7 @@ Thank you to Mint Mobile for partnering with us on this video! And for a limited
 
 📺 Visual Venture
 
-👁️ 397K • 👍 17K • 💬 2K • ⏱️ 27:38 • 2d ago
+👁️ 400K • 👍 18K • 💬 2K • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -297,7 +297,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 95K • 👍 1K • 💬 480 • ⏱️ 4:20 • 1d ago
+👁️ 99K • 👍 2K • 💬 501 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, desp
 
 📺 The Bitchuation Room (with Francesca Fiorentini)
 
-👁️ 16K • 👍 2K • 💬 272 • ⏱️ 17:08 • 1d ago
+👁️ 16K • 👍 2K • 💬 274 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -317,7 +317,17 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 251 • ⏱️ 12:27 • 2d ago
+👁️ 64K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
+
+---
+
+**[I Tested Every Major AI Video Subscription… Here’s the Best One](https://www.youtube.com/watch?v=FiDw4cqVppc)**
+
+Check out the official Curious Refuge Labs™ ranking here: https://curiousrefuge.com/best-ai-tools Here's a breakdown from the ...
+
+📺 Curious Refuge
+
+👁️ 7K • 👍 477 • 💬 99 • ⏱️ 22:18 • 15h ago
 
 ---
 
@@ -337,17 +347,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 173K • 👍 9K • 💬 1K • ⏱️ 12:43 • 1d ago
-
----
-
-**[Anthropic brings AI to finance](https://www.youtube.com/watch?v=vou4HnlfQPk)**
-
-CNBC's Deirdre Bosa reports on news regarding AI coding.
-
-📺 CNBC Television
-
-👁️ 48K • 👍 597 • 💬 75 • ⏱️ 2:40 • 18h ago
+👁️ 174K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -357,25 +357,25 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 112K • 👍 1K • 💬 177 • ⏱️ 21:00 • 20h ago
+👁️ 118K • 👍 1K • 💬 180 • ⏱️ 21:00 • 21h ago
 
 ---
 
-**[The AI Dystopia](https://www.youtube.com/watch?v=8tYx3kJNnhI)**
+**[Anthropic brings AI to finance](https://www.youtube.com/watch?v=vou4HnlfQPk)**
 
-📺 Candace Owens
+CNBC's Deirdre Bosa reports on news regarding AI coding.
 
-👁️ 328K • 👍 20K • 💬 1K • ⏱️ 0:57 • 1d ago
+📺 CNBC Television
+
+👁️ 51K • 👍 642 • 💬 76 • ⏱️ 2:40 • 18h ago
 
 ---
 
-**[Mr. Newberger&#39;s AI Funnies - CHANNEL TRAILER](https://www.youtube.com/watch?v=qBSwvlpPg5g)**
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=cPEEe8uMyR0)**
 
-It's 2026 and Mr. Newberger's AI Funnies needed a little Trailer overhaul.
+📺 Bob Reese
 
-📺 Mr. Newberger's AI Funnies
-
-👁️ 2K • 👍 422 • 💬 51 • ⏱️ 1:04 • 13h ago
+👁️ 1.3M • 👍 30K • 💬 450 • ⏱️ 0:19 • 19h ago
 
 ---
 
@@ -391,19 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,163 • 4d ago
-
----
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 532,168 • ❤️ 1,248 • 6d ago
+⬇️ 43,872 • ❤️ 1,175 • 4d ago
 
 ---
 
@@ -415,7 +403,19 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 609 • 5d ago
+⬇️ 76,679 • ❤️ 615 • 5d ago
+
+---
+
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 532,168 • ❤️ 1,251 • 6d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 597 • 4d ago
+⬇️ 138,693 • ❤️ 603 • 4d ago
 
 ---
 
@@ -439,7 +439,19 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 367 • 6d ago
+⬇️ 19,899 • ❤️ 373 • 6d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. Its key capabilities include generating code from visual inputs and orchestrating an agent swarm for complex task decomposition and parallel execution.
+
+`image-text-to-text`
+
+⬇️ 10,965 • ❤️ 314 • 4h ago
 
 ---
 
@@ -451,7 +463,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 248,496 • ❤️ 349 • 3d ago
+⬇️ 248,496 • ❤️ 351 • 3d ago
 
 ---
 
@@ -463,7 +475,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 960 • ❤️ 269 • 1d ago
+⬇️ 960 • ❤️ 270 • 1d ago
 
 ---
 
@@ -479,18 +491,6 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 ---
 
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. Its key capabilities include generating code from visual inputs and orchestrating an agent swarm for complex task decomposition and parallel execution.
-
-`image-text-to-text`
-
-⬇️ 10,965 • ❤️ 253 • 4h ago
-
----
-
 **[sweep-next-edit-1.5B](https://huggingface.co/sweepai/sweep-next-edit-1.5B)**
 
 *Sweep AI*
@@ -499,7 +499,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 241 • 4d ago
+⬇️ 3,444 • ❤️ 243 • 4d ago
 
 ---
 
@@ -515,7 +515,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 40 • 💬 1 • ⭐ 5,146 • 5d ago
+▲ 41 • 💬 1 • ⭐ 5,146 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -541,7 +541,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 143 • 💬 6 • ⭐ 22,312 • 5mo ago
+▲ 143 • 💬 6 • ⭐ 22,382 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -579,7 +579,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 177 • 💬 5 • ⭐ 610 • 8d ago
+▲ 178 • 💬 5 • ⭐ 610 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -661,7 +661,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.9k • 🔱 596 • 5h ago
+⭐ 10.9k • 🔱 597 • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.3k • 🔱 492 • 1d ago
+⭐ 9.4k • 🔱 492 • 1d ago
 
 ---
 
@@ -681,7 +681,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 944 • 4d ago
+⭐ 8.1k • 🔱 946 • 4d ago
 
 ---
 
@@ -691,7 +691,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 3h ago
+⭐ 6.3k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.0k • 🔱 6.5k • 22h ago
+⭐ 6.1k • 🔱 6.6k • 22h ago
 
 ---
 
@@ -711,7 +711,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 523 • 8h ago
+⭐ 4.9k • 🔱 524 • 9h ago
 
 ---
 
@@ -721,7 +721,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.1k • 🔱 945 • 1h ago
+⭐ 4.1k • 🔱 954 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.2k • 🔱 270 • 4d ago
+⭐ 3.3k • 🔱 273 • 4d ago
 
 ---
 
@@ -739,7 +739,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 354 • 4d ago
+⭐ 2.5k • 🔱 355 • 4d ago
 
 ---
 
@@ -749,7 +749,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 1.8k • 🔱 49 • 1d ago
+⭐ 1.8k • 🔱 50 • 1d ago
 
 ---
 

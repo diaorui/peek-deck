@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T11:29:01.090656+00:00'
+updated: '2026-01-27T11:48:35.112375+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 11:29 UTC  
+**Last Updated:** January 27, 2026 at 11:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.19B
+**Market Cap:** $1756.93B
 Rank #1
 
 **Circulating Supply:** 19,981,015 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129448.7%
++129546.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ Since i’m super young 21M and this is the only time i can risk everything for 
 
 **[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 13h ago
 
 MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 13h ago
 
 Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 3 • 💬 2 • 21h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 22h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -308,23 +308,33 @@ Detects when your fingers are near your mouth and reminds you to stop. Built wit
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 224 • ⏱️ 8:05 • 11h ago
-
----
-
 **[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
 
 In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 1K • 💬 55 • ⏱️ 17:45 • 13h ago
+👁️ 33K • 👍 2K • 💬 55 • ⏱️ 17:45 • 13h ago
+
+---
+
+**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 25K • 👍 1K • 💬 245 • ⏱️ 8:05 • 11h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=ILcql24_bJQ)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Chard The Tech Guy
+
+👁️ 4K • 👍 4K • 58m ago
 
 ---
 
@@ -334,37 +344,17 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 266 • 💬 3 • ⏱️ 18:13 • 12h ago
+👁️ 6K • 👍 287 • 💬 4 • ⏱️ 18:13 • 12h ago
 
 ---
 
-**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
+**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
 
-IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
+Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
 
-📺 CryptoWendyO
+📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 46 • ⏱️ 3:19 • 13h ago
-
----
-
-**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 556 • ⏱️ 9:12 • 1d ago
-
----
-
-**[🚨BITCOIN IS ABOUT TO PUMP!… And Most People Will Miss It](https://www.youtube.com/watch?v=FXVTIXykddc)**
-
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
-
-📺 DataDash
-
-👁️ 4K • 👍 264 • 💬 15 • ⏱️ 12:54 • 18h ago
+👁️ 22K • 👍 2K • 💬 141 • ⏱️ 18:47 • 11h ago
 
 ---
 
@@ -374,37 +364,47 @@ In today's video Kyledoops shows a repeat pattern that shows what is next for Bi
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 635 • 💬 10 • ⏱️ 31:36 • 3h ago
+👁️ 9K • 👍 868 • 💬 11 • ⏱️ 31:36 • 3h ago
 
 ---
 
-**[Gold Rips to $5000: Why That&#39;s Extremely BULLISH for Bitcoin!](https://www.youtube.com/watch?v=HE3sPTb9CCE)**
+**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
 
-Gold is surging to historic highs, and many are using it to dunk on Bitcoin. That misses the point. In this clip from Swan Signal Live, ...
+IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
 
-📺 Swan Bitcoin
+📺 CryptoWendyO
 
-👁️ 6K • 👍 237 • 💬 55 • ⏱️ 14:20 • 17h ago
-
----
-
-**[Smart Money Is Loading Up On Bitcoin, Gold and Silver](https://www.youtube.com/watch?v=CUMkGGPTWp8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 19h ago
+👁️ 26K • 👍 1K • 💬 152 • ⏱️ 3:19 • 13h ago
 
 ---
 
-**[The Ugly Truth About Bitcoin.](https://www.youtube.com/watch?v=yfGSax8PGwo)**
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
 
-Ran critically analyses and questions a long standing Bitcoin narrative as its structural collapse worsens compared to the ...
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
 
-📺 Crypto Banter
+📺 Fox Business Clips
 
-👁️ 29K • 👍 2K • 💬 84 • ⏱️ 31:42 • 20h ago
+👁️ 44K • 👍 642 • 💬 446 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[BITCOIN CRASHING - HERE IS WHY](https://www.youtube.com/watch?v=t37Jrhqdgn8)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 554 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[🚨BITCOIN IS ABOUT TO PUMP!… And Most People Will Miss It](https://www.youtube.com/watch?v=FXVTIXykddc)**
+
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+
+📺 DataDash
+
+👁️ 4K • 👍 276 • 💬 21 • ⏱️ 12:54 • 19h ago
 
 ---
 

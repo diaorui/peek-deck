@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T11:29:01.099823+00:00'
+updated: '2026-01-27T11:48:35.121513+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 11:29 UTC  
+**Last Updated:** January 27, 2026 at 11:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-4h ago
+5h ago
 
 ---
 
@@ -60,13 +60,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
 
-4h ago
+5h ago
 
 ---
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ thespoon.tech • 16h ago
 
 The Ohio Controlling Board has approved a $341,075 for security system enhancements and robotics equipment at Lakeland Community College. Of the funding, $197,741 comes from the Campus Safety Grant…
 
-news-herald.com • 12h ago
+news-herald.com • 13h ago
 
 ---
 
@@ -188,7 +188,7 @@ Financial Times • 2d ago
 
 The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
-bgr.com • 23h ago
+bgr.com • 1d ago
 
 ---
 
@@ -202,27 +202,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 155K • 💬 94 • ⏱️ 0:18 • 1d ago
-
----
-
-**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
-
-We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
-
-📺 Future Robot Lab
-
-👁️ 3K • 👍 50 • 💬 10 • ⏱️ 9:38 • 22h ago
-
----
-
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
-
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
-
-📺 EcoZora
-
-👁️ 275K • 👍 1K • 💬 139 • ⏱️ 0:07 • 1d ago
+👁️ 166K • 💬 98 • ⏱️ 0:18 • 1d ago
 
 ---
 
@@ -236,13 +216,41 @@ In a dying, dust-choked future ☀️🌪️, humans survive behind factories an
 
 ---
 
-**[War Robots - New Flying Robot Anaksor Has Invisibility!](https://www.youtube.com/watch?v=kyaC8wvpzIU)**
+**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
 
-War Robots - New flying robot Anaksor on this week's Test Server has the invisibility ability similar to that of Kaji. WR Anaksor ...
+We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
 
-📺 Adrian Chong
+📺 Future Robot Lab
 
-👁️ 3K • 👍 191 • 💬 52 • ⏱️ 20:24 • 21h ago
+👁️ 3K • 👍 56 • 💬 12 • ⏱️ 9:38 • 22h ago
+
+---
+
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+
+📺 MarketBeat
+
+👁️ 114K • 👍 3K • 💬 169 • ⏱️ 17:39 • 3d ago
+
+---
+
+**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+
+📺 Bernie Sanders
+
+👁️ 27K • 👍 3K • 💬 122 • ⏱️ 1:13 • 4d ago
+
+---
+
+**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+
+The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+
+📺 EcoZora
+
+👁️ 287K • 👍 1K • 💬 143 • ⏱️ 0:07 • 1d ago
 
 ---
 
@@ -256,41 +264,31 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 ---
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 113K • 👍 3K • 💬 169 • ⏱️ 17:39 • 3d ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 82 • 💬 71 • ⏱️ 2:47 • 4d ago
-
----
-
-**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
-
-Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
-
-📺 CapyEscapes
-
-👁️ 7K • 👍 414 • 💬 12 • ⏱️ 0:55 • 23h ago
-
----
-
 **[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
 
 📺 Romi Pal
 
-👁️ 260K • 👍 6K • 💬 31 • ⏱️ 0:17 • 3d ago
+👁️ 261K • 👍 6K • 💬 31 • ⏱️ 0:17 • 3d ago
+
+---
+
+**[War Robots - New Flying Robot Anaksor Has Invisibility!](https://www.youtube.com/watch?v=kyaC8wvpzIU)**
+
+War Robots - New flying robot Anaksor on this week's Test Server has the invisibility ability similar to that of Kaji. WR Anaksor ...
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 192 • 💬 52 • ⏱️ 20:24 • 21h ago
+
+---
+
+**[Elon Musk’s Optimus 3 Humanoid Robot Bombshell (AI NEWS)](https://www.youtube.com/watch?v=G4FnWQ-XElM)**
+
+Elon Musk just revealed what to expect from Tesla Optimus humanoid robots, including complex factory tasks by end of 2026, and ...
+
+📺 AI News
+
+👁️ 10K • 👍 125 • 💬 60 • ⏱️ 8:03 • 4d ago
 
 ---
 
